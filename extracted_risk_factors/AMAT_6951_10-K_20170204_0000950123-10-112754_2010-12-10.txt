@@ -1,0 +1,6389 @@
+Item 1A, which is incorporated
+    herein by reference.
+
+
+ 
+
+
+
+    Silicon
+    Systems Group Segment
+
+
+ 
+
+
+    Applied’s Silicon Systems Group segment develops,
+    manufactures and sells a wide range of manufacturing equipment
+    used to fabricate semiconductor chips, also referred to as
+    integrated circuits (ICs). Most chips are built on a silicon
+    wafer base and include a variety of circuit components, such as
+    transistors and other devices, that are connected by multiple
+    layers of wiring (interconnects). Applied offers systems that
+    perform most of the primary processes used in chip fabrication
+    including atomic layer deposition (ALD), chemical vapor
+    deposition (CVD), physical vapor deposition (PVD),
+    electrochemical deposition (ECD) etch, rapid thermal processing
+    (RTP), chemical mechanical planarization (CMP), wet cleaning and
+    wafer metrology and inspection, as well as systems that etch,
+    measure and inspect circuit patterns on masks used in the
+    photolithography process. Applied’s semiconductor
+    manufacturing systems are used by integrated device
+    manufacturers and foundries to build and package memory, logic
+    and other types of chips.
+
+
+ 
+
+
+    Most chips currently are fabricated using 65 nanometer (nm) and
+    larger linewidth dimensions, although Applied is also working
+    with customers on leading-edge technology for advanced nodes
+    using 45nm, 32nm and smaller dimensions. To build a chip, the
+    transistors, capacitors and other circuit components are first
+    created on the surface of the wafer by performing a series of
+    processes to deposit and selectively remove portions of
+    successive film layers. Similar processes are then used to build
+    the layers of wiring structures on the wafer. As the density of
+    the circuit components increases to enable greater computing
+    capability in the same or smaller physical area, the complexity
+    of building the chip also increases, necessitating more process
+    steps to form smaller structures and more intricate wiring
+    schemes. A typical, simplified process sequence for building the
+    wiring or interconnect portion of a chip involves initially
+    depositing a dielectric film layer onto the base layer of
+    circuit components using a CVD system. An etch system is then
+    used to create openings and patterns in the dielectric layer. To
+    form the metal interconnects, these openings and patterns are
+    subsequently filled with conducting material using PVD and ECD
+    technologies. A CMP step then polishes the wafer to achieve a
+    flat surface. Additional deposition, etch and CMP steps are then
+    performed to build up the layers needed to complete the
+    interconnection of the circuit elements. Advanced chip designs
+    require more than 500 steps involving these and other processes
+    to complete the manufacturing cycle.
+
+
+ 
+
+
+    While some device manufacturers are still using aluminum as the
+    main conducting material for building interconnect structures,
+    most have transitioned to copper. Copper has lower resistance
+    than aluminum and can carry more current in a smaller area.
+    Applied is the leading supplier of systems for manufacturing
+    copper-based chips, including equipment for depositing, etching
+    and planarizing copper interconnect layers. Complementing the
+    transition to copper to improve chip speed is the use of low
+    dielectric constant (low k) films to replace silicon
+
+
+
+
+
+    
+    1
+
+
+
+Table of Contents
+
+
+
+
+
+    dioxide material as the insulator between the copper wiring
+    structures. Applied also leads the industry in providing systems
+    for depositing low k dielectric films.
+
+
+ 
+
+
+    The transistor is another key area of the chip where
+    semiconductor manufacturers are improving their device designs
+    to enhance speed. Applied has the industry’s largest
+    portfolio of technically advanced products for building smaller
+    and faster transistors. One method of enhancing chip performance
+    is strain engineering, a technique that stretches or compresses
+    the space between atoms, allowing electrical current to flow
+    more quickly. Multiple strain films are typically used in
+    advanced devices since they have an additive effect on
+    increasing transistor speed. Applied has a comprehensive
+    portfolio of systems to enable these applications using CVD and
+    epitaxial deposition technologies.
+
+
+ 
+
+
+    Major chipmakers have announced that they will be integrating
+    new high dielectric constant (high-k) and metal materials and
+    processes in their transistor gate structures to increase chip
+    performance and reduce power consumption. Applied has a
+    comprehensive portfolio of fully characterized processes for
+    building these
+    high-k/metal
+    gates. These solutions include an integrated dielectric gate
+    stack tool that combines four critical processes in a single
+    system, a portfolio of metallization technologies using ALD and
+    PVD, and an innovative high temperature etch system.
+
+
+ 
+
+
+    As new consumer products demand higher performance in a smaller
+    space, a new type of chip packaging is emerging, known as
+    three-dimensional (3D) ICs. Providing greater functionality in a
+    smaller footprint, 3DICs stack multiple chips together and
+    electrically interconnect them using deep holes, called
+    through-silicon via (TSV) structures. In fiscal 2010, Applied
+    acquired Semitool, Inc., a leading supplier of ECD and wafer
+    surface preparation equipment used by chip packaging companies.
+    Applied now has the industry’s most comprehensive line of
+    production-proven systems and processes required for the
+    majority of advanced packaging manufacturing steps, including
+    etch, CVD, PVD, ECD, wafer cleaning and CMP systems. Applied is
+    leading efforts to enable the adoption of packaging technology,
+    working with consortiums and other equipment suppliers to lower
+    customers’ implementation costs.
+
+
+ 
+
+
+    Most of Applied’s semiconductor equipment products are
+    single-wafer systems with multiple process chambers attached to
+    a base platform. This enables each wafer to be processed
+    separately in its own environment, allowing precise process
+    control, while the system’s multiple chambers enable
+    simultaneous, high productivity manufacturing. Applied sells
+    most of its single-wafer, multi-chamber systems on four basic
+    platforms: the
+    Centura®,
+
+    the
+    Endura®,
+
+    the
+    Producer®
+
+    and the
+    Vantage®.
+
+    These platforms support ALD, CVD, PVD, etch and RTP technologies.
+
+
+ 
+
+
+    Over time, the semiconductor industry has migrated to
+    increasingly larger wafers to build chips. The predominant or
+    common wafer size used today for volume production of advanced
+    chips is 300 millimeter (mm), or
+    12-inch,
+    wafers. Applied offers a comprehensive range of 300mm systems.
+    Applied also offers earlier-generation 200mm systems, as well as
+    products and services to support all of its systems, which are
+    reported under its Applied Global Services segment.
+
+
+ 
+
+
+    The following summarizes Applied’s portfolio of products
+    and their associated process technology areas reported under its
+    Silicon Systems Group segment.
+
+
+ 
+
+
+
+    Deposition
+
+
+ 
+
+
+    Deposition is a fundamental step in fabricating a chip. During
+    deposition, layers of dielectric (an insulator), barrier, or
+    electrically conductive (typically metal) films are deposited or
+    grown on a wafer. Applied currently provides equipment to
+    perform four types of deposition: ALD, CVD, ECD and PVD. In
+    addition, Applied’s RTP systems can be used to perform
+    certain types of dielectric deposition.
+
+
+ 
+
+
+
+    Atomic
+    Layer Deposition
+
+
+ 
+
+
+    ALD is an advanced technology in which atoms are deposited one
+    layer at a time to build chip structures. This technology
+    enables customers to fabricate thin films of either conducting
+    or insulating material with uniform coverage in
+    sub-nanometer
+    sized structures. Applied offers ALD chambers for depositing
+    tungsten and high-k/metal gate films. In 2010, the Company
+    introduced its Applied Endura iLB PVD/ALD system, an advancement
+    in ALD technology that
+
+
+
+
+
+    
+    2
+
+
+
+Table of Contents
+
+
+
+
+
+    enables customers to shrink the contact structures to increase
+    signal speeds in 22nm and beyond logic and memory devices.
+
+
+ 
+
+
+
+    Chemical
+    Vapor Deposition
+
+
+ 
+
+
+    CVD is used to deposit dielectric and metal films on a wafer.
+    During the CVD process, gases that contain atoms of the material
+    to be deposited react on the wafer surface, forming a thin film
+    of solid material. Films deposited by CVD may be silicon oxide,
+    single-crystal epitaxial silicon, amorphous silicon, silicon
+    nitride, dielectric anti-reflective coatings, low k dielectric
+    (for highly efficient insulating materials), aluminum, titanium,
+    titanium nitride, polysilicon, tungsten, refractory metals or
+    silicides. Applied offers the following CVD products and
+    technologies:
+
+
+ 
+
+
+    The Applied Producer CVD platform — This
+    high-throughput platform features
+    Twin-Chamber®
+
+    modules that have two single-wafer process chambers per unit. Up
+    to three Twin-Chamber modules can be mounted on each Producer
+    platform, giving it a simultaneous processing capacity of six
+    wafers. Many dielectric CVD processes can be performed on this
+    platform. The highest productivity model of this system is the
+    Applied Producer GT, which has achieved rapid customer
+    acceptance due to its fast wafer handling performance and
+    compact design.
+
+
+ 
+
+
+    Low k Dielectric Films — Low k dielectric
+    materials are used in copper-based chip designs to further
+    improve interconnect speed. Using conventional CVD equipment,
+    the Applied Producer Black
+    Diamond®
+
+    family of low k systems provides customers with a proven,
+    cost-effective way to integrate a variety of low k films into
+    advanced interconnect structures. To further increase the
+    performance of the complete multi-layer dielectric structure,
+    Applied offers a line of
+    BLOKtm
+
+    (barrier low k) films deposited with the Producer system.
+
+
+ 
+
+
+    Lithography-Enabling Solutions — Applied offers
+    several technologies on the Producer system to help chipmakers
+    extend their current 193nm lithography tools, including a line
+    of Applied
+    APF®
+
+    (advanced patterning film) films and Applied
+    DARC®
+
+    (dielectric anti-reflective coating) films. Together, they
+    provide a film stack with the precise dimensional control and
+    compatibility needed to cost-effectively pattern nano-scale
+    features without additional integration complexity.
+
+
+ 
+
+
+    Gap Fill Films — There are many steps during
+    the chipmaking process in which very small and deep, or high
+    aspect ratio (HAR), structures must be filled void-free with a
+    dielectric film. Many of these applications include the
+    deposition of silicon oxides in substrate isolation structures,
+    contacts and interconnects. The Applied Centura Ultima
+    HDP-CVD®
+
+    (high-density plasma CVD) and Applied Producer
+    HARPtm
+
+    (high aspect ratio process) systems have been workhorses for the
+    industry, enabling customers to scale their devices to the 32nm
+    node. In 2010, the Company introduced its breakthrough Applied
+    Producer
+    Eternatm
+
+    FCVD system. Targeted for 20nm and below chips, the Eterna
+    system delivers a liquid-like film that flows freely into
+    virtually any structure to provide void-free dielectric fill.
+
+
+ 
+
+
+    Strain Engineering Solutions — The Applied
+    Producer HARP system also plays a key role in enhancing
+    transistor performance, enabling chipmakers to boost chip speed
+    by depositing strain-inducing dielectric films. Offering the
+    industry’s first integrated stress nitride deposition and
+    ultraviolet (UV) cure solution, the Applied Producer Celera CVD
+    delivers benchmark levels of high-stress tensile silicon nitride
+    films. The Company also offers the Applied Centura SiNgenPlus
+    low pressure CVD system for low temperature silicon nitride
+    films. Used together, and in conjunction with silicon germanium
+    (SiGe) films using Applied’s epitaxial deposition
+    technologies, these systems can provide additive strain
+    engineering benefits.
+
+
+ 
+
+
+    Through-Silicon Via Films — In 2010, Applied
+    expanded its offerings for TSV fabrication, with two new CVD
+    systems. The Applied Producer
+    InViatm
+
+    system uses a unique process to deposit the critical oxide liner
+    film layer in HAR TSV structures, enabling robust electrical
+    isolation of the TSV, which is vital for reliable device
+    performance. For applications where higher temperatures can
+    damage the manufacturing process, the Applied Producer
+    Avilatm
+
+    CVD system allows high quality dielectric film deposition at
+    stable substrate temperatures at a low cost of ownership.
+
+
+ 
+
+
+    Epitaxial Deposition — Epitaxial silicon
+    (epitaxy or epi) is a layer of pure silicon grown in a uniform
+    crystalline structure on the wafer to form a high quality base
+    for the device circuitry. Epi technology is used in an
+    increasing number of integrated circuit devices in both the
+    wafer substrate and transistor areas of a chip to
+
+
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+    enhance speed. The Applied Centura Epi system integrates pre-
+    and post-epi processes on the same system to improve film
+    quality and reduce production costs. This system is also used
+    for SiGe epi technology, which reduces power usage and increases
+    speed in certain types of advanced chips. For emerging
+    transistor designs, the Applied Centura RP Epi system offers
+    selective epi processes to enable faster transistor switching
+    through strain engineering techniques.
+
+
+ 
+
+
+    Polysilicon Deposition — Polysilicon is a type
+    of silicon used to form portions of the transistor structure
+    within the integrated circuit device. The Applied Centura
+    Polygentm
+
+    LPCVD system is a single-wafer, multi-chamber product that
+    deposits thin polysilicon films at high temperatures to create
+    transistor gate structures. To address the challenging
+    requirements of shrinking gate dimensions, the Applied Centura
+    DPN Gate Stack system integrates chambers for decoupled plasma
+    nitridation (DPN), RTP anneal and polysilicon deposition on one
+    platform to enable superior film quality and material properties.
+
+
+ 
+
+
+    Tungsten Deposition — Tungsten is used in the
+    contact area of a chip that connects the transistors to the
+    wiring circuitry. In aluminum-based devices, tungsten is also
+    used in the structures that connect the multiple layers of
+    aluminum wiring. Applied has two products for depositing
+    tungsten: the Applied Centura
+    Sprint®
+
+    Tungsten CVD system for 90nm and below devices and the Applied
+    Centura iSprint ALD/CVD system for more advanced applications.
+    The latter product combines ALD technology and CVD chambers on
+    the same platform.
+
+
+ 
+
+
+
+    Electrochemical
+    Deposition
+
+
+ 
+
+
+    Electrochemical deposition is a process by which metal atoms
+    from a chemical fluid (an electrolyte) are deposited on the
+    surface of an immersed object. Its main application in the
+    semiconductor industry is to deposit copper in interconnect
+    wiring structures. This process step follows the deposition of
+    barrier and seed layers which prevent the copper from
+    contaminating other areas of the device and improve the adhesion
+    of the copper filmenable electrodeposition to occur. As a result
+    of Applied’s acquisition of Semitool, the Company offers
+    two ECD systems: the Applied Raider ECD for electroplating
+    advanced chip interconnect structures, and the Applied Raider S
+    ECD for advanced TSV packaging applications.
+
+
+ 
+
+
+
+    Physical
+    Vapor Deposition
+
+
+ 
+
+
+    PVD is a physical process in which atoms of a gas, such as
+    argon, are accelerated toward a metal target. The metal atoms
+    chip off, or sputter away, and are then deposited on the wafer.
+    The Applied Endura PVD system offers a broad range of advanced
+    metal deposition processes, including aluminum, aluminum alloys,
+    cobalt,
+    titanium/titanium
+    nitride, tantalum/tantalum nitride, tungsten/tungsten nitride,
+    nickel, vanadium and copper. In 2010, Applied celebrated the
+    20th year of its Applied Endura platform, the most successful
+    metal deposition system in the history of the semiconductor
+    industry.
+
+
+ 
+
+
+    The Applied Endura CuBS (copper barrier/seed) PVD system is
+    widely used by customers for fabricating copper-based chips.
+    Using PVD technology, the system deposits a tantalum-based
+    barrier film that prevents copper material from entering other
+    areas of the device and then a copper seed layer that primes the
+    structure for the subsequent deposition of bulk copper. The
+    Applied Endura CuBS RFX PVD system extends cost-effective CuBS
+    technology to the 22nm node. In 2010, Applied introduced two new
+    PVD systems for creating the leading-edge chips needed for the
+    next generation of smart devices. The Applied Endura
+    Avenirtm
+
+    RF PVD system sequentially deposits the multiple metal film
+    layers that form the heart of the industry’s new, faster,
+    metal gate transistors. The Applied Endura iLB PVD/ALD system
+    advances the
+    state-of-the-art
+    in ALD technology, enabling customers to shrink their
+    speed-critical contact structures for 20nm and below devices.
+
+
+ 
+
+
+    Applied’s Endura system has also been used for many years
+    in back-end applications to deposit metal layers before final
+    bump or wire bonding packaging steps are performed. The Applied
+    Chargertm
+
+    UBM PVD system, which is specifically designed for under-bump
+    metallization (UBM) and other back-end processes, features
+    linear architecture for reliable performance and very high
+    productivity at a low cost per wafer.
+
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Etch
+
+
+ 
+
+
+    Etching is used many times throughout the integrated circuit
+    manufacturing process to selectively remove material from the
+    surface of a wafer. Before etching begins, the wafer is coated
+    with a light-sensitive film, called photoresist. A
+    photolithography process then projects the circuit pattern onto
+    the wafer. Etching removes material only from areas dictated by
+    the photoresist pattern. Applied offers a wide range of systems
+    for etching dielectric, metal and silicon films to meet the
+    requirements of
+    sub-100nm
+    processing.
+
+
+ 
+
+
+    Applied’s Producer Etch system utilizes the Company’s
+    Twin-Chamber Producer platform to target cost-sensitive
+    dielectric etch applications. To address advanced dielectric
+    etch applications, the Applied Centura
+    Enabler®
+
+    E5 Etch system enables customers to create the 40:1 HAR contact
+    features that are critical to the yield and performance of 32nm
+    and below DRAM and Flash memory chips. The Applied Centura
+    Carinatm
+
+    system uses innovative, high-temperature technology to deliver
+    the etch capability essential for scaling logic and memory
+    devices with high-k/metal gates at 45nm and below.
+
+
+ 
+
+
+    In 2010, the Company introduced its Applied Centura
+    AdvantEdgetm
+
+    Mesatm
+
+    silicon etch system for fabricating nano-scale circuit features
+    with angstrom-level precision. The system has achieved strong
+    acceptance by customers, providing the critical technical
+    capability needed for their next-generation devices. The Applied
+    Centura
+    Marianatm
+
+    Trench Etch system provides customers with the capability to
+    scale DRAM capacitors by enabling the etching of 80:1 aspect
+    ratio structures. The Applied Centura
+    Silviatm
+
+    system is specifically designed for etching small, deep holes
+    for TSV applications in 3D-ICs. For etching metals, the Applied
+    Opustm
+
+    AdvantEdge Metal Etch uses an optimized 5-chamber platform
+    configuration that enables customers to extend aluminum
+    interconnect technology and productivity for flash and DRAM
+    memory applications.
+
+
+ 
+
+
+
+    Rapid
+    Thermal Processing
+
+
+ 
+
+
+    RTP is a process in which a wafer is subjected to rapid bursts
+    of intense heat that can take the wafer from room temperature to
+    more than 1,000 degrees Celsius in less than 10 seconds. A rapid
+    thermal process is used mainly for annealing, which modifies the
+    properties of deposited films. The Applied Centura
+    Radiance®Plus
+
+    and Applied Vantage
+    RadOxtm
+
+    RTP systems feature advanced RTP technology with differing
+    platform designs. While the multi-chamber Centura platform
+    offers exceptional process flexibility, the streamlined
+    two-chamber Vantage platform is designed for dedicated
+    high-volume manufacturing. These single-wafer RTP systems are
+    also used for growing high quality oxide and oxynitride films,
+    deposition steps that traditional large batch furnaces can no
+    longer achieve with the necessary precision and control. With
+    its proprietary radical-based oxidation process, the Applied
+    Vantage RadOx system deposits high-performance transistor gate
+    oxides with high productivity and low operating cost for flash
+    memory applications. In 2010, the Company introduced its
+    laser-based Applied Vantage
+    Astratm
+
+    millisecond anneal system for creating the sensitive nickel
+    silicide transistor contact layers, enabling faster, lower
+    power-consumption logic chips.
+
+
+ 
+
+
+
+    Chemical
+    Mechanical Planarization
+
+
+ 
+
+
+    The CMP process removes material from a wafer to create a flat
+    (planarized) surface. This process allows subsequent
+    photolithography patterning steps to occur with greater accuracy
+    and enables film layers to build with minimal height variations.
+    Applied has led the industry with its 300mm Applied
+    Reflexion®
+
+    LK system, with features such as integrated cleaning, film
+    measurement and process control capabilities. In 2010, Applied
+    introduced its Applied Reflexion GT CMP system, an innovative
+    dual-wafer design that increases performance while lowering
+    system cost of ownership in fabricating copper interconnects.
+
+
+ 
+
+
+
+    Surface
+    Preparation
+
+
+ 
+
+
+    Cleaning the surface of the wafer is critical to the adhesion
+    and quality of films that are subsequently deposited in the chip
+    fabrication process. Through its acquisition of Semitool,
+    Applied offers several surface preparation systems. The Applied
+    Raider SP can incorporate several types of cleaning methods,
+    including spray, vapor, immersion, megasonics and anneal
+    technologies with automated single or dual-side wafer processing
+    for high volume manufacturing.
+
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Metrology
+    and Wafer Inspection
+
+
+ 
+
+
+    Applied offers several products for measuring features and
+    inspecting defects on the wafer during various stages of the
+    fabrication process. These systems enable customers to
+    characterize and control critical dimension (CD) and defect
+    issues, especially at advanced generation technology nodes.
+
+
+ 
+
+
+
+    Critical
+    Dimension and Defect Review Scanning Electron Microscopes
+    (CD-SEMs and DR-SEMs)
+
+
+ 
+
+
+    Scanning electron microscopes (SEMs) use an electron beam to
+    form images of microscopic features of a patterned wafer at
+    extremely high magnification. Applied’s SEM products
+    provide customers with full automation, along with the high
+    accuracy and sensitivity needed for measuring very small CDs.
+    The Applied
+    VeritySEM®
+
+    metrology system uses proprietary SEM imaging technology to
+    enable precise control of the lithography and etching processes.
+    The VeritySEM measures CDs at a precision of less than 0.3nm, a
+    requirement for 32nm and below device production and
+    incorporates automation and software advancements for
+    significantly higher throughput. Applied’s OPC
+    Checktm
+
+    software for the VeritySEM system performs automated
+    qualification of OPC-based (optical proximity correction) chip
+    designs, significantly reducing mask (see Mask Making section
+    below) verification time over conventional manual methods.
+
+
+ 
+
+
+    DR-SEMs review defects on the wafer (such as particles,
+    scratches or residues) that are first located by a defect
+    detection system and then classify the defects to identify their
+    source. The high-throughput, fully automatic Applied
+    SEMVisiontm
+
+    Defect Analysis products enable customers to use this technology
+    as an integral part of their production lines to analyze defects
+    as small as 30nm with industry-leading throughput.
+
+
+ 
+
+
+
+    Wafer
+    Inspection
+
+
+ 
+
+
+    Using laser-based technology, defects can be detected on
+    patterned wafers (wafers with printed circuit images) as they
+    move between processing steps. Defects include particles, open
+    circuit lines, and shorts between lines. Incorporating key
+    advances in imaging technology, the Applied
+    ComPlustm
+
+    Inspection system, for darkfield applications, detects defects
+    in devices with advanced design rules with the high speed
+    required for customers’ volume production lines. The
+    Applied
+    UVision®
+
+    4 wafer Inspection system was introduced in 2010, enabling
+    customers to detect yield-limiting defects in the critical
+    patterning layers of 22nm and below logic and memory devices
+    using DUV laser-based imaging technology.
+
+
+ 
+
+
+
+    Mask
+    Making
+
+
+ 
+
+
+    Masks are used by photolithography systems to transfer
+    microscopic circuit designs onto wafers. Since an imperfection
+    in a mask may be replicated on the wafer, the mask must be
+    virtually defect-free. Applied provides systems for etching and
+    inspecting masks.
+
+
+ 
+
+
+    In 2010, the Company introduced its Applied Centura
+    Tetratm
+
+    X Advanced Reticle Etch system, an advanced etch tool for
+    fabricating leading-edge masks at 22nm and beyond.
+    Applied’s Tetra line of systems has been used by mask
+    makers worldwide to etch the majority of high-end masks over the
+    last five years. Applied also introduced the Applied
+    Aera3tm
+
+    Mask Inspection system which allows customers to meet the most
+    critical defect detection challenges of 22nm masks. Using
+    sophisticated aerial imaging technology, the Aera3 allows users
+    to immediately see how the pattern on the mask will appear on
+    the wafer, revealing only the defects most likely to print and
+    significantly reducing inspection time.
+
+
+ 
+
+
+
+    Applied
+    Global Services Segment
+
+
+ 
+
+
+    The Applied Global Services segment encompasses products and
+    services designed to improve the performance and productivity,
+    and reduce the environmental impact of the fab operations of
+    semiconductor, LCD and solar PV manufacturers. The in-depth
+    expertise and best known methods of Applied’s extensive
+    global support infrastructure enable Applied to continuously
+    support customers’ production requirements. Trained
+    customer engineers and process support engineers are deployed in
+    more than a dozen countries. These engineers are usually
+
+
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+
+    located at or near customers’ fab sites and service over
+    34,000 installed Applied systems, as well as non-Applied
+    systems. Applied offers the following general types of services
+    and products:
+
+
+ 
+
+
+    Fab Services — Applied offers a portfolio of
+    fab-wide operations services to maintain and optimize
+    customers’ fabrication facilities. Applied Performance
+    Services offers customers comprehensive equipment support with
+    performance-based pricing and predictable costs to enable
+    improved cost of ownership. Included in this program is
+    Applied’s ExpertConnect remote diagnostic capability,
+    providing expert support around the clock. The Company also
+    offers Performance Services for solar PV manufacturing. The
+    first service product of its kind for the solar industry, the
+    program enables customers to quickly ramp to volume production
+    while optimizing the performance, cost and output of their
+    manufacturing lines.
+
+
+ 
+
+
+    The Company also offers Performance Spares, which are spare
+    parts manufactured to Applied’s strict technical
+    specifications and quality standards. Applied’s Metron
+    Chamber Performance Services unit provides precision cleaning,
+    technology-enhanced coating and refurbishment on chamber process
+    kits and components. The unit also has extensive analytical
+    testing capabilities to validate and certify performance
+    specifications.
+
+
+ 
+
+
+    In addition, Applied offers a wide range of products and
+    services to extend the productive life of 200mm semiconductor
+    fabs, including new and remanufactured 200mm equipment, system
+    enhancements and fab transition services. Designed to maximize
+    productivity and lower cost of ownership, these products also
+    assist customers in implementing green manufacturing solutions.
+    Applied’s 200mm systems are available in a broad range of
+    production-proven technologies, including CVD, PVD, etch,
+    implant, RTP, CMP, epitaxy, metrology and inspection tools.
+
+
+ 
+
+
+    Automation Systems — Applied offers automated
+    factory-level and tool-level control software systems for
+    semiconductor, LCD and solar cell manufacturing facilities.
+    These enterprise solutions include manufacturing execution
+    systems (MES) to automate the production of wafers and LCD and
+    solar substrates, advanced process control systems, and
+    scheduling and materials handling control systems. In 2010, the
+    Company introduced its Applied
+    SmartFactorytm
+
+    MES software, a factory automation solution designed to help
+    accelerate the production ramp of emerging technologies for
+    solar PV, chip-packaging, and light-emitting diode (LED)
+    applications.
+
+
+ 
+
+
+    Applied also offers computerized maintenance management systems,
+    performance tracking, and modeling and simulation tools for
+    improving asset utilization. Applied’s E3 equipment
+    engineering system solution, for example, uniquely integrates
+    all critical equipment automation and process control
+    components. In 2010, the Company introduced its Applied
+    SmartSchedtm
+
+    system, the semiconductor industry’s first predictive
+    scheduling solution for optimizing the movement of wafers during
+    the lithography process to reduce cycle time and increase tool
+    utilization.
+
+
+ 
+
+
+    Sub-Fab
+    Systems — A significant component of solar PV chip
+    manufacturing is the ancillary equipment such as pumps and
+    abatement systems that are connected to the process chambers.
+    Located outside the clean area of the facility in the
+    sub-fab,
+    this equipment controls fab emissions to assure clean,
+    sustainable chip manufacturing.
+
+
+ 
+
+
+    Abatement Control Systems — In 2010, the
+    Company introduced its Applied
+    iSYStm
+
+    platform, the industry’s first fully-integrated abatement
+    and vacuum pumping solution for controlling emissions and
+    reducing energy costs in the fab. Synchronized with an Applied
+    process tool, the iSYS system can deliver typical annual savings
+    in power, water and gas consumption equivalent to 200MWh of
+    energy compared to currently available technologies.
+
+
+ 
+
+
+
+    Display
+    Segment
+
+
+ 
+
+
+    Applied’s AKT subsidiary, reported under the Display
+    segment, designs, manufactures and sells equipment to fabricate
+    thin film transistor LCDs for televisions, computer displays and
+    other consumer-oriented electronic applications. While
+    similarities exist between the technologies utilized in
+    chipmaking and LCD fabrication, the most significant differences
+    are in the size and composition of the substrate. Substrates
+    used to manufacture LCD panels can be more than 70 times larger
+    in area than 300mm wafers and are made of glass, while wafers
+    are made of silicon.
+
+
+ 
+
+
+    Applied supplies a wide range of systems that process and test
+    different glass substrate sizes. For fabricating the transistor
+    layer of these panels, the Company offers a line of
+    plasma-enhanced CVD (PECVD) systems that use
+
+
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+
+    multi-chamber platform architecture to deposit dielectric and
+    semiconducting films. The
+    AKT-PiVottm
+
+    55KV system employs high-productivity, cost-efficient PVD
+    technology to deposit metal and transparent conductive oxide
+    films on the substrate. For manufacturing the color filter of
+    LCD panels, Applied offers the AKT-NEW
+    ARISTOtm
+
+    for transparent conductive oxide film deposition.
+
+
+ 
+
+
+    To complement these systems, Applied also offers a line of
+    electron beam test (EBT) systems for testing substrates during
+    production for defective pixels and other imperfections.
+    Featuring one of the industry’s fastest and most accurate
+    pixel test technologies with the lowest operating cost, the EBT
+    systems’ non-contact test technology enables the safe
+    testing of high-value LCD TV panels without damaging or
+    scratching the display.
+
+
+ 
+
+
+    To meet growing consumer demand for larger, more cost-effective
+    LCD TVs, LCD manufacturers have moved to increasingly
+    larger-sized substrates. Applied’s latest generation (Gen)
+    10 systems can process substrates sized at approximately 2.85 x
+    3.05 meters, with each substrate enabling the production of up
+    to six
+    65-inch LCD
+    TV screens. These Gen-10 systems include the AKT-90K PECVD and
+    the Gen-10 AKT-90K EBT products.
+
+
+ 
+
+
+
+    Energy
+    and Environmental Solutions Segment
+
+
+ 
+
+
+    The Energy and Environmental Solutions segment includes
+    manufacturing solutions for the generation and conservation of
+    energy. To increase the conversion efficiency and yields of
+    solar PV devices, Applied offers manufacturing solutions for
+    wafer-based crystalline silicon (c-Si) and glass based thin film
+    applications.
+
+
+ 
+
+
+    Applied’s portfolio of solar PV cell fabrication
+    technologies has made it a leading supplier of c-Si
+    manufacturing systems worldwide. Key benefits of these systems
+    are high-productivity, advanced ultra-thin wafer handling, and
+    extensive automation, helping customers to lower the cost per
+    watt of electricity from solar PVs. Applied offers a
+    comprehensive line of automated metallization and test systems
+    for c-Si cell manufacturing. The Applied Baccini systems offer
+    high-precision printing capability designed to increase the
+    efficiency of c-Si solar cells. Applied also offers systems for
+    slicing and squaring wafers from silicon ingots. The high
+    productivity and performance of the Applied HCT B5 platform have
+    made it the leading wire saw used by solar PV cell manufacturers
+    worldwide. The Company also offers the Applied HCT Diamond
+    Squarertm
+
+    system, which uses diamond wire technology to eliminate the need
+    for abrasive slurry and reduces electricity consumption.
+
+
+ 
+
+
+    Thin film solar technologies are ideally suited for large-scale
+    applications, such as utility scale solar farms and commercial
+    rooftops, where space is not a constraint. The Company offers
+    the Applied AKT PECVD system for depositing low temperature
+    polysilicon films for thin film applications. Applied also
+    offers the
+    ATONtm
+
+    in-line deposition system, a large-area platform for
+    high-quality deposition and high-throughput in both c-Si and
+    thin film solar PV manufacturing.
+
+
+ 
+
+
+    Prior to the third quarter of fiscal 2010, Applied offered its
+    fully-integrated
+    SunFabtm
+
+    production line for manufacturing large-size thin film panels.
+    In the third quarter of fiscal 2010, Applied restructured its
+    Energy and Environmental Solutions segment in response to
+    adverse market conditions for thin film solar, including delays
+    in utility-scale solar adoption, solar panel manufacturers’
+    challenges in obtaining affordable capital, changes and
+    uncertainty in government renewable energy policies, and
+    competitive pressure from c-Si solar technologies. As part of
+    the restructuring, Applied discontinued sales to new customers
+    of its fully-integrated SunFab lines, but will offer individual
+    tools for thin film solar manufacturing. Applied is supporting
+    existing SunFab line customers with services, upgrades and
+    capacity increases through its Applied Global Services segment
+    and will continue RD&E efforts to improve thin film panel
+    efficiency and high-productivity deposition.
+
+
+ 
+
+
+    Other products offered under the Energy and Environmental
+    Solutions segment include
+    roll-to-roll,
+    vacuum web coating systems for high-performance deposition of a
+    range of films on flexible substrates for functional, aesthetic
+    or optical properties. The Company’s Applied
+    Topmettm
+
+    4450, is the world’s largest and fastest
+    roll-to-roll
+    machine for depositing ultra-thin aluminum films for flexible
+    packaging applications.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    Applied manufactures systems to meet demand represented by order
+    backlog and customer commitments. Backlog consists of:
+    (1) orders for which written authorizations have been
+    accepted and assigned shipment dates are within the next
+    12 months, or shipment has occurred but revenue has not
+    been recognized; (2) contractual service
+
+
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+
+    revenue and maintenance fees to be earned within the next
+    12 months; and (3) orders for SunFab lines that are
+    anticipated to be recognized as revenue within the next
+    12 months.
+
+
+ 
+
+
+    Applied’s backlog increased from $2.7 billion at
+    October 25, 2009 to $3.2 billion at October 31,
+    2010. Applied’s backlog on any particular date is not
+    necessarily indicative of actual sales for any succeeding
+    period. Customers may delay delivery of products or cancel
+    orders prior to shipment, subject to possible cancellation
+    penalties. Delays in delivery schedules
+    and/or a
+    reduction of backlog during any particular period could have a
+    material adverse effect on Applied’s business and results
+    of operations.
+
+
+ 
+
+
+
+    Manufacturing,
+    Raw Materials and Supplies
+
+
+ 
+
+
+    Applied’s manufacturing activities consist primarily of
+    procurement, assembly, test and integration of various
+    proprietary and commercial parts, components and subassemblies
+    (collectively, parts) that are used to manufacture systems.
+    Manufacturing requires raw materials, including a wide variety
+    of mechanical and electrical components, to be manufactured to
+    Applied’s specifications. Applied uses numerous companies,
+    including contract manufacturers, to supply parts and assembly
+    services for the manufacture and support of its products.
+    Although Applied makes reasonable efforts to assure that parts
+    are available from multiple qualified suppliers, this is not
+    always possible. Accordingly, some key parts may be obtained
+    from only a single supplier or a limited group of suppliers.
+    Applied seeks to reduce costs and to lower the risks of
+    production and service interruptions, as well as shortages of
+    key parts, by: (1) selecting and qualifying alternate
+    suppliers for key parts; (2) monitoring the financial
+    condition of key suppliers; (3) maintaining appropriate
+    inventories of key parts; (4) qualifying new parts on a
+    timely basis; and (5) locating certain manufacturing
+    operations in areas that are closer to suppliers and customers
+    Applied is implementing a more distributed manufacturing model,
+    which includes transitioning certain manufacturing and supply
+    chain activities from the United States and Europe to Singapore,
+    Taiwan and other countries in Asia and completing assembly of
+    some systems at the customer site.
+
+
+ 
+
+
+
+    Research,
+    Development and Engineering
+
+
+ 
+
+
+    Applied’s long-term growth strategy requires continued
+    development of new products. Applied’s significant
+    investment in research, development and engineering (RD&E)
+    has generally enabled it to deliver new products and
+    technologies before the emergence of strong demand, thus
+    allowing customers to incorporate these products into their
+    manufacturing plans at an early stage in the technology
+    selection cycle. Applied works closely with its global customers
+    to design systems and processes that meet their planned
+    technical and production requirements. Product development and
+    engineering organizations are located primarily in the United
+    States, as well as in Europe, Israel, Taiwan and China. In
+    addition, Applied outsources certain RD&E activities, some
+    of which are performed outside the United States, primarily in
+    India. Process support and customer demonstration laboratories
+    are located in the United States, China, Taiwan, Europe and
+    Israel.
+
+
+ 
+
+
+    Applied’s investments in RD&E for product development
+    and engineering programs to create or improve products and
+    technologies over the last three years were as follows:
+    $1.1 billion (12 percent of net sales) in fiscal 2010,
+    $934 million (19 percent of net sales) in fiscal 2009
+    and $1.1 billion (14 percent of net sales) in fiscal
+    2008. Applied has spent an average of 13 percent of net
+    sales in RD&E over the last five years. In addition to
+    RD&E for specific product technologies, Applied maintains
+    ongoing programs for automation control systems, materials
+    research and environmental control that are applicable to its
+    products.
+
+
+ 
+
+
+    In fiscal 2010, Applied developed new technology to enable
+    next-generation 22nm and below chip designs. These systems were
+    designed to help customers continue their drive to pack more
+    transistors in the same space using using high-k/metal gate
+    technologies and double patterning processes. Applied also
+    developed technology for through-silicon vias (TSVs), an
+    emerging solution for interconnecting three dimensional chip
+    stacks to provide better device performance, lower power
+    consumption and the integration of heterogeneous devices. In the
+    solar PV area, Applied continued the development of its
+    precision wafering and cell manufacturing products for lowering
+    the cost of producing solar-generated electricity through
+    advanced crystalline silicon technology. RD&E also included
+    activities to develop products that enable lower-cost production
+    of solar energy, production of light emitting diode (LED)
+    devices for display backlighting and general lighting, and other
+    products to enable energy conservation.
+
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+
+    In fiscal 2009, Applied focused on developing systems for
+    semiconductor customers’ new chip designs with 32nm and
+    below geometries, including systems to enable faster transistors
+    using strain engineering and
+    high-k/metal
+    gate technologies, as well as double patterning processes that
+    enable customers to extend their existing 193nm lithography
+    tools through additional technology generations. Applied also
+    focused on developing technology for manufacturing next
+    generation displays. RD&E also included activities to
+    develop products that enable lower-cost production of solar
+    energy and other products to enable energy conservation.
+
+
+ 
+
+
+    In fiscal 2008, Applied focused on the development of processes
+    and systems for the continued scaling of semiconductor devices.
+    Applied pioneered a self-aligned double patterning approach that
+    can enable 22nm and below device fabrication using conventional
+    optical lithography. The Company also developed technology for
+    the implementation of through-silicon vias. Efforts were also
+    focused on developing the systems and technology to reduce the
+    cost-per-watt
+    of solar electricity.
+
+
+ 
+
+
+
+    Marketing
+    and Sales
+
+
+ 
+
+
+    Net sales by geographic region, which are attributed according
+    to the location of customers’ facilities, were as follows:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+ 
+
+
+ 
+
+
+    2010
+
+
+ 
+
+
+ 
+
+
+    2009
+
+
+ 
+
+
+ 
+
+
+    2008
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+    ($)
+
+
+ 
+
+
+ 
+
+
+     (%)
+
+
+ 
+
+
+ 
+
+
+     ($)
+
+
+ 
+
+
+ 
+
+
+     (%)
+
+
+ 
+
+
+ 
+
+
+     ($)
+
+
+ 
+
+
+ 
+
+
+     (%)
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+    (In millions, except percentages)
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+    Taiwan
+
+
+
+ 
+
+
+ 
+
+
+    2,750
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    29
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    1,026
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    21
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    1,837
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    22
+
+
+ 
+
+
+
+
+
+    Korea
+
+
+
+ 
+
+
+ 
+
+
+    1,768
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    19
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    664
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    13
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    1,309
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    16
+
+
+ 
+
+
+
+
+
+    China
+
+
+
+ 
+
+
+ 
+
+
+    1,557
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    16
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    635
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    13
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    780
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    10
+
+
+ 
+
+
+
+
+
+    Japan
+
+
+
+ 
+
+
+ 
+
+
+    768
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    8
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    718
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    14
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    1,218
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    15
+
+
+ 
+
+
+
+
+
+    Southeast Asia
+
+
+
+ 
+
+
+ 
+
+
+    578
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    6
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    252
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    5
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    516
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    6
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    Asia Pacific
+
+
+
+ 
+
+
+ 
+
+
+    7,421
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    78
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    3,295
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    66
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    5,660
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    69
+
+
+ 
+
+
+
+
+
+    North America(*)
+
+
+
+ 
+
+
+ 
+
+
+    1,147
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    12
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    966
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    19
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    1,520
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    19
+
+
+ 
+
+
+
+
+
+    Europe
+
+
+
+ 
+
+
+ 
+
+
+    981
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    10
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    753
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    15
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    949
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    12
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    Total
+
+
+
+ 
+
+
+ 
+
+
+    9,549
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    100
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    5,014
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    100
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    8,129
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    100
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+    
+    
+    
+
+
+
+    
+    (*) 
+    
+    
+    Primarily the United States.
+
+
+
+
+ 
+
+
+    Because of the highly technical nature of its products, Applied
+    markets and sells products worldwide through a direct sales
+    force. Approximately 88 percent of Applied’s fiscal
+    2010 net sales were to regions outside of the
+    United States.
+
+
+ 
+
+
+    General economic conditions impact Applied’s business and
+    financial results. From time to time, the markets in which
+    products are sold experience weak economic conditions that may
+    negatively impact sales. Applied’s business is usually not
+    seasonal in nature, but it is highly cyclical, based on capital
+    equipment investment by major semiconductor, flat panel display,
+    solar PV and other manufacturers. Customers’ expenditures
+    depend on many factors, including: anticipated market demand and
+    pricing for semiconductors, LCDs, solar cells and modules, and
+    other substrates; the development of new technologies;
+    customers’ factory utilization; capital resources and
+    financing; and global and regional economic conditions.
+
+
+ 
+
+
+    Applied manages its business and reports financial results based
+    on the segments described above, but does not allocate certain
+    sales and marketing costs to the segments.
+
+
+ 
+
+
+    Information on net sales to unaffiliated customers and
+    long-lived assets attributable to Applied’s geographic
+    regions is included in Note 17 of Notes to Consolidated
+    Financial Statements. The following companies accounted
+
+
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+
+    for at least 10 percent of Applied’s net sales in
+    2010, 2009,
+    and/or 2008,
+    which were for products in multiple reportable segments.
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+ 
+
+
+ 
+
+
+    2010
+
+
+ 
+
+
+ 
+
+
+    2009
+
+
+ 
+
+
+ 
+
+
+    2008
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+    Samsung Electronics Co., Ltd. 
+
+
+
+ 
+
+
+ 
+
+
+    14
+
+
+    %
+
+
+ 
+
+
+ 
+
+
+    10
+
+
+    %
+
+
+ 
+
+
+ 
+
+
+    16
+
+
+    %
+
+
+
+
+
+    Taiwan Semiconductor Manufacturing Company Limited
+
+
+
+ 
+
+
+ 
+
+
+    11
+
+
+    %
+
+
+ 
+
+
+ 
+
+
+    *
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    *
+
+
+ 
+
+
+
+
+
+    Intel Corporation
+
+
+
+ 
+
+
+ 
+
+
+    *
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    12
+
+
+    %
+
+
+ 
+
+
+ 
+
+
+    *
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+    
+    
+    
+
+
+
+    
+    * 
+    
+    
+    Less than 10%.
+
+
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The industries in which Applied operates are highly competitive
+    and characterized by rapid technological change. Applied’s
+    ability to compete generally depends on its ability to timely
+    commercialize its technology, continually improve its products
+    and develop new products that meet constantly evolving customer
+    requirements. Significant competitive factors include technical
+    capability and differentiation, productivity and
+    cost-effectiveness. The importance of these factors varies
+    according to customers’ needs, including product mix and
+    respective product requirements, applications, and the timing
+    and circumstances of purchasing decisions. Substantial
+    competition exists in all areas of Applied’s business.
+    Competitors range from small companies that compete with a
+    single product
+    and/or in a
+    single region, to global, diversified companies with a range of
+    products. Applied’s ability to compete requires a high
+    level of investment in RD&E, marketing and sales and global
+    customer support activities. Management believes that many of
+    Applied’s products have strong competitive positions.
+
+
+ 
+
+
+    The competitive environment for each segment is described below:
+
+
+ 
+
+
+    The semiconductor industry has been increasingly driven by
+    consumer demand for lower-cost electronic products with
+    increased capability and, to a lesser extent, by demand for
+    commercial applications. As a result, products within the
+    Silicon Systems Group segment are subject to rapid changes in
+    customer requirements, including transitions to smaller
+    dimensions, new materials and an increasing number of
+    applications. While certain existing technologies may be adapted
+    to new requirements, some applications create the need for an
+    entirely different technical approach. The rapid pace of
+    technological change can quickly diminish the value of current
+    technologies and products and create opportunities for existing
+    and new competitors. Applied offers a broad portfolio of
+    technically- differentiated products that must continuously
+    evolve to satisfy customers’ requirements in order to
+    compete effectively. Applied allocates resources among its
+    numerous product offerings and therefore may decide not to
+    invest in an individual product to the same degree as
+    competitors who specialize in fewer products. There are a number
+    of competitors serving the semiconductor manufacturing equipment
+    industry, with some offering a single product line and others
+    offering multiple product lines. These competitors range from
+    suppliers serving a single region to global, diversified
+    companies. Factors that influenced the competitive environment
+    for the Silicon Systems Group in fiscal 2010 included the
+    rebound in the semiconductor industry, driven by higher demand
+    for PCs and cell phones as well as the introduction of tablet
+    computers. Higher factory utilization rates and tight device
+    supply led manufacturers to increase their wafer fab equipment
+    (WFE) capital spending, which is the major driver for Silicon
+    Systems Group net sales.
+
+
+ 
+
+
+    Products and services within the Applied Global Services segment
+    are characterized by demanding worldwide service requirements
+    and a diverse group of numerous competitors. To compete
+    effectively, Applied offers products and services to reduce
+    costs, improve productivity, and lessen the environmental impact
+    of customers’ fab operations. Significant competitive
+    factors include productivity, cost-effectiveness, and the level
+    of technical service and support. The importance of these
+    factors varies according to customers’ needs and the type
+    of products or services offered. Customers with more significant
+    operations
+    and/or
+    expertise may require fewer service products than customers who
+    place greater reliance on an outsourcing model. Industry
+    conditions that affected Applied Global Services’ sales of
+    spares and services in fiscal 2010 were principally
+    semiconductor manufacturers’ wafer starts as well as
+    additions to the tool installed base.
+
+
+ 
+
+
+    Products in the Display segment are subject to strong
+    competition from a number of major competitors. Applied holds
+    established market positions with its technically-differentiated
+    thin film technology (TFT)-LCD manufacturing solutions for
+    PECVD, color filter PVD and TFT array testing, although its
+    market position could
+
+
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+
+    change quickly due to customers’ evolving requirements. The
+    competitive environment for Applied’s Display segment in
+    fiscal 2010 was characterized by increased capacity requirements
+    for larger flat panel televisions and growing global demand for
+    touch screen devices.
+
+
+ 
+
+
+    Applied’s products within the Energy and Environmental
+    Solutions segment compete in diverse market areas, including
+    equipment to make solar PV cells and modules. All of these
+    markets are driven by extreme pressure to reduce overall
+    production costs and improve cell performance. In this segment,
+    Applied offers products primarily for c-Si wafer-based
+    applications. Applied competes with many other companies, some
+    of which have more experience with solar applications and some
+    of which are just entering the solar equipment business.
+
+
+ 
+
+
+
+    Patents
+    and Licenses
+
+
+ 
+
+
+    Management believes that Applied’s competitive position
+    significantly depends upon the Company’s research,
+    development, engineering, manufacturing and marketing
+    capabilities, and not just on its patent position. However,
+    protection of Applied’s technological assets through
+    enforcement of its intellectual property rights, including
+    patents, is important. Therefore, Applied’s practice is to
+    file patent applications in the United States and other
+    countries for inventions that Applied considers significant.
+    Applied has a substantial number of patents in the United States
+    and other countries, and additional applications are pending for
+    new inventions. Although Applied does not consider its business
+    materially dependent upon any one patent, the rights of Applied
+    and the products made and sold under its patents, taken as a
+    whole, are a significant element of Applied’s business. In
+    addition to patents, Applied also possesses other intellectual
+    property, including trademarks, know-how, trade secrets and
+    copyrights.
+
+
+ 
+
+
+    Applied enters into patent and technology licensing agreements
+    with other companies when management determines that it is in
+    the Company’s best interest to do so. Applied pays
+    royalties under existing patent license agreements for the use,
+    in several of its products, of certain patented technologies
+    that are licensed to Applied for the life of the patents.
+    Applied also receives royalties from licenses granted to third
+    parties. Royalties received from or paid to third parties have
+    not been, and are not expected to be, material to Applied’s
+    consolidated results of operations.
+
+
+ 
+
+
+    In the normal course of business, Applied periodically receives
+    and makes inquiries regarding possible patent infringement. In
+    responding to such inquiries, it may become necessary or useful
+    for Applied to obtain or grant licenses or other rights.
+    However, there can be no assurance that such licenses or rights
+    will be available to Applied on commercially reasonable terms,
+    or at all. If Applied is not able to resolve or settle claims,
+    obtain necessary licenses on commercially reasonable terms,
+    and/or
+    successfully prosecute or defend its position, Applied’s
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+ 
+
+
+
+    Environmental
+    Matters
+
+
+ 
+
+
+    Applied maintains a number of environmental, health and safety
+    programs that are primarily preventive in nature. As part of
+    these programs, Applied regularly monitors ongoing compliance
+    with applicable laws and regulations. In addition, Applied has
+    trained personnel to conduct investigations of any
+    environmental, health or safety incidents, including, without
+    limitation, spills, releases or possible contamination.
+
+
+ 
+
+
+    Compliance with federal, state and local environmental, health
+    and safety provisions, including, without limitation, those
+    regulating the discharge of materials into the environment,
+    remedial agreements and other actions relating to the
+    environment have not had, and are not expected to have, a
+    material effect on Applied’s capital expenditures,
+    competitive position, financial condition or results of
+    operations.
+
+
+ 
+
+
+    The most recent report on Applied’s environmental, health
+    and safety activities can be found in the Company’s
+    Citizenship Report on its website at
+    http://www.appliedmaterials.com/about/environment.html
+    with additional information at
+    http://www.appliedmaterials.com/about/cr/sustainability.
+    The Citizenship Report is updated periodically. This website
+    address is intended to be an inactive textual reference only.
+    None of the information on Applied’s website is part of
+    this
+    Form 10-K
+    or is incorporated by reference herein.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    At October 31, 2010, Applied employed approximately 13,000
+    regular employees and 1,325 temporary employees. In the
+    high-technology industry, competition for highly-skilled
+    employees is intense. Applied believes
+
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+
+    that its future success is highly dependent upon its continued
+    ability to attract, retain and motivate qualified employees.
+    There can be no assurance that Applied will be able to attract,
+    hire, assimilate, motivate and retain a sufficient number of
+    qualified employees.
+
+
+ 
+
+
+
+    Executive
+    Officers of the Registrant
+
+
+ 
+
+
+    The following table and notes set forth information about
+    Applied’s executive officers as of October 31, 2010:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+
+
+
+
+
+    Name of Individual
+
+
+ 
+
+
+    Position
+
+
+
+ 
+
+
+
+
+
+
+    Michael R. Splinter(1)
+
+
+
+ 
+
+
+    Chairman of Board of Directors, President and Chief Executive
+    Officer
+
+
+
+
+
+    George S. Davis(2)
+
+
+
+ 
+
+
+    Executive Vice President, Chief Financial Officer
+
+
+
+
+
+    Mark R. Pinto(3)
+
+
+
+ 
+
+
+    Executive Vice President, General Manager Energy and
+    Environmental Solutions and Display, Chief Technology Officer
+
+
+
+
+
+    Randhir Thakur(4)
+
+
+
+ 
+
+
+    Executive Vice President, General Manager Silicon Systems
+
+
+
+
+
+    Joseph Flanagan(5)
+
+
+
+ 
+
+
+    Senior Vice President, Worldwide Operations and Supply Chain
+
+
+
+
+
+    Manfred Kerschbaum(6)
+
+
+
+ 
+
+
+    Senior Vice President, Chief of Staff
+
+
+
+
+
+    Joseph J. Sweeney(7)
+
+
+
+ 
+
+
+    Senior Vice President, General Counsel and Corporate Secretary
+
+
+
+
+
+    Chris Bowers(8)
+
+
+
+ 
+
+
+    Group Vice President, Corporate Initiatives
+
+
+
+
+
+    Ron Kifer(9)
+
+
+
+ 
+
+
+    Group Vice President, Chief Information Officer
+
+
+
+
+
+    Mary Humiston(10)
+
+
+
+ 
+
+
+    Group Vice President, Global Human Resources
+
+
+
+
+
+    Charlie Pappis(11)
+
+
+
+ 
+
+
+    Group Vice President, General Manager Applied Global Services
+
+
+
+
+
+    Thomas S. Timko(12)
+
+
+
+ 
+
+
+    Corporate Vice President, Corporate Controller and Chief
+    Accounting Officer
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+    
+    
+    
+
+
+
+    
+    (1) 
+    
+    
+    Mr. Splinter, age 60, was named President, Chief
+    Executive Officer and a member of Applied’s Board of
+    Directors upon joining Applied in April 2003, and he has been
+    Chairman of the Board of Directors since March 2009. Prior to
+    joining Applied, Mr. Splinter worked for nearly
+    20 years at Intel Corporation (Intel), most recently as
+    Executive Vice President and Director of the Sales and Marketing
+    Group, responsible for sales and operations worldwide.
+    Mr. Splinter previously held various executive positions at
+    Intel, including Executive Vice President and General Manager of
+    the Technology and Manufacturing Group.
+
+
+
+ 
+
+
+    
+    (2) 
+    
+    
+    Mr. Davis, age 53, was promoted to Executive Vice
+    President, Chief Financial Officer in December 2006, after being
+    appointed Group Vice President, Chief Financial Officer
+    effective November 2006. Previously, he had been Group Vice
+    President, General Manager, Corporate Business Development since
+    February 2005. From November 1999 to February 2005,
+    Mr. Davis served as Vice President and Corporate Treasurer,
+    where he managed Applied’s worldwide treasury operations
+    and was responsible for investments, tax, financial risk
+    management, and trade and export matters. Mr. Davis joined
+    Applied in 1999.
+
+
+
+ 
+
+
+    
+    (3) 
+    
+    
+    Dr. Pinto, age 51, has served as Executive Vice
+    President since joining Applied in January 2004. His current
+    responsibility is General Manager, Energy and Environmental
+    Solutions and Display as well as corporate Chief Technology
+    Officer. Prior to joining Applied, Dr. Pinto spent
+    19 years with Bell Laboratories and the Lucent
+    Microelectronics Group, which later became Agere Systems Inc.,
+    most recently as Vice President of the Analog Products Division.
+    Dr. Pinto holds a Ph.D. in Electrical Engineering from
+    Stanford University.
+
+
+
+ 
+
+
+    
+    (4) 
+    
+    
+    Dr. Thakur, age 48, has held the position of Executive
+    Vice President, General Manager Silicon Systems since October
+    2009. Previously, he was Senior Vice President, General Manager,
+    Thin Film Solar and Display. He was appointed Senior Vice
+    President, General Manager, Strategic Operations when he
+    rejoined Applied in May 2008. He previously was with Applied
+    from 2000 to 2005 in a variety of executive roles including
+    Group Vice President, General Manager for Front End Products.
+    From September 2005 to May 2008, Dr. Thakur served as
+    Executive Vice President of Technology and Fab Operations at
+    SanDisk Corporation and as head of SanDisk’s worldwide
+    operations. Prior to joining Applied in 2000, Dr. Thakur
+    served in leadership roles at Steag Electronic Systems AG and
+    Micron Technology, Inc.
+
+
+
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+    
+    (5) 
+    
+    
+    Mr. Flanagan, age 39, was appointed Senior Vice
+    President, Worldwide Operations and Supply Chain in February
+    2010. Prior to joining Applied, Mr. Flanagan held executive
+    positions in global operations for Nortel Networks Corporation,
+    including president of Nortel Business Services from August 2009
+    to February 2010. Previously, Mr. Flanagan held a number of
+    positions from 1993 to 2006 at General Electric.
+
+
+
+ 
+
+
+    
+    (6) 
+    
+    
+    Mr. Kerschbaum, age 56, was named Senior Vice
+    President, Chief of Staff in September 2009. Prior to that he
+    served as Senior Vice President, General Manager, Applied Global
+    Services from January 2005 to September 2009.
+    Mr. Kerschbaum was Senior Vice President, Global Operations
+    from July 2004 to January 2005 and from October 2002 to May
+    2003. From May 2003 to July 2004, he was Group Vice President,
+    Foundation Engineering and Operations. From January 1996 to
+    October 2002, he held various positions in Applied Materials
+    North America, most recently as Group Vice President, General
+    Manager, Applied Materials North America.
+    Mr. Kerschbaum has served in various other operations,
+    customer service and engineering positions since joining Applied
+    in 1983.
+
+
+
+ 
+
+
+    
+    (7) 
+    
+    
+    Mr. Sweeney, age 62, has held the position of Senior
+    Vice President, General Counsel and Corporate Secretary of
+    Applied since July 2005, with responsibility for global legal
+    affairs, intellectual property and security. From April 2002 to
+    July 2005, Mr. Sweeney was Group Vice President, Legal
+    Affairs and Intellectual Property, and Corporate Secretary.
+    Mr. Sweeney joined Applied in 1993.
+
+
+
+ 
+
+
+    
+    (8) 
+    
+    
+    Mr. Bowers, age 50, has been Group Vice President,
+    Corporate Initiatives since March 2008. From March 2008 to
+    September 2009, he was Group Vice President and General Manager
+    of Corporate Services and Chief of Staff, working closely with
+    executives on effective business strategy execution. Prior to
+    joining Applied, Mr. Bowers was a partner at the Hay Group,
+    where he held various business leadership and consulting
+    positions from 1992 to 2008. Most recently, he was Director of
+    Client Services in Europe, the Middle East and Africa, and a
+    member of the Hay Group Global R&D Council.
+
+
+
+ 
+
+
+    
+    (9) 
+    
+    
+    Mr. Kifer, age 59, joined Applied in May 2006 as Group
+    Vice President and Chief Information Officer, Global Information
+    Services. Prior to his appointment, Mr. Kifer spent five
+    years with DHL in various executive management roles, most
+    recently as the Senior Vice President and Chief Information
+    Officer for North America, Asia Pacific and Emerging Markets.
+
+
+
+ 
+
+
+    
+    (10) 
+    
+    
+    Ms. Humiston, age 45, was named Group Vice President,
+    Global Human Resources, in May 2010. Prior to that, she served
+    as the Corporate Vice President of Human Resources for both the
+    Energy and Environmental Solutions and Display groups. Prior to
+    joining Applied, Ms. Humiston was Vice President of Human
+    Resources at Honeywell International Inc. from October 2002 to
+    June 2008, with responsibility for various corporate and
+    international organizations. She previously held executive
+    positions with PeoplePC, Gap, Inc. and General Electric.
+
+
+
+ 
+
+
+    
+    (11) 
+    
+    
+    Mr. Pappis, age 50, has been Group Vice President and
+    General Manager of Applied Global Services since September 2009.
+    He previously held positions in Applied Global Services as
+    Corporate Vice President and General Manager for the
+    Semiconductor Service Solutions group and as general manager for
+    Equipment Productivity Services. He has held various other
+    management positions since joining Applied in 1986.
+
+
+
+ 
+
+
+    
+    (12) 
+    
+    
+    Mr. Timko, age 42, joined Applied in March 2010 as
+    Corporate Vice President, Corporate Controller and Chief
+    Accounting Officer. From June 2006 until March 2010,
+    Mr. Timko was with Delphi Automotive LLP, where he was most
+    recently Chief Accounting Officer and Controller. He served as
+    Assistant Controller for The Interpublic Group of Companies,
+    Inc. from December 2004 to June 2006, and previously at Dover
+    Corporation. Mr. Timko began his career in 1991 with
+    PricewaterhouseCoopers LLC and is a certified public accountant.
+
+
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    Applied’s website is
+    http://www.appliedmaterials.com.
+    Applied makes available free of charge, on or through its
+    website, its annual, quarterly and current reports, and any
+    amendments to those reports, as soon as reasonably practicable
+    after electronically filing such reports with, or furnishing
+    them to, the SEC. This website address is intended to be an
+    inactive textual reference only. None of the information on
+    Applied’s website is part of this
+    Form 10-K
+    or is incorporated by reference herein.
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A:  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    The following factors could materially affect Applied’s
+    business, financial condition or results of operations and
+    should be carefully considered in evaluating the Company and its
+    business, in addition to other information presented elsewhere
+    in this report.
+
+
+ 
+
+
+
+    The
+    industries that Applied serves are volatile and difficult to
+    predict.
+
+
+ 
+
+
+    As a supplier to the global semiconductor, flat panel display,
+    solar and related industries, Applied is subject to business
+    cycles, the timing, length and volatility of which can be
+    difficult to predict and which vary by reportable segment. These
+    industries historically have been cyclical due to sudden changes
+    in customers’ manufacturing capacity and advanced
+    technology requirements and spending, which depend in part on
+    customers’ capacity utilization, production volumes,
+    end-use demand, and inventory levels relative to demand, as well
+    as the rate of technology transitions and customers’ access
+    to affordable capital. These changes have affected the timing
+    and amounts of customers’ purchases and investments in
+    technology, and continue to affect Applied’s orders, net
+    sales, operating expenses and net income.
+
+
+ 
+
+
+    To meet rapidly changing demand in the industries it serves,
+    Applied must accurately forecast demand and effectively manage
+    its resources and production capacity for each of its segments
+    as well as across multiple segments. During periods of
+    increasing demand for its products, Applied must have sufficient
+    manufacturing capacity and inventory to meet customer demand;
+    effectively manage its supply chain; attract, retain and
+    motivate a sufficient number of qualified employees; and
+    continue to control costs. During periods of decreasing demand,
+    Applied must reduce costs and align its cost structure with
+    prevailing market conditions; effectively manage its supply
+    chain; and motivate and retain key employees. If Applied does
+    not accurately forecast and timely and appropriately adapt to
+    changes in its business environment, Applied’s business,
+    financial condition and results of operations may be materially
+    and adversely affected.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks associated with the difficult financial
+    markets and uncertain global economy.
+
+
+ 
+
+
+    The tightening of the credit markets, disruption in the
+    financial markets, and global economic recession that began in
+    2008 contributed to significant slowdowns in the industries in
+    which Applied operates. Although economic and market conditions
+    have improved, continuing difficulties in the financial markets
+    and uncertainty regarding the global economic recovery are
+    posing challenges. The markets for semiconductors and flat panel
+    displays in particular depend largely on consumer spending.
+    Economic uncertainty exacerbates negative trends in consumer
+    spending and may cause certain Applied customers to push out,
+    cancel, or refrain from placing orders for equipment or
+    services, which may reduce net sales, reduce backlog, and affect
+    Applied’s ability to convert backlog to sales. Difficulties
+    in obtaining capital, uncertain market conditions, or reduced
+    profitability may also cause some customers to scale back
+    operations, exit businesses, merge with other manufacturers, or
+    file for bankruptcy protection and potentially cease operations,
+    leading to customers’ reduced research and development
+    funding
+    and/or
+    capital expenditures and, in turn, lower sales
+    and/or
+    additional inventory or bad debt expense for Applied. These
+    conditions may also similarly affect key suppliers, which could
+    impair their ability to deliver parts and result in delays for
+    Applied’s products or added costs. In addition, these
+    conditions may lead to strategic alliances by, or consolidation
+    of, other equipment manufacturers, which could adversely affect
+    Applied’s ability to compete effectively.
+
+
+ 
+
+
+    Uncertainty about future economic and industry conditions also
+    makes it more challenging for Applied to forecast its operating
+    results, make business decisions, and identify the risks that
+    may affect its business, sources and uses of cash, financial
+    condition and results of operations. Applied may be required to
+    implement additional cost reduction efforts, including
+    restructuring activities,
+    and/or
+    modify its business model, which may adversely affect
+    Applied’s ability to capitalize on opportunities in a
+    market recovery. In addition, Applied maintains an investment
+    portfolio that is subject to general credit, liquidity, foreign
+    exchange, market and interest rate risks. The risks to
+    Applied’s investment portfolio may be exacerbated if
+    financial market conditions deteriorate and, as a result, the
+    value and liquidity of the investment portfolio and return on
+    pension assets could be negatively impacted and lead to
+    impairment charges. If Applied does not timely and appropriately
+    adapt to changes resulting from the uncertain
+
+
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+
+    macroeconomic environment and industry conditions,
+    Applied’s business, financial condition or results of
+    operations may be materially and adversely affected.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks as a result of ongoing changes in the
+    various industries in which it operates.
+
+
+ 
+
+
+    The global semiconductor, flat panel display, solar and related
+    industries in which Applied operates are characterized by
+    ongoing changes affecting some or all of these industries,
+    including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    increasing capital requirements for building and operating new
+    fabrication plants and customers’ ability to raise the
+    necessary capital, particularly in a difficult financial market;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    differences in growth rates among the semiconductor, display and
+    solar industries;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing importance of establishing, improving and
+    maintaining strong relationships with customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    abrupt and unforeseen shifts in the nature and amount of
+    customer and end-user demand;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing cost and complexity for customers to move from
+    product design to volume manufacturing, which may slow the
+    adoption rate for new manufacturing technology;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to reduce the total cost of manufacturing system
+    ownership, due in part to greater demand for lower-cost consumer
+    electronics as compared to business information technology
+    spending;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the heightened importance to customers of system reliability and
+    productivity and the effect on demand for fabrication systems as
+    a result of their increasing productivity, device yield and
+    reliability;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing importance of, and difficulties in, developing
+    products with sufficient differentiation to influence
+    customers’ purchasing decisions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    requirements for shorter cycle times for the development,
+    manufacture and installation of manufacturing equipment;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    price and performance trends for semiconductor devices, LCDs and
+    solar PVs, and the corresponding effect on demand for such
+    products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing importance of the availability of spare parts to
+    maximize the time that customers’ systems are available for
+    production;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing role for and complexity of software in Applied
+    products; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing focus on reducing energy usage and improving the
+    environmental impact and sustainability associated with
+    manufacturing operations.
+
+
+
+
+
+ 
+
+
+    If Applied does not successfully manage the risks resulting from
+    the ongoing changes in the semiconductor, flat panel display,
+    solar and related industries, its business, financial condition
+    and results of operations could be materially and adversely
+    affected.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks as a result of ongoing changes specific to
+    the semiconductor industry.
+
+
+ 
+
+
+    The greatest portion of Applied’s consolidated net sales
+    and profitability historically has been derived from sales of
+    manufacturing equipment by the Silicon Systems Group to the
+    global semiconductor industry. In addition, a majority of the
+    revenues of Applied Global Services is from sales of service
+    products to semiconductor manufacturers. The semiconductor
+    industry is characterized by ongoing changes particular to that
+    industry in addition to the general industry changes described
+    in the preceding risk factor, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the increasing cost of research and development due to many
+    factors, including: decreasing linewidths on a chip; the use of
+    new materials such as cobalt and yttrium; new and more complex
+    device structures; more applications and process steps;
+    increasing chip design costs; and the increasing cost and
+    complexity of integrated manufacturing processes;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the growing number of types and varieties of semiconductors and
+    number of applications across multiple substrate sizes;
+
+
+
+
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    differing market growth rates and capital requirements for
+    different applications, such as NAND Flash, DRAM, logic and
+    foundry, and the resulting effect on customers’ spending
+    patterns and on Applied’s ability to compete in these
+    market segments;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing cost and complexity for semiconductor
+    manufacturers to move more technically advanced capability and
+    smaller linewidths to volume manufacturing, and the resulting
+    impact on the rates of technology transition and investment in
+    capital equipment;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    semiconductor manufacturers’ increasing adoption of more
+    productive 300mm systems in relation to 200mm system capacity,
+    and the resulting effect on demand for manufacturing equipment
+    and services;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the decreasing rate of capital expenditures as a percentage of
+    semiconductor manufacturers’ revenue;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    shorter cycle times between customers’ order placement and
+    product shipment, which may lead to inventory write-offs and
+    manufacturing inefficiencies that decrease gross margin;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    technology developments in related markets, such as lithography,
+    to which Applied may need to adapt;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    competitive factors that make it difficult to enhance market
+    position;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the importance of growing market positions in larger market
+    segments, such as etch and inspection;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing concentration of wafer starts in one country,
+    Korea, where Applied’s service penetration and
+    service-revenue-per-wafer-start have been lower than in other
+    regions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing fragmentation of semiconductor markets, leading
+    certain markets to become too small to support the cost of a new
+    fabrication plant, while others require less technologically
+    advanced products; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the cost, technical complexity and timing of a proposed
+    transition from 300mm to 450mm wafers.
+
+
+
+
+
+ 
+
+
+    If Applied does not successfully manage the risks resulting from
+    the ongoing changes occurring in the semiconductor industry, its
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks as a result of ongoing changes specific to
+    the flat panel display industry.
+
+
+ 
+
+
+    The global flat panel display industry historically has
+    experienced considerable volatility in capital equipment
+    investment levels, due in part to the limited number of LCD
+    manufacturers and the concentrated nature of LCD end-use
+    applications. Recently, industry growth has depended to a
+    considerable extent on consumer demand for increasingly larger
+    and more advanced TVs. In addition to the general industry
+    changes described above in the third risk factor, the display
+    industry is characterized by ongoing changes particular to that
+    industry, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the planned expansion of manufacturing facilities in China by
+    Chinese display manufacturers as well as manufacturers from
+    other countries, and the ability of non-Chinese manufacturers to
+    obtain government approvals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    technical and financial difficulties associated with
+    transitioning to larger substrate sizes for LCDs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the effect of a slowing rate of transition to larger substrate
+    sizes on capital intensity and product differentiation;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    technical difficulties and costs associated with developing new
+    technologies for use in LCD manufacturing, such as LEDs for
+    backlighting;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    new energy efficiency standards for large-screen LCD
+    TVs; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    uncertainty with respect to future LCD technology end-use
+    applications and growth drivers.
+
+
+
+
+
+ 
+
+
+    If Applied does not successfully manage the risks resulting from
+    the ongoing changes occurring in the display industry, its
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Applied
+    is exposed to risks as a result of ongoing changes specific to
+    the solar industry.
+
+
+ 
+
+
+    Applied anticipates that an increasing portion of its business
+    will be in the emerging solar market, which, in addition to the
+    general industry changes described above in the third risk
+    factor, is characterized by ongoing changes specific to the
+    solar industry, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the need to continually decrease the
+    cost-per-watt
+    of electricity produced by solar PV products by, among other
+    things, reducing operating costs and increasing throughputs for
+    solar PV manufacturing, and improving the conversion efficiency
+    of solar PVs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the impact on demand for solar PV products arising from the cost
+    of electricity generated by solar PVs compared to the cost of
+    electricity from the existing grid or other energy sources;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the varying energy policies of governments around the world and
+    their effect in influencing the rate of growth of the solar PV
+    market, including the availability and amount of government
+    incentives for solar power such as tax credits, feed-in tariffs,
+    rebates, renewable portfolio standards that require electricity
+    providers to sell a targeted amount of energy from renewable
+    sources, and goals for solar installations on government
+    facilities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the cost of polysilicon and other materials;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    changes in the nature and amount of end demand for solar PVs
+    that may adversely impact the sales growth rates and
+    profitability of Applied’s products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    varying levels of infrastructure investment for “smart
+    grid” technologies to modernize and enhance the
+    transmission, distribution and use of electricity, which link
+    distributed solar PV sources to population centers, increase
+    transmission capability, and optimize power usage;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    access to affordable financing and capital by customers and
+    end-users; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the growing number of solar PV manufacturers and increasing
+    global production capacity for solar PVs, primarily in China as
+    a result of increased solar subsidies and lower manufacturing
+    costs, which may lead to oversupply.
+
+
+
+
+
+ 
+
+
+    If Applied does not successfully manage the risks resulting from
+    the ongoing changes occurring in the solar industry, its
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+ 
+
+
+
+    Applied
+    must adapt its business and product offerings to respond to
+    competition and rapid technological changes.
+
+
+ 
+
+
+    As Applied operates in a highly competitive environment, its
+    future success depends on many factors, including the effective
+    commercialization and customer acceptance of its equipment,
+    services and related products. In addition, Applied must
+    successfully execute its growth strategy, including enhancing
+    market share in existing markets, expanding into related
+    markets, cultivating new markets and exceeding industry growth
+    rates, while constantly improving its operational performance.
+    The development, introduction and support of a broadening set of
+    products in more varied competitive environments have grown
+    increasingly complex and expensive over time. Furthermore, new
+    or improved products may entail higher costs and reduced
+    profits. Applied’s performance may be adversely affected if
+    it does not timely, cost-effectively and successfully:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    develop new products, improve
+    and/or
+    develop new applications for existing products, and adapt
+    similar products for use by customers in different applications
+    and/or
+    markets with varying technical requirements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    appropriately price and achieve market acceptance of products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    differentiate its products from those of competitors and any
+    disruptive technologies, meet performance specifications, and
+    drive efficiencies and cost reductions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    maintain operating flexibility to enable different responses to
+    different markets, customers and applications;
+
+
+
+
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    allocate resources, including people and R&D funding, among
+    Applied’s products and between the development of new
+    products and the enhancement of existing products, as most
+    appropriate and effective for future growth;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    reduce the cost of, and improve the productivity of capital
+    invested in, R&D activities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    accurately forecast demand, work with suppliers and meet
+    production schedules for its products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    improve its manufacturing processes and achieve cost
+    efficiencies across product offerings;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    adapt to changes in value offered by companies in different
+    parts of the supply chain;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    qualify products for volume manufacturing with its
+    customers; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    implement changes in its design engineering methodology,
+    including those that enable reduction of material costs and
+    cycle time, greater commonality of platforms and types of parts
+    used in different systems, greater effectiveness of product life
+    cycle management, and reduced energy usage and environmental
+    impact.
+
+
+
+
+
+ 
+
+
+    If Applied does not successfully manage these challenges, its
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+ 
+
+
+
+    Operating
+    in multiple industries, and the entry into new markets and
+    industries, entail additional challenges.
+
+
+ 
+
+
+    As part of its growth strategy, Applied must successfully expand
+    into related or new markets and industries, either with its
+    existing products or with new products developed internally or
+    obtained through acquisitions. The entry into different markets
+    involves additional challenges, including those arising from:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the need to devote additional resources to develop new products
+    for, and operate in, new markets;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    differing rates of profitability and growth among multiple
+    businesses;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Applied’s ability to anticipate demand, capitalize on
+    opportunities, and avoid or minimize risks;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the complexity of managing multiple businesses with variations
+    in production planning, execution, supply chain management and
+    logistics;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the adoption of new business models;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to undertake activities to grow demand for end-products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to develop adequate new business processes and systems;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Applied’s ability to rapidly expand its operations to meet
+    increased demand and the associated effect on working capital;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    new materials, processes and technologies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to attract, motivate and retain employees with skills
+    and expertise in these new areas;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    new and more diverse customers and suppliers, including some
+    with limited operating histories, uncertain
+    and/or
+    limited funding, evolving business models
+    and/or
+    locations in regions where Applied does not have existing
+    operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    different customer service requirements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    new or different competitors with potentially more financial or
+    other resources, industry experience
+    and/or
+    established customer relationships;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    entry into new industries and countries, with differing levels
+    of government involvement, laws and regulations, and business,
+    employment and safety practices;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    third parties’ intellectual property rights; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to comply with, or work to establish, industry
+    standards and practices.
+
+
+
+
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+    In addition, Applied has begun applying for and receiving
+    funding from United States and other government agencies for
+    certain strategic development programs to increase its R&D
+    resources and address new market opportunities. As a condition
+    to this government funding, Applied may be subject to certain
+    record-keeping, audit, intellectual property rights-sharing
+    and/or other
+    obligations.
+
+
+ 
+
+
+    If Applied does not successfully manage the risks resulting from
+    its diversification and entry into new markets and industries,
+    its business, financial condition and results of operations
+    could be materially and adversely affected.
+
+
+ 
+
+
+
+    Applied
+    is exposed to the risks of operating a global
+    business.
+
+
+ 
+
+
+    In fiscal 2010, approximately 88 percent of Applied’s
+    net sales were to customers in regions outside the
+    United States. Certain of Applied’s R&D and
+    manufacturing facilities, as well as suppliers to Applied, are
+    also located outside the United States, including in Singapore,
+    Taiwan, China, Korea, Israel, Italy and Switzerland. Applied is
+    also expanding its business and operations in new countries. The
+    global nature of Applied’s business and operations presents
+    challenges, including but not limited to those arising from:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    varying regional and geopolitical business conditions and
+    demands;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    political and social attitudes, laws, rules, regulations and
+    policies within countries that favor domestic companies over
+    non-domestic companies, including customer- or
+    government-supported efforts to promote the development and
+    growth of local competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    variations among, and changes in, local, regional, national or
+    international laws and regulations (including intellectual
+    property, labor, tax, and import /export laws), as well as the
+    interpretation and application of such laws and regulations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    global trade issues, including those related to the
+    interpretation and application of import and export licenses;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    positions taken by governmental agencies regarding possible
+    national commercial
+    and/or
+    security issues posed by international business operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    fluctuating raw material, commodity and energy costs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    challenges associated with managing more geographically diverse
+    operations and projects ;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    varying customs, practices and expectations of workers in
+    different regions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    variations in the ability to develop relationships with local
+    customers, suppliers and governments;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    fluctuations in interest rates and currency exchange rates,
+    including the relative strength or weakness of the
+    U.S. dollar and the euro;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to provide sufficient levels of technical support in
+    different locations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    political instability, natural disasters (such as earthquakes,
+    floods or storms), pandemics, terrorism or acts of war in
+    locations where Applied has operations, suppliers or sales;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    cultural and language differences;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    shipping costs
+    and/or
+    delays;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the need to continually improve the Company’s operating
+    cost structure;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulties and uncertainties associated with the entry into
+    new countries;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    uncertainties with respect to economic growth rates in various
+    countries; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    uncertainties with respect to growth rates for the manufacture
+    and sales of semiconductors, LCDs and solar PVs in the
+    developing economies of certain countries.
+
+
+
+
+
+ 
+
+
+    Many of these challenges are present in China and Korea, which
+    are experiencing significant growth of both suppliers and
+    competitors to Applied. Applied further believes that China and
+    Korea present large potential markets
+
+
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+
+    for its products and opportunity for growth over the long term,
+    although at lower projected levels of profitability and margins
+    for certain products than historically have been achieved in
+    other regions. In addition, Applied must regularly reassess the
+    size, capability and location of its global infrastructure and
+    make appropriate changes, and must have effective change
+    management processes and procedures to address changes in its
+    business and operations. These challenges may materially and
+    adversely affect Applied’s business, financial condition
+    and results of operations.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks associated with a highly concentrated
+    customer base.
+
+
+ 
+
+
+    Applied’s semiconductor and flat panel display customer
+    bases historically have been, and are becoming even more, highly
+    concentrated as a result of economic and industry conditions.
+    For example, in fiscal 2010, four semiconductor manufacturers
+    accounted for 51 percent of Silicon Systems Group net
+    sales, and five LCD manufacturers accounted for 71 percent
+    of Display net sales.Certain customers have experienced
+    significant ownership or management changes, consolidated with
+    other manufacturers, outsourced manufacturing activities, or
+    engaged in collaboration or cooperation arrangements with other
+    manufacturers. In addition, customers have entered into
+    strategic alliances or industry consortia that have increased
+    the influence of key industry participants in technology
+    decisions made by their partners. Also, certain semiconductor
+    and display customers are making an increasingly greater
+    percentage of their respective industry’s capital equipment
+    investments.
+
+
+ 
+
+
+    In this environment, contracts or orders from a relatively
+    limited number of semiconductor and display manufacturers have
+    accounted for, and are expected to continue to account for, a
+    substantial portion of Applied’s business, which may result
+    in added complexities in managing customer relationships and
+    transactions. In addition, the mix and type of customers, and
+    sales to any single customer, may vary significantly from
+    quarter to quarter and from year to year. If customers do not
+    place orders, or they substantially reduce, delay or cancel
+    orders, Applied may not be able to replace the business. As
+    Applied’s products are configured to customer
+    specifications, changing, rescheduling or canceling orders may
+    result in significant, non-recoverable costs. Major customers
+    may also seek, and on occasion receive, pricing, payment,
+    intellectual property-related, or other commercial terms that
+    are less favorable to Applied. These factors could have a
+    material adverse effect on Applied’s business, financial
+    condition and results of operations.
+
+
+ 
+
+
+
+    Manufacturing
+    interruptions or delays could affect Applied’s ability to
+    meet customer demand and lead to higher costs, while the failure
+    to estimate customer demand accurately could result in excess or
+    obsolete inventory.
+
+
+ 
+
+
+    Applied’s business depends on its timely supply of
+    equipment, services and related products that meet the rapidly
+    changing technical and volume requirements of its customers,
+    which depends in part on the timely delivery of parts,
+    components and subassemblies (collectively, parts) from
+    suppliers and timely performance by contract manufacturers. Some
+    key parts may be subject to long lead-times
+    and/or
+    obtainable only from a single supplier or limited group of
+    suppliers, and some sourcing or subassembly is provided by
+    suppliers located in countries other than the United States,
+    including China and Korea. Cyclical industry conditions and the
+    volatility of demand for manufacturing equipment increase
+    capital, technical, operational and other risks for companies
+    throughout Applied’s supply chain. Further, the adverse
+    conditions in the credit and financial markets and industry
+    slowdowns in recent periods have caused, and may continue to
+    cause, some suppliers to scale back operations, exit businesses,
+    merge with other companies, or file for bankruptcy protection
+    and possibly cease operations, potentially affecting
+    Applied’s ability to obtain quality parts on a timely
+    basis. Applied may experience significant interruptions of its
+    manufacturing operations, delays in its ability to deliver
+    products or services, increased costs or customer order
+    cancellations as a result of:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the failure or inability of suppliers to timely deliver
+    sufficient quantities of quality parts on a cost-effective basis;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    volatility in the availability and cost of materials;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulties or delays in obtaining required import or export
+    approvals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    information technology or infrastructure failures;
+
+
+
+
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    natural disasters (such as earthquakes, floods or
+    storms); or
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    other causes (such as regional economic downturns, pandemics,
+    political instability, terrorism, or acts of war) that could
+    result in delayed deliveries, manufacturing inefficiencies,
+    increased costs or order cancellations.
+
+
+
+
+
+ 
+
+
+    In addition, Applied’s need to rapidly increase its
+    business and manufacturing capacity to meet increases in demand
+    or expedited shipment schedules may exacerbate any interruptions
+    in Applied’s manufacturing operations and supply chain and
+    the associated effect on Applied’s working capital.
+    Moreover, if actual demand for Applied’s products is
+    different than expected, Applied may purchase more/fewer parts
+    than necessary or incur costs for canceling, postponing or
+    expediting delivery of parts. If Applied purchases inventory in
+    anticipation of customer demand that does not materialize, or if
+    customers reduce or delay orders, Applied may incur excess
+    inventory charges. Any or all of these factors could materially
+    and adversely affect Applied’s business, financial
+    condition and results of operations.
+
+
+ 
+
+
+
+    Applied
+    is exposed to risks associated with acquisitions and strategic
+    investments.
+
+
+ 
+
+
+    Applied has made, and in the future intends to make,
+    acquisitions of, and investments in, companies, technologies or
+    products in existing, related or new markets for Applied.
+    Acquisitions involve numerous risks, including but not limited
+    to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    diversion of management’s attention from other operational
+    matters;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to complete acquisitions as anticipated or at all;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to realize anticipated benefits;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    failure to commercialize purchased technologies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to capitalize on characteristics of new markets that
+    may be significantly different from Applied’s existing
+    markets and where competitors may have stronger market positions
+    and customer relationships;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    failure to attract, retain and motivate key employees from the
+    acquired business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    exposure to new operational risks, rules, regulations, worker
+    expectations, customs and practices to the extent acquired
+    businesses are located in countries where Applied has not
+    historically conducted business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    challenges associated with managing new, more diverse and more
+    widespread operations, projects and people;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to obtain and protect intellectual property rights in
+    key technologies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inadequacy or ineffectiveness of an acquired company’s
+    internal financial controls, disclosure controls and procedures,
+    and/or
+    environmental, health & safety, human resource, or
+    other policies or practices;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    impairment of acquired intangible assets and goodwill as a
+    result of changing business conditions, technological
+    advancements or
+    worse-than-expected
+    performance of the segment;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the risk of litigation or disputes with customers, suppliers,
+    partners or stockholders of an acquisition target arising from a
+    proposed or completed transaction;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    unknown, underestimated
+    and/or
+    undisclosed commitments or liabilities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inappropriate scale of acquired entities’ critical
+    resources or facilities for business needs; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    ineffective integration of operations, systems, technologies,
+    products or employees of an acquired business.
+
+
+
+
+
+ 
+
+
+    Applied also makes strategic investments in other companies,
+    including companies formed as joint ventures, which may decline
+    in value
+    and/or not
+    meet desired objectives. The success of these investments
+    depends on various factors over which Applied may have limited
+    or no control and, particularly with respect to joint ventures,
+    requires ongoing and effective cooperation with strategic
+    partners. The risks to Applied’s strategic investment
+    portfolio may be exacerbated by unfavorable financial market and
+    macroeconomic conditions and, as a result, the value of the
+
+
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+
+    investment portfolio could be negatively impacted and lead to
+    impairment charges. Mergers and acquisitions and strategic
+    investments are inherently subject to significant risks, and the
+    inability to effectively manage these risks could materially and
+    adversely affect Applied’s business, financial condition
+    and results of operations. If Applied does not successfully
+    manage the risks associated with acquisitions and strategic
+    investments, its business, financial condition and results of
+    operations could be materially and adversely affected.
+
+
+ 
+
+
+
+    The
+    ability to attract, retain and motivate key employees is vital
+    to Applied’s success.
+
+
+ 
+
+
+    Applied’s success and competitiveness depend in large part
+    on its ability to attract, retain and motivate key employees.
+    Achieving this objective may be difficult due to many factors,
+    including fluctuations in global economic and industry
+    conditions, changes in Applied’s management or leadership,
+    competitors’ hiring practices, cost reduction activities
+    (including workforce reductions), and the effectiveness of
+    Applied’s compensation and benefit programs, including its
+    share-based programs. Applied periodically evaluates its overall
+    compensation program and makes adjustments, as appropriate, to
+    enhance its competitiveness. If Applied does not successfully
+    attract, retain and motivate key employees, Applied may be
+    unable to capitalize on its opportunities and its operating
+    results may be materially and adversely affected.
+
+
+ 
+
+
+
+    The
+    failure to successfully implement and conduct outsourcing
+    activities and other operational initiatives could adversely
+    affect results of operations.
+
+
+ 
+
+
+    To better align its costs with market conditions, locate closer
+    to customers, enhance productivity, and improve efficiencies,
+    Applied conducts engineering, software development,
+    manufacturing, sourcing and other operations in regions outside
+    the United States, including India, China, and Korea. Applied is
+    implementing a more distributed manufacturing model, which
+    includes transitioning certain manufacturing and supply chain
+    activities from the United States and Europe to Singapore,
+    Taiwan and other countries in Asia and completing assembly of
+    some systems at the customer site. In addition, Applied
+    outsources certain functions to third parties, including
+    companies in the United States, India, China, Korea and other
+    countries. Outsourced functions include contract manufacturing,
+    engineering, customer support, software development, information
+    technology support, finance and administrative activities. The
+    expanding role of third party providers has required changes to
+    Applied’s existing operations and the adoption of new
+    procedures and processes for retaining and managing these
+    providers, as well as redistributing responsibilities as
+    warranted, in order to realize the potential productivity and
+    operational efficiencies, assure quality and continuity of
+    supply, and protect Applied’s intellectual property. If
+    Applied does not accurately forecast the amount, timing and mix
+    of demand for products, or if contract manufacturers or other
+    outsource providers fail to perform in a timely manner or at
+    satisfactory quality levels, Applied’s ability to meet
+    customer requirements could suffer, particularly during a market
+    upturn.
+
+
+ 
+
+
+    In addition, Applied is implementing a comprehensive program to
+    better align its global organizations and processes, including
+    initiatives to enhance the Asia supply chain, integrate its
+    sales teams into the business units, and improve back office and
+    information technology infrastructure for more efficient
+    transaction processing. Applied also is implementing a
+    multi-year, company-wide program to transform certain business
+    processes, including the transition to a single enterprise
+    resource planning (ERP) software system to perform various
+    functions. The implementation of additional functionality to the
+    ERP system entails certain risks, including difficulties with
+    changes in business processes that could disrupt Applied’s
+    operations, such as its ability to track orders and timely ship
+    products, project inventory requirements, manage its supply
+    chain and aggregate financial and operational data. The
+    implementation of new initiatives may not achieve the
+    anticipated benefits and may divert management’s attention
+    from other operational activities, negatively affect employee
+    morale, or have other unintended consequences.
+
+
+ 
+
+
+    If Applied does not effectively develop and implement its
+    outsourcing and relocation strategies, if required export and
+    other governmental approvals are not timely obtained, if
+    Applied’s third party providers do not perform as
+    anticipated, or if there are delays or difficulties in enhancing
+    business processes, Applied may not realize anticipated
+    productivity improvements or cost efficiencies, and may
+    experience operational difficulties, increased costs (including
+    energy and transportation), manufacturing interruptions or
+    delays, inefficiencies in the structure
+    and/or
+    operation of its supply chain, loss of its intellectual property
+    rights, quality issues, increased product
+
+
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+
+    time-to-market,
+    and/or
+    inefficient allocation of human resources, any or all of which
+    could materially and adversely affect Applied’s business,
+    financial condition and results of operations.
+
+
+ 
+
+
+
+    Applied
+    may incur impairment charges to goodwill or long-lived
+    assets.
+
+
+ 
+
+
+    Applied has a significant amount of goodwill and other acquired
+    intangible assets related to acquisitions. Goodwill and
+    purchased intangible assets with indefinite useful lives are not
+    amortized, but are reviewed for impairment annually during the
+    fourth quarter of each fiscal year, and more frequently when
+    events or changes in circumstances indicate that the carrying
+    value of an asset may not be recoverable. The review compares
+    the fair value for each of Applied’s reporting units to its
+    associated carrying value, including goodwill. Factors that
+    could lead to impairment of goodwill and intangible assets
+    include adverse industry or economic trends, reduced estimates
+    of future cash flows, declines in the market price of Applied
+    common stock, changes in the Company’s strategies or
+    product portfolio, and restructuring activities. Applied’s
+    valuation methodology for assessing impairment requires
+    management to make judgments and assumptions based on historical
+    experience and projections of future operating performance.
+    Applied may be required to record a charge to earnings during
+    the period in which an impairment of goodwill or amortizable
+    intangible assets is determined to exist, which could materially
+    and adversely affect Applied’s results of operations.
+
+
+ 
+
+
+
+    Applied
+    is exposed to various risks related to legal proceedings or
+    claims and protection of intellectual property
+    rights.
+
+
+ 
+
+
+    Applied from time to time is, and in the future may be, involved
+    in legal proceedings or claims regarding patent infringement,
+    intellectual property rights, antitrust, environmental
+    regulations, securities, contracts, product performance, product
+    liability, unfair competition, misappropriation of trade
+    secrets, employment, workplace safety, and other matters.
+    Applied also on occasion receives notification from customers
+    who believe that Applied owes them indemnification or other
+    obligations related to claims made against such customers by
+    third parties.
+
+
+ 
+
+
+    In February 2010, the Seoul Prosecutor’s Office for the
+    Eastern District in Korea indicted certain employees of Applied
+    Materials Korea (AMK), including the former head of AMK who at
+    the time of indictment was a vice president of Applied
+    Materials, Inc., along with employees of several other
+    companies, alleging the improper receipt and use of the
+    confidential information of Samsung Electronics Co., Ltd.
+    (Samsung), a major customer. Hearings on these matters are
+    ongoing in the Seoul Eastern District Court.. Applied and
+    Samsung entered into a settlement agreement effective as of
+    November 1, 2010, which resolves potential civil claims
+    related to this matter and which is separate from and does not
+    affect the criminal proceedings.
+
+
+ 
+
+
+    Legal proceedings and claims, whether with or without merit, and
+    associated internal investigations, may (1) be
+    time-consuming and expensive to prosecute, defend or conduct;
+    (2) divert management’s attention and other Applied
+    resources; (3) inhibit Applied’s ability to sell its
+    products; (4) result in adverse judgments for damages,
+    injunctive relief, penalties and fines;
+    and/or
+    (5) negatively affect Applied’s business. There can be
+    no assurance regarding the outcome of current or future legal
+    proceedings, claims or investigations. If Applied is not able to
+    favorably resolve or settle legal proceedings or claims, or in
+    the event of any adverse findings against Applied or any of its
+    employees, Applied’s business, financial condition and
+    results of operations could be materially and adversely affected
+    and Applied may suffer harm to its reputation.
+
+
+ 
+
+
+    Applied’s success depends in significant part on the
+    protection of its intellectual property and other rights.
+    Infringement of Applied’s rights by a third party, such as
+    the unauthorized manufacture or sale of equipment or spare
+    parts, could result in uncompensated lost market and revenue
+    opportunities for Applied. Applied’s intellectual property
+    rights may not provide significant competitive advantages if
+    they are circumvented, invalidated, rendered obsolete by the
+    rapid pace of technological change, or if Applied does not
+    adequately protect or assert these rights. Furthermore, the laws
+    and practices of other countries, including China, India, Taiwan
+    and Korea, permit the protection and enforcement of
+    Applied’s rights to varying extents, which may not be
+    sufficient to protect Applied’s rights. Applied previously
+    entered into an arrangement with one of its competitors to
+    decrease the risk of patent infringement lawsuits in the future.
+    There can be no assurance that the intended results of this
+    arrangement will be achieved or that Applied will be able to
+    adequately protect its intellectual property rights with the
+    restrictions associated with the arrangement. If Applied is not
+    able to favorably resolve or settle claims, obtain or enforce
+
+
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+
+    intellectual property rights, obtain necessary licenses on
+    commercially reasonable terms,
+    and/or
+    successfully prosecute or defend its intellectual property
+    position, Applied’s business, financial condition and
+    results of operations could be materially and adversely affected
+    and Applied may suffer harm to its reputation. See Note 18
+    of Notes to Consolidated Financial Statements.
+
+
+ 
+
+
+
+    Changes
+    in tax rates or tax assets and liabilities could affect results
+    of operations.
+
+
+ 
+
+
+    As a global company, Applied is subject to taxation in the
+    United States and various other countries. Significant judgment
+    is required to determine and estimate worldwide tax liabilities.
+    Applied’s future annual and quarterly tax rates could be
+    affected by numerous factors, including changes in the:
+    (1) applicable tax laws; (2) amount and composition of
+    pre-tax income in countries with differing tax rates; or
+    (3) valuation of Applied’s deferred tax assets and
+    liabilities.
+
+
+ 
+
+
+    To better align with the increasingly international nature of
+    its business, Applied is transitioning certain manufacturing,
+    supply chain, and other operations into Asia, bringing these
+    activities closer to customers. These changes are expected to
+    result in a reduction of future operating costs. In Singapore,
+    Applied is pursuing available tax incentives that provide that
+    certain income earned in Singapore would be subject to tax
+    holidays or reduced income tax rates. To obtain these tax
+    benefits, Applied must meet requirements relating to various
+    activities. Applied is engaged in discussions with tax
+    authorities in Singapore and the United States concerning these
+    incentives. Applied’s ability to realize benefits from
+    these initiatives could be materially affected if, among other
+    things, applicable requirements are not met, the incentives are
+    substantially modified, or if Applied incurs net losses for
+    which it cannot claim a deduction.
+
+
+ 
+
+
+    In addition, Applied is subject to regular examination by the
+    Internal Revenue Service and other tax authorities, and from
+    time to time initiates amendments to previously filed tax
+    returns. Applied regularly assesses the likelihood of favorable
+    or unfavorable outcomes resulting from these examinations and
+    amendments to determine the adequacy of its provision for income
+    taxes, which requires estimates and judgments. Although Applied
+    believes its tax estimates are reasonable, there can be no
+    assurance that the tax authorities will agree with such
+    estimates. Applied may have to engage in litigation to achieve
+    the results reflected in the estimates, which may be
+    time-consuming and expensive. There can be no assurance that
+    Applied will be successful or that any final determination will
+    not be materially different from the treatment reflected in
+    Applied’s historical income tax provisions and accruals,
+    which could materially and adversely affect Applied’s
+    financial condition and results of operations.
+
+
+ 
+
+
+
+    Applied
+    is subject to risks of non-compliance with environmental and
+    safety regulations.
+
+
+ 
+
+
+    Applied is subject to environmental and safety regulations in
+    connection with its global business operations, including but
+    not limited to: regulations related to the development,
+    manufacture and use of its products; recycling and disposal of
+    materials used in its products or in producing its products; the
+    operation of its facilities; and the use of its real property.
+    The failure or inability to comply with existing or future
+    environmental and safety regulations, such as those related to
+    climate change, could result in: (1) significant
+    remediation liabilities; (2) the imposition of fines;
+    (3) the suspension or termination of the development,
+    manufacture, sale or use of certain of its products;
+    (4) limitations on the operation of its facilities or
+    ability to use its real property;
+    and/or
+    (5) a decrease in the value of its real property, each of
+    which could have a material adverse effect on Applied’s
+    business, financial condition and results of operations.
+
+
+ 
+
+
+
+    Applied
+    is exposed to various risks related to the regulatory
+    environment.
+
+
+ 
+
+
+    Applied is subject to various risks related to: (1) new,
+    different, inconsistent or even conflicting laws, rules and
+    regulations that may be enacted by legislative bodies
+    and/or
+    regulatory agencies in the countries in which Applied operates;
+    (2) disagreements or disputes between national or regional
+    regulatory agencies related to international trade; and
+    (3) the interpretation and application of laws, rules and
+    regulations. For example, as a public company with global
+    operations, Applied is subject to the laws of multiple
+    jurisdictions and the rules and regulations of various governing
+    bodies, including those related to financial and other
+    disclosures, corporate governance, privacy, and anti-corruption.
+    Changes in laws, regulations and standards may create
+    uncertainty regarding compliance matters. Efforts to comply with
+    new and changing regulations have resulted in, and are likely to
+    continue to result in, increased general and administrative
+    expenses and a diversion of management time and attention from
+    revenue-
+
+
+
+
+
+    
+    25
+
+
+
+Table of Contents
+
+
+
+
+
+    generating activities to compliance activities. If Applied is
+    found by a court or regulatory agency not to be in compliance
+    with applicable laws, rules or regulations, Applied could be
+    subject to legal or regulatory sanctions, the public’s
+    perception of Applied could decline, and Applied’s
+    business, financial condition and results of operations could be
+    materially and adversely affected.
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

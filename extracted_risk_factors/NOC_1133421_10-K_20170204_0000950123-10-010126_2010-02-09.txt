@@ -1,0 +1,3239 @@
+Item 1A.
+
+
+ 
+
+
+
+    Organization
+
+
+
+
+
+    From time to time, we acquire or dispose of businesses, and
+    realign contracts, programs or business areas among and within
+    our operating segments that possess similar customers,
+    expertise, and capabilities. Internal realignments are designed
+    to more fully leverage existing capabilities and enhance
+    development and delivery of products and services. The operating
+    results for all periods presented have been revised to reflect
+    these changes made through December 31, 2009.
+
+
+
+
+    
+    -1-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    In January 2009, we streamlined our organizational structure by
+    reducing the number of operating segments from seven to five.
+    The five segments are Aerospace Systems, which combines the
+    former Integrated Systems and Space Technology segments;
+    Electronic Systems; Information Systems, which combines the
+    former Information Technology and Mission Systems segments;
+    Shipbuilding; and Technical Services. Creation of the Aerospace
+    Systems and Information Systems segments was intended to
+    strengthen our alignment with customers, improve our ability to
+    execute on programs and win new business, and enhance cost
+    competitiveness.
+
+
+ 
+
+
+    During the first quarter of 2009, we realigned certain
+    logistics, services, and technical support programs and
+    transferred assets from the Information Systems and Electronic
+    Systems segments to the Technical Services segment. This
+    realignment was intended to strengthen our core capability in
+    aircraft and electronics maintenance, repair and overhaul, life
+    cycle optimization, and training and simulation services.
+
+
+ 
+
+
+    During the first quarter of 2009, we transferred certain optics
+    and laser programs from the Information Systems segment to the
+    Aerospace Systems segment. The prior year sales and segment
+    operating income were not reclassified to reflect this business
+    transfer as the operating results of this business were not
+    considered material.
+
+
+ 
+
+
+    In December 2009, we sold our Advisory Services Division (ASD),
+    for $1.65 billion in cash to an investor group led by
+    General Atlantic LLC and affiliates of Kohlberg Kravis
+    Roberts & Co. L.P., and recognized a gain of
+    $15 million, net of taxes. ASD was a business unit
+    comprised of the assets and liabilities of TASC, Inc., its
+    wholly-owned subsidiary TASC Services Corporation, and certain
+    contracts carved out from other businesses also in our
+    Information Systems segment that provide systems engineering
+    technical assistance (SETA) and other analysis and advisory
+    services.
+
+
+ 
+
+
+    In January 2008, we realigned the Newport News and Ship Systems
+    businesses into a single operating segment called Northrop
+    Grumman Shipbuilding. Previously, these businesses were separate
+    operating segments which were aggregated into a single reporting
+    segment for financial reporting purposes. In addition, we
+    transferred certain Electronic Systems businesses to the former
+    Mission Systems segment during the first quarter of 2008.
+
+
+ 
+
+
+    During the second quarter of 2008, we transferred certain
+    programs and assets from the missiles business in the
+    Information Systems segment to the Aerospace Systems segment.
+    This transfer allowed Information Systems to focus on the
+    rapidly growing command, control, communications, computing,
+    intelligence, surveillance, and reconnaissance (C4ISR) business.
+    The missiles business became an integrated element of our
+    Aerospace business growth strategy.
+
+
+ 
+
+
+
+    AEROSPACE
+    SYSTEMS
+
+
+ 
+
+
+    Aerospace Systems, headquartered in Redondo Beach, California,
+    is a premier developer, integrator, producer and supporter of
+    manned and unmanned aircraft, spacecraft, high-energy laser
+    systems, microelectronics and other systems and subsystems
+    critical to maintaining the nation’s security and
+    leadership in technology. Aerospace Systems’ customers,
+    primarily government agencies, use these systems in many
+    different mission areas including intelligence, surveillance and
+    reconnaissance; communications; battle management; strike
+    operations; electronic warfare; missile defense; earth
+    observation; space science; and space exploration. The segment
+    consists of four business areas: Strike & Surveillance
+    Systems, Space Systems, Battle Management & Engagement
+    Systems, and Advanced Programs & Technology.
+
+
+ 
+
+
+    Strike & Surveillance Systems –
+    designs, develops, manufactures and integrates tactical and
+    long-range strike aircraft systems, unmanned systems, and
+    missile systems. These include the RQ-4 Global Hawk unmanned
+    reconnaissance system, B-2 stealth bomber, F-35
+    Lightning II joint strike fighter,
+    F/A-18 Super
+    Hornet strike fighter, Minuteman III Intercontinental
+    Ballistic Missile (ICBM), MQ-8B Fire Scout unmanned aircraft
+    system, Multi-Platform Radar Technology Insertion Program
+    (MP-RTIP), and aerial targets.
+
+
+ 
+
+
+    Space Systems – designs, develops,
+    manufactures, and integrates spacecraft systems, subsystems and
+    electronic and communications payloads. Major programs include
+    the National Polar-orbiting Operational Environmental
+
+
+
+
+
+    
+    -2-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Satellite System (NPOESS), the James Webb Space Telescope
+    (JWST), Advanced Extremely High Frequency (AEHF) payload, Space
+    Tracking and Surveillance System (STSS) and many restricted
+    programs.
+
+
+ 
+
+
+    Battle Management & Engagement Systems –
+    designs, develops, manufactures, and integrates airborne
+    early warning, surveillance, battlefield management, and
+    electronic warfare systems. Key programs include the
+    E-2 Hawkeye,
+    Joint Surveillance Target Attack Radar System (Joint STARS),
+    Broad Area Maritime Surveillance (BAMS) unmanned aircraft
+    system, the EA-6B Prowler, and its next generation platform, the
+    EA-18G Growler.
+
+
+ 
+
+
+    Advanced Programs & Technology –
+    creates advanced technologies and concepts to satisfy
+    existing and emerging customer needs. It matures these
+    technologies and concepts to create and capture new programs
+    that other Aerospace Systems business areas can execute.
+    Existing programs include the Navy Unmanned Combat Air System
+    (N-UCAS), the Airborne Laser (ABL), and other directed energy
+    and advanced concepts programs.
+
+
+ 
+
+
+
+    ELECTRONIC
+    SYSTEMS
+
+
+ 
+
+
+    Electronic Systems, headquartered in Linthicum, Maryland, is a
+    leading designer, developer, manufacturer and integrator of a
+    variety of advanced electronic and maritime systems for national
+    security and select non-defense applications. Electronic Systems
+    provides systems to U.S. and international customers for
+    such applications as airborne surveillance, aircraft fire
+    control, precision targeting, electronic warfare, automatic test
+    equipment, inertial navigation, integrated avionics, space
+    sensing, intelligence processing, air and missile defense,
+    communications, mail processing, biochemical detection, ship
+    bridge control and radar, ship machinery controls, and shipboard
+    components. The segment is composed of seven business areas:
+    Aerospace Systems; Defensive Systems; Government Systems; Land
+    Forces; Naval & Marine Systems; Navigation Systems;
+    and Space & Intelligence, Surveillance &
+    Reconnaissance (ISR) Systems.
+
+
+ 
+
+
+    Aerospace Systems – provides sensors, sensor
+    processing, integrated sensor suites, and radar countermeasure
+    systems for military surveillance and precision-strike; missile
+    tracking and warning; and radio frequency electronic warfare.
+    Fire control radars include systems for the F-16, F-22A, F-35,
+    and B-1B. Navigation radars include commercial and military
+    systems for transport and cargo aircraft. Surveillance products
+    include the Airborne Warning and Control System radar, the
+    Multi-role Electronically Scanned Array (MESA) radar, the
+    MP-RTIP, the ship-board Cobra Judy Replacement radar, and
+    multiple payloads on the
+    P-8A. Radio
+    frequency electronic warfare products include radar warning
+    receivers, self-protection jammers, and integrated electronic
+    warfare systems for aircraft such as the EA-6B, EA-18, F-16, and
+    F-15.
+
+
+ 
+
+
+    Defensive Systems – provides systems that
+    support combat aviation by protecting aircraft and helicopters
+    from attack, by providing capabilities for precise targeting and
+    tactical surveillance, by improving mission availability through
+    automated test systems, and by improving mission skills through
+    advanced simulation systems. A wide variety of fixed wing and
+    helicopter protection systems include threat detection and
+    laser-based countermeasures systems to defeat ground-launched
+    infrared-guided missiles. Defensive Systems’
+    countermeasures systems are currently installed on over 40 types
+    of aircraft, many of which are conducting combat operations in
+    Iraq and Afghanistan. Targeting systems utilize lasers for
+    target designation and precision weapon delivery, image
+    processing, and target acquisition, identification, and
+    tracking. The LITENING targeting pod system is combat-proven on
+    the AV-8B,
+    A-10A/C,
+    B-52H, F-15E, F-16, and
+    F/A-18A/C/D.
+    Test systems include systems to test electronic components of
+    combat aircraft on the flight line and in repair facilities.
+    Defensive Systems also provides advanced simulators for use on
+    test ranges and training facilities to emulate threats of
+    potential adversaries. Customers include the
+    U.S. government and a wide variety of international allies.
+
+
+ 
+
+
+    Government Systems – provides products and
+    services to meet the needs of governments for improvements in
+    the effectiveness of their civil and military infrastructure and
+    of their combat and counter-terrorism operations. This includes
+    systems and system integration of products and services for
+    postal automation, for the detection and alert of chemical,
+    biological, radiological, nuclear, and explosive material, and
+    for homeland defense, communications, and enterprise management.
+    Key programs include: Flats Sequencing System; International
+    Sorting Centers;
+
+
+
+
+
+    
+    -3-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    U.S. Postal Service bio-detection systems; and national
+    level command and control, integrated air and missile defense
+    and homeland defense systems for international customers.
+
+
+ 
+
+
+    Land Forces – provides a full range of
+    warfighting system solutions for the “digital
+    battlefield,” including fire control systems for airborne
+    and tracked vehicles, air and ground sensors to detect enemy
+    movement, tactical range finding and precise laser designation,
+    and systems that detect and defend against enemy fire. These
+    solutions include laser designators and rangefinders,
+    ground-based tactical radars for warning of missile and
+    artillery attack, situational awareness sensors, unattended
+    sensor systems, ground vehicle communication networks, precision
+    guided munitions and compact lightweight Synthetic Aperture
+    Radar /Ground Moving Target Indicator (SAR/GMTI) radars for
+    unmanned/rotary wing aircraft. Sensor technologies provided
+    include radio frequency, infrared, and electro-optical.
+    Principal programs include the Longbow Weapons System for the
+    Apache attack helicopter, the Lightweight Laser Designator
+    Rangefinder, the Vehicular Intercommunication System –
+    Extended (VIS-X), the Firefinder counter-battery integrated
+    radar system, the Ground/Air Task Oriented Radar System
+    (G/ATOR), and the lightweight STARLite SAR/GMTI for unmanned air
+    vehicles.
+
+
+ 
+
+
+    Naval & Marine Systems – provides
+    major subsystems and subsystem integration for sensors, sensor
+    processing, missile launching, ship controls and power
+    generation. It provides systems to military surface and
+    subsurface platforms, and bridge and machinery control systems
+    for commercial maritime applications. Principal programs
+    include: radars for navigation; radars for gun fire control and
+    cruise missile defense; bridge management and control systems;
+    power generation systems for aircraft carriers; power,
+    propulsion, and launch systems for Virginia-class
+    submarines; launch systems for Trident submarines; and unmanned
+    semi-autonomous naval systems.
+
+
+ 
+
+
+    Navigation Systems – provides advanced
+    navigation, avionics systems, and command and control centers
+    for military and commercial applications. Its products are used
+    in military air, land, sea, and space systems as well as
+    commercial space and aircraft in both U.S. and
+    international markets. Its subsidiaries, Northrop Grumman LITEF
+    (Freiburg, Germany) and Northrop Grumman Italia (Pomezia,
+    Italy), are leading European inertial sensors and systems
+    suppliers. Key Navigation Systems programs and applications
+    include: integrated avionics for the U.S. Marine Corps
+    attack and utility helicopters and U.S. Navy
+    E-2
+    aircraft; military navigation and positioning systems for the
+    F-16 fighter, F-22A fighter/attack aircraft, Eurofighter, and
+    U.S. Navy MH-60 helicopter; navigation systems for
+    commercial aircraft; navigation systems for military and civil
+    space satellites and deep space exploration. Navigation Systems
+    also develops and produces fiber-optic acoustic systems for
+    underwater surveillance for Virginia-class submarines and
+    the AN/TYQ-23 multi-service mobile tactical command centers for
+    the U.S. Marine Corps and U.S. Air Force.
+
+
+ 
+
+
+    Space & ISR Systems – provides
+    space-based sensor and exploitation systems for civil, military,
+    and U.S. intelligence community customers, as well as
+    ground/surface based command, control, communications,
+    computers, intelligence, surveillance, and reconnaissance
+    (C4ISR) solutions to process, exploit, and disseminate
+    multi-sensor data. Capabilities include space-based payloads,
+    radar, Overhead Non-Imaging Infrared sensors,
+    electro-optic & multi/hyper-spectral sensors, passive
+    microwave sounders, mission processing solutions, and
+    Service-Oriented open architecture C4ISR systems. The current
+    portfolio of programs includes the Spaced-Based Infrared System
+    as the lead for the payload and mission processing systems, the
+    Distributed Common Ground System-Army as the system integrator,
+    as well as a variety of civil space and restricted programs.
+
+
+ 
+
+
+
+    INFORMATION
+    SYSTEMS
+
+
+ 
+
+
+    Information Systems, headquartered in Reston, Virginia, is a
+    leading global provider of advanced solutions for the DoD,
+    national intelligence, federal civilian, state and local
+    agencies, and commercial customers. Products and services are
+    focused on the fields of command, control, communications,
+    computers and intelligence; air and missile defense; airborne
+    reconnaissance; intelligence processing; decision support
+    systems; cybersecurity; information technology; and systems
+    engineering and systems integration. The segment consists of
+    three business areas: Defense Systems; Intelligence Systems; and
+    Civil Systems.
+
+
+
+
+    
+    -4-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Defense Systems – is a major end-to-end
+    provider of net-enabled Battle Management C4ISR systems,
+    decision superiority, and mission-enabling solutions and
+    services in support of the national defense and security of our
+    nation and its allies. The division is a prime developer and
+    integrator of many of DoD’s programs-of-record,
+    particularly for command and control and communications for the
+    Air Force, the Army, the Navy, and Joint Forces. Major product
+    and services include Enterprise Infrastructure and Applications,
+    Mission Systems Integration, Military Communications &
+    Networks, BMC2 and Decision Support Systems, Global and
+    Operational C2, Ground and Maritime Combat Systems, Air and
+    Missile Defense, Combat Support Solutions and Services, Defense
+    Logistics Automation, and Force and Critical Infrastructure
+    Protection. Systems are installed in operational and command
+    centers world-wide and across all DoD services and joint command.
+
+
+ 
+
+
+    Intelligence Systems – is focused on the
+    delivery of world-class systems and services to the
+    U.S. intelligence community. Major offerings include
+    Studies & Analysis, Systems Development, Enterprise
+    IT, Prime Systems Integration, Products, Sustainment, and
+    Operations and Maintenance. Customer focus addresses several
+    mission areas including Airborne ISR, Geospatial Intelligence,
+    Ground Systems, Integrated Intelligence and dynamic Cyber
+    defense. Sustaining and growing the business in today’s
+    market mandates sharing meaningful information across agencies
+    through development of cost effective systems that are
+    responsive to mutual requirements. Intelligence Systems is also
+    creating new responsive capabilities leveraging existing systems
+    to provide solutions to customer needs through labs and
+    integration centers.
+
+
+ 
+
+
+    Civil Systems – provides specialized
+    information systems and services in support of critical
+    government civil missions, such as homeland security, public
+    health, cyber security, air traffic management and public
+    safety. Primary customers are federal civilian agencies, with
+    state and local customers and the U.S. Postal Service also
+    being served. Civil Systems develops and implements solutions
+    that combine a deep understanding of civil government domains
+    with core expertise in prime systems integration, enterprise
+    applications development, and high value IT services including
+    cyber security, identity management and advanced network
+    communications.
+
+
+ 
+
+
+
+    SHIPBUILDING
+
+
+ 
+
+
+    Shipbuilding, headquartered in Newport News, Virginia, is the
+    nation’s sole industrial designer, builder, and refueler of
+    nuclear-powered aircraft carriers and one of only two companies
+    capable of designing and building nuclear-powered submarines for
+    the U.S. Navy. Shipbuilding is also one of the
+    nation’s leading full service systems providers for the
+    design, engineering, construction, and life cycle support of
+    major programs for the surface ships of the U.S. Navy,
+    U.S. Coast Guard, and international navies. The segment
+    includes the following areas of business: Aircraft Carriers;
+    Expeditionary Warfare; Surface Combatants; Submarines; Coast
+    Guard & Coastal Defense; Fleet Support; and
+    Services & Other.
+
+
+ 
+
+
+    Aircraft Carriers – The U.S. Navy’s
+    newest carrier and the last of the Nimitz class, the USS
+    George H. W. Bush, was delivered in May 2009. Design work on
+    the next generation carrier, the Ford class has been
+    underway for over eight years. The Ford class
+    incorporates transformational technologies including an enhanced
+    flight deck with increased sortie rates, improved weapons
+    movement, a redesigned island, a new nuclear power plant design,
+    flexibility to incorporate future technologies, and reduced
+    manning. In 2008, Shipbuilding was awarded a $5.1 billion
+    contract for construction of the first ship of the class, the
+    Gerald R. Ford, which is scheduled for delivery in 2015.
+    The segment also provides ongoing maintenance for the
+    U.S. Navy aircraft carrier fleet through overhaul,
+    refueling, and repair work. In 2009, the completion of the
+    refueling and complex overhaul of the USS Carl Vinson was
+    followed by the arrival of the USS Theodore Roosevelt,
+    which is expected to be redelivered to the U.S. Navy
+    following its refueling in early 2013. Shipbuilding is also
+    currently performing a multi-year maintenance service of the
+    first nuclear-powered carrier, USS Enterprise, with
+    redelivery anticipated in early 2010.
+
+
+ 
+
+
+    Expeditionary Warfare – Shipbuilding is the
+    sole provider of amphibious assault ships for the
+    U.S. Navy. In 2009, construction of the Wasp class
+    multipurpose amphibious assault ship was concluded with the
+    delivery of LHD 8. Construction of the San Antonio
+    class continues, with five ships delivered from 2005 to 2009
+    and four currently in construction. In 2007, Shipbuilding was
+    awarded the construction contract for LHA 6, the first in a new
+    class
+
+
+
+
+
+    
+    -5-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    of enhanced amphibious assault ships. The first ship of the
+    America class ships is currently under construction and
+    is expected to join the fleet in 2013.
+
+
+ 
+
+
+    Surface Combatants – Shipbuilding designs and
+    constructs Arleigh Burke class Aegis guided missile
+    destroyers, as well as major components for the Zumwalt
+    class, a land attack destroyer. Shipbuilding has delivered 26
+    Arleigh Burke destroyers to the U.S. Navy, currently
+    has two under construction, and was awarded a long lead time
+    material contract for a restart of the Arleigh Burke
+    class in December 2009. Shipbuilding’s participation in the
+    Zumwalt program includes detailed design and construction
+    of the ships’ integrated composite deckhouses, as well as
+    portions of the ships’ peripheral vertical launch systems.
+    The U.S. Navy expects to build three Zumwalt class
+    destroyers.
+
+
+ 
+
+
+    Submarines – Northrop Grumman is one of only
+    two U.S. companies capable of designing and building
+    nuclear-powered submarines. In February 1997, the company and
+    Electric Boat, a wholly owned subsidiary of General Dynamics
+    Corporation, reached an agreement to cooperatively build
+    Virginia class nuclear attack submarines. The initial
+    four submarines in the class were delivered in 2004, 2006, and
+    2008. Shipbuilding and Electric Boat were awarded a construction
+    contract in August 2003 for the second block of six Virginia
+    class submarines, the first two of which were delivered in
+    2008 and 2009, respectively. Construction on the remaining four
+    submarines is underway, with the last scheduled to be delivered
+    in 2014. In December 2008, Shipbuilding and Electric Boat were
+    awarded a construction contract for the third block of eight
+    Virginia class submarines. The multi-year contract allows
+    Shipbuilding and its teammate to proceed with the construction
+    of one submarine per year in 2009 and 2010, and two submarines
+    per year from 2011 to 2013. The eighth submarine to be procured
+    under this contract is scheduled for delivery in 2019.
+
+
+ 
+
+
+    Coast Guard & Coastal Defense –
+    Shipbuilding is a joint venture partner along with Lockheed
+    Martin for the Coast Guard’s Deepwater Modernization
+    Program. Shipbuilding has design and production responsibility
+    for surface ships. In 2006, the Shipbuilding/Lockheed Martin
+    joint venture was awarded a
+    43-month
+    contract extension for the Deepwater program. The first National
+    Security Cutter (NSC), USCGC Berthoff, was delivered to
+    the Coast Guard in 2008 followed by the Waesche (NSC2) in
+    2009. Currently, the Stratton (NSC3) is in construction,
+    and long lead procurement is underway for NSC4.
+
+
+ 
+
+
+    Fleet Support – Fleet Support provides
+    after-market services, including on-going maintenance and repair
+    work, for a wide array of naval and commercial vessels. The
+    segment has ship repair facilities in the U.S. Navy’s
+    largest homeports of Norfolk, Virginia, and San Diego,
+    California.
+
+
+ 
+
+
+    Services & Other – Shipbuilding
+    provides various services to commercial nuclear and non-nuclear
+    industrial customers. In January 2008, Savannah River Nuclear
+    Solutions, a joint venture among Shipbuilding, Fluor
+    Corporation, and Honeywell, was awarded a contract for site
+    management and operations of the U.S. Department of
+    Energy’s Savannah River Site in Aiken, South Carolina. In
+    October 2008, Shipbuilding announced the formation of a joint
+    venture with AREVA NP to build a new manufacturing and
+    engineering facility in Newport News, Virginia, to help supply
+    the growing American nuclear energy sector.
+
+
+ 
+
+
+
+    TECHNICAL
+    SERVICES
+
+
+ 
+
+
+    Technical Services, headquartered in Herndon, Virginia, is a
+    leading provider of logistics, infrastructure, and sustainment
+    support, while also providing a wide array of technical services
+    including training and simulation. The segment consists of three
+    areas of business: Systems Support; Training &
+    Simulation; and Life Cycle Optimization & Engineering.
+
+
+ 
+
+
+    Systems Support – provides infrastructure and
+    base operations management, including base support and civil
+    engineering work, military aerial and ground range operations,
+    support functions which include space launch services,
+    construction, combat vehicle maintenance, protective and
+    emergency services, and range-sensor-instrumentation operations.
+    Primary customers include the Department of Energy, the DoD, the
+    Department of Homeland Security, and the U.S. intelligence
+    community, in both domestic and international locations.
+
+
+
+
+    
+    -6-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Training and Simulation – provides realistic
+    and comprehensive training to senior military leaders and
+    peacekeeping forces, designs and develops future conflict
+    training scenarios, and provides U.S. warfighters and
+    international allies with live, virtual, and constructive
+    training programs. This business area also offers diverse
+    training applications ranging from battle command to
+    professional military education. Primary customers include the
+    DoD, Department of State and Department of Homeland Security.
+
+
+ 
+
+
+    Life Cycle Optimization and Engineering –
+    provides complete life cycle product support and weapons system
+    sustainment. This business area is focused on providing
+    Performance Based Logistical support to the warfighter including
+    supply chain management services, warehousing and inventory
+    transportation, field services and mobilization, sustaining
+    engineering, maintenance, repair and overhaul supplies, and
+    on-going weapon maintenance and technical assistance. The group
+    specializes in performing Contractor Logistics Support of both
+    original equipment manufacturer (OEM) and third party aviation
+    platforms involving maintenance and modification, and rebuilding
+    essential parts and assemblies. Primary customers include the
+    DoD as well as international military and commercial customers.
+
+
+ 
+
+
+
+    Corporate
+
+
+
+
+
+    Our principal executive offices are located at 1840 Century Park
+    East, Los Angeles, California 90067. Our telephone number is
+    (310) 553-6262
+    and our home page on the Internet is www.northropgrumman.com.
+    References to our website in this report are provided as a
+    convenience and do not constitute, and should not be viewed as,
+    incorporation by reference of the information contained on, or
+    available through, the website. Therefore, such information
+    should not be considered part of this report. See Properties in
+    Part I, Item 2.
+
+
+ 
+
+
+
+    SUMMARY
+    SEGMENT FINANCIAL DATA
+
+
+ 
+
+
+    For a more complete understanding of our segment financial
+    information, see Segment Operating Results in Part II,
+    Item 7, and Note 6 to the consolidated financial
+    statements in Part II, Item 8.
+
+
+ 
+
+
+
+    CUSTOMERS
+    AND REVENUE CONCENTRATION
+
+
+ 
+
+
+    Our primary customer is the U.S. Government.
+    U.S. Government revenue (which includes Foreign Military
+    Sales) accounted for approximately 91 percent of total
+    revenues in 2009, 2008, and 2007. No single product or service
+    accounted for more than 10 percent of total revenue during
+    any period presented. See Risk Factors in Part I,
+    Item 1A.
+
+
+ 
+
+
+
+    PATENTS
+
+
+ 
+
+
+    The following table summarizes the number of patents we own or
+    have pending as of December 31, 2009:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+ 
+
+
+ 
+
+
+    Owned
+    
+
+
+ 
+
+
+    Pending
+    
+
+
+ 
+
+
+    Total
+
+
+
+
+
+
+    U.S. patents
+
+
+
+ 
+
+
+ 
+
+
+    3,144
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    405
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    3,549
+
+
+ 
+
+
+
+
+
+    Foreign patents
+
+
+
+ 
+
+
+ 
+
+
+    2,188
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    556
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    2,744
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    Total
+
+
+
+ 
+
+
+ 
+
+
+    5,332
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    961
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    6,293
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+    Patents developed while under contract with the
+    U.S. Government may be subject to use by the
+    U.S. Government. We license intellectual property to, and
+    from, third parties. We believe our ability to conduct
+    operations would not be materially affected by the loss of any
+    particular intellectual property right.
+
+
+ 
+
+
+
+    SEASONALITY
+
+
+ 
+
+
+    No material portion of our business is considered to be
+    seasonal. Our revenue recognition timing is based on several
+    factors, including the timing of contract awards, the incurrence
+    of contract costs, cost estimation, and unit deliveries. See
+    Critical Accounting Policies, Estimates, and Judgments- Revenue
+    Recognition in Part II, Item 7.
+
+
+
+
+    
+    -7-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+
+    BACKLOG
+
+
+ 
+
+
+    At December 31, 2009, total backlog was $69.2 billion
+    compared with $76.4 billion at the end of 2008.
+    Approximately 37 percent of backlog at December 31,
+    2009, is expected to be converted into sales in 2010.
+
+
+ 
+
+
+    Total backlog includes both funded backlog (firm orders for
+    which funding is contractually obligated by the customer) and
+    unfunded backlog (firm orders for which funding is not currently
+    contractually obligated by the customer). Unfunded backlog
+    excludes unexercised contract options and unfunded indefinite
+    delivery indefinite quantity (IDIQ) orders. For multi-year
+    services contracts with non-federal government customers having
+    no stated contract values, backlog includes only the amounts
+    committed by the customer. For backlog by segment see Backlog in
+    Part II, Item 7.
+
+
+ 
+
+
+
+    RAW
+    MATERIALS
+
+
+ 
+
+
+    The most significant raw material we require is steel, used
+    primarily for shipbuilding. We have mitigated supply risk by
+    negotiating long-term agreements with a number of steel
+    suppliers. In addition, we have mitigated price risk related to
+    steel purchases through certain contractual arrangements with
+    the U.S. Government. While we have generally been able to
+    obtain key raw materials required in our production processes in
+    a timely manner, a significant delay in supply deliveries could
+    have a material adverse effect on our consolidated financial
+    position, results of operations, or cash flows. See Risk Factors
+    in Part I, Item 1A and Overview- Outlook in
+    Part II, Item 7.
+
+
+ 
+
+
+
+    GOVERNMENT
+    REGULATION
+
+
+ 
+
+
+    Our businesses are affected by numerous laws and regulations
+    relating to the award, administration and performance of
+    U.S. Government contracts. See Risk Factors in Part I,
+    Item 1A.
+
+
+ 
+
+
+    The U.S. Government generally has the ability to terminate
+    our contracts, in whole or in part, without prior notice, for
+    convenience or for default based on performance. If any of our
+    government contracts were to be terminated for convenience, we
+    are normally protected by provisions covering reimbursement for
+    costs incurred and profit on those costs. Termination resulting
+    from our default could require us to pay for re-procurement
+    costs in excess of the original contract price, net of the value
+    of work accepted from the original contract. The
+    U.S. Government could also hold us liable for damages
+    resulting from the default. In the event that appropriations for
+    one of our programs becomes unavailable, or is reduced or
+    delayed, our contract or subcontract under such program may be
+    terminated or adjusted by the U.S. Government. See Risk
+    Factors in Part I, Item 1A.
+
+
+ 
+
+
+    Certain programs with the U.S. Government that are
+    prohibited by the customer from being publicly discussed in
+    detail are referred to as “restricted” in this
+    Form 10-K.
+    The consolidated financial statements and financial information
+    in this
+    Form 10-K
+    reflect the operating results of restricted programs under
+    accounting principles generally accepted in the United States of
+    America (GAAP). See Risk Factors in Part I, Item 1A.
+
+
+ 
+
+
+
+    RESEARCH
+    AND DEVELOPMENT
+
+
+ 
+
+
+    Our research and development activities primarily include
+    independent research and development (IR&D) efforts related
+    to government programs. IR&D expenses are included in
+    general and administrative expenses and are generally allocated
+    to U.S. Government contracts. IR&D expenses totaled
+    $610 million, $564 million, and $522 million in
+    2009, 2008, and 2007, respectively. We charge expenses for
+    research and development sponsored by the customer directly to
+    the related contracts.
+
+
+ 
+
+
+
+    EMPLOYEE
+    RELATIONS
+
+
+ 
+
+
+    We maintain good relations with our 120,700 employees, of
+    which approximately 20 percent are covered by
+    32 collective bargaining agreements. We re-negotiated 17 of
+    our collective bargaining agreements in 2009. These negotiations
+    had no material adverse effect on our results of operations. For
+    risks associated with collective bargaining agreements, see Risk
+    Factors in Part I, Item 1A.
+
+
+
+
+    
+    -8-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+
+    ENVIRONMENTAL
+    MATTERS
+
+
+ 
+
+
+    Our manufacturing operations are subject to and affected by
+    federal, state, foreign, and local laws and regulations relating
+    to the protection of the environment. We provide for the
+    estimated cost to complete environmental remediation where we
+    determine it is probable that we will incur such costs in the
+    future to address environmental impacts at currently or formerly
+    owned or leased operating facilities, or at sites where we are
+    named a Potentially Responsible Party (PRP) by the
+    U.S. Environmental Protection Agency (EPA) or similarly
+    designated by other environmental agencies. These estimates may
+    change given the inherent difficulty in estimating environmental
+    cleanup costs to be incurred in the future due to the
+    uncertainties regarding the extent of the required cleanup,
+    determination of legally responsible parties, and the status of
+    laws, regulations, and their interpretations.
+
+
+ 
+
+
+    We assess the potential impact on our financial statements by
+    estimating the possible remediation costs that we could
+    reasonably incur on a
+    site-by-site
+    basis. These estimates consider our environmental
+    engineers’ professional judgment and, when necessary, we
+    consult with outside environmental specialists. In most
+    instances, we can only estimate a range of reasonably possible
+    costs. We accrue our best estimate when determinable or the
+    minimum amount when no single amount is more probable. We record
+    accruals for environmental cleanup costs in the accounting
+    period in which it becomes probable we have incurred a liability
+    and the costs can be reasonably estimated. We record insurance
+    recoveries only when we determine that collection is probable
+    and we do not include any litigation costs related to
+    environmental matters in our environmental remediation accrual.
+
+
+ 
+
+
+    We estimate that at December 31, 2009, the range of
+    reasonably possible future costs for environmental remediation
+    sites is $239 million to $483 million, of which we
+    accrued $115 million in other current liabilities and
+    $168 million in other long term liabilities in the
+    consolidated statements of financial position. We record
+    environmental accruals on an undiscounted basis. At sites
+    involving multiple parties, we provide environmental accruals
+    based upon our expected share of liability, taking into account
+    the financial viability of other jointly liable parties. We
+    expense or capitalize environmental expenditures as appropriate.
+    Capitalized expenditures relate to long-lived improvements in
+    currently operating facilities. We may have to incur costs in
+    addition to those already estimated and accrued if other PRPs do
+    not pay their allocable share of remediation costs, which could
+    have a material effect on our consolidated financial position,
+    results of operations, or cash flows. We have made the
+    investments we believe necessary to comply with environmental
+    laws. Although we cannot predict whether information gained as
+    projects progress will materially affect the estimated accrued
+    liability, we do not anticipate that future remediation
+    expenditures will have a material adverse effect on our
+    consolidated financial position, results of operations, or cash
+    flows.
+
+
+ 
+
+
+    We could be affected by future laws or regulations, including
+    those enacted in response to climate change concerns and other
+    actions known as “green initiatives.” We recently
+    established a goal of reducing our greenhouse gas emissions
+    during the next five years. To comply with current and future
+    environmental laws and regulations and to meet this goal, we
+    expect to incur capital and operating costs, but at this time we
+    do not expect that such costs will have a material adverse
+    effect upon our financial position, results of operations or
+    cash flows.
+
+
+ 
+
+
+
+    COMPETITIVE
+    CONDITIONS
+
+
+ 
+
+
+    We compete with many companies in the U.S. defense industry
+    for a number of programs, both large and small, but primarily
+    with Lockheed Martin Corporation, The Boeing Company, Raytheon
+    Company, General Dynamics Corporation, L-3 Communications
+    Corporation, SAIC, and BAE Systems. Intense competition and long
+    operating cycles are both key characteristics of our business
+    and the defense industry. It is common in this industry for work
+    on major programs to be shared among a number of companies. A
+    company competing to be a prime contractor may, upon ultimate
+    award of the contract to another party, turn out to be a
+    subcontractor for the ultimate prime contracting party. It is
+    not uncommon to compete for a contract award with a peer company
+    and, simultaneously, perform as a supplier to or a customer of
+    such competitor on other contracts. The nature of major defense
+    programs, conducted under binding contracts, allows companies
+    that perform well to benefit from a level of program continuity
+    not common in many industries.
+
+
+
+
+    
+    -9-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Our success in the competitive defense industry depends upon our
+    ability to develop and market our products and services, as well
+    as our ability to provide the people, technologies, facilities,
+    equipment, and financial capacity needed to deliver those
+    products and services with maximum efficiency. We must continue
+    to maintain sources for raw materials, fabricated parts,
+    electronic components, and major subassemblies. In this
+    manufacturing and systems integration environment, effective
+    oversight of subcontractors and suppliers is as vital to success
+    as managing internal operations.
+
+
+ 
+
+
+    Similarly, there is intense competition among many companies in
+    the information and services markets, which are generally more
+    labor intensive with competitive margin rates over contract
+    periods of shorter duration. Competitors in the information and
+    services markets include the defense industry participants
+    mentioned above as well as many other large and small entities
+    with expertise in various specialized areas. Our ability to
+    successfully compete in the information and services markets
+    depends on a number of factors; most important is the capability
+    to deploy skilled professionals, many requiring security
+    clearances, at competitive prices across the diverse spectrum of
+    these markets. Accordingly, we have implemented various
+    workforce initiatives to ensure our success in attracting,
+    developing and retaining sufficient resources to maintain or
+    improve our competitive position within these markets.
+
+
+ 
+
+
+
+    EXECUTIVE
+    OFFICERS
+
+
+ 
+
+
+    See Part III, Item 10, for information about our
+    executive officers.
+
+
+ 
+
+
+
+    AVAILABLE
+    INFORMATION
+
+
+ 
+
+
+    Throughout this
+    Form 10-K,
+    we incorporate by reference information from parts of other
+    documents filed with the Securities and Exchange Commission
+    (SEC). The SEC allows us to disclose important information by
+    referring to it in this manner, and you should review this
+    information in addition to the information contained in this
+    report.
+
+
+ 
+
+
+    Our annual report on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    and proxy statement for the annual shareholders’ meeting,
+    as well as any amendments to those reports, are available free
+    of charge through our web site as soon as reasonably practicable
+    after we file them with the SEC. You can learn more about us by
+    reviewing our SEC filings in the investor relations page on our
+    web site at www.northropgrumman.com.
+
+
+ 
+
+
+    The SEC also maintains a web site at www.sec.gov that
+    contains reports, proxy statements and other information about
+    SEC registrants, including Northrop Grumman. You may also obtain
+    these materials at the SEC’s Public Reference Room at
+    100 F Street, N.E., Washington, D.C. 20549. You
+    can obtain information on the operation of the Public Reference
+    Room by calling the SEC at
+    1-800-SEC-0330.
+
+
+
+ 
+
+
+
+    Item 1A.
+    Risk Factors
+
+
+ 
+
+
+    Our consolidated financial position, results of operations and
+    cash flows are subject to various risks, many of which are not
+    exclusively within our control, that may cause actual
+    performance to differ materially from historical or projected
+    future performance. We urge you to carefully consider the risk
+    factors described below in evaluating the information contained
+    in this report.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    We depend heavily on a single customer, the U.S.
+    Government, for a substantial portion of our business, including
+    programs subject to security classification restrictions on
+    information, and changes affecting this customer’s capacity
+    to do business with us could have a material adverse effect on
+    us or our prospects.
+
+
+
+
+
+ 
+
+
+    Approximately 92 percent of our revenues during 2009 were
+    derived from products and services ultimately sold to the
+    U.S. Government (which includes Foreign Military Sales). We
+    are a supplier, either directly or as a subcontractor or team
+    member, to the U.S. Government and its agencies. These
+    contracts are subject to the respective customers’
+    political and budgetary constraints and processes, changes in
+    customers’ short-range and long-range strategic plans, the
+    timing of contract awards, significant changes in contract
+    scheduling, intense
+
+
+
+
+
+    
+    -10-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    competition, difficulty in forecasting costs and schedules when
+    bidding on developmental and highly sophisticated technical
+    work, and delays in the timing of contract approval, as well as
+    other risks such as contractor suspension or debarment in the
+    event of certain violations of legal and regulatory requirements.
+
+
+ 
+
+
+    In addition, a material amount of our revenues and profits are
+    derived from programs that are subject to security
+    classification restrictions (restricted business), which could
+    limit our ability to discuss details about these programs, their
+    risks or any disputes or claims relating to such programs. As a
+    result, you might have less insight into our restricted business
+    than our other businesses or could experience less ability to
+    evaluate fully the risks, disputes or claims associated with the
+    restricted business.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Contracts with the U.S. Government are subject to
+    uncertain levels of funding, modification due to changes in
+    customer priorities and potential termination.
+
+
+
+
+
+ 
+
+
+    The funding of U.S. Government programs is subject to
+    congressional budget authorization and appropriation processes.
+    For certain programs, Congress appropriates funds on a fiscal
+    year basis even though a program may extend over several fiscal
+    years. Consequently, programs are often only partially funded
+    initially and additional funds are committed only as Congress
+    makes further appropriations. We cannot predict the extent to
+    which total funding
+    and/or
+    funding for individual programs will be included, increased or
+    reduced as part of the 2010 and subsequent budgets ultimately
+    approved by Congress or be included in the scope of separate
+    supplemental appropriations. The impact, severity and duration
+    of the current U.S. economic situation, the sweeping
+    economic plans adopted by the U.S. Government, and
+    pressures on the federal budget could also adversely affect the
+    total funding
+    and/or
+    funding for individual programs. In the event that
+    appropriations for one of our programs becomes unavailable, or
+    is reduced or delayed, our contract or subcontract under such
+    program may be terminated or adjusted by the
+    U.S. Government, which could have a material adverse effect
+    on our future sales under such program.
+
+
+ 
+
+
+    We also cannot predict the impact of potential changes in
+    priorities due to military transformation and planning
+    and/or the
+    nature of war-related activity on existing, follow-on or
+    replacement programs. A shift of government priorities to
+    programs in which we do not participate
+    and/or
+    reductions in funding for or the termination of programs in
+    which we do participate, unless offset by other programs and
+    opportunities, could have a material adverse effect on our
+    results of operations or bid prospects.
+
+
+ 
+
+
+    In addition, the U.S. Government generally has the ability
+    to terminate contracts, in whole or in part, without prior
+    notice, for convenience or for default based on performance. In
+    the event of termination for the government’s convenience,
+    contractors are normally protected by provisions covering
+    reimbursement for costs incurred on the contracts and profit on
+    those costs. Termination resulting from our default can expose
+    us to liability and have a material adverse effect on our
+    ability to compete for contracts.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    As a U.S. Government contractor, we are subject to a
+    number of procurement regulations and could be adversely
+    affected by changes in regulations or any negative findings from
+    a U.S. audit or investigation.
+
+
+
+
+
+ 
+
+
+    U.S. Government contractors must comply with significant
+    procurement regulations and other requirements. These
+    requirements, although customary in government contracts,
+    increase our performance and compliance costs. If procurement
+    requirements change, our costs of complying with them could
+    increase and reduce our margins.
+
+
+ 
+
+
+    We operate in a highly regulated environment and are routinely
+    audited and reviewed by the U.S. Government and its
+    agencies such as the Defense Contract Audit Agency (DCAA) and
+    Defense Contract Management Agency (DCMA). These agencies review
+    our performance under our contracts, our cost structure and our
+    compliance with applicable laws, regulations, and standards, as
+    well as the adequacy of, and our compliance with, our internal
+    control systems and policies. Systems that are subject to review
+    include our purchasing systems, billing systems, property
+    management and control systems, cost estimating systems,
+    compensation systems and management information systems. Any
+    costs found to be improperly allocated to a specific contract
+    will not be reimbursed or must be refunded if already
+    reimbursed. If an audit
+
+
+
+
+
+    
+    -11-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    uncovers improper or illegal activities, we may be subject to
+    civil and criminal penalties and administrative sanctions, which
+    may include termination of contracts, forfeiture of profits,
+    suspension of payments, fines and suspension, or prohibition
+    from doing business with the U.S. Government. In addition,
+    we could suffer serious reputational harm if allegations of
+    impropriety were made against us.
+
+
+ 
+
+
+    We are also, from time to time, subject to U.S. Government
+    investigations relating to our operations and are expected to
+    perform in compliance with a vast array of federal laws,
+    including the Truth in Negotiations Act, the False Claims Act,
+    the International Traffic in Arms Regulations promulgated under
+    the Arms Export Control Act, and the Foreign Corrupt Practices
+    Act. We may be subject to reductions of the value of contracts,
+    contract modifications or termination, and the assessment of
+    penalties and fines, which could negatively impact our results
+    of operations and financial condition, if we are found to have
+    violated the law or are indicted or convicted for violations of
+    federal laws related to government security regulations,
+    employment practices or protection of the environment, or are
+    found not to have acted responsibly as defined by the law. Such
+    convictions could also result in suspension or debarment from
+    government contracting for some period of time. Given our
+    dependence on government contracting, suspension or debarment
+    could have a material adverse effect on us.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Competition within our markets and an increase in bid
+    protests may reduce our revenues and market share.
+
+
+
+
+
+ 
+
+
+    We operate in highly competitive markets and our competitors may
+    have more extensive or more specialized engineering,
+    manufacturing and marketing capabilities than we do in some
+    areas. We anticipate higher competition in some of our core
+    markets as a result of the reduction in budgets for many
+    U.S. Government agencies and fewer new program starts. In
+    addition, as discussed in more detail above, projected
+    U.S. defense spending levels for periods beyond the
+    near-term are uncertain and difficult to predict. Changes in
+    U.S. defense spending may limit certain future market
+    opportunities. We are also facing increasing competition in our
+    domestic and international markets from foreign and
+    multinational firms. Additionally, some customers, including the
+    DoD, are more frequently turning to commercial contractors,
+    rather than traditional defense contractors, for information
+    technology and other support work. If we are unable to continue
+    to compete successfully against our current or future
+    competitors, we may experience declines in revenues and market
+    share which could negatively impact our results of operations
+    and financial condition.
+
+
+ 
+
+
+    The competitive environment is also affected by an increase in
+    bid protests from unsuccessful bidders on new program awards.
+    Bid protests could result in the award decision being
+    overturned, requiring a re-bid of the contract. Even where a bid
+    protest does not result in a re-bid, the resolution extends the
+    time until the contract activity can begin which may reduce our
+    earnings in the period in which the contract would otherwise
+    have commenced.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our future success depends, in part, on our ability to
+    develop new products and new technologies and maintain a
+    qualified workforce to meet the needs of current and future
+    customers.
+
+
+
+
+
+ 
+
+
+    The markets in which we operate are characterized by rapidly
+    changing technologies. The product, program and service needs of
+    our customers change and evolve regularly. Accordingly, our
+    success in the competitive defense industry depends upon our
+    ability to develop and market our products and services, as well
+    as our ability to provide the people, technologies, facilities,
+    equipment and financial capacity needed to deliver those
+    products and services with maximum efficiency. If we fail to
+    maintain our competitive position, we could lose a significant
+    amount of future business to our competitors, which would have a
+    material adverse effect on our ability to generate favorable
+    financial results and maintain market share.
+
+
+ 
+
+
+    Operating results are heavily dependent upon our ability to
+    attract and retain sufficient personnel with requisite skills
+    and/or
+    security clearances. If qualified personnel become scarce, we
+    could experience higher labor, recruiting or training costs in
+    order to attract and retain such employees or could experience
+    difficulty in performing under our contracts if the needs for
+    such employees are unmet.
+
+
+
+
+    
+    -12-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Approximately 20 percent of our 120,700 employees are
+    covered by an aggregate of 32 collective bargaining agreements.
+    We expect to re-negotiate renewals of three of our collective
+    bargaining agreements in 2010, and we are continuing to
+    negotiate an initial contract for a group of employees.
+    Collective bargaining agreements generally expire after three to
+    five years and are subject to renegotiation at that time. We may
+    experience difficulties with renewals and renegotiations of
+    existing collective bargaining agreements. If we experience such
+    difficulties, we could incur additional expenses and work
+    stoppages. Any such expenses or delays could adversely affect
+    programs served by employees who are covered by collective
+    bargaining agreements. In the recent past we have experienced
+    work stoppages and other labor disruptions in Shipbuilding.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Many of our contracts contain performance obligations that
+    require innovative design capabilities, are technologically
+    complex, require state-of-the-art manufacturing expertise or are
+    dependent upon factors not wholly within our control. Failure to
+    meet these obligations could adversely affect our profitability
+    and future prospects.
+
+
+
+
+
+ 
+
+
+    We design, develop and manufacture technologically advanced and
+    innovative products and services applied by our customers in a
+    variety of environments. Problems and delays in development or
+    delivery as a result of issues with respect to design,
+    technology, licensing and patent rights, labor, learning curve
+    assumptions or materials and components could prevent us from
+    achieving contractual requirements.
+
+
+ 
+
+
+    In addition, our products cannot be tested and proven in all
+    situations and are otherwise subject to unforeseen problems.
+    Examples of unforeseen problems that could negatively affect
+    revenue and profitability include loss on launch of spacecraft,
+    premature failure of products that cannot be accessed for repair
+    or replacement, problems with quality, country of origin,
+    delivery of subcontractor components or services and unplanned
+    degradation of product performance. These failures could result,
+    either directly or indirectly, in loss of life or property.
+    Among the factors that may affect revenue and profits could be
+    unforeseen costs and expenses not covered by insurance or
+    indemnification from the customer, diversion of management focus
+    in responding to unforeseen problems, loss of follow-on work,
+    and, in the case of certain contracts, repayment to the
+    government customer of contract cost and fee payments we
+    previously received.
+
+
+ 
+
+
+    Certain contracts, primarily involving space satellite systems,
+    contain provisions that entitle the customer to recover fees in
+    the event of partial or complete failure of the system upon
+    launch or subsequent deployment for less than a specified period
+    of time. Under such terms, we could be required to forfeit fees
+    previously recognized
+    and/or
+    collected. We have not experienced any material losses in the
+    last decade in connection with such contract performance
+    incentive provisions. However, if we were to experience launch
+    failures or complete satellite system failures in the future,
+    such events could have a material adverse effect on our
+    consolidated financial position or results of operations.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Contract cost growth on fixed-price and other contracts
+    that cannot be justified as an increase in contract value due
+    from customers exposes us to reduced profitability and the
+    potential loss of future business.
+
+
+
+
+
+ 
+
+
+    Operating income is adversely affected when we incur contract
+    costs that cannot be billed to customers. This cost growth can
+    occur if estimates to complete increase due to technical
+    challenges, manufacturing difficulties or delays, or
+    workforce-related issues, or if initial estimates used for
+    calculating the contract cost were incorrect. The cost
+    estimation process requires significant judgment and expertise.
+    Reasons for cost growth may include unavailability or reduced
+    productivity of labor, the nature and complexity of the work to
+    be performed, the timelines and availability of materials, major
+    subcontractor performance and quality of their products, the
+    effect of any delays in performance, availability and timing of
+    funding from the customer, natural disasters and the inability
+    to recover any claims included in the estimates to complete. A
+    significant change in cost estimates on one or more programs
+    could have a material adverse effect on our consolidated
+    financial position or results of operations.
+
+
+ 
+
+
+    Most of our contracts are firm fixed-price contracts or flexibly
+    priced contracts. Flexibly priced contracts include both
+    cost-type and fixed-price incentive contracts. Due to their
+    nature, firm fixed-price contracts
+
+
+
+
+
+    
+    -13-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    inherently have more risk than flexibly priced contracts.
+    Approximately 33 percent of our annual revenues are derived
+    from firm fixed-price contracts – see Contracts in
+    Part II, Item 7. We typically enter into firm
+    fixed-price contracts where costs can be reasonably estimated
+    based on experience. In addition, our contracts contain
+    provisions relating to cost controls and audit rights. Should
+    the terms specified in our contracts not be met, then
+    profitability may be reduced. Fixed-price development work
+    comprises a small portion of our firm fixed-price contracts and
+    inherently has more uncertainty as to future events than
+    production contracts and therefore more variability in estimates
+    of the costs to complete the development stage. As work
+    progresses through the development stage into production, the
+    risks associated with estimating the total costs of the contract
+    are generally reduced. In addition, successful performance of
+    firm fixed-price development contracts that include production
+    units is subject to our ability to control cost growth in
+    meeting production specifications and delivery rates. While
+    management uses its best judgment to estimate costs associated
+    with fixed-price development contracts, future events could
+    result in either upward or downward adjustments to those
+    estimates. Examples of our significant fixed-price development
+    contracts include the F-16 Block 60 combat avionics program
+    and the MESA radar system program for the Wedgetail and Peace
+    Eagle contracts, both of which are performed by the Electronic
+    Systems segment.
+
+
+ 
+
+
+    Under a fixed-price incentive contract, the allowable costs
+    incurred by the contractor are subject to reimbursement, but are
+    subject to a cost-share limit which affects profitability.
+    Contracts in Shipbuilding are often fixed-price incentive
+    contracts for production of a first item without a separate
+    development contract. Accordingly, we face the additional
+    difficulty of estimating production costs on a product that has
+    not yet been designed. Further, Shipbuilding sometimes enters
+    into follow-on fixed-price contracts after a significant delay
+    from the first production request, and the passage of time makes
+    it more difficult for us to accurately estimate costs for
+    renewed production.
+
+
+ 
+
+
+    Under a cost-type contract the allowable costs incurred by the
+    contractor are also subject to reimbursement plus a fee that
+    represents profit. We enter into cost-type contracts for
+    development programs with complex design and technical
+    challenges. These cost-type programs typically have award or
+    incentive fees that are subject to uncertainty and may be earned
+    over extended periods. In these cases the associated financial
+    risks are primarily in lower profit rates or program
+    cancellation if cost, schedule, or technical performance issues
+    arise.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our earnings and margins depend, in part, on our ability
+    to perform under contracts and on subcontractor performance as
+    well as raw material and component availability and
+    pricing.
+
+
+
+
+
+ 
+
+
+    When agreeing to contractual terms, our management makes
+    assumptions and projections about future conditions and events,
+    many of which extend over long periods. These projections assess
+    the productivity and availability of labor, the complexity of
+    the work to be performed, the cost and availability of
+    materials, the impact of delayed performance, and the timing of
+    product deliveries. If there is a significant change in one or
+    more of these circumstances or estimates, or if we face
+    unanticipated contract costs, the profitability of one or more
+    of these contracts may be adversely affected.
+
+
+ 
+
+
+    We also rely on other companies to provide raw materials and
+    major components for our products and rely on subcontractors to
+    produce hardware elements and sub-assemblies and perform some of
+    the services that we provide to our customers. Disruptions or
+    performance problems caused by our subcontractors and vendors
+    could have an adverse effect on our ability to meet our
+    commitments to customers. Our ability to perform our obligations
+    as a prime contractor could be adversely affected if one or more
+    of the vendors or subcontractors are unable to provide the
+    agreed-upon
+    products or materials or perform the
+    agreed-upon
+    services in a timely and cost-effective manner.
+
+
+
+
+    
+    -14-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our business is subject to disruption caused by natural
+    disasters and other factors that could adversely affect our
+    profitability and our overall financial position.
+
+
+
+
+
+ 
+
+
+    We have significant operations located in regions of the
+    U.S. that may be exposed to damaging storms and other
+    natural disasters, such as hurricanes or earthquakes. Although
+    preventative measures may help to mitigate damage, the damage
+    and disruption resulting from natural disasters may be
+    significant. Should insurance or other risk transfer mechanisms
+    be insufficient to recover all costs, we could experience a
+    material adverse effect on our financial position. Our suppliers
+    and subcontractors are also subject to natural disasters that
+    could affect their ability to deliver or perform under a
+    contract. Performance failures by our subcontractors due to
+    natural disasters may adversely affect our ability to perform
+    our obligations on the prime contract, which could reduce our
+    profitability due to damages or other costs that may not be
+    fully recoverable from the subcontractor or from the customer
+    and could result in a termination of the prime contract and have
+    an adverse effect on our ability to compete for future contracts.
+
+
+ 
+
+
+    Natural disasters can also disrupt electrical and other power
+    distribution networks and the critical industrial infrastructure
+    needed for normal business operations. These disruptions could
+    cause adverse effects on our profitability and performance,
+    including computer and internet operation and accessibility.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    We use estimates when accounting for contracts. Changes in
+    estimates could affect our profitability and our overall
+    financial position.
+
+
+
+
+
+ 
+
+
+    Contract accounting requires judgment relative to assessing
+    risks, estimating contract revenues and costs, and making
+    assumptions for schedule and technical issues. Due to the size
+    and nature of many of our contracts, the estimation of total
+    revenues and costs at completion is complicated and subject to
+    many variables. For example, assumptions have to be made
+    regarding the length of time to complete the contract because
+    costs also include expected increases in wages and prices for
+    materials. Similarly, assumptions have to be made regarding the
+    future impact of our self-imposed efficiency initiatives and
+    cost reduction efforts. Incentives, awards or penalties related
+    to performance on contracts are considered in estimating revenue
+    and profit rates, and are recorded when there is sufficient
+    information to assess anticipated performance.
+
+
+ 
+
+
+    Because of the significance of the judgment and estimation
+    processes described above, it is possible that materially
+    different amounts could be obtained if different assumptions
+    were used or if the underlying circumstances were to change.
+    Changes in underlying assumptions, circumstances or estimates
+    may have a material adverse effect upon future period financial
+    reporting and performance. See Critical Accounting Policies,
+    Estimates, and Judgments in Part II, Item 7.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our international business is subject to greater risks
+    sometimes associated with doing business in foreign
+    countries.
+
+
+
+
+
+ 
+
+
+    Although our international business constitutes only
+    5 percent of total revenues, we are subject to numerous
+    U.S. and foreign laws and regulations, including, without
+    limitation, regulations relating to import-export control,
+    technology transfer restrictions, repatriation of earnings,
+    exchange controls, the Foreign Corrupt Practices Act and the
+    anti-boycott provisions of the U.S. Export Administration
+    Act. Failure by us or our sales representatives or consultants
+    to comply with these laws and regulations could result in
+    administrative, civil, or criminal liabilities and could, in the
+    extreme case, result in suspension or debarment from government
+    contracts or suspension of our export privileges, which could
+    have a material adverse effect on us. Changes in regulation or
+    political environment may affect our ability to conduct business
+    in foreign markets, including investment, procurement and
+    repatriation of earnings.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our reputation and our ability to do business may be
+    impacted by the improper conduct of employees, agents or
+    business partners.
+
+
+
+
+
+ 
+
+
+    We have implemented extensive compliance controls, policies and
+    procedures to prevent and detect reckless or criminal acts
+    committed by employees, agents or business partners that would
+    violate the laws of the
+
+
+
+
+
+    
+    -15-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    jurisdictions in which we operate, including laws governing
+    payments to government officials, competition and data privacy.
+    However we cannot ensure that we will prevent all such reckless
+    or criminal acts committed by our employees, agents or business
+    partners. Any improper actions could subject us to civil or
+    criminal investigations, monetary and non-monetary penalties and
+    could have a material adverse effect on our ability to conduct
+    business, our results of operations and our reputation.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our business could be negatively impacted by security
+    threats and other disruptions.
+
+
+
+
+
+ 
+
+
+    As a defense contractor, we face certain security threats,
+    including threats to our information technology infrastructure
+    and unlawful attempts to gain access to our proprietary or
+    classified information. Our information technology networks and
+    related systems are critical to the smooth operation of our
+    business and essential to our ability to perform day to day
+    operations. Loss of security within this critical operational
+    infrastructure could disrupt our operations, require significant
+    management attention and resources and could have a material
+    adverse effect on our performance.
+
+
+ 
+
+
+    We also manage information technology systems for various
+    customers. While we maintain information security policies and
+    procedures for managing these systems, we face generally the
+    same security threats for these systems as for our own systems.
+    Computer viruses, attempts to gain access to our customers’
+    data or other electronic security breaches could lead to
+    disruptions in mission critical systems for our customers,
+    unauthorized release of confidential or personally identifiable
+    information and corruption of customer data. These events could
+    damage our reputation and lead to financial losses from remedial
+    actions we must take, potential liability to customers and
+    litigation expenses.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our nuclear operations subject us to various
+    environmental, regulatory, financial and other risks.
+
+
+
+
+
+ 
+
+
+    The development and operation of nuclear-powered aircraft
+    carriers, nuclear-powered submarines and other nuclear
+    operations subject us to various risks, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        n   
+
+    
+    potential liabilities relating to harmful effects on the
+    environment and human health resulting from nuclear operations
+    and the storage, handling and disposal of radioactive materials;
+
+
+
+
+ 
+
+
+
+     
+        n   
+
+    
+    unplanned expenditures relating to maintenance, operation,
+    security and repair, including repairs required by the Nuclear
+    Regulatory Commission;
+
+
+
+
+ 
+
+
+
+     
+        n   
+
+    
+    limitations on the amounts and types of insurance commercially
+    available to cover losses that might arise in connection with
+    nuclear operations; and
+
+
+
+
+ 
+
+
+
+     
+        n   
+
+    
+    potential liabilities arising out of a nuclear incident whether
+    or not it is within our control.
+
+
+
+
+
+ 
+
+
+    The U.S. Government provides indemnity protection against
+    specified risks under Public Law
+    85-804 and
+    the Price-Anderson Nuclear Indemnities Act for certain of our
+    nuclear operations risks. Our nuclear operations are subject to
+    various safety-related requirements imposed by the
+    U.S. Navy, Department of Energy, and Nuclear Regulatory
+    Commission. In the event of non-compliance, these agencies may
+    increase regulatory oversight, impose fines or shut down our
+    operations, depending upon the assessment of the severity of the
+    situation. Revised security and safety requirements promulgated
+    by these agencies could necessitate substantial capital and
+    other expenditures.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Unforeseen environmental costs could have a material
+    adverse effect on our financial condition or results of
+    operations.
+
+
+
+
+
+ 
+
+
+    Our operations are subject to and affected by a variety of
+    federal, state, local and foreign environmental protection laws
+    and regulations. In addition, we could be affected by future
+    laws or regulations, including those imposed in response to
+    climate change concerns and other actions commonly referred to
+    as “green initiatives.” Compliance with current and
+    future environmental laws and regulations currently requires and
+    is expected to continue to require significant capital and
+    operating costs, but is not expected to have a material adverse
+    effect on our financial condition.
+
+
+
+
+    
+    -16-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    Environmental laws and regulations can impose substantial fines
+    and criminal sanctions for violations, and may require the
+    installation of costly pollution control equipment or
+    operational changes to limit pollution emissions or discharges
+    and/or
+    decrease the likelihood of accidental hazardous substance
+    releases. In addition, if we were found to be in violation of
+    the Federal Clean Air Act or the Clean Water Act, the facility
+    or facilities involved in the violation could be placed by the
+    EPA on the “Excluded Parties List” maintained by the
+    General Services Administration. The listing would continue
+    until the EPA concluded that the cause of the violation had been
+    cured. Listed facilities cannot be used in performing any
+    U.S. Government contract while they are listed by the EPA.
+    We also incur, and expect to continue to incur, costs to comply
+    with current federal and state environmental laws and
+    regulations related to the cleanup of pollutants previously
+    released into the environment.
+
+
+ 
+
+
+    The adoption of new laws and regulations, stricter enforcement
+    of existing laws and regulations, imposition of new cleanup
+    requirements, discovery of previously unknown or more extensive
+    contamination, litigation involving environmental impacts, our
+    ability to recover such costs under previously priced contracts
+    or financial insolvency of other responsible parties could cause
+    us to incur costs in the future that would have a material
+    adverse effect on our financial condition or results of
+    operations.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    We are subject to various claims and litigation that could
+    ultimately be resolved against us requiring material future cash
+    payments and/or future material charges against our operating
+    income and materially impairing our financial position.
+
+
+
+
+
+ 
+
+
+    The size and complexity of our business make it highly
+    susceptible to claims and litigation. We are subject to various
+    existing environmental claims, income tax matters and other
+    litigation, which, if not resolved within established reserves,
+    could have a material adverse effect on our consolidated
+    financial position, results of operations or cash flows. See
+    Legal Proceedings in Part I, Item 3, Critical
+    Accounting Policies, Estimates, and Judgments in Part II,
+    Item 7 and Note 14 to the consolidated financial
+    statements in Part II, Item 8. Any claims or
+    litigation, even if fully indemnified or insured, could
+    negatively affect our reputation among our customers and the
+    public, and make it more difficult for us to compete effectively
+    or obtain adequate insurance in the future.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    We may be unable to adequately protect our intellectual
+    property rights, which could affect our ability to
+    compete.
+
+
+
+
+
+ 
+
+
+    We own many U.S. and foreign patents and patent
+    applications, and we have rights in numerous trademarks and
+    copyrights. The U.S. Government has licenses under certain
+    of our patents and certain other intellectual property that are
+    developed in performance of government contracts, and it may use
+    or authorize others to use such patents and intellectual
+    property for government purposes. Our patents and other
+    intellectual property are subject to challenge, invalidation,
+    misappropriation or circumvention by third parties.
+
+
+ 
+
+
+    We also rely significantly upon proprietary technology,
+    information, processes and know-how that are not subject to
+    patent protection. We seek to protect this information through
+    trade secret or confidentiality agreements with our employees,
+    consultants, subcontractors, or other parties, as well as
+    through other security measures. These agreements and security
+    measures may not provide meaningful protection for our
+    unpatented proprietary information. In the event of an
+    infringement of our intellectual property rights, a breach of a
+    confidentiality agreement or divulgence of proprietary
+    information, we may not have adequate legal remedies to maintain
+    our intellectual property. Litigation to determine the scope of
+    intellectual property rights, even if ultimately successful,
+    could be costly and could divert management’s attention
+    away from other aspects of our business. In addition, our trade
+    secrets may otherwise become known or be independently developed
+    by competitors.
+
+
+ 
+
+
+    In some instances, we have augmented our technology base by
+    licensing the proprietary intellectual property of others. In
+    the future, we may not be able to obtain necessary licenses on
+    commercially reasonable terms.
+
+
+
+
+    
+    -17-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Our insurance coverage may be inadequate to cover all of
+    our significant risks or our insurers may deny coverage of
+    material losses we incur, which could adversely affect our
+    profitability and overall financial position.
+
+
+
+
+
+ 
+
+
+    We endeavor to identify and obtain in established markets
+    insurance agreements to cover significant risks and liabilities
+    (including, among others, natural disasters, product liability
+    and business interruption). Not every risk or liability can be
+    protected by insurance, and, for insurable risks, the limits of
+    coverage reasonably obtainable in the market may not be
+    sufficient to cover all actual losses or liabilities incurred,
+    including for example, a catastrophic earthquake claim. In some,
+    but not all, circumstances we may receive indemnification from
+    the U.S. Government. Because of the limitations in overall
+    available coverage referred to above, we may have to bear
+    substantial costs for uninsured losses that could have an
+    adverse effect upon our consolidated results of operations and
+    our overall consolidated financial position. Additionally,
+    disputes with insurance carriers over coverage may affect the
+    timing of cash flows and, if litigation with the carrier becomes
+    necessary, an outcome unfavorable to us may have a material
+    adverse effect on our consolidated results of operations. For
+    example, we commenced legal action against an insurance carrier
+    arising out of a disagreement concerning the coverage of certain
+    losses related to Hurricane Katrina, and another carrier has
+    denied coverage for certain other losses related to Hurricane
+    Katrina and advised us that it will seek reimbursement of
+    certain amounts previously advanced by that carrier. See
+    Note 14 to the consolidated financial statements in
+    Part II, Item 8.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Changes in future business conditions could cause business
+    investments and/or recorded goodwill to become impaired,
+    resulting in substantial losses and write-downs that would
+    reduce our operating income.
+
+
+
+
+
+ 
+
+
+    As part of our overall strategy, we will, from time to time,
+    acquire a minority or majority interest in a business. These
+    investments are made upon careful analysis and due diligence
+    procedures designed to achieve a desired return or strategic
+    objective. These procedures often involve certain assumptions
+    and judgment in determining acquisition price. Even after
+    careful integration efforts, actual operating results may vary
+    significantly from initial estimates. Goodwill accounts for
+    approximately half of our recorded total assets. We evaluate
+    goodwill amounts for impairment annually, or when evidence of
+    potential impairment exists. The annual impairment test is based
+    on several factors requiring judgment. Principally, a
+    significant decrease in expected cash flows or changes in market
+    conditions may indicate potential impairment of recorded
+    goodwill. Adverse equity market conditions that result in a
+    decline in market multiples and our stock price could result in
+    an impairment of goodwill
+    and/or other
+    intangible assets. We continue to monitor the recoverability of
+    the carrying value of our goodwill and other long-lived assets.
+    See Critical Accounting Policies, Estimates, and Judgments in
+    Part II, Item 7.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Anticipated benefits of mergers, acquisitions, joint
+    ventures or strategic alliances may not be realized.
+
+
+
+
+
+ 
+
+
+    As part of our overall strategy, we may, from time to time,
+    merge with or acquire businesses, or form joint ventures or
+    create strategic alliances. Whether we realize the anticipated
+    benefits from these transactions depends, in part, upon the
+    integration between the businesses involved, the performance of
+    the underlying products, capabilities or technologies and the
+    management of the transacted operations. Accordingly, our
+    financial results could be adversely affected from unanticipated
+    performance issues, transaction-related charges, amortization of
+    expenses related to intangibles, charges for impairment of
+    long-term assets and partner performance. Although we believe
+    that we have established appropriate and adequate procedures and
+    processes to mitigate these risks, there is no assurance that
+    these transactions will be successful.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Market volatility and adverse capital and credit market
+    conditions may affect our ability to access cost-effective
+    sources of funding and expose us to risks associated with the
+    financial viability of suppliers and the ability of
+    counterparties to perform on financial instruments.
+
+
+
+
+
+ 
+
+
+    The financial and credit markets recently experienced levels of
+    volatility and disruption, reducing the availability of credit
+    for certain issuers. Historically, we have occasionally accessed
+    these markets to support certain business activities including,
+    acquisitions, capital expansion projects, refinancing existing
+    debt and
+
+
+
+
+
+    
+    -18-
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    NORTHROP
+    GRUMMAN CORPORATION
+
+ 
+
+
+
+    issuing letters of credit. In the future, we may not be able to
+    obtain capital market financing or credit availability on
+    similar terms, or at all, which could have a material adverse
+    effect on our consolidated financial position, results of
+    operations and cash flows.
+
+
+ 
+
+
+    The tightening of credit could also adversely affect our
+    suppliers’ ability to obtain financing. Delays in
+    suppliers’ ability to obtain financing, or the
+    unavailability of financing could cause us to be unable to meet
+    our contract obligations and could adversely affect our results
+    of operations. The inability of our suppliers to obtain
+    financing could also result in the need for us to transition to
+    alternate suppliers, which could result in significant
+    incremental cost and delay.
+
+
+ 
+
+
+    We have executed transactions with counterparties in the
+    financial services industry, including brokers and dealers,
+    commercial banks, investment banks and other institutional
+    parties. These transactions expose us to potential credit risk
+    in the event of default of a counterparty. In addition, our
+    credit risk may be increased when collateral held by us cannot
+    be realized upon a sale or is liquidated at prices not
+    sufficient to recover the full amount of the loan or derivative
+    exposure due to it.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Pension and medical expenses associated with our
+    retirement benefit plans may fluctuate significantly depending
+    upon changes in actuarial assumptions, future market performance
+    of plan assets, future trends in health care costs and
+    legislative or other regulatory actions.
+
+
+
+
+
+ 
+
+
+    A substantial portion of our current and retired employee
+    population is covered by pension and post-retirement benefit
+    plans, the costs of which are dependent upon our various
+    assumptions, including estimates of rates of return on benefit
+    related assets, discount rates for future payment obligations,
+    rates of future cost growth and trends for future costs. In
+    addition, funding requirements for benefit obligations of our
+    pension and post-retirement benefit plans are subject to
+    legislative and other government regulatory actions.
+
+
+ 
+
+
+    Variances from these estimates could have a material adverse
+    effect on our consolidated financial position, results of
+    operations and cash flows. For example, the recent volatility in
+    the financial markets resulted in lower than expected returns on
+    our pension plan assets in 2008, which resulted in higher
+    pension costs in 2009. See Note 16 to the consolidated
+    financial statements in Part II, Item 8.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        n   
+    
+    Unanticipated changes in our tax provisions or exposure to
+    additional income tax liabilities could affect our
+    profitability.
+
+
+
+
+
+ 
+
+
+    We are subject to income taxes in the United States and many
+    foreign jurisdictions. Significant judgment is required in
+    determining our worldwide provision for income taxes. In the
+    ordinary course of business, there are many transactions and
+    calculations where the ultimate tax determination is uncertain.
+    Furthermore, changes in domestic or foreign income tax laws and
+    regulations, or their interpretation, could result in higher or
+    lower income tax rates assessed or changes in the taxability of
+    certain sales or the deductibility of certain expenses, thereby
+    affecting our income tax expense and profitability. The final
+    determination of any tax audits or related litigation could be
+    materially different from our historical income tax provisions
+    and accruals. Additionally, changes in the effective tax rate as
+    a result of a change in the mix of earnings in countries with
+    differing statutory tax rates, changes in our overall
+    profitability, changes in tax legislation, changes in the
+    valuation of deferred tax assets and liabilities, the results of
+    audits and the examination of previously filed tax returns by
+    taxing authorities and continuing assessments of our tax
+    exposures could impact our tax liabilities and affect our income
+    tax expense and profitability.
+
+
+
+ 
+
+
+
+    Item 1B

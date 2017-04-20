@@ -1,0 +1,3421 @@
+Item 1A: Risk Factors” and elsewhere in this
+    Annual Report on
+    Form 10-K.
+    You should carefully consider the risks and uncertainties
+    described under this section.
+
+
+ 
+
+
+
+    PART I
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1:  
+
+    
+    Business
+
+
+
+
+
+ 
+
+
+    We design and manufacture solar modules using a proprietary thin
+    film semiconductor technology that has allowed us to reduce our
+    average solar module manufacturing costs to among the lowest in
+    the world. In 2007, our average manufacturing costs were $1.23
+    per watt, which we believe is significantly less than those of
+    traditional crystalline silicon solar module manufacturers. By
+    continuing to expand production and improve our technology and
+    manufacturing process, we believe that we can further reduce our
+    manufacturing costs per watt and improve our cost advantage over
+    traditional crystalline silicon solar module manufacturers. Our
+    objective is to become, by 2010, the first solar module
+    manufacturer to offer a solar electricity solution that can
+    generate electricity on a non-subsidized basis at a cost equal
+    to the price of retail electricity in key markets in North
+    America, Europe and Asia.
+
+
+ 
+
+
+    We manufacture our solar modules on high-throughput production
+    lines and perform all manufacturing steps ourselves in an
+    automated, proprietary, continuous process. Our solar modules
+    employ a thin layer of cadmium telluride semiconductor material
+    to convert sunlight into electricity. In less than three hours,
+    we transform a 2ft × 4ft (60cm × 120cm) sheet of glass
+    into a complete solar module, using approximately 1% of the
+    semiconductor material used by other manufacturers to produce
+    crystalline silicon solar modules. Our manufacturing process
+    eliminates the multiple supply chain operators and expensive and
+    time consuming batch processing steps that are used to produce a
+    crystalline silicon solar module.
+
+
+ 
+
+
+    We have long-term solar module supply contracts (the “Long
+    Term Supply Contracts”) with twelve European project
+    developers and system integrators that in the aggregate allow
+    for approximately €4.5 billion ($5.9 billion at
+    an assumed exchange rate of $1.30/€1.00) in sales from 2008
+    to 2012 for the sale of a total of 3.2GW of solar modules.
+
+
+ 
+
+
+    Our customers develop, own and operate solar power plants or
+    sell turnkey solar power plants to end-users that include owners
+    of land, owners of agricultural buildings, owners of commercial
+    warehouses, offices and industrial buildings, public agencies,
+    municipal government authorities, utility companies, and
+    financial investors that desire to own large scale solar power
+    plant projects.
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+    In order to satisfy our contractual requirements and address
+    additional market demand, we are expanding our manufacturing
+    capacity with the construction of four plants — each
+    with four production lines — at our Malaysian
+    manufacturing center. In August 2006, we expanded our Ohio plant
+    from one to three production lines. In April 2007, we started
+    initial production at a four line manufacturing plant in
+    Germany, which reached full capacity in the third quarter of
+    2007. Also in April 2007, we began construction of plant one of
+    our Malaysian manufacturing center. In the third and fourth
+    quarters of 2007, we began construction of plants two and three,
+    respectively; and in the first quarter of 2008, we began
+    construction of plant four. We expect plant one to reach its
+    full capacity in the second half of 2008; plant two to reach its
+    full capacity in the first half of 2009; and plants three and
+    four to reach full capacity in the second half of 2009. After
+    plant four of our Malaysian manufacturing center reaches its
+    full capacity, we will have 23 production lines and an annual
+    global manufacturing capacity of approximately 1012MW based on
+    the fourth quarter of 2007 average run rate at our existing
+    plants.
+
+
+ 
+
+
+
+    Acquisition
+    of Turner Renewable Energy, LLC
+
+
+ 
+
+
+    On November 30, 2007, we completed the acquisition of
+    Turner Renewable Energy, LLC, a privately held company which
+    designed and deployed commercial solar projects for utilities in
+    the United States. Starting in December 2007, we operate this
+    wholly owned subsidiary under the name of First Solar Electric,
+    LLC (“First Solar Electric”). We believe the
+    acquisition of Turner Renewable Energy, LLC will enable us to
+    offer solar electricity solutions to utility companies in the
+    United States that are seeking cost effective renewable energy
+    solutions for the purpose of meeting renewable portfolio
+    standard requirements. The total consideration for the
+    transaction was $34.3 million (excluding exit and
+    transaction costs of $0.7 million), consisting of
+    $28.0 million in common stock and $6.3 million in cash.
+
+
+ 
+
+
+
+    Products
+
+
+ 
+
+
+
+    Solar
+    Modules
+
+
+ 
+
+
+    Each solar module is approximately 2ft × 4ft (60cm ×
+    120cm) and had an average rated power of approximately 64 watts
+    for 2006 and approximately 70 watts for 2007. Our solar module
+    is a single-junction polycrystalline thin film structure that
+    employs cadmium telluride as the absorption layer and cadmium
+    sulfide as the window layer. Cadmium telluride has absorption
+    properties that are highly matched to the solar spectrum and has
+    the potential to deliver competitive conversion efficiencies
+    with approximately 1% of the semiconductor material used by
+    traditional crystalline silicon solar modules. Our thin film
+    technology also has relatively high energy performance in low
+    light and high temperature environments compared to traditional
+    crystalline silicon solar modules.
+
+
+ 
+
+
+
+    Certifications
+
+
+ 
+
+
+    We have participated, or are currently participating, in
+    laboratory and field tests with the National Renewable Energy
+    Laboratory, the Arizona State University Photovoltaic Testing
+    Laboratory, the Fraunhofer Institute for Solar Energy, TÜV
+    Immissionsschutz und Energiesysteme GmbH, and the Institute
+    für Solar Energieversorgungstechnik. Currently, we have
+    approximately 10,000 solar modules installed worldwide at test
+    sites designed to collect data for field performance validation.
+    Using data logging equipment, we also monitor approximately
+    457,000 solar modules, representing approximately 30MW of
+    installed photovoltaic systems, in use by the end-users that
+    have purchased systems using our solar modules. The modules in
+    these monitored systems represent approximately 19% of all solar
+    modules shipped by us from 2002 through 2007.
+
+
+ 
+
+
+    We maintain all certifications required to sell solar modules in
+    the markets we serve or expect to serve, including UL 1703, IEC
+    61646, Safety Class II and CE.
+
+
+ 
+
+
+
+    Solar
+    Module Warranty
+
+
+ 
+
+
+    We provide a limited warranty to the owner of our solar modules
+    for five years following delivery for defects in materials and
+    workmanship under normal use and service conditions. We also
+    warrant to the owner of our solar modules that solar modules
+    installed in accordance with
+    agreed-upon
+    specifications will produce at least 90% of their power output
+    rating during the first 10 years following their
+    installation and at least 80% of their power output
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+    rating during the following 15 years. In resolving claims
+    under both the defects and power output warranties, we have the
+    option of either repairing or replacing the covered solar module
+    or, under the power output warranty, providing additional solar
+    modules to remedy the power shortfall. Our warranties are
+    automatically transferred from the original purchaser of our
+    solar modules to a subsequent purchaser. As of December 29,
+    2007, our accrued warranty liability was $7.3 million.
+
+
+ 
+
+
+
+    Collection
+    and Recycling Program
+
+
+ 
+
+
+    End-users can return their solar modules to us at any time for
+    collection and recycling at no cost. We pre-fund the estimated
+    collection and recycling cost at the time of sale, assuming for
+    this purpose a minimum service life of approximately
+    20 years for our solar modules. In addition to achieving
+    substantial environmental benefits, our solar module collection
+    and recycling program may provide us the opportunity to resell
+    or redistribute working modules or recover certain raw materials
+    and components for reuse in our manufacturing process. First
+    Solar has developed a recycling process for manufacturing scrap,
+    warranty returns and end of life modules that produces glass
+    suitable for the use in production of new glass products and
+    extracts metals that will be further processed by a third party
+    supplier to produce semiconductor materials for reuse in our
+    solar modules.
+
+
+ 
+
+
+
+    Manufacturing
+
+
+ 
+
+
+
+    Manufacturing
+    Process
+
+
+ 
+
+
+    We have integrated our manufacturing processes into a
+    continuous, integrated production line with the following three
+    stages: the “deposition” stage; the “cell
+    definition” stage; and the “assembly and test”
+    stage. In the deposition stage, panels of treated glass are
+    robotically loaded onto the production line where they are
+    cleaned, heated and coated with a layer of cadmium sulfide
+    followed by a layer of cadmium telluride using our proprietary
+    vapor transport deposition technology, after which the
+    semiconductor-coated plates are cooled rapidly to increase
+    strength. In our cell definition stage, we use a series of
+    lasers to transform the large single semiconductor-coated plate
+    into a series of lasers to transform the large single
+    semiconductor-coated plate into a series of interconnected cells
+    that deliver the desired current and voltage output. Our
+    proprietary laser scribing technology is capable of
+    accomplishing accurate and complex scribes at high speeds.
+    Finally, in the assembly and test stage, we apply busbars,
+    laminate, a rear glass cover sheet and termination wires, seal
+    the joint box and subject each solar module to a solar simulator
+    and current leakage test. The final assembly stage is the only
+    stage in our production line that requires manual processing.
+
+
+ 
+
+
+    Historically, all of our solar modules were produced at our
+    Perrysburg, Ohio facility, which has received both an ISO
+    9001:2000 quality system certification and ISO 14001:2004
+    environmental system certification. In April 2007, we started
+    initial production at a manufacturing facility in
+    Frankfurt/Oder, Germany which has received all applicable
+    licenses and permits to operate in accordance with German law.
+    Our German plant has received ISO 9001:2000 quality system
+    certification and we anticipate the German plant to attain an
+    ISO 14001:2004 environmental system certification in the third
+    quarter of 2008.
+
+
+ 
+
+
+
+    Manufacturing
+    Capacity Expansion
+
+
+ 
+
+
+    We plan to expand our manufacturing capacity to 23 production
+    lines by the end of 2009. In August 2006, we qualified two
+    additional production lines at our Ohio plant, increasing our
+    annual manufacturing capacity then to approximately 75MW based
+    on the fourth quarter of 2006 run rate. In April 2007, we
+    started initial production at our four line manufacturing plant
+    in Germany, which reached full capacity in the third quarter of
+    2007 bringing our total capacity to 308 MW at the end of
+    2007 based on the fourth quarter of 2007 run rates at these
+    plants. In addition, on January 24, 2007 we entered into a
+    land lease agreement for a manufacturing center site in the
+    Kulim Hi-Tech Park in the State of Kadah, Malaysia. The Malaysia
+    site accommodates up to four plants, each with four productions
+    lines. In April 2007, we began construction of plant one of our
+    Malaysian manufacturing center. In the third and fourth quarters
+    of 2007, we began construction of plants two and three
+    respectively, and in the first quarter of 2008, we began
+    construction of plant four. We expect plant one to reach its
+    full capacity in the second half of 2008; plant two to reach its
+    full capacity in the first half of 2009, and plants three and
+    four to reach full capacity in the second
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+    half of 2009. After plant four of our Malaysian manufacturing
+    center reaches its full capacity, planned for the second half of
+    2009, we will have 23 production lines and an annual global
+    manufacturing capacity of 1012MW.
+
+
+ 
+
+
+
+    Raw
+    Materials
+
+
+ 
+
+
+    Our manufacturing process uses approximately 20 types of raw
+    materials and components to construct a complete solar module.
+    Of these raw materials and components, the following nine are
+    critical to our manufacturing process: TCO coated front glass,
+    cadmium sulfide, cadmium telluride, photo resist, laminate,
+    tempered back glass, cord plate/cord plate cap, lead wire (UL
+    and TÜV) and solar connectors. Before we use these
+    materials and components in our manufacturing process, a
+    supplier must undergo a qualification process that can last up
+    to 12 months, depending on the type of raw material or
+    component. Although we continually evaluate new suppliers and
+    currently are qualifying several new suppliers, most of our
+    critical materials or components are either sole sourced or
+    supplied by a limited number of suppliers.
+
+
+ 
+
+
+    One critical raw material in our production process is cadmium
+    telluride. Presently, we purchase all of our cadmium telluride
+    in compounded form from a limited number of suppliers. We have a
+    long term supply contract with one of our cadmium telluride
+    suppliers, which provides for quarterly price adjustments based
+    on the cost of tellurium.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    We have Long Term Supply Contracts with twelve principal
+    customers for the sale of solar modules. These customers include
+    project developers, system integrators and operators of
+    renewable energy projects, and are headquartered throughout the
+    European Union. The Long Term Supply Contracts in the aggregate
+    allow for approximately €4.5 billion
+    ($5.9 billion at an assumed exchange rate of
+    $1.30/€1.00) in sales from 2008 to 2012 for the sale of a
+    total of 3.2GW of solar modules.
+
+
+ 
+
+
+    In 2007, our principal customers were Blitzstrom GmbH, Colexon
+    Energy AG (previously Reinecke + Pohl), Conergy AG, Gehrlicher
+    Umweltschonende Energiesysteme GmbH, Juwi Solar GmbH and Phoenix
+    Solar AG. During 2007, each of these six customers individually
+    accounted for between 10% and 23% of our net sales. All of our
+    other customers individually accounted for less than 10% of our
+    net sales in 2007. The loss of any of our major customers could
+    have an adverse effect on our business. As we expand our
+    manufacturing capacity, we anticipate developing additional
+    customer relationships in other markets and regions; which will
+    reduce our customer and geographic concentration and dependence.
+
+
+ 
+
+
+
+    Sales and
+    Marketing
+
+
+ 
+
+
+    We launched the marketing and sale of our solar modules in
+    Germany in 2003 because Germany has attractive feed-in tariffs,
+    a high forecasted growth rate for renewable energy and market
+    segments that we believe are well served by our product. Since
+    2003, our focus has been on grid-connected ground or large roof
+    mounted solar power plants in Germany and other European Union
+    countries with feed-in tariff subsidies that enable solar power
+    plant owners to earn a reasonable rate of return on their
+    capital. Several of our principal customers were authorized in
+    2007 to sell our solar modules in the United States in markets
+    that have rebates or other forms of subsidies. In November 2007,
+    we completed the acquisition of Turner Renewable Energy, LLC and
+    established a wholly owned subsidiary First Solar Electric, for
+    the purpose of developing solar electricity solutions for
+    utility companies in the United States that are seeking cost
+    effective renewable energy solutions for the purpose of meeting
+    renewable portfolio standard requirements.
+
+
+ 
+
+
+
+    Economic
+    Incentives
+
+
+ 
+
+
+    Government subsidies, economic incentives and other support for
+    solar electricity generation generally include feed-in tariffs,
+    net metering programs, renewable portfolio standards, rebates,
+    tax incentives and low interest loans.
+
+
+ 
+
+
+    Under a feed-in tariff subsidy, the government sets prices that
+    regulated utilities are required to pay for renewable
+    electricity generated by end-users. The prices are set above
+    market rates and may differ based on system size or application.
+    Net metering programs enable end-users to sell excess solar
+    electricity to their local utility in
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+    exchange for a credit against their utility bills. The policies
+    governing net metering vary by state and utility. Some utilities
+    pay the end-user upfront, while others credit the
+    end-user’s bill. Under a renewable portfolio standard, the
+    government requires regulated utilities to supply a portion of
+    their total electricity in the form of renewable electricity.
+    Some programs further specify that a portion of the renewable
+    energy quota must be from solar electricity, while others
+    provide no specific technology requirement for renewable
+    electricity generation.
+
+
+ 
+
+
+    Tax incentive programs exist in the United States at both the
+    federal and state level and can take the form of investment tax
+    credits, accelerated depreciation and property tax exemptions.
+    At the United States federal level, investment tax credits for
+    business and residential solar systems have gone through several
+    cycles of enactment and expiration since the 1980’s.
+    Several state governments also facilitate low interest loans for
+    photovoltaic systems, either through direct lending, credit
+    enhancement or other programs.
+
+
+ 
+
+
+    Regulations and policies relating to electricity pricing and
+    interconnection also encourage distributive generation with
+    photovoltaic systems. Photovoltaic systems generate most of
+    their electricity during the afternoon hours when the demand for
+    and cost of electricity is highest. As a result, electricity
+    generated by photovoltaic systems mainly competes with expensive
+    peak hour electricity, rather than the less expensive average
+    price of electricity. Modifications to the peak hour pricing
+    policies of utilities, such as to a flat rate, would require
+    photovoltaic systems to achieve lower prices in order to compete
+    with the price of electricity. In addition, interconnection
+    policies often enable the owner of a photovoltaic system to feed
+    solar electricity into the power grid without interconnection
+    costs or standby fees.
+
+
+ 
+
+
+
+    Research,
+    Development and Engineering
+
+
+ 
+
+
+    We continue to devote a substantial amount of resources to
+    research and development with the objective of lowering the per
+    watt price of solar electricity generated by photovoltaic
+    systems using our solar modules to a level that competes on a
+    non-subsidized basis with the price of retail electricity in key
+    markets in North America, Europe and Asia by 2010. To reduce the
+    per watt manufacturing cost of electricity generated by
+    photovoltaic systems using our solar modules, we focus our
+    research and development on the following areas:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Increase the conversion efficiency of our solar
+    modules.  We believe the most promising ways of
+    increasing the conversion efficiency of our solar modules are
+    maximizing the number of photons that reach the absorption layer
+    of the semiconductor material so that they can be converted into
+    electrons, maximizing the number of electrons that reach the
+    surface of the cadmium telluride and minimizing the electrical
+    losses between the semiconductor layer and the back metal
+    conductor.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    System optimization.  We are also working to
+    reduce the cost and optimize the effectiveness of the other
+    components in a photovoltaic system. We maintain a substantial
+    effort to collect and analyze actual field performance data from
+    photovoltaic systems that use our modules. We continuously
+    collect data from internal test sites comprising approximately
+    10,000 modules installed in varying climates and applications.
+    We also monitor approximately 457,000 solar modules,
+    representing approximately 30MW of installed photovoltaic
+    systems, in use by the end-users that have purchased
+    photovoltaic systems using our modules. We use the data
+    collected from these sources to correlate field performance to
+    various manufacturing and laboratory level metrics, identify
+    opportunities for module and process improvement and improve the
+    performance of systems that use our modules. In addition, we use
+    this data to enhance predictive models and simulations for the
+    end-users.
+
+
+
+
+
+ 
+
+
+    We typically qualify process and product improvements for full
+    production at our Ohio plant and then utilize our “Copy
+    Smart” process to integrate them into our other production
+    lines. Our scientists and engineers collaborate across all
+    manufacturing plants to drive improvements. We typically
+    implement, validate and qualify such improvements at the Ohio
+    plant before we deploy them to all of our production lines. We
+    believe that this systematic approach to research and
+    development will provide continuous improvements and ensure
+    uniform adoption across our production lines. In addition, our
+    production lines are replicas of each other using our “Copy
+    Smart” process, and as a result, a process or production
+    improvement on one line can be rapidly validated on other
+    production lines.
+
+
+ 
+
+
+    We maintain active collaborations with the National Renewable
+    Energy Laboratory (a division of the U.S. Department of
+    Energy), Brookhaven National Laboratory and several
+    universities. Since 2004, we have
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+    invested in excess of $29.6 million into our research and
+    development expenses and received $4.6 million of grant
+    funding.
+
+
+ 
+
+
+
+    Intellectual
+    Property
+
+
+ 
+
+
+    Our success depends, in part, on our ability to maintain and
+    protect our proprietary technology and to conduct our business
+    without infringing on the proprietary rights of others. We rely
+    primarily on a combination of patents, trademarks and trade
+    secrets, as well as employee and third party confidentiality
+    agreements, to safeguard our intellectual property. As of
+    December 29, 2007, we held 22 patents in the United States,
+    which will expire at various times between 2009 and 2023, and
+    had 25 patent applications pending. We also held 14 patents and
+    had over 50 patent applications pending in foreign
+    jurisdictions. Our patent applications and any future patent
+    applications might not result in a patent being issued with the
+    scope of the claims we seek, or at all, and any patents we may
+    receive may be challenged, invalidated or declared
+    unenforceable. We continually assess appropriate occasions for
+    seeking patent protection for those aspects of our technology,
+    designs and methodologies and processes that we believe provide
+    significant competitive advantages.
+
+
+ 
+
+
+    As of December 29, 2007, we held two trademarks,
+    “First Solar” and “First Solar and Design,”
+    in the United States. We have also registered our “First
+    Solar and Design” mark in China, Japan and the European
+    Union and we are seeking registration in India and other
+    countries.
+
+
+ 
+
+
+    With respect to proprietary know-how that is not patentable and
+    processes for which patents are difficult to enforce, we rely
+    on, among other things, trade secret protection and
+    confidentiality agreements to safeguard our interests. We
+    believe that many elements of our photovoltaic manufacturing
+    process involve proprietary know-how, technology or data that
+    are not covered by patents or patent applications, including
+    technical processes, equipment designs, algorithms and
+    procedures. We have taken security measures to protect these
+    elements. All of our research and development personnel have
+    entered into confidentiality and proprietary information
+    agreements with us. These agreements address intellectual
+    property protection issues and require our associates to assign
+    to us all of the inventions, designs and technologies they
+    develop during the course of employment with us. We also require
+    our customers and business partners to enter into
+    confidentiality agreements before we disclose any sensitive
+    aspects of our solar cells, technology or business plans.
+
+
+ 
+
+
+    We have not been subject to any material intellectual property
+    claims.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The solar energy and renewable energy industries are both highly
+    competitive and continually evolving as participants strive to
+    distinguish themselves within their markets and compete within
+    the larger electric power industry. Within the renewable energy
+    industry, we compete with other renewable energy technologies
+    including hydro, wind, geothermal, bio-mass and tidal. Within
+    the solar energy industry, we believe that our main sources of
+    competition are crystalline silicon solar module manufacturers,
+    other thin film solar module manufacturers and companies
+    developing solar thermal and concentrated photovoltaic
+    technologies. Among photovoltaic module and cell manufacturers,
+    the principal methods of competition are price per watt,
+    production capacity, conversion efficiency and reliability. We
+    believe that we compete favorably with respect to all of these
+    factors.
+
+
+ 
+
+
+    At the end of 2007, the global photovoltaic industry consisted
+    of more than 100 manufacturers of solar cells and modules.
+    Within the photovoltaic industry, we face competition from
+    numerous crystalline silicon solar cell and module
+    manufacturers. We also face competition from thin film solar
+    module manufacturers.
+
+
+ 
+
+
+    In addition, we expect to compete with future entrants to the
+    photovoltaic industry that offer new technological solutions. We
+    may also face competition from semiconductor manufacturers and
+    semiconductor equipment manufacturers or their customers,
+    several of which have already announced their intention to start
+    production of photovoltaic cells, solar modules or turnkey
+    production lines. Some of our competitors are larger and have
+    greater financial resources, larger production capacities and
+    greater brand name recognition than we do and may, as a result,
+    be better positioned to adapt to changes in the industry or the
+    economy as a whole.
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+    We also face competition from companies that are developing
+    various solar thermal solutions for utility scale power plant
+    applications. In addition to manufacturers of solar photovoltaic
+    equipment, we face competition from companies developing
+    concentrating photovoltaic systems and other renewable energy
+    technologies.
+
+
+ 
+
+
+    As we develop our business under First Solar Electric and begin
+    to offer solar electricity solutions to utilities, we expect to
+    face competition from other providers of renewable energy
+    solutions, including developers of photovoltaic, solar thermal
+    and concentrated solar power plants, as well as developers of
+    alternate forms of renewable energy projects.
+
+
+ 
+
+
+
+    Environmental
+    Matters
+
+
+ 
+
+
+    Our manufacturing operations include the use, handling, storage,
+    transportation, generation and disposal of hazardous materials.
+    We are subject to various federal, state, local and foreign laws
+    and regulations relating to the protection of the environment,
+    including those governing the discharge of pollutants into the
+    air and water, the use, management and disposal of hazardous
+    materials and wastes, occupational health and safety and the
+    cleanup of contaminated sites. Therefore, we could incur
+    substantial costs, including cleanup costs, fines and civil or
+    criminal sanctions and costs arising from third party property
+    damage or personal injury claims, as a result of violations of
+    or liabilities under environmental laws or non-compliance with
+    environmental permits required at our facilities. We believe we
+    are currently in substantial compliance with applicable
+    environmental requirements and do not expect to incur material
+    capital expenditures for environmental controls in the
+    foreseeable future. However, future developments such as more
+    aggressive enforcement policies, the implementation of new, more
+    stringent laws and regulations, or the discovery of unknown
+    environmental conditions may require expenditures that could
+    have a material adverse effect on our business, results of
+    operations
+    and/or
+    financial condition. See “Item 1A: Risk
+    Factors — Environmental obligations and liabilities
+    could have a substantial negative impact on our financial
+    condition, cash flows and profitability.”
+
+
+ 
+
+
+
+    Associates
+
+
+ 
+
+
+    As of December 29, 2007, we had 1,462 associates (our term
+    for employees), including 1,187 in manufacturing. The remainder
+    of our associates are in research and development, sales and
+    marketing and general and administration positions. None of our
+    associates are represented by labor unions or covered by a
+    collective bargaining agreement. As we expand domestically and
+    internationally, however, we may encounter associates who desire
+    union representation. We believe that our relations with our
+    associates are good. We expect our headcount to double by the
+    end of fiscal 2008 given our continued growth and expansion in
+    Malaysia.
+
+
+ 
+
+
+
+    Information
+    About Geographic Areas
+
+
+ 
+
+
+    We have significant marketing and distribution operations
+    outside the United States and, with the completion of our German
+    plant and construction of our Malaysian manufacturing center, we
+    expect to have significant manufacturing operations outside the
+    United States. In 2007, 98.8% of our net sales were generated
+    from customers headquartered in the European Union. In the
+    future, we expect to expand our operations in other European
+    countries beyond Germany, Malaysia and other Asian countries;
+    and as a result, we will be subject to the legal, political,
+    social and regulatory requirements, and economic conditions of
+    many jurisdictions. The international nature of our operations
+    subject us to a number of risks, including fluctuations in
+    exchange rates, adverse changes in foreign laws or regulatory
+    requirements, and tariffs, taxes and other trade restrictions.
+    See “Item 1A: Risk Factors — Our substantial
+    international operations subject us to a number of risks,
+    including unfavorable political, regulatory, labor and tax
+    conditions in foreign countries.” See also Note 22,
+    “Segment and Geographical Information,” to our
+    consolidated financial statements referenced in Item 15 of
+    this Annual Report on
+    Form 10-K
+    for information about our net sales by geographic region for the
+    years ended December 29, 2007, December 30, 2006 and
+    December 31, 2005, and see our Management’s Discussion
+    and Analysis of Financial Condition and Results of Operations in
+    Item 7 of this Annual Report on
+    Form 10-K
+    for other information about our operations and activities in
+    various geographic regions.
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    We maintain a website at
+    http://www.firstsolar.com.
+    We make available free of charge on our website our annual
+    reports on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    proxy statements and any amendments to those reports filed or
+    furnished pursuant to Section 13(a) or 15(d) of the
+    Exchange Act, as soon as reasonably practicable after we
+    electronically file these materials with, or furnish them to,
+    the SEC. The information contained in or connected to our
+    website is not incorporated by reference into this report.
+
+
+ 
+
+
+    The public may also read and copy any materials that we file
+    with the SEC at the SEC’s Public Reference Room at
+    100 F Street, NE, Washington, D.C. 20549. The
+    public may obtain information on the operation of the Public
+    Reference Room by calling the SEC at
+    1-800-SEC-0330.
+    The SEC also maintains an Internet website that contains reports
+    and other information regarding issuers, such as First Solar,
+    that file electronically with the SEC. The SEC’s Internet
+    website is located at
+    http://www.sec.gov.
+
+
+ 
+
+
+
+    Executive
+    Officers of the Registrant
+
+
+ 
+
+
+    Our executive officers and their ages and positions as of
+    December 29, 2007 are as follows:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Name
+
+
+
+ 
+
+
+
+    Age
+
+
+
+ 
+
+
+
+    Position
+
+
+
+
+ 
+
+
+
+
+
+    Michael J. Ahearn
+
+
+
+ 
+
+ 
+
+
+    51
+
+ 
+
+
+ 
+
+
+    Chief Executive Officer, Chairman
+
+
+
+
+
+    Bruce Sohn
+
+
+
+ 
+
+ 
+
+
+    46
+
+ 
+
+
+ 
+
+
+    President, Director
+
+
+
+
+
+    Jens Meyerhoff
+
+
+
+ 
+
+ 
+
+
+    43
+
+ 
+
+
+ 
+
+
+    Chief Financial Officer
+
+
+
+
+
+    Kenneth M. Schultz
+
+
+
+ 
+
+ 
+
+
+    45
+
+ 
+
+
+ 
+
+
+    Executive Vice President, Global Marketing & Business
+    Development
+
+
+
+
+
+    John T. Gaffney
+
+
+
+ 
+
+ 
+
+
+    47
+
+ 
+
+
+ 
+
+
+    Executive Vice President and General Counsel
+
+
+
+
+
+    I. Paul Kacir
+
+
+
+ 
+
+ 
+
+
+    42
+
+ 
+
+
+ 
+
+
+    Vice President, Corporate Secretary
+
+
+
+
+
+
+
+
+ 
+
+
+    Michael J. Ahearn has served as the CEO and Chairman of First
+    Solar since August 2000. Mr. Ahearn also served as
+    President of First Solar from August 2000 to March 2007. From
+    1996 until November 2006, he was a Partner and President of the
+    equity investment firm JWMA Partners, LLC, or JWMA (formerly
+    True North Partners, L.L.C.). Prior to joining JWMA,
+    Mr. Ahearn practiced law as a partner in the firm of
+    Gallagher & Kennedy. He received both a B.A. in
+    Finance and a J.D. from Arizona State University.
+
+
+ 
+
+
+    Bruce Sohn was elected a director of First Solar in July 2003
+    and has served as President of First Solar since March 2007.
+    Prior to joining First Solar as President, Mr. Sohn worked
+    at Intel Corporation for 24 years, where he most recently
+    served as Plant Manager. He is a senior member of IEEE and a
+    certified Jonah. Mr. Sohn has been a guest lecturer at
+    several universities, including the Massachusetts Institute of
+    Technology and Stanford University. He graduated from the
+    Massachusetts Institute of Technology with a degree in Materials
+    Science and Engineering.
+
+
+ 
+
+
+    Jens Meyerhoff joined First Solar in May 2006 as Chief Financial
+    Officer. Prior to joining First Solar, Mr. Meyerhoff was
+    the Chief Financial Officer of Virage Logic Corporation, a
+    provider of embedded memory intellectual property for the design
+    of integrated circuits, from January 2006 to May 2006.
+    Mr. Meyerhoff was employed by FormFactor, Inc., a
+    manufacturer of advanced wafer probe cards, as Chief Operating
+    Officer from April 2004 to July 2005, Senior Vice President of
+    Operations from January 2003 to April 2004 and Chief Financial
+    Officer from August 2000 to March 2005. Prior to joining
+    FormFactor, Inc., Mr. Meyerhoff was the Chief Financial
+    Officer and Senior Vice President of Materials at Siliconix
+    Incorporated, a manufacturer of power and analog semiconductor
+    devices, from March 1998 to August 2000. Mr. Meyerhoff
+    holds a German Wirtschaftsinformatiker degree, which is the
+    equivalent of a Finance and Information Technology degree, from
+    Daimler Benz’s Executive Training Program.
+
+
+ 
+
+
+    Kenneth M. Schultz joined First Solar in November 2002 and is
+    our Executive Vice President Global Marketing and Business
+    Development. Prior to joining First Solar, he was a Vice
+    President at Intersil Corporation, an analog semiconductor
+    company, where he was responsible for commercializing various
+    communications technologies, from October 2000 to June 2002.
+    Mr. Schultz was Vice President and General Manager at
+    SiCOM, Inc. prior to the acquisition of SiCOM by Intersil
+    Corporation in 2000. He holds a B.S. in electrical engineering
+    from the University of Pittsburgh and received his M.B.A. degree
+    from Robert Morris University.
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+    John T. Gaffney joined First Solar in January 2008 as Executive
+    Vice President and General Counsel. Prior to joining First
+    Solar, Mr. Gaffney practiced law at the firm of Cravath,
+    Swaine & Moore LLP, where he was partner since 1993.
+    During his time at Cravath, Mr. Gaffney served as a key
+    advisor to First Solar and advised numerous corporate and
+    financial institution clients on merger, acquisition and capital
+    markets transactions. Mr. Gaffney holds a B.A. from George
+    Washington University and an M.B.A. and J.D. from New York
+    University.
+
+
+ 
+
+
+    I. Paul Kacir joined First Solar in October 2006 and is the
+    Vice President, Corporate Secretary. Prior to joining First
+    Solar, Mr. Kacir was a partner with the law firm of Gowling
+    Lafleur Henderson LLP in 2006. From 2000 to 2005, Mr. Kacir
+    was general counsel for Creo Inc., a manufacturer of digital
+    pre-press equipment. Before joining Creo, Mr. Kacir
+    practiced with Lang Michener Lawrence & Shaw.
+    Mr. Kacir holds a B.A. in economics from the University of
+    Western Ontario, a L.L.B from the University of New Brunswick,
+    and an M.B.A. from the University of British Columbia.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A:  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    An investment in our stock involves a high degree of risk. You
+    should carefully consider the following information, together
+    with the other information in this Annual Report on
+    Form 10-K,
+    before buying shares of our stock. If any of the following risks
+    or uncertainties occur, our business, financial condition and
+    results of operations could be materially and adversely
+    affected, the trading price of our stock could decline and you
+    may lose all or a part of the money you paid to buy our stock.
+
+
+ 
+
+
+
+    Our
+    limited operating history may not serve as an adequate basis to
+    judge our future prospects and results of
+    operations.
+
+
+ 
+
+
+    We have a limited operating history. Although we began
+    developing our predecessor technology in 1987, we did not launch
+    commercial operations until we qualified our pilot production
+    line in January 2002. We qualified the first production line at
+    our Ohio plant in November 2004, the second and third production
+    lines at our Ohio plant in August 2006 and our German plant in
+    the third quarter of 2007. Because these production lines have
+    only been in operation for a limited period of time, our
+    historical operating results may not provide a meaningful basis
+    for evaluating our business, financial performance and
+    prospects. While our net sales grew from $48.1 million in
+    2005 to $504.0 million in 2007, we may be unable to achieve
+    similar growth, or grow at all, in future periods. Accordingly,
+    you should not rely on our results of operations for any prior
+    period as an indication of our future performance.
+
+
+ 
+
+
+
+    Thin
+    film technology has a short history and our thin film technology
+    and solar modules may perform below expectations.
+
+
+ 
+
+
+    Researchers began developing thin film semiconductor technology
+    over 20 years ago, but were unable to integrate the
+    technology into a solar module production line until recently.
+    Our oldest active production line has only been in operation
+    since November 2004 and the oldest solar modules manufactured
+    during the qualification of our pilot line have only been in use
+    since 2001. As a result, our thin film technology and solar
+    modules do not have a sufficient operating history to confirm
+    how our solar modules will perform over their estimated
+    25-year
+    useful life. We perform a variety of quality and life tests
+    under different conditions. However, if our thin film technology
+    and solar modules perform below expectations, we could lose
+    customers and face substantial warranty expense.
+
+
+ 
+
+
+
+    Our
+    failure to further refine our technology and develop and
+    introduce improved photovoltaic products could render our solar
+    modules uncompetitive or obsolete and reduce our net sales and
+    market share.
+
+
+ 
+
+
+    We will need to invest significant financial resources in
+    research and development to keep pace with technological
+    advances in the solar energy industry. However, research and
+    development activities are inherently uncertain and we could
+    encounter practical difficulties in commercializing our research
+    results. Our significant expenditures on research and
+    development may not produce corresponding benefits. Other
+    companies are developing a variety of competing photovoltaic
+    technologies, including copper indium gallium diselenide and
+    amorphous silicon, which could produce solar modules that prove
+    more cost-effective or have better performance than
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+    our solar modules. As a result, our solar modules may be
+    rendered obsolete by the technological advances of our
+    competitors, which could reduce our net sales and market share.
+
+
+ 
+
+
+
+    If
+    photovoltaic technology is not suitable for widespread adoption,
+    or if sufficient demand for solar modules does not develop or
+    takes longer to develop than we anticipate, our net sales may
+    flatten or decline and we may be unable to sustain
+    profitability.
+
+
+ 
+
+
+    The solar energy market is at a relatively early stage of
+    development and the extent to which solar modules will be widely
+    adopted is uncertain. If photovoltaic technology proves
+    unsuitable for widespread adoption or if demand for solar
+    modules fails to develop sufficiently, we may be unable to grow
+    our business or generate sufficient net sales to sustain
+    profitability. In addition, demand for solar modules in our
+    targeted markets — including Germany, Spain, France,
+    Italy and the United States — may not develop or may
+    develop to a lesser extent than we anticipate. Many factors may
+    affect the viability of widespread adoption of photovoltaic
+    technology and demand for solar modules, including the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    cost-effectiveness of solar modules compared to conventional and
+    other non-solar renewable energy sources and products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    performance and reliability of solar modules and thin film
+    technology compared to conventional and other non-solar
+    renewable energy sources and products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    availability and substance of government subsidies and
+    incentives to support the development of the solar energy
+    industry;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    success of other renewable energy generation technologies, such
+    as hydroelectric, tidal, wind, geothermal, solar thermal,
+    concentrated photovoltaic, and biomass;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    fluctuations in economic and market conditions that affect the
+    viability of conventional and non-solar renewable energy
+    sources, such as increases or decreases in the price of oil and
+    other fossil fuels;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    fluctuations in capital expenditures by end-users of solar
+    modules, which tend to decrease when the economy slows and
+    interest rates increase; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    deregulation of the electric power industry and the broader
+    energy industry to permit wide spread adoption of solar
+    electricity.
+
+
+
+
+
+ 
+
+
+
+    Our
+    future success depends on our ability to build new manufacturing
+    plants and add production lines in a cost-effective manner, both
+    of which are subject to risks and uncertainties.
+
+
+ 
+
+
+    Our future success depends on our ability to significantly
+    increase both our manufacturing capacity and production
+    throughput in a cost-effective and efficient manner. If we
+    cannot do so, we may be unable to expand our business, decrease
+    our cost per watt, maintain our competitive position, satisfy
+    our contractual obligations or sustain profitability. Our
+    ability to expand production capacity is subject to significant
+    risks and uncertainties, including the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    making changes to our production process that are not properly
+    qualified or may cause problems with the quality of our solar
+    modules;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    delays and cost overruns as a result of a number of factors,
+    many of which may be beyond our control, such as our inability
+    to secure successful contracts with equipment vendors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    our custom-built equipment may take longer and cost more to
+    manufacture than expected and may not operate as designed;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    delays or denial of required approvals by relevant government
+    authorities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    being unable to hire qualified staff; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    failure to execute our expansion plans effectively.
+
+
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    If our
+    future production lines are not built in line with our committed
+    schedules or do not achieve operating metrics similar to our
+    existing production lines, our solar modules could perform below
+    expectations and cause us to lose customers.
+
+
+ 
+
+
+    Currently, the production lines at our Ohio and German plants
+    are our only production lines that have a history of operating
+    at full capacity. Future production lines could produce solar
+    modules that have lower efficiencies, higher failure rates and
+    higher rates of degradation than solar modules from our existing
+    production lines, and we could be unable to determine the cause
+    of the lower operating metrics or develop and implement
+    solutions to improve performance. The second and third
+    production lines at our Ohio plant, completed in August 2006,
+    represent a “standard building block” that we
+    replicated twice to build the four production lines at our
+    German plant. We are using the same systematic replication
+    process to build our Malaysian manufacturing center and future
+    production facilities, including expansion of our existing
+    production facilities. Our replication risk in connection with
+    building production lines at our Malaysian manufacturing center
+    and other future manufacturing plants could be higher than our
+    replication risk was in expanding the Ohio plant because these
+    new production lines are located internationally, which could
+    entail other factors that will lower their operating metrics. If
+    we are unable to systematically replicate our production lines
+    to meet our committed schedules and achieve and sustain similar
+    operating metrics in our Malaysian manufacturing center and
+    future production lines as our existing production lines, our
+    manufacturing capacity could be substantially constrained, our
+    manufacturing costs per watt could increase, and we could lose
+    customers, causing lower net sales, higher liabilities and lower
+    net income than we anticipate. In addition, we might be unable
+    to produce enough solar modules to satisfy our contractual
+    requirements under our long term customer contracts.
+
+
+ 
+
+
+
+    Some
+    of our manufacturing equipment is customized and sole sourced.
+    If our manufacturing equipment fails or if our equipment
+    suppliers fail to perform under their contracts, we could
+    experience production disruptions and be unable to satisfy our
+    contractual requirements.
+
+
+ 
+
+
+    Some of our manufacturing equipment is customized to our
+    production lines based on designs or specifications that we
+    provide the equipment manufacturer, who then undertakes a
+    specialized process to manufacture the custom equipment. As a
+    result, the equipment is not readily available from multiple
+    vendors and would be difficult to repair or replace if it were
+    to become damaged or stop working. If any piece of equipment
+    fails, production along the entire production line could be
+    interrupted and we could be unable to produce enough solar
+    modules to satisfy our contractual requirements under our long
+    term customer contracts. In addition, the failure of our
+    equipment suppliers to supply equipment in a timely manner or on
+    commercially reasonable terms could delay our expansion plans
+    and otherwise disrupt our production schedule or increase our
+    manufacturing costs, all of which would adversely impact our
+    financial results.
+
+
+ 
+
+
+
+    We may
+    be unable to manage the expansion of our operations
+    effectively.
+
+
+ 
+
+
+    We expect to expand our business significantly in order to meet
+    our contractual obligations, satisfy demand for our solar
+    modules and increase market share. In August 2006, we expanded
+    our Ohio plant from one to three production lines. In April
+    2007, we started initial production at our four line
+    manufacturing plant in Germany, which reached full capacity in
+    the third quarter of 2007. Also in April 2007, we began
+    construction of plant one of our Malaysian manufacturing center.
+    In the third and fourth quarters of 2007, we began construction
+    of plants two and three respectively, and in the first quarter
+    of 2008, we began construction of plant four. Following the
+    completion of plant four of our Malaysian manufacturing center
+    we will have grown from one production line to 23 production
+    lines with an annual global manufacturing capacity of
+    approximately 1012MW in four years based on the fourth quarter
+    of 2007 run rate at our existing plants.
+
+
+ 
+
+
+    To manage the rapid expansion of our operations, we will be
+    required to improve our operational and financial systems,
+    procedures and controls and expand, train and manage our growing
+    associate base. Our management will also be required to maintain
+    and expand our relationships with customers, suppliers and other
+    third parties and attract new customers and suppliers. In
+    addition, our current and planned operations, personnel, systems
+    and internal procedures and controls might be inadequate to
+    support our future growth. If we cannot manage our growth
+    effectively, we may be unable to take advantage of market
+    opportunities, execute our business strategies or respond to
+    competitive pressures.
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+
+    We
+    depend on a limited number of suppliers for key raw materials
+    and components and their failure to perform could cause
+    manufacturing delays and impair our ability to deliver solar
+    modules to customers in the required quality and quantities and
+    at a price that is profitable to us.
+
+
+ 
+
+
+    Our failure to obtain raw materials and components that meet our
+    quality, quantity and cost requirements in a timely manner could
+    interrupt or impair our ability to manufacture our solar modules
+    or increase our manufacturing cost. Most of our key raw
+    materials and components are either sole-sourced or sourced by a
+    limited number of third-party suppliers. As a result, the
+    failure of any of our suppliers to perform could disrupt our
+    supply chain and impair our operations. In addition, many of our
+    suppliers are small companies that may be unable to supply our
+    increasing demand for raw materials and components as we
+    implement our planned rapid expansion. We may be unable to
+    identify new suppliers or qualify their products for use on our
+    production lines in a timely manner and on commercially
+    reasonable terms. Raw materials and components from new
+    suppliers may also be less suited for our technology and yield
+    solar modules with lower conversion efficiencies, higher failure
+    rates and higher rates of degradation than solar modules
+    manufactured with the raw materials from our current suppliers.
+    A constraint on our production may cause us to be unable to meet
+    our obligations under our long term customer contracts, which
+    would have an adverse impact on our financial results.
+
+
+ 
+
+
+
+    A
+    disruption in our supply chain for cadmium telluride, our
+    semiconductor material, could interrupt or impair our ability to
+    manufacture solar modules.
+
+
+ 
+
+
+    The key raw material we use in our production process is a
+    cadmium telluride compound, with the tellurium component of the
+    compound being the most critical. Currently, we purchase most of
+    our cadmium telluride in manufactured form from a limited number
+    of suppliers. If our current suppliers or any of our future
+    suppliers are unable to perform under their contracts or
+    purchase orders, our operations could be interrupted or
+    impaired. In addition, because our suppliers must undergo a
+    lengthy qualification process, we may be unable to replace a
+    lost supplier in a timely manner and on commercially reasonable
+    terms. Our supply of cadmium telluride could also be limited if
+    any of our current suppliers or any of our future suppliers is
+    unable to acquire an adequate supply of tellurium in a timely
+    manner or at commercially reasonable prices. If our competitors
+    begin to use or increase their demand for cadmium telluride,
+    supply could be reduced and prices could increase. If our
+    current suppliers or any of our future suppliers cannot obtain
+    sufficient tellurium, it could substantially increase prices or
+    be unable to perform under their contracts. We may be unable to
+    pass increases in the cost of our raw materials through to our
+    customers because our customer contracts do not adjust for raw
+    material price increases and are generally for a longer term
+    than our raw material supply contracts. A reduction in our
+    production could result in our inability to meet our commitments
+    under our long term customer contracts, all of which would have
+    an adverse impact on our financial results.
+
+
+ 
+
+
+
+    We
+    currently depend on a limited number of customers, with six
+    customers accounting for substantially all of our net sales in
+    2007. The loss of, or a significant reduction in orders from,
+    any of these customers could significantly reduce our net sales
+    and negatively impact our operating results.
+
+
+ 
+
+
+    We currently sell substantially all of our solar modules to
+    customers headquartered throughout the European Union. During
+    2007, our six largest customers each accounted for between 10%
+    and 23% of our net sales. The loss of any of our large
+    customers, their inability to perform under their contracts, or
+    their default in payment could significantly reduce our net
+    sales and adversely impact our operating results. In addition,
+    our Long Term Supply Contracts extend through 2012 and we expect
+    them to allocate a significant amount of our production capacity
+    to a limited number of customers. As a result, we do not expect
+    to have a significant amount of excess production capacity to
+    identify and then build relationships with new customers that
+    could replace any lost customers, and we will have to rely on
+    future expansions to attract and service new customers. In
+    addition, our customer relationships have been developed over a
+    relatively short period of time and we cannot guarantee that we
+    will have good relations with our customers in the future.
+    Several of our competitors have more established relationships
+    with our customers and may gain a larger share of our
+    customers’ business over time.
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+
+    If we
+    are unable to further increase the number of sellable watts per
+    solar module and reduce our manufacturing cost per watt, we will
+    be in default under certain of our Long Term Supply Contracts
+    and our profitability could decline.
+
+
+ 
+
+
+    Our Long Term Supply Contracts require either an increase in the
+    minimum average number of watts per module of approximately 5%
+    annually from 2008 to 2009 and then by 3% in 2012 or a base
+    number of watts per module that increases 3-4% annually from
+    2008 to 2010/2011 and then remains fixed through 2012. Our
+    failure to achieve these metrics could reduce our profitability
+    or allow some of our customers to terminate their contracts. In
+    addition, all of our Long Term Supply Contracts specify a sales
+    price per watt that declines by approximately 6.5% at the
+    beginning of each year through the expiration date of each
+    contract in 2012. Our profitability could decline if we are
+    unable to reduce our manufacturing cost per watt by at least the
+    same rate at which our contractual prices decrease. Furthermore,
+    our failure to reduce cost per watt by increasing our efficiency
+    may impair our ability to enter new markets that we believe will
+    require lower cost per watt for us to be competitive and may
+    impair our growth plans.
+
+
+ 
+
+
+
+    Reduced
+    growth in or the reduction, elimination or expiration of
+    government subsidies, economic incentives and other support for
+    on-grid solar electricity applications could reduce demand for
+    our solar modules, lead to a reduction in our net sales and
+    adversely impact our operating results.
+
+
+ 
+
+
+    Reduced growth in or the reduction, elimination or expiration of
+    government subsidies, economic incentives and other support for
+    on-grid solar electricity may result in the diminished
+    competitiveness of solar energy relative to conventional and
+    non-solar renewable sources of energy, and could materially and
+    adversely affect the growth of the solar energy industry and our
+    net sales. We believe that the near-term growth of the market
+    for on-grid applications, where solar energy is used to
+    supplement the electricity a consumer purchases from the utility
+    network, depends significantly on the availability and size of
+    government subsidies and economic incentives. Currently, the
+    cost of solar electricity substantially exceeds the retail price
+    of electricity in every significant market in the world. As a
+    result, federal, state and local governmental bodies in many
+    countries, most notably Germany, Italy, Spain, France, Greece,
+    Portugal, South Korea, Japan, Canada and the United States, have
+    provided subsidies in the form of feed-in tariffs, rebates, tax
+    incentives and other incentives to end-users, distributors,
+    systems integrators and manufacturers of photovoltaic products.
+    For example, Germany, which accounted for 90.7% of our net sales
+    in 2007, has been a strong supporter of photovoltaic products
+    and systems, and political changes in Germany could result in
+    significant reductions in or the elimination of incentives. Many
+    of these government incentives expire, phase out over time,
+    exhaust the allocated funding or require renewal by the
+    applicable authority. For example, German subsidies decline at a
+    rate of 5.0% or 6.5% per year (based on the type of the
+    photovoltaic system) and discussions are ongoing about modifying
+    the German Renewable Energy Law, or the EEG. The government
+    proposal for the EEG amendment published on December 5,
+    2007 provides a one time adjustment of one euro cent per kWh
+    starting on January 1, 2009 plus a gradual increase of
+    degression rates for roof systems from currently 5% to 7%
+    starting 2009 and to 8% starting 2011, and for ground mounted
+    systems from currently 6.5% to 7% starting 2009 and to 8%
+    starting 2011. It also recommends the introduction of a new
+    tariff group for roof systems greater than 1000 kWp with a
+    feed-in tariff of 34.48 euro cents per kWh in 2009. If the
+    German government reduces or eliminates the subsidies under the
+    EEG, demand for photovoltaic products could significantly
+    decline in Germany.
+
+
+ 
+
+
+    In Spain, which accounted for approximately 1% of our net sales,
+    the Spanish Royal Decree currently supports system installations
+    registered before September 27, 2008. Proposals for a
+    follow-up
+    regulation are under discussion, however, a final conclusion is
+    not expected before March of 2008. If the Spanish government
+    does not release a new decree before September 27, 2008,
+    there will be no feed-in tariff for new PV systems installed,
+    connected or registered after that date.
+
+
+ 
+
+
+    In the United States, California has been the State where the
+    majority of solar installations have taken place during the past
+    five years. Starting January 1, 2007, the California Solar
+    Initiative (CSI) has established a goal of installing 3000MW of
+    solar generated electricity by 2017 with a State budget of
+    $3.3 billion over 10 years. The CSI is structured to
+    reduce the incentives paid to solar system owners as the
+    cumulative volume of solar installations reaches pre-determined
+    threshold limits. For example, the buy-down incentives and
+    performance based incentives are planned to be reduced by
+    approximately 50% between a cumulative installed solar capacity
+    of 100MW and
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+    200MW, potentially reducing demand for solar unless system cost
+    reductions can be achieved. Emerging subsidy programs, such as
+    the programs in Italy, France, Greece, South Korea and Ontario,
+    Canada, may require an extended period of time to attain
+    effectiveness because the applicable permitting and grid
+    connection processes associated with these programs can be
+    lengthy and administratively burdensome.
+
+
+ 
+
+
+    In addition, if any of these statutes or regulations is found to
+    be unconstitutional, or is reduced or discontinued for other
+    reasons, sales of our solar modules in these countries could
+    decline significantly, which could have a material adverse
+    effect on our business and results of operations. For example,
+    the predecessor to the German EEG was challenged in Germany on
+    constitutional grounds and in the European Court of Justice as
+    impermissible state aid. Although the German Federal High Court
+    of Justice dismissed these constitutional concerns and the
+    European Court of Justice held that the purchase requirement at
+    minimum feed-in tariffs did not constitute impermissible state
+    aid, new proceedings challenging the Renewable Energies Act or
+    comparable minimum price regulations in other countries in which
+    we currently operate or intend to operate may be initiated.
+
+
+ 
+
+
+    Electric utility companies or generators of electricity from
+    fossil fuels or other renewable energy sources could also lobby
+    for a change in the relevant legislation in their markets to
+    protect their revenue streams. Reduced growth in or the
+    reduction, elimination or expiration of government subsidies and
+    economic incentives for on-grid solar energy applications,
+    especially those in our target markets, could cause our net
+    sales to decline and materially and adversely affect our
+    business, financial condition and results of operations.
+
+
+ 
+
+
+    In the United States, the 30% business and residential
+    investment tax credit for solar energy systems reverts back to
+    10% at the end of 2008, unless it is extended. The United States
+    Congress attempted to extend the 30% investment tax credit
+    during 2007, but was unsuccessful. If the 30% investment tax
+    credit is not extended, or not extended by mid-year 2008 or is
+    only extended for a limited period of time, demand for solar
+    energy systems in the United States, at prices that are
+    profitable, could decline.
+
+
+ 
+
+
+
+    We
+    face intense competition from manufacturers of crystalline
+    silicon solar modules, thin film solar modules and solar thermal
+    and concentrated photovoltaic systems.
+
+
+ 
+
+
+    The solar energy and renewable energy industries are both highly
+    competitive and continually evolving as participants strive to
+    distinguish themselves within their markets and compete with the
+    larger electric power industry. We believe that our main sources
+    of competition are crystalline silicon solar module
+    manufacturers, other thin film solar module manufacturers and
+    companies developing solar thermal and concentrated photovoltaic
+    technologies.
+
+
+ 
+
+
+    At the end of 2007, the global photovoltaic industry consisted
+    of over 100 manufacturers of solar cells and modules. Within the
+    photovoltaic industry, we face competition from crystalline
+    silicon solar cell and module manufacturers. We also face
+    competition from established thin film solar module
+    manufacturers and several crystalline silicon manufacturers who
+    are developing thin film technologies. We also face competition
+    from semiconductor manufacturers and semiconductor equipment
+    manufacturers and numerous startup companies that have attracted
+    significant funding during 2007 — or their customers,
+    several of which have begun or have already announced their
+    intention to start production of photovoltaic cells, solar
+    modules or turnkey production lines. In addition to
+    manufacturers of solar cells and modules, we face competition
+    from companies developing solar thermal and concentrated
+    photovoltaic technologies.
+
+
+ 
+
+
+    Even if demand for solar modules continues to grow, the rapid
+    expansion plans of many solar cell and module manufacturers
+    could create periods where supply exceeds demand. During any
+    such period, our competitors could decide to reduce their sales
+    price, even below their manufacturing cost, in order to generate
+    sales. As a result, we may be unable to sell our solar modules
+    at attractive prices, or for a profit, during any period of
+    excess supply of solar modules, which would reduce our net sales
+    and harm our results of operations.
+
+
+ 
+
+
+    Many of our existing and potential competitors have
+    substantially greater financial, technical, manufacturing and
+    other resources than we do. A competitor’s greater size
+    provides them with a competitive advantage because they often
+    can realize economies of scale and purchase certain raw
+    materials at lower prices. Many of our competitors also have
+    greater brand name recognition, more established distribution
+    networks and larger customer bases. In addition, many of our
+    competitors have well-established relationships with our current
+    and potential
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+    distributors and have extensive knowledge of our target markets.
+    As a result of their greater size, some of our competitors may
+    be able to devote more resources to the research, development,
+    promotion and sale of their products or respond more quickly to
+    evolving industry standards and changes in market conditions
+    than we can. In addition, a significant increase in the supply
+    of silicon feedstock or a significant reduction in the
+    manufacturing cost of crystalline silicon solar modules could
+    lead to pricing pressures for solar modules. Our failure to
+    adapt to changing market conditions and to compete successfully
+    with existing or new competitors may materially and adversely
+    affect our financial condition and results of operations.
+
+
+ 
+
+
+
+    Our
+    substantial international operations subject us to a number of
+    risks, including unfavorable political, regulatory, labor and
+    tax conditions in foreign countries.
+
+
+ 
+
+
+    We have significant marketing and distribution operations
+    outside the United States and, with the completion of our German
+    plant and construction of our Malaysian manufacturing center, we
+    expect to have significant manufacturing operations outside the
+    United States. In 2007, 98.8% of our net sales were generated
+    from customers headquartered in the European Union. In the
+    future, we expect to expand our operations in other European
+    countries beyond Germany, Malaysia and other Asian countries;
+    and as a result, we will be subject to the legal, political,
+    social and regulatory requirements, and economic conditions of
+    many jurisdictions. Risks inherent to international operations,
+    include, but are not limited to, the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    difficulty in enforcing agreements in foreign legal systems;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    foreign countries may impose additional withholding taxes or
+    otherwise tax our foreign income, impose tariffs or adopt other
+    restrictions on foreign trade and investment, including currency
+    exchange controls;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    fluctuations in exchange rates may affect product demand and may
+    adversely affect our profitability in U.S. dollars to the
+    extent the price of our solar modules and cost of raw materials,
+    labor and equipment is denominated in a foreign currency;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to obtain, maintain or enforce intellectual property
+    rights;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    risk of nationalization of private enterprises;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    changes in general economic and political conditions in the
+    countries in which we operate, including changes in the
+    government incentives we are relying on;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    unexpected adverse changes in foreign laws or regulatory
+    requirements, including those with respect to environmental
+    protection, export duties and quotas;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulty with staffing and managing widespread operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    trade barriers such as export requirements, tariffs, taxes and
+    other restrictions and expenses, which could increase the price
+    of our solar modules and make us less competitive in some
+    countries; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulty of and costs relating to compliance with the
+    different commercial and legal requirements of the overseas
+    markets in which we offer and sell our solar modules.
+
+
+
+
+
+ 
+
+
+    Our business in foreign markets requires us to respond to rapid
+    changes in market conditions in these countries. Our overall
+    success as a global business depends, in part, on our ability to
+    succeed in differing legal, regulatory, economic, social and
+    political conditions. We may not be able to develop and
+    implement policies and strategies that will be effective in each
+    location where we do business. In addition, each of the
+    foregoing risks is likely to take on increased significance as
+    we implement our plans to expand our foreign manufacturing
+    operations.
+
+
+ 
+
+
+
+    Problems
+    with product quality or performance may cause us to incur
+    warranty expenses, damage our market reputation and prevent us
+    from maintaining or increasing our market share.
+
+
+ 
+
+
+    Our solar modules are sold with a five year materials and
+    workmanship warranty for technical defects and a twenty-five
+    year warranty against declines of more than 10% of their initial
+    rated power in the first 10 years following their
+    installation and 20% of initial rated power in the following
+    15 years, respectively. As a result, we bear the risk of
+    extensive warranty claims long after we have sold our solar
+    modules and recognized net sales. As of December 29, 2007,
+    our accrued warranty liability was $7.3 million.
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+    While our power output warranty extends for twenty-five years,
+    our oldest solar modules manufactured during the qualification
+    of our pilot production line have only been in use since 2001.
+    Because of the limited operating history of our solar modules,
+    we have been required to make assumptions regarding the
+    durability and reliability of our solar modules. Our assumptions
+    could prove to be materially different from the actual
+    performance of our solar modules, causing us to incur
+    substantial expense to repair or replace defective solar modules
+    in the future. For example, our
+    glass-on-glass
+    solar modules could break, delaminate or experience power
+    degradation in excess of expectations. In addition, once our
+    solar modules are installed, connected and exposed to sunlight,
+    but before they are connected to a power grid or there is a load
+    otherwise put on them, they are in an open circuit condition. We
+    are continuing to collect data on the long-term effects on
+    reliability and service life that results from extended periods
+    of the solar modules being in an open circuit condition,
+    particularly in high ambient temperature conditions. Although
+    the data available to us to date does not suggest significant
+    deterioration in long-term performance of solar modules that are
+    left in a prolonged open circuit condition, it may become
+    apparent with future experience that the long-term performance
+    and service life of our solar modules is affected by remaining
+    in an open circuit condition for prolonged periods of time. Any
+    widespread product failures may damage our market reputation and
+    cause our sales to decline and require us to repair or replace
+    the defective modules, which could have a material adverse
+    effect on our financial results.
+
+
+ 
+
+
+
+    If our
+    estimates regarding the future cost of collecting and recycling
+    our solar modules are incorrect, we could be required to accrue
+    additional expenses at and from the time we realize our
+    estimates are incorrect and face a significant unplanned cash
+    burden when our end-users return their solar
+    modules.
+
+
+ 
+
+
+    We pre-fund our estimated future obligation for collecting and
+    recycling our solar modules based on the present value of the
+    expected future cost of the collecting and recycling process.
+    This cost includes the cost of packaging the solar module for
+    transport, the cost of freight from the solar module’s
+    installation site to a recycling center and the material, labor
+    and capital costs of the recycling process. The related expense
+    that we recognize in our financial statements also includes an
+    estimated third-party profit margin and risk rate for such
+    services. Currently, we base our estimates on our experience
+    collecting and recycling solar modules that do not pass our
+    quality control tests and solar modules returned under our
+    warranty and on our expectations about future developments in
+    recycling technologies and processes and about economic
+    conditions at the time the solar modules will be collected and
+    recycled. If our estimates prove incorrect, we could be required
+    to accrue additional expenses at and from the time we realize
+    our estimates are incorrect and also face a significant
+    unplanned cash burden at the time we realize our estimates are
+    incorrect or end-users return their solar modules, which could
+    harm our operating results. In addition, our end-users can
+    return their solar modules at any time. As a result, we could be
+    required to collect and recycle our solar modules earlier than
+    we expect and before recycling technologies and processes
+    improve.
+
+
+ 
+
+
+
+    Our
+    future success depends on our ability to retain our key
+    associates and to successfully integrate them into our
+    management team.
+
+
+ 
+
+
+    We are dependent on the services of Michael J. Ahearn, our Chief
+    Executive Officer, Bruce Sohn, our President, Jens Meyerhoff,
+    our Chief Financial Officer, Ken Schultz, our Executive Vice
+    President Global Marketing and Business Development, John T.
+    Gaffney, our Executive Vice President and General Counsel, and
+    other members of our senior management team. The loss of
+    Messrs. Ahearn, Sohn, Meyerhoff, Schultz, Gaffney, or any
+    other member of our senior management team could have a material
+    adverse effect on us. There is a risk that we will not be able
+    to retain or replace these key associates. Several of our
+    current key associates, including Messrs. Ahearn, Sohn,
+    Meyerhoff, Schultz, and Gaffney are subject to employment
+    conditions or arrangements that contain post-employment
+    non-competition provisions. However, these arrangements permit
+    the associates to terminate their employment with us upon little
+    or no notice.
+
+
+ 
+
+
+
+    If we
+    are unable to attract, train and retain key personnel, our
+    business may be materially and adversely affected.
+
+
+ 
+
+
+    Our future success depends, to a significant extent, on our
+    ability to attract, train and retain management, operations and
+    technical personnel. Recruiting and retaining capable personnel,
+    particularly those with expertise in the photovoltaic industry,
+    thin film technology and cadmium telluride, are vital to our
+    success. There is substantial
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+    competition for qualified technical personnel and we cannot
+    assure you that we will be able to attract or retain our
+    technical personnel. In addition, a significant percentage of
+    our current management, operations and technical personnel have
+    stock options that vest in 2008 and it may be more difficult to
+    retain these individuals after their options vest. If we are
+    unable to attract and retain qualified associates, our business
+    may be materially and adversely affected.
+
+
+ 
+
+
+
+    Our
+    failure to protect our intellectual property rights may
+    undermine our competitive position and litigation to protect our
+    intellectual property rights or defend against third-party
+    allegations of infringement may be costly.
+
+
+ 
+
+
+    Protection of our proprietary processes, methods and other
+    technology, especially our proprietary vapor transport
+    deposition process and laser scribing process, is critical to
+    our business. Failure to protect and monitor the use of our
+    existing intellectual property rights could result in the loss
+    of valuable technologies. We rely primarily on patents,
+    trademarks, trade secrets, copyrights and other contractual
+    restrictions to protect our intellectual property. As of
+    December 29, 2007, we held 22 patents in the United States
+    and 14 patents in select foreign jurisdictions. A majority of
+    our patents expire at various times between 2009 and 2023. Our
+    existing patents and future patents could be challenged,
+    invalidated, circumvented or rendered unenforceable. We have
+    pending patent applications in the United States and in foreign
+    jurisdictions. Our pending patent applications may not result in
+    issued patents, or if patents are issued to us, such patents may
+    not be sufficient to provide meaningful protection against
+    competitors or against competitive technologies.
+
+
+ 
+
+
+    We also rely upon unpatented proprietary manufacturing
+    expertise, continuing technological innovation and other trade
+    secrets to develop and maintain our competitive position. While
+    we generally enter into confidentiality agreements with our
+    associates and third parties to protect our intellectual
+    property, such confidentiality agreements are limited in
+    duration and could be breached and may not provide meaningful
+    protection for our trade secrets or proprietary manufacturing
+    expertise. Adequate remedies may not be available in the event
+    of unauthorized use or disclosure of our trade secrets and
+    manufacturing expertise. In addition, others may obtain
+    knowledge of our trade secrets through independent development
+    or legal means. The failure of our patents or confidentiality
+    agreements to protect our processes, equipment, technology,
+    trade secrets and proprietary manufacturing expertise, methods
+    and compounds could have a material adverse effect on our
+    business. In addition, effective patent, trademark, copyright
+    and trade secret protection may be unavailable or limited in
+    some foreign countries, especially any developing countries into
+    which we may expand our operations. In some countries we have
+    not applied for patent, trademark or copyright protection.
+
+
+ 
+
+
+    Third parties may infringe or misappropriate our proprietary
+    technologies or other intellectual property rights, which could
+    have a material adverse effect on our business, financial
+    condition and operating results. Policing unauthorized use of
+    proprietary technology can be difficult and expensive. Also,
+    litigation may be necessary to enforce our intellectual property
+    rights, protect our trade secrets or determine the validity and
+    scope of the proprietary rights of others. We cannot assure you
+    that the outcome of such potential litigation will be in our
+    favor. Such litigation may be costly and may divert management
+    attention and other resources away from our business. An adverse
+    determination in any such litigation will impair our
+    intellectual property rights and may harm our business,
+    prospects and reputation. In addition, we have no insurance
+    coverage against litigation costs and would have to bear all
+    costs arising from such litigation to the extent we are unable
+    to recover them from other parties.
+
+
+ 
+
+
+
+    We may
+    be exposed to infringement or misappropriation claims by third
+    parties, which, if determined adversely to us, could cause us to
+    pay significant damage awards or prohibit us from the
+    manufacture and sale of our solar modules or the use of our
+    technology.
+
+
+ 
+
+
+    Our success depends largely on our ability to use and develop
+    our technology and know-how without infringing or
+    misappropriating the intellectual property rights of third
+    parties. The validity and scope of claims relating to
+    photovoltaic technology patents involve complex scientific,
+    legal and factual considerations and analysis and, therefore,
+    may be highly uncertain. We may be subject to litigation
+    involving claims of patent infringement or violation of
+    intellectual property rights of third parties. The defense and
+    prosecution of intellectual property suits, patent opposition
+    proceedings and related legal and administrative proceedings can
+    be both costly and time consuming and may significantly divert
+    the efforts and resources of our technical and management
+    personnel. An
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+    adverse determination in any such litigation or proceedings to
+    which we may become a party could subject us to significant
+    liability to third parties, require us to seek licenses from
+    third parties, which may not be available on reasonable terms,
+    or at all, or pay ongoing royalties, require us to redesign our
+    solar module, or subject us to injunctions prohibiting the
+    manufacture and sale of our solar modules or the use of our
+    technologies. Protracted litigation could also result in our
+    customers or potential customers deferring or limiting their
+    purchase or use of our solar modules until the resolution of
+    such litigation.
+
+
+ 
+
+
+
+    Currency
+    translation and transaction risk may negatively affect our net
+    sales, cost of sales and gross margins and could result in
+    exchange losses.
+
+
+ 
+
+
+    Although our reporting currency is the U.S. dollar, we
+    conduct our business and incur costs in the local currency of
+    most countries in which we operate. As a result, we are subject
+    to currency translation and transaction risk. For example, 95.0%
+    and 98.8% of our net sales were outside the United States and
+    denominated in euros for the fiscal year ended December 30,
+    2006 and December 29, 2007, respectively, and we expect a
+    large percentage of our net sales to be outside the United
+    States and denominated in foreign currencies in the future. In
+    addition, with the expansion of our manufacturing operations
+    into Germany and our current expansion into Malaysia, our
+    operating expenses for the plants in these countries will be
+    denominated in the local currency. Changes in exchange rates
+    between foreign currencies and the U.S. dollar could affect
+    our net sales and cost of sales and could result in exchange
+    gains or losses. For example, the strengthening euro contributed
+    $43.8 million to our net sales during fiscal 2007 compared
+    to fiscal 2006. In addition, we incur currency transaction risk
+    whenever one of our operating subsidiaries enters into either a
+    purchase or a sales transaction using a different currency from
+    our reporting currency. For example, our Long Term Supply
+    Contracts specify fixed pricing in euros through 2012 and do not
+    adjust for changes in the U.S. dollar to euro exchange
+    rate. We cannot accurately predict the impact of future exchange
+    rate fluctuations on our results of operations.
+
+
+ 
+
+
+    We could also expand our business into emerging markets, many of
+    which have an uncertain regulatory environment relating to
+    currency policy. Conducting business in such emerging markets
+    could cause our exposure to changes in exchange rates to
+    increase.
+
+
+ 
+
+
+
+    An
+    increase in interest rates or tightening of the supply of
+    capital by Global Financial Markets could make it difficult for
+    end-users to finance the cost of a photovoltaic system and could
+    reduce the demand for our solar modules.
+
+
+ 
+
+
+    Many of our end-users depend on debt financing to fund the
+    initial capital expenditure required to purchase and install a
+    photovoltaic system. As a result, an increase in interest rates
+    could make it difficult for our end-users to secure the
+    financing necessary to purchase and install a photovoltaic
+    system on favorable terms, or at all, and thus lower demand for
+    our solar modules and reduce our net sales. In addition, we
+    believe that a significant percentage of our end-users install
+    photovoltaic systems as an investment, funding the initial
+    capital expenditure through a combination of equity and debt. An
+    increase in interest rates could lower an investor’s return
+    on investment in a photovoltaic system, or make alternative
+    investments more attractive relative to photovoltaic systems,
+    and, in each case, could cause these end-users to seek
+    alternative investments. A reduction in the supply of
+    non-recourse project debt financing or tax equity investments
+    could reduce the number of solar projects that receive financing
+    and thus lower demand for solar modules.
+
+
+ 
+
+
+
+    Existing
+    regulations and policies and changes to these regulations and
+    policies may present technical, regulatory and economic barriers
+    to the purchase and use of photovoltaic products, which may
+    significantly reduce demand for our solar modules.
+
+
+ 
+
+
+    The market for electricity generation products is heavily
+    influenced by foreign, federal, state and local government
+    regulations and policies concerning the electric utility
+    industry, as well as policies promulgated by electric utilities.
+    These regulations and policies often relate to electricity
+    pricing and technical interconnection of customer-owned
+    electricity generation. In the United States and in a number of
+    other countries, these regulations and policies have been
+    modified in the past and may be modified again in the future.
+    These regulations and policies could deter end-user purchases of
+    photovoltaic products and investment in the research and
+    development of photovoltaic technology. For example, without a
+    mandated regulatory exception for photovoltaic systems, utility
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+    customers are often charged interconnection or standby fees for
+    putting distributed power generation on the electric utility
+    grid. These fees could increase the cost to our end-users of
+    using photovoltaic systems and make them less desirable, thereby
+    harming our business, prospects, results of operations and
+    financial condition. In addition, electricity generated by
+    photovoltaic systems mostly competes with expensive peak hour
+    electricity, rather than the less expensive average price of
+    electricity. Modifications to the peak hour pricing policies of
+    utilities, such as to a flat rate, would require photovoltaic
+    systems to achieve lower prices in order to compete with the
+    price of electricity.
+
+
+ 
+
+
+    We anticipate that our solar modules and their installation will
+    be subject to oversight and regulation in accordance with
+    national and local ordinances relating to building codes,
+    safety, environmental protection, utility interconnection and
+    metering and related matters. It is difficult to track the
+    requirements of individual states and design equipment to comply
+    with the varying standards. Any new government regulations or
+    utility policies pertaining to our solar modules may result in
+    significant additional expenses to us, our resellers and their
+    customers and, as a result, could cause a significant reduction
+    in demand for our solar modules.
+
+
+ 
+
+
+
+    Environmental
+    obligations and liabilities could have a substantial negative
+    impact on our financial condition, cash flows and
+    profitability.
+
+
+ 
+
+
+    Our operations involve the use, handling, generation,
+    processing, storage, transportation and disposal of hazardous
+    materials and are subject to extensive environmental laws and
+    regulations at the national, state, local and international
+    level. These environmental laws and regulations include those
+    governing the discharge of pollutants into the air and water,
+    the use, management and disposal of hazardous materials and
+    wastes, the cleanup of contaminated sites and occupational
+    health and safety. We have incurred and will continue to incur
+    significant costs and capital expenditures in complying with
+    these laws and regulations. In addition, violations of, or
+    liabilities under, environmental laws or permits may result in
+    restrictions being imposed on our operating activities or in our
+    being subjected to substantial fines, penalties, criminal
+    proceedings, third party property damage or personal injury
+    claims, cleanup costs or other costs. While we believe we are
+    currently in substantial compliance with applicable
+    environmental requirements, future developments such as more
+    aggressive enforcement policies, the implementation of new, more
+    stringent laws and regulations, or the discovery of presently
+    unknown environmental conditions may require expenditures that
+    could have a material adverse effect on our business, results of
+    operations and financial condition.
+
+
+ 
+
+
+    In addition, our products contain cadmium telluride and cadmium
+    sulfide. Elemental cadmium and certain of its compounds are
+    regulated as hazardous due to the adverse health effects that
+    may arise from human exposure. Although the risks of exposure to
+    cadmium telluride are not believed to be as serious as those
+    relating to exposure to elemental cadmium, the chemical,
+    physical and toxicological properties of cadmium telluride have
+    not been thoroughly investigated and reported. We maintain
+    engineering controls to minimize associate exposure to cadmium
+    and require our associates who handle cadmium compounds to
+    follow certain safety procedures, including the use of personal
+    protective equipment such as respirators, chemical goggles and
+    protective clothing. In addition, we believe the risk of
+    exposure to cadmium or cadmium compounds from our end-products
+    is limited by the fully encapsulated nature of these materials
+    in our products, as well as the implementation in 2005 of our
+    end of life collection and recycling program for our solar
+    modules. While we believe that these factors and procedures are
+    sufficient to protect our associates, end-users and the general
+    public from cadmium exposure, we cannot assure you that human or
+    environmental exposure to cadmium or cadmium compounds used in
+    our products will not occur. Any such exposure could result in
+    future third-party claims against us, as well as damage to our
+    reputation and heightened regulatory scrutiny of our products,
+    which could limit or impair our ability to sell and distribute
+    our products. The occurrence of future events such as these
+    could have a material adverse effect on our business, financial
+    condition or results of operations.
+
+
+ 
+
+
+    The use of cadmium in various products is also coming under
+    increasingly stringent governmental regulation. Future
+    regulation in this area could impact the manufacture, sale,
+    collection, and recycling of cadmium-containing solar modules
+    and could require us to make unforeseen environmental
+    expenditures or limit our ability to sell and distribute our
+    products. For example, the European Union Directive 2002/96/EC
+    on Waste Electrical and Electronic Equipment, or the “WEEE
+    Directive,” requires manufacturers of certain electrical
+    and electronic equipment to be financially responsible for the
+    collection, recycling, treatment and disposal of specified
+    products sold in the European Union. In addition, European Union
+    Directive 2002/95/EC on the Restriction of the Use of Hazardous
+    Substances in electrical and electronic equipment, or the
+    “RoHS Directive,” restricts the use of certain
+    hazardous substances, including cadmium, in specified products.
+    Other jurisdictions are considering adopting similar
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+    legislation. Currently, photovoltaic solar modules in general
+    are not subject to the WEEE or RoHS Directives; however, these
+    directives allow for future amendments subjecting additional
+    products to their requirements and the scope, applicability and
+    the products included in the WEEE and RoHS Directives are
+    currently being considered and may change. If, in the future,
+    our solar modules become subject to requirements such as these,
+    we may be required to apply for an exemption. If we were unable
+    to obtain an exemption, we would be required to redesign our
+    solar modules in order to continue to offer them for sale within
+    the European Union, which would be impractical. Failure to
+    comply with these directives could result in the imposition of
+    fines and penalties, the inability to sell our solar modules in
+    the European Union, competitive disadvantages and loss of net
+    sales, all of which could have a material adverse effect on our
+    business, financial condition and results of operations.
+
+
+ 
+
+
+
+    The
+    Estate of John T. Walton and its affiliates have significant
+    control over us and their interests may conflict with or differ
+    from your interests as a stockholder.
+
+
+ 
+
+
+    Our current majority stockholder, the Estate of John T. Walton
+    and its affiliates, including JCL Holdings, LLC, beneficially
+    own approximately 45.9% of our outstanding common stock. As a
+    result, the Estate of John T. Walton and its affiliates have
+    substantial influence over all matters requiring stockholder
+    approval, including the election of our directors and the
+    approval of significant corporate transactions such as mergers,
+    tender offers and the sale of all or substantially all of our
+    assets. In addition, our amended and restated certificate of
+    incorporation and by-laws provide that unless and until the
+    Estate of John T. Walton, JCL Holdings, LLC, John T.
+    Walton’s surviving spouse, descendants, any entity
+    (including a trust) that is for the benefit of John T.
+    Walton’s surviving spouse or descendants or any entity
+    (including a trust) over which any of John T. Walton’s
+    surviving spouse, descendants or siblings has voting or
+    dispositive power (collectively, the “Estate”)
+    collectively owns less than 40% of our common stock then
+    outstanding, stockholders holding 40% or more of our common
+    stock then outstanding may call a special meeting of the
+    stockholders, at which our stockholders could replace our board
+    of directors. In addition, unless and until the Estate
+    collectively owns less than 40% of our common stock then
+    outstanding, stockholder action may be taken by written consent.
+    The interests of the Estate could conflict with or differ from
+    your interests as a holder of our common stock. For example, the
+    concentration of ownership held by the Estate could delay, defer
+    or prevent a change of control of our company or impede a
+    merger, takeover or other business combination which you may
+    view favorably.
+
+
+ 
+
+
+
+    We may
+    not realize the anticipated benefits of past or future
+    acquisitions, and integration of these acquisitions may disrupt
+    our business and management.
+
+
+ 
+
+
+    In November 2007, we acquired Turner Renewable Energy, LLC and
+    in the future, we may acquire additional companies, products or
+    technologies. We may not realize the anticipated benefits of an
+    acquisition and each acquisition has numerous risks. These risks
+    include the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    difficulty in assimilating the operations and personnel of the
+    acquired company;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulty in effectively integrating the acquired technologies
+    or products with our current products and technologies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulty in maintaining controls, procedures and policies
+    during the transition and integration;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    disruption of our ongoing business and distraction of our
+    management and employees from other opportunities and challenges
+    due to integration issues;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulty integrating the acquired company’s accounting,
+    management information and other administrative systems;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to retain key technical and managerial personnel of
+    the acquired business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to retain key customers, vendors and other business
+    partners of the acquired business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to achieve the financial and strategic goals for the
+    acquired and combined businesses;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    incurring acquisition-related costs or amortization costs for
+    acquired intangible assets that could impact our operating
+    results;
+
+
+
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    potential impairment of our relationships with employees,
+    customers, partners, distributors or third party providers of
+    technology or products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    potential failure of the due diligence processes to identify
+    significant issues with product quality, architecture and
+    development, or legal and financial liabilities, among other
+    things;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    potential inability to assert that internal controls over
+    financial reporting are effective;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    potential inability to obtain, or obtain in a timely manner,
+    approvals from governmental authorities, which could delay or
+    prevent such acquisitions; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    potential delay in customer purchasing decisions due to
+    uncertainty about the direction of our product offerings.
+
+
+
+
+
+ 
+
+
+    Mergers and acquisitions of companies are inherently risky, and
+    ultimately, if we do not complete the integration of acquired
+    businesses successfully and in a timely manner, we may not
+    realize the anticipated benefits of the acquisitions to the
+    extent anticipated, which could adversely affect our business,
+    financial condition or results of operations.
+
+
+ 
+
+
+
+    If our
+    goodwill or amortizable intangible assets become impaired we may
+    be required to record a significant charge to
+    earnings.
+
+
+ 
+
+
+    Under accounting principles generally accepted in the United
+    States of America, we review our amortizable intangible assets
+    for impairment when events or changes in circumstances indicate
+    the carrying value may not be recoverable. Goodwill is required
+    to be tested for impairment at least annually. Factors that may
+    be considered a change in circumstances indicating that the
+    carrying value of our goodwill or amortizable intangible assets
+    may not be recoverable include, a decline in stock price and
+    market capitalization, future cash flows and slower growth rates
+    in our industry. Goodwill recorded in connection with the
+    acquisition of Turner Renewable Energy, LLC in November 2007 was
+    $33.4 million. We may be required to record a significant
+    charge to earnings in our financial statements during the period
+    in which any impairment of our goodwill or amortizable
+    intangible assets is determined, resulting in an impact on our
+    results of operations.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

@@ -1,0 +1,79 @@
+Item 1A. Risk Factors  Our business is influenced by many factors that are difficult to predict, involve uncertainties that may
+materially affect actual results and are often beyond our control. We have identified a number of these factors below. For other factors that may cause actual results to differ materially from those indicated in any forward-looking statement or
+projection contained in this report, see Forward-Looking Statements in MD&A.  Our operations are weather sensitive. Our results of
+operations can be affected by changes in the weather. Weather conditions directly influence the demand for electricity and natural gas and affect the price of energy commodities. In addition, severe weather, including hurricanes, winter storms and
+droughts, can be destructive, causing outages, production delays and property damage that require us to incur additional expenses.  We are subject
+to complex governmental regulation that could adversely affect our operations. Our operations are subject to extensive federal, state and local regulation and may require numerous permits, approvals and certificates from various governmental
+agencies. We must also comply with environmental legislation and associated regulations. Management believes the necessary approvals have been obtained for our existing operations and that our business is conducted in accordance with applicable
+laws. However, new laws or regulations, or the revision or reinterpretation of existing laws or regulations, may require us to incur additional expenses.  <FONT FACE="ARIAL"
+SIZE="1">Costs of environmental compliance, liabilities and litigation could exceed our estimates, which could adversely affect our results of operations. Compliance with federal, state and local environmental laws and regulations may result
+in increased capital, operating and other costs, including remediation and containment expenses and monitoring obligations. In addition, we may be a responsible party for environmental clean-up at a site identified by a regulatory body. Management
+cannot predict with certainty the amount and timing of all future expenditures related to environmental matters because of the difficulty of estimating clean-up and compliance costs, and the possibility that changes will be made to the current
+environmental laws and regulations. There is also uncertainty in quantifying liabilities under environmental laws that impose joint and several liability on all potentially responsible parties.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">We are exposed to cost-recovery shortfalls because of capped base rates and amendments to the fuel factor statute in effect in Virginia for our regulated
+electric utility. Under the Virginia Restructuring Act, as amended in 2004, our base rates (excluding, generally, a fuel factor with limited adjustment provisions, and certain other allowable adjustments) remain capped through December 31,
+2010 unless modified or terminated consistent with the Virginia Restructuring Act. Although the Virginia Restructuring Act allows for the recovery of certain generation-related costs during the capped rates period, we remain exposed to numerous
+risks of cost-recovery shortfalls. These include exposure to stranded costs, future environmental compliance requirements, certain tax law changes, costs related to hurricanes or other weather events, inflation, the cost of obtaining replacement
+power during unplanned plant outages and increased capital costs.  In addition, under the 2004 amendments to the Virginia fuel factor statute, our
+current Virginia fuel factor provisions are locked-in until the earlier of July 1, 2007 or the termination of capped rates by order of the Virginia Commission, with no deferred fuel accounting. The amendments provide for a <FONT
+FACE="ARIAL" SIZE="1">one-time adjustment of our fuel factor, effective July 1, 2007 through December 31, 2010 (unless capped rates are terminated earlier), with no adjustment for previously incurred over-recovery or under-recovery. As a
+result of the current locked-in fuel factor and the uncertainty of what the one-time adjustment will be, we are exposed to fuel price and other risks. These risks include exposure to increased costs of fuel, including purchased power costs,
+differences between our projected and actual power generation mix and generating unit performance (which affects the types and amounts of fuel we use), and differences between fuel price assumptions and actual fuel prices.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">Under the Virginia Restructuring Act, the generation portion of our electric utility operations is open to competition and resulting uncertainty. Under the
+Virginia Restructuring Act, the generation portion of our electric utility operations in Virginia is open to competition and is no longer subject to cost-based regulation. To date, a competitive retail market has been slow to develop. Consequently,
+it is difficult to predict the pace at which a competitive environment will evolve and the extent to which we will face increased competition and be able to operate profitably within this competitive environment.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">Our merchant power business is operating in a challenging market, which could adversely affect our results of operations and future growth. The success of
+our merchant power business depends upon favorable market conditions as well as our ability to find buyers willing to enter into power purchase agreements at prices sufficient to cover operating costs. We attempt to manage these risks by entering
+into both short-term and long-term fixed price sales and purchase contracts and locating our assets in active wholesale energy markets. However, high fuel and commodity costs and excess capacity in the industry could adversely impact results of
+operations.  There are risks associated with the operation of nuclear facilities. We operate nuclear facilities that are subject to risks,
+including the threat of terrorist attack and ability to dispose of spent nuclear fuel, the disposal of which is subject to complex federal and state regulatory constraints. These risks also include the cost of and our ability to maintain adequate
+reserves for decommissioning, costs of replacement power, costs of plant maintenance and exposure to potential liabilities arising out of the operation of these facilities. We maintain decommissioning trusts and external insurance coverage to manage
+the financial exposure to these risks. However, it is possible that costs arising from claims could exceed the amount of any insurance coverage.  <FONT FACE="ARIAL"
+SIZE="1">The use of derivative instruments could result in financial losses and liquidity constraints. We use derivative instruments, including futures, forwards, financial transmission rights, options and swaps, to manage our commodity and
+financial market risks. In addition, we purchase and sell commodity-based contracts in the natural gas, electricity and oil markets for trading purposes. We could recognize financial losses on these contracts as a result of volatility in the market
+values of the underlying commodities or if a counterparty fails to perform under a contract. In the absence of actively quoted market prices and pricing information from external sources, the valuation of these contracts involves management’s
+judgment or use of estimates. As a result, changes in the underlying assumptions or use of alternative valuation methods could affect the reported fair value of these contracts.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">In addition, we use financial derivatives to hedge future sales of our merchant generation and gas and oil production, which may limit the benefit we would
+otherwise receive from increases in commodity prices. These hedge arrangements generally 
+  
+ 11 
+
+
+
+
+Table of Contents
+
+   
+include collateral requirements that require us to deposit funds or post letters of credit with counterparties to cover the fair value of covered contracts in excess
+of agreed upon credit limits. When commodity prices rise to levels substantially higher than the levels where we have hedged future sales, we may be required to use a material portion of our available liquidity and obtain additional liquidity to
+cover these collateral requirements. In some circumstances, this could have a compounding effect on our financial liquidity and results.  Derivatives
+designated under hedge accounting to the extent not offset by the hedged transaction can result in ineffectiveness losses. These losses primarily result from differences in the location and specifications of the derivative hedging instrument and the
+hedged item and could adversely affect our results of operations.  Our operations in regards to these transactions are subject to multiple market
+risks including market liquidity, counterparty credit strength and price volatility. These market risks are beyond our control and could adversely affect our results of operations and future growth.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">For additional information concerning derivatives and commodity-based trading contracts, see Market Risk Sensitive Instruments and Risk Management in Item
+7A. Quantitative and Qualitative Disclosures About Market Risk and Notes 2 and 8 to our Consolidated Financial Statements.  Our exploration and
+production business is dependent on factors that cannot be predicted or controlled and that could damage facilities, disrupt production or reduce the book value of our assets. Factors that may affect our financial results include damage to or
+suspension of operations caused by weather, fire, explosion or other events to our or third-party gas and oil facilities, fluctuations in natural gas and crude oil prices, results of future drilling and well completion activities, and our ability to
+acquire additional land positions in competitive lease areas, as well as inherent operational risks that could disrupt production.  Short-term market
+declines in the prices of natural gas and oil could adversely affect our financial results by causing a permanent write-down of our natural gas and oil properties as required by the full cost method of accounting. Under the full cost method, all
+direct costs of property acquisition, exploration and development activities are capitalized. If net capitalized costs exceed the present value of estimated future net revenues based on hedge-adjusted period-end prices from the production of proved
+gas and oil reserves (the ceiling test) in a given country at the end of any quarterly period, then a permanent write-down of the assets must be recognized in that period.  <FONT
+FACE="ARIAL" SIZE="1">We maintain business interruption insurance for offshore operations associated with our exploration and production business. We have placed our insurers on notice that we have suffered substantial property damage and business
+interruption loss related to Hurricanes Katrina and Rita. Failure to realize the full value of our claims could adversely affect our results of operations. Additionally, the increased level of hurricane activity in the Gulf of Mexico is likely to
+significantly increase the cost of business interruption insurance and could make it unavailable on commercially reasonable terms. Inability to insure our offshore Gulf of Mexico operations could adversely affect our results of operations.
+ An inability to access financial markets could affect the execution of our business plan. Dominion and our Virginia Power and CNG subsidiaries
+rely on access to short-term money markets, longer-term capital markets and banks as significant sources of liquidity for capital requirements and collateral requirements related to hedges of future gas and oil production not satisfied by the cash
+flows from our operations. Management believes that Dominion and our subsidiaries will maintain sufficient access to these financial markets based upon current credit ratings. However, certain disruptions outside of our control may increase our cost
+of borrowing or restrict our ability to access one or more financial markets. Such disruptions could include an economic downturn, the bankruptcy of an unrelated energy company or changes to our credit ratings. Restrictions on our ability to access
+financial markets may affect our ability to execute our business plan as scheduled.  Changing rating agency requirements could negatively affect
+our growth and business strategy. As of February 1, 2006, Dominion’s senior unsecured debt is rated BBB, stable outlook, by Standard & Poor’s Rating Group (Standard & Poor’s); Baa1, under review for potential
+downgrade, by Moody’s Investors Services (Moody’s); and BBB+, stable outlook, by Fitch Ratings Ltd. (Fitch). In order to maintain our current credit ratings in light of existing or future requirements, we may find it necessary to take
+steps or change our business plans in ways that may adversely affect our growth and earnings per share. A reduction in Dominion’s credit ratings or the credit ratings of our Virginia Power and CNG subsidiaries by Standard &
+Poor’s, Moody’s or Fitch could increase our borrowing costs and adversely affect operating results and could require us to post additional collateral in connection with some of our trading and marketing activities.  <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:2%">Potential changes in accounting practices may adversely affect our financial results. We cannot predict the impact that future changes in accounting
+standards or practices may have on public companies in general, the energy industry or our operations specifically. New accounting standards could be issued that could change the way we record revenues, expenses, assets and liabilities. These
+changes in accounting standards could adversely affect our reported earnings or could increase reported liabilities.  Failure to retain and attract
+key executive officers and other skilled professional and technical employees could have an adverse effect on our operations. Implementation of our growth strategy is dependent on our ability to recruit, retain and motivate employees.
+Competition for skilled employees in some areas is high and the inability to retain and attract these employees could adversely affect our business and future financial condition.  <FONT
+SIZE="1">  
+Item 1B

@@ -1,0 +1,41 @@
+Item 1A. Risk Factors
+
+     Our businesses routinely encounter and address risks, some of which may cause our future results to be different than we currently anticipate. Risk factors described below represent our current view of some of the most important risks facing our businesses and are important to understanding our business. The following information should be read in conjunction with MD&A, Quantitative and Qualitative Disclosures About Market Risk and the consolidated financial statements and related notes included in this Form 10-K. This discussion includes a number of forward-looking statements. You should refer to the description of the qualifications and limitations on forward-looking statements in the first paragraph under MD&A included in this Form 10-K. Unless otherwise indicated or the context otherwise requires, reference in this section to “we,” “ours,” “us” or
+similar terms means ADP, together with its subsidiaries. The level of importance of each of the following risks may vary from time to time.
+
+Changes in laws and regulations may decrease our revenues and earnings
+
+     Portions of ADP’s business are subject to governmental regulations. Changes in governmental regulations may decrease our revenues and earnings and may require us to change the manner in which we conduct some of the aspects of our business. For example, a change in regulations either decreasing the amount of taxes to be withheld or allowing less time to remit taxes to government authorities would adversely impact interest income from investing funds that we collect from clients but have not yet remitted to the applicable taxing authorities or client employees, thus reducing our revenues and income from this source.
+
+Security and privacy breaches may hurt our business
+
+     We store electronically personal information, including social security numbers, about our clients and employees of our clients. In addition, our retirement services systems maintain investor account information for retirement plans. There is no guarantee that the systems and procedures that we maintain to protect against unauthorized access to such information are adequate to protect against all security breaches. Any significant violations of data privacy could result in the loss of business, litigation and regulatory investigations and penalties that could damage our reputation and the growth of our business could be materially adversely affected.
+
+Our systems may be subject to disruptions that could adversely affect our business and reputation
+
+     Many of our businesses are highly dependent on our ability to process, on a daily basis, a large number of complicated transactions. We rely heavily on our payroll, financial, accounting and other data processing systems. If any of these systems fail to operate properly or become disabled even for a brief period of time, we could suffer financial loss, a disruption of our businesses, liability to clients, regulatory intervention or damage to our reputation. We have disaster recovery plans in place to protect our businesses against natural disasters, security breaches, military or terrorist actions, power or communication failures or similar events. Despite our preparations, in the event of a catastrophic occurrence, our disaster recovery plans may not be successful in preventing the loss of customer data, service interruptions, disruptions to our operations, or damage to our important facilities.
+
+8
+
+
+
+
+
+
+If we fail to adapt our technology to meet customer needs and preferences, the demand for our services may diminish
+
+     Our businesses operate in industries that are subject to rapid technological advances and changing customer needs and preferences. In order to remain competitive and responsive to customer demands, we continually upgrade, enhance and expand our existing products and services. If we fail to respond successfully to the technology challenges, the demand for our services may diminish.
+
+Political and economic factors may adversely affect our business and financial results
+
+     Trade, monetary and fiscal policies, and political and economic conditions may substantially change. When there is a slowdown in the economy, employment levels and interest rates may decrease with a corresponding impact on our businesses. Customers may react to worsening conditions by reducing their spending on payroll and other outsourcing services or renegotiating their contracts with us. If any of these circumstances remain in effect for an extended period of time, there could be a material adverse effect on our financial results.
+
+Change in our credit ratings could adversely impact our operations and lower our profitability
+
+     The major credit rating agencies periodically evaluate our creditworthiness and have consistently given us their highest long-term debt and commercial paper ratings. Failure to maintain high credit ratings on long-term and short-term debt could increase our cost of borrowing, reduce our ability to obtain intra-day borrowing required by our Employer Services business, and ultimately reduce our client interest revenue.
+
+We may be unable to attract and retain qualified personnel
+
+     Our ability to grow and provide our customers with competitive services is partially dependent on our ability to attract and retain highly motivated people with the skills to serve our customers. Competition for skilled employees in the outsourcing and other markets in which we operate is intense and if we are unable to attract and retain highly skilled and motivated personnel, expected results from our operations may suffer.
+
+Item 1B

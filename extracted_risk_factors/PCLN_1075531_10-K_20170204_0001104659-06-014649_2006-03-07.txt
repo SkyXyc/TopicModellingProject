@@ -1,0 +1,3161 @@
+Item 1A of this Annual Report; therefore, actual results
+may differ materially from those expressed, implied or forecasted in any such
+forward-looking statements.
+
+ 
+
+Expressions
+of future goals, expectations and similar expressions including, without
+limitation, “may,” “will,” “should,” “could,” “expects,” “plans,” “anticipates,”
+“intends,” “believes,” “estimates,” “predicts,” “potential,” “targets,” or “continue,”
+reflecting something other than historical fact are intended to identify
+forward-looking statements.  The
+following factors, among others, could cause our actual results to differ
+materially from those described in the forward-looking statements: adverse
+changes in general market conditions for leisure and other travel products as
+the result of, among other things, terrorist attacks or war; adverse changes in
+our relationships with airlines, hotels and other product and service providers
+including, without limitation, the withdrawal of suppliers from the
+priceline.com system, the bankruptcy or insolvency of a major domestic airline;
+the effects of increased competition; systems-related failures and/or security
+breaches; our ability to protect our intellectual property rights; losses by us
+and our licensees; any adverse impact from negative publicity and negative
+customer reaction to such publicity; legal and regulatory risks and the ability
+to attract and retain qualified personnel. 
+These factors and others are described in more detail below in Item 1A
+entitled “Risk Factors.”  Unless required
+by law, we undertake no obligation to update publicly any forward-looking
+statements, whether as a result of new information, future events or
+otherwise.  However, readers should
+carefully review the reports and documents we file from time to time with the
+Securities and Exchange Commission, particularly the Quarterly Reports on Form
+10-Q and any Current Reports on Form 8-K.
+
+ 
+
+PART I
+
+ 
+
+Item 1.  Business
+
+ 
+
+General
+
+ 
+
+We
+are a leading online travel company that offers our customers a broad range of
+travel services, including airline tickets, hotel rooms, car rentals, vacation
+packages and cruises.  We offer our
+customers a unique choice: the ability to purchase travel services in a
+traditional, price-disclosed manner or the opportunity to use our unique Name Your Own Price® service, which allows our
+customers to make offers for travel services at discounted prices.  At present, we derive substantially all of
+our revenues from the following sources:
+
+ 
+
+•                              Transaction revenues from
+our Name Your Own Price® airline
+ticket, hotel room and rental car services, as well as our vacation packages
+service;
+
+ 
+
+•                              Commissions earned from the
+sale of price-disclosed hotel rooms, rental cars, cruises and other travel
+services;
+
+ 
+
+•                              Customer processing fees
+charged in connection with the sale of both Name
+Your Own Price®
+and price-disclosed airline tickets, hotel rooms and rental cars service;
+
+ 
+
+•                              Worldspan, L.P. reservation
+booking fees related to both our Name Your
+Own Price®
+airline ticket, hotel room and rental car service, and price-disclosed airline
+tickets and rental car service;
+
+ 
+
+•                              Transaction revenue from our
+price-disclosed hotel room service; and
+
+ 
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                              Other revenues derived primarily
+from selling advertising on our websites.
+
+ 
+
+For
+the year ended December 31, 2005, we had revenues of approximately $963 million
+comprised of “merchant” revenue, “agency” revenue and “other” revenue.  Merchant revenues are derived from
+transactions where we are the merchant of record and are responsible for, among
+other things, collecting receipts from our customers, remitting payments to our
+suppliers and establishing the selling price of the services that we offer.  Merchant revenues, which represented the
+substantial majority of our total revenues in 2005, consisted of: (1) transaction
+revenues representing the selling price of Name
+Your Own Price® airline tickets, hotel rooms, rental cars
+and price-disclosed vacation packages; (2) transaction revenues representing
+the amount charged to a customer, less the amount charged by suppliers in
+connection with the hotel rooms provided through our merchant price-disclosed
+hotel service; (3) customer processing fees charged in connection with the sale
+of Name Your Own Price®
+airline tickets, hotel rooms and rental cars and merchant price-disclosed hotels;
+and (4) ancillary fees, including Worldspan, L.P. reservation booking fees
+related to certain of the aforementioned transactions.  Agency revenues are generally derived from
+retail travel related transactions where we are not the merchant of record and
+where the prices of our services are determined by third parties. Agency
+revenues consisted primarily of: (1) travel commissions; (2) customer
+processing fees; and (3) Worldspan, L.P. reservation booking fees related to
+certain of the aforementioned transactions. 
+Other revenues consisted primarily of revenue from advertising on our
+websites.
+
+ 
+
+Priceline.com
+was formed as a Delaware limited liability company in 1997 and was converted
+into a Delaware corporation in July 1998. 
+Our common stock is listed on the Nasdaq National Market under the
+symbol “PCLN.”  Our principal executive
+offices are located at 800 Connecticut Avenue, Norwalk, Connecticut 06854.
+
+ 
+
+The
+priceline.com Business Model
+
+ 
+
+Name Your Own Price®.  We have developed a unique pricing system
+known as a “demand collection system” that uses the information sharing and
+communications power of the Internet to create a new way of pricing products
+and services.  We believe we have created
+a balance between the interests of buyers, who are willing to accept trade-offs
+in order to save money, and sellers, who are prepared to generate incremental
+revenue by selling their products at below retail prices, provided that they
+can do so without disrupting their existing distribution channels or retail
+pricing structures.  Our demand
+collection system allows consumers to specify the price they are prepared to
+pay when submitting an offer for a particular leisure travel service within a
+specified range of substitutability.  We
+then access databases in which participating suppliers file secure discounted
+rates not generally available to the public, to determine whether we can
+fulfill the customer’s offer and then decide whether we want to accept the
+offer at the price designated by the consumer. 
+For most of these transactions, we establish the price we will accept
+for our services, have discretion in supplier selection and are the merchant of
+record in the transaction.  Consumers
+agree to hold their offers open for a specified period of time (generally, not
+longer than one minute) to enable us to determine whether we can or want to
+accept the offer.  Once fulfilled, offers
+generally cannot be canceled – thereby making purchases by our customers
+generally non-refundable.  This system
+uses the flexibility of buyers to enable sellers to accept a lower price in
+order to sell their excess inventory or capacity.  We believe that our demand collection system
+addresses limitations inherent in traditional seller-driven pricing mechanisms
+in a manner that offers substantial benefits to both buyers and sellers.  We believe that the principal advantages of
+our system include the following:
+
+ 
+
+•                  Cost Savings.  Our Name
+Your Own Price®
+demand collection system allows consumers to save money in a simple and
+compelling way.  Buyers effectively trade
+off flexibility about brands, product features and/or sellers in return for
+prices that are lower than those that can be obtained at that time through
+traditional retail distribution channels.
+
+ 
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                  Incremental Revenue for Sellers.  Sellers use our Name Your Own Price® demand collection system as a revenue management tool to
+generate incremental revenue without disrupting their existing distribution
+channels or retail pricing structures. 
+We require consumers to be flexible with respect to brands and product
+features.  As a result, our Name Your Own Price® system does not reveal
+sellers’ brands to customers prior to the consummation of a transaction,
+thereby protecting their brand integrity. 
+This shielding of brand identity and price enables sellers to sell
+products and services at discounted prices without cannibalizing their own
+retail sales by publicly announcing discount prices and without competing
+against their own distributors.
+
+ 
+
+•                  Proprietary Seller Networks.  We have assembled proprietary networks of
+industry leading sellers that represent high quality brands.  By establishing attractive networks of seller
+participants with reputations for quality, scale and national presence, we
+believe that we foster increased participation by both buyers and sellers.
+
+ 
+
+We often refer to products offered through our Name Your Own Price® service as “opaque” products
+because all aspects of the travel service are not visible to the consumer
+before making an offer.
+
+ 
+
+Price-Disclosed Retail Services.  We also offer customers the ability to purchase price-disclosed travel services
+at retail prices, including airline tickets, hotel rooms, rental car days,
+vacations packages, destination services and cruises.  We introduced the following price-disclosed
+services gradually over the past two and a half years:
+
+ 
+
+•                  In the fourth quarter of 2003, we began
+offering customers the ability to purchase airline tickets at disclosed, retail
+prices;
+
+•                  In
+the second quarter of 2004, we acquired Travelweb LLC (“Travelweb”), which
+allowed us to offer customers a price-disclosed hotel service on our website,
+www.lowestfare.com;
+
+•                  In
+the second quarter of 2004, we implemented a new feature on our vacation
+packages service that allows customers to choose between an “opaque” or a
+disclosed flight itinerary;
+
+•                  In
+the fourth quarter of 2004, we launched a search and booking engine on
+priceline.com to allow customers to choose between a Name Your Own Price® or a price-disclosed rental car offering; and
+
+•                  In
+the first quarter of 2005, we began offering price-disclosed hotel rooms on our
+website, www.priceline.com.
+
+ 
+
+In the first quarter of 2006, we introduced More Ways to
+Save on the priceline.com website. 
+More Ways to Save is a unique travel
+shopping format that provides retail, price-disclosed travel options matching
+the itinerary criteria requested by the customer, accompanied with money saving
+alternatives, including our Name Your Own
+Price®
+service, packaging options, and alternative itinerary options such as different
+dates or airports.  We have also
+introduced “PriceBreakersSM” which is a presentation
+of selected travel itineraries at discounted prices that is updated daily.
+
+ 
+
+We
+believe that the combination of our Name
+Your Own Price® model and our retail price-disclosed
+model allows us to provide a broad array of options to value-conscious
+travelers, while providing us with diverse streams of revenue.
+
+ 
+
+We
+also offer a retail, price-disclosed hotel service in Europe through our
+European operations, which we have developed through two recent
+acquisitions.  In September
+2004, we acquired Active Hotels Ltd. (“Active Hotels”), a United Kingdom based
+Internet hotel reservation distributor. Furthermore,
+in July 2005, we acquired Amsterdam-based Bookings B.V. (“Bookings”), one of
+Europe’s leading Internet hotel reservation services, with offices primarily in
+Amsterdam, Barcelona, Berlin, Loule, Paris, Rome and Pisa.  All of our European operations, including
+Active Hotels and Bookings, are
+
+ 
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+majority-owned by us.  We work with almost 20,000 chain-owned and
+independently owned hotels throughout Europe offering hotel reservations on
+various websites and in multiple languages.  For geographic related
+information, see Note 21 to our Consolidated Financial Statements.
+
+ 
+
+The
+priceline.com Strategy
+
+ 
+
+The online travel category has continued to experience significant worldwide
+growth as consumer purchasing shifts from traditional off-line channels to
+interactive online channels. 
+Priceline.com has been a leader in the deep discount segment of this
+market and, in the last two years, has embarked on a strategy to participate
+more broadly in online travel growth by expanding its service offerings and
+markets.
+
+ 
+
+•                  Expand Service Offerings.  In 2003, we began to execute a plan to
+broaden our array of service offerings beyond our Name Your Own Price® services. 
+Specifically, we have expended significant resources to allow us to
+introduce price-disclosed retail services to our consumers to compliment our
+existing Name Your Own Price® service.  We believe that by offering a “one-stop-shopping”
+solution to our customers, we can simultaneously fulfill the needs of those
+customers who are prepared to accept the unique restrictions of our Name Your Own Price® service in exchange for
+receiving significant savings relative to retail prices, as well as those
+customers who are less price sensitive and require the certainty of knowing the
+full details of their travel itinerary prior to purchasing.  We believe that our evolution to a “one-stop-shopping”
+website allows us to more fully participate in the overall growth of the online
+travel category.
+
+ 
+
+•                  Offer More Ways to
+Save.  Through the
+www.priceline.com website, we offer our customers the unique ability to shop
+and book price-disclosed or Name Your Own
+Price®
+travel services in a single, integrated display.  We are continuously improving the integration
+and display of these two services so that our customers can quickly and easily
+find the way to save that is best suited for each trip they take, while
+maximizing user conversion and profitability. 
+In addition to our Name Your Own
+Price® service, we offer additional money saving
+alternatives, such as alternative airports or dates and discounted packaged
+travel.  We intend to develop new money
+saving features for many of our services.
+
+ 
+
+•                  Enhance Service Offerings.  We intend to continually enhance our service
+offerings, particularly our more recently introduced retail offerings, by
+adding competitive functionality, adding competitive inventory at competitive
+pricing, adding and improving the content and merchandising on our website as
+well as cross-sell opportunities to maximize customer conversion.
+
+ 
+
+•                  Competitive functionality: We continue to
+expend significant resources to remain competitive in terms of the features and
+functionality we offer our customers. 
+For example, since launching our retail air service two years ago, we
+have added the ability to search for flexible dates or alternative airports,
+book one-way and multi-destination itineraries and easily make modifications to
+search criteria.  We intend to add additional
+functionality such as the ability to search child and senior fares and to
+access real time seat maps.
+
+ 
+
+•                  Competitive inventory at competitive pricing: We
+believe that securing competitive inventory at competitive pricing is critical
+to our success.  For example, over the
+last two years, the number of destinations available in our vacation package service
+has doubled and we have added nearly 2,000 hotels.  With respect to our hotel service, we intend
+to integrate our European and U.S. supply so that all of our customers can access
+the entire inventory made available to us by our suppliers, regardless of the
+specific site on which the consumer transacts.
+
+ 
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                  Content and merchandising: As part of our
+evolution to a “one-stop-shopping” website, we have added thousands of pages of
+content to allow customers to research destinations and hotel properties before
+booking a reservation.  We offer property
+descriptions, maps, images, and user reviews whereby our customers can benefit
+from the experiences and opinions of other customers.  We introduced “PriceBreakersSM,” which is a presentation of
+selected travel itineraries at discounted prices that is updated daily.  We intend to continue to improve our content
+and merchandising with more comprehensive descriptions, more and higher quality
+images, and more user reviews, which we believe will improve conversion of
+users shopping on our website.
+
+ 
+
+•                  Cross-sell opportunities: We also cross-sell different
+travel components to maximize the revenue we generate from each customer.  In 2004 and 2005, we developed functionality
+that allows customers to “add-on” travel components to their selection, both
+during the shopping experience and at time of purchase.  For example, customers can add a rental car
+reservation to their air or hotel reservation, or a hotel reservation to their
+air reservation.  Customers can also add
+destination related services such as shuttles, tours and activities.  Additionally, we cross-sell opaque services
+on our retail path and retail services on our opaque path.  For example, an unsuccessful opaque air
+customer may be offered a price-disclosed alternative, while a retail hotel
+customer may be offered the Name Your Own
+Price® alternative for greater
+savings.  We intend to further enhance
+these cross-sell opportunities across all of our services.
+
+ 
+
+•                  Offer Travel Suppliers Valuable Distribution.  We strive to be the preferred discount
+distribution channel for airlines, hotels and rental car companies.  Our Name
+Your Own Price®
+service protects supplier brand and published pricing and our packages and
+other merchandising provide access to the brand neutral leisure traveler at
+attractive distribution costs.
+
+ 
+
+•                  Become the top online hotel reservation service in
+Europe.  The size of the
+travel market outside of the United States is substantially greater than that
+within the United States.  Historically,
+Internet adoption rates and e-commerce adoption rates of international
+consumers have trailed those of the United States.  However, international consumers –
+particularly European consumers – are rapidly moving to online means for
+purchasing travel.  Accordingly, recent
+international online travel growth rates have substantially exceeded and are
+expected to continue to substantially exceed the growth rates within the United
+States.  Prior to 2004, substantially all
+of our revenues were generated within the United States.  In order to take advantage of the growth in
+online travel outside of the United States, we acquired Internet hotel reservation
+distributors Active Hotels and Bookings in September 2004 and July 2005,
+respectively, giving us presence in the expanding European hotel market with almost
+20,000 participating hotels across Europe. 
+Because of the superior growth rates associated with international
+online travel, we intend to continue to invest resources in increasing the
+share of our revenues represented by international consumers and capitalize on
+the growth of travel between the United States and Europe.
+
+ 
+
+Service
+Offerings
+
+ 
+
+Name Your Own Price® Airline Tickets. 
+There are a total of 11 domestic airlines and 27 international airlines
+participating in our Name Your Own Price® airline ticket
+service.
+
+ 
+
+All
+Name Your Own Price®
+airline ticket requests are made through our websites.  To make an offer, a customer specifies: (1)
+the origin and destination of the trip, (2) the dates on which the customer
+wishes to depart and return, (3) the price the customer is willing to pay, and
+(4) the customer’s valid credit card to guarantee the offer.  When making an offer, consumers must agree
+to:
+
+ 
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                  fly
+on any one of our participating airline partners;
+
+ 
+
+•                  leave
+at any time of day between 6 a.m. and 10 p.m. on their desired dates of
+departure and return;
+
+ 
+
+•                  purchase
+only round trip coach class tickets between the same two points of departure
+and return;
+
+ 
+
+•                  accept
+at least one stop or connection;
+
+ 
+
+•                  receive
+no frequent flier miles or upgrades; and
+
+ 
+
+•                  accept
+tickets that cannot be refunded or changed.
+
+ 
+
+When
+we receive an offer, we determine whether to fulfill the offer based upon,
+among other things, the available fares, rules and inventory provided to us by
+our participating airlines and certain other internal requirements.  A customer is usually notified whether his or
+her offer has been accepted in near real-time. 
+If we identify an airline ticket that meets the parameters specified by
+the customer and that meets our internal requirements, the customer’s offer is
+accepted and his or her credit card is charged the offer price, plus applicable
+taxes, surcharges and processing fees, and the ticket is delivered to the
+customer by the delivery method specified by the customer.  For customers who request it, we guarantee no
+more than one connection per leg of trip with a maximum of a 3-hour stop.  As with our other Name Your Own Price®  travel services, once a customer’s offer for
+airline tickets is accepted, that offer, in almost all cases, cannot be
+withdrawn or cancelled and the customer’s purchase will not be refunded.
+
+ 
+
+If
+a customer’s offer is not accepted, but we believe the offer is reasonably
+close to a price that we would be willing to accept, we will attempt to satisfy
+the customer by providing guidance to the customer indicating that changing
+certain parameters of the offer would increase the chances of the offer being
+accepted.  For example, in some cases we
+disclose to the customer that agreeing to fly into an alternate airport would
+increase the chances of his or her offer being accepted.  In other cases, we inform the customer that
+increasing his or her offer by a certain amount would increase the chances of
+it being accepted.  We may also offer a
+customer the opportunity to purchase a price-disclosed retail airline ticket.
+
+ 
+
+Retail Airline Tickets.  Since 2003, we have also offered
+our customers the ability to purchase retail airline tickets at disclosed
+prices and with disclosed itineraries. 
+In these transactions, we act as agent for the airline.  The airline sets the retail price paid by the
+consumer and is the merchant of record for the transaction.  These airline tickets do not have the
+restrictions associated with our Name Your
+Own Price® service.  For example, in addition to having fully
+disclosed itineraries, retail airline tickets are generally changeable and
+cancellable for a fee.
+
+ 
+
+Name Your Own Price® 
+Hotels.  Our Name
+Your Own Price® hotel room reservation
+service currently is available in substantially all major cities and
+metropolitan areas in the United States and Europe.  Most significant national hotel chains as
+well as several important real estate investment trusts and independent
+property owners participate in your Name
+Your Own Price® service.  Hotels participate by filing secure private
+discounted rates with related inventory control rules in a global distribution
+system database.  These specific rates
+generally are not available to the general public or to consolidators and other
+discount distributors who sell to the public, however, hotel participants may
+make similar rates available to consolidators or other discount providers under
+other arrangements.
+
+ 
+
+Our
+Name Your Own Price® hotel room
+reservation service operates in a manner similar to our Name Your Own Price® airline ticket
+service.  Consumers are required to
+accept certain trade-offs with respect to brands or product features in return
+for saving money.  For example, consumers
+are required to accept a reservation in any hotel within a specified geographic
+area within a designated “class” of service
+
+ 
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+(1,
+2, 3, 4, 5-star or “resort”) and must accept limitations on changes and
+cancellations.  As with the airline
+ticket service, the target market for our hotel room reservation service is the
+leisure travel market.
+
+ 
+
+Retail Hotels.  In May 2004, we added a price-disclosed hotel
+service through the acquisition of Travelweb. 
+In March 2005, we launched a price-disclosed hotel service on
+www.priceline.com that enables our customers to choose between price-disclosed
+or Name Your Own Price® hotel rooms. 
+Our retail hotel service makes available both agency and merchant model
+inventory.  Under the merchant model,
+pursuant to merchant arrangements we make directly with individual hotel chains
+and independent hotel properties, we receive access to the inventory of
+participating hotels directly from the hotels, at a negotiated rate and
+determine the retail price at which we will offer our services to the consumer,
+within contractual limitations.  Under
+the agency model, we receive access to hotel inventory at generally available
+rates, and are paid a commission upon a customer’s check-out.  As with our retail airline ticket service,
+hotel reservations booked in a retail manner do not have the restrictions
+associated with our Name Your
+Own Price® service.  Customers can select the exact hotel they
+want to book and the price of the reservation is disclosed prior to purchase.
+
+ 
+
+In addition, as discussed above, the acquisitions of Active Hotels in
+September 2004, and Bookings in July 2005, gave us a foothold into the
+expanding European hotel market, as well as access to European inventory.
+
+ 
+
+Name Your Own Price® 
+Rental Cars.  Our Name
+Your Own Price®
+rental car service operates in a manner similar to our airline ticket and hotel
+reservation services.  Our rental car
+services are currently available in substantially all major United States
+airport markets.  The top five brand name
+airport rental car companies in the United States are seller participants in
+our rental car program.  Consumers can
+access our website and select where and when they want to rent a car, what kind
+of car they want to rent (i.g., economy, compact, mid-size, SUV, etc.) and the
+price they want to pay per-day, excluding taxes, fees and surcharges.  When we receive an offer, we determine
+whether to fulfill the offer based upon the available rates, rules and
+inventory.  If a customer’s offer is
+accepted, we will immediately reserve the rental car, charge the customer’s
+credit card and notify the customer of the rental car company and location
+providing the rental car.
+
+ 
+
+Retail Rental Cars.  In 2004, we launched a price-disclosed rental
+car service on www.priceline.com that enables our customers to
+choose between price-disclosed or Name Your
+Own Price® rental cars.  In 2005, we upgraded our retail rental car
+service to accommodate one-way and off-airport reservations.  Our price-disclosed rental car service
+operates under the agency model, under which we earn a
+commission upon a successful rental car booking.  As with our retail airline
+ticket and hotel reservation services, rental car reservations booked in a
+retail manner do not have the restrictions associated with our Name
+Your Own Price® service.  Customers can select the exact car they want
+to book and the price of the reservation is disclosed prior to purchase.
+
+ 
+
+With
+respect to each of our airline, hotel and rental car services, we believe the
+combination of our Name Your Own Price® model and the retail model allows us to provide
+a broad array of options to value-conscious travelers, while providing us with
+diverse streams of revenue.
+
+ 
+
+Vacation Packages.  Our vacation package service allows consumers
+to purchase packages consisting of airfare, hotel and rental car
+components.  Consumers can select the
+exact hotel or resort that they want to reserve, and then select either a
+retail airline ticket or an opaque airline ticket for the air component of
+their package.  Additionally, consumers
+can add destination related services such as tours, shuttles, and
+activities.  Vacation packages are sold
+at disclosed prices, although consumers cannot determine the exact price of the
+individual components.
+
+ 
+
+Destination Services.  We currently offer customers the opportunity
+to purchase destination services such as event tickets, ground transfers, tours,
+restaurant meals and other services available at their travel
+destinations.  This service is offered to
+consumers as part of the process of booking an air,
+
+ 
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+hotel
+and vacation reservation, and also as a standalone service.  In 2005, we expanded our destination services
+offering by adding parking in certain locations and expanded ground transfer
+options.
+
+ 
+
+Cruises.  We
+also offer price-disclosed cruise trips through NLG, Inc. (“NLG”), an agent
+representing major cruise lines.  Our
+cruise service allows consumers to search for and compare cruise pricing and
+availability information from 16 cruise lines, and to purchase cruises online
+or through a call center by selecting from our published offerings and prices.  We receive commissions from NLG on successful
+cruise bookings.
+
+ 
+
+Travel Insurance.  We offer our air, hotel and vacation package
+customers an optional travel insurance package that provides coverage for,
+among other things, trip cancellation, trip interruption, medical expenses,
+emergency evacuation, and loss of baggage, property and travel documents.  The travel insurance is provided by member
+companies of American International Group, Inc. (“AIG”).  We receive a percentage of the premium from
+AIG member companies for every optional insurance package purchased by our
+customers.
+
+ 
+
+While
+we are currently focused on the travel services described above, over time, we
+may evaluate the introduction of other services that we believe could enhance
+the travel experience of our customers.
+
+ 
+
+Financial Services
+
+ 
+
+We offer financial services through Priceline Mortgage Company LLC,
+d/b/a pricelinemortgage.com, of which we own 49% and hold two of five seats on
+the board of managers.  Pursuant to an intellectual property license from
+us, pricelinemortgage.com utilizes the priceline.com Name Your Own Price® business model. 
+Pricelinemortgage.com is controlled by EverBank, a federally chartered
+savings association supervised by the Office of Thrift Supervision, and a
+wholly owned subsidiary of EverBank Financial Corp.  Pricelinemortgage.com
+has access to the management resources and expertise of EverBank, one of the
+nation’s largest privately held banking and mortgage firms. EverBank Financial
+Corp. provides management services to pricelinemortgage.com, including the
+procurement of personnel and office space and assistance in obtaining
+regulatory approvals.  Pricelinemortgage.com is operating in all 50
+states.  Robert J. Mylod, our Chief Financial Officer, is a director of, and
+an investor in, EverBank Financial Corp, the parent company of EverBank. 
+Mr. Mylod’s investment represents less than 1/10 of one percent of EverBank
+Financial Corp’s outstanding common stock.
+
+ 
+
+Under the terms of an agreement with EverBank Financial Corp,
+pricelinemortgage.com allows consumers to access attractive financial services
+including, but not limited to, mortgages, home equity loans, and banking
+service.  We record our proportionate
+share of the results of pricelinemortgage.com as equity income in investees.
+
+ 
+
+Marketing
+and Brand Awareness
+
+ 
+
+Priceline.com has established itself as one of the most recognized
+e-commerce brands through an aggressive marketing and promotion campaign.  During 2005, our online and offline
+advertising expenses were $59 million and $31 million, respectively.  We intend to continue a marketing strategy to
+promote brand awareness and the concept that consumers can save money on
+products and services while also taking advantage of the “one-stop-shop”
+convenience afforded by our suite of travel service offerings.  We advertise primarily through television,
+radio and online marketing.  Underlying
+our marketing strategy is our belief that our target market is all consumers,
+not just Internet-savvy consumers.  We
+intend to continue to promote the priceline.com brand aggressively throughout
+2006.
+
+ 
+
+As
+our European operations become more meaningful contributors to our results, we
+have seen, and expect to continue to see, changes in our advertising
+expense.  Specifically, because our European
+
+ 
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+operations utilize online affiliate marketing
+and Internet search engines, principally through the purchase of travel-related
+keywords, as principal means of generating traffic to their websites, our
+online advertising expense has increased significantly since our acquisition of
+those companies, a trend we expect to continue throughout 2006.
+
+ 
+
+Advertising Revenue.  We
+sell advertising to travel suppliers and others on our owned websites.
+
+ 
+
+Competition
+
+ 
+
+We compete with both online and traditional sellers of the services
+offered on priceline.com. The market for the services we offer is intensely
+competitive, and current and new competitors can launch new sites at a
+relatively low cost. In addition, the major online travel companies with which
+we compete have significantly greater financial resources and capital than we
+do.  For instance, the Cendant
+Corporation currently owns Orbitz.com, Inc., Cheaptickets.com, Lodging.com and
+European travel sites Gullivers.com, ebookers plc and octopustravel, and Sabre
+Group owns Travelocity.com and lastminute.com plc, a European full-service
+travel site.  In addition, InterActive
+recently spun-off its online travel business, including Hotels.com and
+Hotwire.com, our primary competitor in the sale of “opaque” travel services,
+into Expedia, which, as a stand-alone company, continues to have significantly
+greater resources and capital than priceline.com.  We may not be able to effectively compete
+with industry conglomerates such as Cendant, Sabre or Expedia, each of which
+have access to significantly greater and more diversified resources than we do.
+
+ 
+
+We currently or potentially compete with a variety of companies with
+respect to each service we offer. With respect to our travel services, these
+competitors include:
+
+ 
+
+•                  Internet travel services such as Expedia, Hotels.com and
+Hotwire, which are owned by Expedia; Travelocity and lastminute.com, which are
+owned by the Sabre Group; and Orbitz.com, Cheaptickets, Gullivers.com, ebookers
+plc, octopustravel and Lodging.com, which are currently owned by the Cendant
+Corporation;
+
+ 
+
+•                  travel suppliers such as airlines, hotel companies and
+rental car companies, many of which have their own branded websites to which
+they drive business;
+
+ 
+
+•                  large online search companies, such as Yahoo! and Google;
+
+ 
+
+•                  traditional travel agencies;
+
+ 
+
+•                  online
+travel search sites such as SideStep.com, Mobissimo.com, Cheapflights.com,
+FareChase.com, Kayak.com, or any substantially similar online travel search
+business using a business model sometimes referred to as “meta-search”; and
+
+ 
+
+•                  operators of travel industry reservation databases such
+as Galileo, Worldspan, L.P. and Amadeus.
+
+ 
+
+Competitors of our European operations include, among others, Expedia
+(including hotels.com), Cendant Corporation (including ebookers, octopustravel,
+Gullivers.com and Flairview), Sabre Group (including lastminute.com),
+Superbreak, Venere and Hotel Reservation Service.
+
+ 
+
+In addition, many airline, hotel and rental car suppliers are focusing
+on driving online demand to their own websites in lieu of third-party
+distributors such as us.  Certain
+suppliers have attempted to charge additional fees to customers who book
+airline reservations through an online channel other than their own
+website.  Furthermore, many low cost
+airlines, which are having increasing success in the
+
+ 
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+marketplace,
+distribute their inventory exclusively through their own websites.  Suppliers who sell on their own websites typically
+do not charge a processing fee, and, in some instances, offer advantages such
+as bonus miles or loyalty points, which could make their offerings more
+attractive to consumers than models like ours.
+
+ 
+
+We potentially face competition from a number of large Internet
+companies and services that have expertise in developing online commerce and in
+facilitating Internet traffic, including Amazon.com, AOL, MSN, Google.com and
+Yahoo!, which compete with us either directly or indirectly through
+affiliations with other e-commerce or off-line companies.  We also compete with “meta-search” companies,
+which are companies that leverage their search technology to aggregate travel
+search results across supplier, travel agent and other websites.  For example, Yahoo! owns FareChase.com, a
+travel search-engine that searches for fares and hotel rates at travel supplier
+and third-party websites, and refers traffic to those sites, and AOL is party
+to a marketing and technology agreement, and holds a minority interest in, Kayak.com,
+another leading meta-search company. 
+Other established search engine companies as well as start-ups are
+attempting to enter the online travel marketplace in this manner.  If Yahoo!, Google or other portals decide to
+refer significant traffic to travel search engines, it could result in more
+competition from supplier websites and higher customer acquisition costs for
+third-party sites such as ours. 
+Competition from these and other sources could have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+Many of our current and potential competitors, including Internet
+directories, search engines and large traditional retailers, have longer
+operating histories, larger customer bases, greater brand recognition and significantly
+greater financial, marketing, personnel, technical and other resources than
+priceline.com. Some of these competitors may be able to secure products and
+services on more favorable terms than we can. In addition, many of these
+competitors may be able to devote significantly greater resources to:
+
+ 
+
+•                  marketing and
+promotional campaigns;
+
+ 
+
+•                  attracting traffic to
+their websites;
+
+ 
+
+•                  attracting and retaining
+key employees;
+
+ 
+
+•                  securing vendors and
+inventory; and
+
+ 
+
+•                  website and systems
+development.
+
+ 
+
+Increased competition could result in reduced operating margins, loss
+of market share and damage to our brand. There can be no assurance that we will
+be able to compete successfully against current and future competitors. See “Risk
+Factors – Intense competition could reduce our market share and harm our
+financial performance.”
+
+ 
+
+Operations
+and Technology
+
+ 
+
+Our
+business is supported by a systems platform, which was designed with an
+emphasis on scalability, performance and reliability.  Our core demand collection and offer
+processing systems are proprietary to priceline.com.  The software platform and architecture are
+built on server-side Java, C++ and SQL scripts integrated with an Oracle
+relational database system.  This
+internal platform was designed to include open application protocol interfaces
+that can provide connectivity to vendors in the industries in which we
+operate.  These include large global
+inventory systems, such as airline and hotel room reservation systems and
+financial service providers, as well as individual inventory suppliers, such as
+individual hotels.  Our Internet servers
+utilize VeriSign digital certificates to help us conduct secure communications
+and transactions.
+
+ 
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+We out-source most of our call center and customer service functions,
+and use a real-time interactive voice response system with transfer
+capabilities to our call centers and customer service centers.
+
+ 
+
+We
+rely primarily on the global distribution system (“GDS”) of Worldspan, L.P. in
+the sale of airline tickets, opaque hotel room reservations, and rental car
+reservations within the U.S. and Pegasus Solutions, Inc. for the sale of retail
+hotel room reservations.  If the
+Worldspan or Pegasus GDS becomes inaccessible, or partially inaccessible to us,
+due to system failure or otherwise, for any significant amount of time, our
+ability to book airline tickets, opaque hotel reservations and rental car
+reservations in the case of Worldspan, and retail hotel reservations in the
+case of Pegasus, could be adversely affected.
+
+ 
+
+Our systems infrastructure and web and database servers in the U.S. are
+hosted at SAVVIS in Jersey City, New Jersey, which provides communication
+links, as well as 24-hour monitoring and engineering support.  SAVVIS has its own generator and multiple
+back-up systems in Jersey City. 
+Substantial amounts of our computer hardware for operating our services
+are also located at SAVVIS in Jersey City. 
+We also maintain a second web hosting facility at AT&T in New York
+City.  Our network operations center
+monitors both web hosting facilities and is located in our Norwalk, Connecticut
+headquarters.  All three facilities have
+an uninterruptible power supply system, generators and redundant servers.  If SAVVIS were unable, for any reason, to
+support our primary web hosting facility, we would need to activate our
+secondary site at AT&T.
+
+ 
+
+The systems infrastructure and web and database servers of our European
+operations are hosted at IX EUROPE, in London, England, and Telecity Netherlands
+and Redbus Interhouse Netherlands, in the Netherlands.  See “Risk Factors – Our Business is Dependent Upon
+Third-Party Systems and Service Providers.”
+
+ 
+
+Intellectual
+Property
+
+ 
+
+We currently hold fifteen issued United States patents, Nos. 5,794,207;
+5,897,620; 6,085,169; 6,108,639; 6,134,534; 6,240,396; 6,332,129; 6,345,090;
+6,356,878; 6,418,415; 6,466,919; 6,484,153; 6,510,418; 6,553,346; 6,993,503 and
+over twenty pending United States and foreign patent applications.  All of our issued United States patents
+expire between September 4, 2016 and April 28, 2020.  We file additional patent applications on new
+inventions, as appropriate.
+
+ 
+
+While we believe that our issued patents and pending patent
+applications help to protect our business, there can be no assurance that:
+
+ 
+
+•                  a
+third party will not have or obtain one or more patents that can prevent us
+from practicing features of our business or that will require us to pay for a
+license to use those features; 
+
+ 
+
+•                  our
+operations do not or will not infringe valid, enforceable patents of third
+parties;
+
+ 
+
+•                  any
+patent can be successfully defended against challenges by third parties;
+
+ 
+
+•                  the
+pending patent applications will result in the issuance of patents;
+
+ 
+
+•                  competitors
+or potential competitors of priceline.com will not devise new methods of
+competing with us that are not covered by our patents or patent applications;
+
+ 
+
+•                  because
+of variations in the application of our business model to each of our services,
+our patents will be effective in preventing one or more third parties from
+utilizing a copycat business model to offer the same service in one or more
+categories; or
+
+ 
+
+•                  new
+prior art will not be discovered that may diminish the value of or invalidate
+an issued patent.
+
+ 
+
+13
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+There
+has been discussion in the press regarding the examination and issuance of
+so-called “business method” patents. As a result, the United States Patent and
+Trademark Office has indicated that it intends to intensify the review process
+applicable to such patent applications. The new procedures are not expected to
+have a direct effect on patents already granted. We cannot
+anticipate what effect, if any, the new review process will have on our pending
+patent applications. See, “Risk Factors – We are party to legal proceedings,
+which, if adversely decided, could materially adversely affect us,”
+herein.
+
+ 
+
+We
+hold the exclusive rights to the trade names and service marks PRICELINEÒ and
+PRICELINE.COMÒ in the U.S. as
+well as in many foreign countries.  We
+own U.S. Service Mark Registrations Nos. 2,481,750; 2,272,659; 2,594,582;
+2,481,752; 2,594,592; and 2,481,112, including all attendant goodwill.  We also own U.S. Service Mark Registrations
+Nos. 2,647,673 and 2,644,739 for NAME YOUR OWN PRICE®; U.S. Service
+Mark Registration No. 2,313,827 for NAME YOUR PRICE!Ò; and U.S. Service Mark Registration No. 2,481,751
+for PRICELINEMORTGAGE®.  In addition, we hold a trademark in the name
+BOOKINGS in the Netherlands (Benelux no. 762054, filed on July 14, 2003 in
+class 39) and we hold French trademarks in the names BOOKINGS (French
+registration no. 43276223, filed on February 17, 2004 in classes 9, 35, 38 and
+42) and BOOKING, (French registration no. 43276225, filed on February 17, 2004
+in classes 9, 35, 38 and 42).  We also hold a European Union community
+trademark in the words ACTIVE HOTELS.
+
+ 
+
+We
+monitor, protect and enforce our copyrights, service marks, trademarks, trade
+dress and trade secrets on an ongoing basis through a combination of laws and
+contractual restrictions, such as confidentiality agreements.  For example, we endeavor to register our
+trademarks and service marks in the United States and internationally,
+currently holding over one hundred service mark registrations worldwide.  However, effective trademark, service mark,
+copyright and trade secret protection may not be available in every country in
+which our services are or may be made available online, regardless of our
+continuous efforts to police and register our marks.  See, “Risk Factors — Our success depends on our ability
+to protect our intellectual property.”
+
+ 
+
+We currently own numerous Internet domains in the United States and
+abroad.  Domain names are generally
+regulated by Internet regulatory bodies. 
+The relationship between trademark and unfair competition laws and
+domain name registration is evolving. 
+The Anticybersquatting Consumer Protection Act in the U.S. and the
+Uniform Domain Name Dispute Resolution Policy of the Internet Corporation for
+Assigned Names and Numbers have both significantly enhanced the ability to
+deter the improper incorporation of trademarks into domain names by third
+parties and to assert our registrations against them.  We actively pursue significant infringers as
+appropriate, including cybersquatters and “typosquatters” who misappropriate
+our service marks and misspellings thereof as domain names, to maintain our
+famous marks and prevent the dilution of their distinctiveness.  See, “Risk Factors — Our success depends on our ability
+to protect our intellectual property.”
+
+ 
+
+Governmental
+Regulation
+
+ 
+
+The
+services we provide are subject to various federal, state and local
+regulations. For example, our travel service is subject to laws governing the
+offer and/or sale of travel services as well as laws requiring us to register
+as a “seller of travel.”  In addition,
+our services may be subject to various state and local taxing regulations.  See “Risk Factors – Uncertainty regarding state and local taxes”.
+
+ 
+
+In addition, our business is indirectly affected by
+regulatory and legal uncertainties affecting travel suppliers and global
+distribution systems.  In 2004, the
+Department of Transportation (the “DOT”) published a Final Rule, abolishing the
+rules governing global distribution systems. 
+As a part of the Final Rule, the DOT rejected proposals to regulate
+online travel service providers’ fare displays. 
+However, the DOT deferred consideration of a proposal to amend its
+policies regarding advertising of air tickets, to require that agency service
+fees be stated separately from the price being charged by the airlines.  Our current service fee disclosure practices
+differ from those proposed by the DOT. 
+If the DOT were to
+
+ 
+
+14
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+resume consideration of and adopt the service fee
+proposal, we may have less flexibility regarding merchandising air travel on
+our websites.
+
+ 
+
+We are subject to federal, state and international laws that require
+protection of user privacy and user data.  In our processing of travel
+transactions, we receive and store a large volume of personally identifiable
+data.  This data is increasingly subject
+to legislation and regulations in numerous jurisdictions around the world,
+including the Commission of the European Union through its Data Protection
+Directive and variations of that directive in the member states of the European
+Union.  Such government action is
+typically intended to protect the privacy of personal data that is collected,
+processed and transmitted in or from the governing jurisdiction.
+
+ 
+
+Pricelinemortgage.com is
+subject to laws governing the licensing and conduct of persons providing
+mortgage brokerage services. Such laws typically require certain consumer
+protection disclosures and loan solicitation procedures. For example, the Real
+Estate Settlement Procedures Act prohibits the payment and receipt of mortgage
+loan referral fees, and permits persons to be compensated only for the fair
+market value of non-referral services. Accordingly, pricelinemortgage.com’s
+home financing service provides non-referral services such as website
+development and advertising to a licensed mortgage broker who, in turn,
+provides the back-end processing for loan referrals.
+
+ 
+
+All
+of our services are subject to federal and state consumer protection laws and
+regulations prohibiting unfair and deceptive trade practices.
+
+ 
+
+We
+are also subject to regulations applicable to businesses conducting online
+commerce. Today there are relatively few laws specifically directed toward
+online services. However, due to the increasing popularity and use of the Internet
+and online services, it is possible that laws and regulations will be adopted
+with respect to the Internet or online services. These laws and regulations
+could cover issues such as online contracts, user privacy, freedom of
+expression, pricing, fraud, content and quality of products and services,
+taxation, advertising, intellectual property rights and information security.
+Applicability to the Internet of existing laws governing issues such as
+property ownership, copyrights and other intellectual property issues,
+taxation, libel, obscenity and personal privacy is developing, but any such new
+legislation could have significant implications on how we conduct online
+business. In addition, some states may require us to qualify in that state to
+do business as a foreign corporation because our service is available in that
+state over the Internet. Although we are qualified to do business in a number
+of states, failure to meet the qualifications of certain states, or a
+determination that we are required to qualify in additional states, could
+subject us to taxes and penalties.  See “Risk Factors –
+Regulatory and legal uncertainties could harm our business,” and “Uncertainty Regarding State Taxes.”
+
+ 
+
+Our
+European operations are subject to various foreign regulations and governing
+bodies that might limit their products and services. They may be affected by
+unexpected changes in regulatory requirements and various tariffs and trade
+barriers in connection with online commerce. Any failure by our European
+operations to comply may have an adverse effect on our business.
+
+ 
+
+Employees
+
+ 
+
+As
+of March 1, 2006, we employed approximately 532 full-time employees, of which
+285 are based at our Norwalk, Connecticut headquarters. We also retain
+independent contractors to support our customer service and system support
+functions.
+
+ 
+
+We
+have never had a work stoppage and our employees are not represented by any
+collective bargaining unit. We consider our relations with our employees to be
+good. Our future success will depend, in part, on our ability to continue to
+attract, integrate, retain and motivate highly qualified technical and
+managerial personnel, for whom competition is intense.
+
+ 
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Risk Factors
+
+ 
+
+The following risk factors and other information included in
+this Annual Report should be carefully considered.  The risks and uncertainties described below
+are not the only ones we face. 
+Additional risks and uncertainties not presently known to us may also
+impair our business operations.  If any
+of the following risks occur, our business, financial condition, operating results
+and cash flows could be materially adversely affected.
+
+ 
+
+We are dependent on the airline industry and certain
+airlines.
+
+ 
+
+Our financial prospects are significantly dependent upon our sale of
+leisure airline tickets.  Leisure travel,
+including the sale of leisure airline tickets, is dependent on personal
+discretionary spending levels. As a result, sales of leisure airline tickets
+and other leisure travel services tend to decline during general economic
+downturns and recessions. In addition, unforeseen events, such as terrorist
+attacks, political instability, regional hostilities, increases in fuel prices,
+imposition of taxes or surcharges by regulatory authorities, travel-related
+accidents, travel-related health concerns and unusual weather patterns
+also may adversely affect the leisure travel industry. As a result, our
+business also is likely to be affected by those events. Further, work stoppages
+or labor unrest at any of the major airlines could materially and adversely
+affect the airline industry and, as a consequence, have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+During the twelve months ended December 31, 2005, sales of airline
+tickets from our five largest and two largest airline suppliers accounted for
+approximately 82% and 43% of total airline tickets sold, respectively.  As a result, we are currently substantially
+dependent upon the continued participation of these airlines in priceline.com
+in order to maintain and continue to grow our total gross profit.
+
+ 
+
+Our arrangements with the airlines that participate in our system –
+either Name Your Own Price®
+or price-disclosed service – generally do not require the airlines to provide
+any specific quantity of airline tickets or to make tickets available for any
+particular route or at any particular price, and can generally be terminated
+upon little or no notice.  During the
+course of our business, we are in continuous dialogue with our major airline
+suppliers about the nature and extent of their participation in our system. The
+significant reduction on the part of any of our major suppliers of their
+participation in our system for a sustained period of time or their complete
+withdrawal could have a material adverse effect on our business, results of
+operations and financial condition. 
+Moreover, the airline industry has experienced a shift in market share
+from full-service carriers to low-cost carriers that focus primarily on discount
+fares to leisure destinations and we expect this trend to continue.  Some low-cost carriers, such as Southwest and
+JetBlue, do not distribute their tickets through us or other third-party
+intermediaries.  In addition, certain
+airlines have significantly limited or eliminated sales of airline tickets
+through “opaque” channels, preferring to consistently show the lowest available
+price on their own website.  If one or
+more participating airlines were to further limit or eliminate discounting
+through opaque channels, it could have a material adverse effect on our
+business, results of operations and financial condition.
+
+ 
+
+Due to our dependence on the airline industry, we could be severely
+affected by changes in that industry, and, in many cases, we will have no
+control over such changes or their timing. 
+Several major U.S. airlines are struggling financially and have either
+filed for reorganization under the United States Bankruptcy Code or discussed
+publicly the risks of bankruptcy.  Two of our largest airline suppliers, Delta Air
+Lines and Northwest Airlines, are currently operating under the protection of
+federal bankruptcy laws. If any of our suppliers currently in bankruptcy
+liquidates or does not emerge from bankruptcy and we are unable to replace such
+supplier as a participant in priceline.com, our business would be adversely
+affected. In addition, in the event that another of our major suppliers
+voluntarily or involuntarily declares bankruptcy and is subsequently unable to
+successfully emerge from bankruptcy, and we are unable to replace such
+supplier, our business would be adversely affected.  To the extent other major U.S. airlines that
+participate in our system declare bankruptcy, they may be unable or unwilling
+to honor tickets sold for their flights. Our policy in such event would be to
+direct customers seeking a refund or exchange to the airline, and not
+
+ 
+
+16
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+to
+provide a remedy ourselves. Because we are the merchant-of-record on sales of Name Your Own Price® airline
+tickets to our customers, however, we could experience a significant increase
+in demands for refunds or credit card charge-backs from customers, which
+could materially and adversely affect our operations and financial results. In
+addition, because Name Your Own Price®
+customers do not choose the airlines on which they are to fly, the bankruptcy
+of a major U.S. airline or even the possibility of a major U.S. airline
+declaring bankruptcy could discourage customers from using our Name Your Own Price®
+system to book airline tickets.
+
+ 
+
+If one of our major airline suppliers merges or consolidates with, or
+is acquired by, another company that either does not participate in the
+priceline.com system or that participates on substantially lower levels, the
+surviving company may elect not to participate in our system or to participate
+at lower levels than the previous supplier. 
+For example, in September 2005, US Airways and America West merged.  US Airways was a meaningful participant in
+our Name Your Own Price® system,
+but America West participated on a very limited basis.  The resulting entity participates in our Name Your Own Price® system,
+but at lower levels than US Airways’ historical participation.  Failure of the resulting entity to
+participate in our Name Your Own Price®
+system on a meaningful basis would be the equivalent of US Airways withdrawing
+from, or significantly reducing its participation in, our Name Your Own Price® system and
+could have a material adverse effect on our business, results of operations and
+financial condition.  The loss of any
+major airline participant in our Name Your
+Own Price® system could result in other major airlines
+electing to terminate their participation in the Name Your Own Price® system, which would further
+negatively impact our business, results of operations and financial
+condition.  In addition, fewer
+independent suppliers reduces opacity and competition among suppliers.  In such event, if we are unable to divert
+sales to other suppliers, our business results of operations and financial
+condition may be adversely affected.
+
+ 
+
+In addition, given the concentration of the airline industry,
+particularly in the domestic market, our competitors could exert pressure on
+other airlines not to supply us with tickets. Moreover, the airlines may
+attempt to establish their own buyer-driven commerce service or
+participate or invest in other similar services.
+
+ 
+
+We are dependent on certain hotels.
+
+ 
+
+Our financial prospects are significantly dependent upon the sale of
+hotel room nights.  During the twelve
+months ended December 31, 2005, sales of Name
+Your Own Price® hotel room nights from our five largest
+hotel suppliers accounted for approximately 35% of total Name Your Own Price® hotel room
+nights sold.  As a result, we are currently
+substantially dependent upon the continued participation of these hotels in
+priceline.com’s hotel service in order to maintain and continue to grow our
+total gross profit.
+
+ 
+
+We currently have more than 40 national hotel chains participating in
+the Name Your Own Price®
+system.  However, our arrangements with
+the hotels that participate in our Name Your
+Own Price® system generally:
+
+ 
+
+•                  do not require the hotels to make available to our customers any
+specific quantity of hotel rooms;
+
+ 
+
+•                  do not require the hotels to provide particular prices or levels of
+discount;
+
+ 
+
+•                  do not require the hotels to deal exclusively with us in the public sale
+of discounted hotel rooms; and
+
+ 
+
+•                  generally, can be terminated upon little or no notice.
+
+ 
+
+As a general matter, during the course of our business, we are in
+continuous dialogue with our major hotel suppliers about the nature and extent
+of their participation in our system. 
+Improving
+
+ 
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+economic
+conditions are creating increased demand for hotel rooms and some hotels may
+reduce the amount of inventory they sell through our service or increase the
+negotiated rates at which they are willing to provide inventory.  If hotel occupancy rates improve to the point
+that our hotel suppliers no longer place the same value on our distribution
+systems, such suppliers may reduce the amount of inventory they make available
+through priceline.com and/or our European operations.  The significant reduction on the part of any
+of our major suppliers of their participation in our system for a sustained
+period of time or their complete withdrawal could have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+Our
+merchant price-disclosed hotel service facilitates the purchase of hotel rooms
+by customers pursuant to a retail merchant model, which is based on merchant
+arrangements we make directly with individual hotel chains and independent
+hotel properties. We receive access to inventory directly from a hotel at a negotiated
+rate, and determine the retail price at which we will offer our services to the
+consumer, within contractual limitations. 
+Many hotels use merchant arrangements with companies like ours to
+dispose of excess hotel room inventory at wholesale rates. If hotels experience
+increased demand for rooms, they might reduce the amount of room inventory they
+make available through our merchant price-disclosed hotel service.  The recent improvement in occupancy rates
+discussed above could cause hotels to reduce the amount of inventory they make
+available through our merchant price-disclosed hotel service.
+
+ 
+
+In addition, certain hotels have begun initiatives to reduce margins
+received by third party intermediaries on retail merchant transactions, which
+is the primary method we employ to distribute retail hotel room
+reservations.  Many hotels distribute
+room inventory through their own websites and therefore might increase
+negotiated rates for merchant rate inventory sold through our merchant
+price-disclosed hotel service, decreasing the margin available to us.  While our merchant price-disclosed hotel agreements
+with our leading hotel suppliers provide for specified discounts, if one or
+more participating hotels were to require us to limit our merchant margins,
+upon contract renewal or otherwise, it could have a material adverse effect on
+our business, results of operations and financial condition.
+
+ 
+
+Our European operations’ business model exposes us to
+certain risks that we have not traditionally experienced in the hotel business.
+
+ 
+
+Our
+European operations distribute hotel rooms primarily through a retail model,
+whereby they secure a reservation with a customer’s credit card, but are not
+compensated by the hotel property until such customer checks out of the hotel
+property.  This requires our European
+operations to pursue collection of commissions relating to hotel room
+reservations from the hotel properties after the customer has completed his or
+her stay.  We do not have extensive
+experience in collecting commissions from hotel properties and failure to
+sustain an adequate collection rate could negatively impact the business of our
+European operations.
+
+ 
+
+In
+addition, our European operations rely heavily on various third parties to
+distribute hotel room reservations, and our European operations’ distribution
+channels are concentrated among a number of third parties.  Should one or more of such third parties
+cease distribution of our European operations’ reservations, or suffer
+deterioration in its search engine ranking, due to changes in search engine
+algorithms or otherwise, the business of our European operations could be
+negatively affected.  Similarly, a
+significant amount of our European business is directed to our own websites through
+participation in pay-per-click advertising campaigns on Internet search engines
+whose pricing and operating dynamics can experience rapid change both
+technically and competitively.  If a major search engine changes its
+pricing, operating or competitive dynamics in a negative manner, our business,
+results of operations and financial condition would be adversely affected.
+
+ 
+
+Historically,
+the majority of our European operations’ business has been located in the
+U.K.  The strategy of our European
+operations involves rapid expansion into other European countries, many of
+which have different customs, different levels of customer acceptance of the
+Internet and different
+
+ 
+
+18
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+legislation, regulatory environments and tax
+schemes.  Compliance with foreign legal,
+regulatory or tax requirements will place demands on our time and resources,
+and we may nonetheless experience unforeseen and potentially adverse legal,
+regulatory or tax consequences.  If our
+European operations are unsuccessful in rapidly expanding into other European
+countries, our business, results of operations and financial condition would be
+adversely affected.
+
+ 
+
+We are exposed to fluctuations in currency exchange
+rates.
+
+ 
+
+As a result of our acquisitions of our European operations, we are
+conducting a significant and growing portion of our business outside the United
+States and are reporting our results in U.S. dollars.  As a result, we face exposure to adverse
+movements in currency exchange rates. 
+The results of operations of our European operations are exposed to
+foreign exchange rate fluctuations as the financial results of our European
+operations are translated from local currency into U.S. dollars upon
+consolidation.  If the U.S. dollar
+weakens against the local currency, the translation of these
+foreign-currency-denominated balances will result in increased net assets, net
+revenues, operating expenses, and net income or loss.  Similarly, our net assets, net revenues,
+operating expenses, and net income or loss will decrease if the U.S. dollar
+strengthens against local currency. Additionally, foreign exchange rate
+fluctuations may adversely impact our results of operations as exchange rate
+fluctuations on transactions denominated in currencies other than the functional
+currency result in gains and losses that are reflected in our Consolidated
+Statement of Operations.
+
+ 
+
+We may lose or be subject to reduction of global
+distribution system fees.
+
+ 
+
+We rely on fees paid to us by Worldspan, L.P. and other global
+distribution systems, or GDSs, for travel bookings made through GDSs for a
+substantial portion of our gross profit and net income. A number of travel
+suppliers, particularly airlines, have indicated publicly that, as part of an
+effort to reduce distribution costs, they intend to reduce their dependence
+over time on what they view to be “expensive” distribution channels such as
+GDSs. A number of travel suppliers have reached agreements with travel
+distributors that require rebates of all or part of the fees received from the
+GDS.  We have agreed to rebate certain
+GDS costs to certain suppliers in exchange for contractual considerations such
+as those relating to inventory pricing and availability, and expect to continue
+to do so in the future.  Additionally, travel
+suppliers are encouraging distributors, such as us, to develop technology
+enabling direct connections, therefore bypassing the GDS. Development of direct
+connection technology would require the use of information technology resources
+and could cause us to incur additional operating expenses and delay other
+projects. We have been and believe that we will continue to be under pressure
+from travel suppliers, including most of the major domestic airlines and many
+of our significant hotel suppliers, to rebate all or part of the travel booking
+fees we receive from GDSs like Worldspan, L.P. To the extent that we are
+required to rebate travel booking fees we currently receive to travel
+suppliers, and are unable to recover such amounts by charging customers, or, if
+one or a number of travel suppliers pull out of our service because they are
+unhappy with existing distribution costs, it could have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+In addition, some airlines are exploring
+alternative global distribution methods recently developed by new entrants to
+the global distribution marketplace. 
+Such new entrants propose using technology that is less complex than
+traditional global distribution systems, and that enables the distribution of
+airline tickets in a manner that is more cost-effective to the airline
+suppliers.  Our airline suppliers might
+pressure us to implement such a distribution system, but our contractual
+obligations to Worldspan, L.P. would limit our ability to do so during the term
+of our agreement with Worldspan, L.P. 
+If, as a result, any of such suppliers reduces or ceases its
+participation in priceline.com, it could have a material adverse effect on our
+business, results of operations and financial condition.
+
+ 
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Our ability to satisfy customers may be adversely
+affected by a number of factors outside of our control.
+
+ 
+
+Most
+of our revenue is derived from the leisure travel industry, and is, therefore,
+subject to increase and decrease with the level of activity in the leisure
+travel industry, a factor almost entirely out of our control.  The travel industry is seasonal and our
+revenue varies significantly from quarter to quarter. Factors that may
+adversely affect leisure travel activity include, without limitation,  economic downturns and recessions; global
+security issues, political instability, acts of terrorism, civil unrest,
+hostilities and war; increased airport security that could reduce the
+convenience of air travel; inclement weather or natural disaster such as
+hurricane, tsunami or earthquake; increased occurrence of, or widely publicized
+travel-related accidents; the outbreak of an epidemic or pandemic such as SARS
+or avian bird flu; and the financial condition of travel suppliers.
+
+ 
+
+Intense competition could reduce our market share and
+harm our financial performance.
+
+ 
+
+We compete with both online and traditional sellers of the services
+offered on priceline.com. The market for the services we offer is intensely
+competitive, and current and new competitors can launch new sites at a
+relatively low cost. In addition, the major online travel companies with which
+we compete have significantly greater financial resources and capital than we
+do.  For instance, the Cendant
+Corporation currently owns Orbitz.com, Inc., Cheaptickets.com, Lodging.com and
+European travel sites Gullivers.com, ebookers plc and octopustravel, and Sabre
+Group owns Travelocity.com and lastminute.com plc, a European full-service
+travel site.  In addition, InterActive
+recently spun-off its online travel business, including Hotels.com and
+Hotwire.com, our primary competitor in the sale of “opaque” travel services,
+into Expedia, which, as a stand-alone company, continues to have significantly
+greater resources and capital than priceline.com.  We may not be able to effectively compete
+with industry conglomerates such as Cendant, Sabre or Expedia, each of which
+have access to significantly greater and more diversified resources than we do.
+
+ 
+
+We currently or potentially compete with a variety of companies with
+respect to each service we offer. With respect to our travel services, these
+competitors include:
+
+ 
+
+•                  Internet travel services such as Expedia, Hotels.com and
+Hotwire, which are owned by Expedia; Travelocity and lastminute.com, which are
+owned by the Sabre Group; and Orbitz.com, Cheaptickets, Gullivers.com, ebookers
+plc, octopustravel and Lodging.com, which are currently owned by the Cendant
+Corporation;
+
+ 
+
+•                  travel suppliers such as airlines, hotel companies and
+rental car companies, many of which have their own branded websites to which
+they drive business;
+
+ 
+
+•                  large online search companies, such as Yahoo! and Google;
+
+ 
+
+•                  traditional travel agencies;
+
+ 
+
+•                  online
+travel search sites such as SideStep.com, Mobissimo.com, Cheapflights.com, FareChase.com,
+Kayak.com, or any substantially similar online travel search business using a
+business model sometimes referred to as “meta-search”; and
+
+ 
+
+•                  operators of travel industry reservation databases such
+as Galileo, Worldspan, L.P. and Amadeus.
+
+ 
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Competitors of our European operations include, among others, Expedia
+(including hotels.com), Cendant Corporation (including ebookers, octopustravel,
+Gullivers.com and Fairview), Sabre Group (including lastminute.com),
+Superbreak, Venere and Hotel Reservation Service.
+
+ 
+
+In addition, many airline, hotel and rental car suppliers are focusing
+on driving online demand to their own websites in lieu of third-party
+distributors such as us.  Certain
+suppliers have attempted to charge additional fees to customers who book
+airline reservations through an online channel other than their own
+website.  Furthermore, many low cost
+airlines, which are having increasing success in the marketplace, distribute
+their inventory exclusively through their own websites.  Suppliers who sell on their own websites
+typically do not charge a processing fee, and, in some instances, offer
+advantages such as bonus miles or loyalty points, which could make their
+offerings more attractive to consumers than models like ours.
+
+ 
+
+We potentially face competition from a number of large Internet
+companies and services that have expertise in developing online commerce and in
+facilitating Internet traffic, including Amazon.com, AOL, MSN, Google.com and
+Yahoo!, which compete with us either directly or indirectly through
+affiliations with other e-commerce or off-line companies.  We also compete with “meta-search” companies,
+which are companies that leverage their search technology to aggregate travel
+search results across supplier, travel agent and other websites.  For example, Yahoo! owns FareChase.com, a
+travel search-engine that searches for fares and hotel rates at travel supplier
+and third-party websites, and refers traffic to those sites, and AOL is party to
+a marketing and technology agreement, and holds a minority interest in,
+Kayak.com, another leading meta-search company. 
+Other established search engine companies as well as start-ups are
+attempting to enter the online travel marketplace in this manner.  If Yahoo!, Google or other portals decide to
+refer significant traffic to travel search engines, it could result in more
+competition from supplier websites and higher customer acquisition costs for
+third-party sites such as ours. 
+Competition from these and other sources could have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+Many of our current and potential competitors, including Internet
+directories, search engines and large traditional retailers, have longer
+operating histories, larger customer bases, greater brand recognition and
+significantly greater financial, marketing, personnel, technical and other
+resources than priceline.com. Some of these competitors may be able to secure
+products and services on more favorable terms than we can. In addition, many of
+these competitors may be able to devote significantly greater resources to:
+
+ 
+
+•                  marketing and
+promotional campaigns;
+
+ 
+
+•                  attracting traffic to
+their websites;
+
+ 
+
+•                  attracting and retaining
+key employees;
+
+ 
+
+•                  securing vendors and
+inventory; and
+
+ 
+
+•                  website and systems
+development.
+
+ 
+
+Increased competition could result in reduced operating margins, loss
+of market share and damage to our brand. There can be no assurance that we will
+be able to compete successfully against current and future competitors or that
+competition will not have a material adverse effect on our business, results of
+operations and financial condition.
+
+ 
+
+Our business could be negatively affected by changes
+in search engine algorithms and dynamics.
+
+ 
+
+We
+utilize Internet search engines, principally through the purchase of
+travel-related keywords, to generate traffic to our websites.  Our European operations, in particular, rely
+to a significant extent upon third-party distribution partners that derive
+substantial business from search engines. 
+Within the past year, at least one major search engine changed the logic
+which determines the placement and display of
+
+ 
+
+21
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+results of a user’s search, such that the
+placement of links to our sites, and particularly those of our European
+operations and their affiliates, was negatively affected.  In a similar way, a significant amount of our
+European business is directed to our own websites through participation in pay-per-click
+advertising campaigns on Internet search engines whose pricing and operating
+dynamics can experience rapid change both technically and competitively.
+ If a major search engine changes its algorithms in a manner that further
+negatively affects the search engine ranking of us or our third-party
+distribution partners or changes its pricing, operating or competitive dynamics
+in a negative manner, our business, results of operations and financial
+condition would be adversely affected.
+
+ 
+
+Defending against intellectual property claims could
+be expensive and disruptive to our business.
+
+ 
+
+From
+time to time, in the ordinary course of our business, we have been subject to,
+and are currently subject to, legal proceedings and claims relating to the
+intellectual property rights of others, and we expect that third parties will
+continue to assert intellectual property claims, in particular patent claims,
+against us, particularly as we expand the complexity and scope of our business.  We endeavor to defend our intellectual
+property rights diligently, but intellectual property litigation is extremely
+expensive and time consuming, and has and is likely to continue to divert
+managerial attention and resources from our business objectives.  Successful infringement claims against us
+could result in significant monetary liability or prevent us from operating our
+business, or portions of our business. 
+In addition, resolution of claims may require us to obtain licenses to
+use intellectual property rights belonging to third parties, which may be
+expensive to procure, or possibly to cease using those rights altogether.  Any of these events could have a material
+adverse effect on our business, results of operations or financial condition.
+
+ 
+
+Acquisitions could result in operating
+difficulties.
+
+ 
+
+As part of our business strategy, in September 2004, we acquired Active
+Hotels and, in July 2005, Bookings.  We
+may enter into additional business combinations and acquisitions in the future.  Acquisitions may result in dilutive issuances
+of equity securities, use of our cash resources, incurrence of debt and
+amortization of expenses related to intangible assets acquired.  In addition, the process of integrating an
+acquired company, business or technology may create unforeseen operating difficulties
+and expenditures.  The acquisitions of
+Active Hotels and Bookings were accompanied by a number of risks, including,
+without limitation:
+
+ 
+
+•                  the need
+to implement or remediate controls, procedures and policies appropriate for a
+larger public company at companies that prior to the acquisition lacked such
+controls, procedures and policies;
+
+ 
+
+•                  the
+difficulty of assimilating the operations and personnel of Active Hotels and
+Bookings, which are principally located in Cambridge, England, and Amsterdam,
+The Netherlands, respectively, with and into our operations, which are
+headquartered in Norwalk, Connecticut;
+
+ 
+
+•                  the
+potential disruption of our ongoing business and distraction of management;
+
+ 
+
+•                  the
+difficulty of incorporating acquired technology and rights into our services
+and unanticipated expenses related to such integration;
+
+ 
+
+•                  the
+failure to further successfully develop acquired technology resulting in the
+impairment of amounts currently capitalized as intangible assets;
+
+ 
+
+•                  the
+impairment of relationships with customers of Active Hotels, Bookings or our
+own customers as a result of any integration of operations;
+
+ 
+
+•                  the
+impairment of relationships with employees of Active Hotels, Bookings or our
+own business as a result of any integration of new management personnel;
+
+ 
+
+•                  the
+potential unknown liabilities associated with Active Hotels or Bookings.
+
+ 
+
+22
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+We may experience similar risks in connection with any future
+acquisitions. We may not be successful in addressing these risks or any other
+problems encountered in connection with the acquisitions of Active Hotels and
+Bookings or that we could encounter in future acquisitions, which would harm
+our business or cause us to fail to realize the anticipated benefits of our
+acquisitions.  We currently have
+approximately $303 million assigned primarily to the intangible assets and
+goodwill of Active Hotels and Bookings, and therefore, the occurrence of any of
+the aforementioned risks could result in a material adverse impact, including a
+material impairment of these assets, which could cause us to have to write-down
+goodwill.  Any such write-down of
+goodwill could adversely impact our operating results, which would cause our
+stock price to decline significantly.
+
+ 
+
+Our growth cannot be assured. Even if we do
+experience growth, we cannot assure you that we will grow profitably.
+
+ 
+
+Our business strategies are dependent on the growth of our business.
+For us to achieve significant growth, consumers and travel suppliers must
+continue to accept our website as a valuable commercial tool. Consumers who
+have historically purchased travel services using traditional commercial
+channels, such as local travel agents and calling suppliers directly, must
+instead purchase these services on our website. Similarly, travel suppliers
+will also need to accept or expand their use of our website and view our
+website as an efficient and profitable channel of distribution for their travel
+products. Our ability to enhance awareness of the priceline.com brands and
+offer services that will attract and retain a significant number of new
+consumers and travel suppliers is not certain, and therefore, our growth may be
+limited.
+
+ 
+
+We may not be able to keep up with rapid
+technological and other changes.
+
+ 
+
+The
+markets in which we compete are characterized by rapidly changing technology,
+evolving industry standards, consolidation, frequent new service and product
+announcements, introductions and enhancements and changing consumer demands. We
+may not be able to keep up with these rapid changes. In addition, these market
+characteristics are heightened by the emerging nature of the Internet and the
+apparent need of companies from many industries to offer Internet-based
+products and services. As a result, our future success will depend on our
+ability to adapt to rapidly changing technologies, to adapt our services to
+evolving industry standards and to continually improve the performance,
+features and reliability of our service in response to competitive service and
+product offerings and the evolving demands of the marketplace. In addition, the
+widespread adoption of new Internet, networking or telecommunications
+technologies or other technological changes could require us to incur
+substantial expenditures to modify or adapt our services or infrastructure.
+
+ 
+
+Online or internal security
+breaches could harm our business.
+
+ 
+
+The secure transmission of confidential
+information over the Internet is essential in maintaining consumer and supplier
+confidence in the priceline.com services. Substantial or ongoing security
+breaches whether instigated internally or externally on our system or other
+Internet-based systems could significantly harm our business. We
+currently require buyers to guarantee their offers with their credit card,
+either online or through our toll-free telephone service. We rely on licensed
+encryption and authentication technology to effect secure transmission of
+confidential information, including credit card numbers from and to our
+customers. It is possible that advances in computer circumvention capabilities,
+new discoveries or other developments could result in a compromise or breach of
+customer transaction data.
+
+ 
+
+We incur substantial expense
+to protect against and remedy security breaches and their consequences. However,
+we cannot guarantee that our security measures will prevent security breaches.
+A party (whether internal, external, an affiliate or unrelated third party)
+that is able to circumvent our security systems could steal customer
+transaction data, proprietary information or cause significant interruptions in
+our operations. For instance, several major websites have experienced
+significant interruptions as a result of improper direction of excess traffic
+to those sites, and computer viruses have
+
+ 
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+substantially disrupted e-mail and other functionality in a number of
+countries, including the United States. Security breaches also could damage our
+reputation and expose us to a risk of loss or litigation and possible
+liability. Security breaches could also cause customers and potential customers
+to lose confidence in our security, which would have a negative effect on the
+value of our brand.  Our insurance
+policies carry low coverage limits, which may not be adequate to reimburse us
+for losses caused by security breaches.
+
+ 
+
+Companies that we have acquired, such as our European operations, and
+that we may acquire in the future, may employ security and networking standards
+at levels we find unsatisfactory.  The process of enhancing infrastructure
+to attain improved security and network standards may be time consuming and
+expensive and may require resources and expertise that are difficult to
+obtain.  Such acquisitions increase the number of potential vulnerabilities,
+and can cause delays in detection of an attack, as well as the timelines of
+recovery from any given attack. Failure to raise any such standards that we
+find unsatisfactory could expose us to security breaches that would have an
+adverse impact on our business, results of operations and financial condition.
+
+ 
+
+We also face risks associated with security breaches affecting third
+parties conducting business over the Internet. Consumers generally are
+concerned with security and privacy on the Internet, and any publicized
+security problems could inhibit the growth of the Internet and, therefore, the
+priceline.com service as a means of conducting commercial transactions.
+
+ 
+
+Our processing, storage, use and disclosure of personal data could give
+rise to liabilities as a result of governmental regulation, conflicting legal
+requirements or differing views of personal privacy rights.
+
+ 
+
+In
+our processing of travel transactions, we receive and store a large volume of
+personally identifiable data.  This data
+is increasingly subject to legislation and regulations in numerous
+jurisdictions around the world, including the Commission of the European Union
+through its Data Protection Directive and variations of that directive in the
+member states of the European Union. 
+This government action is typically intended to protect the privacy of
+personal data that is collected, processed and transmitted in or from the
+governing jurisdiction.  We could be
+adversely affected if legislation or regulations are expanded to require
+changes in our business practices or if governing jurisdictions interpret or
+implement their legislation or regulations in ways that negatively affect our
+business, results of operations and financial condition.
+
+ 
+
+In
+addition, in the aftermath of the terrorist attacks of September 11, 2001 in
+the United States, government agencies have been contemplating or developing
+initiatives to enhance national and aviation security, including the
+Transportation Security Administration’s Computer-Assisted Passenger
+Prescreening System, known as CAPPS II. 
+These initiatives may result in conflicting legal requirements with
+respect to data handling.  As privacy and
+data protection has become a more sensitive issue, we may also become exposed
+to potential liabilities as a result of differing views on the privacy of
+travel data.  Travel businesses have also
+been subjected to investigations, lawsuits and adverse publicity due to
+allegedly improper disclosure of passenger information.  These and other privacy developments that are
+difficult to anticipate could adversely impact our business, results of
+operations and financial condition.
+
+ 
+
+We rely on the value of the
+priceline.com brand, and the costs of maintaining and enhancing our brand awareness are increasing.
+
+ 
+
+We
+believe that maintaining and expanding the priceline.com brand, and other owned
+brands, including Lowestfare.com, Rentalcars.com, Breezenet.com,
+MyTravelGuide.com, Travelweb, Active Hotels and Bookings, are important aspects
+of our efforts to attract and expand our user and advertiser base.  As our larger competitors spend increasingly
+more on advertising, we are required to spend more in order to maintain our
+brand recognition.  Promotion of the
+priceline.com brand will depend largely on our success in satisfying our
+customers. In addition, we have spent considerable money and resources to date
+
+ 
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+on the establishment and maintenance of the
+priceline.com brands, and we will continue to spend money on, and devote
+resources to advertising, marketing and other brand-building efforts to
+preserve and enhance consumer awareness of the priceline.com brands. We may not
+be able to successfully maintain or enhance consumer awareness of the
+priceline.com brands, and, even if we are successful in our branding efforts,
+such efforts may not be cost-effective. If we are unable to maintain or enhance
+customer awareness of the priceline.com brands in a cost-effective manner, our
+business, results of operations and financial condition would be adversely affected.
+
+ 
+
+We may be unable to generate sufficient cash to repay
+or repurchase our $225 million Convertible Senior Notes and the Notes could
+result in dilution to our earnings per share.
+
+ 
+
+In August 2003, we issued $125 million aggregate principal amount of Convertible
+Senior Notes due August 1, 2010, with an interest rate of 1% (the “1% Notes”)
+and in June 2004, we issued $100 million aggregate principal amount of
+Convertible Senior Notes due January 15, 2025, with an interest rate of 2.25%
+(the “2.25% Notes”, and collectively with the 1% Notes, the “Notes”).  The
+holders of the 1% Notes may require us to repurchase the notes on August 1,
+2008 and the holders of the 2.25% Notes may require us to repurchase the notes
+on January 15, 2010, 2015 or 2020.  It is possible that we may not have
+sufficient funds or may be unable to arrange for additional financing to pay
+the principal amount or repurchase price due.  We are increasingly reliant
+on our European operations as a source of cash flow and in the event we are required
+to repay or repurchase the notes, we would likely incur expenses to repatriate
+such cash to the United States.  If we are unable to repurchase, repay or
+refinance the Notes when due, we would be in default under our indentures and
+our business, results of operations and financial condition would be adversely
+affected.
+
+ 
+
+In the event that all or substantially all of our common stock is
+acquired prior to January 15, 2010, in a transaction in which the consideration
+paid to holders of our common stock consists of all, or substantially all,
+cash, we would be required to make additional payments to the holders of the
+2.25% Notes of amounts ranging from $0 to $17.6 million depending upon the date
+of the transaction and our then current stock price.
+
+ 
+
+Pursuant to Financial Accounting Standards Board Emerging Issues Task
+Force Issue No. 04-08, “The Effect of Contingently Convertible Debt on Diluted
+Earnings per Share,” (“EITF 04-08”) contingently convertible debt, such as the
+Notes, must be included in diluted earnings per share, regardless of whether
+the market price contingency contained in the debt instrument has been
+met.  EITF 04-08 could result in a material reduction in our diluted
+earnings per share in future periods.  See Notes 8 and 13 to the Consolidated
+Financial Statements for further discussion of Net Income Per Share and
+Convertible Debt, respectively.
+
+ 
+
+Our success depends on our ability to protect our
+intellectual property.
+
+ 
+
+We regard our intellectual property as critical to our success, and we
+rely on trademark, copyright and patent law, trade secret protection and
+confidentiality and/or license agreements with our employees, customers,
+partners and others to protect our proprietary rights. If we are not successful
+in protecting our intellectual property, it could have a material adverse
+effect on our business, results of operations and financial condition.
+
+ 
+
+While we believe that our issued patents and pending patent
+applications help to protect our business, there can be no assurance that:
+
+ 
+
+•                  any patent can be
+successfully defended against challenges by third parties;
+
+ 
+
+•                  pending patent
+applications will result in the issuance of patents;
+
+ 
+
+•                  competitors or potential
+competitors of priceline.com will not devise new methods of competing with us
+that are not covered by our patents or patent applications;
+
+ 
+
+25
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                  because of variations in
+the application of our business model to each of our services, our patents will
+be effective in preventing one or more third parties from utilizing a copycat
+business model to offer the same service in one or more categories;
+
+ 
+
+•                  new prior art will not
+be discovered which may diminish the value of or invalidate an issued patent;
+
+ 
+
+•                  a third party will not
+have or obtain one or more patents that prevent us from practicing features of
+our business or require us to pay for a license to use those features; or
+
+ 
+
+•                  our operations do not or will not infringe
+valid, enforceable patents of third parties.
+
+ 
+
+There has been recent discussion in the press regarding the examination
+and issuance of so called “business-method” patents. As a result, the
+United States Patent and Trademark Office has indicated that it intends to
+intensify the review process applicable to such patent applications. The new
+procedures are not expected to have a direct effect on patents already granted.
+We cannot anticipate what effect, if any, the new review process will have on
+our pending patent applications.
+
+ 
+
+We pursue the registration of our trademarks
+and service marks in the U.S. and internationally. However, effective
+trademark, service mark, copyright and trade secret protection may not be
+available in every country in which our services are made available online. We
+have licensed in the past, and expect to license in the future, certain of our
+proprietary rights, such as trademarks or copyrighted material, to third
+parties. These licensees may take actions that might diminish the value of our
+proprietary rights or harm our reputation.
+
+ 
+
+Our business is dependent upon third-party
+systems and service providers.
+
+ 
+
+We rely on certain third-party computer systems and third-party
+service providers, including the computerized central reservation systems of
+the airline, hotel and rental car industries to satisfy demand for airline
+tickets, hotel room and rental car reservations. In particular, our travel
+business is substantially dependent upon the computerized reservation systems
+of operators of global distribution systems for the travel industry. Any
+interruption in these third-party services systems or deterioration in
+their performance could prevent us from booking airline, hotel and rental car
+reservations and have a material adverse effect on our business. Our agreements
+with third-party service providers are terminable upon short notice and
+often do not provide recourse for service interruptions. In the event our
+arrangement with any of such third parties is terminated, we may not be able to
+find an alternative source of systems support on a timely basis or on commercially
+reasonable terms and, as a result, it could have a material adverse effect on
+our business, results of operations and financial condition.
+
+ 
+
+A substantial portion of our computer hardware for operating our
+services is currently located at a web hosting facility operated by
+SAVVIS.  If SAVVIS is, for any reason,
+unable to support our website, we would need to quickly complete the activation
+of our secondary site at the AT&T web hosting facility.  Any of these conditions could cause
+disruptions to our business or exposure to potentially damaging press coverage
+of the problems, and would have a material adverse effect on our business,
+results of operations, and financial condition.
+
+ 
+
+Our communications infrastructure is provided by vendors such as
+AT&T, MCI, IX EUROPE and MCI Worldcom B.V. 
+If they are unable, for any reason, to support the communications
+infrastructure they provide us, instabilities in our systems could increase
+until such time as we were able to replace their services.
+
+ 
+
+While we do maintain redundant systems and hosting services for some of
+our business, it is possible that we could experience an interruption in our
+business, and we do not carry business interruption insurance sufficient to
+compensate us for losses that may occur.
+
+ 
+
+26
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Capacity constraints and system failures could harm
+our business.
+
+ 
+
+We rely primarily on the global distribution system of Worldspan, L.P.
+in the sale of airline tickets, opaque hotel room reservations, and rental car
+reservations, and the global distribution system of Pegasus Solutions in the
+sale of retail hotel room reservations. 
+If the Worldspan, L.P. or Pegasus GDS becomes inaccessible, or partially
+inaccessible to us, due to system failure or otherwise, for any significant
+amount of time, our ability to book airline tickets, opaque and retail hotel
+reservations and rental car reservations could be adversely affected, in which
+case our results would suffer.  We also
+depend upon Paymentech to process our credit card transactions. If Paymentech
+was wholly or partially compromised, our cash flows could be disrupted until
+such a time as a replacement process could be put in place with a different
+vendor.
+
+ 
+
+A substantial amount of our computer hardware for operating our
+services is currently located at the facilities of SAVVIS in New Jersey, IX
+EUROPE in London, England, Telecity Netherlands and Redbus Interhouse
+Netherlands. These systems and operations are vulnerable to damage or
+interruption from human error, floods, fires, power loss, telecommunication
+failures and similar events. They are also subject to break-ins, sabotage,
+intentional acts of vandalism and similar misconduct. Despite any precautions
+we may take, the occurrence of a natural disaster or other unanticipated
+problems at the SAVVIS facility, the IX EUROPE facility or the Netherlands
+facility could result in lengthy interruptions in our services. In addition,
+the failure by SAVVIS, IX EUROPE or MCI Worldcom B.V. to provide our required
+data communications capacity could result in interruptions in our service. Any
+system failure that causes an interruption in service or decreases the
+responsiveness of the priceline.com service could impair our reputation, damage
+our brand name and have a material adverse effect on our business, results of
+operations and financial condition.
+
+ 
+
+If our systems cannot be expanded to cope with increased demand or
+fails to perform, we could experience:
+
+ 
+
+•                  unanticipated
+disruptions in service;
+
+ 
+
+•                  slower response times;
+
+ 
+
+•                  decreased customer
+service and customer satisfaction; or
+
+ 
+
+•                  delays in the
+introduction of new products and services,
+
+ 
+
+any of which could impair our reputation, damage the
+priceline.com brand and materially and adversely affect our revenues. Publicity
+about a service disruption also could cause a material decline in our stock
+price.
+
+ 
+
+Like many online businesses, we have experienced system failures from
+time to time. For example, in May 2001, our primary website was
+interrupted for a period of 12 hours. In addition to placing increased
+burdens on our engineering staff, these outages create a significant amount of
+user questions and complaints that need to be addressed by our customer support
+personnel. Any unscheduled interruption in our service could result in an immediate
+loss of revenues that can be substantial and may cause some users to switch to
+our competitors. If we experience frequent or persistent system failures, our
+reputation and brand could be permanently harmed. We have been taking steps to
+increase the reliability and redundancy of our system. These steps are
+expensive, may reduce our margins and may not be successful in reducing the
+frequency or duration of unscheduled downtime.
+
+ 
+
+We use both internally developed systems and third-party systems to
+operate the priceline.com service, including transaction processing, order
+management and financial systems that were designed to be scaleable and stable.
+However, if the number of users of our services increases substantially, or if
+critical third-party systems stop operating as designed, we will need to
+significantly expand and upgrade our technology, transaction processing
+systems, financial systems and other infrastructure. We do not
+
+ 
+
+27
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+know
+whether we will be able to upgrade our systems and infrastructure to
+accommodate such conditions in a timely manner.
+
+ 
+
+Companies that we have acquired, such as our European operations, and
+that we may acquire in the future, may present known or unknown
+capacity/stability or other types of system challenges.  The process of
+enhancing infrastructure to attain improved capacity/scalability and other
+system characteristics may be time consuming and expensive and may require
+resources and expertise that are difficult to obtain.  Such acquisitions
+increase potential downtime, customer facing problems and compliance
+problems.  Failure to successfully make
+any such improvements to such infrastructures could expose us to potential
+capacity, stability, and system problems that would have an adverse impact on
+our business, results of operations and financial condition.
+
+ 
+
+Uncertainty regarding state and local taxes
+
+ 
+
+We file tax returns in such states as required by law based on
+principles applicable to traditional businesses. In addition, we pay sales and
+other taxes, including hotel occupancy taxes, to suppliers related to travel
+services sold through the priceline.com service.  We believe that this
+practice is consistent with the tax laws of all jurisdictions. On an ongoing
+basis, we conduct a review and interpretation of the tax laws in various states
+and other jurisdictions relating to the payment of state and local hotel
+occupancy and other related taxes.  In connection with our review, we have
+met and had discussions with taxing authorities in certain jurisdictions but
+the ultimate resolution in any particular jurisdiction cannot be determined at
+this time.  Currently, hotels collect and remit hotel occupancy and
+related taxes to the various tax authorities based on the amounts collected by
+the hotels. Consistent with this practice, we recover the taxes on the
+underlying cost of the hotel room night from customers and pay that amount to
+the hotel operators for payment to the appropriate tax authorities.  As
+discussed in Note 19 to our consolidated financial statements, several
+jurisdictions have initiated lawsuits indicating the position that sales or
+hotel occupancy tax is applicable to the differential between the price paid by
+a customer for our service and the cost of the underlying room. Historically,
+we have not collected taxes on this differential. Additional state and local
+jurisdictions could assert that we are subject to sales or hotel occupancy
+taxes on this differential and could seek to collect such taxes, either
+retroactively or prospectively or both. A number of proposals have been made at
+state and local levels that could impose additional taxes on the sale of
+products and services through the Internet or the income derived from these
+sales. Such actions may result in substantial tax liabilities for past and/or
+future sales and could have a material adverse effect on our business and
+results of operations. To the extent that any tax authority succeeds in
+asserting that any such tax collection responsibility exists, it is likely
+that, with respect to future transactions, we would collect any such additional
+tax obligation from our customers, which would have the effect of increasing
+the cost of hotel room nights to our customers and, consequently, could reduce
+our hotel sales. We will continue to assess the risks of the potential
+financial impact of additional tax exposure, and to the extent appropriate, we
+will reserve for those estimated liabilities.
+
+ 
+
+Current economic conditions in the United States are triggering active
+consideration on ways to generate additional tax revenues by both the federal
+and state and local governments. We cannot predict what changes in tax law or
+interpretations of such laws may be adopted or assure that such changes or
+interpretations would not materially impact our business.
+
+ 
+
+Our business is exposed to risks associated with
+credit card fraud and charge-backs.
+
+ 
+
+To date, our results have been negatively impacted by purchases made
+using fraudulent credit cards. Because we act as the merchant-of-record in a
+majority of our transactions, we may be held liable for accepting fraudulent
+credit cards on our website as well as other payment disputes with our
+customers. Additionally, we are held liable for accepting fraudulent credit
+cards in certain retail transactions when we do not act as merchant of
+record.  Accordingly, we calculate and
+record an allowance for the resulting credit card charge-backs.  If we are unable to combat the use of
+fraudulent credit cards on our website, our business, results of operations and
+financial condition could be materially adversely affected.
+
+ 
+
+28
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Two large stockholders beneficially own approximately
+31% of our stock.
+
+ 
+
+Hutchison Whampoa Limited
+and Cheung Kong (Holdings) Limited, which is a 49.97% shareholder of Hutchison
+Whampoa Limited, owned approximately 31% of our outstanding common stock as of
+December 31, 2005, and have the right to appoint three representatives to our
+Board of Directors.  Ian F. Wade and
+Dominic Kai Ming Lai are Hutchison Whampoa Limited’s representatives on our
+Board of Directors.  Cheung Kong
+(Holdings) Limited currently has no representative on our Board of Directors,
+however, it retains its right to appoint an additional director in the future.  These stockholders could exert significant
+influence over us and our strategic direction, and deter or prevent certain
+fundamental transactions involving our company.
+
+ 
+
+In June 2000, we entered
+into definitive agreements with subsidiaries of Hutchison Whampoa Limited to
+introduce our services to several Asian markets.  Under the terms of the agreements we license
+our business model and provide our expertise in technology, marketing and
+operations to Hutchison-Priceline Limited. 
+Hutchison-Priceline Limited reimburses us for the cost of services
+provided and is required to pay us a licensing fee for any year in which
+Hutchison-Priceline Limited achieves profitability.  We and Hutchison Whampoa Limited currently
+own approximately 15% and 85%, respectively, of the outstanding equity
+securities of Hutchison-Priceline Limited. 
+Jeffery H. Boyd, our President and Chief Executive Officer, is
+priceline.com’s representative on the board of directors of Hutchison-Priceline
+Limited.
+
+ 
+
+In May 2004, we filed a
+shelf registration statement with the Securities and Exchange Commission
+covering up to 10 million shares of priceline.com common stock held by
+Hutchison Whampoa Limited and Cheung Kong (Holdings) Limited.  Any sale of a significant number of shares by
+these stockholders could cause our stock price to decline significantly.
+
+ 
+
+Fluctuations in our financial results make quarterly
+comparisons and financial forecasting difficult.
+
+ 
+
+Our
+revenues and operating results have varied significantly from quarter to
+quarter because our business experiences seasonal fluctuations, which reflect
+seasonal trends for the travel services offered by our websites. Traditional
+leisure travel bookings in the United States are higher in the second and third
+calendar quarters of the year as consumers take spring and summer vacations. In
+the first and fourth quarters of the calendar year, demand for travel services
+in the United States generally declines and the number of bookings
+flattens.  Travel revenues in Europe, on the other hand, have been higher
+in the third and fourth quarters than in the first and second quarters. 
+Furthermore, prior to introducing a retail travel option to our customers,
+substantially all of our business was conducted under the Name Your Own Price® system and
+accordingly, because those services are non-refundable in nature, we recognize
+travel revenue at the time a booking was generated.  We recognize revenue
+generated from our retail hotel service, however, including our European
+operations, at the time that the customer checks out of the hotel.  As a
+result, we have seen and expect to continue to see, that a meaningful amount of
+retail hotel bookings generated earlier in the year, as customers plan and
+reserve their spring and summer vacations, will not be recognized until future quarters. 
+This could result in a disproportionate amount of our annual earnings being
+recognized in later quarters.
+
+ 
+
+Our
+results may also be affected by seasonal fluctuations in the inventory made
+available to us by airlines, hotels and rental car suppliers. Our revenues and
+operating results may continue to vary significantly from quarter to quarter
+because of these factors. As a result, quarter-to-quarter comparisons of our
+revenues and operating results may not be meaningful. In addition, due to our limited
+operating history, a relatively new and unproven business model and an
+uncertain environment in the travel industry, it may be difficult to predict
+our future revenues or results of operations.
+
+ 
+
+Because
+of these fluctuations and uncertainties, our operating results may fail to meet
+the expectations of securities analysts and investors. If this happens, the
+trading price of our common stock would almost certainly be materially
+adversely affected.
+
+ 
+
+29
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+If we lose our key personnel or cannot recruit
+additional personnel, our business may suffer.
+
+ 
+
+We
+depend on the continued services and performance of our executive officers and
+other key personnel. These individuals have acquired specialized knowledge and
+skills with respect to priceline.com and our operations. We do not have “key
+person” life insurance policies. Our ability to retain key employees could be
+materially adversely affected by the decline in the market price of our common
+stock, limitations on our ability to pay cash compensation that is equivalent
+to cash paid by traditional businesses or, in some instances, larger or better
+capitalized competitors, and limitations imposed by our employee benefit plans
+on our ability to issue additional equity incentives. If we do not succeed in
+attracting new employees or retaining and motivating current and future
+employees or executive officers, our business could suffer significantly.
+
+ 
+
+The adoption by FASB of FASB Statement No. 123
+(Revised 2004), “Share-Based Payment,” (“SFAS 123(R)”) will negatively impact
+our reported business results.
+
+ 
+
+As more fully discussed in
+Note 2 to our Consolidated Financial Statements, we were required to adopt SFAS
+123(R) as of January 1, 2006.  SFAS
+123(R) will have a significant impact on our Consolidated Statement of Operations
+as we will be required to expense the fair value of our stock option grants
+rather than disclose the pro forma impact on our consolidated operations within
+our footnotes.  Upon adoption of SFAS
+123(R), the impact of unvested stock options outstanding as of December 31,
+2005 is estimated to increase personnel expense by approximately $6.0 million
+in 2006, $2.5 million in 2007 and $0.5 million in 2008.
+
+ 
+
+Our financial results will be materially impacted by
+income taxes in the future.
+
+ 
+
+For
+the twelve months ended December 31, 2005, we recorded an income tax benefit of
+approximately $156 million.  This
+principally resulted from a non-cash tax benefit recorded in the third quarter
+of 2005 of $171 million, relating to the reversal of a portion of our valuation
+allowance on our deferred tax assets. The non-cash tax benefit was recorded
+pursuant to the provisions of Statement of Financial Accounting Standards No.
+109, that require a company to release a portion of its deferred tax asset
+valuation allowance when it becomes more likely than not that it will realize
+all or some portion of its deferred tax assets. Due to our significant net
+operating loss carryforwards, we do not expect to pay cash taxes on our U.S.
+federal taxable income for the foreseeable future.  As a result of the reversal, we recorded a
+mostly non-cash $12.5 million provision for U.S. income tax expense in our
+consolidated financial statements in 2005, and will continue to record a
+non-cash provision for U.S. income tax expense in future periods.  This non-cash U.S. income tax provision will
+materially negatively impact net income and earnings per share in subsequent
+periods as compared to prior periods.  
+We expect to make cash tax payments for U.S. alternative minimum taxes
+and for certain international taxes.
+
+ 
+
+Our stock price is highly volatile.
+
+ 
+
+The market price of our common stock is highly volatile and is likely
+to continue to be subject to wide fluctuations in response to factors such as
+the following, some of which are beyond our control:
+
+ 
+
+•                  quarterly variations in
+our operating results;
+
+ 
+
+•                  operating results that
+vary from the expectations of securities analysts and investors;
+
+ 
+
+•                  changes in expectations
+as to our future financial performance, including financial estimates by
+securities analysts and investors;
+
+ 
+
+•                  changes in our capital
+structure;
+
+ 
+
+•                  changes in market
+valuations of other Internet or online service companies;
+
+ 
+
+30
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+•                  announcements of
+technological innovations or new services by us or our competitors;
+
+ 
+
+•                  announcements by us or
+our competitors of significant contracts, acquisitions, strategic partnerships,
+joint ventures or capital commitments;
+
+ 
+
+•                  loss of a major supplier
+participant, such as an airline or hotel chain;
+
+ 
+
+•                  changes in the status of
+our intellectual property rights;
+
+ 
+
+•                  lack of success in the
+expansion of our business model geographically;
+
+ 
+
+•                  announcements by third
+parties of significant claims or proceedings against us or adverse developments
+in pending proceedings;
+
+ 
+
+•                  additions or departures
+of key personnel; and
+
+ 
+
+•                  stock market price and
+volume fluctuations.
+
+ 
+
+Sales of a substantial number of shares of our common stock could
+adversely affect the market price of our common stock by introducing a large
+number of sellers to the market. Given the volatility that exists for our
+shares, such sales could cause the market price of our common stock to decline
+significantly. In addition, fluctuations in our stock price and our
+price-to-earnings multiple may have made our stock attractive to momentum,
+hedge or day-trading investors who often shift funds into and out of stocks
+rapidly, exacerbating price fluctuations in either direction, particularly when
+viewed on a quarterly basis.
+
+ 
+
+The trading prices of Internet company stocks in general, including
+ours, have experienced extreme price and volume fluctuations. To the extent
+that the public’s perception of the prospects of Internet or e-commerce
+companies is negative, our stock price could decline further, regardless of our
+results. Other broad market and industry factors may decrease the market price
+of our common stock, regardless of our operating performance. Market
+fluctuations, as well as general political and economic conditions, such as a
+recession or interest rate or currency rate fluctuations, also may decrease the
+market price of our common stock. 
+Negative market conditions could adversely affect our ability to raise
+additional capital.
+
+ 
+
+We are defendants in a number of securities class action litigations.
+In the past, securities class action litigation often has been brought against
+a company following periods of volatility in the market price of its
+securities. To the extent our stock price declines or is volatile, we may in
+the future be the target of additional litigation. This additional litigation
+could result in substantial costs and divert management’s attention and
+resources.
+
+ 
+
+We are party to legal
+proceedings which, if adversely decided, could materially adversely affect us.
+
+ 
+
+We are a party to the legal proceedings described
+in Note 19 to our Consolidated Financial Statements.  The defense of the actions described in Note
+19 may increase our expenses and an adverse outcome in any of such actions
+could have a material
+adverse effect on our business, results of operations and financial condition.
+
+ 
+
+Regulatory and legal uncertainties could harm our
+business.
+
+ 
+
+The products and services we offer through the priceline.com service
+are regulated by federal and state governments. Our ability to provide such
+products and services is and will continue to be affected by such regulations.
+The implementation of unfavorable regulations or unfavorable interpretations of
+existing regulations by courts or regulatory bodies could require us to incur
+significant compliance costs, cause the development of the affected markets to
+become impractical and otherwise have a material adverse effect on our
+business, results of operations and financial condition.  See “Uncertainty
+regarding state and local taxes.”
+
+ 
+
+31
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The
+priceline.com Website
+
+ 
+
+We maintain a website
+with the address www.priceline.com.  We
+are not including the information contained on our website as a part of, or
+incorporating it by reference into, this Annual Report on Form 10-K.  We make available free of charge through our
+website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and
+Current Reports on Form 8-K, and amendments to these reports filed or furnished
+pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as
+amended, as soon as reasonably practicable after we electronically file such
+material with, or furnish such material to, the Securities and Exchange
+Commission.  These reports and other
+information are also available, free of charge, at www.sec.gov. 
+Alternatively, the public may read and copy any materials we file with the SEC
+at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C.
+20549.  Information on the operation of the Public Reference Room may be
+obtained by calling the SEC at 1-800-SEC-0330.
+
+ 
+
+Item 1B

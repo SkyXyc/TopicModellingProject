@@ -1,0 +1,2271 @@
+Item 1A and in Item 7 — “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” these factors include, but are not limited to:
+ 
+·                              our ability to manage capital expenditures and operations and maintenance costs while maintaining reliability and customer service levels;
+·                              variations in demand for electricity, including those due to weather, the general economy, customer and sales growth (or decline), and the effects of energy conservation measures and distributed generation;
+·                              power plant and transmission system performance and outages;
+·                              competition in retail and wholesale power markets;
+·                              regulatory and judicial decisions, developments and proceedings;
+·                              new legislation or regulation, including those relating to environmental requirements, nuclear plant operations and potential deregulation of retail electric markets;
+·                              fuel and water supply availability;
+·                              our ability to achieve timely and adequate rate recovery of our costs, including returns on debt and equity capital;
+·                              our ability to meet renewable energy and energy efficiency mandates and recover related costs;
+·                              risks inherent in the operation of nuclear facilities, including spent fuel disposal uncertainty;
+·                              current and future economic conditions in Arizona, particularly in real estate markets;
+·                              the cost of debt and equity capital and the ability to access capital markets when required;
+·                              environmental and other concerns surrounding coal-fired generation;
+·                              volatile fuel and purchased power costs;
+·                              the investment performance of the assets of our nuclear decommissioning trust, pension, and other postretirement benefit plans and the resulting impact on future funding requirements;
+·                              the liquidity of wholesale power markets and the use of derivative contracts in our business;
+·                              potential shortfalls in insurance coverage;
+·                              new accounting requirements or new interpretations of existing requirements;
+·                              generation, transmission and distribution facility and system conditions and operating costs;
+·                              the ability to meet the anticipated future need for additional baseload generation and associated transmission facilities in our region;
+·                              the willingness or ability of our counterparties, power plant participants and power plant land owners to meet contractual or other obligations or extend the rights for continued power plant operations;
+·                              technological developments affecting the electric industry; and
+·                              restrictions on dividends or other provisions in our credit agreements and ACC orders.
+ 
+These and other factors are discussed in the Risk Factors described in Item 1A of this report, which readers should review carefully before placing any reliance on our financial statements or disclosures.  Neither Pinnacle West nor APS assumes any obligation to update these statements, even if our internal estimates change, except as required by law.
+ 
+2
+
+
+
+
+
+
+Table of Contents
+ 
+PART I
+ 
+ITEM 1.  BUSINESS
+ 
+Pinnacle West
+ 
+Pinnacle West is a holding company that conducts business through its subsidiaries.  We derive essentially all of our revenues and earnings from our wholly-owned subsidiary, APS.  APS is a vertically-integrated electric utility that provides either retail or wholesale electric service to most of the State of Arizona, with the major exceptions of about one-half of the Phoenix metropolitan area, the Tucson metropolitan area and Mohave County in northwestern Arizona.
+ 
+Pinnacle West’s other operating subsidiary is El Dorado.  Additional information related to this business is provided later in this report.
+ 
+Our reportable business segment is our regulated electricity segment, which consists of traditional regulated retail and wholesale electricity businesses (primarily electric service to Native Load customers) and related activities, and includes electricity generation, transmission and distribution.
+ 
+BUSINESS OF ARIZONA PUBLIC SERVICE COMPANY
+ 
+APS currently provides electric service to approximately 1.2 million customers.  We own or lease 6,394 MW of regulated generation capacity and we hold a mix of both long-term and short-term purchased power agreements for additional capacity, including a variety of agreements for the purchase of renewable energy.  During 2013, no single purchaser or user of energy accounted for more than 1.1% of our electric revenues.
+ 
+3
+
+
+
+
+
+
+Table of Contents
+ 
+The following map shows APS’s retail service territory, including the locations of its generating facilities and principal transmission lines.
+ 
+ 
+
+ 
+4
+
+
+
+
+
+
+Table of Contents
+ 
+Energy Sources and Resource Planning
+ 
+To serve its customers, APS obtains power through its various generation stations and through purchased power agreements.  Resource planning is an important function necessary to meet Arizona’s future energy needs.  APS’s sources of energy by type during 2013 were as follows:
+ 
+
+ 
+Generation Facilities
+ 
+APS has ownership interests in or leases the coal, nuclear, gas, oil and solar generating facilities described below.  For additional information regarding these facilities, see Item 2.
+ 
+Coal-Fueled Generating Facilities
+ 
+Four Corners — Four Corners is a 5-unit coal-fired power plant located in the northwestern corner of New Mexico.  APS operates the plant and owns 100% of Four Corners Units 1, 2 and 3 and 63% of Four Corners Units 4 and 5 following the acquisition of SCE’s interest in Units 4 and 5 described below.  As of December 30, 2013, APS retired Units 1, 2 and 3.  APS has a total entitlement from Four Corners of 970 MW.
+ 
+On November 8, 2010, APS and SCE entered into an asset purchase agreement (the “Asset Purchase Agreement”) providing for the purchase by APS of SCE’s 48% interest in each of Units 4 and 5 of Four Corners, allowing APS to acquire 739 MW from SCE.  On December 30, 2013, APS and SCE closed this transaction.  The final purchase price for SCE’s interest was approximately $182 million, subject to certain minor post-closing adjustments.
+ 
+In connection with APS’s most recent retail rate case with the ACC, the ACC reserved the right to review the prudence of the Four Corners transaction for cost recovery purposes upon the closing of the transaction.  On December 30, 2013, APS filed an application with the ACC to request rate adjustments prior to its next general rate case related to APS’s acquisition of SCE’s interest in Four Corners.  If approved, these would result in an average bill impact to residential customers of approximately 2%.  APS cannot predict the outcome of this request.
+ 
+5
+
+
+
+
+
+
+Table of Contents
+ 
+Concurrently with the closing of the SCE transaction, BHP Billiton, the parent company of BNCC, the coal supplier and operator of the mine that serves Four Corners, transferred its ownership of BNCC to NTEC, a company formed by the Navajo Nation to own the mine and develop other energy projects.  BHP Billiton will be retained by NTEC under contract as the mine manager and operator until July 2016.  Also occurring concurrently with the closing, the Four Corners’ co-owners executed a long-term agreement for the supply of coal to Four Corners from July 2016, when the current coal supply agreement expires, through 2031 (the “2016 Coal Supply Agreement”).  El Paso, a 7% owner in Units 4 and 5 of Four Corners, did not sign the 2016 Coal Supply Agreement.  Under the 2016 Coal Supply Agreement, APS has agreed to assume the 7% shortfall obligation.  When APS ultimately acquires a right to EPE’s interest in Four Corners, by agreement or operation of law, NTEC will have an option to purchase the interest within a certain timeframe pursuant to an option granted by APS to NTEC.  The 2016 Coal Supply Agreement contains alternate pricing terms for the 7% shortfall obligations in the event NTEC does not exercise its option. 
+The Four Corners plant site is leased from the Navajo Nation and is also subject to an easement from the federal government.  APS, on behalf of the Four Corners participants, negotiated amendments to an existing facility lease with the Navajo Nation which extends the Four Corners leasehold interest from 2016 to 2041.  The Navajo Nation approved these amendments in March 2011.  The effectiveness of the amendments also requires the approval of the DOI, as does a related federal rights-of-way grant, which the Four Corners participants are pursuing.  A federal environmental review is underway as part of the DOI review process.  APS will also require a Prevention of Significant Deterioration (“PSD”) permit from EPA to install selective catalytic reduction (“SCR”) control technology at Four Corners, as described below under “Environmental Matters — EPA Environmental Regulation.”  APS cannot predict whether these federal approvals will be granted, and if so on a timely basis, or whether any conditions that may be attached to them will be acceptable to the Four Corners owners. 
+Cholla — Cholla is a 4-unit coal-fired power plant located in northeastern Arizona.  APS operates the plant and owns 100% of Cholla Units 1, 2 and 3.  PacifiCorp owns Cholla Unit 4, and APS operates that unit for PacifiCorp.  APS has a total entitlement from Cholla of 647 MW.  APS purchases all of Cholla’s coal requirements from a coal supplier that mines all of the coal under long-term leases of coal reserves with the federal and state governments and private landholders.  The Cholla coal contract runs through 2024.  In addition, APS has a long-term coal transportation contract.
+ 
+Navajo Generating Station — The Navajo Plant is a 3-unit coal-fired power plant located in northern Arizona.  Salt River Project operates the plant and APS owns a 14% interest in Navajo Units 1, 2 and 3.  APS has a total entitlement from the Navajo Plant of 315 MW.  The Navajo Plant’s coal requirements are purchased from a supplier with long-term leases from the Navajo Nation and the Hopi Tribe.  The Navajo Plant is under contract with its coal supplier through 2019, with extension rights through 2026.  The Navajo Plant site is leased from the Navajo Nation and is also subject to an easement from the federal government.  The current lease expires in 2019.
+ 
+These coal-fueled plants face uncertainties, including those related to existing and potential legislation and regulation, that could significantly impact their economics and operations.  See “Environmental Matters” below and “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview and Capital Expenditures” in Item 7 for developments impacting these coal-fueled facilities.  See Note 11 for information regarding APS’s coal mine reclamation obligations.
+ 
+6
+
+
+
+
+
+
+Table of Contents
+ 
+Nuclear
+ 
+Palo Verde Nuclear Generating Station — Palo Verde is a 3-unit nuclear power plant located approximately 50 miles west of Phoenix, Arizona.  APS operates the plant and owns 29.1% of Palo Verde Units 1 and 3 and approximately 17% of Unit 2.  In addition, APS leases approximately 12.1% of Unit 2, resulting in a 29.1% combined ownership and leasehold interest in that unit.  APS has a total entitlement from Palo Verde of 1,146 MW.
+ 
+Palo Verde Leases — In 1986, APS entered into agreements with three separate lessor trust entities in order to sell and lease back approximately 42% of its share of Palo Verde Unit 2 and certain common facilities.  In accordance with the VIE accounting guidance, APS consolidates the lessor trust entities for financial reporting purposes, and eliminates lease accounting for these transactions.  The agreements expire at the end of 2015 and contain options to renew the leases or to purchase the property for fair market value at the end of the lease terms.  APS was required to give notice to the respective lessor trusts between December 31, 2010 and December 31, 2012 if it wished to retain the leased assets (without specifying whether it would purchase the leased assets or extend the leases) or return the leased assets to the lessor trusts.  On December 31, 2012, APS gave notice to the respective lessor trusts informing them it will retain the leased assets.  APS must give notice to the respective lessor trusts by June 30, 2014 notifying them which of the purchase or lease renewal options it will exercise.  We are currently analyzing these options.  See Note 19 for additional information regarding the Palo Verde Unit 2 sale leaseback transactions. 
+Palo Verde Operating Licenses — Operation of each of the three Palo Verde Units requires an operating license from the NRC.  The NRC issued full power operating licenses for Unit 1 in June 1985, Unit 2 in April 1986 and Unit 3 in November 1987, and issued renewed operating licenses for each of the three units in April 2011, which extended the licenses for Units 1, 2 and 3 to June 2045, April 2046 and November 2047, respectively.
+ 
+Palo Verde Fuel Cycle — The Palo Verde participants are continually identifying their future nuclear fuel resource needs and negotiating arrangements to fill those needs.  The fuel cycle for Palo Verde is comprised of the following stages:
+ 
+·                                          mining and milling of uranium ore to produce uranium concentrates;
+·                                          conversion of uranium concentrates to uranium hexafluoride;
+·                                          enrichment of uranium hexafluoride;
+·                                          fabrication of fuel assemblies;
+·                                          utilization of fuel assemblies in reactors; and
+·                                          storage and disposal of spent nuclear fuel.
+ 
+The Palo Verde participants have contracted for 100% of Palo Verde’s requirements for uranium concentrates through 2017, 90% of its requirements in 2018 and 45% of its requirements in 2019-2020.  The participants have also contracted for all of Palo Verde’s conversion services through 2016, 95% of its requirements in 2017-2018 and 45% of its requirements in 2019-2020; all of Palo Verde’s enrichment services through 2020; and all of Palo Verde’s fuel assembly fabrication services through 2016.
+ 
+Spent Nuclear Fuel and Waste Disposal — The Nuclear Waste Policy Act of 1982 (“NWPA”) required the DOE to accept, transport, and dispose of spent nuclear fuel and high level waste generated
+ 
+7
+
+
+
+
+
+
+Table of Contents
+ 
+by the nation’s nuclear power plants by 1998.  The DOE’s obligations are reflected in a contract for Disposal of Spent Nuclear Fuel and/or High-Level Radioactive Waste (the “Standard Contract”) with each nuclear power plant.  The DOE failed to begin accepting spent nuclear fuel by 1998.  APS is directly and indirectly involved in several legal proceedings related to DOE’s failure to meet its statutory and contractual obligations regarding acceptance of spent nuclear fuel and high level waste.
+ 
+APS Lawsuit for Breach of Standard Contract — In December 2003, APS, acting on behalf of itself and the participant owners of Palo Verde, filed a lawsuit against DOE in the U.S. Court of Federal Claims for damages incurred due to DOE’s breach of the Standard Contract.  The Court of Federal Claims ruled in favor of APS and the Palo Verde participants in October 2010 and awarded $30.2 million in damages to APS and the Palo Verde participants for costs incurred through December 2006.
+ 
+On December 19, 2012, APS, acting on behalf of itself and the participant owners of Palo Verde, filed a second breach of contract lawsuit against the DOE.  This lawsuit seeks to recover damages incurred due to DOE’s failure to accept Palo Verde’s spent nuclear fuel for the period beginning January 1, 2007 through June 30, 2011.  That lawsuit is presently pending in the Court of Federal Claims.
+ 
+The One-Mill Fee — In 2011, the National Association of Regulatory Utility Commissioners and the Nuclear Energy Institute challenged DOE’s 2010 determination of the adequacy of the one tenth of a cent per kWh fee (the “one-mill fee”) paid by the nation’s commercial nuclear power plant owners pursuant to their individual obligations under the Standard Contract.  This fee is recovered by APS in its retail rates.  In June 2012, the U.S. Court of Appeals for the District of Columbia Circuit (the “D.C. Circuit”) held that DOE failed to conduct a sufficient fee analysis in making the 2010 determination.  The D.C. Circuit remanded the 2010 determination to the Secretary of the DOE (“Secretary”) with instructions to conduct a new fee adequacy determination within six months.  In February 2013, upon completion of DOE’s revised one-mill fee adequacy determination, the D.C. Circuit reopened the proceedings.  On November 19, 2013, the D.C. Circuit ordered the Secretary to notify Congress of his intent to suspend collecting annual fees for nuclear waste disposal from nuclear power plant operators, as he is required to do pursuant to the NWPA and the D.C. Circuit’s order.  On January 3, 2014, the Secretary notified Congress of his intention to suspend collection of the one-mill fee, subject to Congress’ disapproval. 
+DOE’s Construction Authorization Application for Yucca Mountain — The DOE had planned to meet its NWPA and Standard Contract disposal obligations by designing, licensing, constructing, and operating a permanent geologic repository at Yucca Mountain, Nevada.  In June 2008, the DOE submitted its Yucca Mountain construction authorization application to the NRC, but in March 2010, the DOE filed a motion to dismiss with prejudice the Yucca Mountain construction authorization application.  Several interested parties have also intervened in the NRC proceeding.  Additionally, a number of interested parties filed a variety of lawsuits in different jurisdictions around the country challenging the DOE’s authority to withdraw the Yucca Mountain construction authorization application and NRC’s cessation of its review of the Yucca Mountain construction authorization application.  The cases have been consolidated into one matter at the D.C. Circuit.  In August 2013, the D.C. Circuit ordered the NRC to resume its review of the application with available appropriated funds. 
+Waste Confidence — On June 8, 2012, the D.C. Circuit issued its decision on a challenge by several states and environmental groups of the NRC’s rulemaking regarding temporary storage and
+ 
+8
+
+
+
+
+
+
+Table of Contents
+ 
+permanent disposal of high level nuclear waste and spent nuclear fuel.  The petitioners had challenged the NRC’s 2010 update to the agency’s Waste Confidence Decision and temporary storage rule (“Waste Confidence Decision”).
+ 
+The D.C. Circuit found that the agency’s 2010 Waste Confidence Decision update constituted a major federal action, which, consistent with the National Environmental Policy Act (“NEPA”), requires either an environmental impact statement or a finding of no significant impact from the agency’s actions.  The D.C. Circuit found that the NRC’s evaluation of the environmental risks from spent nuclear fuel was deficient, and therefore remanded the 2010 Waste Confidence Decision update for further action consistent with NEPA.
+ 
+On September 6, 2012, the NRC Commissioners issued a directive to the NRC staff to proceed directly with development of a generic environmental impact statement to support an updated Waste Confidence Decision.  The NRC Commissioners also directed the staff to establish a schedule to publish a final rule and environmental impact study within 24 months of September 6, 2012.  In September 2013, the NRC issued its draft environmental impact statement to support an updated Waste Confidence Decision.  In October 2013, the NRC began a series of nationwide public meetings to receive stakeholder input on the draft environmental impact statement.  The NRC’s meeting schedule was completed in December 2013.  The NRC Commissioners have instructed the staff to issue the final generic environmental impact statement and rule by no later than September 2014.  Untimely resolution by the NRC of the remand from the D.C. Circuit could have an adverse impact on certain NRC licensing actions.  Currently, Palo Verde does not have any licensing actions pending with the NRC. 
+Palo Verde has sufficient capacity at its on-site independent spent fuel storage installation (“ISFSI”) to store all of the nuclear fuel that will be irradiated during the initial operating license period, which ends in December 2027.  Additionally, Palo Verde has sufficient capacity at its on-site ISFSI to store a portion of the fuel that will be irradiated during the period of extended operation, which ends in November 2047.  If uncertainties regarding the United States government’s obligation to accept and store spent fuel are not favorably resolved, APS will evaluate alternative storage solutions that may obviate the need to expand the ISFSI to accommodate all of the fuel that will be irradiated during the period of extended operation.
+ 
+Nuclear Decommissioning Costs — APS currently relies on an external sinking fund mechanism to meet the NRC financial assurance requirements for decommissioning its interests in Palo Verde Units 1, 2 and 3.  The decommissioning costs of Palo Verde Units 1, 2 and 3 are currently included in APS’s ACC jurisdictional rates.  Decommissioning costs are recoverable through a non-bypassable system benefits charge (paid by all retail customers taking service from the APS system).  See Note 20 for additional information about APS’s nuclear decommissioning trusts.
+ 
+Palo Verde Liability and Insurance Matters — See “Palo Verde Nuclear Generating Station — Nuclear Insurance” in Note 11 for a discussion of the insurance maintained by the Palo Verde participants, including APS, for Palo Verde.
+ 
+Impact of Earthquake and Tsunami in Japan on Nuclear Energy Industry — On March 11, 2011, an earthquake measuring 9.0 on the Richter Scale occurred off the coast of Japan causing a series of seven tsunamis.  As a result, the Fukushima Daiichi Nuclear Power Station experienced damage.
+ 
+9
+
+
+
+
+
+
+Table of Contents
+ 
+Following the earthquake and tsunamis, the NRC established a task force to conduct a systematic and methodical review of NRC processes and regulations to determine whether the agency should make additional improvements to its regulatory system.  On March 12, 2012, the NRC issued the first regulatory requirements based on the recommendations of the Near Term Task Force.  With respect to Palo Verde, the NRC issued two orders requiring safety enhancements regarding:  (1) mitigation strategies to respond to extreme natural events resulting in the loss of power at plants; and (2) enhancement of spent fuel pool instrumentation.
+ 
+The NRC has issued a series of interim staff guidance documents regarding implementation of these requirements.  Due to the developing nature of these requirements, we cannot predict the ultimate financial or operational impacts on Palo Verde or APS; however, the NRC has directed nuclear power plants to implement the first tier recommendations of the NRC’s Near Term Task Force.  In response to these recommendations, Palo Verde expects to spend approximately $100 million for capital enhancements to the plant over the next several years (APS’s share is 29.1%).
+ 
+Natural Gas and Oil Fueled Generating Facilities
+ 
+APS has six natural gas power plants located throughout Arizona, consisting of Redhawk, located near Palo Verde; Ocotillo, located in Tempe (discussed below); Sundance, located in Coolidge; West Phoenix, located in southwest Phoenix; Saguaro, located north of Tucson; and Yucca, located near Yuma.  Several of the units at Yucca run on either gas or oil.  APS has one oil-only power plant, Douglas, located in the town of Douglas, Arizona.  APS owns and operates each of these plants with the exception of one oil-only combustion turbine unit and one oil and gas steam unit at Yucca that are operated by APS and owned by the Imperial Irrigation District.  APS has a total entitlement from these plants of 3,179 MW.  Gas for these plants is financially hedged up to three years in advance of purchasing and the gas is generally purchased one month prior to delivery.  APS has long-term gas transportation agreements with three different companies, some of which are effective through 2024.  Fuel oil is acquired under short-term purchases delivered primarily to West Phoenix, where it is distributed to APS’s other oil power plants by truck. 
+Ocotillo is a 330 MW 4-unit gas plant.  In early 2014, APS announced a roughly $600-$700 million project to modernize the plant, which will involve retiring two older 110 MW steam units, adding five 102 MW combustion turbines and maintaining two existing 55 MW combustion turbines.  In total, this will increase the capacity of the site by 290 MW, to 620 MW, with completion targeted for summer 2018.
+ 
+Solar Facilities
+ 
+To date, APS has begun operation of 118 MW of utility scale solar through its AZ Sun Program, discussed below.  These facilities are owned by APS and are located in multiple locations throughout Arizona.
+ 
+Additionally, APS owns and operates more than forty small solar systems around the state.  Together they have the capacity to produce approximately 4 MW of renewable energy.  This fleet of solar systems includes a 3 MW facility located at the Prescott Airport and 1 MW of small solar in various locations across Arizona.  APS has also developed solar photovoltaic distributed energy systems installed as part of the Community Power Project in Flagstaff, Arizona.  The Community Power Project, approved by the ACC on April 1, 2010, is a pilot program through which APS owns, operates and receives energy from approximately 1 MW of solar photovoltaic distributed energy systems located within a certain test area in Flagstaff, Arizona.  Additionally, APS owns 14 MW of
+ 
+10
+
+
+
+
+
+
+Table of Contents
+ 
+solar photovoltaic systems installed across Arizona through the ACC-approved Schools and Government Program.
+ 
+Purchased Power Contracts
+ 
+In addition to its own available generating capacity, APS purchases electricity under various arrangements, including long-term contracts and purchases through short-term markets to supplement its owned or leased generation and hedge its energy requirements.  A portion of APS’s purchased power expense is netted against wholesale sales on the Consolidated Statements of Income.  (See Note 17.)  APS continually assesses its need for additional capacity resources to assure system reliability.
+ 
+Purchased Power Capacity — APS’s purchased power capacity under long-term contracts, including its renewable energy portfolio, is summarized in the table below.  All capacity values are based on net capacity unless otherwise noted.
+ 
+
+
+
+Type    
+
+     
+
+Dates Available    
+
+     
+
+Capacity (MW)       
+
+
+Purchase Agreement (a)    
+
+     
+
+Year-round through December 2014    
+
+     
+
+90       
+
+
+Purchase Agreement (b)    
+
+     
+
+Year-round through June 14, 2020    
+
+     
+
+60       
+
+
+Exchange Agreement (c)    
+
+     
+
+May 15 to September 15 annually through 2020    
+
+     
+
+480       
+
+
+Tolling Agreement    
+
+     
+
+Year-round through May 2017    
+
+     
+
+514       
+
+
+Tolling Agreement    
+
+     
+
+Summer seasons through October 2019    
+
+     
+
+560       
+
+
+Day-Ahead Call Option Agreement    
+
+     
+
+Summer seasons through September 2015    
+
+     
+
+500       
+
+
+Day-Ahead Call Option Agreement    
+
+     
+
+Summer seasons through summer 2016    
+
+     
+
+150       
+
+
+Demand Response Agreement (d)    
+
+     
+
+Summer seasons through 2024    
+
+     
+
+25       
+
+
+Renewable Energy (e)    
+
+     
+
+Various    
+
+     
+
+629         
+ 
+
+(a)                                 The capacity under this agreement varies by month, with a maximum capacity of 90 MW in each of 2013 and 2014.
+(b)                                 Up to 60 MW of capacity is available; however, the amount of electricity available to APS under this agreement is based in large part on customer demand and is adjusted annually.
+(c)                                  This is a seasonal capacity exchange agreement under which APS receives electricity during the summer peak season (from May 15 to September 15) and APS returns a like amount of electricity during the winter season (from October 15 to February 15).
+(d)                                 The capacity under this agreement may be increased in 5 MW increments in each of 2014, 2015 and 2016 and 10 MW increments in years 2017 through 2024, up to a maximum of 50 MW.
+(e)                                  Renewable energy purchased power agreements are described in detail below under “Current and Future Resources — Renewable Energy Standard — Renewable Energy Portfolio.”
+ 
+11
+
+
+
+
+
+
+
+Table of Contents
+ 
+Current and Future Resources
+ 
+Current Demand and Reserve Margin
+ 
+Electric power demand is generally seasonal.  In Arizona, demand for power peaks during the hot summer months.  APS’s 2013 peak one-hour demand on its electric system was recorded on July 8, 2013 at 6,927 MW, compared to the 2012 peak of 7,207 MW recorded on August 8, 2012.  APS’s reserve margin at the time of the 2013 peak demand, calculated using system load serving capacity, was 27%.  Excluding certain contractual rights to call on additional capacity on short notice, which APS may use in the event of unusual weather or unplanned outages, the 2013 reserve margin was 17%.  APS anticipates the reserve margin for 2014 will be approximately 34% or 24% excluding contractual rights to call on additional capacity.  APS expects that our reserve margins will decrease over the next three years and that additional conventional resources will be needed around 2017. 
+Future Resources and Resource Plan
+ 
+Under the ACC’s resource planning rule, APS will file by April 1 of each even year its resource plans for the next fifteen-year period.  The rule requires the ACC to issue an order with its acknowledgment of APS’s resource plan within approximately ten months following its submittal.  The ACC’s acknowledgment of APS’s resource plan will consider factors such as the total cost of electric energy services, demand management, analysis of supply-side options, system reliability and risk management.  APS will be filing its next resource plan by April 1, 2014.
+ 
+Renewable Energy Standard
+ 
+In 2006, the ACC adopted the RES.  Under the RES, electric utilities that are regulated by the ACC must supply an increasing percentage of their retail electric energy sales from eligible renewable resources, including solar, wind, biomass, biogas and geothermal technologies.  The renewable energy requirement is 4.5% of retail electric sales in 2014 and increases annually until it reaches 15% in 2025.  In APS’s 2009 retail rate case settlement agreement (the “2009 Settlement Agreement”), APS committed to have 1,700 GWh of new renewable resources in service by year-end 2015 in addition to its 2008 renewable resource commitments.  Taken together, APS’s commitment is estimated to be approximately 12% of retail sales, by year-end 2015, which is more than double the RES target of 5% for that year.  A component of the RES is focused on stimulating development of distributed energy systems (generally speaking, small-scale renewable technologies that are located on customers’ properties, such as rooftop solar systems).  Accordingly, under the RES, an increasing percentage of that requirement must be supplied from distributed energy resources.  This distributed energy requirement is 30% of the overall RES requirement of 4.5% in 2014.  The following table summarizes the RES requirement standard (not including the additional commitment required by the 2009 Settlement Agreement) and its timing: 
+
+
+
+     
+
+     
+
+2014    
+
+     
+
+2015    
+
+     
+
+2020    
+
+     
+
+2025    
+
+        
+
+
+RES as a % of retail electric sales    
+
+     
+
+4.5    
+
+%    
+
+5    
+
+%    
+
+10    
+
+%    
+
+15    
+
+%       
+
+
+Percent of RES to be supplied from distributed   energy resources    
+
+     
+
+30    
+
+%    
+
+30    
+
+%    
+
+30    
+
+%    
+
+30    
+
+%         
+ 
+12
+
+
+
+
+
+
+Table of Contents
+ 
+Renewable Energy Portfolio.  To date, APS has a diverse portfolio of existing and planned renewable resources totaling 1175 MW, including solar, wind, geothermal, biomass and biogas.  Of this portfolio, 1074 MW are currently in operation and 101 MW are under contract for development or are under construction.  Renewable resources in operation include 137 MW of facilities owned by APS, 629 MW of long-term purchased power agreements, and an estimated 308 MW of customer-sited, third-party owned distributed energy resources.
+ 
+APS’s strategy to achieve its RES requirements includes executing purchased power contracts for new facilities, ongoing development of distributed energy resources and procurement of new facilities to be owned by APS.  APS is developing owned solar resources through the AZ Sun Program.  Under this program to date, APS estimates its investment commitment will be approximately $695 million.  See Note 3 for additional details about the AZ Sun Program, including the related cost recovery.
+ 
+The following table summarizes APS’s renewable energy sources currently in operation and under development.  Agreements for the development and completion of future resources are subject to various conditions, including successful siting, permitting and interconnection of the projects to the electric grid.
+ 
+13
+
+
+
+
+
+
+Table of Contents
+ 
+
+
+
+     
+
+     
+
+Location    
+
+     
+
+Actual/    Target   Commercial   Operation   Date    
+
+     
+
+Term   (Years)    
+
+     
+
+Net    Capacity    In Operation   (MW AC)    
+
+     
+
+Net Capacity    Planned/Under   Development   (MW AC)    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+APS Owned     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Solar:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+AZ Sun Program:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Paloma    
+
+     
+
+Gila Bend, AZ    
+
+     
+
+2011    
+
+     
+
+     
+
+     
+
+17    
+
+     
+
+     
+
+        
+
+
+Cotton Center    
+
+     
+
+Gila Bend, AZ    
+
+     
+
+2011    
+
+     
+
+     
+
+     
+
+17    
+
+     
+
+     
+
+        
+
+
+Hyder Phase 1    
+
+     
+
+Hyder, AZ    
+
+     
+
+2011    
+
+     
+
+     
+
+     
+
+11    
+
+     
+
+     
+
+        
+
+
+Hyder Phase 2    
+
+     
+
+Hyder, AZ    
+
+     
+
+2012    
+
+     
+
+     
+
+     
+
+5    
+
+     
+
+     
+
+        
+
+
+Chino Valley    
+
+     
+
+Chino Valley, AZ    
+
+     
+
+2012    
+
+     
+
+     
+
+     
+
+19    
+
+     
+
+     
+
+        
+
+
+Hyder II    
+
+     
+
+Hyder, AZ    
+
+     
+
+2013    
+
+     
+
+     
+
+     
+
+14    
+
+     
+
+     
+
+        
+
+
+Foothills    
+
+     
+
+Yuma, AZ    
+
+     
+
+2013    
+
+     
+
+     
+
+     
+
+35    
+
+     
+
+     
+
+        
+
+
+Gila Bend    
+
+     
+
+Gila Bend, AZ    
+
+     
+
+2014    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+32    
+
+        
+
+
+Subtotal AZ Sun Program (a)    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+118    
+
+     
+
+32    
+
+        
+
+
+Multiple Facilities    
+
+     
+
+AZ    
+
+     
+
+Various    
+
+     
+
+     
+
+     
+
+4    
+
+     
+
+     
+
+        
+
+
+Distributed Energy:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+APS Owned (b)    
+
+     
+
+AZ    
+
+     
+
+Various    
+
+     
+
+     
+
+     
+
+15    
+
+     
+
+     
+
+        
+
+
+Total APS Owned    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+137    
+
+     
+
+32    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Purchased Power Agreements    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Solar:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Solana     
+
+     
+
+Gila Bend, AZ    
+
+     
+
+2013    
+
+     
+
+30    
+
+     
+
+250    
+
+     
+
+     
+
+        
+
+
+RE Ajo    
+
+     
+
+Ajo, AZ    
+
+     
+
+2011    
+
+     
+
+25    
+
+     
+
+5    
+
+     
+
+     
+
+        
+
+
+Sun E AZ 1    
+
+     
+
+Prescott, AZ    
+
+     
+
+2011    
+
+     
+
+30    
+
+     
+
+10    
+
+     
+
+     
+
+        
+
+
+Saddle Mountain    
+
+     
+
+Tonopah, AZ    
+
+     
+
+2012    
+
+     
+
+30    
+
+     
+
+15    
+
+     
+
+     
+
+        
+
+
+Badger     
+
+     
+
+Tonopah, AZ    
+
+     
+
+2013    
+
+     
+
+30    
+
+     
+
+15    
+
+     
+
+     
+
+        
+
+
+Gillespie     
+
+     
+
+Maricopa County, AZ    
+
+     
+
+2013    
+
+     
+
+30    
+
+     
+
+15    
+
+     
+
+     
+
+        
+
+
+Wind:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Aragonne Mesa    
+
+     
+
+Santa Rosa, NM    
+
+     
+
+2006    
+
+     
+
+20    
+
+     
+
+90    
+
+     
+
+     
+
+        
+
+
+High Lonesome    
+
+     
+
+Mountainair, NM    
+
+     
+
+2009    
+
+     
+
+30    
+
+     
+
+100    
+
+     
+
+     
+
+        
+
+
+Perrin Ranch Wind    
+
+     
+
+Williams, AZ    
+
+     
+
+2012    
+
+     
+
+25    
+
+     
+
+99    
+
+     
+
+     
+
+        
+
+
+Geothermal:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Salton Sea    
+
+     
+
+Imperial County, CA    
+
+     
+
+2006    
+
+     
+
+23    
+
+     
+
+10    
+
+     
+
+     
+
+        
+
+
+Biomass:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Snowflake    
+
+     
+
+Snowflake, AZ    
+
+     
+
+2008    
+
+     
+
+15    
+
+     
+
+14    
+
+     
+
+     
+
+        
+
+
+Biogas:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Glendale Landfill    
+
+     
+
+Glendale, AZ    
+
+     
+
+2010    
+
+     
+
+20    
+
+     
+
+3    
+
+     
+
+     
+
+        
+
+
+NW Regional Landfill    
+
+     
+
+Surprise, AZ    
+
+     
+
+2012    
+
+     
+
+20    
+
+     
+
+3    
+
+     
+
+     
+
+        
+
+
+Total Purchased Power   Agreements    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+629    
+
+     
+
+0    
+
+        
+
+
+Distributed Energy     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Solar (c)    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Third-party Owned     
+
+     
+
+AZ    
+
+     
+
+Various    
+
+     
+
+     
+
+     
+
+275    
+
+     
+
+69    
+
+        
+
+
+Agreement 1    
+
+     
+
+Bagdad, AZ    
+
+     
+
+2011    
+
+     
+
+25    
+
+     
+
+15    
+
+     
+
+     
+
+        
+
+
+Agreement 2     
+
+     
+
+AZ    
+
+     
+
+2011-2012    
+
+     
+
+20-21    
+
+     
+
+18    
+
+     
+
+     
+
+        
+
+
+Total Distributed Energy    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+308    
+
+     
+
+69    
+
+        
+
+
+Total Renewable Portfolio    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+1074    
+
+     
+
+101    
+
+          
+ 
+
+(a)                                 Under the AZ Sun Program, an additional 20 MW has been approved to be contracted, but is not included in the table above since it is not yet under contract.  Another 30 MW is possible under AZ Sun, but has not yet been approved.
+(b)                                 Includes Flagstaff Community Power Project and APS School and Government Program.
+(c)                                  Distributed generation is produced in DC and is converted to AC for reporting purposes.
+ 
+14
+
+
+
+
+
+
+Table of Contents
+ 
+Demand Side Management
+ 
+In December 2009, Arizona regulators placed an increased focus on energy efficiency and other demand side management programs to encourage customers to conserve energy, while incentivizing utilities to aid in these efforts that ultimately reduce the demand for energy.  The ACC initiated its Energy Efficiency rulemaking, with a proposed Energy Efficiency Standard (“EES”) of 22% cumulative annual energy savings by 2020.  This standard was adopted and became effective on January 1, 2011.  This ambitious standard will likely impact Arizona’s future energy resource needs.  (See Note 3 for energy efficiency and other demand side management obligations resulting from the 2009 Settlement Agreement).
+ 
+Government Awards
+ 
+Through the American Recovery and Reinvestment Act of 2009 (“ARRA”) and other DOE initiatives, the Federal government made a number of programs available for utilities to develop renewable resources, improve reliability and create jobs.  APS continues its work on a $3 million non-ARRA award for a high penetration photovoltaic generation study related to the Community Power Project in Flagstaff, Arizona.  This award will conclude during 2015 and is contingent upon APS meeting certain project milestones, including DOE-established budget parameters.
+ 
+Competitive Environment and Regulatory Oversight
+ 
+Retail
+ 
+The ACC regulates APS’s retail electric rates and its issuance of securities.  The ACC must also approve any significant transfer or encumbrance of APS’s property used to provide retail electric service and approve or receive prior notification of certain transactions between Pinnacle West, APS and their respective affiliates.
+ 
+APS is subject to varying degrees of competition from other investor-owned electric and gas utilities in Arizona (such as Southwest Gas Corporation), as well as cooperatives, municipalities, electrical districts and similar types of governmental or non-profit organizations.  In addition, some customers, particularly industrial and large commercial customers, may own and operate generation facilities to meet some or all of their own energy requirements.  This practice is becoming more popular with customers installing or having installed products such as rooftop solar panels to meet or supplement their energy needs.
+ 
+On April 14, 2010, the ACC issued a decision holding that solar vendors that install and operate solar facilities for non-profit schools and governments pursuant to a specific type of contract that calculates payments based on the energy produced are not “public service corporations” under the Arizona Constitution, and are therefore not regulated by the ACC.  A second matter is pending with the ACC to determine whether that ruling should extend to solar providers who serve a broader customer base under the same business model.  Use of such products by customers within our territory would result in an increasing level of competition.  APS cannot predict when, and the extent to which, additional electric service providers will enter or re-enter APS’s service territory.
+ 
+In 1999, the ACC approved rules for the introduction of retail electric competition in Arizona.  As a result, as of January 1, 2001, all of APS’s retail customers were eligible to choose alternate energy suppliers.  Although some very limited retail competition existed in APS’s service territory in
+ 
+15
+
+
+
+
+
+
+Table of Contents
+ 
+1999 and 2000, there are currently no active retail competitors offering unbundled energy or other utility services to APS’s customers.  In 2000, the Arizona Superior Court found that the rules were in part unconstitutional and in other respects unlawful, the latter finding being primarily on procedural grounds, and invalidated all ACC orders authorizing competitive electric services providers to operate in Arizona.  In 2004, the Arizona Court of Appeals invalidated some, but not all of the rules and upheld the invalidation of the orders authorizing competitive electric service providers.  In 2005, the Arizona Supreme Court declined to review the Court of Appeals’ decision.
+ 
+In 2008, the ACC directed the ACC staff to investigate whether such retail competition was in the public interest and what legal impediments remain to competition in light of the Court of Appeals’ decision referenced above.  The ACC staff’s report on the results of its investigation was issued on August 12, 2010.  The report stated that additional analysis, discussion and study of all aspects of the issue are required in order to perform a proper evaluation.  While the report did not make any specific recommendations other than to conduct more workshops, the report did state that the current retail electric competition rules are incomplete and in need of modification.
+ 
+On May 9, 2013, the ACC voted to re-examine the facilitation of a deregulated retail electric market in Arizona.  The ACC subsequently opened a docket for this matter and received comments from a number of interested parties on the considerations involved in establishing retail electric deregulation in the state.  One of these considerations is whether various aspects of a deregulated market, including setting utility rates on a “market” basis, would be consistent with the requirements of the Arizona Constitution.  On September 11, 2013, after receiving legal advice from the ACC staff, the ACC voted 4-1 to close the current docket and await full Arizona Constitutional authority before any further examination of this matter.  The motion approved by the ACC also included opening one or more new dockets in the future to explore options to offer more rate choices to customers and innovative changes within the existing cost-of-service regulatory model that could include elements of competition.  The ACC opened a new docket on November 4, 2013 to explore technological advances and innovative changes within the electric utility industry.  Workshops in this docket are expected to be held in 2014. 
+Wholesale
+ 
+FERC regulates rates for wholesale power sales and transmission services.  (See Note 3 for information regarding APS’s transmission rates.)  During 2013, approximately 5.4% of APS’s electric operating revenues resulted from such sales and services.  APS’s wholesale activity primarily consists of managing fuel and purchased power supplies to serve retail customer energy requirements.  APS also sells, in the wholesale market, its generation output that is not needed for APS’s Native Load and, in doing so, competes with other utilities, power marketers and independent power producers.  Additionally, subject to specified parameters, APS hedges both electricity and fuels.  The majority of these activities are undertaken to mitigate risk in APS’s portfolio.
+ 
+16
+
+
+
+
+
+
+Table of Contents
+ 
+Environmental Matters
+ 
+Climate Change
+ 
+Legislative Initiatives.  There have been no recent attempts by Congress to pass legislation that would regulate greenhouse gas (“GHG”) emissions, and it is unclear if and when the 113th Congress will consider a climate change bill.  In the event climate change legislation ultimately passes, the actual economic and operational impact of such legislation on APS depends on a variety of factors, none of which can be fully known until a law is enacted and the specifics of the resulting program are established.  These factors include the terms of the legislation with regard to allowed GHG emissions; the cost to reduce emissions; in the event a cap-and-trade program is established, whether any permitted emissions allowances will be allocated to source operators free of cost or auctioned (and, if so, the cost of those allowances in the marketplace) and whether offsets and other measures to moderate the costs of compliance will be available; and, in the event of a carbon tax, the amount of the tax per pound of carbon dioxide (“CO2”) equivalent emitted. 
+In addition to federal legislative initiatives, state-specific initiatives may also impact our business.  While Arizona has no pending legislation and no proposed agency rule regulating GHGs in Arizona, the California legislature enacted AB 32 and SB 1368 in 2006 to address GHG emissions.  In October 2011, the California Air Resources Board approved final regulations that established a state-wide cap on GHG emissions beginning on January 1, 2013 and established a GHG allowance trading program under that cap.  The first phase of the program, which applies to, among other entities, importers of electricity, commenced on January 1, 2013.  Under the program, entities selling electricity into California, including APS, must hold carbon allowances to cover GHG emissions associated with electricity sales into California from outside the state.  APS is authorized to recover the cost of these carbon allowances through the PSA. 
+We continue to monitor Arizona regulatory activities and other state legislative developments to understand the extent to which they may affect our business, including our sales into the impacted states or the ability of our out-of-state power plant participants to continue their participation in certain coal-fired power plants.  In particular, SCE, a prior participant in Four Corners, indicated that SB 1368 may prohibit it from making emission control expenditures at the plant and, as a result, SCE sold its entire 48% interest in each of Units 4 and 5 of Four Corners to APS on December 30, 2013.  (See “Energy Sources and Resource Planning — Generation Facilities — Coal-Fueled Generating Facilities — Four Corners” above for details of the sale of SCE’s interest in Four Corners to APS.)
+ 
+Regulatory Initiatives.  In 2009, EPA determined that GHG emissions endanger public health and welfare.  This determination was made in response to a 2007 United States Supreme Court ruling that GHGs fit within the Clean Air Act’s broad definition of “air pollutant” and, as a result, EPA has the authority to regulate GHG emissions of new motor vehicles under the Clean Air Act.  As a result of this “endangerment finding,” EPA determined that the Clean Air Act required new regulatory requirements for new and modified major GHG emitting sources, including power plants.  EPA issued a rule under the Clean Air Act, known as the “tailoring rule,” establishing new GHG emissions thresholds that determine when sources, including power plants, must obtain air operating permits or New Source Review permits.  “New Source Review,” or “NSR,” is a pre-construction permitting program under the Clean Air Act that requires analysis of pollution controls prior to building a new stationary source or making major modifications to an existing stationary source.  The tailoring rule became applicable to power plants in January 2011.  Several groups filed lawsuits challenging EPA’s endangerment finding and the tailoring rule, but the D.C. Circuit upheld these rules.  Petitioners asked 
+17
+
+
+
+
+
+
+Table of Contents
+ 
+the United States Supreme Court to reverse all or part of the appeals court’s decision upholding EPA’s GHG rules.  On October 15, 2013, the Supreme Court granted these petitions limiting the question it would review to whether EPA permissibly determined that its regulation of GHG emissions from new motor vehicles triggered permitting requirements under the Clean Air Act for stationary sources that emit such gasses, including power plants.  The Court is expected to issue its decision in the case no later than mid-2014.
+ 
+APS does not expect that any resulting Supreme Court decision or the tailoring rule will have a significant impact on its current operations.  The rule will require APS to consider the impact of GHG emissions as part of its traditional NSR analysis for new sources and major modifications to existing plants.
+ 
+On June 25, 2013, President Obama unveiled his Climate Action Plan addressing his plans to reduce GHG emissions in the United States.  While the plan identifies a wide range of strategies for cutting GHG emissions, most important to APS and the electric utility industry is the implementation of carbon pollution standards for new, modified, and existing fossil-fired electric generating units.  Concurrent with the President’s speech, the White House issued a Presidential Memorandum directing EPA to use its existing authorities under the Clean Air Act to develop GHG emission standards for new, modified, and existing power plants.  The Presidential Memorandum directs EPA to propose GHG emission standards for modified and existing units by June 1, 2014 and to finalize them by June 1, 2015.  The memorandum further directed EPA to reissue proposed standards of performance for new power plants by September 20, 2013 and to finalize them in a timely fashion. 
+Consistent with President Obama’s June 2013 directive, pursuant to its authority under the Clean Air Act and its endangerment finding, on September 20, 2013, EPA issued a proposed rule, which would establish New Source Performance Standards (“NSPS”) for new fossil-fired power plants.  Once finalized, APS does not expect that the GHG NSPS will have any material impact on its current operations.  EPA indicated in its proposal that the rule will not apply to modified or reconstructed electric generating units, which are to be addressed in a subsequent rulemaking.  We cannot currently predict the shape of any final rules or standards for existing fossil-fired power plants or assess how they might potentially impact the company.  APS will continue to monitor these standards as they are developed.
+ 
+Company Response to Climate Change Initiatives.  We have undertaken a number of initiatives to address emission concerns, including renewable energy procurement and development, promotion of programs and rates that promote energy conservation, renewable energy use, and energy efficiency.  (See “Energy Sources and Resource Planning — Current and Future Resources” above for details of these plans and initiatives.)  APS currently has a diverse portfolio of renewable resources, including solar, wind, geothermal, biogas, and biomass, and we expect the percentage of renewable energy in our resource portfolio to increase over the coming years.
+ 
+APS prepares an inventory of GHG emissions from its operations.  This inventory is reported to EPA under the EPA GHG Reporting Program and is voluntarily communicated to the public in Pinnacle West’s annual Corporate Responsibility Report, which is available on our website (www.pinnaclewest.com).  The report provides information related to the Company and its approach to sustainability and its workplace and environmental performance.  The information on Pinnacle West’s website, including the Corporate Responsibility Report, is not incorporated by reference into this report.
+ 
+18
+
+
+
+
+
+
+Table of Contents
+ 
+EPA Environmental Regulation
+ 
+Regional Haze Rules.  In 1999, EPA announced regional haze rules to reduce visibility impairment in national parks and wilderness areas.  The rules require states (or, for sources located on tribal land, EPA) to determine what pollution control technologies constitute the Best Available Retrofit Technology (“BART”) for certain older major stationary sources, including fossil-fired power plants.  EPA subsequently issued the Clean Air Visibility Rule, which provides guidelines on how to perform a BART analysis.
+ 
+The Four Corners and Navajo Plant participants’ obligations to comply with EPA’s final BART determinations (and Cholla’s obligations to comply with ADEQ’s and EPA’s determinations), coupled with the financial impact of potential future climate change legislation, other environmental regulations, and other business considerations, could jeopardize the economic viability of these plants or the ability of individual participants to continue their participation in these plants.
+ 
+Cholla.  In 2007, ADEQ required APS to perform a BART analysis for Cholla pursuant to the Clean Air Visibility Rule.  APS completed the BART analysis for Cholla and submitted its BART recommendations to ADEQ in early 2008.  The recommendations include the installation of certain pollution control equipment that APS believes constitutes BART.  ADEQ reviewed APS’s recommendations and submitted its proposed BART State Implementation Plan (“SIP”) for Cholla and other sources in Arizona in early 2011.
+ 
+On December 2, 2011, EPA provided notice of a proposed consent decree to address a lawsuit filed by a number of environmental non-governmental organizations, which alleged that EPA failed to promulgate Federal Implementation Plans (“FIPs”) for states that have not yet submitted all or part of the required regional haze SIPs.  In accordance with the consent decree, on December 5, 2012, EPA issued a final BART rule applicable to Cholla.  EPA approved ADEQ’s BART emissions limits for sulfur dioxide (“SO2”) and emissions of particulate matter (“PM”), but added a SO2 removal efficiency requirement of 95%.  In addition, EPA disapproved ADEQ’s BART determinations for oxides of nitrogen (“NOx”) and promulgated a FIP establishing a new, more stringent “bubbled” NOx emission rate applicable to the two BART-eligible Cholla units owned by APS and the other BART-eligible unit owned by PacifiCorp.  In order to comply with this new rate, APS will be required to install SCR control technology on all three of the Cholla units.  APS’s total costs for these post-combustion NOx controls would be approximately $200 million.  This amount is not included in our current estimates for environmental capital expenditures in “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Capital Expenditures” in Item 7.  Under the FIP, APS has five years from December 2012 to complete installation of the equipment and achieve the BART emission limit for NOx. 
+APS believes that EPA’s final rule as it applies to Cholla is unsupported and that EPA had no basis for disapproving Arizona’s SIP and promulgating a FIP that is inconsistent with the state’s considered BART determinations under the regional haze program.  Accordingly, on February 1, 2013, APS filed a Petition for Review of the final BART rule in the United States Court of Appeals for the Ninth Circuit.  We expect briefing in the case to be completed in February 2014.
+ 
+Four Corners.  On August 6, 2012, EPA issued its final BART determination for Four Corners.  The rule included two compliance options.  On December 30, 2013, APS notified EPA that the Four Corners participants selected the BART alternative, which required APS to retire Four Corners Units 1-3 by January 1, 2014 and install and operate SCR control technology on Units 4
+ 
+19
+
+
+
+
+
+
+Table of Contents
+ 
+and 5 by July 31, 2018.  Consistent with this alternative, APS retired Four Corners Units 1-3 on December 30, 2013.  APS’s 63% share of the costs for these controls is estimated to be approximately $350 million.  Approximately half of these costs are included in the capital expenditure estimates in “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Capital Expenditures” in Item 7 because APS expects to incur that portion of the costs during the 2014 through 2016 timeframe.  For PM emissions, EPA is requiring Units 4 and 5 to meet an emission limit of 0.015 lb/MMBtu and a 20% opacity limit, both of which are achievable through operation of the existing baghouses.  Although unrelated to BART, the final BART rule also imposes a 20% opacity limitation on certain fugitive dust emissions from Four Corners’ coal and material handling operations. 
+On October 22, 2012, WildEarth Guardians filed a petition for review in the United States Court of Appeals for the Ninth Circuit alleging that EPA violated the Endangered Species Act (“ESA”) when it promulgated the final Four Corners BART FIP.  The court granted APS’s motion for leave to intervene as a defendant in the case.  A decision is expected before the end of 2014.  We cannot currently predict the outcome of this case or whether such outcome will have a material adverse impact on our financial position, results of operations, or cash flows.
+ 
+Navajo Plant.  On January 18, 2013, EPA issued a proposed BART rule for the Navajo Plant, which would require installation of SCR technology in order to achieve a new, more stringent plant-wide NOx emission limit.  Under the proposal, the Navajo Plant participants would have up to five years after EPA issues its final determinations to achieve compliance with the BART requirements.  APS’s total costs for post-combustion NOx controls could be up to approximately $200 million.  The majority of these costs are not included in the capital expenditure estimates described in “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Capital Expenditures” in Item 7 because APS expects to incur such costs in years following 2016.  EPA’s proposal also includes an “Alternative to BART,” which would provide the Navajo Plant with additional time to install the SCR technology.  Under this “better than BART” alternative, the Navajo Plant participants would be required to install SCR technology on one unit per year in each of 2021, 2022, and 2023.  In response to EPA’s request for comments on other options that could set longer time frames for installing pollution controls if the Navajo Plant can achieve additional emission reductions, on July 26, 2013, a group of stakeholders, including SRP, the operating agent for the Navajo Plant, submitted to EPA two suggested alternatives to BART, which would achieve greater NOx emission reductions than EPA’s proposed BART rule.  If the rule is finalized as proposed, depending on which alternate operating scenario the Navajo Plant participants ultimately select, the required NOx emission reductions could be achieved by either closing one of the three 750 MW units at the plant or curtailing energy production across all three units, such that the emission reductions are commensurate with the closure of approximately one of the Navajo Plant units.  On September 25, 2013, EPA issued a supplemental BART proposal proposing to determine that these alternatives are “better than BART” because NOx emissions that would be achieved thereunder would result in greater reasonable progress toward the national visibility goal than EPA’s proposed BART determination. 
+Mercury and other Hazardous Air Pollutants.  On December 16, 2011, EPA issued the final Mercury and Air Toxics Standards (“MATS”), which established maximum achievable control technology (“MACT”) standards to regulate emissions of mercury and other hazardous air pollutants from fossil-fired power plants.  Generally, plants will have three years after the effective date of the rule to achieve compliance.  In the case of Cholla, APS will have a total of four years after the MATS’ effective date to comply with the new MACT standards, because on September 24, 2012, the permitting authority granted APS’s request for a one-year compliance date extension.  Similarly, SRP
+ 
+20
+
+
+
+
+
+
+Table of Contents
+ 
+will have until April 16, 2016 to comply with MATS at the Navajo Plant, as a result of a one-year extension granted by EPA and the Navajo Nation EPA on January 27, 2014.
+ 
+The MATS will require APS to install additional pollution control equipment.  APS has installed certain of the equipment necessary to meet the anticipated standards.  APS estimates that the cost for the remaining equipment necessary to meet these standards is approximately $120 million for Cholla Units 2 and 3.  These costs are not included in the capital expenditure estimates described in “Management’s Discussion and Analysis of Financial Condition and Results of Operations —  Capital Expenditures” in Item 7.  No additional equipment is needed for Four Corners Units 4 and 5 to comply with these rules.  SRP, the operating agent for the Navajo Plant, is still evaluating compliance options under the rules.
+ 
+Cooling Water Intake Structures.  EPA issued its proposed cooling water intake structures rule on April 20, 2011, which provides national standards applicable to certain cooling water intake structures at existing power plants and other facilities pursuant to Section 316(b) of the Clean Water Act.  The proposed standards are intended to protect fish and other aquatic organisms by minimizing impingement mortality (the capture of aquatic wildlife on intake structures or against screens) and entrainment mortality (the capture of fish or shellfish in water flow entering and passing through intake structures).  To minimize impingement mortality, the proposed rule would require facilities, such as Four Corners and the Navajo Plant, to either demonstrate that impingement mortality at their cooling water intakes does not exceed a specified rate or reduce the flow at those structures to less than a specified velocity, and to take certain protective measures with respect to impinged fish.  To minimize entrainment mortality, the proposed rule would also require these facilities to conduct a “structured site-specific analysis” to determine what site-specific controls, if any, should be required.  Additional studies and a peer review process will also be required at these facilities. 
+As proposed, existing facilities subject to the rule would have to comply with the impingement mortality requirements as soon as possible, but in no event later than eight years after the effective date of the rule, and would have to comply with the entrainment requirements as soon as possible under a schedule of compliance established by the permitting authority.  APS is performing analyses to determine the costs of compliance with the proposed rule.  EPA will issue the final standards upon completion of its ongoing ESA consultations with the U.S. Fish and Wildlife Service and National Marine Fisheries Service and is working to finalize the standards by April 2014.
+ 
+Coal Combustion Waste.  On June 21, 2010, EPA released its proposed regulations governing the handling and disposal of coal combustion residuals (“CCRs”), such as fly ash and bottom ash.  APS currently disposes of CCRs in ash ponds and dry storage areas at Cholla and Four Corners, and also sells a portion of its fly ash for beneficial reuse as a constituent in concrete production.  EPA proposes regulating CCRs as either non-hazardous waste under Subtitle D of the Resource Conservation and Recovery Act (“RCRA”) or hazardous waste under Subtitle C of RCRA and requested comments on three different alternatives.  The hazardous waste proposal would phase out the use of ash ponds for disposal of CCRs. The other two proposals would regulate CCRs as non-hazardous waste and impose performance standards for ash disposal.  One of these proposals would require retrofitting or closure of currently unlined ash ponds, while the other proposal would not require the installation of liners or pond closures.  EPA has not yet indicated a preference for any of the alternatives. 
+In April 2012, a coalition of environmental groups filed suit to compel EPA to finalize its proposed CCR rule.  Soon thereafter, coal ash recyclers filed similar lawsuits against EPA, which were consolidated with the environmental groups’ lawsuits.  On January 29, 2014, the parties in the CCR
+ 
+21
+
+
+
+
+
+
+Table of Contents
+ 
+deadline litigation filed a consent decree with the court obligating EPA to make a final decision by December 2014 whether or not to adopt the Subtitle D option for CCR.  The consent decree does not foreclose EPA from adopting the Subtitle C option.  We cannot currently predict the timing or content of EPA’s final rule or whether this action will have a material adverse impact on our financial position, results of operations, or cash flows.
+ 
+Effluent Limitation Guidelines.  On April 19, 2013, EPA proposed revised effluent limitation guidelines establishing technology-based wastewater discharge limitations for fossil-fired electric generating units.  EPA’s proposal offers numerous options (four of which are “preferred alternatives”) that target metals and other pollutants in wastewater streams originating from fly ash and bottom ash handling activities, scrubber activities, and non-chemical metal cleaning wastes operations.  The preferred alternatives differ with respect to the scope of requirements that would be applicable to existing discharges of pollutants found in wastestreams generated at existing power plants.  All four alternatives would establish a “zero discharge” effluent limit for all pollutants in fly ash transport water.  However, requirements governing bottom ash transport water differ depending on which alternative EPA ultimately chooses and could range from effluent limits based on Best Available Technology Economically Achievable to “zero discharge” effluent limits.  Depending on which alternative EPA finalizes, Four Corners may be required to change equipment and operating practices affecting boilers and ash handling systems, as well as change its waste disposal techniques.  We cannot currently predict the shape of EPA’s final rule or whether this action will have a material adverse impact on our financial position, results of operations, or cash flows.  EPA is currently subject to a consent decree deadline to finalize the revised guidelines by May 2014, although it is in negotiations to obtain an extension of time. 
+Ozone National Ambient Air Quality Standards.  In March 2008, EPA adopted new, more stringent eight-hour ozone standards, known as national ambient air quality standards (“NAAQS”).  In January 2010, EPA proposed to adopt even more stringent eight-hour ozone NAAQS.  However, the following year, President Obama decided to withdraw EPA’s revised ozone standards until completion of the next review.  EPA had a March 2013 deadline to complete its review of the 2008 ozone NAAQS, but failed to meet it.  Although EPA has not announced a timeline for its review, it may release new proposed standards in the second half of 2014.  As ozone standards become more stringent, our fossil generation units may come under increasing pressure to reduce emissions of nitrogen oxides and volatile organic compounds and/or to generate emission offsets for new projects or facility expansions located in ozone nonattainment areas.  At this time, APS is unable to predict the timing of the final standards or what impact the adoption of these standards may have on its financial position, results of operations, or cash flows. 
+New Source Review.  On April 6, 2009, APS received a request from EPA under Section 114 of the Clean Air Act seeking detailed information regarding projects at and operations of Four Corners.  This request is part of an enforcement initiative that EPA has undertaken under the Clean Air Act.  EPA has taken the position that many utilities have made certain physical or operational changes at their plants that should have triggered additional regulatory requirements under the NSR provisions of the Clean Air Act.  Other electric utilities have received and responded to similar Section 114 requests, and several of them have been the subject of notices of violation and lawsuits by EPA.  APS responded to EPA’s request in August 2009 and is currently unable to predict any resulting actions the EPA may take, including any potential litigation. 
+Clean Air Act Citizen Lawsuit.  On October 4, 2011, Earthjustice, on behalf of several environmental non-governmental organizations, filed a lawsuit in the United States District Court for the District of New
+ 
+22
+
+
+
+
+
+
+Table of Contents
+ 
+Mexico against APS and the other Four Corners participants alleging violations of the NSR provisions of the Clean Air Act.  Subsequent to filing its original complaint, on January 6, 2012, Earthjustice filed an amended complaint adding claims for violations of the Clean Air Act’s NSPS program.  Among other things, the environmental plaintiffs seek to have the court enjoin operations at Four Corners until APS applies for and obtains any required NSR permits and complies with the NSPS.  The plaintiffs further request the court to order the payment of civil penalties, including a beneficial mitigation project.  On April 2, 2012, APS and the other Four Corners participants filed motions to dismiss.  The case is being held in abeyance while the parties seek to negotiate a settlement.  On March 30, 2013, upon joint motion of the parties, the court issued an order deeming the motions to dismiss withdrawn without prejudice during pendency of the stay.  At such time as the stay is lifted, APS and the other Four Corners participants may reinstate their motions to dismiss.  We are unable to determine a range of potential losses that are reasonably possible of occurring. 
+Superfund-Related Matters.  The Comprehensive Environmental Response, Compensation and Liability Act (“Superfund”) establishes liability for the cleanup of hazardous substances found contaminating the soil, water or air.  Those who generated, transported or disposed of hazardous substances at a contaminated site are among those who are potentially responsible parties (“PRPs”).  PRPs may be strictly, and often are jointly and severally, liable for clean-up.  On September 3, 2003, EPA advised APS that EPA considers APS to be a PRP in the Motorola 52nd Street Superfund Site, Operable Unit 3 (“OU3”) in Phoenix, Arizona.  APS has facilities that are within this Superfund site.  APS and Pinnacle West have agreed with EPA to perform certain investigative activities of the APS facilities within OU3.  In addition, on September 23, 2009, APS agreed with EPA and one other PRP to voluntarily assist with the funding and management of the site-wide groundwater remedial investigation and feasibility study work plan.  We estimate that our costs related to this investigation and study will be approximately $2 million.  We anticipate incurring additional expenditures in the future, but because the overall investigation is not complete and ultimate remediation requirements are not yet finalized, at the present time expenditures related to this matter cannot be reasonably estimated. 
+On August 6, 2013, the Roosevelt Irrigation District (“RID”) filed a lawsuit in Arizona District Court against APS and 24 other defendants, alleging that RID’s groundwater wells were contaminated by the release of hazardous substances from facilities owned or operated by the defendants.  The lawsuit also alleges that, under Superfund laws, the defendants are jointly and severally liable to RID.  The allegations against APS arise out of APS’s current and former ownership of facilities in and around OU3.  We are unable to determine a range of potential losses that are reasonably possible of occurring.
+ 
+Manufactured Gas Plant Sites.  Certain properties which APS now owns or which were previously owned by it or its corporate predecessors were at one time sites of, or sites associated with, manufactured gas plants.  APS is taking action to voluntarily remediate these sites.  APS does not expect these matters to have a material adverse effect on its financial position, results of operations or cash flows.
+ 
+23
+
+
+
+
+
+
+
+Table of Contents
+ 
+Navajo Nation Environmental Issues
+ 
+Four Corners and the Navajo Plant are located on the Navajo Reservation and are held under easements granted by the federal government, as well as leases from the Navajo Nation.  See “Energy Sources and Resource Planning — Generation Facilities — Coal-Fueled Generating Facilities” above for additional information regarding these plants.
+ 
+In July 1995, the Navajo Nation enacted the Navajo Nation Air Pollution Prevention and Control Act, the Navajo Nation Safe Drinking Water Act, and the Navajo Nation Pesticide Act (collectively, the “Navajo Acts”).  The Navajo Acts purport to give the Navajo Nation Environmental Protection Agency authority to promulgate regulations covering air quality, drinking water, and pesticide activities, including those activities that occur at Four Corners and the Navajo Plant.  On October 17, 1995, the Four Corners participants and the Navajo Plant participants each filed a lawsuit in the District Court of the Navajo Nation, Window Rock District, challenging the applicability of the Navajo Acts as to Four Corners and the Navajo Plant.  The Court has stayed these proceedings pursuant to a request by the parties, and the parties are seeking to negotiate a settlement. 
+In April 2000, the Navajo Nation Council approved operating permit regulations under the Navajo Nation Air Pollution Prevention and Control Act.  APS believes the Navajo Nation exceeded its authority when it adopted the operating permit regulations.  On July 12, 2000, the Four Corners participants and the Navajo Plant participants each filed a petition with the Navajo Supreme Court for review of these regulations.  Those proceedings have been stayed, pending the settlement negotiations mentioned above.  APS cannot currently predict the outcome of this matter.
+ 
+On May 18, 2005, APS, Salt River Project, as the operating agent for the Navajo Plant, and the Navajo Nation executed a Voluntary Compliance Agreement to resolve their disputes regarding the Navajo Nation Air Pollution Prevention and Control Act.  As a result of this agreement, APS sought, and the courts granted, dismissal of the pending litigation in the Navajo Nation Supreme Court and the Navajo Nation District Court, to the extent the claims relate to the Clean Air Act.  The agreement does not address or resolve any dispute relating to other Navajo Acts.  APS cannot currently predict the outcome of this matter.
+ 
+Water Supply
+ 
+Assured supplies of water are important for APS’s generating plants.  At the present time, APS has adequate water to meet its needs.  However, the Four Corners region, in which Four Corners is located, has been experiencing drought conditions that may affect the water supply for the plants if adequate moisture is not received in the watershed that supplies the area.  APS is continuing to work with area stakeholders to implement agreements to minimize the effect, if any, on future operations of the plant.  The effect of the drought cannot be fully assessed at this time, and APS cannot predict the ultimate outcome, if any, of the drought or whether the drought will adversely affect the amount of power available, or the price thereof, from Four Corners.
+ 
+Conflicting claims to limited amounts of water in the southwestern United States have resulted in numerous court actions, which, in addition to future supply conditions, have the potential to impact APS’s operations.
+ 
+San Juan River Adjudication.  Both groundwater and surface water in areas important to APS’s operations have been the subject of inquiries, claims, and legal proceedings, which will require 
+ 
+24
+
+
+
+
+
+
+Table of Contents
+ 
+a number of years to resolve.  APS is one of a number of parties in a proceeding, filed March 13, 1975, before the Eleventh Judicial District Court in New Mexico to adjudicate rights to a stream system from which water for Four Corners is derived.  An agreement reached with the Navajo Nation in 1985, however, provides that if Four Corners loses a portion of its rights in the adjudication, the Navajo Nation will provide, for an agreed upon cost, sufficient water from its allocation to offset the loss.  In addition, APS is a party to a water contract that allows the company to secure water for Four Corners in the event of a water shortage and is a party to a shortage sharing agreement, which provides for the apportionment of water supplies to Four Corners in the event of a water shortage in the San Juan River Basin.
+ 
+Gila River Adjudication.  A summons served on APS in early 1986 required all water claimants in the Lower Gila River Watershed in Arizona to assert any claims to water on or before January 20, 1987, in an action pending in Arizona Superior Court.  Palo Verde is located within the geographic area subject to the summons.  APS’s rights and the rights of the other Palo Verde participants to the use of groundwater and effluent at Palo Verde are potentially at issue in this action.  As operating agent of Palo Verde, APS filed claims that dispute the court’s jurisdiction over the Palo Verde participants’ groundwater rights and their contractual rights to effluent relating to Palo Verde.  Alternatively, APS seeks confirmation of such rights.  Several of APS’s other power plants are also located within the geographic area subject to the summons.  APS’s claims dispute the court’s jurisdiction over APS’s groundwater rights with respect to these plants.  Alternatively, APS seeks confirmation of such rights.  In November 1999, the Arizona Supreme Court issued a decision confirming that certain groundwater rights may be available to the federal government and Indian tribes.  In addition, in September 2000, the Arizona Supreme Court issued a decision affirming the lower court’s criteria for resolving groundwater claims.  Litigation on both of these issues has continued in the trial court.  In December 2005, APS and other parties filed a petition with the Arizona Supreme Court requesting interlocutory review of a September 2005 trial court order regarding procedures for determining whether groundwater pumping is affecting surface water rights.  The Arizona Supreme Court denied the petition in May 2007, and the trial court is now proceeding with implementation of its 2005 order.  No trial date concerning APS’s water rights claims has been set in this matter. 
+Little Colorado River Adjudication.  APS has filed claims to water in the Little Colorado River Watershed in Arizona in an action pending in the Apache County, Arizona, Superior Court, which was originally filed on September 5, 1985.  APS’s groundwater resource utilized at Cholla is within the geographic area subject to the adjudication and, therefore, is potentially at issue in the case.  APS’s claims dispute the court’s jurisdiction over its groundwater rights.  Alternatively, APS seeks confirmation of such rights.  Other claims have been identified as ready for litigation in motions filed with the court.  No trial date concerning APS’s water rights claims has been set in this matter.
+ 
+Although the above matters remain subject to further evaluation, APS does not expect that the described litigation will have a material adverse impact on its financial position, results of operations, or cash flows.
+ 
+BUSINESS OF OTHER SUBSIDIARIES
+ 
+Our other operating subsidiary, El Dorado, is not expected to contribute in any material way to our future financial performance, nor will it require any material amounts of capital over the next three years.  We continue to focus on our core utility business and streamlining the Company.
+ 
+25
+
+
+
+
+
+
+Table of Contents
+ 
+El Dorado
+ 
+El Dorado owns minority interests in several energy-related investments and Arizona community-based ventures.  El Dorado’s short-term goal is to prudently realize the value of its existing investments.  As of December 31, 2013, El Dorado had total assets of $15 million.
+ 
+SunCor
+ 
+In February 2012, our other first-tier subsidiary, SunCor, filed for protection under the United States Bankruptcy Code to complete an orderly liquidation of its business.  On March 25, 2013, the bankruptcy plan submitted to the court and agreed to by SunCor and its creditors (the “Joint Plan”) became effective.  The Joint Plan provides for the full release of Pinnacle West and its affiliates from any and all claims related to SunCor, SunCor’s subsidiaries, and their respective estates.  SunCor and its subsidiaries are in the process of being formally dissolved.
+ 
+OTHER INFORMATION
+ 
+Pinnacle West, APS and El Dorado are all incorporated in the State of Arizona.  Additional information for each of these companies is provided below:
+ 
+
+
+
+     
+
+     
+
+Principal Executive Office   Address    
+
+     
+
+Year of   Incorporation    
+
+     
+
+Approximate   Number of   Employees at   December 31, 2013       
+
+
+Pinnacle   West    
+
+     
+
+400   North Fifth Street   Phoenix, AZ 85004    
+
+     
+
+1985    
+
+     
+
+81       
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+APS    
+
+     
+
+400   North Fifth Street   P.O. Box 53999   Phoenix, AZ 85072-3999    
+
+     
+
+1920    
+
+     
+
+6,352       
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+El   Dorado    
+
+     
+
+400   North Fifth Street   Phoenix, AZ 85004    
+
+     
+
+1983    
+
+     
+
+—       
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Total    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+6,433         
+ 
+The APS number includes employees at jointly-owned generating facilities (approximately 2,865 employees) for which APS serves as the generating facility manager.  Approximately 1,797 APS employees are union employees.  APS entered into a three-year collective bargaining agreement with union employees in the fossil generation, energy delivery and customer service business areas that expires in April 2014.  The Company is currently engaged in discussions with union representatives to enter into an extension of the current agreement.  In January 2013, the Palo Verde security officers voted to change their collective bargaining representative from the Security, Police and Fire Professionals of America to the United Security Professionals of America (“USPA”), and the National Labor Relations Board certified the results.  The Company is currently engaged in negotiations with the USPA over the terms of a new collective bargaining agreement. 
+26
+
+
+
+
+
+
+Table of Contents
+ 
+WHERE TO FIND MORE INFORMATION
+ 
+We use our website (www.pinnaclewest.com) as a channel of distribution for material Company information.  The following filings are available free of charge on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”):  Annual Reports on Form 10-K, definitive proxy statements for our annual shareholder meetings, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports.  Our board and committee charters, Code of Ethics for Financial Executives, Code of Ethics and Business Practices and other corporate governance information is also available on the Pinnacle West website.  Pinnacle West will post any amendments to the Code of Ethics for Financial Executives and Code of Ethics and Business Practices, and any waivers that are required to be disclosed by the rules of either the SEC or the New York Stock Exchange, on its website.  The information on Pinnacle West’s website is not incorporated by reference into this report. 
+You can request a copy of these documents, excluding exhibits, by contacting Pinnacle West at the following address:  Pinnacle West Capital Corporation, Office of the Corporate Secretary, Mail Station 8602, P.O. Box 53999, Phoenix, Arizona 85072-3999 (telephone 602-250-4400).
+ 
+ITEM 1A.  RISK FACTORS
+ 
+In addition to the factors affecting specific business operations identified in the description of these operations contained elsewhere in this report, set forth below are risks and uncertainties that could affect our financial results.  Unless otherwise indicated or the context otherwise requires, the following risks and uncertainties apply to Pinnacle West and its subsidiaries, including APS.
+ 
+REGULATORY RISKS
+ 
+Our financial condition depends upon APS’s ability to recover costs in a timely manner from customers through regulated rates and otherwise execute its business strategy.
+ 
+APS is subject to comprehensive regulation by several federal, state and local regulatory agencies that significantly influence its business, liquidity, results of operations and its ability to fully recover costs from utility customers in a timely manner.  The ACC regulates APS’s retail electric rates and FERC regulates rates for wholesale power sales and transmission services.  The profitability of APS is affected by the rates it may charge and the timeliness of recovering costs incurred through its rates.  Consequently, our financial condition and results of operations are dependent upon the satisfactory resolution of any APS rate proceedings and ancillary matters which may come before the ACC and FERC.  Arizona, like certain other states, has a statute that allows the ACC to reopen prior decisions and modify final orders under certain circumstances.  The ACC must also approve APS’s issuance of securities and any transfer of APS property used to provide retail electric service, and must approve or receive prior notification of certain transactions between us, APS and our respective affiliates.  Decisions made by the ACC or FERC could have a material adverse impact on our financial condition, results of operations or cash flows. 
+27
+
+
+
+
+
+
+Table of Contents
+ 
+APS’s ability to conduct its business operations and avoid fines and penalties depends upon compliance with federal, state or local statutes, regulations and ACC requirements, and obtaining and maintaining certain regulatory permits, approvals and certificates.
+ 
+APS must comply in good faith with all applicable statutes, regulations, rules, tariffs, and orders of agencies that regulate APS’s business, including FERC, NRC, EPA, the ACC and state and local governmental agencies.  These agencies regulate many aspects of APS’s utility operations, including safety and performance, emissions, siting and construction of facilities, customer service and the rates that APS can charge retail and wholesale customers.  Failure to comply can subject APS to, among other things, fines and penalties.  For example, under the Energy Policy Act of 2005, FERC can impose penalties (up to one million dollars per day per violation) for failure to comply with mandatory electric reliability standards.  APS is also required to have numerous permits, approvals and certificates from these agencies.  APS believes the necessary permits, approvals and certificates have been obtained for its existing operations and that APS’s business is conducted in accordance with applicable laws in all material respects.  However, changes in regulations or the imposition of new or revised laws or regulations could have an adverse impact on our results of operations.  We are also unable to predict the impact on our business and operating results from pending or future regulatory activities of any of these agencies. 
+The operation of APS’s nuclear power plant exposes it to substantial regulatory oversight and potentially significant liabilities and capital expenditures.
+ 
+The NRC has broad authority under federal law to impose safety-related, security-related and other licensing requirements for the operation of nuclear generation facilities.  Events at nuclear facilities of other operators or impacting the industry generally may lead the NRC to impose additional requirements and regulations on all nuclear generation facilities, including Palo Verde.  As a result of the March 2011 earthquake and tsunamis that caused significant damage to the Fukushima Daiichi Nuclear Power Plant in Japan, various industry organizations are working to analyze information from the Japan incident and develop action plans for U.S. nuclear power plants.  Additionally, the NRC has been performing its own independent review of the events at Fukushima Daiichi, including a review of the agency’s processes and regulations in order to determine whether the agency should promulgate additional regulations and possibly make more fundamental changes to the NRC’s system of regulation.  We cannot predict when or if the NRC will complete its formal actions as a result of its review.  As a result of the Fukushima event, however, the NRC has directed nuclear power plants to implement the first tier recommendations of the NRC’s Near Term Task Force.  In response to these recommendations, Palo Verde expects to spend approximately $100 million for capital enhancements to the plant over the next several years (APS’s share is 29.1%).  We cannot predict whether these amounts will increase or whether additional financial and/or operational requirements on Palo Verde and APS may be imposed. 
+In the event of noncompliance with its requirements, the NRC has the authority to impose a progressively increased inspection regime that could ultimately result in the shut-down of a unit or civil penalties, or both, depending upon the NRC’s assessment of the severity of the situation, until compliance is achieved.  The increased costs resulting from penalties, a heightened level of scrutiny and implementation of plans to achieve compliance with NRC requirements may adversely affect APS’s financial condition, results of operations and cash flows.
+ 
+28
+
+
+
+
+
+
+Table of Contents
+ 
+APS is subject to numerous environmental laws and regulations, and changes in, or liabilities under, existing or new laws or regulations may increase APS’s cost of operations or impact its business plans.
+ 
+APS is, or may become, subject to numerous environmental laws and regulations affecting many aspects of its present and future operations, including air emissions, water quality, discharges of wastewater and streams originating from fly ash and bottom ash handling facilities, solid waste, hazardous waste, and coal combustion products, which consist of bottom ash, fly ash, and air pollution control wastes.  These laws and regulations can result in increased capital, operating, and other costs, particularly with regard to enforcement efforts focused on power plant emissions obligations.  These laws and regulations generally require APS to obtain and comply with a wide variety of environmental licenses, permits, and other approvals.  If there is a delay or failure to obtain any required environmental regulatory approval, or if APS fails to obtain, maintain, or comply with any such approval, operations at affected facilities could be suspended or subject to additional expenses.  In addition, failure to comply with applicable environmental laws and regulations could result in civil liability as a result of government enforcement actions or private claims or criminal penalties.  Both public officials and private individuals may seek to enforce applicable environmental laws and regulations.  APS cannot predict the outcome (financial or operational) of any related litigation that may arise. 
+Environmental Clean Up.  APS has been named as a PRP for a Superfund site in Phoenix, Arizona, and it could be named a PRP in the future for other environmental clean-up at sites identified by a regulatory body.  APS cannot predict with certainty the amount and timing of all future expenditures related to environmental matters because of the difficulty of estimating clean-up costs.  There is also uncertainty in quantifying liabilities under environmental laws that impose joint and several liability on all PRPs.
+ 
+Regional Haze.  APS has received final rulemakings imposing new requirements on Four Corners and Cholla and is currently awaiting a final rulemaking from EPA that could impose new requirements on the Navajo Plant.  EPA and ADEQ will require these plants to install pollution control equipment that constitutes BART to lessen the impacts of emissions on visibility surrounding the plants.  The financial impact of installing and operating the required pollution control equipment could jeopardize the economic viability of these plants or the ability of individual participants to continue their participation in these plants.
+ 
+Mercury and other Hazardous Air Pollutants.  EPA issued MATS to regulate emissions of mercury and other hazardous air pollutants from fossil-fired power plants.  The MATS will require APS to install additional pollution control equipment at Cholla and possibly the Navajo Plant.  The financial impact of installing and operating such equipment could jeopardize the economic viability of Cholla.
+ 
+Coal Ash.  EPA released proposed regulations governing the disposal of CCRs, which are generated as a result of burning coal and consist of, among other things, fly ash and bottom ash.  EPA proposed regulating CCRs as either non-hazardous or hazardous waste.  APS currently disposes of CCRs in ash ponds and dry storage areas at Four Corners and Cholla, and also sells a portion of its fly ash for beneficial reuse as a constituent in concrete products.  If EPA regulates CCRs as a hazardous solid waste or phases out APS’s ability to dispose of CCRs through the use of ash ponds, APS could incur significant costs for CCR disposal and may be unable to continue its sale of fly ash for beneficial reuse.
+ 
+29
+
+
+
+
+
+
+Table of Contents
+ 
+Effluent Limitation Guidelines.  EPA is expected to finalize revised effluent limitation guidelines establishing technology-based wastewater discharge limitations for fossil-fired electric generating units in 2014.  EPA has indicated that it expects the revised standards to target metals and other pollutants in wastewater streams originating from fly ash and bottom ash handling activities and scrubber-related operations.  APS currently disposes of fly ash waste and bottom ash in ash ponds at Four Corners.  Changes required by the rule could significantly increase ash disposal costs at Four Corners.
+ 
+New Source Review.  EPA has taken the position that many projects electric utilities have performed are major modifications that trigger New Source Review requirements under the Clean Air Act.  The utilities generally have taken the position that these projects are routine maintenance, repair and replacement and did not result in emissions increases, and thus are not subject to New Source Review.  In 2009, APS received and responded to a request from EPA regarding projects and operations at Four Corners.  Several environmental non-governmental organizations filed suit against the Four Corners participants for alleged violations of New Source Review and the NSPS programs of the Clean Air Act.  If EPA seeks to impose New Source Review requirements at Four Corners or any other APS plant, or if the citizens groups prevail in their Clean Air Act lawsuit, capital investments could be required to install new pollution control technologies.  EPA could also seek civil penalties. 
+APS cannot assure that existing environmental regulations will not be revised or that new regulations seeking to protect the environment will not be adopted or become applicable to it.  Revised or additional regulations that result in increased compliance costs or additional operating restrictions, particularly if those costs incurred by APS are not fully recoverable from APS’s customers, could have a material adverse effect on its financial condition, results of operations or cash flows.  Due to current or potential future regulations or legislation, the economics of continuing to own certain resources, particularly coal facilities, may deteriorate, warranting early retirement of those plants, which may result in asset impairments.  APS would seek recovery in rates for the book value of any remaining investments in the plants as well as other costs related to early retirement, but cannot predict whether it would obtain such recovery. 
+APS faces physical and operational risks related to climate change, and potential financial risks resulting from climate change litigation and legislative and regulatory efforts to limit GHG emissions.
+ 
+Concern over climate change, deemed by many to be induced by rising levels of GHG in the atmosphere, has led to significant legislative and regulatory efforts to limit CO2, which is a major byproduct of the combustion of fossil fuel, and other GHG emissions.
+ 
+Financial Risks — Potential Greenhouse Gas Regulation.  EPA is taking action to regulate domestic GHG emissions and is expected to issue proposed regulations in mid-2014.  Any limitations on CO2 and other GHG emissions resulting from this regulatory effort could require substantial additional capital expenditures and operating costs and could have a material adverse impact on all fossil-fuel-fired generation facilities (particularly coal-fired facilities, which constitute approximately 30% of APS’s owned and leased generation capacity).
+ 
+At the state level, the California legislature enacted legislation to address GHG emissions and the California Air Resources Board approved regulations that established a cap-and-trade program for 
+ 
+30
+
+
+
+
+
+
+Table of Contents
+ 
+GHGs.  This legislation, regulations and other state-specific initiatives may affect APS’s business, including sales into the impacted states.
+ 
+Physical and Operational Risks.  Weather extremes such as drought and high temperature variations are common occurrences in the Southwest’s desert area, and these are risks that APS considers in the normal course of business in the engineering and construction of its electric system.  Large increases in ambient temperatures could require evaluation of certain materials used within its system and represent a greater challenge.
+ 
+Deregulation or restructuring of the electric industry may result in increased competition, which could have a significant adverse impact on APS’s business and its results of operations.
+ 
+In 1999, the ACC approved rules for the introduction of retail electric competition in Arizona.  Retail competition could have a significant adverse financial impact on APS due to an impairment of assets, a loss of retail customers, lower profit margins or increased costs of capital.  Although some very limited retail competition existed in APS’s service area in 1999 and 2000, there are currently no active retail competitors offering unbundled energy or other utility services to APS’s customers.  On May 9, 2013, the ACC voted to re-examine the facilitation of a deregulated retail electric market in Arizona.  The ACC subsequently opened a docket for this matter and received comments from a number of interested parties on the considerations involved in establishing retail electric deregulation in the state.  One of these considerations is whether various aspects of a deregulated market, including setting utility rates on a “market” basis, would be consistent with the requirements of the Arizona Constitution.  On September 11, 2013, after receiving legal advice from the ACC staff, the ACC voted 4-1 to close the current docket and await full Arizona Constitutional authority before any further examination of this matter.  The motion approved by the ACC also included opening one or more new dockets in the future to explore options to offer more rate choices to customers and innovative changes within the existing cost-of-service regulatory model that could include elements of competition.  One of these options could be a continuation or expansion of APS’s existing AG (Alternative Generation) — 1 program, which essentially allows up to 200 MW of cumulative load to be served via a buy-through arrangement with competitive suppliers of generation.  We cannot predict future regulatory or legislative action that might result in increased competition. 
+In 2010, the ACC issued a decision holding that solar vendors that install and operate solar facilities for non-profit schools and governments pursuant to a specific type of contract that calculates payments based on the energy produced are not “public service corporations” under the Arizona Constitution, and are therefore not regulated by the ACC.  A second matter is pending with the ACC to determine whether that ruling should extend to solar providers who serve a broader customer base under the same business model.  The use of such products by customers within our territory would result in some level of competition.  APS cannot predict whether the ACC will deem these vendors “public service corporations” subject to ACC regulation and when, and the extent to which, additional service providers will enter APS’s service territory, increasing the level of competition in the market. 
+OPERATIONAL RISKS
+ 
+APS’s results of operations can be adversely affected by various factors impacting demand for electricity.
+ 
+Weather Conditions.  Weather conditions directly influence the demand for electricity and affect the price of energy commodities.  Electric power demand is generally a seasonal business.  In 
+ 
+31
+
+
+
+
+
+
+Table of Contents
+ 
+Arizona, demand for power peaks during the hot summer months, with market prices also peaking at that time.  As a result, APS’s overall operating results fluctuate substantially on a seasonal basis.  In addition, APS has historically sold less power, and consequently earned less income, when weather conditions are milder.  As a result, unusually mild weather could diminish APS’s financial condition, results of operations and cash flows.
+ 
+Higher temperatures may decrease the snowpack, which might result in lowered soil moisture and an increased threat of forest fires.  Forest fires could threaten APS’s communities and electric transmission lines and facilities.  Any damage caused as a result of forest fires could negatively impact APS’s financial condition, results of operations or cash flows.
+ 
+Effects of Energy Conservation Measures and Distributed Energy.  The ACC has enacted rules regarding energy efficiency that mandate a 22% annual energy savings requirement by 2020.  This will likely increase participation by APS customers in energy efficiency and conservation programs and other demand-side management efforts, which in turn will impact the demand for electricity.  The rules also include a requirement for the ACC to review and address financial disincentives, recovery of fixed costs and the recovery of net lost income/revenue that would result from lower sales due to increased energy efficiency requirements.  To that end, the settlement agreement in APS’s most recent retail rate case (the “2012 Settlement Agreement”) includes a mechanism, the LFCR, to address these matters. 
+APS must also meet certain distributed energy requirements.  A portion of APS’s total renewable energy requirement must be met with an increasing percentage of distributed energy resources (generally, small scale renewable technologies located on customers’ properties).  The distributed energy requirement was 25% of the overall RES requirement of 3% in 2011 and increased to 30% of the applicable RES requirement for 2012 and subsequent years.  Customer participation in distributed energy programs would result in lower demand, since customers would be meeting some or all of their own energy needs.  Reduced demand due to these energy efficiency and distributed energy requirements, unless substantially offset through ratemaking mechanisms, could have a material adverse impact on APS’s financial condition, results of operations and cash flows.
+ 
+Customer and Sales Growth.  For the three years 2011 through 2013, APS’s retail customer growth averaged 1.0% per year.  We currently expect annual customer growth to average about 2.5% for 2014 through 2016 based on our assessment of modestly improving economic conditions, both nationally and in Arizona.  For the three years 2011 through 2013, APS experienced annual increases in retail electricity sales averaging 0.1%, adjusted to exclude the effects of weather variations.  We currently estimate that annual retail electricity sales in kWh will increase on average by about 1% during 2014 through 2016, including the effects of customer conservation and energy efficiency and distributed renewable generation initiatives, but excluding the effects of weather variations.  Actual customer and sales growth may differ from our projections as a result of numerous factors, such as economic conditions, customer growth and usage patterns, and the effects of energy efficiency and distributed energy programs and requirements.  Additionally, recovery of a substantial portion of our fixed costs of providing service is based upon the volumetric amount of our sales.  If our customer growth rate does not continue to improve as projected, or if it declines, or if the Arizona economy fails to improve, we may be unable to reach our estimated demand level and sales projections, which could have a negative impact on our financial condition, results of operations and cash flows. 
+32
+
+
+
+
+
+
+Table of Contents
+ 
+The operation of power generation facilities and transmission systems involves risks that could result in reduced output or unscheduled outages, which could materially affect APS’s results of operations.
+ 
+The operation of power generation, transmission and distribution facilities involves certain risks, including the risk of breakdown or failure of equipment, fuel interruption, and performance below expected levels of output or efficiency.  Unscheduled outages, including extensions of scheduled outages due to mechanical failures or other complications, occur from time to time and are an inherent risk of APS’s business.  Because our transmission facilities are interconnected with those of third parties, the operation of our facilities could be adversely affected by unexpected or uncontrollable events occurring on the larger transmission power grid, and the operation or failure of our facilities could adversely affect the operations of others.  If APS’s facilities operate below expectations, especially during its peak seasons, it may lose revenue or incur additional expenses, including increased purchased power expenses.  Concerns over physical security of these assets is also increasing, which may require us to incur additional capital and operating costs to address. Damage to certain of our facilities due to vandalism or other deliberate acts could lead to outages or other adverse effects. 
+The inability to successfully develop or acquire generation resources to meet reliability requirements, new or evolving standards or regulations could adversely impact our business.
+ 
+Potential changes in regulatory standards, impacts of new and existing laws and regulations, including environmental laws and regulations, and the need to obtain certain regulatory approvals create uncertainty surrounding our generation portfolio.  The current abundance of low, stably priced natural gas, together with environmental and other concerns surrounding coal-fired generation resources, create strategic questions related to the appropriate generation portfolio and fuel diversification mix.  In addition, APS is required by the ACC to meet certain energy resource portfolio requirements such as the EES and the RES.  The development of any generation facility is subject to many risks, including risks related to financing, siting, permitting, technology, the construction of sufficient transmission capacity to support these facilities and stresses to generation and transmission resources from intermittent generation characteristics of renewable resources.  APS’s inability to adequately develop or acquire the necessary generation resources could have a material adverse impact on our business and results of operations. 
+The lack of access to sufficient supplies of water could have a material adverse impact on APS’s business and results of operations.
+ 
+Assured supplies of water are important for APS’s generating plants.  Water in the southwestern United States is limited, and various parties have made conflicting claims regarding the right to access and use such limited supply of water.  Both groundwater and surface water in areas important to APS’s generating plants have been and are the subject of inquiries, claims and legal proceedings.  In addition, the region in which APS’s power plants are located is prone to drought conditions, which could potentially affect the plants’ water supplies.  APS’s inability to access sufficient supplies of water could have a material adverse impact on our business and results of operations.
+ 
+33
+
+
+
+
+
+
+
+Table of Contents
+ 
+The ownership and operation of power generation and transmission facilities on Indian lands could result in uncertainty related to continued leases, easements and rights-of-way, which could have a significant impact on our business.
+ 
+Certain APS power plants, including Four Corners, and portions of the transmission lines that carry power from these plants are located on Indian lands pursuant to leases, easements or other rights-of-way that are effective for specified periods.  APS is currently unable to predict the final outcome of pending and future approvals by applicable governing bodies with respect to renewals of these leases, easements and rights-of-way.
+ 
+There are inherent risks in the ownership and operation of nuclear facilities, such as environmental, health, fuel supply, spent fuel disposal, regulatory and financial risks and the risk of terrorist attack.
+ 
+APS has an ownership interest in and operates, on behalf of a group of participants, Palo Verde, which is the largest nuclear electric generating facility in the United States.  Palo Verde constitutes approximately 18% of our owned and leased generation capacity.  Palo Verde is subject to environmental, health and financial risks, such as the ability to obtain adequate supplies of nuclear fuel; the ability to dispose of spent nuclear fuel; the ability to maintain adequate reserves for decommissioning; potential liabilities arising out of the operation of these facilities; the costs of securing the facilities against possible terrorist attacks; and unscheduled outages due to equipment and other problems.  APS maintains nuclear decommissioning trust funds and external insurance coverage to minimize its financial exposure to some of these risks; however, it is possible that damages could exceed the amount of insurance coverage.  In addition, APS may be required under federal law to pay up to $111 million (but not more than $16.4 million per year) of liabilities arising out of a nuclear incident occurring not only at Palo Verde, but at any other nuclear power plant in the United States. Although we have no reason to anticipate a serious nuclear incident at Palo Verde, if an incident did occur, it could materially and adversely affect our results of operations and financial condition.  A major incident at a nuclear facility anywhere in the world could cause the NRC to limit or prohibit the operation or licensing of any domestic nuclear unit and to promulgate new regulations that could require significant capital expenditures and/or increase operating costs. 
+The use of derivative contracts in the normal course of our business could result in financial losses that negatively impact our results of operations.
+ 
+APS’s operations include managing market risks related to commodity prices.  APS is exposed to the impact of market fluctuations in the price and transportation costs of electricity, natural gas and coal to the extent that unhedged positions exist.  We have established procedures to manage risks associated with these market fluctuations by utilizing various commodity derivatives, including exchange traded futures and options and over-the-counter forwards, options, and swaps.  As part of our overall risk management program, we enter into derivative transactions to hedge purchases and sales of electricity and fuels.  The changes in market value of such contracts have a high correlation to price changes in the hedged commodity.  To the extent that commodity markets are illiquid, we may not be able to execute our risk management strategies, which could result in greater unhedged positions than we would prefer at a given time and financial losses that negatively impact our results of operations. 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) contains measures aimed at increasing the transparency and stability of the over-the counter, or OTC, derivative markets and preventing excessive speculation. The Dodd-Frank Act could restrict, among 
+ 
+34
+
+
+
+
+
+
+Table of Contents
+ 
+other things, trading positions in the energy futures markets, require different collateral or settlement positions, or increase regulatory reporting over derivative positions. Based on the provisions included in the Dodd-Frank Act and the implementation of regulations, these changes could, among other things, impact our ability to hedge commodity price and interest rate risk or increase the costs associated with our hedging programs.
+ 
+We are exposed to losses in the event of nonperformance or nonpayment by counterparties.  We use a risk management process to assess and monitor the financial exposure of all counterparties.  Despite the fact that the majority of APS’s trading counterparties are rated as investment grade by the rating agencies, there is still a possibility that one or more of these companies could default, which could result in a material adverse impact on our earnings for a given period.
+ 
+Changes in technology could create challenges for APS’s existing business.
+ 
+Research and development activities are ongoing to assess alternative technologies that produce power or reduce power consumption or emissions, including clean coal and coal gasification, renewable technologies including photovoltaic (solar) cells, customer-sited generation (solar), energy storage (batteries), and efficiency technologies, and improvements in traditional technologies and equipment, such as more efficient gas turbines.  Advances in these, or other technologies could reduce the cost of power production, making APS’s existing generating facilities less economical.  In addition, advances in technology and equipment/appliance efficiency could reduce the demand for power supply, which could adversely affect APS’s business.
+ 
+APS is pursuing and implementing smart grid technologies, including advanced transmission and distribution system technologies, as well as digital meters enabling two-way communications between the utility and its customers.  Many of the products and processes resulting from these and other alternative technologies have not yet been widely used or tested on a long-term basis, and their use on large-scale systems is not as advanced and established as APS’s existing technologies and equipment.  Widespread installation and acceptance of these technologies could enable the entry of new market participants, such as technology companies, into the interface between APS and its customers and could have other unpredictable effects on APS’s business.
+ 
+We are subject to employee workforce factors that could adversely affect our business and financial condition.
+ 
+Like most companies in the electric utility industry, our workforce is aging, with approximately 38% of employees eligible to retire by 2017.  Although we have undertaken efforts to recruit and train new employees, we face increased competition for talent.  We are subject to other employee workforce factors, such as the availability of qualified personnel, the need to negotiate collective bargaining agreements with union employees and potential work stoppages.  These or other employee workforce factors could negatively impact our business, financial condition or results of operations.
+ 
+We are subject to information security risks and risks of unauthorized access to our systems.
+ 
+In the regular course of our business, we handle a range of sensitive security, customer and business systems information. We are subject to laws and rules issued by different agencies concerning safeguarding and maintaining the confidentiality of this information. A security breach of our information systems such as theft or the inappropriate release of certain types of information, including 
+ 
+35
+
+
+
+
+
+
+Table of Contents
+ 
+confidential customer, employee, financial or system operating information, could have a material adverse impact on our financial condition, results of operations or cash flows.
+ 
+We operate in a highly regulated industry that requires the continued operation of sophisticated information technology systems and network infrastructure.  Despite implementation of security measures, our technology systems are vulnerable to disability, failures or unauthorized access.  Our generation, transmission and distribution facilities, information technology systems and other infrastructure facilities and systems and physical assets could be targets of such unauthorized access.  Failures or breaches of our systems could impact the reliability of our generation, transmission and distribution systems and also subject us to financial harm.  If our technology systems were to fail or be breached and if we are unable to recover in a timely way, we may not be able to fulfill critical business functions and sensitive confidential data could be compromised, which could have a material adverse impact on our financial condition, results of operations or cash flows. 
+The implementation of security measures could increase costs and have a material adverse impact on our financial results.  These types of events could also require significant management attention and resources, and could adversely affect Pinnacle West’s and APS’s reputation with customers and the public.  We obtained cyber insurance to provide coverage for a portion of the losses and damages that may result from a security breach of our information technology systems, but such insurance may not cover the total loss or damage caused by a breach.
+ 
+FINANCIAL RISKS
+ 
+Financial market disruptions or new financial rules or regulations may increase our financing costs or limit our access to various financial markets, which may adversely affect our liquidity and our ability to implement our financial strategy.
+ 
+Pinnacle West and APS rely on access to credit markets as a significant source of liquidity and the capital markets for capital requirements not satisfied by cash flow from our operations.  We believe that we will maintain sufficient access to these financial markets.  However, certain market disruptions or rules or regulations may increase our cost of borrowing generally, and/or otherwise adversely affect our ability to access these financial markets.
+ 
+In addition, the credit commitments of our lenders under our bank facilities may not be satisfied for a variety of reasons, including periods of financial distress or liquidity issues affecting our lenders, which could materially adversely affect the adequacy of our liquidity sources.
+ 
+Changes in economic conditions, monetary policy or other factors could result in higher interest rates, which would increase interest expense on our existing variable rate debt and new debt we expect to issue in the future, and thus reduce funds available to us for our current plans.  Additionally, an increase in our leverage could adversely affect us by:
+ 
+·                                          causing a downgrade of our credit ratings;
+·                                          increasing the cost of future debt financing and refinancing;
+·                                          increasing our vulnerability to adverse economic and industry conditions; and
+·                                          requiring us to dedicate an increased portion of our cash flow from operations to payments on our debt, which would reduce funds available to us for operations, future business opportunities or other purposes.
+ 
+36
+
+
+
+
+
+
+Table of Contents
+ 
+A downgrade of our credit ratings could materially and adversely affect our business, financial condition and results of operations.
+ 
+Our current ratings are set forth in “Liquidity and Capital Resources — Credit Ratings” in Item 7.  We cannot be sure that any of our current ratings will remain in effect for any given period of time or that a rating will not be lowered or withdrawn entirely by a rating agency if, in its judgment, circumstances in the future so warrant.  Any downgrade or withdrawal could adversely affect the market price of Pinnacle West’s and APS’s securities, limit our access to capital and increase our borrowing costs, which would diminish our financial results.  We would be required to pay a higher interest rate for future financings, and our potential pool of investors and funding sources could decrease.  In addition, borrowing costs under our existing credit facilities depend on our credit ratings.  A downgrade would also require us to provide additional support in the form of letters of credit or cash or other collateral to various counterparties.  If our short-term ratings were to be lowered, it could severely limit access to the commercial paper market.  We note that the ratings from rating agencies are not recommendations to buy, sell or hold our securities and that each rating should be evaluated independently of any other rating. 
+Investment performance, changing interest rates and other economic factors could decrease the value of our benefit plan assets and nuclear decommissioning trust funds and increase the valuation of our related obligations, resulting in significant additional funding requirements.  We are subject to risks related to the provision of employee healthcare benefits and recent healthcare reform legislation.  Any inability to fully recover these costs in our utility rates would negatively impact our financial condition.
+ 
+We have significant pension plan and other postretirement benefits plan obligations to our employees and retirees and legal obligations to fund nuclear decommissioning trusts for Palo Verde.  We hold and invest substantial assets in these trusts that are designed to provide funds to pay for certain of these obligations as they arise.  Declines in market values of the fixed income and equity securities held in these trusts may increase our funding requirements into the related trusts.  Additionally, the valuation of liabilities related to our pension plan and other postretirement benefit plans are impacted by a discount rate, which is the interest rate used to discount future pension and other postretirement benefit obligations.  Declining interest rates decrease the discount rate, increase the valuation of the plan liabilities and may result in increases in pension and other postretirement benefit costs, cash contributions, regulatory assets, and charges to OCI.  Changes in demographics, including increased numbers of retirements or changes in life expectancy and changes in other actuarial assumptions, may also increase the funding requirements of the obligations related to the pension and other postretirement benefit plans.  The minimum contributions required under these plans are impacted by federal legislation.  Increasing liabilities or otherwise increasing funding requirements under these plans, resulting from adverse changes in legislation or otherwise, could result in significant cash funding obligations that could have a material impact on our financial position, results of operations or cash flows. 
+We recover most of the pension costs and other postretirement benefit costs and all of the nuclear decommissioning costs in our regulated rates.  Any inability to fully recover these costs in a timely manner would have a material negative impact on our financial condition, results of operations or cash flows.
+ 
+Employee healthcare costs in recent years have continued to rise.  The Patient Protection and Affordable Care Act is expected to result in additional healthcare cost increases.  Costs and other 
+ 
+37
+
+
+
+
+
+
+Table of Contents
+ 
+effects of the legislation, which may include the cost of compliance and potentially increased costs of providing for medical insurance for our employees, cannot be determined with certainty at this time.  We will continue to monitor healthcare legislation and its impact on our plans and costs.
+ 
+Our cash flow depends on the performance of APS.
+ 
+We derive essentially all of our revenues and earnings from our wholly-owned subsidiary, APS.  Accordingly, our cash flow and our ability to pay dividends on our common stock is dependent upon the earnings and cash flows of APS and its distributions to us.  APS is a separate and distinct legal entity and has no obligation to make distributions to us.
+ 
+APS’s financing agreements may restrict its ability to pay dividends, make distributions or otherwise transfer funds to us.  In addition, an ACC financing order requires APS to maintain a common equity ratio of at least 40% and does not allow APS to pay common dividends if the payment would reduce its common equity below that threshold.  The common equity ratio, as defined in the ACC order, is total shareholder equity divided by the sum of total shareholder equity and long-term debt, including current maturities of long-term debt.
+ 
+Pinnacle West’s ability to meet its debt service obligations could be adversely affected because its debt securities are structurally subordinated to the debt securities and other obligations of its subsidiaries.
+ 
+Because Pinnacle West is structured as a holding company, all existing and future debt and other liabilities of our subsidiaries will be effectively senior in right of payment to our debt securities.  The assets and cash flows of our subsidiaries will be available, in the first instance, to service their own debt and other obligations.  Our ability to have the benefit of their cash flows, particularly in the case of any insolvency or financial distress affecting our subsidiaries, would arise only through our equity ownership interests in our subsidiaries and only after their creditors have been satisfied.
+ 
+The market price of our common stock may be volatile.
+ 
+The market price of our common stock could be subject to significant fluctuations in response to factors such as the following, some of which are beyond our control:
+ 
+·                                          variations in our quarterly operating results;
+·                                          operating results that vary from the expectations of management, securities analysts and investors;
+·                                          changes in expectations as to our future financial performance, including financial estimates by securities analysts and investors;
+·                                          developments generally affecting industries in which we operate;
+·                                          announcements by us or our competitors of significant contracts, acquisitions, joint marketing relationships, joint ventures or capital commitments;
+·                                          announcements by third parties of significant claims or proceedings against us;
+·                                          favorable or adverse regulatory or legislative developments;
+·                                          our dividend policy;
+·                                          future sales by the Company of equity or equity-linked securities; and
+·                                          general domestic and international economic conditions.
+ 
+38
+
+
+
+
+
+
+Table of Contents
+ 
+In addition, the stock market in general has experienced volatility that has often been unrelated to the operating performance of a particular company.  These broad market fluctuations may adversely affect the market price of our common stock.
+ 
+Certain provisions of our articles of incorporation and bylaws and of Arizona law make it difficult for shareholders to change the composition of our board and may discourage takeover attempts.
+ 
+These provisions, which could preclude our shareholders from receiving a change of control premium, include the following:
+ 
+·                                          restrictions on our ability to engage in a wide range of “business combination” transactions with an “interested shareholder” (generally, any person who owns 10% or more of our outstanding voting power or any of our affiliates or associates) or any affiliate or associate of an interested shareholder, unless specific conditions are met;
+ 
+·                                          anti-greenmail provisions of Arizona law and our bylaws that prohibit us from purchasing shares of our voting stock from beneficial owners of more than 5% of our outstanding shares unless specified conditions are satisfied;
+ 
+·                                          the ability of the Board of Directors to increase the size of the Board of Directors and fill vacancies on the Board of Directors, whether resulting from such increase, or from death, resignation, disqualification or otherwise; and
+ 
+·                                          the ability of our Board of Directors to issue additional shares of common stock and shares of preferred stock and to determine the price and, with respect to preferred stock, the other terms, including preferences and voting rights, of those shares without shareholder approval.
+ 
+While these provisions have the effect of encouraging persons seeking to acquire control of us to negotiate with our Board of Directors, they could enable the Board of Directors to hinder or frustrate a transaction that some, or a majority, of our shareholders might believe to be in their best interests and, in that case, may prevent or discourage attempts to remove and replace incumbent directors.
+ 
+ITEM 1B

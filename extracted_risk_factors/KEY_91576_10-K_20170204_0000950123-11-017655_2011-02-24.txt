@@ -1,0 +1,5464 @@
+Item 1A: Risk Factors in this report.
+
+
+
+
+
+ 
+
+
+    Any forward-looking statements made by us or on our behalf speak
+    only as of the date they are made, and we do not undertake any
+    obligation to update any forward-looking statement to reflect
+    the impact of subsequent events or circumstances. Before making
+    an investment decision, you should carefully consider all risks
+    and uncertainties disclosed in our SEC filings, including our
+    reports on
+    Forms 8-K,
+    10-K and
+    10-Q and our
+    registration statements under the Securities Act of 1933, as
+    amended, all of which are accessible on the SEC’s website
+    at www.sec.gov and on our website at www.Key.com/IR.
+
+
+ 
+
+
+
+
+
+    Overview
+
+
+ 
+
+
+    KeyCorp, organized in 1958 under the laws of the State of Ohio,
+    is headquartered in Cleveland, Ohio. We are a bank holding
+    company under the Bank Holding Company Act of 1956, as amended
+    (“BHCA”), and are one of the nation’s largest
+    bank-based financial services companies, with consolidated total
+    assets of $91.8 billion at December 31, 2010. KeyCorp
+    is the parent holding company for KeyBank National Association
+    (“KeyBank”), its principal subsidiary, through which
+    most of our banking services are provided. Through KeyBank and
+    certain other subsidiaries, we provide a wide range of retail
+    and commercial banking, commercial leasing, investment
+    management, consumer finance and investment banking products and
+    services to individual, corporate and institutional clients
+    through two major business segments: Key Community Bank and Key
+    Corporate Bank.
+
+
+ 
+
+
+    As of December 31, 2010, these services were provided
+    across the country through KeyBank’s 1,033 full-service
+    retail banking branches in fourteen states, additional offices,
+    a telephone banking call center services group and a network of
+    1,531 automated teller machines (“ATMs”) in fifteen
+    states. Additional information pertaining to our two business
+    segments is included in this report in Item 7.
+    Management’s Discussion and Analysis of Financial Condition
+    and Results of Operations (the “MD&A”), in the
+    “Line of Business Results” section, and in
+    Note 21 (“Line of Business Results”) of the Notes
+    to the Consolidated Financial Statements presented in
+    Item 8. Financial Statements and Supplementary Data are
+    incorporated herein by reference. KeyCorp and its subsidiaries
+    had an average of 15,610 full-time equivalent employees for
+    2010.
+
+
+ 
+
+
+    In addition to the customary banking services of accepting
+    deposits and making loans, our bank and trust company
+    subsidiaries offer personal and corporate trust services,
+    personal financial services, access to mutual funds, cash
+    management services, investment banking and capital markets
+    products, and international banking services. Through our bank,
+    trust company and registered investment adviser subsidiaries, we
+    provide investment management services to clients that include
+    large corporate and public retirement plans, foundations and
+    endowments,
+    high-net-worth
+    individuals and multi-employer trust funds established for
+    providing pension or other benefits to employees.
+
+
+ 
+
+
+    We provide other financial services — both within and
+    outside of our primary banking markets — through
+    various nonbank subsidiaries. These services include principal
+    investing, community development financing, securities
+    underwriting and brokerage, and merchant services. We also are
+    an equity participant in a joint venture that provides merchant
+    services to businesses.
+
+
+ 
+
+
+    KeyCorp is a legal entity separate and distinct from its banks
+    and other subsidiaries. Accordingly, the right of KeyCorp, its
+    security holders and its creditors to participate in any
+    distribution of the assets or earnings of its banks and other
+    subsidiaries is subject to the prior claims of the creditors of
+    such banks and other subsidiaries, except to the extent that
+    KeyCorp’s claims in its capacity as a creditor may be
+    recognized.
+
+
+ 
+
+
+
+
+
+    Additional
+    Information
+
+
+ 
+
+
+    A comprehensive list of acronyms and abbreviations used
+    throughout this report is included in Note 1 (“Summary
+    of Significant Accounting Policies”) in Item 8 of this
+    report.
+
+
+
+
+    
+    2
+
+
+
+Table of Contents
+
+
+
+
+
+    The following financial data is included in this report in the
+    MD&A and Item 8. Financial Statements and
+    Supplementary Data are incorporated herein by reference as
+    indicated below:
+
+
+ 
+
+
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Description of Financial
+    Data
+
+
+ 
+
+
+    Page(s)
+
+
+
+ 
+
+
+
+
+
+
+    Selected Financial Data
+
+
+
+ 
+
+
+ 
+
+
+    39
+
+
+ 
+
+
+
+
+
+    Consolidated Average Balance Sheets, Net Interest Income and
+    Yields/Rates From Continuing Operations
+
+
+
+ 
+
+
+ 
+
+
+    48-49
+
+
+ 
+
+
+
+
+
+    Components of Net Interest Income Changes from Continuing
+    Operations
+
+
+
+ 
+
+
+ 
+
+
+    50
+
+
+ 
+
+
+
+
+
+    Composition of Loans
+
+
+
+ 
+
+
+ 
+
+
+    56
+
+
+ 
+
+
+
+
+
+    Remaining Maturities and Sensitivity of Certain Loans to Changes
+    in Interest Rates
+
+
+
+ 
+
+
+ 
+
+
+    63
+
+
+ 
+
+
+
+
+
+    Securities Available for Sale
+
+
+
+ 
+
+
+ 
+
+
+    65
+
+
+ 
+
+
+
+
+
+    Held-to-Maturity
+    Securities
+
+
+
+ 
+
+
+ 
+
+
+    65
+
+
+ 
+
+
+
+
+
+    Maturity Distribution of Time Deposits of $100,000 or More
+
+
+
+ 
+
+
+ 
+
+
+    66
+
+
+ 
+
+
+
+
+
+    Allocation of the Allowance for Loan and Lease Losses
+
+
+
+ 
+
+
+ 
+
+
+    82
+
+
+ 
+
+
+
+
+
+    Summary of Loan and Lease Loss Experience from Continuing
+    Operations
+
+
+
+ 
+
+
+ 
+
+
+    84
+
+
+ 
+
+
+
+
+
+    Summary of Nonperforming Assets and Past Due Loans from
+    Continuing Operations
+
+
+
+ 
+
+
+ 
+
+
+    85
+
+
+ 
+
+
+
+
+
+    Exit Loan Portfolio from Continuing Operations
+
+
+
+ 
+
+
+ 
+
+
+    86
+
+
+ 
+
+
+
+
+
+    Asset Quality
+
+
+
+ 
+
+
+ 
+
+
+    110
+
+
+ 
+
+
+
+
+
+    Short-Term Borrowings
+
+
+
+ 
+
+
+ 
+
+
+    144
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+    Our executive offices are located at 127 Public Square,
+    Cleveland, Ohio
+    44114-1306,
+    and our telephone number is
+    (216) 689-3000.
+    Our website is www.Key.com, and the investor relations section
+    of our website may be reached through www.key.com/ir. We make
+    available free of charge, on or through the investor relations
+    links on our website, annual reports on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q
+    ,and current reports on
+    Form 8-K,
+    and amendments to those reports filed or furnished pursuant to
+    Section 13(a) or 15(d) of the U.S. Securities Exchange
+    Act of 1934, as amended, as well as proxy statements, as soon as
+    reasonably practicable after we electronically file such
+    material with, or furnish it to, the United States Securities
+    and Exchange Commission (the “SEC”). Also posted on
+    our website, and available in print upon request of any
+    shareholder to our Investor Relations Department, are the
+    charters for our Audit Committee, Compensation and Organization
+    Committee, Executive Committee, Nominating and Corporate
+    Governance Committee, and Risk Management Committee; our
+    Corporate Governance Guidelines; the Code of Ethics governing
+    our directors, officers and employees; our Standards for
+    Determining Independence of Directors; and our Limitation on
+    Luxury Expenditures Policy. Within the time period required by
+    the SEC and the New York Stock Exchange, we will post on our
+    website any amendment to the Code of Ethics and any waiver
+    applicable to any senior executive officer or director. We also
+    make available a summary of filings made with the SEC of
+    statements of beneficial ownership of our equity securities
+    filed by our directors and officers under Section 16 of the
+    Exchange Act.
+
+
+ 
+
+
+    Shareholders may obtain a copy of any of the above-referenced
+    corporate governance documents by writing to our Investor
+    Relations Department at Investor Relations, KeyCorp, 127 Public
+    Square, Mailcode OH-01-27-1113, Cleveland,
+    Ohio 44114-1306;
+    by calling
+    (216) 689-3000;
+    or by sending an
+    e-mail to
+    investor_relations@keybank.com.
+
+
+ 
+
+
+
+    Acquisitions
+    and Divestitures
+
+
+ 
+
+
+    The information presented in Note 13 (“Acquisition,
+    Divestiture, and Discontinued Operations”) is incorporated
+    herein by reference.
+
+
+ 
+
+
+
+
+
+    Competition
+
+
+ 
+
+
+    The market for banking and related financial services is highly
+    competitive. KeyCorp and its subsidiaries (“Key”)
+    compete with other providers of financial services, such as bank
+    holding companies, commercial banks, savings associations,
+    credit unions, mortgage banking companies, finance companies,
+    mutual funds, insurance companies, investment management firms,
+    investment banking firms, broker-dealers and other local,
+    regional and national institutions that offer financial
+    services. Many of our competitors enjoy fewer regulatory
+    constraints and some may have lower cost structures. The
+    financial services industry is likely to become more competitive
+    as further technology advances enable more companies to provide
+    financial services. Technological advances may diminish the
+    importance of depository institutions and other financial
+    institutions. We compete by offering quality products and
+    innovative services at competitive prices, and by maintaining
+    our products and services offerings to keep pace with customer
+    preferences and industry standards.
+
+
+ 
+
+
+    In recent years, mergers and acquisitions have led to greater
+    concentration in the banking industry, placing added competitive
+    pressure on Key’s core banking products and services.
+    Consolidation continued during 2010 and led to redistribution of
+    deposits and certain banking assets to larger financial
+    institutions. Financial institutions with liquidity challenges
+    sought mergers and the
+
+
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+    deposits and certain banking assets of the 157 banks that failed
+    during 2010, representing $96.7 billion in total assets,
+    were redistributed through the FDIC’s least-cost resolution
+    process. These factors have intensified the concentration of the
+    industry over the last few years and placed increased
+    competitive pressure on Key’s core banking products and
+    services.
+
+
+ 
+
+
+
+
+
+    Supervision
+    and Regulation
+
+
+ 
+
+
+    The following discussion addresses elements of the regulatory
+    framework applicable to bank holding companies, financial
+    holding companies and their subsidiaries and provides certain
+    specific information regarding material elements of the
+    regulatory framework applicable to us. This regulatory framework
+    is intended primarily to protect customers and depositors, the
+    Deposit Insurance Fund (the “DIF”) of the FDIC and the
+    banking system as a whole, rather than for the protection of
+    security holders and creditors. We cannot necessarily predict
+    changes in the applicable laws, regulations and regulatory
+    agency policies, yet such changes may have a material effect on
+    our business, financial condition or results of operations.
+
+
+ 
+
+
+
+
+
+    General
+
+
+ 
+
+
+    As a bank holding company, KeyCorp is subject to regulation,
+    supervision and examination by the Board of Governors of the
+    Federal Reserve System (the “Federal Reserve”) under
+    the BHCA. Pursuant to the BHCA, bank holding companies may not,
+    in general, directly or indirectly acquire the ownership or
+    control of more than 5% of the voting shares, or substantially
+    all of the assets, of any bank, without the prior approval of
+    the Federal Reserve. In addition, bank holding companies are
+    generally prohibited from engaging in commercial or industrial
+    activities.
+
+
+ 
+
+
+    Our bank subsidiaries are also subject to extensive regulation,
+    supervision and examination by applicable federal banking
+    agencies. We operate one full-service, FDIC-insured national
+    bank subsidiary, KeyBank, and one national bank subsidiary whose
+    activities are limited to those of a fiduciary. Both of our
+    national bank subsidiaries and their subsidiaries are subject to
+    regulation, supervision and examination by the Office of the
+    Comptroller of the Currency (the “OCC”). Because
+    domestic deposits in KeyBank are insured (up to applicable
+    limits) and certain debt obligations of KeyBank and KeyCorp are
+    temporarily guaranteed by the FDIC, the FDIC also has certain
+    regulatory and supervisory authority over KeyBank and KeyCorp
+    under the Federal Deposit Insurance Act (the “FDIA”).
+
+
+ 
+
+
+    We also have other financial services subsidiaries that are
+    subject to regulation, supervision and examination by the
+    Federal Reserve, as well as other applicable state and federal
+    regulatory agencies and self-regulatory organizations. For
+    example, our brokerage and asset management subsidiaries are
+    subject to supervision and regulation by the SEC, the Financial
+    Industry Regulatory Authority and state securities regulators,
+    and our insurance subsidiaries are subject to regulation by the
+    insurance regulatory authorities of the states in which they
+    operate. Our other nonbank subsidiaries are subject to laws and
+    regulations of both the federal government and the various
+    states in which they are authorized to do business.
+
+
+ 
+
+
+
+
+
+    Capital
+    Actions, Dividend Restrictions and the Supervisory Capital
+    Assessment Program
+
+
+ 
+
+
+    On November 14, 2008, KeyCorp sold $2.5 billion of
+    Fixed-Rate Cumulative Perpetual Preferred Stock, Series B
+    (the “Series B Preferred Stock”) and a warrant to
+    purchase 35,244,361 common shares, par value $1.00 (the
+    “Warrant”), to the U.S. Treasury in conjunction
+    with its CPP. The terms of the transaction with the
+    U.S. Treasury include limitations on our ability to pay
+    dividends and repurchase Common Shares. For three years after
+    the issuance or until the U.S. Treasury no longer holds any
+    Series B Preferred Stock, we will not be able to increase
+    our dividends above the level paid in the third quarter of 2008,
+    nor will we be permitted to repurchase any of its Common Shares
+    or preferred stock without the approval of the
+    U.S. Treasury, subject to the availability of certain
+    limited exceptions (e.g., for purchases in connection with
+    benefit plans).
+
+
+ 
+
+
+    The Federal Reserve advised in its Supervisory Letter SR
+    09-4
+    (revised March 27, 2009) that recipients of CPP funds
+    should communicate reasonably in advance with Federal Reserve
+    staff concerning how any proposed dividends, capital redemptions
+    and capital repurchases are consistent with the requirements of
+    CPP, and related Federal Reserve supervisory policy.
+    Furthermore, the Federal Reserve’s Revised Temporary
+    Addendum to SR
+    09-4 issued
+    in November 2010 (the “Revised Addendum”), outlined
+    its Supervisory Capital Assessment Program (“SCAP”)
+    expectations, and clarified that SCAP bank holding companies
+    (“BHCs”) planned capital actions, including plans to
+    repay any outstanding U.S. government investment in common
+    or preferred shares, requests to increase common stock
+    dividends, reinstate or increase common stock repurchase
+    programs, or make other capital distributions, would be
+    evaluated as part of the supervisory assessment. As with all of
+    the nineteen SCAP BHCs, should we seek to raise our Common
+    Shares dividend following any repayment of the
+    U.S. Treasury, we must consult with the Federal Reserve and
+    demonstrate that such actions are consistent with existing
+    supervisory guidance.
+
+
+ 
+
+
+    Federal banking law and regulations also limit the amount of
+    dividends that may be paid to us by our bank subsidiaries
+    without regulatory approval. Historically, dividends paid to us
+    by KeyBank have been an important source of cash flow for
+    KeyCorp to pay dividends on our equity securities and interest
+    on its debt. The approval of the OCC is required for the payment
+    of any dividend by a national bank if the total of all dividends
+    declared by the board of directors of such bank in any calendar
+    year would exceed the total of: (i) the bank’s net
+    income for the current year plus (ii) the retained net
+    income (as defined and
+
+
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+
+    interpreted by regulation) for the preceding two years, less any
+    required transfer to surplus or a fund for the retirement of any
+    preferred stock. In addition, a national bank can pay dividends
+    only to the extent of its undivided profits. Our national bank
+    subsidiaries are subject to these restrictions. During 2010,
+    KeyBank did not pay any dividends to us; nonbank subsidiaries
+    paid us a total of $25 million in dividends. During 2010,
+    KeyBank could not pay dividends to us without prior regulatory
+    approval because KeyBank’s net losses of
+    $1.151 billion for 2009 and $1.161 billion for 2008
+    exceeded KeyBank’s net income during 2010. We made capital
+    infusions of $100 million and $1.2 billion for 2010
+    and 2009, respectively, into KeyBank in the form of cash. At
+    December 31, 2010, we held $3.3 billion in short-term
+    investments, which can be used to pay dividends, service debt,
+    and finance corporate operations.
+
+
+ 
+
+
+    If, in the opinion of a federal banking agency, a depository
+    institution under its jurisdiction is engaged in or is about to
+    engage in an unsafe or unsound practice (which, depending on the
+    financial condition of the institution, could include the
+    payment of dividends), the agency may require that such
+    institution cease and desist from such practice. The OCC and the
+    FDIC have indicated that paying dividends that would deplete a
+    depository institution’s capital base to an inadequate
+    level would be an unsafe and unsound practice. Moreover, under
+    the FDIA, an insured depository institution may not pay any
+    dividend: (i) if payment would cause it to become less than
+    “adequately capitalized” or (ii) while it is in
+    default in the payment of an assessment due to the FDIC. For
+    additional information on capital categories see the
+    “Regulatory Capital Standards and Related
+    Matters —Prompt Corrective Action” section below.
+    Also, the federal banking agencies have issued policy statements
+    that provide that FDIC-insured depository institutions and their
+    holding companies should generally pay dividends only out of
+    their current operating earnings.
+
+
+ 
+
+
+
+    SCAP
+
+
+ 
+
+
+    The Federal Reserve’s Revised Addendum related to the
+    conduct of SCAP for 2011 requested that each SCAP BHC submit its
+    Comprehensive Capital Plan by January 7, 2011. The
+    Comprehensive Capital Plan requirements include, among other
+    things:
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+        ♦ 
+
+        the incorporation of stress testing with a minimum planning
+    horizon of 24 months;
+
+
+
+
+ 
+
+
+
+        ♦ 
+
+        a review of planned capital actions and pro forma estimates;
+
+
+
+
+ 
+
+
+
+        ♦ 
+
+        management’s plans for addressing proposed revisions to the
+    regulatory capital framework agreed to by the Basel Committee;
+
+
+
+
+ 
+
+
+
+        ♦ 
+
+        a transition plan with pro forma estimates of regulatory capital
+    ratios under the Basel III framework over the phase-in
+    period; and
+
+
+
+
+ 
+
+
+
+        ♦ 
+
+        detail supporting the actions and assumptions to be taken over
+    the entire period necessary for the BHC to meet the fully
+    phased-in 7% Tier 1 common equity target.
+
+
+
+
+
+ 
+
+
+    Pursuant to the Dodd-Frank Act, the Federal Reserve is required
+    beginning in 2012 to perform an annual supervisory assessment of
+    certain covered BHCs and non-banks, and these same financial
+    companies will be required to conduct semi-annual stress tests.
+    Currently, we conduct stress testing on a quarterly basis. The
+    Dodd-Frank Act also requires the Federal Reserve to issue
+    regulations concerning its supervisory assessment and stress
+    testing by January 2012, which must: (1) prescribe that
+    three scenarios be used in the stress test—baseline,
+    adverse, and severely adverse; (2) establish the
+    methodologies for the conduct of the test; (3) establish
+    the form and content of the report required to be submitted to
+    the Federal Reserve and the financial institution’s primary
+    regulator; and (4) require companies to publish a summary
+    of the required stress test. These regulations have yet to be
+    issued.
+
+
+ 
+
+
+
+
+
+    Holding
+    Company Structure
+
+
+ 
+
+
+    Bank Transactions with Affiliates. Federal banking
+    law and the regulations promulgated thereunder impose
+    qualitative standards and quantitative limitations upon certain
+    transactions by a bank with its affiliates. Transactions covered
+    by these provisions must be on arm’s length terms, and
+    cannot exceed certain amounts, determined with reference to the
+    bank’s regulatory capital. Moreover, if a loan or other
+    extension of credit, it must be secured by collateral in an
+    amount and quality expressly prescribed by statute. These
+    provisions materially restrict the ability of KeyBank, as a
+    bank, to fund its affiliates including KeyCorp, KeyBanc Capital
+    Markets Inc., any of the Victory mutual funds, and
+    KeyCorp’s nonbanking subsidiaries engaged in making
+    merchant banking investments.
+
+
+ 
+
+
+    Source of Strength Doctrine. Under the Dodd-Frank
+    Act and long-standing Federal Reserve policy, a bank holding
+    company is expected to serve as a source of financial and
+    managerial strength to each of its subsidiary banks and, under
+    appropriate circumstances, to commit resources to support each
+    such subsidiary bank. This support may be required at a time
+    when we may not have the resources to, or would choose not to,
+    provide it. Certain loans by a bank holding company to a
+    subsidiary bank are subordinate in right of payment to deposits
+    in, and certain other indebtedness of, the subsidiary bank. In
+    addition, federal law provides that in the event of a
+    bankruptcy, any commitment by a bank holding company to a
+    federal bank regulatory agency to maintain the capital of a
+    subsidiary bank will be assumed by the bankruptcy trustee and
+    entitled to a priority of payment.
+
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    Regulatory
+    Capital Standards and Related Matters
+
+
+ 
+
+
+    Risk-Based and Leverage Regulatory Capital. Federal
+    law defines and prescribes minimum levels of regulatory capital
+    for bank holding companies and their bank subsidiaries. Adequacy
+    of regulatory capital is assessed periodically by the federal
+    banking agencies in the examination and supervision process, and
+    in the evaluation of applications in connection with specific
+    transactions and activities, including acquisitions, expansion
+    of existing activities and commencement of new activities.
+
+
+ 
+
+
+    Bank holding companies are subject to risk-based capital
+    guidelines adopted by the Federal Reserve. These guidelines
+    establish minimum ratios of qualifying capital to risk-weighted
+    assets. Qualifying capital includes Tier 1 capital and
+    Tier 2 capital. Risk-weighted assets are calculated by
+    assigning varying risk-weights to broad categories of assets and
+    off-balance sheet exposures, based primarily on counterparty
+    credit risk. The required minimum Tier 1 risk-based capital
+    ratio, calculated by dividing Tier 1 capital by
+    risk-weighted assets, is currently 4.00%. The required minimum
+    total risk-based capital ratio is currently 8.00%. It is
+    calculated by dividing the sum of Tier 1 capital and
+    Tier 2 capital (which cannot exceed the amount of
+    Tier 1 capital), after certain deductions, by risk-weighted
+    assets.
+
+
+ 
+
+
+    Tier 1 capital includes common equity, qualifying perpetual
+    preferred equity (including the Series A Preferred Stock
+    and the Series B Preferred Stock), and minority interests
+    in the equity accounts of consolidated subsidiaries less certain
+    intangible assets (including goodwill) and certain other assets.
+    Tier 2 capital includes qualifying hybrid capital
+    instruments, perpetual debt, mandatory convertible debt
+    securities, perpetual preferred equity not includable in
+    Tier 1 capital, limited amounts of term subordinated debt,
+    and medium-term preferred equity, certain unrealized holding
+    gains on certain equity securities, and the allowance for loan
+    and lease losses, limited as a percentage of net risk-weighted
+    assets.
+
+
+ 
+
+
+    Bank holding companies, whose securities and commodities trading
+    activities exceed specified levels also are required to maintain
+    capital for market risk. Market risk includes changes in the
+    market value of trading account, foreign exchange, and commodity
+    positions, whether resulting from broad market movements (such
+    as changes in the general level of interest rates, equity
+    prices, foreign exchange rates, or commodity prices) or from
+    position specific factors (such as idiosyncratic variation,
+    event risk, and default risk).
+
+
+ 
+
+
+    On January 11, 2011, the federal banking agencies published
+    a proposal to revise their market risk capital rules. The
+    proposal would modify the scope of such rules to better capture
+    positions for which the market risk capital rules are
+    appropriate, reduce pro-cyclicality in market risk capital
+    requirements, enhance the rules’ sensitivity to risks that
+    are not adequately captured under the current regulatory
+    measurement methodologies, and increase transparency through
+    enhanced disclosures. The proposal does not include the
+    methodologies adopted by the Basel Committee on Banking
+    Supervision (the “Basel Committee”) for calculating
+    the specific risk capital requirements for debt and
+    securitization positions because those methodologies relay on
+    credit ratings, which is impermissible under the Dodd-Frank Act.
+    Consequently, the proposal retains the current specific risk
+    treatment for these positions until the agencies develop
+    alternative standards of creditworthiness as required by the
+    Dodd-Frank Act. At December 31, 2010, we had regulatory
+    capital in excess of all minimum risk-based requirements,
+    including all required adjustments for market risk.
+
+
+ 
+
+
+    In addition to the risk-based standards, bank holding companies
+    are subject to the Federal Reserve’s leverage ratio
+    guidelines. These guidelines establish minimum ratios of
+    Tier 1 risk-based capital to total assets. The minimum
+    leverage ratio, calculated by dividing Tier 1 capital by
+    average total consolidated assets, is 3.00% for bank holding
+    companies that either have the highest supervisory rating or
+    have implemented the Federal Reserve’s risk-based capital
+    measure for market risk. All other bank holding companies must
+    maintain a minimum leverage ratio of at least 4.00%. At
+    December 31, 2010, Key had regulatory capital in excess of
+    all minimum leverage capital requirements, and satisfied the
+    SCAP requirements set forth in supervisory guidance.
+
+
+ 
+
+
+    Our national bank subsidiaries are also subject to risk-based
+    and leverage capital requirements adopted by the OCC, which are
+    substantially similar to those imposed by the Federal Reserve on
+    bank holding companies. At December 31, 2010, each of our
+    national bank subsidiaries had regulatory capital in excess of
+    all minimum risk-based and leverage capital requirements.
+
+
+ 
+
+
+    In addition to establishing regulatory minimum ratios of capital
+    to assets for all bank holding companies and their bank
+    subsidiaries, the risk-based and leverage capital guidelines
+    also identify various organization-specific factors and risks
+    that are not taken into account in the computation of the
+    capital ratios but that affect the overall supervisory
+    evaluation of a banking organization’s regulatory capital
+    adequacy and can result in the imposition of higher minimum
+    regulatory capital ratio requirements upon the particular
+    organization. Neither the Federal Reserve nor the OCC has
+    advised us or any of our national bank subsidiaries of any
+    specific minimum risk-based or leverage capital ratios
+    applicable to us or such national bank subsidiary.
+
+
+ 
+
+
+    Prompt Corrective Action. The federal banking
+    agencies are required to take prompt corrective action in
+    respect of depository institutions, that do not meet minimum
+    capital requirements under federal law. Such prompt corrective
+    action includes imposing progressively more restrictions on
+    operations, management, and capital distributions as an
+    institution’s capital decreases. FDIC-insured depository
+    institutions are grouped into one of five prompt corrective
+    action capital categories — well capitalized,
+    adequately capitalized, undercapitalized, significantly
+    undercapitalized and critically undercapitalized —
+    using the Tier 1 risk-based, total risk-based, and
+    Tier 1 leverage capital ratios as the relevant capital
+    measures. An institution is considered well
+
+
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+
+    capitalized if it has a total risk-based capital ratio of at
+    least 10.00%, a Tier 1 risk-based capital ratio of at least
+    6.00% and a Tier 1 leverage capital ratio of at least 5.00%
+    and is not subject to any written agreement, order or capital
+    directive to meet and maintain a specific capital level for any
+    capital measure. At December 31, 2010, KeyBank was well
+    capitalized under the prompt corrective action standards.
+    Federal law also requires that the bank regulatory agencies
+    implement systems for “prompt corrective action” for
+    institutions that fail to meet minimum capital requirements
+    within the five capital categories, with progressively more
+    restrictions on operations, management and capital distributions.
+
+
+ 
+
+
+    Bank holding companies are not grouped into any of the five
+    capital categories applicable to insured depository
+    institutions. If such categories applied to bank holding
+    companies, we believe that KeyCorp would satisfy the well
+    capitalized criteria at December 31, 2010. An
+    institution’s prompt corrective action capital category,
+    however, may not constitute an accurate representation of the
+    overall financial condition or prospects of the institution or
+    parent bank holding company, and should be considered in
+    conjunction with other available information regarding the
+    financial condition and results of operations of the institution
+    and its parent bank holding company.
+
+
+ 
+
+
+
+
+
+    Basel
+    Accords
+
+
+ 
+
+
+
+
+
+    Overview
+
+
+ 
+
+
+    The current minimum risk-based capital requirements adopted by
+    the U.S. federal banking agencies are based on a 1988
+    international accord (“Basel I”) that was developed by
+    the Basel Committee. In 2004, the Basel Committee published a
+    new capital framework document (“Basel II”) governing
+    the capital adequacy of large, internationally active banking
+    organizations that generally rely on sophisticated risk
+    management and measurement systems. Basel II is designed to
+    create incentives for these organizations to improve their risk
+    measurement and management processes and to better align minimum
+    capital requirements with the risks underlying their activities.
+
+
+ 
+
+
+    Basel II adopts a three-pillar framework for addressing
+    capital adequacy — minimum capital requirements,
+    supervisory review, and market discipline. In December 2007,
+    U.S. federal banking regulators issued a final rule for
+    Basel II implementation, requiring banks with over
+    $250 billion in consolidated total assets or on-balance
+    sheet foreign exposure of $10 billion (core banks) to adopt
+    the advanced approach of Basel II while allowing other
+    institutions to elect to opt-in. Currently, neither KeyCorp nor
+    KeyBank is required to apply this final rule.
+
+
+ 
+
+
+
+
+
+    Basel III
+    Capital Framework
+
+
+ 
+
+
+    In December 2010, the Basel Committee released its final
+    framework for strengthening international capital and liquidity
+    regulation (“Basel III”). Basel III is a
+    comprehensive set of reform measures designed to strengthen the
+    regulation, supervision and risk management of the banking
+    sector. These measures aim to improve the banking sector’s
+    ability to absorb shocks arising from financial and economic
+    stress, whatever the source, improve risk management and
+    governance, and strengthen banks’ transparency and
+    disclosures. Basel III requires higher and better-quality
+    capital, better risk coverage, the introduction of an
+    international leverage ratio as a backstop to the risk-based
+    requirement, measures to promote the build up of capital that
+    can be drawn down in periods of stress, and the introduction of
+    two global liquidity standards.
+
+
+ 
+
+
+    The Basel III final capital framework, among other things:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    introduces as a new capital measure, “common equity
+    Tier 1,” and specifies that Tier 1 capital consists of
+    common equity Tier 1 and “additional Tier 1
+    capital” instruments meeting specified requirements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    when fully phased in on January 1, 2019, will require banks
+    to maintain: (a) a minimum ratio of common equity
+    Tier 1 to risk-weighted assets of at least 4.5%, plus a
+    2.5% “capital conservation buffer” (which effectively
+    results in a minimum ratio of common equity Tier 1 to
+    risk-weighted assets of at least 7%); (b) a Tier 1
+    capital to risk-weighted assets ratio of at least 6%, plus the
+    capital conservation buffer (which is added to the 6.0%
+    Tier 1 capital ratio as that buffer is phased in,
+    effectively resulting in a minimum Tier 1 capital ratio of
+    8.5% upon full implementation); (c) a minimum ratio of
+    total (that is, Tier 1 plus Tier 2) capital to
+    risk-weighted assets of at least 8.0%, plus the capital
+    conservation buffer (effectively resulting in a minimum total
+    capital ratio of 10.5% upon full implementation); and (d) a
+    minimum leverage ratio of 3%, calculated as the ratio of
+    Tier 1 capital to balance sheet exposures plus certain
+    off-balance sheet exposures (as the average for each quarter of
+    the month-end ratios for the quarter);
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    provides for a “countercyclical capital buffer”,
+    generally to be imposed when national regulators determine that
+    excess aggregate credit growth becomes associated with a buildup
+    of systemic risk, that would be a common equity Tier 1
+    add-on to the capital conservation buffer in the range of 0% to
+    2.5% when fully implemented (potentially resulting in total
+    buffers of between 2.5% and 5%); and
+
+
+
+
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the capital conservation buffer is designed to absorb losses
+    during periods of economic stress. Banking institutions with a
+    ratio of common equity Tier 1 to risk-weighted assets above
+    the minimum but below the conservation buffer (or below the
+    combined capital conservation buffer and countercyclical capital
+    buffer, when the latter is applied) will face constraints on
+    dividends, equity repurchases and compensation based on the
+    amount of the short fall.
+
+
+
+
+
+ 
+
+
+    The implementation of the Basel III final capital framework
+    will commence January 1, 2013. On that date, banks with
+    regulators adopting these standards in full would be required to
+    meet the following minimum capital ratios – 3.5%
+    common equity Tier 1 to risk-weighted assets, 4.5%
+    Tier 1 capital to risk-weighted assets, and 8.0% total
+    capital to risk-weighted assets. The implementation of the
+    capital conservation buffer will begin on January 1, 2016
+    at 0.625% and be phased in over a four-year period (increasing
+    by that amount on each subsequent January 1, until it
+    reaches 2.5% on January 1, 2019).
+
+
+ 
+
+
+    The Basel III final framework provides for a number of new
+    deductions from and adjustments to common equity Tier 1.
+    These include, for example, the requirement that mortgage
+    servicing rights, deferred tax assets dependent upon future
+    taxable income and significant investments in non-consolidated
+    financial entities be deducted from common equity Tier 1 to
+    the extent that any one such category exceeds 10% of common
+    equity Tier 1 or all such categories in the aggregate
+    exceed 15% of common equity Tier 1. Implementation of the
+    deductions and other adjustments to common equity Tier 1
+    will begin on January 1, 2014 and will be phased-in over a
+    five-year period (20% per year).
+
+
+ 
+
+
+
+
+
+    Basel III
+    Liquidity Framework
+
+
+ 
+
+
+    The Basel III final liquidity framework requires banks to
+    comply with two measures of liquidity risk exposure:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the “liquidity coverage ratio”, based on a
+    30-day time
+    horizon and calculated as the ratio of the “stock of
+    high-quality liquid assets” divided by “total net cash
+    outflows over the next 30 calendar days”, which must be at
+    least 100%; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the “net stable funding ratio”, calculated as the
+    ratio of the “available amount of stable funding”
+    divided by the “required amount of stable funding”,
+    which must be at least 100%.
+
+
+
+
+
+ 
+
+
+    Each of the components of these ratios is defined, and the ratio
+    calculated, in accordance with detailed requirements in the
+    Basel III liquidity framework. Although the Basel Committee
+    has not asked for additional comment on these ratios, both are
+    subject to observation periods and transitional arrangements.
+    The Basel III liquidity framework provides specifically
+    that revisions to the liquidity coverage ratio will be made by
+    mid-2013, with such ratios being introduced as a requirement on
+    January 1, 2015, revisions to the net stable funding ratio
+    will be made by mid-2016, and the net stable funding ratio will
+    be introduced as a requirement on January 1, 2018.
+
+
+ 
+
+
+    On January 13, 2011, the Basel Committee issued its final
+    “minimum requirements to ensure loss absorbency at the
+    point non-viability” document. It requires that all
+    non-common Tier 1 and Tier 2 instruments (e.g.,
+    non-cumulative perpetual preferred stock and subordinated debt)
+    issued by an internationally active bank must have a provision
+    that such instruments, at the option of the relevant regulator,
+    are to either be written-off or converted into common equity
+    upon the occurrence of certain trigger events. The final loss
+    absorbency requirements specify that instruments issued on or
+    after January 1, 2013, must meet the new criteria to be
+    included in regulatory capital. Instruments issued prior to
+    January 1, 2013, that do not meet the criteria, but that
+    meet all of the entry criteria for additional Tier 1 or
+    Tier 2 capital, will be considered as instruments that no
+    longer qualify as additional Tier 1 or Tier 2 capital
+    and will be phased out from January 1, 2013 in accordance
+    with the Basel III framework. These provisions are similar
+    to the concept set forth in the Dodd-Frank Act of phasing out of
+    trust preferred securities, cumulative preferred securities and
+    certain other securities as Tier 1 capital over a
+    three-year period beginning January 1, 2013, as well as the
+    application of similar capital standards to BHCs as are
+    currently applied to depository institutions.
+
+
+ 
+
+
+    The U.S. bank regulatory agencies have not yet set forth a
+    formal timeline for a notice of proposed rulemaking or final
+    adoption of regulations responsive to Basel III. However, they
+    have indicated informally that a notice of proposed rulemaking
+    likely will be released in mid-2011, with final amendments to
+    regulations becoming effective in mid-2012. Given our strong
+    capital position, we expect to be able to satisfy the
+    Basel III capital framework should U.S. capital
+    regulations corresponding to it be finalized. While we also have
+    a strong liquidity position, the Basel III liquidity
+    framework could require us and other U.S. banks to initiate
+    additional liquidity management initiatives, including adding
+    additional liquid assets, issuing term debt, and modifying our
+    product pricing for loans, commitments, and deposits.
+    U.S. regulators have indicated that they may elect to make
+    certain refinements to the Basel III liquidity framework.
+    Accordingly, at this point it is premature to assess the impact
+    of the Basel III liquidity framework.
+
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    Federal
+    Deposit Insurance Act
+
+
+ 
+
+
+
+
+
+    Deposit
+    Insurance Coverage Limits.
+
+
+ 
+
+
+    Throughout 2010, the FDIC standard maximum depositor insurance
+    coverage limit was $250,000. This limit, which was made
+    permanent by the Dodd-Frank Act, applies per depositor, per
+    insured depository institution, for each account ownership
+    category. Also under the Dodd-Frank Act, as amended by H.R.
+    6398, the FDIC is required to provide temporary unlimited
+    coverage for qualifying noninterest-bearing transaction
+    accounts, including Interest on Lawyers Trust Accounts.
+    This temporary unlimited coverage is effective from
+    December 31, 2010, through December 31, 2012.
+
+
+ 
+
+
+
+
+
+    Deposit
+    Insurance Assessments
+
+
+ 
+
+
+    Substantially all of KeyBank’s domestic deposits are
+    insured up to applicable limits by the FDIC. The FDIC assesses
+    an insured depository institution an amount for deposit
+    insurance premiums equal to its deposit insurance assessment
+    base times a risk-based assessment rate. Under the risk-based
+    assessment system in effect during 2010, annualized deposit
+    insurance premium assessments ranged from $.07 to $.775 for each
+    $100 of assessable domestic deposits based on the
+    institution’s risk category. This system will remain in
+    effect for the first quarter of 2011. In 2009, the FDIC amended
+    its assessment regulations to require insured depository
+    institutions to prepay, on December 30, 2009, their
+    estimated quarterly assessments for the fourth quarter of 2009,
+    and for all of 2010, 2011, and 2012. KeyBank’s assessment
+    prepayment was $539 million. For 2010, our FDIC insurance
+    assessment was $124 million. As of December 31, 2010,
+    we had $388 million of prepaid FDIC insurance assessment
+    recorded on our balance sheet.
+
+
+ 
+
+
+    The Dodd-Frank Act requires the FDIC to change the assessment
+    base from domestic deposits to average consolidated total assets
+    minus average tangible equity, and requires the DIF reserve
+    ratio to increase to 1.35% by September 30, 2020, rather
+    than 1.15% by December 31, 2016, as previously required. To
+    implement these and other changes to the current deposit
+    insurance assessment regime, the FDIC issued several proposed
+    rules in 2010. On February 7, 2011, the FDIC adopted their
+    final rule on assessments. Under the final rule, which is
+    effective on April 1, 2011, KeyBank’s annualized
+    deposit insurance premium assessments would range from $.025 to
+    $.45 for each $100 of its new assessment base, depending on its
+    new scorecard performance incorporating KeyBank’s
+    regulatory rating, ability to withstand asset and funding
+    related stress, and relative magnitude of potential losses to
+    the FDIC in the event of KeyBank’s failure. We estimate
+    that our 2011 expense for deposit insurance assessments will be
+    $60 to $90 million.
+
+
+ 
+
+
+
+
+
+    FICO
+    Assessments
+
+
+ 
+
+
+    All FDIC-insured depository institutions have been required
+    through assessments collected by the FDIC to service the annual
+    interest on certain
+    30-year
+    noncallable bonds issued by the Financing Corporation
+    (“FICO”) to fund losses incurred in the 1980s by the
+    former Federal Savings and Loan Insurance Corporation. For 2010,
+    the annualized FICO assessment rate ranged from $.0104 to $.0106
+    for each $100 of assessable domestic deposits.
+
+
+ 
+
+
+
+
+
+    Temporary
+    Liquidity Guarantee Program
+
+
+ 
+
+
+    In 2008, the FDIC implemented its Temporary Liquidity Guarantee
+    Program (the “TLGP”). The TLGP has two components: a
+    “Debt Guarantee Program” temporarily guaranteeing the
+    unpaid principal and interest due under a limited amount of
+    qualifying newly-issued senior unsecured debt of participating
+    eligible entities, and a “Transaction Account
+    Guarantee” providing a temporary guarantee of depositor
+    funds in qualifying noninterest-bearing transaction accounts
+    maintained at participating FDIC-insured depository
+    institutions. For FDIC-guaranteed debt issued before
+    April 1, 2009, the Debt Guarantee expires on the earlier of
+    the maturity of the debt or June 30, 2012. For
+    FDIC-guaranteed debt issued on or after April 1, 2009, the
+    Debt Guarantee expires on the earlier of the maturity of the
+    debt or December 31, 2012. The Transaction Account
+    Guarantee expired on December 31, 2010. As of
+    December 31, 2010, KeyCorp had $687.5 million of
+    guaranteed debt outstanding under the TLGP and KeyBank had
+    $1.0 billion of guaranteed debt outstanding under the TLGP.
+    KeyBank participated in the Transaction Account Guarantee
+    component of the TLGP during the first half of 2010.
+
+
+ 
+
+
+
+
+
+    Liability
+    of Commonly Controlled Institutions
+
+
+ 
+
+
+    Under the FDIA, an insured depository institution generally is
+    liable to the FDIC for any loss incurred, or reasonably
+    anticipated to be incurred, by the FDIC in connection with the
+    default of any commonly controlled insured institution, or for
+    any assistance provided by the FDIC to a commonly controlled
+    institution that is in danger of default. The term
+    “default” is defined generally to mean the appointment
+    of a conservator or receiver and the term “in danger of
+    default” is defined generally as the existence of certain
+    conditions indicating that a “default” is likely to
+    occur in the absence of regulatory assistance.
+
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    Conservatorship
+    and Receivership of Institutions
+
+
+ 
+
+
+    If any insured depository institution becomes insolvent and the
+    FDIC is appointed its conservator or receiver, the FDIC may,
+    under federal law, disaffirm or repudiate any contract to which
+    such institution is a party if the FDIC determines that
+    performance of the contract would be burdensome, and that
+    disaffirmance or repudiation of the contract would promote the
+    orderly administration of the institution’s affairs. Such
+    disaffirmance or repudiation would result in a claim by the
+    other party to the contract against the receivership or
+    conservatorship. The amount paid upon such claim would depend
+    upon, among other factors, the amount of receivership assets
+    available for the payment of such claim and the priority of the
+    claim relative to the priority of others. In addition, the FDIC
+    as conservator or receiver may enforce most contracts entered
+    into by the institution notwithstanding any provision regarding
+    termination, default, acceleration, or exercise of rights upon
+    or solely by reason of insolvency of the institution,
+    appointment of a conservator or receiver for the institution, or
+    exercise of rights or powers by a conservator or receiver for
+    the institution. The FDIC as conservator or receiver also may
+    transfer any asset or liability of the institution without
+    obtaining any approval or consent of the institution’s
+    shareholders or creditors.
+
+
+ 
+
+
+
+
+
+    Depositor
+    Preference
+
+
+ 
+
+
+    The FDIA provides that, in the event of the liquidation or other
+    resolution of an insured depository institution, the claims of
+    its depositors (including claims by the FDIC as subrogee of
+    insured depositors) and certain claims for administrative
+    expenses of the FDIC as receiver would be afforded a priority
+    over other general unsecured claims against such an institution.
+    If an insured depository institution fails, insured and
+    uninsured depositors along with the FDIC will be placed ahead of
+    unsecured, nondeposit creditors, including a parent holding
+    company and subordinated creditors, in order of priority of
+    payment.
+
+
+ 
+
+
+
+
+
+    Regulatory
+    Reform Developments
+
+
+ 
+
+
+    On July 21, 2010, President Obama signed the Dodd-Frank Act
+    into law. The Dodd-Frank Act is intended to address perceived
+    deficiencies and gaps in the regulatory framework for financial
+    services in the United States, reduce the risks of bank failures
+    and better equip the nation’s regulators to guard against
+    or mitigate any future financial crises, and manage systemic
+    risk through increased supervision of systemically important
+    financial companies (including nonbank financial companies). The
+    Dodd-Frank Act implements numerous and far-reaching changes
+    across the financial landscape affecting financial companies,
+    including banks and bank holding companies such as Key. For a
+    review of the various reform measures being taken as a result of
+    the Dodd-Frank Act, we refer you to the risk factor on the
+    Dodd-Frank Act on page 12 in Item 1A: Risk Factors.
+
+
+ 
+
+
+    The Dodd-Frank Act defers many of the details of its mandated
+    reforms to future rulemakings by a variety of federal regulatory
+    agencies. For further detail on the Dodd-Frank Act, see Pub. L.
+    111-203,
+    H.R. 4173 (for the full text of the Act).
+
+
+ 
+
+
+
+
+
+    Entry
+    Into Certain Covenants
+
+
+ 
+
+
+    We entered into two transactions during 2006 and one transaction
+    (with an overallotment option) in 2008, each of which involved
+    the issuance of trust preferred securities
+    (“Trust Preferred Securities”) by Delaware
+    statutory trusts formed by us (the “Trusts”), as
+    further described below. Simultaneously with the closing of each
+    of those transactions, we entered into a so-called replacement
+    capital covenant (each, a “Replacement Capital
+    Covenant” and collectively, the “Replacement Capital
+    Covenants”) for the benefit of persons that buy or hold
+    specified series of long-term indebtedness of KeyCorp or its
+    then largest depository institution, KeyBank (the “Covered
+    Debt”). Each of the Replacement Capital Covenants provide
+    that neither KeyCorp nor any of its subsidiaries (including any
+    of the Trusts) will redeem or purchase all or any part of the
+    Trust Preferred Securities or certain junior subordinated
+    debentures issued by KeyCorp and held by the Trust (the
+    “Junior Subordinated Debentures”), as applicable, on
+    or before the date specified in the applicable Replacement
+    Capital Covenant, with certain limited exceptions, except to the
+    extent that, during the 180 days prior to the date of that
+    redemption or purchase, we have received proceeds from the sale
+    of qualifying securities that (i) have equity-like
+    characteristics that are the same as, or more equity-like than,
+    the applicable characteristics of the Trust Preferred
+    Securities or the Junior Subordinated Debentures, as applicable,
+    at the time of redemption or purchase, and (ii) we have
+    obtained the prior approval of the Federal Reserve, if such
+    approval is then required by the Federal Reserve. We will
+    provide a copy of the Replacement Capital Covenants to holders
+    of Covered Debt upon request made in writing to KeyCorp,
+    Investor Relations, 127 Public Square, Mail Code
+    OH-01-27-1113, Cleveland, OH
+    44114-1306.
+
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+
+    The following table identifies the (i) closing date for
+    each transaction, (ii) issuer, (iii) series of
+    Trust Preferred Securities issued, (iv) Junior
+    Subordinated Debentures, and (v) applicable Covered Debt as
+    of the date this annual report was filed with the SEC.
+
+
+ 
+
+
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+    Trust Preferred
+
+
+ 
+
+
+    Junior Subordinated
+
+
+ 
+
+
+ 
+
+
+
+
+    Closing Date
+
+
+ 
+
+
+    Issuer
+
+
+ 
+
+
+    Securities
+
+
+ 
+
+
+    Debentures
+
+
+ 
+
+
+    Covered Debt
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    6/20/2006
+
+
+
+ 
+
+
+    KeyCorp
+    Capital VIII and
+    KeyCorp
+
+
+ 
+
+
+    $250,000,000 principal 
+    amount of 7% Enhanced 
+    Trust Preferred Securities
+
+
+ 
+
+
+    KeyCorp’s 7% junior subordinated debentures
+    due June 15, 2066
+
+
+ 
+
+
+    KeyCorp’s 5.70% junior
+    subordinated debentures due 2035, underlying the 5.70% trust
+    preferred securities of KeyCorp Capital VII (CUSIP No.
+    49327LAA4011)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    11/21/2006
+
+
+
+ 
+
+
+    KeyCorp
+    Capital IX and
+    KeyCorp
+
+
+ 
+
+
+    $500,000,000 principal amount of 6.750% 
+    Enhanced Trust Preferred 
+    Securities
+
+
+ 
+
+
+    KeyCorp’s 6.750% junior subordinated debentures
+    due December 15, 2066
+
+
+ 
+
+
+    KeyCorp’s 5.70% junior
+    subordinated debentures due 2035, underlying the 5.70% trust
+    preferred securities of KeyCorp Capital VII (CUSIP No.
+    49327LAA4011)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    2/27/2008
+
+
+
+ 
+
+
+    KeyCorp
+    Capital X and
+    KeyCorp
+
+
+ 
+
+
+    $700,000,000 principal amount of 8.000% 
+    Enhanced Trust Preferred 
+    Securities
+
+
+ 
+
+
+    KeyCorp’s 8.000% junior subordinated debentures
+    due March 15, 2068
+
+
+ 
+
+
+    KeyCorp’s 5.70% junior
+    subordinated debentures due 2035, underlying the 5.70% trust
+    preferred securities of KeyCorp Capital VII (CUSIP No.
+    49327LAA4011)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+    3/3/2008
+
+
+
+ 
+
+
+    KeyCorp
+    Capital X and
+    KeyCorp
+
+
+ 
+
+
+    $40,000,000 principal amount of 8.000% 
+    Enhanced Trust Preferred 
+    Securities
+
+
+ 
+
+
+    KeyCorp’s 8.000% junior subordinated debentures due March
+    15, 2068
+
+
+ 
+
+
+    KeyCorp’s 5.70% junior
+    subordinated debentures due 2035 underlying the 5.70% trust
+    preferred securities of KeyCorp Capital VII (CUSIP No.
+    49327LAA4011)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1A. 
+
+    
+    RISK
+    FACTORS
+
+
+
+
+
+ 
+
+
+    An investment in our Common Shares or other securities is
+    subject to risks inherent to our business, ownership of our
+    securities and our industry. Described below are certain risks
+    and uncertainties, the occurrence of which could have a material
+    and adverse effect on us. Before making an investment decision,
+    you should carefully consider the risks and uncertainties
+    described below together with all of the other information
+    included or incorporated by reference in this report. The risks
+    and uncertainties described below are not the only ones we face.
+    Although we have significant risk management policies,
+    procedures and practices aimed at mitigating these risks,
+    uncertainties may nevertheless impair our business operations.
+    This report is qualified in its entirety by these risk factors.
+
+
+ 
+
+
+    IF ANY OF THE FOLLOWING RISKS ACTUALLY OCCUR, OUR BUSINESS,
+    FINANCIAL CONDITION, RESULTS OF OPERATIONS, AND/OR ACCESS TO
+    LIQUIDITY AND/OR CREDIT COULD BE MATERIALLY AND ADVERSELY
+    AFFECTED (“MATERIAL ADVERSE EFFECT ON US”). IF THIS
+    WERE TO HAPPEN, THE VALUE OF OUR SECURITIES — COMMON
+    SHARES, SERIES A PREFERRED STOCK, SERIES B PREFERRED
+    STOCK, TRUST PREFERRED SECURITIES AND DEBT
+    SECURITIES — COULD DECLINE, PERHAPS SIGNIFICANTLY, AND
+    YOU COULD LOSE ALL OR PART OF YOUR INVESTMENT.
+
+
+ 
+
+
+
+
+
+    Risks
+    Related To Our Business
+
+
+ 
+
+
+
+
+
+    Our
+    credit ratings affect our liquidity position.
+
+
+ 
+
+
+    On November 1, 2010, Moody’s announced a ratings
+    downgrade for ten large U.S. regional banks, including
+    KeyBank, previously identified as benefiting from systemic
+    support. Ratings for KeyBank’s short-term borrowings,
+    senior long-term debt and subordinated debt were downgraded one
+    notch—from
+    P-1 to
+    P-2, A2 to
+    A3, and A3 to Baa1, respectively. In conjunction with the
+    ratings changes, Moody’s updated their ratings outlook on
+    these ratings from “Negative” to “Stable.”
+    The new ratings have breached minimum thresholds established by
+    Moody’s in connection with the securitizations that we
+    service, and impact the ability of KeyBank to hold certain
+    escrow deposit balances related to commercial mortgage
+    securitizations serviced by us and rated by Moody’s. These
+    escrow deposit balances range from $1.50 to $1.85 billion.
+    Since the downgrade, KeyBank has been in discussions with
+    Moody’s regarding an alternative investment vehicle for
+    these funds that would be acceptable to Moody’s and
+    maintain the funds at KeyBank. Subsequent to Moody’s
+    announcement that was issued on January 19, 2011,
+    Moody’s indicated to KeyBank that these escrow deposit
+    balances associated with our mortgage servicing operations will
+    need to be moved to another financial institution which meets
+    the minimum ratings threshold within the first quarter of 2011.
+    As a result of this decision by Moody’s, KeyBank has
+    determined that moving these escrow deposit balances results in
+    an immaterial impairment of these mortgage servicing assets.
+    KeyBank expects to have ample liquidity reserves to offset the
+    loss of these deposits and expects to remain in a strong
+    liquidity position. Nevertheless, the ratings downgrade could
+    decrease the number of investors and counterparties willing to
+    lend to us.
+
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+
+    Our rating agencies regularly evaluate the securities of KeyCorp
+    and KeyBank, and their ratings of our long-term debt and other
+    securities are based on a number of factors, including our
+    financial strength, ability to generate earnings, and other
+    factors, some of which are not entirely within our control, such
+    as conditions affecting the financial services industry and the
+    economy. In light of the difficulties in the financial services
+    industry, the financial markets and the economy, there can be no
+    assurance that we will maintain our current ratings.
+
+
+ 
+
+
+    If the securities of KeyCorp
+    and/or
+    KeyBank suffer additional ratings downgrades, such downgrades
+    could adversely affect our access to liquidity and could
+    significantly increase our cost of funds, trigger additional
+    collateral or funding requirements, and decrease the number of
+    investors and counterparties willing to lend to us, thereby
+    reducing our ability to generate income. Further downgrades of
+    the credit ratings of securities, particularly if they are below
+    investment-grade, could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    The
+    Federal Reserve has acknowledged the possibility of further
+    recession and deflation. Should this occur, the financial
+    services industry and our business could be adversely
+    affected.
+
+
+ 
+
+
+    Despite the conclusion of the recession, the recovery of the
+    U.S. economy continues to progress slowly; consumer
+    confidence remains low, unemployment remains high at 9.4% for
+    December 2010, and the housing market remains an important
+    downside risk, with prices expected to fall through much of this
+    year. Given the concerns about the U.S. economy,
+    U.S. employers continue to approach hiring with caution,
+    and as a result unemployment may rise. Furthermore, the Federal
+    Open Market Committee communicated in its December
+    2010 statement that measures of underlying inflation have
+    continued to trend downward. Monetary and fiscal policy
+    measures, including the recent legislation formalizing the tax
+    compromise between U.S. Congress and Senate members (the
+    “Tax Compromise”), aimed at lowering the risk of a
+    double-dip recession may be insufficient to strengthen the
+    recovery, return unemployment to lower levels, and restore
+    stability to the financial markets. Furthermore, Federal Reserve
+    Chairman Bernanke and various governments in Europe have
+    acknowledged the need to commence a shift from fiscal stimulus
+    efforts to fiscal constraint to reduce government deficits. The
+    recent Tax Compromise indicates that the shift in
+    U.S. fiscal policy will be postponed, but only temporarily.
+    A coordinated shift from fiscal stimulus to fiscal reductions
+    could hinder the return of a robust global economy and cause
+    instability in the financial markets. Various governments in
+    Europe have announced budget reductions
+    and/or
+    austerity measures as a means to limit fiscal budget deficits as
+    a result of the economic crisis. Additionally, many state and
+    local governments in the U.S. have also implemented budget
+    reductions. These factors could weaken the U.S. economic
+    recovery. A weak U.S. economic recovery could have a
+    Material Adverse Effect on Us. Should economic indicators not
+    improve, the U.S. could face a further recession and
+    deflation. Such economic conditions could affect us in a variety
+    of substantial and unpredictable ways as well as affect our
+    borrowers’ ability to meet their repayment obligations.
+    These factors could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    The
+    failure of the European Union to stabilize its weaker member
+    economies, such as Greece, Portugal, Spain, Hungary, Ireland,
+    and Italy, could have international implications affecting the
+    stability of global financial markets and hindering the U.S.
+    economic recovery.
+
+
+ 
+
+
+    On the eve of May 10, 2010, Greece was facing imminent
+    default on its obligations. On May 10, 2010, finance
+    ministers from the European Union announced a deal to provide
+    $560 billion in new loans and $76 billion under an
+    existing lending program to countries facing instability. The
+    International Monetary Fund joined forces and announced that it
+    was prepared to give $321 billion separately. The European
+    Central Bank also announced that it would buy government and
+    corporate debt, and the world’s leading central banks,
+    including the Federal Reserve, Bank of Canada, Bank of England,
+    Bank of Japan, and Swiss National Bank, announced a joint
+    intervention to make more dollars available for interbank
+    lending. These and other monetary and fiscal policy efforts
+    appear to have stabilized the European Union’s weaker
+    member economies. Nevertheless, should these monetary and fiscal
+    policy measures be insufficient to restore stability to the
+    financial markets, the recovery of the U.S. economy could
+    be hindered or reversed, which could have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    The
+    Dodd-Frank Act subjects us to a variety of new and more
+    stringent legal and regulatory requirements. Because the
+    Dodd-Frank Act imposes more stringent regulatory requirements on
+    the largest financial institutions, Key could be competitively
+    disadvantaged.
+
+
+ 
+
+
+    On July 21, 2010, President Obama signed the Dodd-Frank Act
+    into law. The Dodd-Frank Act is intended to address perceived
+    deficiencies and gaps in the regulatory framework for financial
+    services in the United States, reduce the risks of bank failures
+    and better equip the nation’s regulators to guard against
+    or mitigate any future financial crises, and manage systemic
+    risk through increased supervision of systemically important
+    financial companies (including nonbank financial companies).
+    Although many provisions remain subject to further rulemaking,
+    the Dodd-Frank Act implements numerous and far-reaching changes
+    across the
+
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+
+    financial landscape affecting financial companies, including
+    bank and bank-holding companies such as Key, by, among other
+    things:
+
+
+ 
+
+
+
+
+    
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Requiring regulation and oversight of large, systemically
+    important financial institutions by establishing an interagency
+    council, the Financial Stability Oversight Council
+    (“FSOC”), to identify and manage systemic risk in the
+    financial system, and requiring the implementation of heightened
+    prudential standards and regulation by the Federal Reserve for
+    systemically important financial institutions (including nonbank
+    financial companies);
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Applying prudential standards to large interconnected financial
+    companies, including BHCs like us that have at least
+    $50 billion in total consolidated assets and certain
+    nonbanks regulated by the Federal Reserve. Such heightened
+    prudential standards must include risk-based capital
+    requirements, leverage limits, liquidity requirements, overall
+    risk management requirements, resolution plan and credit
+    exposure reporting, and concentration limits. They also may
+    include a contingent capital requirement, enhanced public
+    disclosures, short-term debt limits, and such other standards as
+    the Federal Reserve, on its own or pursuant to FSOC
+    recommendation, determines are appropriate;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Requiring that large interconnected financial companies with at
+    least $50 billion in total assets prepare and maintain a
+    rapid and orderly resolution plan, which must be approved by the
+    Federal Reserve and the FDIC;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Creating a new federal receivership process pursuant to which
+    the FDIC will serve as receiver for large, interconnected
+    financial companies, including bank holding companies, whose
+    failure poses a significant risk to the financial stability of
+    the United States. All costs of an orderly liquidation are borne
+    first by shareholders and unsecured creditors, and, if
+    necessary, by risk-based assessments on large financial
+    companies;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Applying the same leverage and risk-based capital requirements
+    that apply to insured depository institutions to most bank
+    holding companies, savings and loan holding companies and
+    systemically important nonbank financial companies, which, among
+    other things, will gradually exclude all trust preferred and
+    cumulative preferred securities from Tier 1 capital, and may
+    impose new capital and liquidity requirements consistent with
+    the Basel III capital and liquidity frameworks;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Limiting the Federal Reserve’s emergency authority to lend
+    to nondepository institutions to facilities with broad-based
+    eligibility, and authorizing the FDIC to establish an emergency
+    financial stabilization fund for solvent depository institutions
+    and their holding companies, subject to the approval of
+    Congress, the U.S. Treasury Secretary and the Federal
+    Reserve;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Centralizing responsibility for consumer financial protection by
+    creating a new agency, the Consumer Financial Protection Bureau
+    (the “CFPB”), with responsibility for implementing,
+    examining and enforcing compliance with federal consumer
+    financial laws, a number of which will be strengthened by
+    provisions of the Dodd-Frank Act and the regulations promulgated
+    thereunder;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Imposing new regulatory requirements and restrictions on
+    federally insured depository institutions, their holding
+    companies and other affiliates, as well as other systemically
+    important nonbank financial companies, including the so-called
+    “Volcker Rule” ban on proprietary trading and
+    sponsorship of, and investment in hedge funds and private equity
+    funds;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Creating regimes for regulation of
+    over-the-counter
+    derivatives and non-admitted property and casualty insurers and
+    reinsurers. The regulation of
+    over-the-counter
+    derivatives shall include the so-called “Lincoln push-out
+    provision” that effectively prohibits insured depository
+    institutions from conducting certain derivatives businesses in
+    the institution;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Requiring any interchange transaction fee charged for a debit
+    transaction to be “reasonable” and proportional to the
+    cost incurred by the issuer for the transaction, directing the
+    Federal Reserve to prescribe new regulations establishing such
+    fee standards, eliminating exclusivity arrangements between
+    issuers and networks for debit card transactions, and imposing
+    limits for restrictions on merchant discounting for the use of
+    certain payment forms and minimum or maximum amount thresholds
+    as a condition for acceptance of credit cards;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Implementing regulation of hedge fund and private equity
+    advisers by requiring that advisers that manage
+    $150 million or more in assets to register with the SEC;
+
+     
+
+
+
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Requiring issuers of asset-backed securities to retain some of
+    the risk associated with the offered securities;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Providing for the implementation of corporate governance
+    provisions for all public companies concerning proxy access and
+    executive compensation;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Increasing the FDIC’s deposit insurance limits permanently
+    to $250,000 for non-transaction accounts, providing for
+    unlimited federal deposit insurance on non-interest bearing
+    demand transaction accounts at all insured depository
+    institutions effective December 31, 2010 through
+    December 31, 2012, and changing the assessment base from
+    insured deposits to average consolidated assets less average
+    tangible equity, eliminating the ceiling on the size of the DIF,
+    increasing the reserve ratio for the DIF, and imposing
+    assessments upon bank holding companies to support the cost of
+    resolution and regulation of such entities required by the
+    Dodd-Frank Act;
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Reforming regulation of credit rating agencies, and requiring
+    federal agencies to remove references to credit ratings as a
+    measure of creditworthiness for, among other things, purposes of
+    capital, analysis of credits, and liquidity; and
+
+     
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Repealing the federal prohibitions on the payment of interest on
+    demand deposits, thereby permitting depository institutions to
+    pay interest on business transaction accounts.
+
+     
+
+
+
+
+ 
+
+
+    The Dodd-Frank Act defers many of the details of its mandated
+    reforms to future rulemakings by a variety of federal regulatory
+    agencies. While we cannot predict the effect of these various
+    rulemakings which have yet to be issued, we do anticipate a
+    variety of new and more stringent legal and regulatory
+    requirements. Regulatory reform will likely place additional
+    costs on larger financial institutions, may impede growth
+    opportunities, and may place larger financial institutions at a
+    competitive disadvantage in the market place. Additionally,
+    reform could affect the behaviors of third parties that we deal
+    with in the course of our business, such as rating agencies,
+    insurance companies, and investors. Heightened regulatory
+    practices, requirements or expectations resulting from the
+    Dodd-Frank Act and the rules promulgated thereunder could affect
+    us in substantial and unpredictable ways, and, in turn, could
+    have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    The
+    Dodd-Frank Act provides for the phase-out beginning
+    January 1, 2013, of trust preferred securities and
+    cumulative preferred securities as eligible Tier 1
+    risk-based capital for purposes of the regulatory capital
+    guidelines for bank holding companies.
+
+
+ 
+
+
+    Currently, our trust preferred and enhanced trust preferred
+    securities represent 15% of our Tier 1 risk-based capital
+    or $1.8 billion of our $11.8 billion of Tier 1
+    risk-based capital. By comparison, the U.S. Treasury’s
+    CPP investment, non-cumulative perpetual preferred securities,
+    and our common equity represent 21%, 2% and 62%, respectively,
+    of our Tier 1 risk-based capital, as of December 31,
+    2010. The anticipated phase-out (as eligible Tier 1
+    risk-based capital) of our trust preferred securities and
+    enhanced trust preferred securities will eventually result in us
+    having less of a capital buffer above the current
+    well-capitalized regulatory standard of 6% of Tier 1
+    risk-based capital. Accordingly, we may eventually determine it
+    is advisable or our regulators could require us, based upon new
+    capital or liquidity regulations or otherwise, to raise
+    additional Tier 1 risk-based capital through the issuance
+    of additional preferred stock or common equity. Should such
+    issuances occur, they would likely result in dilution to our
+    shareholders. Currently, we expect to have sufficient access to
+    the capital markets to be able to raise any necessary
+    replacement capital. Nevertheless, should market conditions
+    deteriorate, our ability to raise capital may be diminished
+    significantly, which could, in turn, have a Material Adverse
+    Effect on Us. Approximately $140 billion of trust preferred
+    securities issued by U.S. financial institutions will be
+    affected by the Dodd-Frank Act phase-out of trust preferred
+    securities as Tier 1 eligible. Many other institutions are
+    faced with this same issue. Furthermore, the Dodd-Frank Act and
+    related or other rulemaking may result in new regulatory capital
+    standards for institutions to be recognized as well-capitalized.
+    These factors could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    An
+    offering of a significant amount of additional Common Shares or
+    equity convertible into our Common Shares could cause us to
+    issue a significant amount of Common Shares to a private
+    investor or group of private investors and thus have a
+    significant investor with voting rights.
+
+
+ 
+
+
+    Any issuance or issuances totaling a significant amount of our
+    Common Shares or equity convertible into our Common Shares could
+    cause us to issue a significant amount of Common Shares to a
+    private investor or group of investors and thus have a
+    significant investor with voting rights. Having a significant
+    shareholder may make some future transactions more difficult or
+    perhaps impossible to complete without the support of such
+    shareholder. The interests of the significant shareholder may
+    not coincide with our interests or the interests of other
+    shareholders. There can be no assurance that any significant
+    shareholder will exercise its influence in our best interests as
+    opposed to its best interests as a significant shareholder.
+    Accordingly, a significant shareholder may make it difficult to
+    approve certain transactions even if they are supported by the
+    other shareholders. These factors could have a Material Adverse
+    Effect on Us.
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    We are
+    subject to market risks, including in the commercial real estate
+    sector. Should the fundamentals of the commercial real estate
+    market further deteriorate, our financial condition and results
+    of operations could be adversely affected.
+
+
+ 
+
+
+    The fundamentals within the commercial real estate sector remain
+    weak, under continuing pressure by reduced asset values, high
+    vacancies and reduced rents. Commercial real estate values
+    peaked in the fall of 2007, after gaining approximately 30%
+    since 2005 and 90% since 2001. According to Moody’s Real
+    Estate Analytics, LLC Commercial Property Index (December 2010),
+    commercial real estate values were down 42% from their peak.
+    Many of our commercial real estate loans were originated between
+    2005 and 2007. A portion of our commercial real estate loans are
+    construction loans. These properties are typically not fully
+    leased at the origination of the loan, but the borrower may be
+    reliant upon additional leasing through the life of the loan to
+    provide cash flow to support debt service payments. Weak
+    economic conditions typically slow the execution of new leases;
+    such conditions may also lead to existing lease turnover. As we
+    experienced during 2010, vacancy rates for retail, office and
+    industrial space are expected to remain elevated and could
+    increase in 2011. Increased vacancies could result in rents
+    falling further over the next several quarters. The combination
+    of these factors could result in further weakening in the
+    fundamentals underlying the commercial real estate market.
+    Should these fundamentals continue to deteriorate as a result of
+    further decline in asset values and the instability of rental
+    income, it could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Declining
+    asset prices could adversely affect us.
+
+
+ 
+
+
+    During the recent recession in December 2007 to June 2009, the
+    volatility and disruption that the capital and credit markets
+    have experienced reached extreme levels. The severe market
+    dislocations in 2008 led to the failure of several substantial
+    financial institutions, causing widespread liquidation of assets
+    and further constraining credit markets. These asset sales,
+    along with asset sales by other leveraged investors, including
+    some hedge funds, rapidly drove down prices and valuations
+    across a wide variety of traded asset classes. Asset price
+    deterioration has a negative effect on the valuation of many of
+    the asset categories represented on our balance sheet, and
+    reduces our ability to sell assets at prices we deem acceptable.
+    For example, a further recession would likely reverse recent
+    positive trends in asset prices. These factors could have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to credit risk, in the form of changes in interest rates
+    and/or changes in the economic conditions in the markets where
+    we operate, which changes could adversely affect us.
+
+
+ 
+
+
+    There are inherent risks associated with our lending and trading
+    activities. These risks include, among other things, the impact
+    of changes in interest rates and changes in the economic
+    conditions in the markets where we operate. Increases in
+    interest rates
+    and/or
+    further weakening of economic conditions caused by a double-dip
+    recession or otherwise could adversely impact the ability of
+    borrowers to repay outstanding loans or the value of the
+    collateral securing these loans.
+
+
+ 
+
+
+    As of December 31, 2010, approximately 69% of our loan
+    portfolio consisted of commercial, financial and agricultural
+    loans, commercial real estate loans, including commercial
+    mortgage and construction loans, and commercial leases. These
+    types of loans are typically larger than residential real estate
+    loans and consumer loans. We closely monitor and manage risk
+    concentrations and utilize various portfolio management
+    practices to limit excessive concentrations when it is feasible
+    to do so; however, our loan portfolio still contains a number of
+    commercial loans with relatively large balances.
+
+
+ 
+
+
+    We also do business with environmentally sensitive industries
+    and in connection with the development of Brownfield sites that
+    provide appropriate business opportunities. We monitor and
+    evaluate our borrowers for compliance with environmental-related
+    covenants, which include covenants requiring compliance with
+    applicable law. We take steps to mitigate risks; however, should
+    political or other changes make it difficult for certain of our
+    customers to maintain compliance with applicable covenants, our
+    credit quality could be adversely affected. The deterioration of
+    one or more of any of our loans could cause a significant
+    increase in nonperforming loans, which could result in net loss
+    of earnings from these loans, an increase in the provision for
+    loan and lease losses and an increase in loan charge-offs, any
+    of which could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+    We also are subject to various laws and regulations that affect
+    our lending activities. Failure to comply with applicable laws
+    and regulations could subject us to regulatory enforcement
+    action that could result in the assessment against us of civil
+    money or other penalties, which could have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    There can
+    be no assurance that the legislation and other initiatives
+    undertaken by the United States government to restore liquidity
+    and stability to the U.S. financial system and reform financial
+    regulation in the U.S. will help stabilize the U.S. financial
+    system.
+
+
+ 
+
+
+    Since 2008, the federal government has intervened in an
+    unprecedented manner in response to the recent financial crisis
+    that affected the banking system and financial markets. The EESA
+    was enacted and signed into law by President Bush in October
+    2008 in response to the ongoing financial crisis affecting the
+    banking system and financial markets and going concern threats
+    to investment banks and other financial institutions. Under the
+    authority provided by EESA, the U.S. Treasury established
+    the CPP, and the core provisions of the Financial Stability Plan
+    aimed at stabilizing and providing liquidity to the financial
+    markets. There
+
+
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+
+    can be no assurance regarding the actual impact that the EESA,
+    the American Recovery and Reinvestment Act of 2009
+    (“Recovery Bill”), the Dodd-Frank Act, the Tax
+    Compromise, or other programs and initiatives undertaken by the
+    U.S. government will have on the financial markets. In
+    addition, the Federal Reserve has implemented a variety of
+    monetary policy measures to stabilize the economy. Nevertheless,
+    the extreme levels of volatility and limited credit availability
+    experienced in late 2008 and through the third quarter of
+    2009 may return or persist. During the liquidity crisis
+    from late 2007 to 2009, regional financial institutions faced
+    difficulties issuing debt in the fixed income debt markets;
+    these conditions could return and pose continued difficulties
+    for the issuance of both medium term note and long-term
+    subordinated note issuances. The failure of the
+    U.S. government programs to sufficiently contribute to
+    financial market stability and put the U.S. economy on a
+    stable path for an economic recovery could result in a worsening
+    of current financial market conditions, which could have a
+    Material Adverse Effect on Us. In the event that any of the
+    various forms of turmoil experienced in the financial markets
+    return or become exacerbated, there may be a Material Adverse
+    Effect on Us from (1) continued or accelerated disruption
+    and volatility in financial markets, (2) continued capital
+    and liquidity concerns regarding financial institutions
+    generally and our transaction counterparties specifically,
+    (3) limitations resulting from further governmental action
+    to stabilize or provide additional regulation of the financial
+    system, or (4) recessionary conditions that return, are
+    deeper, or last longer than currently anticipated.
+
+
+ 
+
+
+
+
+
+    Issuing a
+    significant amount of common equity to a private investor may
+    result in a change in control of KeyCorp under regulatory
+    standards and contractual terms.
+
+
+ 
+
+
+    Should we obtain a significant amount of additional capital from
+    any individual private investor, a change of control could occur
+    under applicable regulatory standards and contractual terms.
+    Such change of control may trigger notice, approval
+    and/or other
+    regulatory requirements in many states and jurisdictions in
+    which we operate. We are a party to various contracts and other
+    agreements that may require us to obtain consents from our
+    respective contract counterparties in the event of a change in
+    control. The failure to obtain any required regulatory consents
+    or approvals or contractual consents due to a change in control
+    may have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Should we
+    decide to repurchase the U.S. Treasury’s Series B
+    Preferred Stock, future issuance(s) of Common Shares may be
+    necessary, which, if necessary, may result in significant
+    dilution to holders of KeyCorp Common Shares.
+
+
+ 
+
+
+    In conjunction with any repurchase of the Series B
+    Preferred Stock issued to the U.S. Treasury, we may elect
+    or be required by our regulators to increase the amount of our
+    Tier 1 common equity through the sale of additional Common
+    Shares. In addition, in connection with the
+    U.S. Treasury’s purchase of the Series B
+    Preferred Stock, pursuant to a Letter Agreement dated
+    November 14, 2008, and the Securities Purchase
+    Agreement — Standard Terms, the U.S. Treasury
+    received a Warrant to purchase 35,244,361 of our Common Shares
+    at an initial per share exercise price of $10.64, subject to
+    adjustment, which expires ten years from the issuance date, and
+    we have agreed to provide the U.S. Treasury with
+    registration rights covering the Warrant and the underlying
+    Common Shares. The terms of the Warrant provide for a procedure,
+    upon repurchase of the Series B Preferred Stock, to
+    determine the value of the Warrant, and purchase the Warrant,
+    within approximately 40 days of the repurchase of the
+    Series B Preferred Stock. However, even if we were to
+    redeem the Series B Preferred Stock, there is no assurance
+    that this Warrant will be fully retired and, therefore, that it
+    will not be exercised, prior to its expiration date. The
+    issuance of additional Common Shares as a result of the exercise
+    of the Warrant the U.S. Treasury holds would likely dilute
+    the ownership interest of KeyCorp’s existing common
+    shareholders.
+
+
+ 
+
+
+    The terms of the Warrant provide that, if we issue Common Shares
+    or securities convertible or exercisable into or exchangeable
+    for Common Shares at a price that is less than 90% of the market
+    price of such shares on the last trading day preceding the date
+    of the agreement to sell such shares, the number and the per
+    share price of Common Shares to be purchased pursuant to the
+    Warrant will be adjusted pursuant to its terms. We may also
+    choose to issue securities convertible into or exercisable for
+    our Common Shares and such securities may themselves contain
+    anti-dilution provisions. Such anti-dilution adjustment
+    provisions may have a further dilutive effect on other holders
+    of our Common Shares.
+
+
+ 
+
+
+    There can be no assurance that we will not in the future
+    determine that it is advisable, or that we will not encounter
+    circumstances where we determine that it is necessary, to issue
+    additional Common Shares, securities convertible into or
+    exchangeable for Common Shares or common-equivalent securities
+    to fund strategic initiatives or other business needs or to
+    build additional capital. Nevertheless, there can be no
+    assurance that our regulators, including the U.S. Treasury
+    and the Federal Reserve, will not conduct additional
+    “stress test” capital assessments outside of typical
+    examination cycles, such as the SCAP,
+    and/or
+    require us to generate additional capital, including Tier 1
+    common equity, in the future in the event of further negative
+    economic circumstances, in order for us to redeem our
+    Series B Preferred Stock held by the U.S. Treasury
+    under the CPP or otherwise. The market price of our Common
+    Shares could decline as a result of such exchange offerings, as
+    well as other sales of a large block of our Common Shares or
+    similar securities in the market thereafter, or the perception
+    that such sales could occur. These factors could have a Material
+    Adverse Effect on Us.
+
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    We may
+    not be permitted to repurchase the U.S. Treasury’s CPP
+    investment if and when we request approval to do so.
+
+
+ 
+
+
+    While it is our plan to repurchase the Series B Preferred
+    Stock as soon as practicable, in order to repurchase such
+    securities, in whole or in part, we must establish to our
+    regulators’ satisfaction that we have met all of the
+    conditions to repurchase and must obtain the approval of the
+    Federal Reserve and the U.S. Treasury. There can be no
+    assurance that we will be able to repurchase the
+    U.S. Treasury’s CPP investment in our Series B
+    Preferred Stock subject to conditions that we find acceptable,
+    or at all. In addition to limiting our ability to return capital
+    to our shareholders, the U.S. Treasury’s investment
+    could limit our ability to retain key executives and other key
+    employees, and limit our ability to develop business
+    opportunities. These factors could have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to interest rate risk, which could adversely affect our
+    earnings on loans and other interest-earning assets.
+
+
+ 
+
+
+    Our earnings and cash flows are largely dependent upon our net
+    interest income. Net interest income is the difference between
+    interest income earned on interest-earning assets such as loans
+    and securities and interest expense paid on interest-bearing
+    liabilities such as deposits and borrowed funds. Interest rates
+    are highly sensitive to many factors that are beyond our
+    control, including general economic conditions, the competitive
+    environment within our markets, consumer preferences for
+    specific loan and deposit products and policies of various
+    governmental and regulatory agencies and, in particular, the
+    Federal Reserve. Changes in monetary policy, including changes
+    in interest rates, could influence not only the amount of
+    interest we receive on loans and securities and the amount of
+    interest we pay on deposits and borrowings, but such changes
+    could also affect our ability to originate loans and obtain
+    deposits as well as the fair value of our financial assets and
+    liabilities. If the interest we pay on deposits and other
+    borrowings increases at a faster rate than the interest we
+    receive on loans and other investments, our net interest income,
+    and therefore earnings, could be adversely affected. Earnings
+    could also be adversely affected if the interest we receive on
+    loans and other investments falls more quickly than the interest
+    we pay on deposits and other borrowings. We use simulation
+    analysis to produce an estimate of interest rate exposure based
+    on assumptions and judgments related to balance sheet changes,
+    customer behavior, new products, new business volume, product
+    pricing, competitor behavior, the behavior of market interest
+    rates and anticipated hedging activities. Simulation analysis
+    involves a high degree of subjectivity and requires estimates of
+    future risks and trends. Accordingly, there can be no assurance
+    that actual results will not differ from those derived in
+    simulation analysis due to the timing, magnitude and frequency
+    of interest rate changes, actual hedging strategies employed,
+    changes in balance sheet composition, and the possible effects
+    of unanticipated or unknown events.
+
+
+ 
+
+
+    Although we believe that we have implemented effective asset and
+    liability management strategies, including simulation analysis
+    and the use of interest rate derivatives as hedging instruments,
+    to reduce the potential effects of changes in interest rates on
+    our results of operations, any substantial, unexpected
+    and/or
+    prolonged change in market interest rates could have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to changes in the financial markets which could
+    adversely affect us.
+
+
+ 
+
+
+    Traditionally, market factors such as changes in foreign
+    exchange rates, changes in the equity markets and changes in the
+    financial soundness of bond insurers, sureties and other
+    unrelated financial companies have the potential to affect
+    current market values of financial instruments. During 2008,
+    market events demonstrated this to an extreme. Between July 2007
+    and October 2009, conditions in the fixed income markets,
+    specifically the wider credit spreads over benchmark
+    U.S. Treasury securities for many fixed income securities,
+    caused significant volatility in the market values of loans,
+    securities, and certain other financial instruments that are
+    held in our trading or
+    held-for-sale
+    portfolios. Opportunities to minimize the adverse affects of
+    market changes are not always available. Substantial changes in
+    the financial markets could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    The
+    soundness of other financial institutions could adversely affect
+    us.
+
+
+ 
+
+
+    Our ability to engage in routine funding transactions could be
+    adversely affected by the actions and commercial soundness of
+    other financial institutions. Financial services to institutions
+    are interrelated as a result of trading, clearing, counterparty
+    or other relationships. We have exposure to many different
+    industries and counterparties, and routinely execute
+    transactions with counterparties in the financial industry,
+    including brokers and dealers, commercial banks, investment
+    banks, mutual and hedge funds, and other institutional clients.
+    During 2008, Key incurred $54 million of derivative-related
+    charges as a result of market disruption caused by the failure
+    of Lehman Brothers. Another example of losses related to this
+    type of risk are the losses associated with the Bernie Madoff
+    ponzi scheme (“Madoff ponzi scheme”). As a result of
+    the Madoff ponzi scheme, our investment subsidiary, Austin,
+    determined that its funds had suffered investment losses up to
+    $186 million. Following Lehman Brothers’ failure, we
+    took several steps to better measure, monitor, and mitigate our
+    counterparty risks and to reduce these exposures and implemented
+    our Enterprise Risk Management Program to better monitor and
+    evaluate risk presented enterprise-wide. These measures include
+    daily position measurement and reporting, the use of scenario
+    analysis and stress testing, replacement cost estimation, risk
+    mitigation strategies, and market feedback validation.
+
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+
+    Many of our routine transactions expose us to credit risk in the
+    event of default of our counterparty or client. In addition, our
+    credit risk may be exacerbated when the collateral held cannot
+    be realized upon or is liquidated at prices insufficient to
+    recover the full amount of the loan or derivative exposure due
+    us. It is not possible to anticipate all of these risks and it
+    is not feasible to mitigate these risks completely. Accordingly,
+    there is no assurance that our Enterprise Risk Management
+    program will effectively mitigate these risks. Accordingly,
+    these factors could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to liquidity risk, which could negatively affect our
+    funding levels.
+
+
+ 
+
+
+    Market conditions or other events could negatively affect the
+    level or cost of funding, affecting our ongoing ability to
+    accommodate liability maturities and deposit withdrawals, meet
+    contractual obligations, and fund asset growth and new business
+    transactions at a reasonable cost, in a timely manner and
+    without adverse consequences. Although we have implemented
+    strategies to maintain sufficient and diverse sources of funding
+    to accommodate planned as well as unanticipated changes in
+    assets and liabilities under both normal and adverse conditions,
+    any substantial, unexpected
+    and/or
+    prolonged change in the level or cost of liquidity could have a
+    Material Adverse Effect on Us. Certain credit markets that we
+    participate in and rely upon as sources of funding were
+    significantly disrupted and volatile from the third quarter of
+    2007 through the third quarter of 2009. Credit markets have
+    improved since then, and we have significantly reduced our
+    reliance on wholesale funding sources. Part of our strategy to
+    reduce liquidity risk involves promoting customer deposit
+    growth, exiting certain noncore lending businesses, diversifying
+    our funding base, maintaining a liquid asset portfolio, and
+    strengthening our capital base to reduce our need for debt as a
+    source of liquidity. Many of these disrupted markets are showing
+    signs of recovery. Nonetheless, if further market disruption or
+    other factors reduce the cost effectiveness
+    and/or the
+    availability of supply in the credit markets for a prolonged
+    period of time, should our funding needs necessitate it, we may
+    need to expand the utilization of unsecured wholesale funding
+    instruments, or use other potential means of accessing funding
+    and managing liquidity such as generating client deposits,
+    securitizing or selling loans, extending the maturity of
+    wholesale borrowings, purchasing deposits from other banks,
+    borrowing under certain secured wholesale facilities, and
+    utilizing relationships developed with fixed income investors in
+    a variety of markets — domestic, European and
+    Canadian — as well as increased management of loan
+    growth and investment opportunities and other management tools.
+    There can be no assurance that these alternative means of
+    funding will be available; under certain stressed conditions
+    experienced in the liquidity crisis during
+    2007-2009,
+    some of these alternative means of funding were not available.
+    Should these forms of funding become unavailable, it is unclear
+    what impact, given current economic conditions, unavailability
+    of such funding would have on us. A deep and prolonged
+    disruption in the markets could have the effect of significantly
+    restricting the accessibility of cost effective capital and
+    funding, which could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Various
+    factors may cause our allowance for loan and lease losses to
+    increase.
+
+
+ 
+
+
+    We maintain an allowance for loan and lease losses, which is a
+    reserve established through a provision for loan and lease
+    losses charged to expense, that represents our estimate of
+    losses within the existing portfolio of loans. The allowance is
+    necessary to reserve for estimated loan and lease losses and
+    risks incurred in the loan portfolio. The level of the allowance
+    reflects our ongoing evaluation of industry concentrations,
+    specific credit risks, loan and lease loss experience, current
+    loan portfolio quality, present economic, political and
+    regulatory conditions, and incurred losses inherent in the
+    current loan portfolio. The determination of the appropriate
+    level of the allowance for loan and lease losses inherently
+    involves a degree of subjectivity and requires that we make
+    significant estimates of current credit risks and future trends,
+    all of which may undergo material changes. Changes in economic
+    conditions affecting borrowers, the stagnation of certain
+    economic indicators that we are more susceptible to, such as
+    unemployment and real estate values, new information regarding
+    existing loans, identification of additional problem loans and
+    other factors, both within and outside of our control, may
+    require an increase in the allowance for loan and lease losses.
+    In addition, bank regulatory agencies periodically review our
+    allowance for loan and lease losses and may require an increase
+    in the provision for loan and lease losses or the recognition of
+    further loan charge-offs, based on judgments that can differ
+    somewhat from those of our own management. In addition, if
+    charge-offs in future periods exceed the allowance for loan and
+    lease losses (i.e., if the loan and lease allowance is
+    inadequate), we will need additional loan and lease loss
+    provisions to increase the allowance for loan and lease losses.
+    Additional provisions to increase the allowance for loan and
+    lease losses, should they become necessary, would result in a
+    decrease in net income and capital and may have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to operational risk.
+
+
+ 
+
+
+    We are subject to operational risk, which represents the risk of
+    loss resulting from human error, inadequate or failed internal
+    processes and systems, and external events. Operational risk
+    also encompasses compliance (legal) risk, which is the risk of
+    loss from violations of, or noncompliance with, laws, rules,
+    regulations, prescribed practices or ethical standards. We are
+    also exposed to operational risk through our outsourcing
+    arrangements, and the effect that changes in circumstances or
+    capabilities of our outsourcing vendors can have on our ability
+    to continue to perform operational functions necessary to our
+    business, such as certain loan processing functions.
+    Additionally, some of our outsourcing arrangements are located
+    overseas and therefore are subject to political risks unique to
+    the regions in which they operate. Although we seek to mitigate
+    operational risk through a
+
+
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+
+    system of internal controls, resulting losses from operational
+    risk could take the form of explicit charges, increased
+    operational costs, harm to our reputation or foregone
+    opportunities, any and all of which could have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Our
+    profitability depends significantly on economic conditions in
+    the geographic regions in which we operate.
+
+
+ 
+
+
+    Our success depends primarily on economic conditions in the
+    markets in which we operate. We have concentrations of loans and
+    other business activities in geographic areas where our branches
+    are located — the Northwest, the Rocky Mountains, the
+    Great Lakes and the Northeast — as well as potential
+    exposure to geographic areas outside of our branch footprint.
+    For example, the nonowner-occupied properties segment of our
+    commercial real estate portfolio has exposures in markets
+    outside of our footprint. Real estate values and cash flows have
+    been negatively affected on a national basis due to weak
+    economic conditions. Certain markets, such as Florida, southern
+    California, Phoenix, Arizona, and Las Vegas, Nevada, have
+    experienced more significant deterioration. The delinquencies,
+    nonperforming loans and charge-offs that we have experienced
+    since 2007 have been more heavily weighted to these specific
+    markets. The regional economic conditions in areas in which we
+    conduct our business have an impact on the demand for our
+    products and services as well as the ability of our customers to
+    repay loans, the value of the collateral securing loans and the
+    stability of our deposit funding sources. A significant decline
+    in general economic conditions caused by inflation, recession,
+    an act of terrorism, outbreak of hostilities or other
+    international or domestic occurrences, unemployment, changes in
+    securities markets or other factors, such as severe declines in
+    the value of homes and other real estate, could also impact
+    these regional economies and, in turn, have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    We
+    operate in a highly competitive industry and market
+    areas.
+
+
+ 
+
+
+    We face substantial competition in all areas of our operations
+    from a variety of different competitors, many of which are
+    larger and may have more financial resources. Such competitors
+    primarily include national and super-regional banks as well as
+    smaller community banks within the various markets in which we
+    operate. We also face competition from many other types of
+    financial institutions, including, without limitation, savings
+    associations, credit unions, mortgage banking companies, finance
+    companies, mutual funds, insurance companies, investment
+    management firms, investment banking firms, broker-dealers and
+    other local, regional and national financial services firms. In
+    recent years, while the breadth of the institutions that we
+    compete with has increased, competition has intensified as a
+    result of consolidation efforts. During 2009, competition
+    continued to intensify as the challenges of the liquidity crisis
+    and market disruption led to further redistribution of deposits
+    and certain banking assets to strong and large financial
+    institutions. We expect this trend to continue. The competitive
+    landscape was also affected by the conversion of traditional
+    investment banks to bank holding companies during the liquidity
+    crisis due to the access it provides to government-sponsored
+    sources of liquidity. The financial services industry’s
+    competitive landscape could become even more intensified as a
+    result of legislative, regulatory, structural and technological
+    changes and continued consolidation. Also, technology has
+    lowered barriers to entry and made it possible for nonbanks to
+    offer products and services traditionally provided by banks.
+
+
+ 
+
+
+    Our ability to compete successfully depends on a number of
+    factors, including, among other things:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    our ability to develop and execute strategic plans and
+    initiatives;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    our ability to develop, maintain and build upon long-term
+    customer relationships based on quality service, high ethical
+    standards and safe, sound assets;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    our ability to expand our market position;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    the scope, relevance and pricing of products and services
+    offered to meet customer needs and demands;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    the rate at which we introduce new products and services
+    relative to our competitors;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    our ability to attract and retain talented executives and
+    relationship managers; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    industry and general economic trends.
+
+
+
+
+
+ 
+
+
+    Failure to perform in any of these areas could significantly
+    weaken our competitive position, which could adversely affect
+    our growth and profitability, which, in turn, could have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to extensive government regulation and
+    supervision.
+
+
+ 
+
+
+    We are subject to extensive federal and state regulation and
+    supervision. Banking regulations are primarily intended to
+    protect depositors’ funds, federal deposit insurance funds
+    and the banking system as a whole, not shareholders. These
+    regulations affect our lending practices, capital structure,
+    investment practices, dividend policy and growth, among other
+    things. KeyCorp, as well as other financial institutions more
+    generally, have recently been subjected to increased scrutiny
+    from regulatory authorities stemming from broader systemic
+    regulatory concerns, including with respect to stress testing,
+    capital levels, asset quality, provisioning and other prudential
+    matters, arising as a result of the recent financial crisis and
+    efforts to ensure that financial institutions take steps to
+    improve their risk management and prevent future crises.
+
+
+ 
+
+
+    Congress and federal regulatory agencies continually review
+    banking laws, regulations and policies for possible changes. The
+    passage of the Dodd-Frank Act has made it clear that a variety
+    of significant changes to the banking and financial
+    institutions’
+
+
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+
+    regulatory regime will be implemented over the next few years.
+    It is not possible to predict the scope of such changes or their
+    potential impact on our financial position or results of
+    operations.
+
+
+ 
+
+
+    These regulations or others designed to implement parts of
+    comprehensive financial regulatory reform could limit our
+    ability to conduct certain of our businesses, such as funds that
+    are managed by our investment advisor subsidiary, Victory
+    Capital Management Inc., or funds sponsored and advised by our
+    principal investing line of business, which could require us to
+    divest or spin-off certain of our business units and private
+    equity investments. Furthermore, as part of the SCAP, Key was
+    identified as a financial institution that was one of nineteen
+    firms that collectively hold two-thirds of the banking assets
+    and more than one-half of the loans in the U.S. banking
+    system. While it is difficult to predict the extent or nature of
+    regulatory reform, should regulatory reform limit the size of
+    the SCAP banks, our ability to pursue opportunities to achieve
+    growth through the acquisition of other banks or deposits could
+    be affected, which, in turn could have a Material Adverse Effect
+    on Us.
+
+
+ 
+
+
+    Changes to statutes, regulations or regulatory policies; changes
+    in the interpretation or implementation of statutes, regulations
+    or policies;
+    and/or
+    continuing to become subject to heightened regulatory practices,
+    requirements or expectations, could affect us in substantial and
+    unpredictable ways, and could have a Material Adverse Effect on
+    Us. Such changes could subject us to additional costs, limit the
+    types of financial services and products that we may offer
+    and/or
+    increase the ability of nonbanks to offer competing financial
+    services and products, among other things. Failure to
+    appropriately comply with laws, regulations or policies
+    (including internal policies and procedures designed to prevent
+    such violations) could result in sanctions by regulatory
+    agencies, civil money penalties
+    and/or
+    reputation damage, which could have a Material Adverse Effect on
+    Us.
+
+
+ 
+
+
+
+
+
+    Our
+    controls and procedures may fail or be circumvented.
+
+
+ 
+
+
+    We regularly review and update our internal controls, disclosure
+    controls and procedures, and corporate governance policies and
+    procedures. Any system of controls, however well designed and
+    operated, is based in part on certain assumptions and can
+    provide only reasonable, not absolute, assurances that the
+    objectives of the system are met. Any failure or circumvention
+    of our controls and procedures or failure to comply with
+    regulations related to controls and procedures could have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We rely
+    on dividends from our subsidiaries for most of our
+    funds.
+
+
+ 
+
+
+    We are a legal entity separate and distinct from our
+    subsidiaries. With the exception of cash raised from debt and
+    equity issuances, we receive substantially all of our cash flow
+    from dividends from our subsidiaries. These dividends are the
+    principal source of funds to pay dividends on our equity
+    securities and interest and principal on our debt. Federal
+    banking law and regulations limit the amount of dividends that
+    KeyBank (our largest subsidiary) and certain nonbank
+    subsidiaries may pay to us. During 2008 and 2009, KeyBank did
+    not pay any dividends to us; nonbank subsidiaries paid us
+    $25 million in dividends during 2010. During 2010, KeyBank
+    could not pay dividends to KeyCorp because KeyBank’s net
+    losses of $1.151 billion for 2009 and $1.161 billion
+    for 2008 exceeded KeyBank’s net income during 2010. For
+    further information on the regulatory restrictions on the
+    payment of dividends by KeyBank, see “Supervision and
+    Regulation — Capital Actions, Dividend Restrictions
+    and the Supervisory Capital Assessment Program” of this
+    report.
+
+
+ 
+
+
+    Also, our right to participate in a distribution of assets upon
+    a subsidiary’s liquidation or reorganization is subject to
+    the prior claims of the subsidiary’s creditors. In the
+    event KeyBank is unable to pay dividends to us, we may not be
+    able to service debt, pay obligations or pay dividends on our
+    equity securities. The inability to receive dividends from
+    KeyBank could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Our
+    earnings and/or financial condition may be affected by changes
+    in accounting principles and in tax laws, or the interpretation
+    of them.
+
+
+ 
+
+
+    Changes in U.S. generally accepted accounting principles
+    could have a Material Adverse Effect on Us. Although these
+    changes may not have an economic impact on our business, they
+    could affect our ability to attain targeted levels for certain
+    performance measures.
+
+
+ 
+
+
+    Like all businesses, we are subject to tax laws, rules and
+    regulations. Changes to tax laws, rules and regulations,
+    including changes in the interpretation or implementation of tax
+    laws, rules and regulations by the Internal Revenue Service or
+    other governmental bodies, could affect us in substantial and
+    unpredictable ways. Such changes could subject us to additional
+    costs, among other things. Failure to appropriately comply with
+    tax laws, rules and regulations could result in sanctions by
+    regulatory agencies, civil money penalties
+    and/or
+    reputation damage, which could have a Material Adverse Effect on
+    Us.
+
+
+ 
+
+
+    Additionally, we conduct quarterly assessments of our deferred
+    tax assets. The carrying value of these assets is dependent upon
+    earnings forecasts and prior period earnings, among other
+    things. A significant change in our assumptions could affect the
+    carrying value of our deferred tax assets on our balance sheet,
+    which, in turn, could have a Material Adverse Effect on Us.
+
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+    Potential
+    acquisitions may disrupt our business and dilute shareholder
+    value.
+
+
+ 
+
+
+    Acquiring other banks, businesses, or branches involves various
+    risks commonly associated with acquisitions, including, among
+    other things:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    potential exposure to unknown or contingent liabilities of the
+    target company;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    exposure to potential asset quality issues of the target company;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    difficulty and expense of integrating the operations and
+    personnel of the target company;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    potential disruption to our business;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    potential diversion of our management’s time and attention;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    the possible loss of key employees and customers of the target
+    company;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    difficulty in estimating the value (i.e. the assets and
+    liabilities) of the target company;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    difficulty in estimating the fair value of acquired assets,
+    liabilities and derivatives of the target company; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    potential changes in banking or tax laws or regulations that may
+    affect the target company.
+
+
+
+
+
+ 
+
+
+    We regularly evaluate merger and acquisition opportunities and
+    conduct due diligence activities related to possible
+    transactions with other financial institutions and financial
+    services companies. As a result, merger or acquisition
+    discussions and, in some cases, negotiations may take place and
+    future mergers or acquisitions involving cash, debt or equity
+    securities may occur at any time. Acquisitions typically involve
+    the payment of a premium over book and market values, and,
+    therefore, some dilution of our tangible book value and net
+    income per Common Share may occur in connection with any future
+    transaction. Furthermore, failure to realize the expected
+    revenue increases, cost savings, increases in geographic or
+    product presence,
+    and/or other
+    projected benefits from an acquisition could have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    We may
+    not be able to attract and retain skilled people.
+
+
+ 
+
+
+    Our success depends, in large part, on our ability to attract
+    and retain key people. Competition for the best people in most
+    activities in which we are engaged can be intense, and we may
+    not be able to retain or hire the people we want
+    and/or need.
+    In order to attract and retain qualified employees, we must
+    compensate such employees at market levels. Typically, those
+    levels have caused employee compensation to be our greatest
+    expense. If we are unable to continue to attract and retain
+    qualified employees, or do so at rates necessary to maintain our
+    competitive position, our performance, including our competitive
+    position, could suffer, and, in turn, have a Material Adverse
+    Effect on Us. Although we have incentive compensation plans
+    aimed, in part, at long-term employee retention, the unexpected
+    loss of services of one or more of our key personnel could still
+    occur, and such events may have a Material Adverse Effect on Us
+    because of the loss of the employee’s skills, knowledge of
+    our market, years of industry experience and the difficulty of
+    promptly finding qualified replacement personnel for our
+    talented executives
+    and/or
+    relationship managers.
+
+
+ 
+
+
+    Pursuant to the standardized terms of the CPP, among other
+    things, we agreed to institute certain restrictions on the
+    compensation of certain senior executive management positions
+    that could have an adverse effect on our ability to hire or
+    retain the most qualified senior executives. Other restrictions
+    were imposed under the Recovery Act, the Dodd-Frank Act and
+    other legislation or regulations. Our ability to attract
+    and/or
+    retain talented executives
+    and/or
+    relationship managers may be affected by these developments or
+    any new executive compensation limits, and such restrictions
+    could have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Our
+    information systems may experience an interruption or breach in
+    security.
+
+
+ 
+
+
+    We rely heavily on communications and information systems to
+    conduct our business. Any failure, interruption or breach in
+    security of these systems could result in failures or
+    disruptions in our customer relationship management, general
+    ledger, deposit, loan and other systems. While we have policies
+    and procedures designed to prevent or limit the effect of the
+    possible failure, interruption or security breach of our
+    information systems, there can be no assurance that any such
+    failure, interruption or security breach will not occur or, if
+    any does occur, that it will be adequately addressed. The
+    occurrence of any failure, interruption or security breach of
+    our information systems could damage our reputation, result in a
+    loss of customer business, subject us to additional regulatory
+    scrutiny, or expose us to civil litigation and possible
+    financial liability, any of which could have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    We
+    continually encounter technological change.
+
+
+ 
+
+
+    The financial services industry is continually undergoing rapid
+    technological change with frequent introductions of new
+    technology-driven products and services. The effective use of
+    technology increases efficiency and enables financial
+    institutions to better serve customers and to reduce costs. Our
+    future success depends, in part, upon our ability to address the
+    needs of our customers by using technology to provide products
+    and services that will satisfy customer demands, as well as to
+    create additional efficiencies in our operations. Our largest
+    competitors have substantially greater resources to invest in
+    technological improvements. We may not be able to effectively
+    implement new technology-driven products and services or be
+    successful in
+
+
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+
+    marketing these products and services to our customers. Failure
+    to successfully keep pace with technological change affecting
+    the financial services industry could have a Material Adverse
+    Effect on Us.
+
+
+ 
+
+
+
+
+
+    We are
+    subject to claims and litigation.
+
+
+ 
+
+
+    From time to time, customers
+    and/or
+    vendors may make claims and take legal actions against us. We
+    maintain reserves for certain claims when deemed appropriate
+    based upon our assessment of the claims. Whether any particular
+    claims and legal actions are founded or unfounded, if such
+    claims and legal actions are not resolved in our favor they may
+    result in significant financial liability
+    and/or
+    adversely affect how the market perceives us and our products
+    and services as well as impact customer demand for those
+    products and services. We are also involved, from time to time,
+    in other reviews, investigations and proceedings (both formal
+    and informal) by governmental and self-regulatory agencies
+    regarding our business, including, among other things,
+    accounting and operational matters, certain of which may result
+    in adverse judgments, settlements, fines, penalties, injunctions
+    or other relief. The number of these investigations and
+    proceedings has increased in recent years with regard to many
+    firms in the financial services industry. There have also been a
+    number of highly publicized cases involving fraud or misconduct
+    by employees in the financial services industry in recent years,
+    and we run the risk that employee misconduct could occur. It is
+    not always possible to deter or prevent employee misconduct, and
+    the precautions we take to prevent and detect this activity may
+    not be effective in all cases. Any financial liability for which
+    we have not adequately maintained reserves,
+    and/or any
+    reputation damage from such claims and legal actions, could have
+    a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Severe
+    weather, natural disasters, acts of war or terrorism and other
+    external events could significantly impact our
+    business.
+
+
+ 
+
+
+    Severe weather, natural disasters, acts of war or terrorism and
+    other adverse external events could have a significant impact on
+    our ability to conduct business. Such events could affect the
+    stability of our deposit base, impair the ability of borrowers
+    to repay outstanding loans, impair the value of collateral
+    securing loans, cause significant property damage, result in
+    loss of revenue
+    and/or cause
+    us to incur additional expenses. Although we have established
+    disaster recovery plans and procedures, and monitor for
+    significant environmental effects on our properties or our
+    investments, the occurrence of any such event could have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Risks
+    Associated With Our Common Shares
+
+
+ 
+
+
+
+
+
+    Our
+    issuance of securities to the U.S. Treasury may limit our
+    ability to return capital to our shareholders and is dilutive to
+    our Common Shares. If we are unable to redeem such preferred
+    shares, the dividend rate will increase substantially after five
+    years.
+
+
+ 
+
+
+    In connection with our sale of $2.5 billion of the
+    Series B Preferred Stock to the U.S. Treasury in
+    conjunction with its CPP, we also issued a Warrant to purchase
+    35,244,361 of our Common Shares at an exercise price of $10.64.
+    The number of shares was determined based upon the requirements
+    of the CPP, and was calculated based on the average market price
+    of our Common Shares for the 20 trading days preceding approval
+    of our issuance (which was also the basis for the exercise price
+    of $10.64). The terms of the transaction with the
+    U.S. Treasury include limitations on our ability to pay
+    dividends and repurchase our Common Shares. For three years
+    after the issuance or until the U.S. Treasury no longer
+    holds any Series B Preferred Stock, we will not be able to
+    increase our dividends above the level of our quarterly dividend
+    declared during the third quarter 2008 ($0.1875 per common share
+    on a quarterly basis) nor repurchase any of our Common Shares or
+    preferred stock without, among other things, U.S. Treasury
+    approval or the availability of certain limited exceptions
+    (e.g., purchases in connection with our benefit plans).
+    Furthermore, as long as the Series B Preferred Stock issued
+    to the U.S. Treasury is outstanding, dividend payments and
+    repurchases or redemptions relating to certain equity
+    securities, including our Common Shares, are prohibited until
+    all accrued and unpaid dividends are paid on such preferred
+    stock, subject to certain limited exceptions. These
+    restrictions, combined with the dilutive impact of the Warrant,
+    may have an adverse effect on the market price of our Common
+    Shares, and, as a result, could have a Material Adverse Effect
+    on Us.
+
+
+ 
+
+
+    Unless we are able to redeem the Series B Preferred Stock
+    during the first five years, the dividend payments on this
+    capital will increase substantially at that point, from 5%
+    ($125 million annually) to 9% ($225 million annually).
+    Depending on market conditions at the time, this increase in
+    dividends could significantly impact our liquidity and, as a
+    result, have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    You may
+    not receive dividends on the Common Shares.
+
+
+ 
+
+
+    Holders of our Common Shares are only entitled to receive such
+    dividends as the Board of Directors may declare out of funds
+    legally available for such payments. Furthermore, our common
+    shareholders are subject to the prior dividend rights of any
+    holders of our preferred stock or depositary shares representing
+    such preferred stock then outstanding. As of February 17,
+    2011, there were 2,904,839 shares of KeyCorp’s
+    Series A Preferred Stock with a liquidation preference of
+    $100 per share issued and
+
+
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+
+    outstanding and 25,000 shares of the Series B
+    Preferred Stock with a liquidation preference of $100,000 per
+    share issued and outstanding.
+
+
+ 
+
+
+    In July 2009, we reduced the quarterly dividend on our Common
+    Shares to $0.01 per share. As long as our Series A
+    Preferred Stock and the Series B Preferred Stock are
+    outstanding, dividend payments and repurchases or redemptions
+    relating to certain equity securities, including our Common
+    Shares, are prohibited until all accrued and unpaid dividends
+    are paid on such preferred stock, subject to certain limited
+    exceptions. In addition, prior to November 14, 2011, unless
+    we have redeemed all of the Series B Preferred Stock or the
+    U.S. Treasury has transferred all of the Series B
+    Preferred Stock to third parties, the consent of the
+    U.S. Treasury will be required for us to, among other
+    things, increase our Common Shares dividend above $.1875, except
+    in limited circumstances should we redeem the
+    U.S. Treasury’s investment, our ability to increase
+    our dividend. These factors could adversely affect the market
+    price of our Common Shares. Also, KeyCorp is a bank holding
+    company and its ability to declare and pay dividends is
+    dependent on certain federal regulatory considerations,
+    including the guidelines of the Federal Reserve regarding
+    capital adequacy and dividends.
+
+
+ 
+
+
+    In addition, terms of KeyBank’s outstanding junior
+    subordinated debt securities prohibit us from declaring or
+    paying any dividends or distributions on KeyCorp’s capital
+    stock, including its Common Shares, or purchasing, acquiring, or
+    making a liquidation payment on such stock, if an event of
+    default has occurred and is continuing under the applicable
+    indenture, if we are in default with respect to a guarantee
+    payment under the guarantee of the related capital securities or
+    if we have given notice of our election to defer interest
+    payments but the related deferral period has not yet commenced
+    or a deferral period is continuing. These factors could have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    There may
+    be future sales or other dilution of our equity, which may
+    adversely affect the market price of our Common
+    Shares.
+
+
+ 
+
+
+    We are not restricted from issuing additional Common Shares,
+    including securities that are convertible into or exchangeable
+    for, or that represent the right to receive, Common Shares. As
+    described above, in connection with our sale of
+    $2.5 billion of Series B Preferred Stock to the
+    U.S. Treasury, we issued to the Department of the Treasury
+    a Warrant to purchase 35,244,361 of our Common Shares at an
+    exercise price of $10.64, subject to adjustment. Although we
+    have the right to repurchase the Warrant at a negotiated price,
+    we may not desire or be able to do so; and if we do not
+    repurchase the Warrant, the U.S. Treasury could either
+    exercise the Warrant or sell it to third parties. The issuance
+    of additional Common Shares as a result of exercise of this
+    Warrant or the issuance of convertible securities would dilute
+    the ownership interest of existing holders of our Common Shares.
+    In addition, we have in the past and may in the future issue
+    options, convertible preferred stock,
+    and/or other
+    securities that may have a dilutive effect on our Common Shares.
+    The market price of our Common Shares could decline as a result
+    of any such offering, other capital raising strategies or other
+    sales of a large block of shares of our Common Shares or similar
+    securities in the market, or the perception that such sales
+    could occur.
+
+
+ 
+
+
+
+
+
+    Our
+    Common Shares are equity and are subordinate to our existing and
+    future indebtedness and preferred stock and effectively
+    subordinated to all the indebtedness and other non-common equity
+    claims against our subsidiaries.
+
+
+ 
+
+
+    Our Common Shares are equity interests and do not constitute
+    indebtedness. As such, our Common Shares will rank junior to all
+    of our current and future indebtedness and to other non-equity
+    claims against us and our assets available to satisfy claims
+    against us, including in the event of our liquidation.
+    Additionally, holders of our Common Shares are subject to the
+    prior dividend and liquidation rights of holders of our
+    outstanding preferred stock. Our board of directors is
+    authorized to issue additional classes or series of preferred
+    stock without any action on the part of the holders of our
+    Common Shares. In addition, our right to participate in any
+    distribution of assets of any of our subsidiaries upon the
+    subsidiary’s liquidation or otherwise, and thus the ability
+    of a holder of our Common Shares to benefit indirectly from such
+    distribution, will be subject to the prior claims of creditors
+    of that subsidiary, except to the extent that any of our claims
+    as a creditor of such subsidiary may be recognized. As a result,
+    our Common Shares will effectively be subordinated to all
+    existing and future liabilities and obligations of our
+    subsidiaries. As of December 31, 2010, we had
+    $13.8 billion of borrowed funds and $60.6 billion of
+    deposits; and the aggregate liquidation preference of our
+    outstanding preferred stock was $2.7 billion.
+
+
+ 
+
+
+
+
+
+    Our share
+    price can be volatile.
+
+
+ 
+
+
+    Share price volatility may make it more difficult for you to
+    resell your Common Shares when you want and at prices you find
+    attractive. Our share price can fluctuate significantly in
+    response to a variety of factors including, among other things:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    actual or anticipated variations in quarterly results of
+    operations;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    recommendation by securities analysts;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    operating and stock price performance of other companies that
+    investors deem comparable to our business;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    changes in the credit, mortgage and real estate markets,
+    including the market for mortgage-related securities;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    news reports relating to trends, concerns and other issues in
+    the financial services industry;
+
+
+
+
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    perceptions of us
+    and/or our
+    competitors in the marketplace;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    new technology used, or products or services offered, by
+    competitors;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    significant acquisitions or business combinations, strategic
+    partnerships, joint ventures or capital commitments entered into
+    by us or our competitors;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    failure to integrate acquisitions or realize anticipated
+    benefits from acquisitions;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    future sales of our equity or equity-related securities;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    our past and future dividend practices;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    changes in governmental regulations affecting our industry
+    generally or our business and operations;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    changes in global financial markets, economies and market
+    conditions, such as interest or foreign exchange rates, stock,
+    commodity, credit or asset valuations or volatility;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    geopolitical conditions such as acts or threats of terrorism or
+    military conflicts; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    the occurrence or nonoccurrence, as appropriate, of any
+    circumstance described in these Risk Factors.
+
+
+
+
+
+ 
+
+
+    General market fluctuations, market disruption, industry factors
+    and general economic and political conditions and events, such
+    as economic slowdowns or recessions, interest rate changes or
+    credit loss trends, could also cause our share price to decrease
+    regardless of operating results. Any of these factors could have
+    a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    An
+    investment in our Common Shares is not an insured
+    deposit.
+
+
+ 
+
+
+    Our Common Shares are not a bank deposit and, therefore, are not
+    insured against loss by the FDIC, any other deposit insurance
+    fund or by any other public or private entity. Investment in our
+    Common Shares is inherently risky for the reasons described in
+    this “Risk Factors” section and elsewhere in this
+    report and is subject to the same market forces that affect the
+    price of common shares in any company. As a result, if you
+    acquire our Common Shares, you may lose some or all of your
+    investment.
+
+
+ 
+
+
+
+
+
+    Our
+    articles of incorporation and regulations, as well as certain
+    banking laws, may have an anti-takeover effect.
+
+
+ 
+
+
+    Provisions of our articles of incorporation and regulations and
+    federal banking laws, including regulatory approval
+    requirements, could make it more difficult for a third party to
+    acquire us, even if doing so would be perceived to be beneficial
+    to our shareholders. The combination of these provisions may
+    inhibit a non-negotiated merger or other business combination,
+    which, in turn, could adversely affect the market price of our
+    Common Shares.
+
+
+ 
+
+
+
+
+
+    Risks
+    Associated With Our Industry
+
+
+ 
+
+
+
+
+
+    Maintaining
+    or increasing our market share may depend upon our ability to
+    adapt our products and services to evolving industry standards
+    and consumer preferences, while maintaining competitive prices
+    for our products and services.
+
+
+ 
+
+
+    The continuous, widespread adoption of new technologies,
+    including internet services, requires us to evaluate our product
+    and service offerings to ensure they remain competitive. Our
+    success depends, in part, on our ability to adapt our products
+    and services to evolving industry standards and consumer
+    preferences. There is increasing pressure from our competitors,
+    both bank and non-bank, to keep pace with evolving preferences
+    of consumers and businesses. Payment methods and financial
+    service providers have evolved as the advancement of technology
+    has made possible the delivery of financial products and
+    services through different mediums and providers, such as cell
+    phones and pay-pal accounts; thereby, increasing competitive
+    pressure in the delivery of financial products and services. The
+    adoption of new technologies could require us to make
+    substantial expenditures to modify our existing products and
+    services. Furthermore, we might not be successful in developing
+    or introducing new products and services, adapting to changing
+    consumer preferences and spending and saving habits, achieving
+    market acceptance or regulatory approval, or sufficiently
+    developing or maintaining a loyal customer base. The
+    introduction of new products and services has the potential to
+    introduce risk which, in turn, can present challenges to us in
+    operating within our risk tolerances while also achieving growth
+    in our market share. In addition, there is increasing pressure
+    from our competitors to deliver products and services at lower
+    prices. These factors could reduce our revenues from our net
+    interest margin and fee-based products and services and have a
+    Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Certain
+    industries, including the financial services industry, are more
+    significantly affected by certain economic factors such as
+    unemployment and real estate asset values. Should the
+    improvement of these economic factors lag the improvement of the
+    overall economy, or not occur, we could be adversely
+    affected.
+
+
+ 
+
+
+    Should the stabilization of the U.S. economy lead to a
+    general economic recovery, the improvement of certain economic
+    factors, such as unemployment and real estate asset values and
+    rents, may nevertheless continue to lag behind the overall
+    economy, or not occur at all. These economic factors typically
+    affect certain industries, such as real estate and financial
+    services, more significantly. For example, improvements in
+    commercial real estate fundamentals typically lag broad economic
+    recovery by twelve to eighteen months. Our clients include
+    entities active in these industries. Furthermore, financial
+    services companies with a substantial lending business, like
+    ours, are dependent upon the ability of their borrowers to make
+    debt service payments on
+
+
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+
+    loans. Should unemployment or real estate asset values fail to
+    recover for an extended period of time, it could have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Difficult
+    market conditions have adversely affected the financial services
+    industry, business and results of operations.
+
+
+ 
+
+
+    The dramatic deterioration experienced in the housing market
+    since 2007 led to weakness across geographies, industries, and
+    ultimately the broad economy. During this period, the housing
+    market experienced falling home prices, increasing foreclosures;
+    unemployment and under-employment rose significantly; and
+    weakened commercial real estate fundamentals negatively impacted
+    the credit performance of mortgage loans and resulted in
+    significant write-downs of asset values by financial
+    institutions, including government-sponsored entities, and
+    commercial and investment banks. The resulting write-downs to
+    assets of financial institutions caused many financial
+    institutions to seek additional capital, to merge with larger
+    and stronger institutions and, in some cases, to seek government
+    assistance or bankruptcy protection. It is not possible to
+    predict if these economic conditions will re-emerge, which of
+    our markets, products or other businesses may ultimately be
+    affected, and whether our actions and government remediation
+    efforts may effectively mitigate these factors. If economic
+    conditions deteriorate, it could result in an increase in loan
+    delinquencies and nonperforming assets, decreases in loan
+    collateral values and a decrease in demand for our products and
+    services, among other things, any of which could have a Material
+    Adverse Effect on Us.
+
+
+ 
+
+
+    If economic conditions deteriorate, we may face the following
+    risks, including, but not limited to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Increased regulation of our industry, including heightened legal
+    standards and regulatory requirements or expectations.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Impairment of our ability to assess the creditworthiness of our
+    customers if the models and approaches we use to select, manage,
+    and underwrite customers become less predictive of future
+    behaviors due to fundamental changes in economic conditions.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The process we use to estimate losses inherent in our credit
+    exposure requires difficult, subjective, and complex judgments,
+    including forecasts of economic conditions and how these
+    economic predictions might impair the ability of our borrowers
+    to repay their loans. In a highly uncertain economic
+    environment, these processes may no longer be capable of
+    accurate estimation and, in turn, may impact the reliability of
+    our evaluation of our credit risk and exposure.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to borrow from other financial institutions or to
+    engage in securitization funding transactions on favorable terms
+    or at all could be adversely affected by future disruptions in
+    the capital markets or other events, including actions by rating
+    agencies and deteriorating investor expectations.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    We may be required to pay significantly higher FDIC premiums in
+    the future because market developments significantly deplete the
+    insurance fund of the FDIC and reduce the ratio of reserves to
+    insured deposits.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Financial institutions may be required, regardless of risk, to
+    pay taxes or other fees to the U.S. Treasury. Such taxes or
+    other fees could be designed to reimburse the U.S. Treasury
+    for the many government programs and initiatives it may
+    undertake as part of its economic stimulus efforts.
+
+
+
+
+
+ 
+
+
+
+
+
+    Financial
+    services companies depend on the accuracy and completeness of
+    information about customers and counterparties.
+
+
+ 
+
+
+    In deciding whether to extend credit or enter into other
+    transactions, we may rely on information furnished by or on
+    behalf of customers and counterparties, including financial
+    statements, credit reports and other financial information. We
+    may also rely on representations of those customers,
+    counterparties or other third parties, such as independent
+    auditors, as to the accuracy and completeness of that
+    information. Reliance on inaccurate or misleading financial
+    statements, credit reports or other financial information could
+    have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+    Consumers
+    may decide not to use banks to complete their financial
+    transactions.
+
+
+ 
+
+
+    Technology and other changes are allowing parties to complete
+    through alternative methods financial transactions that
+    historically have involved banks. For example, consumers can now
+    maintain funds in brokerage accounts or mutual funds that would
+    have historically been held as bank deposits. Consumers can also
+    complete transactions such as paying bills
+    and/or
+    transferring funds directly without the assistance of banks. The
+    process of eliminating banks as intermediaries, known as
+    “disintermediation,” could result in the loss of fee
+    income, as well as the loss of customer deposits and the related
+    income generated from those deposits. The loss of these revenue
+    streams and the lower cost deposits as a source of funds could
+    have a Material Adverse Effect on Us.
+
+
+ 
+
+
+
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1B

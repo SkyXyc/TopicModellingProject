@@ -1,0 +1,1779 @@
+Item 1A.  Risk Factors (in addition to any assumptions and other factors referred to specifically in connection with such forward-looking statements) that could have a significant impact on FPL Group's and/or FPL's operations and fina
+ncial results, and could cause FPL Group's and/or FPL's actual results to differ materially from those contained in forward-looking statements made by or on behalf of FPL Group and/or FPL in this combined Form 10-K, in presentations, on their respective websites, in response to questions or otherwise.
+
+Any forward-looking statement speaks only as of the date on which such statement is made, and FPL Group and FPL undertake no obligation to update any forward-looking statement to reflect events or circumstances, including unanticipated events, after the date on which such statement is made.  New factors emerge from time to time and it is not possible for management to predict all of such factors, nor can it assess the impact of each such factor on the business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statement.
+
+ 
+PART I
+
+Item 1.  Business
+
+FPL GROUP
+
+FPL Group was incorporated in 1984 under the laws of Florida.  FPL Group's principal subsidiary, FPL, is a rate-regulated utility engaged primarily in the generation, transmission, distribution and sale of electric energy.  FPL Group Capital, a wholly-owned subsidiary of FPL Group, holds the capital stock and provides funding for FPL Group's operating subsidiaries other than FPL.  The business activities of these operating subsidiaries primarily consist of FPL Energy's competitive energy business.  At December 31, 2005, FPL Group and its subsidiaries employed approximately 12,400 people.  For financial information regarding FPL Group's business segments, see Note 17.
+
+In August 2005, President Bush signed into law the 2005 Energy Act, which substantially affected the regulation of energy companies.  The 2005 Energy Act included provisions that, among other things, amended federal energy laws, provided the FERC with new oversight responsibilities, repealed the Public Utility Holding Company Act of 1935, as amended, which regulated the financial structure of certain utility holding companies and, among other things, restricted mergers and acquisitions in the electric industry, and enacted the Holding Company Act.  FPL Group is a holding company, as defined in the Holding Company Act.
+
+In December 2005, FPL Group and Constellation Energy announced a proposed merger.  The combined company is expected to be the nation's largest competitive energy supplier based on generation and have the second largest electric utility portfolio based on number of customers served.  The companies are working to complete the merger by the end of 2006.  However, completion of the merger and the actual closing date depend upon the satisfaction of a number of conditions, including shareholder approvals and the receipt of required regulatory approvals.  For additional information concerning the proposed merger, see Note 2.
+
+Website Access to SEC Filings.  FPL Group and FPL make their SEC filings, including their annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, available free of charge on the internet website, www.fplgroup.com, as soon as reasonably practicable after they are electronically filed with or furnished to the SEC.
+
+FPL OPERATIONS
+
+General.  FPL was incorporated under the laws of Florida in 1925 and is a wholly-owned subsidiary of FPL Group.  FPL supplies electric service to a population of more than eight million throughout most of the east and lower west coasts of Florida.  During 2005, FPL served approximately 4.3 million customer accounts.  The percentage of FPL's operating revenues by customer class was as follows:
+
+
+ 
+
+Years Ended December 31,
+ 
+
+
+
+
+
+ 
+
+2005
+ 
+
+2004
+ 
+
+2003
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Residential
+
+55
+
+%
+ 
+
+54
+
+%
+ 
+
+56
+
+%
+ 
+
+
+Commercial
+
+37
+ 
+ 
+
+37
+ 
+ 
+
+37
+ 
+ 
+
+
+Industrial
+
+3
+ 
+ 
+
+3
+ 
+ 
+
+3
+ 
+ 
+
+
+Other, including deferred or recovered clause revenues, the net change in
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+    unbilled revenues and any provision for retail rate refund
+
+5
+ 
+ 
+
+6
+ 
+ 
+
+4
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+100
+
+%
+ 
+
+100
+
+%
+ 
+
+100
+
+%
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FPL currently holds 174 franchise agreements to provide electric service in various municipalities and counties in Florida with varying expiration dates through 2035.  Of the 174 franchise agreements, four expire in 2006, 18 expire in 2007 and 85 expire during the period 2008 through 2015.  Ongoing negotiations are taking place to renew franchises with upcoming expirations.  FPL considers its franchises to be adequate for the conduct of its business.
+
+See the discussion of the proposed merger with Constellation Energy under FPL Group above.
+
+Regulation.  FPL's retail operations provided approximately 99% of FPL's 2005 operating revenues.  Retail operations are regulated by the FPSC, which has jurisdiction over retail rates, service territory, issuances of securities, planning, siting and construction of facilities and other matters.  FPL is also subject to regulation by the FERC with respect to certain aspects of its operations, including the acquisition and disposition of facilities, interchange and transmission services and wholesale purchases and sales of electric energy.  In addition, FPL's nuclear power plants are subject to the jurisdiction of the NRC.  NRC regulations govern the granting of licenses for the construction, operation and retirement of nuclear power plants and subject these plants to continuing review and regulation.
+
+Retail Ratemaking.  The underlying concept of utility ratemaking is to set rates at a level that allows the utility the opportunity to collect from customers total revenues (revenue requirements) equal to its cost of providing service, including a reasonable rate of return on invested capital.  To accomplish this, the FPSC uses various ratemaking mechanisms.
+
+The basic costs of providing electric service, other than fuel and certain other costs, are recovered through base rates, which are designed to recover the costs of constructing, operating and maintaining the utility system.  These basic costs include O&M expenses, depreciation and taxes, as well as a return on FPL's investment in assets used and useful in providing electric service (rate base).  The rate of return on rate base approximates FPL's weighted-average cost of capital, which includes its costs for debt and preferred stock and, typically, an allowed ROE.  The FPSC monitors FPL's actual ROE through a surveillance report that is filed monthly by FPL with the FPSC.  The FPSC does not provide assurance that an allowed ROE will be achieved.  Base rates are determined in rate proceedings or through negotiations, which occur at irregular intervals at the initiative of FPL, the FPSC, the State of Florida Office of Public Counsel or a substantially affec
+ted party.
+
+In August 2005, FPL and all of the interveners in its 2005 rate case filing signed a stipulation and settlement agreement regarding FPL's retail base rates, which was subsequently approved by the FPSC (2005 rate agreement).  The 2005 rate agreement will be in effect through December 31, 2009, and thereafter shall remain in effect until terminated on the date new retail base rates become effective pursuant to an FPSC order.  The 2005 rate agreement replaced a rate agreement that was effective April 15, 2002 through December 31, 2005 (2002 rate agreement).
+
+The 2005 rate agreement provides that retail base rates will not increase during the term of the agreement except to allow recovery of the revenue requirements of any power plant approved pursuant to the Florida Power Plant Siting Act (Siting Act) that achieves commercial operation during the term of the 2005 rate agreement.  The 2005 rate agreement also continues the revenue sharing mechanism in FPL's 2002 rate agreement, whereby revenues from retail base operations in excess of certain thresholds will be shared with customers on the basis of two-thirds refunded to customers and one-third retained by FPL.  Revenues from retail base operations in excess of a second, higher threshold (cap) will be refunded 100% to customers.  The revenue sharing threshold and cap for 2006 will be $3,991 million and $4,156 million, respectively, which was established by using the 2005 revenue sharing threshold and cap of $3,880 million and $4,040 million, respectively, and increasing them by the a
+verage annual growth rate in retail kwh sales for the ten-year period ending December 31, 2005.  For each succeeding year, retail base rate revenue sharing threshold and cap amounts will be established by increasing the prior year's threshold and cap by the sum of the following: (i) the average annual growth rate in retail kwh sales for the ten-year period ending December 31 of the preceding year multiplied by the prior year's retail base rate revenue sharing threshold and cap and (ii) the amount of any incremental base rate increases for power plants approved pursuant to the Siting Act that achieve commercial operation during the term of the 2005 rate agreement.
+
+Under the terms of the 2005 rate agreement: (i) FPL's electric property depreciation rates will be based upon the comprehensive depreciation studies it filed with the FPSC in March 2005; however, FPL may reduce depreciation by up to $125 million annually, (ii) FPL suspended contributions of approximately $79 million per year to its nuclear decommissioning fund beginning in September 2005, (iii) FPL suspended contributions of $20.3 million per year to its storm and property insurance reserve beginning in January 2006 and has the ability to recover prudently incurred storm restoration costs, either through securitization pursuant to Section 366.8260 of the Florida Statutes or through surcharges, and (iv) FPL will be allowed to recover through a cost recovery clause prudently incurred incremental costs associated with complying with an FPSC or FERC order regarding a regional transmission organization.
+
+FPL will not have an authorized regulatory ROE under the 2005 rate agreement for the purpose of addressing earnings levels.  For all other regulatory purposes, FPL will have an ROE of 11.75%.  The revenue sharing mechanism described above will be the appropriate and exclusive mechanism to address earnings levels.  However, if FPL's regulatory ROE, as reported to the FPSC in FPL's monthly earnings surveillance report, falls below 10% during the term of the 2005 rate agreement, FPL may petition the FPSC to amend its base rates.
+
+The 2002 rate agreement provided for a $250 million annual reduction in retail base revenues allocated to all customers by reducing customers' base rates and service charges by approximately 7%, as well as a revenue sharing mechanism based on stated thresholds.  During the term of the 2002 rate agreement, FPL did not have an authorized regulatory ROE range for the purpose of addressing earnings levels and FPL reduced depreciation on its plant in service by $125 million each year.
+
+Fuel costs are recovered from customers through levelized charges per kwh established under the fuel clause.  These charges are calculated annually based on estimated fuel costs and estimated customer usage for the following year, plus or minus a true-up adjustment to reflect the variance of actual costs and usage from the estimates used in setting the fuel adjustment charges for prior periods.  An adjustment to the levelized charges may be approved during the course of a year to reflect a projected variance based on actual costs and usage.  Due to the significant increase in fuel costs during 2005, FPL filed several revisions to its estimated true-up adjustment.  In 2005, approximately $4.1 billion of costs were recovered through the fuel clause.  The FPSC has approved a risk management fuel procurement program which is intended to reduce the risk of unexpected fuel price volatility by locking in fuel prices for a portion of FPL's fuel requirements. &nb
+sp;The results of the program are reviewed by the FPSC as part of the annual review of fuel costs.  See Energy Marketing and Trading, Management's Discussion - Results of Operations, Note 1 - Regulation and Note 4.
+
+Capacity payments to other utilities and generating companies for purchased power are recovered from customers through the capacity clause and base rates.  In 2005, approximately $651 million of costs were recovered through the capacity clause.  Costs associated with implementing energy conservation programs totaled approximately $176 million in 2005 and were recovered from customers through the energy conservation cost recovery clause.  Costs of complying with federal, state and local environmental regulations enacted after April 1993 totaled $24 million in 2005 and are recovered through the environmental clause to the extent not included in base rates.
+
+FPL was impacted by Hurricanes Dennis, Katrina, Rita and Wilma in 2005 and by Hurricanes Charley, Frances and Jeanne in 2004.  These hurricanes did major damage in parts of FPL's service territory and collectively resulted in customer power outages in 2005 and 2004 of 5.3 million and 5.4 million, respectively.  At December 31, 2005, storm restoration costs incurred by FPL during 2005 and 2004 exceeded the amount in the storm and property insurance reserve.  At December 31, 2005, FPL's storm reserve deficiency totaled approximately $1.1 billion.  The storm reserve deficiency associated with the 2004 hurricanes, plus interest, is being recovered primarily through a storm damage surcharge applied to retail customer bills over a 36-month period that began in February 2005, and totaled approximately $297 million at December 31, 2005.  The remaining balance of the storm reserve deficiency primarily relates to the storm restoration costs associated wi
+th 2005 hurricanes.  In January 2006, FPL petitioned the FPSC for approval to recover approximately $1.7 billion of storm costs through the issuance of $1,050 million of storm recovery bonds pursuant to the securitization provisions of Section 366.8260 of the Florida Statutes.  The storm bond proceeds will provide for the net-of-tax recovery of the remaining balance of the unrecovered hurricane costs of $1,040 million (estimated balance as of July 31, 2006) and the replenishment of the storm reserve to approximately $650 million.  If the FPSC determines that the storm restoration costs should not be securitized and instead should be recovered through another means, FPL has recommended as an alternative recovering the 2005 hurricane costs through a surcharge over approximately three years and implementing a separate surcharge to fund a $650 million storm reserve.  The FPSC's decision is expected in May 2006.  On February 2, 2006, several interested parties fil
+ed a motion to dismiss FPL's petition, claiming that the petition did not satisfy certain technical requirements.  FPL filed its response to the motion on February 6, 2006, asserting that the requirements cited are not applicable to FPL's petition and which were met in any event.  The FPSC has the right to review FPL's storm charges for prudence, and has the authority to determine the manner and timing of recovery.  See Note 1 -
+ Storm Reserve Deficiency.
+
+In January 2006, the FPSC held an electric infrastructure workshop to discuss the damage to electric utility facilities incurred due to recent hurricanes and to explore ways of minimizing damage and resulting outages to customers in the future.  Presentations on hurricane issues were made by representatives of city governments, vendors and the Florida utilities.  On January 30, 2006, FPL filed a report with the FPSC outlining its Storm Secure Plan, a new initiative to enhance its electrical grid as a result of heightened hurricane activity and in response to concerns expressed by the community, state leaders and regulators.  On February 7, 2006, the FPSC approved a rule that requires the Florida electric utilities to inspect their transmission and distribution wood poles on an eight-year inspection cycle and file an annual report with the FPSC regarding such inspections.  The FPSC has scheduled a meeting for February 27, 2006 to discuss what the next step(s) will be.</
+P>
+
+The FPSC has the authority to disallow recovery of costs that it considers excessive or imprudently incurred.  Such costs may include, among others, O&M expenses, the cost of replacing power lost when fossil and nuclear units are unavailable, storm restoration costs and costs associated with the construction or acquisition of new facilities.
+
+Competition.  FPL currently faces competition from other suppliers of electrical energy to wholesale customers and from alternative energy sources and self-generation for other customer groups, primarily industrial customers.  In 2005, operating revenues from wholesale and industrial customers combined represented approximately 4% of FPL's total operating revenues.  Various states, other than Florida, have enacted legislation or have state commissions that have issued orders designed to allow retail customers to choose their electricity supplier.  Such a regulatory restructuring, if enacted in Florida, would most likely result in a shift from cost-based rates to market-based rates for energy production and other services provided to retail customers.  Although the legislation and initiatives in other states vary substantially, common areas of focus include when market-based pricing will 
+be available for wholesale and retail customers, what existing prudently incurred costs in excess of the market-based price will be recoverable and whether generating assets should be separated from transmission, distribution and other assets.  It is generally believed that transmission and distribution activities would remain regulated.  Within the last few years, these state restructuring efforts have diminished, and several states have delayed the implementation or reversed previously approved restructuring legislation and rules.  Management believes it is unlikely there will be any state actions to restructure the retail electric industry in Florida in the near future.  If the basis of regulation for some or all of FPL's business changes from cost-based regulation, existing regulatory assets and liabilities would be written off unless regulators specify an alternative means of recovery or refund.  Further, other aspects of the business, such as generation
+ assets and long-term power purchase commitments, would need to be reviewed to assess their recoverability in a changed regulatory environment.  See Note 1 - Regulation.
+
+The FPSC promotes cost competitiveness in the building of new steam generating capacity by requiring investor-owned electric utilities, such as FPL, to issue an RFP.  The RFP process allows independent power producers and others to bid to supply the needed generating capacity.  If a bidder has the most cost-effective alternative, meets other criteria such as financial viability and demonstrates adequate expertise and experience in building and/or operating generation capacity of the type proposed, the investor-owned electric utility would seek to negotiate a power purchase agreement with the selected bidder and request that the FPSC approve the terms of the power purchase agreement and, if appropriate, provide the required authorization for the construction of the bidder's generation capacity.  In August 2005, FPL issued part one of a two-part RFP for additional power resources beginning in 2009.  FPL's self-build approach calls for building two approximately 1,200 mw 
+natural gas-fired combined-cycle units in western Palm Beach County, Florida, that would be operational in 2009 and 2010.  In January 2006, after evaluating alternative proposals, FPL concluded that its self-build approach is the most cost-effective alternative to satisfy the need for additional power resources in 2009 and 2010.  FPL plans to issue part two of this RFP in 2006 soliciting competitive bids for additional power resources beginning in 2012.  FPL's self-build approach calls for building two approximately 850 mw advanced technology coal generating units that would be operational in 2012 and 2013.
+
+The FERC has jurisdiction over potential changes that could affect competition in wholesale transactions.  In 1999, the FERC issued its final order on RTOs which, under a variety of structures, provides for the independent operation of transmission systems for a given geographic area.  In early 2001, the FERC approved GridFlorida (FPL's, Progress Energy Florida, Inc.'s and Tampa Electric Company's proposed RTO) as the RTO for peninsular Florida.  In late 2001, the FPSC determined that the RTO as proposed was not in the best interest of Florida customers and required the companies to develop a modified proposal.  In early 2002, FPL, Progress Energy Florida, Inc. and Tampa Electric Company filed a modified RTO proposal with the FPSC changing the structure of GridFlorida from a for-profit transmission company to a non-profit ISO.  In late 2002, the FPSC approved many of the aspects of the modified RTO proposal, administratively approving recovery of GridFlorida'
+s incremental costs through the capacity clause.  During 2004, the FPSC held workshops to address additional GridFlorida issues.  In 2005, an independent consulting firm performed a cost benefit analysis of GridFlorida and concluded that GridFlorida would not be cost effective for the retail customers of the GridFlorida participants.  In January 2006, FPL and the other GridFlorida participants petitioned the FPSC to approve the withdrawal of the GridFlorida proposal.
+
+System Capability and Load.  During 2005, FPL completed the addition of approximately 1,900 mw of natural gas combined-cycle generation at its Martin and Manatee sites.  FPL is currently constructing an 1,150 mw natural gas-fired plant at its Turkey Point site with a planned in-service date of mid-2007.  See Competition above regarding an RFP for additional power generation resources beginning in 2009.
+
+At December 31, 2005, FPL's resources for serving load consisted of 23,768 mw, of which 20,777 mw are from FPL-owned facilities (see Item 2 -
+ Generating Facilities) and 2,991 mw are obtained through purchased power contracts (see Note 16 - Contracts).  FPL's projected reserve margin for the summer of 2006 is approximately 19.5%.  This reserve margin will be achieved through the combination of output from FPL's generating units, purchased power contracts and the capability to reduce peak demand through the implementation of load management, which was estimated to be 1,387 mw at December 31, 2005.  Occasionally, unusually cold temperatures during the winter months result in significant increases in electricity usage for short periods of time.  However, customer usage and operating revenues are typically higher during the summer months largely due to the prevalent use of air conditioning in FPL's service territory.  During the summer of 2005, FPL set four all-time system peaks: 21,220 mw on July 5, 2005, 21,434 mw on July 6, 2005, 21,611 mw on July 21, 2005 and 22,361 on August 17, 2005. &n
+bsp;FPL had adequate resources available at the time of these peaks to meet customer demand.
+
+Capital Expenditures.  Capital expenditures at FPL include, among other things, the cost for construction or acquisition of additional facilities and equipment to meet customer demand, as well as capital improvements to and maintenance of existing facilities.  FPL's capital expenditures totaled $1.8 billion in 2005 (including AFUDC of approximately $41 million), $1.4 billion in 2004 (including AFUDC of approximately $48 million) and $1.4 billion in 2003 (including AFUDC of approximately $18 million).  Capital expenditures for 2006 through 2010 are estimated as follows:
+
+
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+
+2010
+ 
+
+Total
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FPL:
+
+(millions)
+
+
+
+    Generation: (a)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+        New (b)
+
+$
+
+255
+ 
+
+$
+
+520
+ 
+
+$
+
+605
+ 
+
+$
+
+660
+ 
+
+$
+
+500
+ 
+
+$
+
+2,540
+ 
+
+
+        Existing
+ 
+
+450
+ 
+ 
+
+455
+ 
+ 
+
+330
+ 
+ 
+
+395
+ 
+ 
+
+285
+ 
+ 
+
+1,915
+ 
+
+
+    Transmission and distribution
+ 
+
+750
+ 
+ 
+
+665
+ 
+ 
+
+640
+ 
+ 
+
+640
+ 
+ 
+
+645
+ 
+ 
+
+3,340
+ 
+
+
+    Nuclear fuel
+ 
+
+75
+ 
+ 
+
+120
+ 
+ 
+
+85
+ 
+ 
+
+125
+ 
+ 
+
+135
+ 
+ 
+
+540
+ 
+
+
+    General and other
+ 
+
+145
+ 
+ 
+
+170
+ 
+ 
+
+165
+ 
+ 
+
+160
+ 
+ 
+
+165
+ 
+ 
+
+805
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Total
+
+$
+
+1,675
+ 
+
+$
+
+1,930
+ 
+
+$
+
+1,825
+ 
+
+$
+
+1,980
+ 
+
+$
+
+1,730
+ 
+
+$
+
+9,140
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________
+
+
+(a)  
+
+Includes AFUDC of approximately $39 million, $30 million, $51 million, $72 million and $71 million in 2006, 2007, 2008, 2009 and 2010, respectively.
+
+
+(b)  
+
+Includes generating structures, transmission interconnection and integration, licensing and AFUDC.
+
+
+
+
+These estimates are subject to continuing review and adjustment and actual capital expenditures may vary from these estimates.  See Management's Discussion -
+ Liquidity and Capital Resources and Note 16 -
+ Commitments.
+
+Nuclear Operations.  FPL owns and operates four nuclear units, two at Turkey Point and two at St. Lucie.  Turkey Point Units Nos. 3 and 4 received operating license extensions in 2002, which give FPL the option to operate these units until 2032 and 2033, respectively.  The NRC extended the operating licenses for St. Lucie Units Nos. 1 and 2 during 2003, which give FPL the option to operate these units until 2036 and 2043, respectively.  The original license expiration dates for Turkey Point Units Nos. 3 and 4 and St. Lucie Units Nos. 1 and 2 were 2012, 2013, 2016 and 2023, respectively.  The depreciation and decommissioning rates approved as part of the 2005 rate agreement reflect the license extensions received for Turkey Point Units Nos. 3 and 4 and St. Lucie Units Nos. 1 and 2.  The nuclear units are periodically removed from service to accommodate normal refueling and 
+maintenance outages, repairs and certain other modifications.  Scheduled nuclear refueling outages typically require the unit to be removed from service for approximately 30 days.  Scheduled nuclear refueling outages by unit are as follows:
+
+
+ 
+ 
+
+Refueling Outage
+ 
+
+
+
+
+
+
+
+Unit
+ 
+
+Most Recent
+ 
+
+Next Scheduled
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+St. Lucie Unit No. 1
+ 
+
+Fall 2005
+ 
+
+Spring 2007
+ 
+
+
+St. Lucie Unit No. 2
+ 
+
+January 2005
+ 
+
+Spring 2006
+ 
+
+
+Turkey Point Unit No. 3
+ 
+
+Fall 2004
+ 
+
+Spring 2006
+ 
+
+
+Turkey Point Unit No. 4
+ 
+
+Spring 2005
+ 
+
+Fall 2006
+ 
+
+
+
+
+The NRC's regulations require FPL to submit a plan for decontamination and decommissioning five years prior to the projected end of plant operation.  FPL's current plans, under the extended operating licenses, provide for prompt dismantlement of Turkey Point Units Nos. 3 and 4 with decommissioning activities commencing in 2032 and 2033, respectively.  Current plans provide for St. Lucie Unit No. 1 to be mothballed beginning in 2036 with decommissioning activities to be integrated with the prompt dismantlement of St. Lucie Unit No. 2 at the end of its useful life in 2043.  See estimated decommissioning cost data in Note 1 - Decommissioning of Nuclear Plants, Dismantlement of Plants and Other Accrued Asset Removal Costs.
+
+In 2003, the NRC issued an order requiring all pressurized water reactor licensees, including FPL, to perform visual and volumetric inspections of reactor vessel heads at each unit's scheduled refueling outage to identify if degradation such as cracking or corrosion has occurred.  In conjunction with the NRC order, FPL has performed visual and volumetric inspections of its nuclear units' reactor vessel heads during their scheduled refueling outages since October 2002.  FPL replaced the reactor vessel heads at Turkey Point Unit No. 3, Turkey Point Unit No. 4 and St. Lucie Unit No. 1 during their scheduled refueling outages in the fall of 2004, spring of 2005 and fall of 2005, respectively, and therefore no further inspections will be required at these units until 2009.  The inspections during scheduled refueling outages at St. Lucie Unit No. 2 revealed CRDM nozzles with cracks, which were repaired during the outages in 2003 and 2005.  It is anticipated that additional C
+RDM nozzle repairs will be needed at St. Lucie Unit No. 2's next scheduled outage.  FPL intends to replace the reactor vessel head at St. Lucie Unit No. 2 during its fall 2007 scheduled refueling outage.  The cost to replace St. Lucie Unit No. 2's reactor vessel head, including AFUDC, is included in FPL's estimated capital expenditures.  See Management's Discussion - Results of Operations - FPL and Note 16 - Commitments. 
+
+St. Lucie Unit No. 2's steam generators are reaching the end of their useful life.  As flaws are identified in individual tubes, they are plugged in order to prevent the tubes from leaking during plant operations.  To date, 18.9% of these tubes have been plugged.  In January 2005, FPL received permission from the NRC to plug up to 30% of St. Lucie Unit No. 2's steam generator tubes.  Current projections indicate that the 30% tube plugging limit could be exceeded during St. Lucie Unit No. 2's next scheduled refueling outage.  FPL is planning to repair any tubes exceeding the 30% tube plugging limit by inserting metal sleeves inside the degraded tubes (sleeving) and has requested NRC approval to sleeve degraded tubes as an alternative to plugging.  Sleeving degraded tubes is expected to increase the cost and length of the outage.  FPL intends to replace the steam generators along with the reactor vessel head at St. Lucie Unit No. 2 during it
+s fall 2007 scheduled refueling outage.  The cost to replace St. Lucie Unit No. 2's steam generators, including AFUDC, is included in FPL's estimated capital expenditures above.  See Management's Discussion - Results of Operations - FPL and Note 16 - Commitments.  The replacement of the reactor vessel head and steam generators is expected to add approximately 55 days to the number of days St. Lucie Unit No. 2 is removed from service during a typical scheduled refueling outage.
+
+During 2003, nuclear utilities, other than FPL, identified that pressurizer heater sleeves made with a particular material (alloy 600) were experiencing penetration cracks and leaks as a result of primary water stress corrosion cracking.  As a result, in 2004, the NRC issued a bulletin requesting utilities to identify and inspect all alloy 600 and weld materials in all pressurizer locations and connected steam space piping.  Due to the amount of time and cost associated with correcting potential leaks, FPL replaced St. Lucie Unit No. 1's pressurizer during its fall 2005 outage and plans to repair St. Lucie Unit No. 2's pressurizer heater sleeves and other penetrations during its scheduled refueling and steam generator and reactor vessel head replacement outage in the fall of 2007.  The estimated cost is included in FPL's estimated capital expenditures above.  Since the 2004 NRC bulletin was issued, no leaks have been identified based on inspections at St. Lucie Unit No
+. 2.  See Note 16 - Commitments.  All pressurizer penetrations and welds at Turkey Point Units Nos. 3 and 4 utilize a different material.
+
+Fuel.  FPL's generating plants use a variety of fuels.  See Item 2 - Generating Facilities and Note 16 - Contracts.  The diverse fuel options, along with purchased power, enable FPL to shift between sources of generation to achieve a more economical fuel mix.
+
+FPL has four firm transportation contracts in place with FGT and one firm transportation contract with Gulfstream that together will satisfy substantially all of the anticipated needs for natural gas transportation at its existing units.  The four existing FGT contracts expire between 2015 and 2022, while the Gulfstream contract expires in 2028.  The two contracts expiring in 2015 may be extended by FPL until 2030.  To the extent desirable, FPL can also purchase interruptible gas transportation service from FGT and Gulfstream based on pipeline availability.  FPL has several short- and medium-term natural gas supply contracts to provide a portion of FPL's anticipated needs for natural gas.  The remainder of FPL's gas requirements are purchased under other contracts and in the spot market.
+
+FPL has, through its joint ownership interest in St. Johns River Power Park (SJRPP) Units Nos. 1 and 2, long-term coal supply and transportation contracts for a portion of the fuel needs for those units.  All of the transportation requirements and a portion of the fuel supply needs for Scherer Unit No. 4 are covered by a series of annual and long-term contracts.  FPL's remaining fuel requirements for these units will be obtained in the spot market.  FPL's oil requirements are obtained under short-term contracts and in the spot market.
+
+FPL leases nuclear fuel for all four of its nuclear units.  See Note 1 - Nuclear Fuel.  In 2003, FPL Group and FPL began consolidating the lessor entity in accordance with FIN 46, "Consolidation of Variable Interest Entities."  See Note 9 - FPL.  The contracts for the supply, conversion, enrichment and fabrication of FPL's nuclear fuel have expiration dates ranging from December 2006 through 2013.  Currently, FPL is storing spent fuel on site pending its removal by the DOE.  Under the Nuclear Waste Policy Act, the DOE was required to construct permanent disposal facilities and take title to and provide transportation and disposal for spent nuclear fuel by January 31, 1998 for a specified fee based on current generation from nuclear power plants.  Through December 2005, FPL has paid approximately $541 million in such fees to the DOE's nuclear waste fund.  The DOE did not meet its statutory obligation for disposal of spen
+t nuclear fuel under the Nuclear Waste Policy Act.  In 1997, a court ruled, in response to petitions filed by utilities, state governments and utility commissions, that the DOE could not assert a claim that its delay was unavoidable in any defense against lawsuits by utilities seeking money damages arising out of the DOE's failure to perform its obligations.  In 1998, FPL filed a lawsuit against the DOE seeking damages caused by the DOE's failure to dispose of spent nuclear fuel from FPL's nuclear power plants.  The matter is pending.  In the interim, FPL is investigating other alternatives to provide adequate storage capacity for all of its spent nuclear fuel.  Based on current projections, FPL will lose its ability to store additional spent fuel on site for St. Lucie Unit No. 1 in 2008, St. Lucie Unit No. 2 in 2007, Turkey Point Unit No. 3 in 2010 and Turkey Point Unit No. 4 in 2012.  These projections are based on additional space provided by new
+ cask pit area storage racks installed at the Turkey Point Units Nos. 3 and 4 and St. Lucie Unit No. 1 spent fuel pools in 2004.  St. Lucie Unit No. 2's cask pit rack is expected to be completed in the summer of 2006, which will extend its capability to store spent fuel through 2010.  In addition, degradation in a material used in the spent fuel pools at St. Lucie Unit No. 1 and Turkey Point Units Nos. 3 and 4 could result in implementation of alternative spent fuel storage options sooner than projected.  FPL plans to begin using dry storage casks to store spent fuel at the St. Lucie Units prior to 2009 and at the Turkey Point Units prior to 2010, which would extend their capability to store spent fuel indefinitely.  The cost for the dry storage casks is included in FPL's estimated capital expenditures above.
+
+In 2002, the governor of Nevada submitted a Notice of Disapproval to Congress regarding President Bush's recommendation to develop Yucca Mountain as a nuclear waste depository.  The Yucca Mountain site is the DOE's recommended location to store and dispose of spent nuclear fuel and high-level radioactive waste.  During May and July 2002, Congress overrode the Notice of Disapproval through a majority vote of both houses.  The President signed the joint resolution of Congress into law in 2002.  The State of Nevada has initiated legal actions to attempt to block the project.  In 2004, the U.S. Court of Appeals for the District of Columbia Circuit ruled on a series of challenges to the statutes and regulations established to govern a nuclear waste depository at the Yucca Mountain site.  The court denied all the challenges except for one, regarding an EPA rule governing the time period the public would be protected from hypothetical radiation leaks at th
+e Yucca Mountain repository.  The court's decision will likely result in revisions to the EPA's and NRC's licensing rules for Yucca Mountain and could further delay the licensing process for Yucca Mountain.  The DOE is no longer projecting when the nuclear waste depository will be completed.
+
+Energy Marketing and Trading.  EMT, a division of FPL, buys and sells wholesale energy commodities, such as natural gas, oil and electricity.  EMT procures natural gas and oil for FPL's use in power generation and sells excess gas, oil and electricity.  EMT also uses derivative instruments, such as swaps, options and forwards to manage the commodity price risk inherent in fuel and electricity sales and purchases.  Substantially all of the results of EMT's activities are passed through to customers in the fuel or capacity clauses.  See Retail Ratemaking, Management's Discussion - Energy Marketing and Trading and Market Risk Sensitivity and Note 4.
+
+Environmental.  Federal, state and local environmental laws and regulations cover air and water quality, land use, power plant and transmission line siting, EMF from power lines and substations, oil discharge from transformers, lead paint, asbestos, noise and aesthetics, solid waste, natural resources, wildlife mortality and other environmental matters.  Compliance with these laws and regulations increases the cost of electric service by requiring, among other things, changes in the design and operation of existing facilities and changes or delays in the location, design, construction and operation of new facilities.  During 2005, FPL spent approximately $41 million on capital additions to comply with environmental laws and regulations.  FPL's capital expenditures to comply with environmental laws and regulations are estimated to be $236 million for 2006 through 2008, including approximately $89 m
+illion in 2006, and are included in estimated capital expenditures set forth in Capital Expenditures above.  Environmental regulations are subject to change.  The following is a discussion of emerging federal initiatives and rules that could potentially affect FPL.  FPL would generally seek recovery under its environmental clause for compliance costs associated with any new environmental laws and regulations.
+
+Climate Change -
+ As a participant in President Bush's Climate Leader Program to reduce greenhouse gas intensity in the United States by 18% by 2012, FPL has inventoried its greenhouse gas emission rates and FPL Group has committed to a 2008 reduction target of 18% below a 2001 baseline emission rate measured in pounds per megawatt-hour.  FPL believes that the planned operation of its generating portfolio, along with its current efficiency initiatives, greenhouse gas management efforts and increased use of renewable energy, will allow it to achieve this target.
+
+In addition to the voluntary initiative, the U.S. Congress is considering several legislative proposals that would establish new mandatory regulatory requirements and reduction targets for greenhouse gases.  Based on the most current reference data available from government sources, FPL is among the lowest emitters of greenhouse gases measured by its rate of emissions to generation in pounds per megawatt-hour.  However, these legislative proposals have differing methods of implementation and the impact on FPL's generating units and/or the financial impact (either positive or negative) to FPL Group and FPL could be material, depending on the eventual structure of a mandatory program.
+
+Multi-Pollutant Legislation -
+ The U.S. Congress and the Bush Administration are considering several legislative proposals that would establish new regulatory requirements and reduction targets for sulfur dioxide, nitrogen oxide, mercury, and in some proposals, carbon dioxide.  Based on the most current reference data available from government sources, FPL is among the lowest generators of these emissions when measured by its rate of emissions to generation in pounds per megawatt-hour.  However, these multi-pollutant proposals have differing methods of implementation and the impact on FPL's generating units and/or the financial impact (either positive or negative) to FPL Group and FPL could be material, depending on the eventual structure of any legislation enacted.
+
+Clean Air Act Mercury/Nickel Rule -
+ In 2005, the EPA proposed a final rule to regulate mercury emissions from coal-fired electric utility steam generating units under Section 111 of the Clean Air Act.  The EPA's proposed final rule seeks to reduce mercury emissions starting in 2010 through "cobenefits" reduction occurring as a result of pollution control equipment currently installed or to be installed in response to the Clean Air Interstate Rule or other environmental rules.  This proposed final rule would also allow the EPA to implement a mercury emissions trading program.  There is considerable opposition to the proposed final rule from environmental groups, which contend that there should be more stringent control of mercury emissions.  While the final requirements are uncertain, it is possible that Scherer Unit No. 4, St. Johns River Power Park Units Nos. 1 and 2 and certain coal-fired units from which FPL purchases power, may be required to add additional pollution control equipment or purchas
+e emission allowances in order to achieve compliance with the proposed mercury emission limits.
+
+During 2005, the EPA determined that new data indicated that nickel emissions from oil-fired units should not be regulated under Section 112 of the Clean Air Act, which set Maximum Achievable Control Technology standards, and as a result the EPA published a final rule delisting nickel from the requirements of regulation under Section 112.  Both the mercury and nickel rulemaking decisions are being challenged by various states and environmental groups.
+
+Clean Air Interstate Rule (CAIR) -
+ In 2005, the EPA published a final CAIR that requires sulfur dioxide (SO2) and nitrogen oxide (NOx) emissions reductions from electric generating units in 28 states where their emissions are transported to downwind states allegedly resulting in fine particulate (PM 2.5) and ozone non-attainment.  The final rule requires phased reductions in SO2 emissions by 2010 and by 2015, and reductions in NOx emissions by 2009 and by 2015, eventually reaching a nationwide reduction of 65% below a 2002 baseline emission rate for each.  In the final rule, through the use of modeling data, the states in which FPL facilities are located were determined to be contributors of PM 2.5 and/or ozone production in downwind states.  However, FPL believes that the emissions from most of its Florida generating facilities are not affecting the non-attainment status of downwind areas.  In July 2005, FPL Group filed a petition for reconsideration with the EPA and a lawsui
+t in the U.S. Court of Appeals for the District of Columbia challenging the SO2 and NOx provisions in CAIR.  In November 2005, the EPA agreed to reconsider several issues raised regarding the final rule.  The EPA plans to issue a decision on all issues by March 15, 2006.  While the final requirements are uncertain, it is possible that the FPL generating facilities in Florida and Georgia may be required to add additional SO2 and NOx controls or purchase emissions allowances to meet the compliance requirements of the final rule.
+
+Clean Air Visibility Rule -
+ In 2005, the EPA issued the Clean Air Visibility Rule to address regional haze in areas which include certain national park and wilderness areas through the installation of BART for electric generating units.  BART eligible units include those built between 1962 and 1977 that have the potential to emit more than 250 tons of visibility-impairing pollution a year.  The rule requires states to identify the facilities required to install BART controls by 2008 and allows for a five-year period to implement pollution controls.  While the impact of final BART requirements are uncertain, it is possible that some of FPL's BART eligible units may be required to add additional controls or switch fuels to meet the BART compliance requirements.
+
+Clean Water Act Section 316(b) -
+ In 2004, the EPA issued a rule under Section 316(b) of the Clean Water Act to address intake structures at existing power plants with once-through cooling water systems.  The rule requires FPL to demonstrate that it has met or will meet new impingement mortality (the loss of organisms against screens and other exclusion devices) and/or entrainment (the loss of organisms by passing them through the cooling system) reductions by complying with one of five alternatives, including the authorized use of technology, operational measures or restoration measures, and may involve the performance of biological studies.  The rules will impact eight of FPL's generating facilities (Cape Canaveral, Cutler, Fort Myers, Lauderdale, Port Everglades, Sanford, Riviera and St. Lucie).  FPL will be conducting the necessary studies/analyses over the next several years and implementing solutions based upon regulatory approvals.  The total cost of these solutions, as well as any ongoing biol
+ogical monitoring that may be required, has not yet been determined.
+
+Electric and Magnetic Fields.  Since the 1970s, there has been public, scientific, and regulatory attention given to the question of whether EMF causes or contributes to adverse health effects.  These fields exist whenever there is a flow of electricity, including in power lines, appliances and building wiring.  Some epidemiological studies (which typically examine the incidence of disease in population groups) have reported a statistical association between EMF and some types of cancer, including childhood and adult leukemia.  Other studies have not reported any such relationship.  Neither these epidemiological studies nor the more controlled laboratory studies of EMF have produced conclusive evidence that EMF causes or contributes to any adverse health effects.
+
+In 1999, the National Institute of Environmental Health Sciences, at the culmination of a five-year federally supported research effort, pronounced that the scientific support for an EMF-cancer link is marginal and concluded that the probability that EMF exposure is truly a health hazard is small but cannot be completely discounted.
+
+In 2001, the IARC conducted an evaluation of power frequency EMF and cancer; it classified power frequency magnetic fields as "possibly carcinogenic" based on an association with childhood leukemia reported in some epidemiology studies.  The IARC did not conclude that power frequency EMF cause or contribute to the development of childhood leukemia or any other cancer.  In 2002, the California Department of Health Services (DHS) submitted its EMF Risk Evaluation report to the California Public Utility Commission.  The report concluded in part that "To one degree or another, all three of the DHS scientists are inclined to believe that EMF can cause some degree of increased risk of childhood leukemia, adult brain cancer, Lou Gehrig's Disease, and miscarriage."
+
+In 2002, the National Institute of Environmental Health Sciences said in a booklet it published on EMF: "For most health outcomes, there is no evidence that EMF exposures have adverse effects.  There is some evidence from epidemiology studies that exposure to power-frequency EMF is associated with an increased risk for childhood leukemia.  This association is difficult to interpret in the absence of reproducible laboratory evidence or a scientific explanation that links magnetic fields with childhood leukemia."
+
+Florida has had EMF regulations in place for many years, and FPL believes it is in compliance with the FDEP regulations regarding EMF levels within and at the edge of the rights of way for transmission lines.  Future changes in the FDEP regulations could require additional capital expenditures by FPL for such things as increasing the right of way corridors or relocating or reconfiguring transmission facilities.  It is not presently known whether any such expenditures will be required.  Currently, there are no such changes proposed to the FDEP regulations.
+
+Employees.  FPL had approximately 10,200 employees at December 31, 2005.  Approximately 32% of the employees are represented by the International Brotherhood of Electrical Workers (IBEW) under a collective bargaining agreement with FPL that expires October 31, 2008.
+
+FPL ENERGY OPERATIONS
+
+General.  FPL Energy, a wholly-owned subsidiary of FPL Group Capital, was formed in 1998 to aggregate FPL Group's existing competitive energy business.  It is a limited liability company organized under the laws of Delaware.  FPL Energy through its subsidiaries currently owns, develops, constructs, manages and operates domestic electric-generating facilities in wholesale energy markets.  FPL Energy also provides full service requirements services to distribution utilities in certain markets.  FPL Energy manages or participates in the management of approximately 90% of its projects, which represent approximately 97% of the net generating capacity in which FPL Energy has an ownership interest.  At December 31, 2005, FPL Energy had ownership interests in operating independent power projects with a net generating capability totaling 12,053 mw (see Item 2 - Generating Facilitie
+s).  Generation capacity spans various regions, thereby reducing overall volatility related to varying market conditions and seasonality on a portfolio basis.  At December 31, 2005, the percentage of capacity by NERC region or power pool was:
+
+
+
+NERC Region/Power Pool
+
+
+Percentage of Generation Capacity
+
+
+
+
+
+
+MAPP/RFC/SPP/ERCOT
+
+
+37
+
+%
+
+
+NEPOOL/NYPP 
+
+
+24
+
+%
+
+
+SERC/PJM 
+
+
+23
+
+%
+
+
+WECC 
+
+
+16
+
+%
+
+
+
+Fuel sources for these projects were as follows:
+
+
+
+Fuel Source
+
+
+
+Percentage of Generation Capacity
+
+
+
+
+
+
+Natural Gas
+
+
+54
+
+%
+
+
+Wind
+
+
+26
+
+%
+
+
+Nuclear
+
+
+9
+
+%
+
+
+Oil
+
+
+6
+
+%
+
+
+Hydro
+
+
+3
+
+%
+
+
+Other
+
+
+2
+
+%
+
+
+
+
+In June 2005, a wholly-owned subsidiary of FPL Group completed the acquisition of Gexa Corp., a retail electric provider in Texas, which serves approximately 1,200 mw of peak load to over 160,000 commercial and residential customers as of December 31, 2005.  The Texas commodity markets have recently experienced significant price increases, which have led some regulators, government officials and other interested parties to call for a review of the structure and operation of the Texas retail market.  FPL Energy is unable to predict whether such review will occur or result in any changes to the market structure.  However, if changes occur in the market structure, such changes could affect Gexa's ability to sign and retain new and existing customers.  FPL Energy will continue to monitor these events.
+
+FPL Energy expects its future capacity growth to come primarily from wind development benefiting from the extension of the production tax credit program through 2007 for new wind facilities, as well as from asset acquisitions.  FPL Energy plans to add approximately 625 mw to 750 mw of new wind generation in each of 2006 and 2007, including over 700 mw which are currently under construction or have been approved by FPL Group's board of directors.  In January 2006, FPL Energy completed the acquisition of a 70% interest in Duane Arnold.  See Nuclear Operations.  Also, see the discussion of the proposed merger with Constellation Energy under FPL Group above.
+
+FPL Energy's capital expenditures and investments totaled approximately $0.9 billion, $0.4 billion and $1.6 billion in 2005, 2004 and 2003, respectively.  Capital expenditures for 2006 through 2010 are estimated as follows:
+
+
+ 
+
+2006
+ 
+
+2007
+ 
+
+2008
+ 
+
+2009
+ 
+
+2010
+ 
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(millions)
+
+
+FPL Energy:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Wind (a)
+
+$
+
+960
+ 
+
+$
+
+930
+ 
+
+$
+
+5
+ 
+
+$
+
+5
+ 
+
+$
+
+5
+ 
+
+$
+
+1,905
+
+
+    Nuclear (b)
+ 
+
+495
+ 
+ 
+
+85
+ 
+ 
+
+40
+ 
+ 
+
+85
+ 
+ 
+
+100
+ 
+ 
+
+805
+
+
+    Gas
+ 
+
+45
+ 
+ 
+
+15
+ 
+ 
+
+15
+ 
+ 
+
+5
+ 
+ 
+
+-
+ 
+ 
+
+80
+
+
+    Other
+ 
+
+10
+ 
+ 
+
+10
+ 
+ 
+
+10
+ 
+ 
+
+10
+ 
+ 
+
+10
+ 
+ 
+
+50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Total
+
+$
+
+1,510
+ 
+
+$
+
+1,040
+ 
+
+$
+
+70
+ 
+
+$
+
+105
+ 
+
+$
+
+115
+ 
+
+$
+
+2,840
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________
+
+
+(a)
+
+Capital expenditures for new wind projects are estimated through 2007, when eligibility for PTCs for new wind projects is scheduled to expire.
+
+
+(b)
+
+Includes nuclear fuel and, in 2006, the acquisition of a 70% interest in Duane Arnold (see Nuclear Operations).
+
+
+
+
+These estimates are subject to continuing review and adjustment and actual capital expenditures may vary from these estimates.  See Management's Discussion -
+ Liquidity and Capital Resources and Note 16 -
+ Commitments.
+
+Regulation.  At December 31, 2005, FPL Energy had ownership interests in operating independent power projects that have received exempt wholesale generator status as defined under the Holding Company Act, which represent approximately 96% of FPL Energy's net generating capacity.  Exempt wholesale generators own or operate a facility exclusively to sell electricity to wholesale customers.  They are barred from selling electricity directly to retail customers.  FPL Energy's exempt wholesale generators produce electricity from wind, hydropower, fossil fuels and nuclear facilities.  In addition, approximately 4% of FPL Energy's net generating capacity has qualifying facility status under PURPA.  FPL Energy's qualifying facilities generate electricity from wind, solar, fossil fuels, biomass or waste-product combustion.  Qualifying facility status exempts the projects from,
+ among other things, many of the provisions of the Federal Power Act, as well as state laws and regulations relating to rates and financial or organizational regulation of electric utilities.  While projects with qualifying facility and exempt wholesale generator status are exempt from various restrictions, each project must still comply with other federal, state and local laws, including those regarding siting, construction, operation, licensing, pollution abatement and other environmental laws.
+
+FPL Energy continues to evaluate developing regional market designs.  California is scheduled to implement a revised market design in 2007.  ERCOT is considering adopting a revised market design with potential implementation in 2009.  In both markets, the final market design is not fully known at this time and FPL Energy is currently unable to determine the effects, if any, on its operations resulting from the implementation of such market designs.
+
+Competition.  Competitive wholesale markets in the United States continue to evolve and vary by geographic region.  Revenues from electricity sales in these markets will vary based on the prices obtainable for energy, capacity and other ancillary services.  Some of the factors affecting success in these markets include the ability to operate generating assets efficiently and reliably, the price and supply of fuel, transmission constraints, wind and hydro resources (weather conditions), competition from new sources of generation, effective risk management, demand growth and exposure to legal and regulatory changes.
+
+Expanded competition in a frequently changing regulatory environment presents both opportunities and risks for FPL Energy.  Opportunities exist for the selective acquisition of generation assets divested under deregulation plans or available from other competitors and for the construction and operation of efficient plants that can sell power in competitive markets.  FPL Energy seeks to reduce its market risk by having a diversified portfolio, by fuel type and location, as well as by contracting for the sale of a significant amount of the electricity output of its plants.  As of December 31, 2005, FPL Energy had 86% of its on-peak capacity under contract for 2006.  Over the last several years, contracting for the sale of electricity output was more difficult as a result of overcapacity in certain regions and diminished market liquidity due to fewer creditworthy counterparties.  However, the major markets in which FPL Energy operates have shown signs of co
+ntinued improvement since 2004, such as improved spark spreads and energy prices in ERCOT and NEPOOL.  The combination of new wind projects, expected increase in contribution from merchant assets and asset acquisitions are expected to be the key drivers in supporting FPL Energy's growth over the next few years.
+
+Portfolio by Category.  FPL Energy's assets can be categorized into the following three groups:  wind assets, contracted assets and merchant assets.
+
+As of December 31, 2005, FPL Energy's capacity under contract for 2006 and 2007 was as follows:
+
+
+
+
+
+2006
+
+
+2007
+
+
+
+
+
+
+Project Portfolio Category
+
+
+Available
+MW (a)
+
+
+% MW
+Under Contract
+
+
+Available
+MW (a)
+
+
+% MW
+Under Contract
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wind 
+
+
+
+3,166
+
+
+
+97
+
+%
+
+(b)
+
+
+
+3,287
+
+
+
+93
+
+%
+
+(b)
+
+
+Contracted (c)
+
+
+
+2,461
+
+
+
+99
+
+%
+
+(b)
+
+
+
+2,461
+
+
+
+99
+
+%
+
+(b)
+
+
+Merchant: (d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    NEPOOL
+
+
+
+2,281
+
+
+
+74
+
+%
+
+(e)
+
+
+
+2,454
+
+
+
+49
+
+%
+
+(e)
+
+
+    ERCOT 
+
+
+
+2,598
+
+
+
+87
+
+%
+
+(e)
+
+
+
+2,627
+
+
+
+37
+
+%
+
+(e)
+
+
+    All other 
+
+
+
+1,417
+
+
+
+58
+
+%
+
+(e)
+
+
+
+1,372
+
+
+
+18
+
+%
+
+(e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total portfolio (f)
+ 
+ 
+
+11,921
+ 
+ 
+
+86
+
+%
+
+(e)
+ 
+ 
+
+12,200
+ 
+ 
+
+65
+
+%
+
+(e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_____________________
+
+
+(a)  
+
+Weighted to reflect projected in-service dates, planned maintenance, Seabrook's planned refueling outage and power uprate in 2006, the acquisition of a 70% interest, or approximately 415 mw, in Duane Arnold and its planned refueling outage in 2007, and expected production from renewable resource assets.
+
+
+(b)
+
+Reflects round-the-clock mw under contract.
+
+
+(c)
+
+Includes all projects with mid- to long-term purchase power contracts for substantially all of their output.
+
+
+(d)
+
+Includes only those facilities that require active hedging.
+
+
+(e)
+
+Represents on-peak mw under contract.
+
+
+(f)
+
+Totals may not add due to rounding.
+
+
+
+
+Wind Assets -
+ At December 31, 2005, FPL Energy had ownership interests in wind plants with a combined capacity of approximately 3,192 mw (net ownership).  The majority of these wind assets have contracts with utilities and power marketers predominantly under fixed-price agreements with expiration dates ranging from 2011 to 2030.  FPL Energy operates all but six of these wind facilities.  Approximately 92% of FPL Energy's net ownership in wind facilities has received exempt wholesale generator status as defined under the Holding Company Act.  The remaining facilities have qualifying facility status under PURPA.  FPL Energy's wind facilities are located in fifteen states, thereby reducing weather-related performance risk on a portfolio basis.
+
+FPL Energy plans to add approximately 625 mw to 750 mw of new wind generation in each of 2006 and 2007, including over 700 mw which are currently under construction or have been approved by FPL Group's board of directors.
+
+Contracted - At December 31, 2005, FPL Energy had 2,046 mw of contracted assets.  The contracted category includes all projects with mid- to long-term contracts for substantially all of their output.  Essentially all of these contracted assets were under power sales contracts with utilities, with contract expiration dates ranging from 2008 to 2020 and have firm fuel and transportation agreements with expiration dates ranging from 2009 to 2033.  Approximately 1,776 mw of this capacity is gas-fired generation.  The remaining 270 mw uses a variety of fuels and technologies such as waste-to-energy, oil, solar, coal and petroleum coke.  As of December 31, 2005, approximately 89% of FPL Energy's contracted generating capacity is from power plants that have received exempt wholesale generator status under the Holding Company Act, while the remaining 11% have qualifying facility status under PURPA.  In January 2006, FPL Energy completed the acqu
+isition of a 70% interest, or approximately 415 mw, in Duane Arnold.  FPL Energy is selling its share of the output of Duane Arnold to Interstate Power and Light Company, a subsidiary of Alliant Energy Corporation (IP&L), under a long-term contract expiring in 2014.  See Nuclear Operations below.
+
+Merchant Assets - At December 31, 2005, FPL Energy's portfolio of merchant assets includes 6,815 mw of owned nuclear, natural gas, oil and hydro generation, of which 2,700 mw is located in the ERCOT region, 2,643 mw in the NEPOOL region and 1,472 mw in other regions.  The merchant assets include 877 mw of peak generating facilities.  Merchant assets are plants that do not have long-term power sales agreements to sell their output and therefore require active marketing and hedging.  Approximately 77% of the merchant assets have gas supply agreements or a combination of gas supply and transportation agreements to provide for on-peak gas requirements.  PMI uses derivative instruments (primarily swaps, options and forwards) to lock in pricing and manage the commodity price risk inherent in power sales and fuel purchases.  Reducing market risk through these instruments introduces other types of risk however, primarily counterparty and operational risks
+.
+
+Nuclear Operations.  FPL Energy owns an 88.23% undivided interest, or 1,076 mw, in Seabrook, a nuclear power plant located in New Hampshire.  FPL Energy is responsible for all plant operations and the ultimate decommissioning of the plant, the cost of which will be shared on a pro-rata basis by the joint owners.  See estimated decommissioning cost data in Note 1 - Decommissioning of Nuclear Plants, Dismantlement of Plants and Other Accrued Asset Removal Costs - FPL Energy.  In December 2005, FPL Energy obtained NRC approval to extend the unit's operating license from 2026 to 2030 to recapture the period of non-operation from 1986 to 1990.  FPL Energy intends to seek approval from the NRC to renew the unit's operating license for an additional 20 years.  If granted, this approval would extend the term of the NRC operating license for Seabrook to 2050.  In May 2005, Sea
+brook completed its first phase of a power uprate which increased FPL Energy's net plant output from 1,024 mw to 1,076 mw.  Seabrook is periodically removed from service to accommodate normal refueling and maintenance outages, repairs and certain other modifications.  Seabrook is scheduled to complete the second phase of the uprate during its next scheduled refueling outage in the fall of 2006, the estimated future costs of which are included in FPL Energy's estimated capital expenditures above.  The uprate is anticipated to increase Seabrook's net plant output to 1,106 mw.
+
+In 2003, the NRC issued an order requiring all pressurized water reactor licensees, including Seabrook, to perform visual and volumetric inspections of reactor vessel heads at certain scheduled refueling outages to identify if degradation such as cracking or corrosion has occurred.  Seabrook will be required to perform 100% visual and volumetric inspections during the fall 2006 refueling outage, and subsequently, visual inspections every third refueling outage and volumetric inspections every fourth refueling outage.
+
+Seabrook has several contracts for the supply, conversion, enrichment and fabrication of nuclear fuel with expiration dates ranging from 2006 to 2014.  See Note 16 - Contracts.  Currently, Seabrook is storing spent fuel on site pending its removal by the DOE.  Under the Nuclear Waste Policy Act, the DOE was required to construct permanent disposal facilities and take title to and provide transportation and disposal for spent nuclear fuel by January 31, 1998 for a specified fee based on current generation from nuclear power plants.  The total cumulative amount of such fees paid to the DOE's nuclear waste fund for Seabrook, including amounts paid by all joint owners since the start of Seabrook's operation, is approximately $122 million, of which FPL Energy has paid approximately $24 million since the date of the Seabrook acquisition.  In 2004, FPL Energy and Seabrook's other joint owners filed a lawsuit against the DOE seeking damages caused by the DOE's f
+ailure to dispose of spent nuclear fuel from the Seabrook facility.  The matter is pending.  For details on the current status of permanent fuel storage with the DOE see FPL Operations - Fuel.  Based on current projections, FPL Energy will lose its ability to store spent fuel at Seabrook as early as 2009.  FPL Energy is proceeding with a dry cask storage system which will be placed into commercial operation prior to 2009, the cost of which is included in FPL Energy's estimated capital expenditures above.  This would allow for all of Seabrook's spent fuel to be stored on site, including spent fuel storage through its license extension period of 2050, if granted.
+
+In January 2006, FPL Energy completed the acquisition of a 70% interest, or approximately 415 mw, in Duane Arnold, a nuclear power plant located near Cedar Rapids, Iowa, from IP&L.  FPL Energy is selling its share of the output of Duane Arnold to IP&L, under a long-term contract expiring in 2014.  FPL Energy is responsible for management and operation of the plant, as well as for the ultimate decommissioning of the facility, the cost of which will be shared on a pro-rata basis by the joint owners.  FPL Energy expects to file for a license extension for the plant in 2009, which, if approved, will enable the plant to continue to operate for an additional 20 years beyond its current license expiration of 2014.  Duane Arnold's next scheduled refueling outage is in February 2007.  Duane Arnold is using a spent fuel pool and dry cask storage for storing its spent fuel.
+
+Energy Marketing and Trading.  PMI, a subsidiary of FPL Energy, buys and sells wholesale energy commodities, such as natural gas, oil and electricity.  PMI procures natural gas and oil for FPL Energy's use in power generation.  PMI also sells the output from FPL Energy's plants which has not been sold under long-term contracts and purchases replacement power.  PMI uses derivative instruments, such as swaps, options and forwards to manage the risk associated with fluctuating commodity prices and to optimize the value of FPL Energy's power generation assets.  To a lesser extent, PMI engages in limited energy trading activities to take advantage of expected future favorable price movements.  FPL Energy also provides full service requirements services to distribution utilities in certain markets.  These services include load-following services, which require the supplier 
+of energy to vary the quantity delivered based on the load demand needs of the customer, as well as various ancillary services.  The results of PMI's activities are recognized in FPL Energy's operating results.  See Management's Discussion - Energy Marketing and Trading and Market Risk Sensitivity, Note 1 - Energy Trading and Note 4.
+
+Environmental.  FPL Energy is subject to the same environmental laws and regulations and is affected by the same emerging issues included in the discussion of FPL's business (see FPL Operations - Environmental).  While the final requirements for Section 111 of the Clean Air Act for mercury emissions are uncertain, it is possible that the final Clean Air Act Mercury/Nickel Rule may require a 44 mw coal-fired FPL Energy unit in California to add additional pollution control equipment or purchase emission allowances in order to achieve compliance with the proposed mercury emission limits.  In addition, while the impact of final BART requirements of the Clean Air Visibility Rule are uncertain, it is possible that two of FPL Energy's BART eligible units located in Maine may be required to add additional controls or switch fuels to meet the BART compliance requirements.  Furthermore, pursuant to a rule 
+under Section 316(b) of the Clean Water Act, two FPL Energy plants (Seabrook and an oil-fired plant in Maine) will be required to demonstrate that they currently meet, or will meet, the prescribed performance standards for the reduction of impingement and/or entrainment at their cooling water intakes through technology, operational measures or restoration measures.  FPL Energy will be conducting the necessary studies/analyses over the next several years and implementing solutions based upon regulatory approvals.  The total cost of these solutions, as well as any ongoing biological monitoring that may be required, has not yet been determined.
+
+During 2005, FPL Energy spent approximately $2 million on capital additions to comply with environmental laws and regulations.  FPL Energy's capital additions to comply with environmental laws and regulations are estimated to be $5 million for 2006 through 2008, including approximately $1 million in 2006, and are included in estimated capital expenditures set forth in General above.
+
+Employees.  FPL Energy had approximately 2,030 employees at December 31, 2005.  Subsidiaries of FPL Energy have collective bargaining agreements with the IBEW and the Utility Workers Union of America (UWUA), which expire in February 2008 and September 2008, respectively.  The IBEW and the UWUA represented approximately 5% and 10%, respectively, of FPL Energy's employees.
+
+OTHER FPL GROUP OPERATIONS
+
+FPL Group's Corporate and Other segment represents other business activities, primarily FPL FiberNet, that are not separately reportable.  See Note 17.
+
+FPL FiberNet.  FPL FiberNet was formed in 2000 to enhance the value of FPL Group's fiber-optic network assets that were originally built to support FPL operations.  Accordingly, in 2000, FPL's existing fiber-optic lines were transferred to FPL FiberNet.  FPL FiberNet is a limited liability company organized under the laws of Delaware.  FPL FiberNet leases wholesale fiber-optic network capacity and dark fiber to FPL and other customers, primarily telephone, internet and other telecommunications companies.  Dark fiber in the Florida metro market is also sold to third parties.  FPL FiberNet's primary business focus is the Florida metro market.  Metro networks cover Miami, Ft. Lauderdale, West Palm Beach, Tampa, St. Petersburg, Orlando and Jacksonville.  FPL FiberNet also has a long-haul network within Florida that leases bandwidth at wholesale rates.  
+;At December 31, 2005, FPL FiberNet's network consisted of approximately 2,500 route miles, which interconnect major cities throughout Florida.
+
+At December 31, 2005, FPL Group's investment in FPL FiberNet totaled approximately $203 million.  FPL FiberNet invested approximately $11 million during 2005 and plans to invest a total of $55 million over the next five years to meet customers' specific requirements and sustain its fiber-optic network.
+
+
+
+EXECUTIVE OFFICERS OF FPL GROUP (a)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Name
+ 
+
+Age
+ 
+
+Position
+ 
+
+Effective Date
+
+
+
+
+
+
+
+
+
+
+Paul I. Cutler
+ 
+
+46
+ 
+
+Treasurer and Assistant Secretary of FPL Group
+Treasurer and Assistant Secretary of FPL
+ 
+
+February 19, 2003
+February 18, 2003
+
+
+K. Michael Davis
+ 
+
+59
+ 
+
+Controller and Chief Accounting Officer of FPL Group
+ 
+
+May 13, 1991
+
+ 
+ 
+ 
+ 
+
+Vice President, Accounting, Controller and Chief Accounting
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+    Officer of FPL
+ 
+
+July 1, 1991
+
+
+Moray P. Dewhurst
+ 
+
+50
+ 
+
+Vice President, Finance and Chief Financial Officer of FPL Group
+Senior Vice President, Finance and Chief Financial Officer of FPL
+ 
+
+July 17, 2001
+July 19, 2001
+
+
+Robert H. Escoto
+ 
+
+52
+ 
+
+Vice President, Human Resources of FPL Group
+Assistant Secretary of FPL Group
+Senior Vice President, Human Resources of FPL
+Assistant Secretary of FPL
+ 
+
+January 25, 2005
+November 9, 2004
+February 21, 2005
+January 25, 2005
+
+
+Lewis Hay, III
+ 
+
+50
+ 
+
+President and Chief Executive Officer of FPL Group
+Chairman of the Board of FPL Group
+Chairman of the Board and Chief Executive Officer of FPL
+ 
+
+June 11, 2001
+January 1, 2002
+January 1, 2002
+
+
+Robert L. McGrath
+ 
+
+52
+ 
+
+Vice President, Engineering, Construction & Corporate
+    Services of FPL Group
+ 
+
+
+February 21, 2005
+
+ 
+ 
+ 
+ 
+
+Senior Vice President, Engineering, Construction & Corporate
+    Services of FPL
+ 
+
+
+February 21, 2005
+
+
+Armando J. Olivera
+ 
+
+56
+ 
+
+President of FPL
+ 
+
+June 24, 2003
+
+
+James L. Robo
+ 
+
+43
+ 
+
+Vice President, Corporate Development and Strategy of FPL Group President of FPL Energy
+ 
+
+March 11, 2002
+July 26, 2002
+
+
+Antonio Rodriguez
+ 
+
+63
+ 
+
+Senior Vice President, Power Generation Division of FPL
+ 
+
+July 1, 1999
+
+
+John A. Stall
+ 
+
+51
+ 
+
+Senior Vice President, Nuclear Division of FPL
+ 
+
+June 4, 2001
+
+
+Edward F. Tancer
+ 
+
+44
+ 
+
+Vice President & General Counsel of FPL Group
+Assistant Secretary of FPL Group
+Senior Vice President & General Counsel of FPL
+Assistant Secretary of FPL
+ 
+
+February 21, 2005
+January 1, 1997
+February 21, 2005
+January 1, 1997
+
+
+____________________
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(a)  
+
+Executive officers are elected annually by, and serve at the pleasure of, their respective boards of directors.  Except as noted below, each officer has held his present position for five years or more and his employment history is continuous.  The business experience of the executive officers is as follows: Mr. Cutler was assistant treasurer of FPL Group from May 1999 to February 2003.  He was assistant treasurer of FPL from May 1997 to February 2003.  Mr. Cutler has served as assistant secretary of FPL Group and FPL since December 1997.  Prior to July 17, 2001, Mr. Dewhurst was senior partner of Dean & Company, a management consulting and investment firm that he co-founded in 1993.  Mr. Escoto was vice president, human resources of FPL from March 2004 to February 2005.  Mr. Escoto has served as vice president, human resources of FPL Energy since April 2002.  Prior to that, Mr. Es
+coto was director of human resources of FPL.  Mr. Hay was president of FPL Energy from March 2000 to December 2001.  Mr. McGrath was senior vice president, engineering and construction of FPL from November 2002 to February 2005 and treasurer of FPL Group and FPL from January 2000 to November 2002.  He was also vice president, finance and chief financial officer of FPL Energy from June 2000 to November 2002.  Mr. Olivera was senior vice president, power systems of FPL from July 1999 to June 2003.  Prior to March 2002, Mr. Robo was president and chief executive officer of TIP, a GE Capital Company that provides trailer and storage equipment services, and GE Capital Modular Space, a supplier of mobile and modular buildings.  Mr. Stall was vice president of nuclear engineering of FPL from January 2000 to June 2001.  Mr. Tancer was associate general counsel of FPL Group from April 2003 to February 2005.  He was also vice president and
+ general counsel of FPL Energy from February 2001 to February 2005.
+
+
+
+
+Item 1A.  Risk Factors
+
+Risks Relating to FPL Group's and FPL's Business
+
+FPL Group and FPL are subject to complex laws and regulations and to changes in laws and regulations as well as changing governmental policies and regulatory actions, including initiatives regarding deregulation and restructuring of the energy industry.  FPL holds franchise agreements with local municipalities and counties, and must renegotiate expiring agreements.  These factors may have a negative impact on the business and results of operations of FPL Group and FPL.
+
+
+
+FPL Group and FPL are subject to complex laws and regulations, and to changes in laws or regulations, including the PURPA, the Holding Company Act, the Federal Power Act, the Atomic Energy Act of 1954, as amended, the 2005 Energy Act and certain sections of the Florida statutes relating to public utilities, changing governmental policies and regulatory actions, including those of the FERC, the FPSC and the legislatures and utility commissions of other states in which FPL Group has operations, and the NRC, with respect to, among other things, allowed rates of return, industry and rate structure, operation of nuclear power facilities, operation and construction of plant facilities, operation and construction of transmission facilities, acquisition, disposal, depreciation and amortization of assets and facilities, recovery of fuel and purchased power costs, decommissioning costs, ROE and equity ratio limits, and present or prospective wholesale and retail 
+competition (including but not limited to retail wheeling and transmission costs).  The FPSC has the authority to disallow recovery by FPL of any and all costs that it considers excessive or imprudently incurred.  The regulatory process generally restricts FPL's ability to grow earnings and does not provide any assurance as to achievement of earnings levels.
+
+
+
+
+FPL Group and FPL are subject to extensive federal, state and local environmental statutes as well as the effect of changes in or additions to applicable statutes, rules and regulations relating to air quality, water quality, waste management, wildlife mortality, natural resources and health and safety that could, among other things, restrict or limit the output of certain facilities or the use of certain fuels required for the production of electricity and/or require additional pollution control equipment and otherwise increase costs.  There are significant capital, operating and other costs associated with compliance with these environmental statutes, rules and regulations, and those costs could be even more significant in the future.
+
+
+
+
+FPL Group and FPL operate in a changing market environment influenced by various legislative and regulatory initiatives regarding deregulation, regulation or restructuring of the energy industry, including deregulation or restructuring of the production and sale of electricity.  FPL Group and its subsidiaries will need to adapt to these changes and may face increasing competitive pressure.
+
+
+
+
+FPL Group's and FPL's results of operations could be affected by FPL's ability to renegotiate franchise agreements with municipalities and counties in Florida.
+
+
+The operation of power generation facilities, including nuclear facilities, involves significant risks that could adversely affect the results of operations and financial condition of FPL Group and FPL.
+
+
+
+The operation of power generation facilities involves many risks, including start up risks, breakdown or failure of equipment, transmission lines or pipelines, use of new technology, the dependence on a specific fuel source, including the supply and transportation of fuel, or the impact of unusual or adverse weather conditions (including natural disasters such as hurricanes), as well as the risk of performance below expected or contracted levels of output or efficiency.  This could result in lost revenues and/or increased expenses, including the requirement to purchase power in the market at potentially higher prices to meet its contractual obligations.  Insurance, warranties or performance guarantees may not cover any or all of the lost revenues or increased expenses, including the cost of replacement power.  In addition to these risks, FPL Group's and FPL's nuclear units face certain risks that are unique to the nuclear i
+ndustry including the ability to store and/or dispose of spent nuclear fuel, the potential payment of significant retrospective insurance premiums, as well as additional regulatory actions up to and including shutdown of the units stemming from public safety concerns, whether at FPL Group's and FPL's plants, or at the plants of other nuclear operators.  Breakdown or failure of an operating facility of FPL Energy may prevent the facility from performing under applicable power sales agreements which, in certain situations, could result in termination of the agreement or incurring a liability for liquidated damages.
+
+
+The construction of, and capital improvements to, power generation facilities involve substantial risks.  Should construction or capital improvement efforts be unsuccessful, the results of operations and financial condition of FPL Group and FPL could be adversely affected.
+
+
+
+FPL Group's and FPL's ability to successfully and timely complete their power generation facilities currently under construction, those projects yet to begin construction or capital improvements to existing facilities within established budgets is contingent upon many variables and subject to substantial risks.  Should any such efforts be unsuccessful, FPL Group and FPL could be subject to additional costs, termination payments under committed contracts, and/or the write-off of their investment in the project or improvement.
+
+
+The use of derivative contracts by FPL Group and FPL in the normal course of business could result in financial losses that negatively impact the results of operations of FPL Group and FPL.
+
+
+
+FPL Group and FPL use derivative instruments, such as swaps, options and forwards to manage their commodity and financial market risks, and to a lesser extent, engage in limited trading activities.  FPL Group could recognize financial losses as a result of volatility in the market values of these contracts, or if a counterparty fails to perform.  In the absence of actively quoted market prices and pricing information from external sources, the valuation of these derivative instruments involves management's judgment or use of estimates.  As a result, changes in the underlying assumptions or use of alternative valuation methods could affect the reported fair value of these contracts.  In addition, FPL's use of such instruments could be subject to prudency challenges and if found imprudent, cost recovery could be disallowed by the FPSC.
+
+
+FPL Group's competitive energy business is subject to risks, many of which are beyond the control of FPL Group, that may reduce the revenues and adversely impact the results of operations and financial condition of FPL Group.
+
+
+
+There are other risks associated with FPL Group's competitive energy business.  In addition to risks discussed elsewhere, risk factors specifically affecting FPL Energy's success in competitive wholesale markets include the ability to efficiently develop and operate generating assets, the successful and timely completion of project restructuring activities, maintenance of the qualifying facility status of certain projects, the price and supply of fuel (including transportation), transmission constraints, competition from new sources of generation, excess generation capacity and demand for power.  There can be significant volatility in market prices for fuel and electricity, and there are other financial, counterparty and market risks that are beyond the control of FPL Energy.  FPL Energy's inability or failure to effectively hedge its assets or positions against changes in commodity prices, interest rates, counterparty cred
+it risk or other risk measures could significantly impair FPL Group's future financial results.  In keeping with industry trends, a portion of FPL Energy's power generation facilities operate wholly or partially without long-term power purchase agreements.  As a result, power from these facilities is sold on the spot market or on a short-term contractual basis, which may affect the volatility of FPL Group's financial results.  In addition, FPL Energy's business depends upon transmission facilities owned and operated by others; if transmission is disrupted or capacity is inadequate or unavailable, FPL Energy's ability to sell and deliver its wholesale power may be limited.
+
+
+FPL Group's ability to successfully identify, complete and integrate acquisitions, including the proposed merger with Constellation Energy is subject to significant risks, including the effect of increased competition for acquisitions resulting from the consolidation of the power industry.
+
+
+
+FPL Group is likely to encounter significant competition for acquisition opportunities that may become available as a result of the consolidation of the power industry, in general, as well as the passage of the 2005 Energy Act.  In addition, FPL Group may be unable to identify attractive acquisition opportunities at favorable prices and to successfully and timely complete and integrate them.
+
+
+
+
+FPL Group's ability to successfully complete and integrate the proposed merger between FPL Group and Constellation Energy is subject to certain risks and uncertainties including the ability to obtain governmental approvals of the transaction on the proposed terms, conditions and schedule; the failure of FPL Group or Constellation Energy's shareholders to approve the transaction; the risk that anticipated synergies will not be achieved or will take longer to achieve than expected; disruption from the transaction making it more difficult to maintain relationships with customers, employees, suppliers or governmental entities; unexpected transaction costs or liabilities; economic conditions; and other specific factors discussed in documents filed with the SEC by both FPL Group and Constellation Energy.  These risks, as well as other risks associated with the merger, will be more fully discussed in the joint proxy statement/prospectus that will be 
+included in the Registration Statement on Form S-4 that Constellation Energy will file with the SEC in connection with the proposed merger.
+
+
+Because FPL Group and FPL rely on access to capital markets, the inability to maintain current credit ratings and access capital markets on favorable terms may limit the ability of FPL Group and FPL to grow their businesses and would likely increase interest costs.
+
+
+
+FPL Group and FPL rely on access to capital markets as a significant source of liquidity for capital requirements not satisfied by operating cash flows.  The inability of FPL Group, FPL Group Capital and FPL to maintain their current credit ratings could affect their ability to raise capital on favorable terms, particularly during times of uncertainty in the capital markets, which, in turn, could impact FPL Group's and FPL's ability to grow their businesses and would likely increase their interest costs.
+
+
+Customer growth in FPL's service area affects FPL Group's results of operations.
+
+
+
+FPL Group's results of operations are affected by the growth in customer accounts in FPL's service area.  Customer growth can be affected by population growth as well as economic factors in Florida, including job and income growth, housing starts and new home prices.  Customer growth directly influences the demand for electricity and the need for additional power generation and power delivery facilities at FPL.
+
+
+Weather affects FPL Group's and FPL's results of operations.
+
+
+
+FPL Group's and FPL's results of operations are affected by changes in the weather.  Weather conditions directly influence the demand for electricity and natural gas and affect the price of energy commodities, and can affect the production of electricity at wind and hydro-powered facilities.  FPL Group's and FPL's results of operations can be affected by the impact of severe weather which can be destructive, causing outages and/or property damage, may affect fuel supply, and could require additional costs to be incurred.  At FPL, recovery of these costs is subject to FPSC approval.
+
+
+FPL Group and FPL are subject to costs and other effects of legal proceedings as well as changes in or additions to applicable tax laws, rates or policies, rates of inflation, accounting standards, securities laws and corporate governance requirements.
+
+
+
+FPL Group and FPL are subject to costs and other effects of legal and administrative proceedings, settlements, investigations and claims, as well as the effect of new, or changes in, tax laws, rates or policies, rates of inflation, accounting standards, securities laws and corporate governance requirements.
+
+
+Threats of terrorism and catastrophic events that could result from terrorism may impact the operations of FPL Group and FPL in unpredictable ways.
+
+
+
+FPL Group and FPL are subject to direct and indirect effects of terrorist threats and activities.  Generation and transmission facilities, in general, have been identified as potential targets.  The effects of terrorist threats and activities include, among other things, terrorist actions or responses to such actions or threats, the inability to generate, purchase or transmit power, the risk of a significant slowdown in growth or a decline in the U.S. economy, delay in economic recovery in the U.S., and the increased cost and adequacy of security and insurance.
+
+
+The ability of FPL Group and FPL to obtain insurance and the terms of any available insurance coverage could be affected by national, state or local events and company-specific events.
+
+
+
+FPL Group's and FPL's ability to obtain insurance, and the cost of and coverage provided by such insurance, could be affected by national, state or local events as well as company-specific events.
+
+
+FPL Group and FPL are subject to employee workforce factors that could affect the businesses and financial condition of FPL Group and FPL.
+
+
+
+FPL Group and FPL are subject to employee workforce factors, including loss or retirement of key executives, availability of qualified personnel, collective bargaining agreements with union employees and work stoppage that could affect the businesses and financial condition of FPL Group and FPL.
+
+
+Item 1B

@@ -1,0 +1,812 @@
+ITEM 1A.    RISK FACTORS        
+
+        You should carefully consider the risks described below before investing in our securities. The risks described
+below are not the only ones facing us. Our business is also subject to risks that affect many other companies, such as general economic conditions, geopolitical events, competition, technological
+obsolescence, labor relations, natural disasters, and international operations. Additional risks not currently known to us or that we currently believe are immaterial also may impair our business
+operations, financial condition, and liquidity.
+
+ Risks Relating to Our Business  
+
+        
+Conditions in global or regional economies, capital and money markets, and banking systems and cyclical industry demand may adversely affect our results of operations,
+financial position, and cash flows.  
+
+        Our business and operating results have been and will continue to be affected by economic conditions regionally or worldwide, including
+the cost and availability of consumer and business credit, end demand from consumer and industrial markets, and concerns as to sovereign debt levels including credit rating downgrades and defaults on
+sovereign debt, any of which could cause our customers to experience deterioration of their businesses, cash flow, and ability to obtain financing. As a result, existing or potential customers may
+delay or cancel plans to purchase our products and may not be able to fulfill their obligations to us in a timely fashion or in full. Further, our vendors may experience similar problems, which may
+impact their ability to fulfill our orders or meet agreed service and quality levels. If regional or global economic conditions deteriorate, our results of operations, financial position, and cash
+flows could be materially adversely affected. 
+
+        We
+are dependent on end market dynamics to sell our products, and our operating results can be adversely affected by cyclical and reduced demand in these markets. For example, the
+automotive industry, which accounted for approximately 34% of our net sales in fiscal 2011, has experienced a significant downturn in recent years as described below. The telecommunications industry,
+which accounted for approximately 14% of our net sales in fiscal 2011, has historically experienced periods of robust capital expenditure followed by periods of retrenchment and consolidation. The
+aerospace, defense, and marine industry, which accounted for 5% of our net sales in fiscal 2011, has undergone significant fluctuations in demand, depending on worldwide economic and political
+conditions. Periodic downturns in our customers' industries can significantly reduce demand for certain of our products,
+which could have a material adverse effect on our results of operations, financial position, and cash flows. 
+
+        
+We are dependent on the automotive industry which has experienced significant declines in recent years.  
+
+        Approximately 34% of our net sales for fiscal 2011 were to customers in the automotive industry. In recent years, automotive
+manufacturers globally have experienced lower levels of vehicle sales as a result of the 2009 economic downturn and credit conditions. Fiscal 2009 and 2010 sales levels were below fiscal 2008 levels.
+In fiscal 2011, sales increased and improved relative to prior years to reach fiscal 2008 levels. Additionally, the automotive industry is dominated by large manufacturers that can exert significant
+price pressure on their suppliers. As a supplier of automotive electronics products, our sales of these products and our profitability have been and could continue to be negatively affected by changes
+in the operations, products, business models, part-sourcing requirements, financial condition, and market share of automotive manufacturers, as well as potential consolidations among
+automotive manufacturers. 
+
+        
+We are dependent on the telecommunications, computer, and consumer electronics industries.  
+
+
+        Approximately 14% of our net sales for fiscal 2011 came from sales to the telecommunications industry. Demand for these products is
+subject to rapid technological change, and was and remains 
+
+12
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+affected
+by declines in consumer and business spending. Additionally, these markets are dominated by several large manufacturers that can exert significant price pressure on their suppliers. There can
+be no assurance that we will be able to continue to compete successfully in the telecommunications industry, and our inability to do so would materially impair our results of operations, financial
+position, and cash flows. 
+
+        Approximately
+8% of our net sales for fiscal 2011 came from sales to the computer and consumer electronics industries. Demand for our computer and consumer electronics products depends
+on underlying business and consumer demand for computer and consumer electronics products, as well as the market share of our customers. Demand was and remains affected by reduced spending. We cannot
+assure you that existing levels of business and consumer demand for new computer and consumer electronics products will not decrease. 
+
+        
+We encounter competition in substantially all areas of the electronic components industry.  
+
+        We operate in highly competitive markets for electronic components, and we expect that both direct and indirect competition will
+increase in the future. Our overall competitive position depends on a number of factors including the price, quality, and performance of our products, the level of customer service, the development of
+new technology, and our ability to participate in emerging markets. The competition we experience across product lines from other companies ranges in size from large, diversified manufacturers to
+small, highly specialized manufacturers. The electronic components industry has continued to become increasingly concentrated and globalized in recent years, and our major competitors have significant
+financial resources and technological capabilities. A number of these competitors compete with us primarily on price, and in some instances may enjoy lower production costs for certain products. We
+cannot assure you that additional competitors will not enter our markets, or that we will be able to compete successfully against existing or new competitors. Increased competition may result in price
+reductions, reduced margins, or loss of market share, any of which could materially and adversely affect our results of operations, financial position, and cash flows. 
+
+
+        
+We are dependent on market acceptance of new product introductions and product innovations for future revenue.  
+
+        Substantially all of the markets in which we operate are impacted by technological change or change in consumer tastes and preferences,
+which are rapid in certain end markets. Our operating results depend substantially upon our ability to continually design, develop, introduce, and sell new and innovative products, to modify existing
+products, and to customize products to meet customer requirements driven by such change. There are numerous risks inherent in these processes, including the risk that we will be unable to anticipate
+the direction of technological change or that we will be unable to develop and market profitable new products and applications in time to satisfy customer demands. 
+
+        
+Like other suppliers to the electronics industry, we are subject to continuing pressure to lower our prices.  
+
+        We have historically experienced, and we expect to continue to experience, continuing pressure to lower our prices. In recent years, we
+have experienced price erosion averaging from 1% to 2%. In order to maintain our margins, we must continue to reduce our costs by similar amounts. We cannot assure you that continuing pressures to
+reduce our prices will not have a material adverse effect on our margins, results of operations, financial position, and cash flows. 
+
+        
+Our results are sensitive to raw material availability, quality, and cost.  
+
+        We are a large buyer of resin, copper, gold, silver, brass, steel, chemicals and additives, zinc, and other precious metals. Many of
+these raw materials are produced in a limited number of countries 
+
+13
+
+
+
+
+ 
+
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+around
+the world or are only available from a limited number of suppliers. In addition, the price of many of these raw materials, including gold and copper, has increased in recent years and continues
+to fluctuate. Gold has recently traded at an all-time high. In recent years, we have only been able to partially offset these increases through higher selling prices. Our results of
+operations, financial position, and cash flows may be materially and adversely affected if we have difficulty obtaining these raw materials, the quality of available raw materials deteriorates, or
+there are continued significant price increases for these raw materials. Any of these events could have a substantial impact on the price we pay for raw materials and, to the extent we cannot
+compensate for cost increases through productivity improvements or price increases to our customers, our margins may decline, materially affecting our results of operations, financial position, and
+cash flows. In addition, we use financial instruments to hedge the volatility of certain commodities prices. The success of our hedging program depends on accurate forecasts of planned consumption of
+the hedged commodity materials. We could experience unanticipated hedge gains or losses if these forecasts are inaccurate. 
+
+        The
+Dodd-Frank Wall Street Reform and Consumer Protection Act contains provisions to improve the transparency and accountability concerning the supply of minerals coming from
+the conflict zones of the DRC. As a result, the SEC is required to establish new annual disclosure and reporting requirements for those companies who use "conflict" minerals mined from the DRC and
+adjoining countries in their products. When these new requirements are implemented, they could affect the sourcing and availability of minerals used in the manufacture of certain of our products. As a
+result, there may only be a limited pool of suppliers who provide conflict free metals, and we cannot assure you that we will be able to obtain these metals in sufficient quantities or at competitive
+prices. Also, since our supply chain is complex, we may face reputational challenges with our customers and other stakeholders if we are unable to sufficiently verify the origins for all metals used
+in our products through the due diligence procedures that we implement. 
+
+        
+Foreign currency exchange rates may adversely affect our results.  
+
+        We are exposed to a variety of market risks, including the effects of changes in foreign currency exchange rates on our costs and
+revenue. Approximately 55% of our net sales for fiscal 2011 were invoiced in currencies other than the U.S. Dollar, and we expect non-U.S. Dollar revenue to represent a significant and
+likely increased portion of our future net revenue. Therefore, when the U.S. Dollar strengthens in relation to the currencies of the countries where we sell our products, such as the Euro or Asian
+currencies, our U.S. Dollar reported
+revenue and income will decrease. Changes in the relative values of currencies may have a significant effect on our results of operations, financial position, and cash flows. We manage this risk in
+part by entering into financial derivative contracts. In addition to the risk of non-performance by the counterparty to these contracts, our efforts to manage these risks might not be
+successful. 
+
+        
+We may be negatively affected as our customers and vendors continue to consolidate.  
+
+        Many of the industries to which we sell our products, as well as many of the industries from which we buy materials, have become more
+concentrated in recent years, including the automotive, telecommunications, computer, and aerospace, defense, and marine industries. Consolidation of customers may lead to decreased product purchases
+from us. In addition, as our customers buy in larger volumes, their volume buying power has increased, and they have been able to negotiate more favorable pricing and find alternative sources from
+which to purchase. Our materials suppliers similarly have increased their ability to negotiate favorable pricing. These trends may adversely affect the profit margins on our products, particularly for
+commodity components. 
+
+14
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+        
+The life cycles of our products can be very short.  
+
+        The life cycles of certain of our products can be very short relative to their development cycle. As a result, the resources devoted to
+product sales and marketing may not result in material revenue, and, from time to time, we may need to write off excess or obsolete inventory or equipment. If we were to incur significant engineering
+expenses and investments in inventory and equipment that we were not able to recover and we were not able to compensate for those expenses, our results of operations, financial position, and cash
+flows would be materially and adversely affected. 
+
+        
+The ADC Telecommunications, Inc. acquisition and future acquisitions may not be successful.  
+
+        In December 2010, we acquired ADC Telecommunications, Inc. ("ADC"), and we regularly evaluate the possible acquisition of
+strategic businesses, product lines, or technologies which have the potential to strengthen our market position or enhance our existing product offerings. Risks associated with the completed
+acquisition of ADC include the risk that we do not fully integrate
+ADC successfully and the risk that revenue opportunities, cost savings, and other anticipated synergies from the transaction may not be fully realized or may take longer to realize than expected. We
+also cannot assure you that we will identify or successfully complete transactions with other acquisition candidates in the future. Nor can we assure you that completed acquisitions will be
+successful. If an acquired business fails to operate as anticipated or cannot be successfully integrated with our existing business, our results of operations, financial position, and cash flows could
+be materially and adversely affected. 
+
+        
+Future acquisitions could require us to issue additional debt or equity.  
+
+        If we were to undertake a substantial acquisition for cash, the acquisition may need to be financed in part through funding from banks,
+public offerings or private placements of debt or equity securities, or other arrangements. This acquisition financing might decrease our ratio of earnings to fixed charges and adversely affect other
+leverage measures. We cannot assure you that sufficient acquisition financing would be available to us on acceptable terms if and when required. If we were to undertake an acquisition partially or
+wholly funded by issuing equity securities or equity-linked securities, the issued securities may have a dilutive effect on the interests of the holders of our shares. 
+
+        
+We could suffer significant business interruptions.  
+
+        Our operations and those of our suppliers and customers and the supply chain that supports their operations may be vulnerable to
+interruption by natural disasters such as earthquakes, tsunamis, typhoons, or floods, or other disasters such as fires, explosions, acts of terrorism or war, disease, or failures of management
+information or other systems due to internal or external causes. If a business interruption occurs, our business, financial position, and results of operations could be materially adversely affected. 
+
+        On
+March 11, 2011, an earthquake occurred near the northeastern coast of Japan creating a tsunami that caused extensive damage. Our facilities in Japan were not materially
+damaged; however, there were disruptions in our customers' operations in Japan as well as in the supply chain that supports their operations. As a result, we experienced a negative impact on our sales
+and operations in fiscal 2011. We estimate that sales and diluted earnings per share were negatively impacted by $99 million and $0.07 per share, respectively, in fiscal 2011. There can be no
+assurance that the long-term consequence of the disaster will not adversely affect our business, financial position, and results of operations. 
+
+15
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+        
+Our future success is substantially dependent on our ability to attract and retain highly qualified technical, managerial, marketing, finance, and administrative personnel.  
+
+
+        Our success depends upon our continued ability to hire and retain key employees at our operations around the world. We depend on highly
+skilled technical personnel to design, manufacture, and support our wide range of electronic components. Additionally, we rely upon experienced managerial, marketing, and support personnel to manage
+our business effectively and to successfully promote our wide range of products. Any difficulties in obtaining or retaining the necessary global management, technical, human resource, and financial
+skills to achieve our objectives may have adverse affects on our results of operations, financial position, and cash flows. 
+
+        
+We may use components and products manufactured by third parties.  
+
+        We may rely on third-party suppliers for the components used in our products, and we may rely on third-party manufacturers to
+manufacture certain of our assemblies and finished products. Our results of operations, financial position, and cash flows could be adversely affected if such third parties lack sufficient quality
+control or if there are significant changes in their financial or business condition. We also have third-party arrangements for the manufacture of certain products, parts, and components. If these
+third parties fail to deliver quality products, parts, and components on time and at reasonable prices, we could have difficulties fulfilling our orders, sales and profits could decline, and our
+commercial reputation could be damaged. 
+
+        
+Our ability to compete effectively depends, in part, on our ability to maintain the proprietary nature of our products and technology.  
+
+        The electronics industry is characterized by litigation regarding patent and other intellectual property rights. Within this industry,
+companies have become more aggressive in asserting and defending patent claims against competitors. There can be no assurance that we will not be subject to future litigation alleging infringement or
+invalidity of certain of our intellectual property rights or that we will choose not to pursue litigation to protect our property rights. Depending on the importance of the technology, product,
+patent, trademark, or trade secret in question, an unfavorable outcome regarding one of these matters may have a material adverse effect on our results of operations, financial position, and cash
+flows. 
+
+        
+A decline in the market value of our pension plans' investment portfolios or a reduction in returns on plan assets could adversely affect our results of operations,
+financial position, and cash flows.  
+
+        Concerns about deterioration in the global economy, together with concerns about credit, inflation, or deflation, have caused and could
+continue to cause significant volatility in the price of all securities, including fixed income and equity, which has and could further reduce the value of our pension plans' investment portfolios. In
+addition, the expected returns on plan assets may not be achieved. A decrease in the value of our pension plans' investment portfolios or a reduction in returns on plan assets could have an adverse
+effect on our results of operations, financial position, and cash flows. 
+
+        
+Disruption in credit markets and volatility in equity markets may affect our ability to access sufficient funding.  
+
+        The global equity markets have been volatile and at times credit markets have been disrupted, which has reduced the availability of
+investment capital and credit. Recent downgrades of credit ratings of sovereign debt, including the U.S., has similarly affected the availability and cost of capital. As a result, we may be unable to
+access adequate funding to operate and grow our business. Our inability to access adequate funding or to generate sufficient cash from operations may require us to reconsider certain projects and
+capital expenditures. The extent of any impact will depend on several factors, 
+
+16
+
+
+
+
+ 
+
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+including
+our operating cash flows, the duration of tight credit conditions and volatile equity markets, our credit ratings and credit capacity, the cost of financing, and other general economic and
+business conditions. 
+
+        
+Divestitures of some of our businesses or product lines may materially adversely affect our results of operations, financial position, and cash flows.  
+
+        While we have completed the divestiture of underperforming or non-strategic businesses and product lines that we began over
+four years ago, we continue to evaluate specific businesses and products which may result in additional divestitures. Any divestitures may result in significant write-offs, including those
+related to goodwill and other intangible assets, which could have a material adverse effect on our results of operations and financial position. Divestitures could involve additional risks, including
+difficulties in the separation of operations, services, products, and personnel, the diversion of management's attention from other
+business concerns, the disruption of our business, and the potential loss of key employees. There can be no assurance that we will be successful in addressing these or any other significant risks
+encountered. 
+
+        
+Recognition of impairment charges for our goodwill could negatively affect our results of operations.  
+
+        We test goodwill allocated to reporting units for impairment annually during the fourth fiscal quarter, or more frequently if events
+occur or circumstances exist that indicate that a reporting unit's carrying value may exceed its fair value. We completed our annual goodwill impairment test in the fourth quarter of fiscal 2011 and
+determined that no impairment existed. Significant judgment is involved in determining if an indicator of impairment has occurred. In making this assessment, we rely on a number of reporting unit
+specific factors including operating results, business plans, economic projections, and anticipated future cash flows. There are inherent uncertainties related to these factors and management's
+judgment in applying each to the analysis of the recoverability of goodwill. Should economic conditions further deteriorate or remain depressed, estimates of future cash flows for our reporting units
+may be insufficient to support carrying value and the goodwill assigned to it, requiring us to test for impairment. Impairment charges, if any, may be material to our results of operations and
+financial position. 
+
+        
+If any of our operations are found not to comply with applicable antitrust or competition laws or applicable trade regulations, our business may suffer.  
+
+        Our operations are subject to applicable antitrust and competition laws in the jurisdictions in which we conduct our business, in
+particular the United States and the European Union. These laws prohibit, among other things, anticompetitive agreements and practices. If any of our commercial, including distribution, agreements and
+practices with respect to the electrical components or other markets are found to violate or infringe such laws, we may be subject to civil and other penalties. We also may be subject to third party
+claims for damages. Further, agreements that infringe these antitrust and competition laws may be void and unenforceable, in whole or in part, or require modification in order to be lawful and
+enforceable. If we are unable to enforce any of our commercial agreements, whether at all or in material part, our results of operations, financial position, and cash flows could be adversely
+affected. Further, any failure to maintain compliance with trade regulations could limit our ability to import and export raw materials and finished goods into or from the relevant jurisdiction, which
+could negatively impact our results of operations, financial position, and cash flows. 
+
+17
+
+
+
+
+
+
+<A
+NAME="page_ce78801_1_18"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+        
+We are subject to global risks of political, economic, and military instability.  
+
+        Our workforce, manufacturing, research, administrative, and sales facilities, markets, customers, and suppliers are located throughout
+the world, and we are exposed to risks that could negatively affect sales or profitability, including: 
+
+
+
+•tariffs, trade barriers, and trade disputes;   
+•regulations related to customs and import/export matters;   
+•variations in lengths of payment cycles;   
+•tax issues, such as tax law changes, examinations by taxing authorities, variations in tax laws from country to country,
+and difficulties in repatriating in a tax-efficient manner cash generated or held in a number of jurisdictions;   
+•challenges in collecting accounts receivable;   
+•employment regulations and local labor conditions;   
+•difficulties protecting intellectual property;   
+•instability in economic or political conditions, including sovereign debt levels, inflation, recession, and actual or
+anticipated military or political conflicts; and   
+•the impact of each of the foregoing on our outsourcing and procurement arrangements. 
+
+
+        We
+have sizeable operations in China, including 17 manufacturing sites. In addition, 15% of our net sales in fiscal 2011 were made to customers in China. The legal system in China is
+still developing and is subject to change. Accordingly, our operations and orders for products in China could be adversely affected by changes to or interpretation of Chinese law. 
+
+        In
+addition, Standard & Poor's recent credit rating downgrade of long-term U.S. sovereign debt, any future downgrade by other rating agencies of long-term
+U.S. sovereign debt, or downgrades or defaults of sovereign debt of other nations may negatively affect global financial markets and economic conditions, which could negatively affect our business,
+financial condition and liquidity. 
+
+        
+We could be adversely affected by violations of the U.S. Foreign Corrupt Practices Act, the U.K. Anti-Bribery Act, and similar worldwide anti-bribery
+laws.  
+
+        The U.S. Foreign Corrupt Practices Act ("FCPA"), the U.K. Anti-Bribery Act, and similar worldwide anti-bribery
+laws generally prohibit companies and their intermediaries from making improper payments to government officials for the purpose of obtaining or retaining business. Our policies mandate compliance
+with these anti-bribery laws. We operate in many parts of the world that have experienced governmental corruption to some degree, and in certain circumstances, strict compliance with
+anti-bribery laws may conflict with local customs and practices. Despite our training and compliance program, we cannot assure you that our internal control policies and procedures always
+will protect us from reckless or criminal acts committed by our employees or agents. Violations of these laws, or allegations of such violations, could disrupt our business and result in a material
+adverse effect on our results of operations, financial position, and cash flows. 
+
+        
+Our operations expose us to the risk of material environmental liabilities, litigation, and violations.  
+
+        We are subject to numerous federal, state, and local environmental protection and health and safety laws and regulations in the various
+countries where we operate governing, among other things: 
+
+
+
+•the generation, storage, use, and transportation of hazardous materials;   
+•emissions or discharges of substances into the environment; 
+
+18
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+•investigation and remediation of hazardous substances or materials at various sites;   
+•greenhouse gas emissions; and   
+•the health and safety of our employees. 
+
+
+        We
+may not have been, or we may not at all times be, in compliance with environmental and health and safety laws. If we violate these laws, we could be fined, criminally charged, or
+otherwise sanctioned by regulators. In addition, environmental and health and safety laws are becoming more stringent resulting in increased costs and compliance burdens. 
+
+        Certain
+environmental laws assess liability on current or previous owners or operators of real property for the costs of investigation, removal, or remediation of hazardous substances or
+materials at their properties or at properties at which they have disposed of hazardous substances. Liability for investigative, removal, and remedial costs under certain federal and state laws are
+retroactive, strict, and joint and several. In addition to cleanup actions brought by governmental authorities, private parties could bring personal injury or other claims due to the presence of, or
+exposure to, hazardous substances. We have received notification from the U.S. Environmental Protection Agency and similar state environmental agencies that conditions at a number of formerly owned
+sites where we and others have disposed of hazardous substances require investigation, cleanup, and other possible remedial action and may require that we reimburse the government or otherwise pay for
+the costs of investigation and remediation and for natural resource damage claims from such sites. 
+
+        While
+we plan for future capital and operating expenditures to maintain compliance with environmental laws, we cannot assure you that our costs of complying with current or future
+environmental protection and health and safety laws, or our liabilities arising from past or future releases of, or exposures to, hazardous substances will not exceed our estimates or adversely affect
+our results of operations, financial position, and cash flows or that we will not be subject to additional environmental claims for personal injury or cleanup in the future based on our past, present,
+or future business activities. 
+
+        
+Our products are subject to various requirements related to chemical usage, hazardous material content, and recycling.  
+
+        The EU, China, and other jurisdictions in which our products are sold have enacted or are proposing to enact laws addressing
+environmental and other impacts from product disposal, use of hazardous materials in products, use of chemicals in manufacturing, recycling of products at the end of their useful life, and other
+related matters. These laws include the EU Restriction of Hazardous Substances, End of Life Vehicle, and Waste Electrical and Electronic Equipment Directives, the EU REACH (chemical registration)
+Directive, the China law on Management Methods for Controlling Pollution by Electronic Information Products, and various other laws. These laws prohibit the use of certain substances in the
+manufacture of our products and directly and indirectly impose a variety of requirements for modification of manufacturing processes, registration, chemical testing, labeling, and other matters. These
+laws continue to proliferate and expand in these and other jurisdictions to address other materials and other aspects of our product manufacturing and sale. These laws could make manufacture or sale
+of our products more expensive or impossible and could limit our ability to sell our products in certain jurisdictions. 
+
+        
+We are a defendant to a variety of litigation in the course of our business that could cause a material adverse effect on our results of operations, financial position, and
+cash flows.  
+
+        In the ordinary course of business, we are a defendant in litigation, including litigation alleging the infringement of intellectual
+property rights, anti-competitive behavior, product liability, breach of contract, and employment-related claims. In certain circumstances, patent infringement and antitrust 
+
+19
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+laws
+permit successful plaintiffs to recover treble damages. The defense of these lawsuits may divert our management's attention, and we may incur significant expenses in defending these lawsuits. In
+addition, we may be required to pay damage awards or settlements, or become subject to injunctions or other equitable remedies, that could cause a material adverse effect on our results of operations,
+financial position, and cash flows. 
+
+        
+Covenants in our debt instruments may adversely affect us.  
+
+        Our bank credit facility contains financial and other covenants, such as a limit on the ratio of debt (as defined in the credit
+facility) to earnings before interest, taxes, depreciation, and amortization (as defined in the credit facility) and limits on the amount of subsidiary debt and incurrence of liens. Our outstanding
+notes indentures contain customary covenants including
+limits on incurrence of liens, sale and lease-back transactions, and our ability to consolidate, merge, and sell assets. 
+
+        Although
+none of these covenants are presently restrictive to our operations, our continued ability to meet the bank credit facility financial covenant can be affected by events beyond
+our control, and we cannot provide assurance that we will continue to comply with the covenant. A breach of any of our covenants could result in a default under our credit facility or indentures. Upon
+the occurrence of certain defaults under our credit facility and indentures, the lenders or trustee could elect to declare all amounts outstanding thereunder to be immediately due and payable, and our
+lenders could terminate commitments to extend further credit under our bank credit facility. If the lenders or trustee accelerate the repayment of borrowings, we cannot provide assurance that we will
+have sufficient assets or access to lenders or capital markets to repay or fund the repayment of any amounts outstanding under our credit facility and our other affected indebtedness. Acceleration of
+any debt obligation under any of our material debt instruments may permit the holders or trustee of our other material debt to accelerate payment of debt obligations to the creditors thereunder. 
+
+        The
+indentures governing our outstanding senior notes contain covenants that may require us to offer to buy back the notes for a price equal to 101% of the principal amount, plus accrued
+and unpaid interest, to the repurchase date, upon a change of control triggering event (as defined in the indentures). We cannot assure you that we will have sufficient funds available or access to
+funding to repurchase tendered notes in that event, which could result in a default under the notes. Any future debt that we incur may contain covenants regarding repurchases in the event of a change
+of control triggering event. 
+
+ Risks Relating to Our Separation from Tyco International  
+
+        
+We share responsibility for certain of our, Tyco International's, and Covidien's income tax liabilities for tax periods prior to and including the distribution date.  
+
+        In connection with our separation from Tyco International in 2007, we, Tyco International, and its former healthcare businesses
+("Covidien") entered into a Tax Sharing Agreement pursuant to which we share responsibility for certain of our, Tyco International's, and Covidien's income tax liabilities based on a sharing formula
+for periods prior to and including June 29, 2007. More specifically, we, Tyco International, and Covidien share 31%, 27%, and 42%, respectively, of U.S. income tax liabilities that arise from
+adjustments made by tax authorities to our, Tyco International's, and Covidien's U.S. income tax returns, certain income tax liabilities arising from adjustments made by tax authorities to
+intercompany transactions or similar adjustments, and certain taxes attributable to internal transactions undertaken in anticipation of the separation. All costs and
+expenses associated with the management of these shared tax liabilities are shared equally among the parties. We are responsible for all of our own taxes that are not shared pursuant to the Tax
+Sharing Agreement's sharing formula. In addition, Tyco International and Covidien are responsible for their tax liabilities that are not subject to the Tax Sharing Agreement's sharing formula. 
+
+20
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+        All
+the tax liabilities that are associated with our businesses, including liabilities that arose prior to our separation from Tyco International, became our tax liabilities. Although we
+agreed to share certain of these tax liabilities with Tyco International and Covidien pursuant to the Tax Sharing Agreement, we remain primarily liable for all of these liabilities. If Tyco
+International and Covidien default on their obligations to us under the Tax Sharing Agreement, we would be liable for the entire amount of these liabilities. 
+
+        If
+any party to the Tax Sharing Agreement were to default in its obligation to another party to pay its share of the distribution taxes that arise as a result of no party's fault, each
+non-defaulting party would be required to pay, equally with any other non-defaulting party, the amounts in default. In addition, if another party to the Tax Sharing Agreement
+that is responsible for all or a portion of an income tax liability were to default in its payment of such liability to a taxing authority, we could be legally liable under applicable tax law for such
+liabilities and required to make additional tax payments. Accordingly, under certain circumstances, we may be obligated to pay amounts in excess of our agreed-upon share of our, Tyco
+International's, and Covidien's tax liabilities. 
+
+        Our,
+Tyco International's, and Covidien's income tax returns are examined periodically by various tax authorities. In connection with such examinations, tax authorities, including the
+U.S. Internal Revenue Service ("IRS"), have raised issues and proposed tax adjustments. We are reviewing and contesting certain of the proposed tax adjustments. Amounts related to these tax
+adjustments and other tax contingencies and related interest that we have assessed under the uncertain tax position provisions of Accounting Standards Codification ("ASC") 740,  Income Taxes, have been
+reflected as liabilities on the Consolidated Financial Statements. The calculation of our tax liabilities includes estimates for
+uncertainties in the application of complex tax regulations across multiple global jurisdictions where we conduct our operations. We recognize liabilities for tax as well as related interest for
+issues in the U.S. and other tax jurisdictions based on our estimate of whether, and the extent to which, additional taxes and related interest will be due. These tax liabilities and related interest
+are reflected net of the impact of related tax loss carryforwards. These estimates may change due to changing facts and circumstances; however, due to the complexity of these uncertainties, the
+ultimate resolution may result in a settlement that differs from our current estimate of the tax liabilities and related interest. 
+
+
+        Under
+the Tax Sharing Agreement, Tyco International has the right to administer, control, and settle all U.S. income tax audits for periods prior to and including June 29, 2007.
+The timing, nature, and amount
+of any settlement agreed to by Tyco International may not be in our best interests. Moreover, the other parties to the Tax Sharing Agreement will be able to remove Tyco International as the
+controlling party only under limited circumstances, including a change of control or bankruptcy of Tyco International, or by a majority vote of the parties on or after the second anniversary of the
+distribution. All other tax audits will be administered, controlled, and settled by the party that would be responsible for paying the tax. 
+
+
+        In
+September 2011, Tyco International announced its intention to spin-off two of its businesses to its shareholders, with Tyco International remaining as a publicly-traded
+company. Although these transactions are in preliminary stages, we expect that Tyco International will continue to meet its legal obligations under the Tax Sharing Agreement. 
+
+        
+If the distribution or certain internal transactions undertaken in anticipation of the separation are determined to be taxable for U.S. federal income tax purposes, we could
+incur significant U.S. federal income tax liabilities.  
+
+        Tyco International received private letter rulings from the IRS regarding the U.S. federal income tax consequences of the distribution
+of our common shares and Covidien common shares to the Tyco International shareholders substantially to the effect that the distribution, except for cash received in lieu of a fractional share of our
+common shares and the Covidien common shares, will qualify as 
+
+21
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+tax-free
+under Sections 368(a)(1)(D) and 355 of the Internal Revenue Code (the "Code"). The private letter rulings also provided that certain internal transactions undertaken in
+anticipation of the separation would qualify for favorable treatment under the Code. In addition to obtaining the private letter rulings, Tyco International obtained opinions from outside legal
+counsel confirming the tax-free status of the distribution and certain internal transactions. The private letter rulings and the opinions relied on certain facts and assumptions, and
+certain representations and undertakings, from us, Tyco International, and Covidien regarding the past and future conduct of our respective businesses and other matters. Notwithstanding the private
+letter rulings and the opinions, the IRS could determine on audit that the distribution or the internal transactions should be treated as taxable transactions if it determines that any of these facts,
+assumptions, representations, or undertakings are not correct or have been violated, or that the distributions should be taxable for other reasons, including as a result of significant changes in
+stock or asset ownership after the distribution. If the distribution ultimately is determined to be taxable, Tyco International would recognize gain in an amount equal to the excess of the fair market
+value of our common shares and Covidien common shares distributed to Tyco International shareholders on the distribution date over Tyco International's tax basis in such common shares, but such gain,
+if recognized, generally would not be subject to U.S. federal income tax. However, we would incur significant U.S. federal income tax liabilities if it is ultimately determined that certain internal
+transactions undertaken in anticipation of the separation should be treated as taxable transactions. 
+
+        In
+addition, under the terms of the Tax Sharing Agreement, in the event the distribution or the internal transactions were determined to be taxable and such determination was the result
+of actions taken after the distribution by us, Tyco International, or Covidien, the party responsible for such failure would be responsible for all taxes imposed on us, Tyco International, or Covidien
+as a result thereof. If such determination is not the result of actions taken after the distribution by us, Tyco International, or Covidien, then we, Tyco International, or Covidien would be
+responsible for 31%, 27%, and 42%, respectively, of any taxes imposed on us, Tyco International, or Covidien as a result of such determination. Such tax amounts could be significant. In the event that
+any party to the Tax Sharing Agreement defaults in its obligation to pay distribution taxes to another party that arise as a result of no party's fault, each non-defaulting party would be
+responsible for an equal amount of the defaulting party's obligation to make a payment to another party in respect of such other party's taxes. 
+
+
+ Risks Relating to Our Swiss Jurisdiction of Incorporation  
+
+        
+Legislative and other proposals in Switzerland, the United States, and other jurisdictions could cause a material change in our worldwide effective corporate tax rate.  
+
+        Various U.S. and non-U.S. legislative proposals and other initiatives have been directed at companies incorporated in
+lower-tax jurisdictions. We believe that recently there has been heightened focus on adoption of such legislation and other initiatives as various jurisdictions look for solutions to
+fiscal deficits. If adopted, these proposed changes could materially increase our worldwide corporate effective tax rate. We cannot predict the outcome of any specific legislative proposals or
+initiatives, and we cannot assure you that any such legislation or initiative will not apply to us. 
+
+        
+Legislation in the United States could adversely impact our results of operations, financial position, and cash flows.  
+
+        Various U.S. federal and state legislative proposals have been introduced in recent years that may negatively impact the growth of our
+business by denying government contracts to U.S. companies that have moved to lower-tax jurisdictions. 
+
+
+        We
+expect the U.S. Congress to continue to consider implementation and/or expansion of policies that would restrict the federal and state governments from contracting with entities that
+have corporate 
+
+22
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+locations
+abroad. We believe that we are less likely to be subject to such proposals since becoming a Swiss corporation in June 2009. However, we cannot predict the likelihood that, or final form in
+which, any such proposed legislation might become law, the nature of regulations that may be promulgated under any future legislative enactments, the effect such enactments and increased regulatory
+scrutiny may have on our business, or the outcome of any specific legislative proposals. Therefore, we cannot assure you that any such legislative action will not apply to us. In addition, we are
+unable to predict whether the final form of any potential legislation discussed above also would affect our indirect sales to U.S. federal or state governments or the willingness of our
+non-governmental customers to do business with us. As a result of these uncertainties, we are unable to assess the potential impact of any proposed legislation in this area and cannot
+assure you that the impact will not be materially adverse to us. 
+
+        
+As a Swiss corporation, we have less flexibility with respect to certain aspects of capital management involving the issuance of shares.  
+
+        As a Swiss corporation, our board of directors may not declare and pay dividends or distributions on our shares or reclassify reserves
+on our standalone unconsolidated Swiss balance sheet without shareholder approval and without satisfying certain other requirements. Our articles of association allow us to create authorized share
+capital that can be issued by the board of directors, but this authorization is limited to (i) authorized share capital up to 50% of the existing registered shares with such authorization valid
+for a maximum of two years, which authorization period ends on March 9, 2013, and (ii) conditional share capital of up to 50% of the existing registered shares that may be issued only
+for specific purposes. Additionally, subject to specified exceptions, Swiss law grants preemptive rights to existing shareholders to subscribe for new issuances of shares from authorized share capital
+and advance subscription rights to existing shareholders to subscribe for new issuances of shares from conditional share capital. Swiss law also does not provide much flexibility in the various terms
+that can attach to different classes of shares, and reserves for approval by shareholders many types of corporate actions, including the creation of shares with preferential rights with respect to
+liquidation, dividends, and/or voting. Moreover, under Swiss law, we generally may not issue registered shares for an amount below par value without prior shareholder approval to decrease the par
+value of our registered shares. Any such actions for which our shareholders must vote will require that we file a preliminary proxy statement with the SEC and convene a meeting of shareholders,
+which would delay the timing to execute such actions. Such limitations provide the board of directors less flexibility with respect to our capital management. While we do not believe that Swiss law
+requirements relating to the issuance of shares will have a material adverse effect on us, we cannot assure you that situations will not arise where such flexibility would have provided substantial
+benefits to our shareholders and such limitations on our capital management flexibility would make our stock less attractive to investors. 
+
+
+        
+Swiss law differs from the laws in effect in the United States and may afford less protection to holders of our securities.  
+
+        We are organized under the laws of Switzerland. It may not be possible to enforce court judgments obtained in the United States against
+us in Switzerland based on the civil liability provisions of the U.S. federal or state securities laws. In addition, there is some uncertainty as to whether the courts of Switzerland would recognize
+or enforce judgments of U.S. courts obtained against us or our directors or officers based on the civil liability provisions of the U.S. federal or state securities laws or hear actions against us or
+those persons based on those laws. We have been advised that the United States and Switzerland currently do not have a treaty providing for the reciprocal recognition and enforcement of judgments in
+civil and commercial matters. Some remedies available under the laws of United States jurisdictions, including some remedies available under the U.S. federal securities laws, would not be allowed in
+Swiss courts as they are contrary to that nation's public policy. 
+
+23
+
+
+
+
+ 
+
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+        Swiss
+corporate law, which applies to us, differs in certain material respects from laws generally applicable to U.S. corporations and their shareholders. These differences include the
+manner in which directors must disclose transactions in which they have an interest, the rights of shareholders to bring class action and derivative lawsuits, and the scope of indemnification
+available to directors and officers. Thus, holders of our securities may have more difficulty protecting their interests than would holders of securities of a corporation incorporated in a
+jurisdiction of the United States. 
+
+ Risks Relating to Our Shares  
+
+        
+The market price of our shares may fluctuate widely.  
+
+        The market price of our shares may fluctuate widely, depending upon many factors, including: 
+
+
+
+•our quarterly or annual earnings;   
+•changes in quarterly or annual sales or earnings guidance that we may provide;   
+•actual or anticipated fluctuations in our operating results;   
+•volatility in financial markets and market fluctuations caused by global economic conditions and investors' concerns about
+potential risks to future economic growth;   
+•changes in earnings estimates by securities analysts or our ability to meet those estimates;   
+•changes in accounting standards, policies, guidance, interpretations, or principles;   
+•announcements by us or our competitors of significant acquisitions or dispositions; and   
+•the operating and stock price performance of comparable companies and companies that serve end markets important to our
+business. 
+
+
+        
+We might not be able to make distributions on our shares without subjecting shareholders to Swiss withholding tax.  
+
+        In order to make distributions on our shares to shareholders free of Swiss withholding tax, we anticipate making distributions to
+shareholders through a reduction of contributed surplus (as determined for Swiss tax purposes) or registered share capital. Interpretations of recently enacted Swiss tax legislation and various
+proposals in Switzerland for tax law and corporate law changes, if passed in the future, may affect our ability to pay dividends or distributions to our shareholders free from Swiss withholding tax.
+We are in discussions with Swiss tax authorities regarding certain administrative aspects of recently enacted Swiss tax legislation related to the classification of Swiss contributed surplus in our
+Swiss statutory financial statements for tax and statutory reporting purposes. Should we not be successful in our discussions, we may need to formally enter into an appeal process in order to gain a
+favorable ruling. Should we not gain favorable resolution, we may be required to make certain statutory reclassifications to Swiss contributed surplus in our Swiss statutory financial statements that
+likely will limit our ability to make distributions on our shares free of Swiss withholding tax in future years. There can be no assurance that we will be able to meet the legal requirements for
+future distributions to shareholders through dividends from contributed surplus (as determined for Swiss tax purposes) or through a reduction of registered share capital, or that Swiss withholding
+rules would not be changed in the future. In addition, over the long term, the amount of registered share capital available for reductions will be limited. Our ability to pay dividends or
+distributions to our shareholders free from Swiss withholding tax is a significant component of our capital management and shareholder return practices that we believe is important to our shareholders
+and any restriction on our ability to do so could make our stock less attractive to investors. 
+
+24
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+        
+Currency fluctuations between the U.S. Dollar and the Swiss Franc may limit the amount available for any future distributions on our shares without subjecting shareholders
+to Swiss withholding tax.  
+
+        Under Swiss corporate law, we are required to state our year end unconsolidated Swiss statutory financial statements in Swiss Francs.
+Although distributions that are effected through a return of contributed surplus or registered share capital are expected to be paid in U.S. Dollars, shareholder resolutions with respect to such
+distributions are required to be stated in Swiss Francs. If the U.S. Dollar were to increase in value relative to the Swiss Franc, the U.S. Dollar amount of registered share capital available for
+future distributions without Swiss withholding tax will decrease. 
+
+        
+We have certain limitations on our ability to repurchase our shares.  
+
+        The Swiss Code of Obligations regulates a corporation's ability to hold or repurchase its own shares. We and our subsidiaries may only
+repurchase shares to the extent that sufficient freely distributable reserves (including contributed surplus as determined for Swiss tax purposes) are available. The aggregate par value of our
+registered shares held by us and our subsidiaries may not exceed 10% of our registered share capital. We may repurchase our registered shares beyond the statutory limit of 10%, however, only if our
+shareholders have adopted a resolution at a general meeting of shareholders authorizing the board of directors to repurchase registered shares in an amount in excess of 10% and the repurchased shares
+are dedicated for cancellation. Additionally, interpretations of recently enacted Swiss tax legislation and various proposals in Switzerland for tax law and corporate law changes, if passed in the
+future, may affect our ability to repurchase our shares. We are in discussions with Swiss tax authorities regarding certain administrative aspects of recently enacted Swiss tax legislation related to
+the classification of Swiss contributed surplus in our Swiss statutory financial statements for tax and statutory reporting purposes. Should we not be successful in our discussions, we may need to
+formally enter into an appeal process in order to gain a favorable ruling. Should we not gain favorable resolution, we may be required to make certain statutory reclassifications to Swiss contributed
+surplus in our Swiss statutory financial statements that may negatively impact our ability to repurchase our shares. Our ability to repurchase our shares is a significant component of our capital
+management and shareholder return practices that we believe is important to our shareholders and any restriction on our ability to repurchase our shares could make our stock less attractive to
+investors. 
+
+        
+Registered holders of our shares must be registered as shareholders with voting rights in order to vote at shareholder meetings.  
+
+
+        Our articles of association contain a provision regarding voting rights that is required by Swiss law for Swiss companies like us that
+issue registered shares (as opposed to bearer shares). This provision provides that to be able to exercise voting rights, holders of our shares must be registered in our share register (Aktienbuch) as
+shareholders with voting rights. Only shareholders whose shares have been registered with voting rights on the record date may participate in and vote at our shareholders' meetings, but all
+shareholders will be entitled to dividends, distributions, preemptive rights, advance subscription rights, and liquidation proceeds. The board of directors may, in its discretion, refuse to register
+shares as shares with voting rights if a shareholder does not fulfill certain disclosure requirements as set forth in our articles of association. Additionally, various proposals in Switzerland for
+corporate law changes, if passed in the future, may require shareholder registration in order to exercise voting rights for shareholders who hold their shares in street name through brokerages and
+banks. Such a registration requirement could make our stock less attractive to investors. 
+
+25
+
+
+
+
+ 
+
+<A
+HREF="#bg78801a_main_toc">Table of Contents
+
+
+
+        
+Certain provisions of our articles of association may reduce the likelihood of any unsolicited acquisition proposal or potential change of control that our shareholders
+might consider favorable.  
+
+        Our articles of association contain provisions that could be considered "anti-takeover" provisions because they would make
+it harder for a third party to acquire us without the consent of our incumbent board of directors. Under these provisions, among others: 
+
+
+
+•shareholders may act only at shareholder meetings and not by written consent, and   
+•restrictions will apply to any merger or other business combination between our company and any holder of 15% or more of
+our issued voting shares who became such without the prior approval of our board of directors, 
+
+
+both
+of which provisions may only be amended by the affirmative vote of the holders of 80% of our issued voting shares, which could have the effect of discouraging an unsolicited acquisition proposal
+or delaying, deferring, or preventing a change of control transaction that might involve a premium price or otherwise be considered favorably by our shareholders. Our articles of association also
+contain provisions permitting our board of directors to issue new shares from authorized or conditional capital (in either case, representing a maximum of 50% of the shares presently registered in the
+commercial register and in the case of issuances from authorized capital, until March 9, 2013 unless re-authorized by shareholders for a subsequent two-year period)
+without shareholder approval and without regard for shareholders' preemptive rights or advance subscription rights, for the purpose of the defense of an actual, threatened, or potential unsolicited
+takeover bid, in relation to which the board of directors, upon consultation with an independent financial advisor, has not recommended acceptance to the shareholders. We note that Swiss courts have
+not addressed whether or not a takeover bid of this nature is an acceptable reason under Swiss law for withdrawing or limiting preemptive rights with respect to authorized share capital or advance
+subscription rights with respect to conditional share capital. In addition, the New York Stock Exchange, on which our shares are listed, requires shareholder approval for issuances of shares equal to
+20% or more of the outstanding shares or voting power, with limited exceptions.  
+
+
+<A
+NAME="ce78801_item_1b._unresolved_staff_comments"> 
+    ITEM 1B

@@ -1,0 +1,941 @@
+ITEM 1A. Risk Factors.  
+
+        The following discussion of risk factors contains forward-looking statements. These risk factors may be important for understanding any
+statement in this Form 10-K or elsewhere. The following information should be read in conjunction with Part II, Item 7, "Management's Discussion and Analysis of Financial
+Condition and Results of Operation" and the Consolidated Financial Statements and related notes in Part II, Item 8, "Financial Statements and Supplemental Data" of this Form 10-K. 
+
+
+        Because
+of the following factors, as well as other variables affecting our results of operations, past financial performance may not be a reliable indicator of future performance, and
+historical trends should not be used to anticipate results or trends in future periods. 
+
+ If we are unsuccessful at addressing our business challenges, our business and results of operations may be adversely affected and our ability to invest in and grow our
+business could be limited.  
+
+        We are in the process of addressing many challenges facing our business. One set of challenges relates to dynamic and accelerating
+market trends, such as the decline in the PC market, the growth of multi-architecture devices running competing operating systems, the market shift towards tablets within mobility, the market shift to
+cloud-related infrastructure, software, and services, and the growth in software-as-a-service business models. Another set of challenges relates to changes in the competitive landscape. Our major
+competitors are expanding their product and service offerings with integrated products and solutions; our business-specific competitors are exerting increased competitive pressure in targeted areas
+and are going after new markets; our emerging competitors are introducing new technologies and business models; and our alliance partners in some businesses are increasingly becoming our competitors
+in others. A third set of challenges relates to business model and go-to-market execution. In addition, we are facing a series of significant macroeconomic challenges, including weakness across many
+geographic regions, particularly in the United States, Western and Northern Europe, and certain countries and businesses in Asia. We may experience delays in the anticipated timing of activities
+related to these efforts and higher than expected or unanticipated execution costs. In addition, we are vulnerable to increased risks associated with these efforts given our large portfolio of
+businesses, the broad range of geographic regions in which we and our customers and partners operate, and the integration of acquired businesses. If we do not succeed in these efforts, or if these
+efforts are more costly or time-consuming than expected, our business and results of operations may be adversely affected, which could limit our ability to invest in and grow our business. 
+
+
+        In
+May 2012, we announced a company-wide restructuring plan expected to be implemented through the end of fiscal 2014. The restructuring plan includes both voluntary early retirement
+programs and non-voluntary workforce reductions. Significant risks associated with these actions that may impair our ability to achieve anticipated cost reductions or that may otherwise harm our
+business include delays in implementation of anticipated workforce reductions in highly regulated locations outside of the United States, particularly in Europe and Asia, decreases in employee morale
+and the failure to meet operational targets due to the loss of employees. In addition, our ability to achieve the anticipated cost savings and other benefits from these actions within the expected
+time frame is subject to many estimates and assumptions. These estimates and assumptions are subject to significant economic, competitive and other uncertainties, some of which are beyond our control.
+If these estimates and assumptions are incorrect, if we experience delays, or if other unforeseen events occur, our business and financial results could be adversely affected. 
+
+ Competitive pressures could harm our revenue, gross margin and prospects.  
+
+        We encounter aggressive competition from numerous and varied competitors in all areas of our business, and our competitors may target
+our key market segments. We compete primarily on the basis of technology, performance, price, quality, reliability, brand, reputation, distribution, range of products and services, ease of use of our
+products, account relationships, customer training, service and support, 
+
+17
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+security,
+availability of application software, and internet infrastructure offerings. If our products, services, support and cost structure do not enable us to compete successfully based on any of
+those criteria, our results of operations and prospects could be harmed. 
+
+
+        We
+have a large portfolio of businesses and must allocate resources across all of those businesses while competing with companies that have much smaller portfolios or specialize in one
+or more of these product lines. As a result, we may invest less in certain areas of our businesses than our competitors do, and these competitors may have greater financial, technical and marketing
+resources available to them than our businesses that compete against them. Industry consolidation also may affect competition by creating larger, more homogeneous and potentially stronger competitors
+in the markets in which we compete, and our competitors also may affect our business by entering into exclusive arrangements with existing or potential customers or suppliers. 
+
+
+        Companies
+with whom we have alliances in some areas may be competitors in other areas. In addition, companies with whom we have alliances also may acquire or form alliances with our
+competitors, which could reduce their business with us. If we are unable to effectively manage these complicated relationships with alliance partners, our cash flows and results of operations could be
+adversely affected. 
+
+        We
+face aggressive price competition for our products and services and, as a result, we may have to continue lowering the prices of many of our products and services to stay competitive,
+while at the same time trying to maintain or improve revenue and gross margin. In addition, competitors who have a greater presence in some of the lower-cost markets in which we compete may be able to
+offer lower prices than we are able to offer. Our cash flows, results of operations and financial condition may be adversely affected by these and other industry-wide pricing pressures. 
+
+        Because
+our business model is based on providing innovative and high-quality products, we may spend a proportionately greater amount on research and development than some of our
+competitors. If we cannot proportionately decrease our cost structure on a timely basis in response to competitive price pressures, our gross margin and, therefore, our profitability could be
+adversely affected. In addition, if our pricing and other factors are not sufficiently competitive, or if there is an adverse reaction to our product decisions, we may lose market share in certain
+areas, which could adversely affect our revenue and prospects. 
+
+        Even
+if we are able to maintain or increase market share for a particular product, revenue could decline because the product is in a maturing industry or market segment or contains
+technology that is
+becoming obsolete. For example, our Storage business unit is experiencing the effects of a market transition towards converged products and solutions, which has led to a decline in demand for our
+traditional storage products. In addition, the performance of our Business Critical Systems business unit has been affected by the decline in demand for UNIX servers and concerns about the development
+of new versions of software to support our Itanium-based products. Revenue and margins also could decline due to increased competition from other types of products. For example, growing demand for an
+increasing array of mobile computing devices and the development of cloud-based solutions has reduced demand for some of our existing hardware products. In addition, refill and remanufactured
+alternatives for some of HP's LaserJet toner and inkjet cartridges compete with our printing supplies business. 
+
+ If we cannot successfully execute on our strategy and continue to develop, manufacture and market products, services and solutions that meet customer requirements for
+innovation and quality, our revenue and gross margin may suffer.  
+
+        Our long-term strategy is focused on leveraging our portfolio of hardware, software and services as we adapt to a changing and hybrid
+model of IT delivery and consumption driven by the growing adoption of cloud computing and increased demand for integrated IT solutions. To successfully execute 
+
+18
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+on
+this strategy, we need to continue evolving our focus towards the delivery of integrated IT solutions for our customers and to continue to invest and expand into cloud computing, security, big data
+and mobility. Any failure to successfully execute this strategy, including any failure to invest sufficiently in strategic growth areas, could adversely affect our business, results of operation and
+financial results. 
+
+        The
+process of developing new high-technology products, software, services and solutions and enhancing existing hardware and software products, services and solutions is complex, costly
+and uncertain, and any failure by us to anticipate customers' changing needs and emerging technological trends accurately could significantly harm our market share and results of operations. For
+example, as the transition to an environment characterized by cloud-based computing and software being delivered as a service progresses, we must continue to successfully develop and deploy
+cloud-based solutions for our customers. We must make long-term investments, develop or obtain, and protect, appropriate intellectual property, and commit significant research and development and
+other resources before knowing whether our predictions will accurately reflect customer demand for our products, services and solutions. In addition, after we develop a product, we must be able to
+manufacture appropriate volumes quickly while also managing costs and preserving margins. To accomplish this, we must accurately forecast volumes, mixes of products and configurations that meet
+customer requirements, and we may not succeed at doing so within a given product's life cycle or at all. Any delay in the development,
+production or marketing of a new product, service or solution could result in us not being among the first to market, which could further harm our competitive position. 
+
+        In
+the course of conducting our business, we must adequately address quality issues associated with our products, services and solutions, including defects in our engineering, design and
+manufacturing processes and unsatisfactory performance under service contracts, as well as defects in third-party components included in our products and unsatisfactory performance or even malicious
+acts by third-party contractors or subcontractors or the employees of those contractors or subcontractors. In order to address quality issues, we work extensively with our customers and suppliers and
+engage in product testing to determine the causes of problems and to develop and implement appropriate solutions. However, the products, services and solutions that we offer are complex, and our
+regular testing and quality control efforts may not be effective in controlling or detecting all quality issues or errata, particularly with respect to faulty components manufactured by third-parties.
+If we are unable to determine the cause, find an appropriate solution or offer a temporary fix (or "patch") to address quality issues with our products, we may delay shipment to customers, which would
+delay revenue recognition and could adversely affect our revenue and reported results. Addressing quality issues can be expensive and may result in additional warranty, replacement and other costs,
+adversely affecting our profits. If new or existing customers have difficulty operating our products or are dissatisfied with our services or solutions, our results of operations could be adversely
+affected, and we could face possible claims if we fail to meet our customers' expectations. In addition, quality issues can impair our relationships with new or existing customers and adversely affect
+our brand and reputation, which could, in turn, adversely affect our results of operations. 
+
+ Economic weakness and uncertainty could adversely affect our revenue, gross margin and expenses.  
+
+
+        Our revenue and gross margin depend significantly on worldwide economic conditions and the demand for technology hardware, software and
+services in the markets in which we compete. Economic weakness and uncertainty have resulted, and may result in the future, in decreased revenue, gross margin, earnings or growth rates and in
+increased expenses and difficulty in managing inventory levels. For example, we are continuing to experience macroeconomic weakness across many geographic regions, particularly in the Europe, the
+Middle East and Africa ("EMEA") region, China and other high-growth markets. The U.S. federal government spending cuts that went into effect on March 1, 2013 may further reduce demand for our
+products, services and solutions from organizations that receive funding from the U.S. government and could negatively affect macroeconomic conditions in the United States, which could further reduce
+demand for our products, services and solutions. Economic 
+
+19
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+weakness
+and uncertainty may adversely affect demand for our products, services and solutions, may result in increased expenses due to higher allowances for doubtful accounts and potential goodwill
+and asset impairment charges, and may make it more difficult for us to make accurate forecasts of revenue, gross margin, cash flows and expenses. 
+
+        We
+also have experienced, and may experience in the future, gross margin declines in certain businesses, reflecting the effect of items such as competitive pricing pressures and
+increases in component and manufacturing costs resulting from higher labor and material costs borne by our manufacturers and suppliers that, as a result of competitive pricing pressures or other
+factors, we are unable to pass on to our customers. In addition, our business may be disrupted if we are unable to obtain equipment, parts or components from our suppliers—and our
+suppliers from their suppliers—due to the insolvency of key suppliers or the inability of key suppliers to obtain credit. 
+
+
+        Economic
+weakness and uncertainty could cause our expenses to vary materially from our expectations. Any financial turmoil affecting the banking system and financial markets or any
+significant financial services institution failures could negatively impact our treasury operations, as the financial condition of such parties may deteriorate rapidly and without notice in times of
+market volatility and disruption. Poor financial performance of asset markets combined with lower interest rates and the adverse effects of fluctuating currency exchange rates could lead to higher
+pension and post-retirement benefit expenses. Interest and other expenses could vary materially from expectations depending on changes in interest rates, borrowing costs, currency exchange rates,
+costs of hedging activities and the fair value of derivative instruments. Economic downturns also may lead to restructuring actions and associated expenses. 
+
+ The revenue and profitability of our operations have historically varied, which makes our future financial results less predictable.  
+
+        Our revenue, gross margin and profit vary among our products and services, customer groups and geographic markets and therefore will
+likely be different in future periods than our current results. Our revenue depends on the overall demand for our products and services. Delays or reductions in IT spending could have a material
+adverse effect on demand for our products and services, which could result in a significant decline in revenue. In addition, revenue declines in some of our businesses, particularly our services
+businesses, may affect revenue in our other businesses as we may lose cross-selling opportunities. Overall gross margins and profitability in any given period are dependent partially on the product,
+service, customer and geographic mix reflected in that period's net revenue. Competition, lawsuits, investigations and other risks affecting those businesses therefore may have a significant impact on
+our overall gross margin and profitability. Certain segments have a higher fixed cost structure and more variation in gross margins across their business units and product portfolios than others and
+may therefore experience significant operating profit
+volatility on a quarterly basis. In addition, newer geographic markets may be relatively less profitable due to investments associated with entering those markets and local pricing pressures, and we
+may have difficulty establishing and maintaining the operating infrastructure necessary to support the high growth rate associated with some of those markets. Market trends, industry shifts,
+competitive pressures, commoditization of products, seasonal rebates, increased component or shipping costs, regulatory impacts and other factors may result in reductions in revenue or pressure on
+gross margins of certain segments in a given period, which may lead to adjustments to our operations. Moreover, our efforts to address the challenges facing our business could increase the level of
+variability in our financial results because the rate at which we are able to realize the benefits from those efforts may vary from period to period. 
+
+20
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+ If we do not effectively manage our product and services transitions, our revenue, gross margins and profitability may suffer.  
+
+        Many of the markets in which we compete are characterized by rapid technological advances in hardware performance and software features
+and functionality, frequent introduction of new products, short product life cycles, and continual improvement in product price characteristics relative to product performance. To maintain our
+competitive position in these markets, we must successfully develop and introduce new products and services. Among the risks associated with the introduction of new products and services are: delays
+in development or manufacturing, variations in costs, delays in customer purchases or reductions in the price of existing products in anticipation of new introductions, difficulty in predicting
+customer demand for the new offerings and challenges of effectively managing inventory levels so that they are in line with anticipated demand; risks associated with new products meeting customer
+qualifications and customer evaluation of new products; and the risk that new products may have quality or other defects or may not be supported adequately by application software. If we do not make
+an effective transition from existing products and services to future offerings, our revenue and gross margins may decline and our profitability may be harmed. 
+
+
+        Our
+revenue and gross margin also may suffer as a result of the timing of product or service introductions by our suppliers and competitors. This is especially challenging when a product
+has a short life cycle or a competitor introduces a new product just before our own product introduction. Furthermore, sales of our new products and services may replace sales or result in discounting
+of some of our current offerings, offsetting the benefit of even a successful introduction. There also may be overlaps in our current products and services and portfolios we have acquired through
+mergers and acquisitions that we must manage. In addition, it may be difficult to ensure performance of new customer contracts in accordance with our revenue, margin and cost estimates and to achieve
+operational efficiencies embedded in our estimates. Given the competitive nature of our industry, if any of these risks materializes, future demand for our products and services and our results of
+operations may suffer. 
+
+ If we fail to manage the distribution of our products and services properly, our revenue, gross margins and profitability could suffer.  
+
+        We use a variety of distribution methods to sell our products and services, including third-party resellers and distributors and both
+direct and indirect sales to enterprise accounts and consumers. Successfully managing the interaction of our direct and indirect channel efforts to reach various potential customer segments for our
+products and services is a complex process. Moreover, since each distribution method has distinct risks and gross margins, our failure to implement the most advantageous balance in the delivery model
+for our products and services could adversely affect our revenue and gross margins and therefore our profitability. Other distribution risks are described below. 
+
+
+
+•Our financial results could be materially adversely affected due to channel conflicts or if the financial conditions of
+our channel partners were to weaken. 
+
+
+
+
+Our
+results of operations may be adversely affected by any conflicts that might arise between our various sales channels, the loss or deterioration of any alliance or distribution arrangement or the
+loss of retail shelf space. Moreover, some of our wholesale and retail distributors may have insufficient financial resources and may not be able to withstand changes in business conditions, including
+economic weakness and industry consolidation. Many of our significant distributors operate on narrow product margins and have been negatively affected by business pressures. Considerable trade
+receivables that are not covered by collateral or credit insurance are outstanding with our distribution and retail channel partners. Revenue from indirect sales could suffer, and we could experience
+disruptions in distribution, if our distributors' financial conditions, abilities to borrow funds in the credit markets or operations weaken. 
+
+
+
+21
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+
+
+•Our inventory management is complex as we continue to sell a significant mix of products through distributors. 
+
+
+
+
+We
+must manage inventory effectively, particularly with respect to sales to distributors, which involves forecasting demand and pricing issues. Distributors may increase orders during periods of
+product shortages, cancel orders if their inventory is too high or delay orders in anticipation of new products. Distributors also may adjust their orders in response to the supply of our products and
+the products of our competitors and seasonal fluctuations in end-user demand. Our reliance upon indirect distribution methods may reduce visibility to demand and pricing issues, and therefore make
+forecasting more difficult. If we have excess or obsolete inventory, we may have to reduce our prices and write down inventory. Moreover, our use of indirect distribution channels may limit our
+willingness or ability to adjust prices quickly and otherwise to respond to pricing changes by competitors. We also may have limited ability to estimate future product rebate redemptions in order to
+price our products effectively. 
+
+
+
+
+ We depend on third-party suppliers, and our financial results could suffer if we fail to manage suppliers properly.  
+
+        Our operations depend on our ability to anticipate our needs for components, products and services, as well as our suppliers' ability
+to deliver sufficient quantities of quality components, products and services at reasonable prices and in time for us to meet critical schedules. Given the wide variety of systems, products and
+services that we offer, the large number of our suppliers and contract manufacturers that are located around the world, and the long lead times required to manufacture, assemble and deliver certain
+components and products, problems could arise in production, planning, and inventory management that could seriously harm us. In addition, our ongoing efforts to optimize the efficiency of our supply
+chain could cause supply disruptions and be more expensive, time-consuming and resource intensive than expected. Other supplier problems that we could face include component shortages, excess supply,
+risks related to the terms of our contracts with suppliers, risks associated with contingent workers, and risks related to our relationships with single source suppliers, as described below. 
+
+
+
+•Shortages.  Occasionally we may experience a shortage of,
+or a delay in receiving, certain components as a result of strong demand, capacity constraints, supplier financial weaknesses, inability of suppliers to borrow funds in the credit markets, disputes
+with suppliers (some of whom are also customers), disruptions in the operations of component suppliers, other problems experienced by suppliers or problems faced during the transition to new
+suppliers. For example, our PC business relies heavily upon OMs to manufacture its products and is therefore dependent upon the continuing operations of those OMs to fulfill demand for our PC
+products. HP represents a substantial portion of the business of some of these OMs, and any changes to the nature or volume of business transacted by HP with a particular OM could adversely affect the
+operations and financial condition of the OM and lead to shortages or delays in receiving products from that OM. If shortages or delays persist, the price of certain components may increase, and we
+may be exposed to quality issues or the components may not be available at all. We may not be able to secure enough components at reasonable prices or of acceptable quality to build products or
+provide services in a timely manner in the quantities or according to the specifications needed. Accordingly, our revenue and gross margin could suffer as we could lose time-sensitive sales, incur
+additional freight costs or be unable to pass on price increases to our customers. If we cannot adequately address supply issues, we might have to reengineer some products or services offerings, which
+could result in further costs and delays.   
+•Oversupply.  In order to secure components for the
+provision of products or services, at times we may make advance payments to suppliers or enter into non-cancelable commitments with vendors. In addition, we may purchase components strategically in
+advance of demand to take 
+
+22
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+
+
+
+advantage
+of favorable pricing or to address concerns about the availability of future components. If we fail to anticipate customer demand properly, a temporary oversupply could result in excess or
+obsolete components, which could adversely affect our gross margin.  
+
+
+
+•Contractual terms.  As a result of binding price or
+purchase commitments with vendors, we may be obligated to purchase components or services at prices that are higher than those available in the current market and be limited in our ability to respond
+to changing market conditions. If we commit to purchasing components or services for prices in excess of the then-current market price, we may be at a disadvantage to competitors who have access to
+components or services at lower prices, our gross margin could suffer, and we could incur additional charges relating to inventory obsolescence. In addition, many of our competitors obtain products or
+components from the same OMs and suppliers that we utilize. Our competitors may obtain better pricing, more favorable contractual terms and conditions, and more favorable allocations of
+products and components during periods of limited supply, and our ability to engage in relationships with certain OMs and suppliers could be limited. The practice employed by our PC business of
+purchasing product components and transferring those components to its OMs may create large supplier receivables with the OMs that, depending on the financial condition of the OMs, may
+create collectibility risks. In addition, certain of our OMs and suppliers may decide to discontinue conducting business with us. Any of these actions by our competitors, OMs or
+suppliers could adversely affect our future results of operations and financial condition.   
+•Contingent workers.  We also rely on third-party suppliers
+for the provision of contingent workers, and our failure to manage our use of such workers effectively could adversely affect our results of operations. We have been exposed to various legal claims
+relating to the status of contingent workers in the past and could face similar claims in the future. We may be subject to shortages, oversupply or fixed contractual terms relating to contingent
+workers. Our ability to manage the size of, and costs associated with, the contingent workforce may be subject to additional constraints imposed by local laws.   
+•Single source suppliers.  Our use of single source
+suppliers for certain components could exacerbate any supplier issues. We obtain a significant number of components from single sources due to technology, availability, price, quality or other
+considerations. For example, we rely on Intel to provide us with a sufficient supply of processors for many of our PCs, workstations and servers and AMD to provide us with a sufficient supply of
+processors for other products. Some of those processors are customized for our products. New products that we introduce may utilize custom components obtained from only one source initially until we
+have evaluated whether there is a need for additional suppliers. Replacing a single source supplier could delay production of some products as replacement suppliers may be subject to capacity
+constraints or other output limitations. For some components, such as customized components and some of the processors that we obtain from Intel, alternative sources either may not exist or may be
+unable to produce the quantities of those components necessary to satisfy our production requirements. In addition, we sometimes purchase components from single source suppliers under short-term
+agreements that contain favorable pricing and other terms but that may be unilaterally modified or terminated by the supplier with limited notice and with little or no penalty. The performance of such
+single source suppliers under those agreements (and the renewal or extension of those agreements upon similar terms) may affect the quality, quantity and price of components to HP. The loss of a
+single source supplier, the deterioration of our relationship with a single source supplier, or any unilateral modification to the contractual terms under which we are supplied components by a single
+source supplier could adversely affect our revenue, gross margin and cash flows. 
+
+23
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+ Business disruptions could seriously harm our future revenue and financial condition and increase our costs and expenses.  
+
+
+        Our worldwide operations could be disrupted by earthquakes, telecommunications failures, power or water shortages, tsunamis, floods,
+hurricanes, typhoons, fires, extreme weather conditions, medical epidemics or pandemics and other natural or manmade disasters or catastrophic events, for which we are predominantly self-insured. The
+occurrence of any of these business disruptions could result in significant losses, seriously harm our revenue, profitability and financial condition, adversely affect our competitive position,
+increase our costs and expenses, and require substantial expenditures and recovery time in order to fully resume operations. Our corporate headquarters and a portion of our research and development
+activities are located in California, and other critical business operations and some of our suppliers are located in California and Asia, near major earthquake faults known for seismic activity. In
+addition, six of our principal worldwide IT data centers are located in the southern United States, making our operations more vulnerable to natural disasters or other business disruptions occurring
+in that geographical area. The manufacture of product components, the final assembly of our products and other critical operations are concentrated in certain geographic locations, including Shanghai,
+Singapore and India. We also rely on major logistics hubs primarily in Asia to manufacture and distribute our products and in the southwestern United States to import products into the Americas
+region. Our operations could be adversely affected if manufacturing,
+logistics or other operations in these locations are disrupted for any reason, including natural disasters, information technology system failures, military actions or economic, business, labor,
+environmental, public health, regulatory or political issues. The ultimate impact on us, our significant suppliers and our general infrastructure of being located near locations more vulnerable to the
+occurrence of the aforementioned business disruptions, such as near major earthquake faults, and being consolidated in certain geographical areas is unknown and remains uncertain. 
+
+ Our sales cycle makes planning and inventory management difficult and future financial results less predictable.  
+
+        In some of our segments, our quarterly sales often have reflected a pattern in which a disproportionate percentage of each quarter's
+total sales occurs towards the end of such quarter. This uneven sales pattern makes predicting revenue, earnings, cash flow from operations and working capital for each financial period difficult,
+increases the risk of unanticipated variations in quarterly results and financial condition and places pressure on our inventory management and logistics systems. If predicted demand is substantially
+greater than orders, there may be excess inventory. Alternatively, if orders substantially exceed predicted demand, we may not be able to fulfill all of the orders received in the last few weeks of
+each quarter. Depending on when they occur in a quarter, developments such as a systems failure, component pricing movements, component shortages or global logistics disruptions, could adversely
+impact inventory levels and results of operations in a manner that is disproportionate to the number of days in the quarter affected. 
+
+
+        We
+experience some seasonal trends in the sale of our products that also may produce variations in quarterly results and financial condition. For example, sales to governments
+(particularly sales to the U.S. government) are often stronger in the third calendar quarter, consumer sales are often stronger in the fourth calendar quarter, and many customers whose fiscal and
+calendar years are the same spend their remaining capital budget authorizations in the fourth calendar quarter prior to new budget constraints in the first calendar quarter of the following year.
+European sales are often weaker during the summer months. Demand during the spring and early summer also may be adversely impacted by market anticipation of seasonal trends. Moreover, to the extent
+that we introduce new products in anticipation of seasonal demand trends, our discounting of existing products may adversely affect our gross margin prior to or shortly after such product launches.
+Typically, our third fiscal quarter is our weakest and our fourth fiscal quarter is our strongest. Many of the factors that create and affect seasonal trends are beyond our control. 
+
+24
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+ Due to the international nature of our business, political or economic changes or other factors could harm our future revenue, costs and expenses, and financial condition.  
+
+        Sales outside the United States make up approximately 64% of our net revenue. In addition, an increasing portion of our business
+activity is being conducted in emerging markets, including Brazil, Russia, India and China. Our future revenue, gross margin, expenses and financial condition could suffer due to a variety of
+international factors, including:
+
+
+
+•ongoing instability or changes in a country's or region's economic or political conditions, including inflation,
+recession, interest rate fluctuations and actual or anticipated military or political conflicts; 
+•longer collection cycles and financial instability among customers; 
+•trade regulations and procedures and actions affecting production, pricing and marketing of products;  
+•local labor conditions and regulations, including local labor issues faced by specific HP suppliers and OMs;  
+•managing a geographically dispersed workforce; 
+•changes in the regulatory or legal environment; 
+•differing technology standards or customer requirements; 
+•import, export or other business licensing requirements or requirements relating to making foreign direct investments,
+which could increase our cost of doing business in certain jurisdictions, prevent us from shipping products to particular countries or markets, affect our ability to obtain favorable terms for
+components, increase our operating costs or lead to penalties or restrictions; 
+•difficulties associated with repatriating earnings generated or held abroad in a tax-efficient manner and changes in tax
+laws; and 
+•fluctuations in freight costs, limitations on shipping and receiving capacity, and other disruptions in the transportation
+and shipping infrastructure at important geographic points of exit and entry for our products and shipments. 
+
+
+        The
+factors described above also could disrupt our product and component manufacturing and key suppliers located outside of the United States. For example, we rely on manufacturers in
+Taiwan for the production of notebook computers and other suppliers in Asia for product assembly and manufacture. 
+
+        Currencies
+other than the U.S. dollar, including the euro, the British pound, Chinese yuan renminbi and the Japanese yen, can have an impact on our results (expressed in U.S. dollars).
+In particular, the economic uncertainties relating to European sovereign and other debt obligations and the related European financial restructuring efforts may cause the value of the euro to
+fluctuate. Currency variations also contribute to variations in sales of products and services in impacted jurisdictions. For example, in the event that one or more European countries were to replace
+the euro with another currency, our sales into such countries, or into Europe generally, would likely be adversely affected until stable exchange rates are established. Accordingly, fluctuations in
+foreign currency rates, most notably the strengthening of the dollar against the euro, could adversely affect our revenue growth in future periods. In addition, currency variations can adversely
+affect margins on sales of our products in countries outside of the United States and margins on sales of products that include components obtained from suppliers located outside of the United States.
+We use a combination of forward contracts and options designated as cash flow hedges to protect against foreign currency exchange rate risks. The effectiveness of our hedges depends on our ability to
+accurately forecast future cash flows, which is particularly difficult during periods of uncertain demand for our products and 
+
+25
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+services
+and highly volatile exchange rates. We may incur significant losses from our hedging activities due to factors such as volatility and currency variations. In addition, our hedging activities
+may be ineffective or may not offset any or more than a portion of the adverse financial impact resulting from currency variations. Losses associated with hedging activities also may impact our
+revenue and to a lesser extent our cost of sales and financial condition. 
+
+        In
+many foreign countries, particularly in those with developing economies, it is common to engage in business practices that are prohibited by laws and regulations applicable to us,
+such as the Foreign Corrupt Practices Act (the "FCPA"). For example, as discussed in Note 17 to the Consolidated Financial Statements, the German Public Prosecutor's Office, the U.S. Department
+of Justice and the Securities and Exchange Commission have been investigating allegations that certain current and former employees of HP engaged in bribery, embezzlement and tax evasion. In addition,
+the U.S. enforcement authorities, as well as the Polish Central Anti-Corruption Bureau, are conducting investigations into potential FCPA violations by a former employee of an HP subsidiary in
+connection with certain public-sector transactions in Poland, and the U.S. enforcement authorities are conducting investigations into certain other public-sector transactions in Russia, Poland, the
+Commonwealth of Independent States and Mexico, among other countries. Although we implement policies and procedures designed to facilitate compliance with these laws, our employees, contractors and
+agents, as well as those companies to which we outsource certain of our business operations, may take actions in violation of our policies. Any such violation, even if prohibited by our policies,
+could have an adverse effect on our business and reputation. 
+
+ Any failure by us to identify, manage, complete and integrate acquisitions, divestitures and other significant transactions successfully could harm our financial results,
+business and prospects, and the costs, expenses and other financial and operational effects associated with managing, completing and integrating acquisitions may result in financial results that are
+different than expected.  
+
+        As part of our business strategy, we may acquire companies or businesses, divest businesses or assets, enter into strategic alliances
+and joint ventures and make investments to further our business (collectively, "business combination and investment transactions"). In order to pursue this strategy successfully, we must identify
+candidates for and successfully complete business combination and investment transactions, some of which may be large or complex, and manage post-closing issues such as the integration of acquired
+businesses, products, services or employees. Risks associated with business combination and investment transactions include the following, any of which could adversely affect our revenue, gross
+margin, profitability and financial results:
+
+
+
+•Managing business combination and investment transactions requires varying levels of management resources, which may
+divert our attention from other business operations. 
+•We may not fully realize all of the anticipated benefits of any business combination and investment transaction, and the
+timeframe for realizing benefits of a business combination and investment transaction may depend partially upon the actions of employees, advisors, suppliers or other third-parties.  
+•Business combination and investment transactions have resulted, and in the future may result, in significant costs and
+expenses and charges to earnings, including those related to severance pay, early retirement costs, employee benefit costs, goodwill and asset impairment charges, charges from the elimination of
+duplicative facilities and contracts, asset impairment charges, inventory adjustments, assumed litigation and other liabilities, legal, accounting and financial advisory fees, and required payments to
+executive officers and key employees under retention plans. 
+•Any increased or unexpected costs, unanticipated delays or failure to meet contractual obligations could make business
+combination and investment transactions less profitable or unprofitable. 
+
+26
+
+
+
+
+
+
+
+
+
+
+<A
+NAME="page_de48801_1_27">   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+•Our ability to conduct due diligence with respect to business combination and investment transactions, and our ability to
+evaluate the results of such due diligence, is dependent upon the veracity and completeness of statements and disclosures made or actions taken by third-parties or their representatives.  
+•Our due diligence process may fail to identify significant issues with the acquired company's product quality, financial
+disclosures, accounting practices or internal control deficiencies. 
+•The pricing and other terms of our contracts for business combination and investment transactions require us to make
+estimates and assumptions at the time we enter into these contracts, and, during the course of our due diligence, we may not identify all of the factors necessary to estimate accurately our costs,
+timing and other matters or we may incur costs if a business combination is not consummated. 
+•In order to complete a business combination and investment transaction, we may issue common stock, potentially creating
+dilution for existing stockholders. 
+•We may borrow to finance business combination and investment transactions, and the amount and terms of any potential
+future acquisition-related or other borrowings, as well as other factors, could affect our liquidity and financial condition. 
+•Our effective tax rate on an ongoing basis is uncertain, and business combination and investment transactions could
+adversely impact our effective tax rate. 
+•An announced business combination and investment transaction may not close timely or at all, which may cause our financial
+results to differ from expectations in a given quarter. 
+•Business combination and investment transactions may lead to litigation.  
+•If we fail to identify and successfully complete and integrate business combination and investment transactions that
+further our strategic objectives, we may be required to expend resources to develop products, services and technology internally, which may put us at a competitive disadvantage. 
+
+
+        We
+have incurred and will incur additional depreciation and amortization expense over the useful lives of certain assets acquired in connection with business combination and investment
+transactions, and, to the extent that the value of goodwill or intangible assets acquired in connection with a business combination and investment transaction becomes impaired, we may be required to
+incur additional material charges relating to the impairment of those assets. For example, in our third fiscal quarter of 2012, we recorded an $8.0 billion impairment charge relating to the
+goodwill associated with our enterprise services reporting unit within our former Services segment and a $1.2 billion impairment charge as a result of an asset impairment analysis of the
+"Compaq" trade name acquired in 2002. In
+addition, in our fourth fiscal quarter of 2012, we recorded an $8.8 billion impairment charge relating to the goodwill and intangible assets associated with Autonomy. If there are future
+decreases in our stock price or significant changes in the business climate or results of operations of our reporting units, we may incur additional charges, which may include goodwill impairment or
+intangible asset charges. 
+
+        Integration
+issues are often complex, time-consuming and expensive and, without proper planning and implementation, could significantly disrupt our business and the acquired business.
+The challenges involved in integration include:
+
+
+
+•combining product and service offerings and entering or expanding into markets in which we are not experienced or are
+developing expertise; 
+•convincing customers and distributors that the transaction will not diminish client service standards or business focus,
+persuading customers and distributors to not defer purchasing decisions or switch to other suppliers (which could result in our incurring additional obligations 
+
+27
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+
+
+
+in
+order to address customer uncertainty), minimizing sales force attrition and expanding and coordinating sales, marketing and distribution efforts; 
+
+
+
+•consolidating and rationalizing corporate IT infrastructure, which may include multiple legacy systems from various
+acquisitions and integrating software code and business processes; 
+•minimizing the diversion of management attention from ongoing business concerns;  
+•persuading employees that business cultures are compatible, maintaining employee morale and retaining key employees,
+engaging with employee works councils representing an acquired company's non-U.S. employees, integrating employees into HP, correctly estimating employee benefit costs and implementing restructuring
+programs; 
+•coordinating and combining administrative, manufacturing, research and development and other operations, subsidiaries,
+facilities and relationships with third-parties in accordance with local laws and other obligations while maintaining adequate standards, controls and procedures;  
+•achieving savings from supply chain integration; and 
+•managing integration issues shortly after or pending the completion of other independent transactions. 
+
+
+        While
+we do not currently plan to divest any of our major businesses, we do regularly evaluate the potential disposition of assets and businesses that may no longer help us meet our
+objectives. When we decide to sell assets or a business, we may encounter difficulty in finding buyers or alternative exit strategies on acceptable terms in a timely manner, which could delay the
+achievement of our strategic objectives. We may also dispose of a business at a price or on terms that are less desirable than we had anticipated. In addition, we may experience greater dis-synergies
+than expected, and the impact of the divestiture on our revenue growth may be larger than projected. After reaching an agreement with a buyer or seller for the acquisition or disposition of a
+business, we are subject to satisfaction of pre-closing conditions as well as to necessary regulatory and governmental approvals on acceptable terms, which, if not satisfied or obtained, may prevent
+us from completing the transaction. Dispositions may also involve continued financial involvement in the divested business, such as through continuing equity ownership, guarantees, indemnities or
+other financial obligations. Under these arrangements, performance by the divested businesses or other conditions outside of our control could affect our future financial results. 
+
+
+ Our revenue, cost of sales, and expenses may suffer if we cannot continue to license or enforce the intellectual property rights on which our businesses depend or if
+third-parties assert that we violate their intellectual property rights.  
+
+        We rely upon patent, copyright, trademark and trade secret laws in the United States, similar laws in other countries, and agreements
+with our employees, customers, suppliers and other parties, to establish and maintain intellectual property rights in the products and services we sell, provide or otherwise use in our operations.
+However, any of our intellectual property rights could be challenged, invalidated, infringed or circumvented, or such intellectual property rights may not be sufficient to permit us to take advantage
+of current market trends or to otherwise provide competitive advantages, either of which could result in costly product redesign efforts, discontinuance of certain product offerings or other harm to
+our competitive position. Further, the laws of certain countries do not protect proprietary rights to the same extent as the laws of the United States. Therefore, in certain jurisdictions we may be
+unable to protect our proprietary technology adequately against unauthorized third-party copying or use; this, too, could adversely affect our competitive position. 
+
+        Because
+of the rapid pace of technological change in the information technology industry, much of our business and many of our products rely on key technologies developed or licensed by
+third-parties. 
+
+28
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+We
+may not be able to obtain or continue to obtain licenses and technologies from these third-parties at all or on reasonable terms, or such third-parties may demand cross-licenses to our intellectual
+property. In addition, it is possible that as a consequence of a merger or acquisition, third-parties may obtain licenses to some of our intellectual property rights or our business may be subject to
+certain restrictions that were not in place prior to the transaction. Consequently, we may lose a competitive advantage with respect to these intellectual property rights or we may be required to
+enter into costly arrangements in order to terminate or limit these rights. 
+
+        Third-parties
+also may claim that we or customers indemnified by us are infringing upon their intellectual property rights. For example, individuals and groups may purchase intellectual
+property assets for the purpose of asserting claims of infringement and attempting to extract settlements from companies such as HP and its customers. The number of these claims has increased in
+recent periods and may continue to increase in the future. If we cannot or do not license infringed intellectual property at all or on reasonable terms, or if we are required to substitute similar
+technology from another source, our operations could be adversely affected. Even if we believe that intellectual property claims are without merit, they can be time-consuming and costly to defend
+against and may divert management's attention and resources away from our business. Claims of intellectual property infringement also might require us to redesign affected products, enter into costly
+settlement or license agreements, pay costly damage awards, or face a temporary or permanent injunction prohibiting us from importing, marketing or selling certain of our products. Even if we have an
+agreement to
+indemnify us against such costs, the indemnifying party may be unable or unwilling to uphold its contractual obligations to us. 
+
+        Finally,
+our results of operations and cash flows have been and could continue to be affected in certain periods and on an ongoing basis by the imposition, accrual and payment of
+copyright levies or similar fees. In certain countries (primarily in Europe), proceedings are ongoing or have been concluded involving HP in which groups representing copyright owners have sought or
+are seeking to impose upon and collect from HP levies upon equipment (such as PCs, MFDs and printers) alleged to be copying devices under applicable laws. Other such groups have also sought to modify
+existing levy schemes to increase the amount of the levies that can be collected from us. Other countries that have not imposed levies on these types of devices are expected to extend existing levy
+schemes, and countries that do not currently have levy schemes may decide to impose copyright levies on these types of devices. The total amount of the copyright levies will depend on the types of
+products determined to be subject to the levy, the number of units of those products sold during the period covered by the levy, and the per unit fee for each type of product, all of which are
+affected by several factors, including the outcome of ongoing litigation involving us and other industry participants and possible action by the legislative bodies in the applicable countries, and
+could be substantial. Consequently, the ultimate impact of these copyright levies or similar fees, and our ability to recover such amounts through increased prices, remains uncertain. 
+
+ Our revenue and profitability could suffer if we do not manage the risks associated with our services business properly.  
+
+        The risks that accompany our services business differ from those of our other businesses and include the
+following:
+
+
+
+•The success of our services business is to a significant degree dependent on our ability to retain our significant
+services clients and maintain or increase the level of revenues from these clients. We may lose clients due to their merger or acquisition, business failure, contract expiration or their selection of
+a competing service provider or decision to in-source services. In addition, we may not be able to retain or renew relationships with our significant clients. As a result of business downturns or for
+other business reasons, we are also vulnerable to reduced processing volumes from our clients, which can reduce the scope of services provided and the prices for 
+
+29
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+
+
+
+those
+services. We may not be able to replace the revenue and earnings from any such lost clients or reductions in services. In addition, our contracts may allow a client to terminate the contract for
+convenience, and we may not be able to fully recover our investments in such circumstances. 
+
+
+
+•The pricing and other terms of some of our IT services agreements, particularly our long-term IT outsourcing services
+agreements, require us to make estimates and assumptions at the time we enter into these contracts that could differ from actual results. Any increased or unexpected costs or unanticipated delays in
+connection with the performance of these engagements, including delays caused by factors outside our control, could make these agreements less profitable or unprofitable, which could have an adverse
+effect on the profit margin of our IT services business. 
+•Some of our IT services agreements require significant investment in the early stages that is expected to be recovered
+through billings over the life of the agreement. These agreements often involve the construction of new IT systems and communications networks and the development and deployment of new technologies.
+Substantial performance risk exists in each agreement with these characteristics, and some or all elements of service delivery under these agreements are dependent upon successful completion of the
+development, construction and deployment phases. Any failure to perform satisfactorily under these agreements may expose us to legal liability, result in the loss of customers and harm our reputation,
+which could decrease the revenues and profitability of our IT services business. 
+•Some of our outsourcing services agreements contain pricing provisions that permit a client to request a benchmark study
+by a mutually acceptable third-party. The benchmarking process typically compares the contractual price of our services against the price of similar services offered by other specified providers in a
+peer comparison group, subject to agreed upon adjustment and normalization factors. Generally, if the benchmarking study shows that our pricing has a difference outside a specified range, and the
+difference is not due to the unique requirements of the client, then the parties will negotiate in good faith any appropriate adjustments to the pricing. This may result in the reduction of our rates
+for the benchmarked services performed after the implementation of those pricing adjustments, which could decrease the cash flows of our IT services business.  
+•If we do not hire, train, motivate and effectively utilize employees with the right mix of skills and experience in the
+right geographic regions to meet the needs of our services clients, our profitably could suffer. For example, if our employee utilization rate is too low, our profitability and the level of engagement
+of our employees could suffer. If that utilization rate is too high, it could have an adverse effect on employee engagement and attrition and the quality of the work performed, as well as our ability
+to staff projects. If we are unable to hire and retain a sufficient number of employees with the skills or backgrounds to meet current demand, we might need to redeploy existing personnel, increase
+our reliance on subcontractors or increase employee compensation levels, all of which could also negatively affect our profitability. In addition, if we have more employees than we need with certain
+skill sets or in certain geographies, we may incur increased costs as we work to rebalance our supply of skills and resources with client demand in those geographies. 
+
+
+ Failure to comply with our customer contracts or government contracting regulations could adversely affect our revenue and results of operations.  
+
+        Our contracts with our customers may include unique and specialized performance requirements. In particular, our contracts with
+federal, state, provincial and local governmental customers are subject to various procurement regulations, contract provisions and other requirements relating to their 
+
+30
+
+
+
+
+ 
+
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+formation,
+administration and performance. Any failure by us to comply with the specific provisions in our customer contracts or any violation of government contracting regulations could result in the
+imposition of various civil and criminal penalties, which may include termination of contracts, forfeiture of profits, suspension of payments and, in the case of our government contracts, fines and
+suspension from future government contracting. In addition, we have in the past been, and may in the future be, subject to qui tam litigation brought by private individuals on behalf of the government
+relating to our government contracts, which could include claims for up to treble damages. Further, any negative publicity related to our customer contracts or any proceedings surrounding them,
+regardless of its accuracy, may damage our business by affecting our ability to compete for new contracts. If our customer contracts are terminated, if we are suspended or disbarred from government
+work, or if our ability to compete for new contracts is adversely affected, we could suffer a reduction in expected revenue. 
+
+ HP's stock price has historically fluctuated and may continue to fluctuate, which may make future prices of HP's stock difficult to predict.  
+
+        HP's stock price, like that of other technology companies, can be volatile. Some of the factors that could affect our stock price
+are:
+
+
+
+•speculation, coverage or sentiment in the media or the investment community about, or actual changes in, our business,
+strategic position, market share, organizational structure, operations, financial condition, financial reporting and results, effectiveness of cost-cutting efforts, value or liquidity of our
+investments, exposure to market volatility, prospects, business combination or investment transactions, future stock price performance, board of directors, executive team, our competitors or our
+industry in general; 
+•the announcement of new, planned or contemplated products, services, technological innovations, acquisitions, divestitures
+or other significant transactions by HP or its competitors; 
+•quarterly increases or decreases in revenue, gross margin, earnings or cash flows, changes in estimates by the investment
+community or financial outlook provided by HP and variations between actual and estimated financial results; 
+•announcements of actual and anticipated financial results by HP's competitors and other companies in the IT industry;  
+•developments relating to pending investigations, claims and disputes; and  
+•the timing and amount of share repurchases by HP. 
+
+
+        General
+or industry specific market conditions or stock market performance or domestic or international macroeconomic and geopolitical factors unrelated to HP's performance also may
+affect the price of HP stock. For these reasons, investors should not rely on recent or historical trends to predict future stock prices, financial condition, results of operations or cash flows. In
+addition, as discussed in Note 17 to the Consolidated Financial Statements, we are involved in several securities class action litigation matters. Additional volatility in the price of our
+securities could result in the filing of additional securities class action litigation matters, which could result in substantial costs and the diversion of management time and resources. 
+
+ Failure to maintain our credit ratings could adversely affect our liquidity, capital position, borrowing costs and access to capital markets.  
+
+        Our credit risk is evaluated by the major independent rating agencies. Two of those rating agencies, Moody's Investors Service and
+Standard & Poor's Ratings Services, downgraded our ratings once during fiscal 2012, and a third rating agency, Fitch Ratings, downgraded our ratings twice during 
+
+31
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+that
+fiscal year. In addition, Moody's Investors Service downgraded our ratings again in November 2012. Our credit ratings remain under negative outlook by Moody's Investors Service. These downgrades
+have increased the cost of borrowing under our credit facilities, have reduced market capacity for our commercial paper, and may require the posting of additional collateral under some of our
+derivative contracts. There can be no assurance that we will be able to maintain our current credit ratings, and any additional actual or anticipated changes or downgrades in our credit ratings,
+including any announcement that our ratings are under further review for a downgrade, may further impact us in a similar manner and may have a negative impact on our liquidity, capital position and
+access to capital markets. 
+
+ We make estimates and assumptions in connection with the preparation of HP's Consolidated Financial Statements, and any changes to those estimates and assumptions could
+adversely affect our results of operations.  
+
+        In connection with the preparation of HP's Consolidated Financial Statements, we use certain estimates and assumptions based on
+historical experience and other factors. Our most critical accounting estimates are described in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in
+Item 7 of this report. In addition, as discussed in
+Note 17 to the Consolidated Financial Statements, we make certain estimates, including decisions related to provisions for legal proceedings and other contingencies. While we believe that these
+estimates and assumptions are reasonable under the circumstances, they are subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions
+change or prove to have been incorrect, it could adversely affect our results of operations. 
+
+ Unanticipated changes in our tax provisions, the adoption of new tax legislation or exposure to additional tax liabilities could affect our profitability.  
+
+
+        We are subject to income and other taxes in the United States and numerous foreign jurisdictions. Our tax liabilities are affected by
+the amounts we charge in intercompany transactions for inventory, services, licenses, funding and other items. We are subject to ongoing tax audits in various jurisdictions. Tax authorities may
+disagree with our intercompany charges, cross-jurisdictional transfer pricing or other matters and assess additional taxes. We regularly assess the likely outcomes of these audits in order to
+determine the appropriateness of our tax provision. However, there can be no assurance that we will accurately predict the outcomes of these audits, and the amounts ultimately paid upon resolution of
+audits could be materially different from the amounts previously included in our income tax expense and therefore could have a material impact on our tax provision, net income and cash flows. In
+addition, our effective tax rate in the future could be adversely affected by changes to our operating structure, changes in the mix of earnings in countries with differing statutory tax rates,
+changes in the valuation of deferred tax assets and liabilities, changes in tax laws and the discovery of new information in the course of our tax return preparation process. In particular, the
+carrying value of deferred tax assets, which are predominantly in the United States, is dependent on our ability to generate future taxable income in the United States. In addition, there are
+proposals for tax legislation that have been introduced or that are being considered that could have a significant adverse effect on our tax rate, the carrying value of deferred tax assets, or our
+deferred tax liabilities. Any of these changes could affect our profitability. 
+
+ In order to be successful, we must attract, retain, train, motivate, develop and transition key employees, and failure to do so could seriously harm us.  
+
+        In order to be successful, we must attract, retain, train, motivate, develop and transition qualified executives and other key
+employees, including those in managerial, technical, sales, marketing and IT support positions. Identifying, developing internally or hiring externally, training and retaining qualified 
+
+32
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+executives,
+engineers, skilled solutions providers in the IT support business and qualified sales representatives are critical to our future, and competition for experienced employees in the IT
+industry can be intense. In order to attract and retain executives and other key employees in a competitive marketplace, we must provide a competitive compensation package, including cash- and
+share-based compensation. Our share-based incentive awards include stock options, restricted stock units and performance-based restricted units, some of which contain conditions relating to HP's stock
+price performance and HP's long-term financial performance that make the future value of those awards uncertain. If the anticipated value of such share-based incentive awards does not materialize, if
+our share-based compensation otherwise ceases to be viewed as a valuable benefit, if our total compensation package is not viewed as being competitive, or if we do not obtain the shareholder approval
+needed to continue granting share-based incentive awards in the amounts we believe are necessary, our ability to attract, retain, and motivate executives and key employees could be weakened. The
+failure to successfully hire executives and key employees or the loss of any executives and key employees could have a significant impact on our operations. Further, changes in our management team may
+be disruptive to our business, and any failure to successfully transition and assimilate key new hires or promoted employees could adversely affect our business and results of operations. 
+
+ System security risks, data protection breaches, cyber attacks and systems integration issues could disrupt our internal operations or information technology services
+provided to customers, and any such disruption could reduce our expected revenue, increase our expenses, damage our reputation and adversely affect our stock price.  
+
+        Experienced computer programmers and hackers may be able to penetrate our network security and misappropriate or compromise our
+confidential information or that of third-parties, create system disruptions or cause shutdowns. Computer programmers and hackers also may be able to develop and deploy viruses, worms, and other
+malicious software programs that attack our products or otherwise exploit any security vulnerabilities of our products. In addition, sophisticated hardware and operating system software and
+applications that we produce or procure from third-parties may contain defects in design or manufacture, including "bugs" and other problems that could unexpectedly interfere with the operation of the
+system. The costs to us to eliminate or alleviate cyber or other security problems, bugs, viruses, worms, malicious software programs and security vulnerabilities could be significant, and our efforts
+to address these problems may not be successful and could result in interruptions, delays, cessation of service and loss of existing or potential customers that may impede our sales, manufacturing,
+distribution or other critical functions. 
+
+        We
+manage and store various proprietary information and sensitive or confidential data relating to our business. In addition, our outsourcing services business routinely processes,
+stores and transmits large amounts of data for our clients, including sensitive and personally identifiable information. Breaches of our security measures or the accidental loss, inadvertent
+disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us, our clients or customers, including the potential loss or disclosure of such information
+or data as a result of fraud, trickery or other forms of deception, could expose us, our customers or the individuals affected to a risk of loss or misuse of
+this information, result in litigation and potential liability for us, damage our brand and reputation or otherwise harm our business. We also could lose existing or potential customers of outsourcing
+services or other IT solutions or incur significant expenses in connection with our customers' system failures or any actual or perceived security vulnerabilities in our products and services. In
+addition, the cost and operational consequences of implementing further data protection measures could be significant. 
+
+        Portions
+of our IT infrastructure also may experience interruptions, delays or cessations of service or produce errors in connection with systems integration or migration work that takes
+place from time to time. We may not be successful in implementing new systems and transitioning data, which could 
+
+33
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+cause
+business disruptions and be more expensive, time-consuming, disruptive and resource intensive. Such disruptions could adversely impact our ability to fulfill orders and respond to customer
+requests and interrupt other processes. Delayed sales, lower margins or lost customers resulting from these disruptions could reduce our expected revenue, increase our expenses, damage our reputation
+and adversely affect our stock price. 
+
+ Terrorist acts, conflicts, wars and geopolitical uncertainties may seriously harm our business and revenue, costs and expenses and financial condition and stock price.  
+
+        Terrorist acts, conflicts or wars (wherever located around the world) may cause damage or disruption to our business, our employees,
+facilities, partners, suppliers, distributors, resellers or customers or adversely affect our ability to manage logistics, operate our transportation and communication systems or conduct certain other
+critical business operations. The potential for future attacks, the national and international responses to attacks or perceived threats to national security, and other actual or potential conflicts
+or wars have created many economic and political uncertainties. In addition, as a major multinational company with headquarters and significant operations located in the United States, actions against
+or by the United States may impact our business or employees. Although it is impossible to predict the occurrences or consequences of any such events, if they occur, they could result in a decrease in
+demand for our products, make it difficult or impossible to provide services or deliver products to our customers or to receive components from our suppliers, create delays and inefficiencies in our
+supply chain and result in the need to impose employee travel restrictions. We are predominantly uninsured for losses and interruptions caused by terrorist acts, conflicts and wars. 
+
+ Unforeseen environmental costs could adversely affect our business and results of operations.  
+
+        We are subject to various federal, state, local and foreign laws and regulations concerning environmental protection, including laws
+addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites, the content of our products and the
+recycling, treatment and disposal of our products, including batteries. In particular, we face increasing complexity in our product design and procurement operations as we adjust to new and future
+requirements relating to the chemical and materials composition of our products, their safe use, the energy consumption associated with those products, climate change laws and regulations, and product
+take-back legislation. If we were to violate or become liable under environmental laws or if our products become non-compliant with environmental laws, we could incur substantial costs or face other
+sanctions, which may include restrictions on our products entering certain jurisdictions. Our potential exposure includes fines and civil or criminal sanctions, third-party property damage, personal
+injury claims and clean-up costs. Further, liability under some environmental laws relating to contaminated sites can be imposed retroactively, on a joint and several basis, and without any finding of
+noncompliance or fault. The amount and timing of costs to comply with environmental laws are difficult to predict. 
+
+ Some anti-takeover provisions contained in our certificate of incorporation and bylaws, as well as provisions of Delaware law, could impair a takeover attempt.  
+
+        We have provisions in our certificate of incorporation and bylaws, each of which could have the effect of rendering more difficult or
+discouraging an acquisition of HP deemed undesirable by our Board of Directors. These include provisions:
+
+
+
+•authorizing blank check preferred stock, which we could issue with voting, liquidation, dividend and other rights superior
+to our common stock; 
+•limiting the liability of, and providing indemnification to, our directors and officers; 
+
+34
+
+
+
+
+ 
+
+<A
+HREF="#bg48801a_main_toc">Table of Contents
+
+
+
+•specifying that our stockholders may take action only at a duly called annual or special meeting of stockholders and
+otherwise in accordance with our bylaws and limiting the ability of our stockholders to call special meetings; 
+•requiring advance notice of proposals by our stockholders for business to be conducted at stockholder meetings and for
+nominations of candidates for election to our Board of Directors; and 
+•controlling the procedures for conduct of our Board of Directors and stockholder meetings and election, appointment and
+removal of our directors. 
+
+
+        These
+provisions, alone or together, could deter or delay hostile takeovers, proxy contests and changes in control or management of HP. As a Delaware corporation, we are also subject to
+provisions of Delaware law, including Section 203 of the Delaware General Corporation Law, which prevents some stockholders from engaging in certain business combinations without approval of
+the holders of substantially all of our outstanding common stock. 
+
+        Any
+provision of our certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control of HP could limit the opportunity for our
+stockholders to receive a premium for their shares of HP stock and also could affect the price that some investors are willing to pay for HP stock. 
+
+<A
+NAME="de48801_item_1b._unresolved_staff_comments."> 
+ 
+  ITEM 1B

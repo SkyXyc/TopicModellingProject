@@ -1,0 +1,4973 @@
+Item 1A of this Annual Report on
+    Form 10-K.
+    We undertake no obligation to update forward-looking statements
+    to reflect events or circumstances after the date they were
+    made.
+
+
+
+
+
+
+
+ 
+
+
+
+    PART I
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1.  
+
+    
+    BUSINESS
+
+
+
+
+
+ 
+
+
+    We are the leader in the design, manufacture and marketing of
+    rigid disc drives. Rigid disc drives, which are commonly
+    referred to as disc drives or hard drives, are used as the
+    primary medium for storing electronic information in systems
+    ranging from desktop and notebook computers, and consumer
+    electronics devices to data centers delivering information over
+    corporate networks and the Internet. We produce a broad range of
+    disc drive products addressing enterprise applications, where
+    our products are used in enterprise servers, mainframes and
+    workstations; desktop applications, where our products are used
+    in desktop computers; mobile computing applications, where our
+    products are used in notebook computers; and consumer
+    electronics applications, where our products are used in a wide
+    variety of devices such as digital video recorders (DVRs),
+    gaming devices and other consumer electronic devices that
+    require storage. We also sell storage products containing our
+    disc drives under the Seagate Technology (“Seagate”)
+    and Maxtor Corporation (“Maxtor”) brands.
+
+
+ 
+
+
+    We sell our disc drives primarily to major original equipment
+    manufacturers (OEMs) and also market to distributors under our
+    globally recognized brand names. For the fiscal years 2007, 2006
+    and 2005, approximately 64%, 72% and 72%, respectively, of our
+    disc drive revenue was from sales to OEMs, of which
+    Hewlett-Packard (“HP”) was the only customer exceeding
+    10% of our disc drive revenue in all of these respective periods
+    while Dell exceeded 10% of our disc drive revenue for fiscal
+    years 2006 and 2005. We have longstanding relationships with
+    many of our OEM customers. We also have key relationships with
+    major distributors who sell our disc drive products to small
+    OEMs, dealers, system integrators and retailers throughout most
+    of the world. Shipments to distributors were approximately 30%,
+    25% and 26% of our disc drive revenue in fiscal years 2007, 2006
+    and 2005, respectively. Retail sales of our branded storage
+    products in fiscal year 2007, as a percentage of our disc drive
+    revenue, was 6%, compared to 3% and 2% in fiscal years 2006 and
+    2005, respectively. For fiscal years 2007, 2006 and 2005,
+    approximately 30%, 30% and 31%, respectively, of our disc drive
+    revenue came from customers located in North America,
+    approximately 27%, 27% and 28%, respectively, came from
+    customers located in Europe and approximately 43%, 43% and 41%,
+    respectively, came from customers located in the Far East.
+    Substantially all of our revenue is denominated in
+    U.S. dollars.
+
+
+ 
+
+
+    In addition to manufacturing and selling disc drives and branded
+    storage products, we provide data storage services for small to
+    medium size businesses, including online backup, data protection
+    and recovery solutions through EVault, Inc.
+    (“EVault”), which we acquired in fiscal year 2007.
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+    Industry
+
+
+ 
+
+
+
+    Electronic
+    Data Storage Industry
+
+
+ 
+
+
+    The electronic data storage industry is comprised of companies
+    that participate across the entire electronic data storage value
+    chain and information life cycle, either by providing hardware
+    storage solutions, components for hardware storage solutions,
+    value added storage solutions, software or services.
+
+
+ 
+
+
+    Participants in the electronic data storage industry include:
+
+
+ 
+
+
+    Major subcomponent manufacturers.  Companies
+    that manufacture components or subcomponents used in electronic
+    data storage devices or solutions include companies such as
+    Komag, Inc. (“Komag”), which is in the process of
+    being acquired by Western Digital Corporation (“Western
+    Digital”), TDK Corporation (“TDK”), Fuji Electric
+    Device Technology Co., Ltd. (“Fuji”), Showa Denko K.K.
+    (“Showa”), and until the announced acquisition by TDK,
+    Alps Electric Co. Ltd. (“Alps”), that supply heads and
+    media to disc drive manufacturers as well as semiconductor
+    companies such as Samsung Electronics Co. Ltd
+    (“Samsung”), SanDisk Corporation
+    (“SanDisk”), Micron Technology, Inc.
+    (“Micron”), and Intel Corporation (“Intel”)
+    who manufacture flash memory.
+
+
+ 
+
+
+    Hardware storage solutions
+    manufacturers.  Hardware storage solutions are
+    also provided by a variety of technologies such as disc drives,
+    tape storage, as well as semiconductor-based storage
+    technologies such as flash memory. Companies that make hardware
+    storage solutions include disc drive manufacturers such as
+    Seagate Technology, Western Digital, Samsung, Fujitsu Limited
+    (“Fujitsu”), Hitachi Global Storage Technologies
+    (“Hitachi”) and Toshiba Corporation
+    (“Toshiba”), magnetic tape storage manufacturers such
+    as Quantum Corporation (“Quantum”), as well as
+    semiconductor companies such as Samsung, SanDisk, Micron, and
+    Intel, whose products include flash memory.
+
+
+ 
+
+
+    System integrators.  Companies that bundle and
+    package storage components such as hardware storage solutions
+    and software into systems for compute, consumer electronics and
+    enterprise applications, include personal compute OEMs such as
+    HP, Dell, Inc. (“Dell”), Acer Inc., Lenovo Group
+    Limited, and Apple, Inc. (“Apple”); consumer
+    electronics OEMs such as Apple, Sony Corporation
+    (“Sony”), Microsoft Corporation
+    (“Microsoft”), Motorola, Inc. (“Motorola”),
+    Directv Group, Inc., Tivo Inc. and Scientific-Atlanta
+    Inc., a Cisco System Inc. company; enterprise storage system
+    OEMs such as, HP, EMC Corporation (“EMC”) and Network
+    Appliance, Inc. (“Net App”).
+
+
+ 
+
+
+    Storage services and software
+    providers.  Companies that provide services for
+    the backup, archiving, recovery and discovery of electronic
+    data, or the software to enable businesses and consumers to do
+    so, such as Symantec Corporation (“Symantec”) and EMC.
+
+
+ 
+
+
+
+    Demand
+    for Electronic Data Storage
+
+
+ 
+
+
+    We believe that the amount of data stored and accessed
+    electronically is growing rapidly. We believe the key factor
+    driving this demand is the mass proliferation of digital
+    content. While the electronic data storage industry has
+    traditionally been focused on compute applications for the
+    enterprise and corporate markets, a continued proliferation of
+    non-compute applications in the consumer electronics market is
+    increasingly driving the broad, global expansion of the demand
+    for electronic data storage driven by:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the creation of all types of digital content such as
+    digital photos, video, movies and music by consumers, as well as
+    devices for enjoyment, consumption and preservation of such
+    content such as DVRs, digital music players, handheld
+    applications, gaming consoles and storage devices in automobiles;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the aggregation and distribution of digital content
+    through services and other offerings by companies such as
+    YouTube by Google Inc. (“Google”), Flickr by Yahoo!
+    Inc. (“Yahoo”), iTunes by Apple and MySpace by News
+    Corporation (“News Corp.”).
+
+
+
+
+
+ 
+
+
+    We believe that because digital content is increasingly rich in
+    media with the mass utilization of photos, video, movies and
+    music, the related storage applications and solutions
+    increasingly require higher storage capacity to store, manage,
+    distribute, utilize and back up richer media digital content.
+    This in turn has resulted in the rapid growth in demand for
+    electronic data storage hardware solutions that either directly
+    utilize disc drives, or indirectly drive the demand for
+    additional disc drive storage to store, host or back up related
+    electronic data content.
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+    Additionally, we believe that demand for electronic data storage
+    in the enterprise and traditional compute markets have also
+    increased as increasing legal and regulatory requirements and
+    changes in the nature and amount of data being stored has
+    necessitated additional storage.
+
+
+ 
+
+
+
+    Demand
+    for Disc Drives
+
+
+ 
+
+
+    Disc drives store digitally encoded data on rapidly rotating
+    platters with magnetic surfaces. Disc drives provide reliable,
+    large capacity data storage, and are characterized by relatively
+    low-cost per gigabyte of storage. Disc drives are presently the
+    most common storage solution in enterprise, desktop, mobile and
+    higher capacity consumer electronics applications.
+
+
+ 
+
+
+    Disc Drives for Enterprise Storage.  The need
+    to address the expansion in data storage management requirements
+    has increased the demand for new hardware storage solutions for
+    both mission critical and business critical enterprise storage.
+
+
+ 
+
+
+    Many enterprises are moving away from the use of server-attached
+    storage to network-attached storage for mission critical
+    enterprise storage. We expect the market for these solutions
+    will likely grow, resulting in greater opportunities for the
+    sale of high-performance, high capacity disc drives. Many
+    enterprises are also consolidating data centers, aiming to
+    increase speed and reliability within a smaller space, reduce
+    network complexity and increase savings associated with hardware
+    costs and maintenance. This has led to an increased demand for
+    more energy efficient, smaller form factor disc drives.
+    Recently, solid state drives (SSDs) storage applications that
+    use flash storage technology as an alternative to disc drive
+    storage technology, have been introduced as a potential
+    alternative to redundant system startup or boot disc drives.
+
+
+ 
+
+
+    In addition to the growth in mission critical enterprise
+    storage, there has also been significant growth in the use of
+    high capacity, enterprise class serial advanced technology
+    architecture (SATA) products in business critical storage
+    systems used by enterprises to store and access
+    capacity-intensive non-critical data. This application is
+    exemplified by growth in content aggregation and distribution by
+    companies like Google Inc., Yahoo! Inc. and News Corp as well as
+    storage service providers. We believe that this growth in demand
+    for disc drives for use in business critical storage systems is
+    likely to shift some demand from disc drives used in traditional
+    mission critical enterprise storage in the longer term.
+
+
+ 
+
+
+    Disc Drives for Mobile Computing.  The mobile
+    computing market is expected to grow faster than that for
+    desktop computers as price and performance continue to improve.
+    Notebooks are increasingly replacing desktop computers and are
+    progressively more desirable to consumers as the need for
+    mobility increases and wireless adoption continues to advance.
+    We estimate that in fiscal year 2007, industry shipments of disc
+    drives for mobile compute applications grew approximately 35%
+    from fiscal year 2006.
+
+
+ 
+
+
+    The disc drive industry has recently introduced hybrid disc
+    drives for mobile compute applications that add flash memory to
+    a disc drive to provide customers with a single, integrated
+    solution with enhanced performance, better power utilization,
+    quicker
+    start-up
+    speed and prolonged disc drive durability. Certain companies
+    have also recently introduced SSDs for mobile compute
+    applications that directly compete with mobile disc drives. The
+    current cost per gigabyte for SSDs is significantly higher than
+    the cost per gigabyte for disc drives and is projected to remain
+    higher for the foreseeable future, which we believe will largely
+    inhibit the use of SSDs in many price-sensitive mass-market
+    mobile compute applications.
+
+
+ 
+
+
+    Disc Drives for Desktop Computing.  We believe
+    growth in disc drives for desktop computing has recently
+    moderated, in part due to the shift from desktop computers to
+    notebook computers, particularly in developed countries. We
+    believe that current growth in demand for disc drives in desktop
+    computing is concentrated in developing markets where price
+    remains a primary consideration in compute application data
+    storage purchases.
+
+
+ 
+
+
+    Disc Drives for Consumer Electronics.  Disc
+    drives in the consumer electronics markets are primarily used in
+    DVRs and gaming consoles which require more storage capability
+    than can be provided in a cost-effective manner through
+    alternative technologies such as flash memory, which are better
+    suited to lower capacity consumer electronics applications. We
+    believe the demand for disc drives in consumer electronics will
+    become more pronounced with the increased amount of high
+    definition content that requires larger amounts of storage
+    capacity. With respect to handheld applications, we believe disc
+    drive products smaller than 1.8-inch form factors have to a
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+    large extent been replaced by competing storage technologies,
+    such as solid state or flash memory. However, we believe that
+    disc drives continue to be well suited in applications requiring
+    capacities of 20 gigabytes (GB) or more, and that the demand for
+    disc drives as additional storage to store, hold or back up
+    related media content from such handheld devices, continues to
+    grow.
+
+
+ 
+
+
+    Disc Drives for Branded Solutions.  We believe
+    that industry demand for storage products like our branded
+    storage products is increasing due to the proliferation of
+    media-rich digital content in consumer applications and is
+    fuelling increased consumer demand for storage. This has led to
+    the expansion of solutions such as external storage products to
+    provide additional storage capacity and to secure data in case
+    of disaster or system failure, or to provide independent storage
+    solutions for multiple users in home or small business
+    environments.
+
+
+ 
+
+
+
+    Success
+    in the Disc Drive Industry Depends on Technology and
+    Manufacturing Leadership, High Levels of Capital and Research
+    and Development Investments and Large Scale
+
+
+ 
+
+
+    The design and manufacturing of disc drives depends on highly
+    advanced technology and manufacturing techniques, especially in
+    the areas of read/write heads and recording media, thereby
+    requiring high levels of capital and research and development
+    investments. We believe the competitive dynamics of the disc
+    drive industry favor integrated manufacturers such as ourselves,
+    with the large scale and resources to make substantial
+    technology investments and apply them across a broad product
+    portfolio and a wide variety of customers.
+
+
+ 
+
+
+    Integrated manufacturers are companies that design and produce
+    the critical components, including read/write heads and
+    recording media, used in their disc drives. An integrated
+    approach enables them to lower manufacturing costs and to
+    improve the functionality of components so that they work
+    together efficiently. Due to the significant challenges posed by
+    the need to continually innovate and improve manufacturing
+    efficiency and because of the increasing amounts of capital and
+    research and development investments required, the disc drive
+    industry has undergone significant consolidation as disc drive
+    manufacturers and component suppliers merged with other
+    companies or exited the industry. Through such combinations,
+    disc drive manufacturers have also become increasingly
+    vertically integrated. For instance, Maxtor acquired Quantum in
+    April 2001. Then, International Business Machines Corporation
+    (“IBM”) merged its rigid disc drive business with that
+    of Hitachi through the formation of Hitachi Global Storage
+    Technologies in December 2002. This trend of disc drive
+    manufacturer consolidation continued with our acquisition of
+    Maxtor in May 2006. In March 2007, TDK, a disc drive head
+    manufacturer, announced its pending acquisition of Alps, also a
+    disc drive head manufacturer, while in June 2007, Western
+    Digital announced that it is acquiring Komag. We believe
+    consolidation is likely to continue in the disc drive industry
+    through combination of disc drive manufacturers, component
+    manufacturers, or both, as the technological challenges and the
+    associated levels of required investment grow, increasing the
+    competitive necessity of larger-scale operations.
+
+
+ 
+
+
+
+    Disc
+    Drive Technology
+
+
+ 
+
+
+
+    Overview
+
+
+ 
+
+
+    All disc drives incorporate the same basic technology although
+    individual products vary. One or more discs are attached to a
+    spindle assembly powered by a spindle motor that rotates the
+    discs at a high constant speed around a hub. The discs, or
+    recording media, are the components on which data is stored and
+    from which it is retrieved. Each disc typically consists of a
+    substrate of finely machined aluminum or glass with a layer of a
+    thin-film magnetic material. Read/write heads, mounted on an arm
+    assembly similar in concept to that of a record player, fly
+    extremely close to each disc surface and record data on and
+    retrieve it from concentric tracks in the magnetic layers of the
+    rotating discs. The read/write heads are mounted vertically on
+    an E-shaped
+    assembly. The
+    E-block and
+    the recording media are mounted inside a metal casing, called
+    the base casing.
+
+
+ 
+
+
+    Upon instructions from the drive’s electronic circuitry, a
+    head positioning mechanism, or actuator, guides the heads to the
+    selected track of a disc where the data is recorded or
+    retrieved. Application specific integrated circuits (ASICs) and
+    ancillary electronic control chips are collectively mounted on
+    printed circuit boards. ASICs move data to and from the
+    read/write head and the internal controller, or interface, which
+    communicates with the host computer. Disc drive manufacturers
+    typically use one or more of several industry standard
+    interfaces such as
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+    advanced technology architecture (ATA); SATA, which provides
+    higher data transfer rates than the previous ATA standard; small
+    computer system interface (SCSI); serial attached SCSI (SAS);
+    and Fibre Channel.
+
+
+ 
+
+
+
+    Disc
+    Drive Performance
+
+
+ 
+
+
+    Disc drive performance is commonly assessed by six key
+    characteristics:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    storage capacity, commonly expressed in GB or terabytes (TB),
+    which is the amount of data that can be stored on the disc;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    spindle rotation speed, commonly expressed in revolutions per
+    minute (RPM), which has an effect on speed of access to data;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    interface transfer rate, commonly expressed in megabytes per
+    second, which is the rate at which data moves between the disc
+    drive and the computer controller;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    average seek time, commonly expressed in milliseconds, which is
+    the time needed to position the heads over a selected track on
+    the disc surface,
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    data transfer rate, commonly expressed in megabytes per second,
+    which is the rate at which data is transferred to and from the
+    disc; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    product quality and reliability, commonly expressed in
+    annualized return rates (ARR).
+
+
+
+
+
+ 
+
+
+
+    Areal
+    Density
+
+
+ 
+
+
+    Areal density is a measure of storage capacity per square inch
+    on the recording surface of a disc. Current areal densities are
+    sufficient to meet the requirements of most applications today.
+    We expect the long-term demand for increased drive capacities
+    will continue to grow proportionately with the shift in storage
+    applications from predominantly compute applications to more
+    high-resolution media content. In particular, audio, video and
+    image storage data continue to increase in size, with high
+    definition video content an example of data requiring many
+    multiples of the storage capacity of standard video. Demand will
+    further intensify by the proliferation of these forms of
+    content. We have pursued, and expect to continue to pursue, a
+    number of technologies to increase areal densities across the
+    entire range of our products to increase disc drive capacities
+    and to enable the production of higher capacity, smaller form
+    factor disc drives. We led the industry in transitioning from
+    longitudinal to perpendicular recording technology, in which
+    data bits are oriented vertically on the disc platter
+    (perpendicular to the disc surface), rather than flat to the
+    surface in order to increase areal density and capacity.
+
+
+ 
+
+
+
+    Manufacturing
+
+
+ 
+
+
+    We pursue an integrated business strategy based on the ownership
+    of critical component technologies. This vertical integration
+    strategy allows us to maintain control over our product roadmap
+    and component cost, quality and availability. Our manufacturing
+    efficiency and flexibility are critical elements of our
+    integrated business strategy. We continuously seek to improve
+    our manufacturing efficiency and cost by:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    consolidating the number and location of facilities we operate
+    and reducing the number of personnel we employ;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    employing manufacturing automation to enhance our efficiency and
+    flexibility;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    applying Six Sigma to improve product quality and reliability
+    and reduce costs;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    integrating our supply chain with suppliers and customers to
+    enhance our demand visibility and reduce our working capital
+    requirements; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    coordinating between our manufacturing group and our research
+    and development organization to rapidly achieve volume
+    manufacturing and enhance our product quality and reliability.
+
+
+
+
+
+ 
+
+
+    Manufacturing our disc drives is a complex process that begins
+    with the production of individual components and ends with a
+    fully assembled unit. We design, fabricate
+    and/or
+    assemble a number of the most important
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+    components found in our disc drives, including read/write heads,
+    recording media and printed circuit boards. Our design and
+    manufacturing operations are based on technology platforms that
+    are used to produce various disc drive products that serve
+    multiple disc drive applications and markets. As an example, our
+    3.5-inch ATA disc drive with perpendicular recording technology
+    platform is sold to customers for use in desktop, enterprise and
+    consumer electronics applications. Our main technology platforms
+    are primarily focused around areal density of media and
+    read/write head technologies. In addition, we also invest in
+    certain other technology platforms including motors, servo
+    formatting read/write channels, solid-state technologies and
+    sealed drive technologies. Our integrated platform technologies
+    and manufacturing allow our set of products to be used in a wide
+    range of electronic data storage applications and in a wide
+    range of industries.
+
+
+ 
+
+
+    We believe that because of our vertical design and manufacturing
+    strategy, we are well suited to meet the challenges posed by the
+    close interdependence of components for disc drives, which is
+    especially critical in the design and production of products
+    incorporating perpendicular recording technology.
+
+
+ 
+
+
+    Read/Write Heads.  The function of the
+    read/write head is to scan across the disc as it spins,
+    magnetically recording or reading information. The tolerances of
+    recording heads are extremely demanding and require
+    state-of-the-art equipment and processes. Our read/write heads
+    are manufactured with thin-film and photolithographic processes
+    similar to those used to produce semiconductor integrated
+    circuits, though challenges in magnetic film properties and
+    topographical structures are unique to the disc drive industry.
+    Beginning with six and eight-inch round ceramic wafers, we
+    process more than 30,000 head elements at one time. Each of
+    these head elements goes through more than 500 steps, all in
+    clean room environments. As we expect to essentially complete
+    our product transition to perpendicular recording technology by
+    the end of calendar year 2008, we have upgraded our fabrication
+    facilities in capital equipment and systems to deliver the
+    required complexity and precision. Additional capital
+    investments will be driven primarily by volume. We perform all
+    primary stages of design and manufacture of read/write heads at
+    our facilities. We currently manufacture virtually all of our
+    read/write heads.
+
+
+ 
+
+
+    Recording Media.  The function of the recording
+    media is to magnetically store information. The domains where
+    each bit of magnetic code is stored are extremely small and
+    precisely placed. As a result, the manufacturing of recording
+    media requires sophisticated thin-film processes. Each disc is a
+    sequentially processed set of sputtered layers that consist of
+    structural, magnetic, protective and lubricating materials
+    deposited on a disc substrate. Once complete, the disc must have
+    a high degree of physical uniformity to assure reliable and
+    error-free storage. Recording media is deposited on aluminum or
+    glass substrates.
+
+
+ 
+
+
+    The percentage of our requirements for recording media that we
+    produce internally varies from quarter to quarter. We are
+    continuing to expand our media production facilities in
+    Singapore, and have relocated certain of the acquired Maxtor
+    media manufacturing equipment to Asia. We do not expect our new
+    media facility in Singapore to be fully operational until
+    towards the end of fiscal year 2008. Our long-term strategy is
+    to externally purchase no more than 15% of total recording media
+    requirements.
+
+
+ 
+
+
+    We purchase approximately 70% of our aluminum substrates for
+    recording media production from third parties. We are in the
+    process of adding an aluminum substrate manufacturing facility
+    in Johor, Malaysia which will allow us to decrease our purchases
+    of aluminum substrates from third parties. We also purchase all
+    of our glass substrates from third parties (mainly in Japan),
+    which are used in manufacturing our disc drives for mobile and
+    small form factor consumer electronics products.
+
+
+ 
+
+
+    Recently, substantially all of our purchases of recording media
+    and a significant portion of our aluminum substrates from
+    third-party suppliers have been sourced from Komag, which is in
+    the process of being acquired by Western Digital. We are engaged
+    in discussions with all our suppliers to ensure supply
+    continuity. See “Item 1A. Risk Factors Related to Our
+    Business — Dependence on Supply of Components,
+    Equipment, and Raw Materials — If we experience
+    shortages or delays in the receipt of critical components,
+    equipment or raw materials necessary to manufacture our
+    products, we may suffer lower operating margins, production
+    delays and other material adverse effects.”
+
+
+ 
+
+
+    Raw Materials.  Perpendicular recording
+    technology requires recording media with more layers and the use
+    of more precious metals and scarce alloys in the sputtering
+    process required to create such layers. As a result, products
+    utilizing perpendicular recording technology are more sensitive
+    to fluctuations in prices and availability of
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+    precious metals and scarce alloys such as platinum and
+    ruthenium. As our product offerings have transitioned to
+    perpendicular recording technology, we have increased inventory
+    of these precious metals and scarce alloys and may continue to
+    be required to increase inventory over time.
+
+
+ 
+
+
+    Printed Circuit Boards.  We assemble and test a
+    significant portion of the printed circuit boards used in our
+    disc drives. Printed circuit boards are the boards that contain
+    the electronic circuitry and ASICs that provide the electronic
+    controls of the disc drive and on which the head-disc assembly
+    is mounted. We assemble printed circuit boards at our facilities
+    in Malaysia and China.
+
+
+ 
+
+
+    Spindle Motors.  We participate in the design
+    of many of our spindle motors and purchase them principally from
+    outside vendors in Asia, whom we have licensed to use our
+    intellectual property and technology.
+
+
+ 
+
+
+    ASICs.  We participate in the design of many of
+    the ASICs used in our disc drives for motor and actuator
+    control, such as interface controllers, read/write channels and
+    pre-amplifiers.
+    We do not manufacture any ASICs but, rather, buy them from
+    third-party suppliers.
+
+
+ 
+
+
+    Disc Drive Assembly.  Following the production
+    of the individual components of the disc drive, the first step
+    in the manufacture of a disc drive itself is the assembly of the
+    actuator arm, read/write heads, discs and spindle motor in a
+    housing to form the head-disc assembly. The production of the
+    head-disc assembly involves largely automated processes. Printed
+    circuit boards are then mated to the head-disc assembly and the
+    completed unit is tested prior to packaging and shipment. Disc
+    drive assembly and test operations occur primarily at facilities
+    located in China, Singapore and Thailand. We perform subassembly
+    and component manufacturing operations at our facilities in
+    China, Malaysia, Northern Ireland, Singapore, Thailand, and in
+    the United States, in California and Minnesota. In addition,
+    third parties manufacture and assemble components for us in
+    various Asian countries, including China, Japan, Korea,
+    Malaysia, the Philippines, Singapore, Taiwan, Thailand and
+    Vietnam, in Europe and the United States.
+
+
+ 
+
+
+
+    Products
+
+
+ 
+
+
+    We offer a broad range of disc drive products for the
+    enterprise, mobile computing, desktop, consumer electronics and
+    branded solutions markets of the disc drive industry. We now
+    produce perpendicular recording technology based products for
+    all major markets described below, with products shipping for
+    revenue in all major markets in fiscal year 2007. Currently, the
+    majority of our disc drive unit shipments are perpendicular
+    recording technology based products. In addition, we have
+    recently announced our intention to introduce SSD products for
+    select markets in the future.
+
+
+ 
+
+
+    We offer more than one product within each product family, and
+    differentiate products on the basis of price/performance and
+    form factor, the dimensions of the disc drive, capacity, or
+    interface. Historically, our industry has been characterized by
+    continuous and significant advances in technology, which
+    contributed to rapid product life cycles. We list below our main
+    current product offerings.
+
+
+ 
+
+
+
+    Enterprise
+    Storage
+
+
+ 
+
+
+    Cheetah SCSI/SAS/Fibre Channel Family.  Our
+    Cheetah 3.5-inch disc drives ships in 10,000 and 15,000 RPM and
+    in storage capacities ranging from 36GB to 400GB. Commercial
+    uses for Cheetah disc drives include Internet and
+    e-commerce
+    servers, data mining and data warehousing, mainframes and
+    supercomputers, department/enterprise servers and workstations,
+    transaction processing, professional video and graphics and
+    medical imaging.
+
+
+ 
+
+
+    Savvio SCSI/SAS/Fibre Channel Family.  Savvio,
+    our 2.5-inch enterprise disc drives, first introduced in fiscal
+    year 2004, designed to enable space optimization, maximized
+    performance and availability, ships in 10,000 and 15,000 RPM and
+    in storage capacities ranging from 36GB to 146GB. This disc
+    drive is our first enterprise disc drive in the smaller 2.5-inch
+    form factor and, as such, allows the installation of more disc
+    drives per square foot, thus facilitating faster access to data.
+    We believe that end-user customers are increasingly adopting the
+    smaller 2.5-inch form factor enterprise class disc drives. We
+    are currently shipping our 2nd generation Savvio disc drive
+    which utilizes perpendicular recording technology with increased
+    throughput and improved power consumption, allowing improved
+    space optimized enterprise storage systems.
+
+
+ 
+
+
+    Barracuda ES SATA Family.  Our Barracuda ES
+    3.5-inch disc drives using perpendicular recording technology
+    ships in 7,200 RPM and in storage capacities ranging from
+    250GB to 750GB. The Barracuda ES
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+    addresses the emerging market in enterprise storage of the use
+    of business critical storage systems for capacity-intensive
+    enterprise applications that require space optimization,
+    maximized performance and availability. In June 2007, we
+    announced storage capacities of up to 1 TB for this drive.
+
+
+ 
+
+
+
+    Mobile
+    Computing
+
+
+ 
+
+
+    Momentus ATA/SATA Family.  The Momentus family
+    of disc drives for mobile computing disc drive products, ships
+    in 5,400 and 7,200 RPM and in capacities ranging from 30GB
+    to 160GB. Commercial uses for Momentus disc drives include
+    notebook computers running popular office applications and
+    notebook computers for business, government and education
+    environments. Consumer uses for Momentus disc drives include
+    notebook computers, tablet computers and digital audio
+    applications. We have started to ship three new products for the
+    mobile compute market, all utilizing perpendicular recording
+    technology, including the Momentus 5400 PSD, a
+    2.5-inch
+    notebook hybrid drive that combines rotating disc storage with
+    flash memory for greater power efficiency, faster
+    boot-ups and
+    increased reliability; the Momentus 5400.2 FDE, the
+    industry’s only 2.5-inch encrypting disc drive that
+    delivers the highest levels of protection for data on lost,
+    stolen or retired notebooks; and the Momentus 7200.2, a 7,200
+    RPM disc drive for high-performance notebooks.
+
+
+ 
+
+
+    LD25.2 Family.  Our LD25.2
+    Series 2.5-inch
+    disc drives deliver storage capacities of 40GB and 80GB at 5,400
+    RPM, a solution with optimized capacity and size for notebook
+    computers.
+
+
+ 
+
+
+
+    Desktop
+    Storage
+
+
+ 
+
+
+    Barracuda ATA/SATA Family.  Our Barracuda
+    3.5-inch disc drive is in its 11th generation and delivers
+    storage capacities of up to 1TB at 7,200 RPM and is used in
+    applications such as PCs, workstations and personal external
+    storage devices. The majority of our desktop storage products
+    currently utilize perpendicular recording technology.
+    Additionally, we are currently shipping a 3.5-inch disc drive
+    with 250GB of capacity on a single disc which utilizes
+    2nd generation perpendicular recording technology.
+
+
+ 
+
+
+    DiamondMax Family.  Our DiamondMax 3.5-inch
+    disc drives deliver storage capacities of up to 500GB at 7,200
+    RPM. DiamondMax drives are targeted at entry-level and
+    mainstream PCs with non-traditional ATA applications that
+    require a value solution with solid performance.
+
+
+ 
+
+
+    LD25.2 Family.  Our LD25.2
+    Series 2.5-inch
+    disc drives deliver storage capacities of 40GB and 80GB at 5,400
+    RPM.
+
+
+ 
+
+
+
+    Consumer
+    Electronics Storage
+
+
+ 
+
+
+    Barracuda ATA/SATA Family.  We also sell some
+    of our 3.5-inch Barracuda disc drives for use in DVR’s,
+    audio jukeboxes, home media centers and home and industrial
+    security systems. Our DB35 Series disc drive, with storage
+    capacities up to 750GB, uses perpendicular recording technology
+    to help set-top box manufacturers optimize performance for
+    leading-edge digital entertainment.
+
+
+ 
+
+
+    Momentus ATA/SATA Family.  We sell our
+    2.5-inch, 7,200 and 5,400 RPM Momentus disc drives, including
+    our recently announced LD25 Series of Momentus family of disc
+    drives with capacities ranging from 20GB up to 160GB, for use in
+    low-profile DVR’s, gaming consoles, home entertainment
+    devices and small footprint media PCs. We also offer our
+    2.5-inch EE25 Series of Momentus disc drives which is designed
+    for the temperature, vibration, humidity and other environmental
+    extremes of automotive, marine and aircraft applications,
+    delivering storage capacities of up to 80GB.
+
+
+ 
+
+
+    Seagate ST18 Series.  Our Seagate ST18 Series
+    disc drives uses Seagate’s perpendicular recording
+    technology to deliver 60GB on a single platter in a compact
+    1.8-inch disc drive designed for use in portable media players,
+    global positioning systems (GPS), digital video camcorders and
+    ultra-mobile PCs.
+
+
+ 
+
+
+
+    Branded
+    Solutions
+
+
+ 
+
+
+    Our branded solutions business, which was expanded with the
+    acquisition and integration of the retail and branded sales
+    operations of Maxtor and the related right to use the Maxtor
+    brand and other related trade names such as
+    “OneTouch”, provides storage products including
+    various home and office storage appliances and applications.
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+    During fiscal year 2007, we launched our FreeAgent product line
+    of external backup storage and we also currently ship the Maxtor
+    OneTouchTM
+    product line of external backup storage, with both these product
+    lines utilizing our 3.5-inch Barracuda and 2.5-inch Momentus
+    disc drives with capacities up to 750GB.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    We sell our disc drive products primarily to major OEMs and
+    distributors. OEM customers incorporate our disc drives into
+    computer systems and storage systems for resale. Distributors
+    typically sell our disc drives to small OEMs, dealers, system
+    integrators and other resellers. Shipments to OEMs were
+    approximately 64%, 72% and 72% of our disc drive revenue in
+    fiscal years 2007, 2006 and 2005, respectively. Shipments to
+    distributors were approximately 30%, 25% and 26% of our disc
+    drive revenue in fiscal years 2007, 2006 and 2005, respectively.
+    Sales to HP accounted for approximately 16%, 17% and 18% of our
+    disc drive revenue in fiscal years 2007, 2006 and 2005,
+    respectively, while sales to Dell, as a percentage of our disc
+    drive revenue, were 9%, 11% and 12% in fiscal years 2007, 2006
+    and 2005, respectively. No other customer accounted for 10% or
+    more of our disc drive revenue in fiscal years 2007, 2006 and
+    2005. Retail sales of our branded storage products in fiscal
+    year 2007 as a percentage of our disc drive revenue increased to
+    6% from 3% and 2% in fiscal years 2005 and 2004, respectively.
+    See “Item 1A. Risk Factors Related to Our
+    Business — Dependence on Key Customers — We
+    may be adversely affected by the loss of, or reduced, delayed or
+    cancelled purchases by, one or more of our larger
+    customers.”
+
+
+ 
+
+
+    OEM customers typically enter into master purchase agreements
+    with us. These agreements provide for pricing, volume discounts,
+    order lead times, product support obligations and other terms
+    and conditions. The term of these agreements is usually 12 to
+    36 months, although our product support obligations
+    generally extend substantially beyond this period. These master
+    agreements typically do not commit the customer to buy any
+    minimum quantity of products, or create exclusive relationships.
+    Deliveries are scheduled only after receipt of purchase orders.
+    In addition, with limited lead-time, customers may cancel or
+    defer most purchase orders without significant penalty.
+    Anticipated orders from many of our customers have in the past
+    failed to materialize or OEM delivery schedules have been
+    deferred or altered as a result of changes in their business
+    needs.
+
+
+ 
+
+
+    Our distributors generally enter into non-exclusive agreements
+    for the redistribution of our products. They typically furnish
+    us with a non-binding indication of their near-term requirements
+    and product deliveries are generally scheduled based on a weekly
+    confirmation by the distributor of its requirements for that
+    week. The agreements typically provide the distributors with
+    price protection with respect to their inventory of our disc
+    drives at the time of a reduction by us in our selling price for
+    the disc drives and also provide limited rights to return the
+    product.
+
+
+ 
+
+
+    We have significantly increased our sales of branded storage
+    products to retail customers in the last two years with the
+    Maxtor acquisition further expanding our retail customer base.
+    Retail sales typically require higher marketing support, sales
+    incentives and longer price protection periods.
+
+
+ 
+
+
+    We also regularly enter into agreements with our customers,
+    which obligate us to provide a limited indemnity against losses
+    resulting from intellectual property claims. These agreements
+    are customary in our industry and typically require us to
+    indemnify our customer against certain damages and costs
+    incurred as a result of third party intellectual property claims
+    arising as a result of their use of our products.
+
+
+ 
+
+
+
+    Sales,
+    Marketing and Customer Service
+
+
+ 
+
+
+    Our marketing organization works to increase demand for our disc
+    drive products through strategic collaboration with key OEM
+    customers and distribution partners to align our respective
+    product roadmaps and to build our brand and end-customer
+    relationships. As customer and markets increasingly demand a
+    broad variety of products with different performance and cost
+    attributes, we have recently organized our marketing
+    organization with groups focused on the strategic needs of our
+    increasingly diverse customer base. We believe this enables us
+    to serve both our core markets and better identify, develop and
+    serve emerging markets.
+
+
+ 
+
+
+    Our sales organization focuses on deepening our relationship
+    with our customers. The worldwide sales group focuses on
+    geographic coverage of OEMs and distributors throughout most of
+    the world. The worldwide sales group is organized by customer
+    type and regionally among North America, Japan, Asia-Pacific
+    (excluding Japan) and
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+    Europe, Africa and the Middle East. In addition, we have a sales
+    operation group which focuses on aligning our production levels
+    with customers’ product requirements. Our sales force works
+    directly with our marketing organization to coordinate our OEM
+    and distribution channel relationships. We maintain sales
+    offices throughout the United States and in Australia, China,
+    France, Germany, Japan, Singapore, Taiwan and the United Kingdom.
+
+
+ 
+
+
+    With the acquisition of Maxtor, we acquired the right to the use
+    the Maxtor and other related brand names. We believe the Maxtor
+    brand is a valuable asset, and we intend to continue to offer
+    the Maxtor brand of products to consumers globally to broaden
+    our reach into and coverage of these channels as well as
+    optimize the impact of our marketing investments.
+
+
+ 
+
+
+    Our customer service organization maintains a global network of
+    service points to process warranty returns and manage outsourced
+    repair vendors. We generally warrant our products for periods
+    ranging from one year to five years.
+
+
+ 
+
+
+    Foreign sales are subject to foreign exchange controls and other
+    restrictions, including, in the case of some countries, approval
+    by the Office of Export Administration of the
+    U.S. Department of Commerce and other
+    U.S. governmental agencies.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The markets that we compete in are intensely competitive, with
+    disc drive manufacturers not only competing for a limited number
+    of major disc drive customers, but also increasingly competing
+    with other companies in the electronic data storage industry
+    that provide alternative storage solutions, such as flash memory
+    and SSDs. Some of the principal factors used by customers to
+    differentiate among electronic data storage solutions
+    manufacturers are storage capacity; price per unit and price per
+    gigabyte; storage/retrieval access times; data transfer rates;
+    product quality and reliability; production volume capability;
+    form factor; responsiveness to customer preferences and demands;
+    warranty; and brand.
+
+
+ 
+
+
+    We believe that our disc drive products are competitive with
+    respect to each of these factors in the markets that we
+    currently address. We summarize below our principal disc drive
+    competitors, other competitors, the effect of competition on
+    price erosion for our products and product life cycles and
+    technology.
+
+
+ 
+
+
+    Principal Disc Drive Competitors.  We have
+    experienced and expect to continue to experience intense
+    competition from a number of domestic and foreign companies,
+    some of which have greater financial and other resources than we
+    have. These competitors include independent disc drive
+    manufacturers such as Western Digital, as well as large captive
+    manufacturers such as Fujitsu, Samsung, Hitachi, and Toshiba.
+    Because they produce complete computer systems and other
+    non-compute consumer electronics and mobile devices, these
+    “captive manufacturers” can derive a greater portion
+    of their operating margins from other components, which reduces
+    their need to realize a profit on the disc drives included in
+    their computer systems and allows them to sell disc drives to
+    third parties at very low margins. Many captive manufacturers
+    are also formidable competitors because they have more
+    substantial resources and greater access to their internal
+    customers than we do. In addition, Hitachi (together with
+    affiliated entities), Toshiba and Samsung, each are increasingly
+    integrating other storage technologies such as flash memory,
+    hybrid disc drives and SSDs into its product offerings. Not only
+    may they be willing to sell their disc drives at a lower margin
+    to advance their overall business strategy, their portfolio
+    allows them to be indifferent to which technology prevails over
+    the other. They can offer a broad range of storage media and
+    solutions and focus on those with lowest costs and greatest
+    sales. In connection with our branded storage products, in
+    addition to competing with our disc drive competitors, we also
+    compete with companies such as LaCie S.A. that purchase
+    disc drives for use in their branded storage products from us
+    and our competitors.
+
+
+ 
+
+
+    Other Competitors.  We also are experiencing
+    competition from companies that provide alternative storage
+    technologies such as flash memory, which have substantially
+    replaced disc drives in lower capacity handheld devices.
+    Principal competitors include Samsung, Hitachi, Micron and
+    SanDisk.
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+    Price Erosion.  Our industry has been
+    characterized by continuous price erosion for disc drive
+    products with comparable capacity, performance and feature sets
+    (i.e., “like-for-like products”). Price erosion for
+    like-for-like products is more pronounced during periods of:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    industry consolidation in which competitors aggressively use
+    discounted price to gain market share;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    few newer product introductions when multiple competitors have
+    comparable product offerings;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    temporary imbalances between industry supply and demand; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    seasonally weaker demand which may cause excess supply.
+
+
+
+
+
+ 
+
+
+    Disc drive manufacturers typically attempt to off-set price
+    erosion with an improved mix of disc drive products
+    characterized by higher capacity, better performance and
+    additional feature sets
+    and/or
+    product cost reductions.
+
+
+ 
+
+
+    We expect that price erosion in our industry will continue for
+    the foreseeable future. To remain competitive, it will be
+    necessary to continue to reduce our prices, as well as introduce
+    new product offerings with increased disc drive capacities
+    and/or
+    improved feature sets, utilizing advanced technologies prior to
+    our competitors to take advantage of potentially higher initial
+    profit margins and reduced cost structure on these new products.
+    We have established production facilities in China, Malaysia,
+    Singapore and Thailand to achieve cost reductions.
+
+
+ 
+
+
+    Product Life Cycles and Changing
+    Technology.  Historically, competition and
+    changing customer preference and demand in the electronic data
+    storage industry have shortened product life cycles and caused
+    acceleration in the development and introduction of new
+    technology. We believe that our future success will depend upon
+    our ability to develop, manufacture and market products of high
+    quality and reliability which meet changing user needs and which
+    successfully anticipate or respond to changes in technology and
+    standards on a cost-effective and timely basis. Introduction of
+    any technology that delivers storage at an attractive price, or
+    has other features not available to disc drives, will be
+    disruptive to the disc drive industry. Product life cycles are
+    also being shortened with the increasing capabilities of flash
+    and SSD. For example, our
+    1-inch disc
+    drive’s life cycle was shortened when it was replaced by
+    flash memory in smaller capacity handheld consumer electronics
+    applications.
+
+
+ 
+
+
+
+    Seasonality
+
+
+ 
+
+
+    The disc drive industry traditionally experiences seasonal
+    variability in demand with higher levels of demand in the second
+    half of the calendar year. This seasonality is driven by
+    consumer spending in the back-to-school season from late summer
+    to fall and the traditional holiday shopping season from fall to
+    winter. In addition, corporate demand is higher during the
+    second half of the calendar year when IT budget calendars
+    typically provide for more spending.
+
+
+ 
+
+
+
+    Research
+    and Development
+
+
+ 
+
+
+    We are committed to developing new component technologies and
+    products and evaluating alternative storage technologies,
+    including flash storage technology. We have increased our focus
+    on research and development and realigned our disc drive
+    development process. This structured product process is designed
+    to bring new products to market in a high volume environment and
+    with quality attributes that our customers expect. Our research
+    group, which is based in Pittsburgh, Pennsylvania, is dedicated
+    to the transition and extending the capacity of perpendicular
+    recording technology as well as exploring alternative data
+    storage technologies. Our advanced technology integration effort
+    focuses disc drive and component research on recording
+    subsystems, including read/write heads and recording media,
+    market-specific product technology as well as technology focused
+    towards new business opportunities. The primary purpose of our
+    advanced technology integration effort is to ensure timely
+    availability of mature component technologies to our product
+    development teams as well as allowing us to leverage and
+    coordinate those technologies in the design centers across our
+    products in order to take advantage of opportunities in the
+    marketplace. During fiscal years 2007, 2006 and 2005, we had
+    product development expenses of $904 million,
+    $805 million and $645 million, respectively, which
+    represented 8%, 9% and 9% of our consolidated revenue,
+    respectively.
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+
+    Patents
+    and Licenses
+
+
+ 
+
+
+    As of June 29, 2007, we had approximately 3,857
+    U.S. patents and 761 patents issued in various foreign
+    jurisdictions as well as approximately 1,287 U.S. and 651
+    foreign patent applications pending. The number of patents and
+    patent applications will vary at any given time as part of our
+    ongoing patent portfolio management activity. Due to the rapid
+    technological change that characterizes the information storage
+    industry, we believe that the improvement of existing products,
+    reliance upon trade secret law, the protection of unpatented
+    proprietary know-how and development of new products are
+    generally more important than patent protection in establishing
+    and maintaining a competitive advantage. Nevertheless, we
+    believe that patents are valuable to our business and intend to
+    continue our efforts to obtain patents, where available, in
+    connection with our research and development program.
+
+
+ 
+
+
+    The information storage industry is characterized by significant
+    litigation relating to patent and other intellectual property
+    rights. Because of rapid technological development in the
+    information storage industry, some of our products have been,
+    and in the future could be, alleged to infringe existing patents
+    of third parties. From time to time, we receive claims that our
+    products infringe patents of third parties. Although we have
+    been able to resolve some of those claims or potential claims by
+    obtaining licenses or rights under the patents in question
+    without a material adverse affect on us, other claims have
+    resulted in adverse decisions or settlements. In addition, other
+    claims are pending which if resolved unfavorably to us could
+    have a material adverse effect on our business and results of
+    operations. For more information on these claims, see
+    “Item 3. Legal Proceedings.” The costs of
+    engaging in intellectual property litigation in the past have
+    been and may be substantial regardless of the merit of the claim
+    or the outcome. We have patent cross-licenses with a number of
+    companies. Additionally, as part of our normal intellectual
+    property practices, we are engaged in negotiations with other
+    major disc drive companies and component manufacturers with
+    respect to ongoing patent cross-licenses.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    In view of customers’ rights to cancel or defer orders with
+    little or no penalty, we believe backlog in the disc drive
+    industry is of limited indicative value in estimating future
+    performance and results.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    At June 29, 2007, we employed approximately
+    54,000 employees, temporary employees and contractors
+    worldwide, of which approximately 43,000 employees were
+    located in our Asian operations. We believe that our future
+    success will depend in part on our ability to attract and retain
+    qualified employees at all levels. We believe that our employee
+    relations are good.
+
+
+ 
+
+
+
+    Environmental
+    Matters
+
+
+ 
+
+
+    Our operations are subject to comprehensive U.S. and
+    foreign laws and regulations relating to the protection of the
+    environment, including those governing discharges of pollutants
+    into the air and water, the management and disposal of hazardous
+    substances and wastes and the cleanup of contaminated sites.
+    Some of our operations require environmental permits and
+    controls to prevent and reduce air and water pollution, and
+    these permits are subject to modification, renewal and
+    revocation by issuing authorities.
+
+
+ 
+
+
+    We believe that our operations are currently in substantial
+    compliance with all environmental laws, regulations and permits.
+    We incur operating and capital costs on an ongoing basis to
+    comply with environmental laws. If additional or more stringent
+    requirements are imposed on us in the future, we could incur
+    additional operating costs and capital expenditures.
+
+
+ 
+
+
+    Some environmental laws, such as the U.S. federal superfund
+    law and similar state statutes, can impose liability for the
+    cost of cleanup of contaminated sites upon any of the current or
+    former site owners or operators or upon parties who sent waste
+    to these sites, regardless of whether the owner or operator
+    owned the site at the time of the release of hazardous
+    substances or the lawfulness of the original disposal activity.
+    We have been identified as a potentially responsible party at
+    several superfund sites. At each of these sites, the government
+    has assigned to us a
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+    portion of the financial liability based on the type and amount
+    of hazardous substances disposed of by each party at the site
+    and the number of financially viable parties.
+
+
+ 
+
+
+    Some of our current and former sites have a history of
+    commercial and industrial operations, including the use of
+    hazardous substances. Groundwater and soil contamination
+    resulting from historical operations has been identified at
+    several of our current and former facilities and we are
+    addressing the cleanup of these sites in cooperation with the
+    relevant government agencies.
+
+
+ 
+
+
+    While our ultimate costs in connection with these sites is
+    difficult to predict with complete accuracy, based on our
+    current estimates of cleanup costs and our expected allocation
+    of these costs, we do not expect costs in connection with these
+    superfund sites and contaminated sites to be material.
+
+
+ 
+
+
+    We may be subject to various state, federal and international
+    laws and regulations governing the environment, including those
+    restricting the presence of certain substances in electronic
+    products. For example, the European Union (“EU”) has
+    enacted the Restriction of the Use of Certain Hazardous
+    Substances in Electrical and Electronic Equipment
+    (“RoHS”), which prohibits the use of certain
+    substances, including lead, in certain products, including hard
+    drives, put on the market after July 1, 2006 as well as the
+    Waste Electrical and Electronic Equipment (“WEEE”)
+    directive, which makes producers of electrical goods, including
+    disc drives, financially responsible for specified collection,
+    recycling, treatment and disposal of past and future covered
+    products. Similar legislation has been or may be enacted in
+    other jurisdictions, including in the United States, Canada,
+    Mexico, China and Japan. We will need to ensure that we comply
+    with such laws and regulations as they are enacted, and that our
+    component suppliers also timely comply with such laws and
+    regulations. If we fail to timely comply with the legislation,
+    our customers may refuse to purchase our products, which would
+    have a materially adverse effect on our business, financial
+    condition and results of operations.
+
+
+ 
+
+
+
+    Executive
+    Officers
+
+
+ 
+
+
+    The following sets forth the name, age and position of each of
+    the persons who were serving as executive officers as of
+    August 10, 2007. There are no family relationships among
+    any of our executive officers.
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+
+
+
+
+    William D. Watkins
+    Chief Executive Officer and Director
+    age 54
+
+
+
+ 
+
+
+    Mr. Watkins has been Chief
+    Executive Officer since 2004, and a Director of Seagate since
+    2000. Prior to that, he was President and Chief Executive
+    Officer from 2004 to 2006; President and Chief Operating Officer
+    from 2000 to 2004; Executive Vice President and Chief Operating
+    Officer from 1998 to 2000; and Executive Vice President,
+    Recording Media Operations from 1996 to 1998.
+    
+
+
+
+
+
+    David A. Wickersham 
+    President and Chief
+    Operating Officer
+    age 51
+
+
+
+ 
+
+
+    Mr. Wickersham has been President
+    since 2006 and Chief Operating Officer since 2004.  Prior to
+    that, he was Chief Operating Officer and Executive Vice
+    President from 2004 to 2006; Executive Vice President, Global
+    Disc Storage Operations from 2000 to 2004, Senior Vice
+    President, Worldwide Product Line Management from 1999 to 2000;
+    and Senior Vice President, Worldwide Materials from 1998 to 1999.
+    
+
+
+
+
+
+    Charles C. Pope
+    Executive Vice President and Chief Financial Officer
+    age 52
+
+
+
+ 
+
+
+    Mr. Pope has been Executive Vice
+    President and Chief Financial Officer since 1999.  From 1998 to
+    1999 he was Senior Vice President and Chief Financial Officer.
+    Prior to that, he was Senior Vice President Finance, Storage
+    Products from 1997 to 1998; Vice President Finance, Storage
+    Products from 1996 to 1997; Vice President/General Manager,
+    Media from 1994 to 1996; Vice President Finance and Treasurer
+    from 1991 to 1994; and Vice President, Finance Far East
+    Operations from 1989 to 1991.
+    
+
+
+
+
+
+    Brian S. Dexheimer
+    Executive Vice President and Chief Sales & Marketing
+    Officer
+    age 44
+
+
+
+ 
+
+
+    Mr. Dexheimer has been Executive
+    Vice President and Chief Sales & Marketing Officer since
+    2006.  Prior to that he was Executive Vice President, Storage
+    Business and Worldwide Sales, Marketing and Customer Service
+    from 2005 to 2006; Executive Vice President, Worldwide Sales,
+    Marketing and Customer Service from 2000 to 2005; Senior Vice
+    President, Worldwide Sales from 1999 to 2000; Senior Vice
+    President, Personal Storage Group/Product Line Management from
+    1998 to 1999; Vice President, and General Manager, Removable
+    Storage Solutions from 1997 to 1998.
+    
+
+
+
+
+
+    Todd A. Abbott
+    Executive Vice Present, Sales, Marketing and Customer Service
+    age 48
+
+
+
+ 
+
+
+    Mr. Abbott has been Executive Vice
+    President, Sales, Marketing and Customer Service since 2007.
+    Prior to joining Seagate, he was Senior Vice President of
+    Worldwide Sales for Symbol Technologies from 2002 to 2006; Group
+    Vice President in the sales organization for Cisco Systems from
+    2001 to 2002; and held other senior positions in the sales
+    organization at Cisco from 1994 to 2001.
+    
+
+
+
+
+
+    William L. Hudson
+    Executive Vice President, General Counsel and Corporate
+    Secretary
+    age 55
+
+
+
+ 
+
+
+    Mr. Hudson has been Executive Vice
+    President since November 2002, and General Counsel and Corporate
+    Secretary since January 2000.  Prior to that he was Senior Vice
+    President, General Counsel and Secretary from January 2000 to
+    November 2002.
+    
+
+
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+
+
+     	
+     	
+     	
+
+
+
+
+    Robert Whitmore
+    Executive Vice President and Chief Technical Officer
+    age 45
+
+
+
+ 
+
+
+    Mr. Whitmore has been Executive
+    Vice President Product and Process Development and Chief
+    Technical Officer since 2007.  Prior to that he was Executive
+    Vice President, Product and Process Development from 2006 to
+    2007; Senior Vice President, Product and Process Development
+    from 2004 to 2006; Senior Vice President, Product Development
+    Engineering from 2002 to 2004; Vice President, Enterprise
+    Storage Design Engineering from 1999 to 2002, Vice President and
+    Executive Director, Twin Cities Manufacturing Operations from
+    1997 to 1999; Senior Director, Manufacturing Engineering,
+    Singapore Operations from 1995 to 1997; and Senior Manager,
+    Design Engineering, Twin Cities Division from 1992 to 1995.
+    
+
+
+
+
+
+    Jaroslaw S. Glembocki
+    Senior Vice President, Recording Heads and Media Operations
+    age 51
+
+
+
+ 
+
+
+    Mr. Glembocki has been Senior Vice
+    President, Recording Heads and Media Operations since 2000.
+    Prior to that he was Senior Vice President/General Manager,
+    Recording Media Group, from 1997 to 2000; and Vice President,
+    Engineering and CTO Media from 1996 to 1997.
+    
+
+
+
+
+
+    W. David Mosley
+    Senior Vice President, Global Disc Storage Operations
+    age 41
+
+
+
+ 
+
+
+    Mr. Mosley has been Senior Vice
+    President, Global Disc Storage Operations since 2007.  Prior to
+    that, he was Vice President, Research and Development,
+    Engineering from 2002 to 2007; Senior Director, Research and
+    Development, Engineering from 2000 to 2002; Director, Research
+    and Development, Engineering from 1998 to 2000; and Manager,
+    Operations and Manufacturing from 1996 to 1998.
+    
+
+
+
+
+
+    Patrick J. O’Malley
+    Senior Vice President, Finance, Principal Accounting Officer and
+    Treasurer
+    age 45
+
+
+
+ 
+
+
+    Mr. O’Malley has been Senior
+    Vice President, Finance since October 2005, and assumed the
+    additional roles of Principal Accounting Officer and Treasurer
+    in 2006.  Prior to that, he was Senior Vice President, Consumer
+    Electronics from 2004 to 2005; Senior Vice President, Finance,
+    Manufacturing from 1999 to 2004; Vice President,
+    Finance-Recording Media from 1997 to 1999; Senior Director
+    Finance, Desktop Design, from 1996 to 1997; Senior Director,
+    Finance, Oklahoma City Operations from 1994 to 1996; Director of
+    Finance/ Manager, Corporate Financial Planning & Analysis
+    from 1991 to 1994; Manager, Consolidations & Cost
+    Accounting from 1990 to 1991; Manager, Consolidations from 1988
+    to 1990; and Senior Financial Analyst in 1988.
+    
+
+
+
+
+
+    Glen A. Peterson
+    Senior Vice President, Worldwide Finance age 45
+
+
+
+ 
+
+
+    Mr. Peterson has been Senior Vice
+    President, Worldwide Finance since January 2004.  Prior to that,
+    he was Vice President, Finance and Treasurer from 1998 to 2004;
+    and Director, Strategic Planning from 1995 to 1998.
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+    Financial
+    Information
+
+
+ 
+
+
+    Financial information for the Company’s reportable business
+    segments and about geographic areas is set forth in
+    “Item 8. Financial Statements and Supplementary
+    Data — Note 6, Business Segment and
+    Geographic Information.”
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    Availability of Reports.  We are a reporting
+    company under the Securities Exchange Act of 1934, as amended,
+    and we file reports, proxy statements and other information with
+    the Securities and Exchange Commission (the “SEC”).
+    The public may read and copy any of our filings at the
+    SEC’s Public Reference Room at 450 Fifth Street N.W.,
+    Washington, D.C. 20549. You may obtain information on the
+    operation of the Public Reference Room by calling the SEC at
+    1-800-SEC-0330.
+    Because the Company makes filings to the SEC electronically, you
+    may access this information at the SEC’s Internet site:
+    www.sec.gov. This site contains reports, proxies and
+    information statements and other information regarding issuers
+    that file electronically with the SEC.
+
+
+ 
+
+
+    Web Site Access.  Our Internet web site address
+    is www.seagate.com. We make available, free of charge at the
+    “Investor Relations” portion of this web site, annual
+    reports on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    and amendments to those reports filed or furnished pursuant to
+    Section 13(a) or 15(d) of the 1934 Act as soon as
+    reasonably practicable after we electronically file such
+    material with, or furnish it to, the SEC. Reports of beneficial
+    ownership filed pursuant to Section 16(a) of the
+    1934 Act are also available on our web site. Information
+    in, or that can be accessed through, our web site is not part of
+    this annual report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Corporate
+    Information
+
+
+ 
+
+
+    We were formed in 2000 as an exempted company incorporated with
+    limited liability under the laws of the Cayman Islands.
+
+
+
+    16
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1A.  
+
+    
+    RISK
+    FACTORS
+
+
+
+
+
+ 
+
+
+
+    Risks
+    Related to Our Business
+
+
+ 
+
+
+
+    Competition —
+    Our industry is highly competitive and our products have
+    experienced and will continue to experience significant price
+    erosion and market share variability.
+
+
+ 
+
+
+    Even during periods when demand is stable, the disc drive
+    industry is intensely competitive and vendors typically
+    experience substantial price erosion over the life of a product.
+    Our competitors have historically offered existing products at
+    lower prices as part of a strategy to gain or retain market
+    share and customers, and we expect these practices to continue.
+    We will need to continually reduce our prices to retain our
+    market share, which could adversely affect our results of
+    operations.
+
+
+ 
+
+
+    We believe this basic industry condition of continuing price
+    erosion and market share variability will continue, as our
+    competitors engage in aggressive pricing actions targeted to
+    encourage shifting of customer demand. As a result, the pricing
+    environment in 2007 continued to be very competitive, especially
+    in the March and June 2007 quarters in the mobile compute market
+    and the market for high capacity 3.5-inch ATA disc drives, and
+    we expect pricing to remain competitive for the remainder of
+    fiscal year 2008 as our competitors continue these efforts.
+
+
+ 
+
+
+    To the extent that historical price erosion patterns continue,
+    product life cycles may lengthen, our competitors may have more
+    time to enter the market for a particular product and we may be
+    unable to offset these factors with new product introductions at
+    higher average prices. A second general industry trend that may
+    contribute to increased average price erosion is the growth of
+    sales to distributors that serve producers of non-branded
+    products in the personal storage sector. These customers
+    generally have limited product qualification programs, which
+    increases the number of competing products available to satisfy
+    their demand. As a result, purchasing decisions for these
+    customers are based largely on price and terms. Any increase in
+    our average price erosion would have an adverse effect on our
+    result of operations.
+
+
+ 
+
+
+    Additionally, a significant portion of our success in the past
+    has been a result of increasing our market share at the expense
+    of our competitors, particularly in the notebook and small form
+    factor enterprise markets. Our market share for our products can
+    be negatively affected by our customers’ diversifying their
+    sources of supply as our competitors enter the market for
+    particular products. When our competitors successfully introduce
+    product offerings, which are competitive with our recently
+    introduced new products, our customers may quickly diversify
+    their sources of supply. Any significant decline in our market
+    share would adversely affect our results of operations.
+
+
+ 
+
+
+
+    Principal
+    Competitors — We compete with both independent
+    manufacturers, whose primary focus is producing technologically
+    advanced disc drives, and captive manufacturers, who do not
+    depend solely on sales of disc drives to maintain their
+    profitability.
+
+
+ 
+
+
+    We have experienced and expect to continue to experience intense
+    competition from a number of domestic and foreign companies,
+    including other independent disc drive manufacturers and large
+    captive manufacturers such as:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+
+
+
+
+    Independent
+
+
+
+ 
+
+
+
+    Captive
+
+
+
+
+ 
+
+
+
+
+
+    Western Digital Corporation
+    
+
+
+
+ 
+
+
+    Fujitsu Limited
+    
+
+
+
+
+
+    GS Magicstor Inc. 
+    
+
+
+
+ 
+
+
+    Hitachi Global Storage
+    Technologies
+    Samsung Electronics Incorporated
+    Toshiba Corporation
+    
+
+
+
+
+
+
+
+
+ 
+
+
+    The term “independent” in this context refers to
+    manufacturers that primarily produce disc drives as a
+    stand-alone product, and the term “captive” refers to
+    disc drive manufacturers who themselves or through affiliated
+    entities produce complete computer or other systems that contain
+    disc drives or other information storage products. Captive
+    manufacturers are formidable competitors because they have the
+    ability to determine pricing for complete systems without regard
+    to the margins on individual components. Because components
+    other than disc drives generally contribute a greater portion of
+    the operating margin on a complete computer system than do disc
+    drives, captive manufacturers do not necessarily need to realize
+    a profit on the disc drives included in a computer system and,
+    as a result, may be willing to sell disc drives to third parties
+    at very low margins. Many captive manufacturers are also
+    formidable competitors because they have more substantial
+    resources than we do. In addition, Samsung and
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+    Hitachi (together with affiliated entities) also sell other
+    products to our customers, including critical components like
+    flash memory, ASICs and flat panel displays, and may be willing
+    to sell their disc drives at a lower margin to advance their
+    overall business strategy. This may improve their ability to
+    compete with us. To the extent we are not successful competing
+    with captive or independent disc drive manufacturers, our
+    results of operations will be adversely affected.
+
+
+ 
+
+
+    In addition, in response to customer demand for high-quality,
+    high-volume and low-cost disc drives, manufacturers of disc
+    drives have had to develop large, in some cases global,
+    production facilities with highly developed technological
+    capabilities and internal controls. The development of large
+    production facilities and industry consolidation can contribute
+    to the intensification of competition. We also face indirect
+    competition from present and potential customers who evaluate
+    from time to time whether to manufacture their own disc drives
+    or other information storage products.
+
+
+ 
+
+
+    We have also experienced competition from other companies that
+    produce alternative storage technologies like flash memory,
+    where increased capacity, improving cost, lower power
+    consumption and performance ruggedness have resulted in
+    competition with our lower capacity, smaller form factor disc
+    drives in handheld applications. While this competition has
+    traditionally been in the markets for handheld consumer
+    electronics applications like personal media players, these
+    competitors have recently announced SSD products for notebook
+    and enterprise compute applications. Some of these companies,
+    like Samsung, also sell disc drives.
+
+
+ 
+
+
+
+    Volatility
+    of Quarterly Results — Our quarterly operating results
+    fluctuate significantly from period to period, and this may
+    cause our shares prices to decline.
+
+
+ 
+
+
+    In the past, our quarterly revenue and operating results have
+    fluctuated significantly from period to period. We expect this
+    fluctuation to continue for a variety of reasons, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    competitive pressures resulting in lower selling prices by our
+    competitors targeted to encourage shifting of customer demand;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    delays or problems in the introduction of our new products,
+    particularly new disc drives with lower cost structures due to
+    inability to achieve high production yields, delays in customer
+    qualification or initial product quality issues;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    changes in purchasing patterns by our distributor customers;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    increased costs or adverse changes in availability of supplies
+    of raw materials or components;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the impact of corporate restructuring activities that we may
+    engage in;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    changes in the demand for the computer systems, storage
+    subsystems and consumer electronics that contain our disc
+    drives, due to seasonality and other factors;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    changes in purchases from period to period by our primary
+    customers, particularly, as our competitors are able to
+    introduce and produce in volume competing disc drive solutions
+    or alternative storage technology solutions, such as flash
+    memory or SSDs;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    shifting trends in customer demand which, when combined with
+    overproduction of particular products, particularly at times
+    such as the present time when the industry is served by multiple
+    suppliers, results in supply/demand imbalances;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    adverse changes in the level of economic activity in the United
+    States and other major regions in which we do business;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our high proportion of fixed costs, including research and
+    development expenses; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    announcements of new products, services or technological
+    innovations by us or our competitors.
+
+
+
+
+
+ 
+
+
+    As a result, we believe that quarter-to-quarter comparisons of
+    our revenue and operating results may not be meaningful, and
+    that these comparisons may not be an accurate indicator of our
+    future performance. Our operating
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+    results in one or more future quarters may fail to meet the
+    expectations of investment research analysts or investors, which
+    could cause an immediate and significant decline in the trading
+    price of our common shares.
+
+
+ 
+
+
+
+    New
+    Product Offerings — Market acceptance of new product
+    introductions cannot be accurately predicted, and our results of
+    operations will suffer if there is less demand for our new
+    products than is anticipated.
+
+
+ 
+
+
+    We are continually developing new products with the goal that we
+    will be able to introduce technologically advanced and lower
+    cost disc drives into the marketplace ahead of our competitors.
+    We are particularly depending on the successful introduction,
+    qualification and volume sales of new lower cost products for
+    our results in the next few quarters.
+
+
+ 
+
+
+    The success of our new product introductions is dependent on a
+    number of factors, including market acceptance, our ability to
+    manage the risks associated with product transitions, the
+    effective management of inventory levels in line with
+    anticipated product demand, and the risk that our new products
+    will have quality problems or other defects in the early stages
+    of introduction that were not anticipated in the design of those
+    products. Accordingly, we cannot accurately determine the
+    ultimate effect that our new products will have on our results
+    of operations.
+
+
+ 
+
+
+    In addition, the success of our new product introductions is
+    dependent upon our ability to qualify as a primary source of
+    supply with our OEM customers. In order for our products to be
+    considered by our customers for qualification, we must be among
+    the leaders in time-to-market with those new products. Once a
+    product is accepted for qualification testing, any failure or
+    delay in the qualification process or a requirement that we
+    requalify can result in our losing sales to that customer until
+    new products are introduced. The limited number of high-volume
+    OEMs magnifies the effect of missing a product qualification
+    opportunity. These risks are further magnified because we expect
+    competitive pressures to result in declining sales and declining
+    gross margins on our current generation products. We cannot
+    assure you that we will be among the leaders in time-to-market
+    with new products or that we will be able to successfully
+    qualify new products with our customers in the future.
+
+
+ 
+
+
+
+    Smaller
+    Form Factor Disc Drives — If we do not continue
+    to successfully market smaller form factor disc drives, our
+    business may suffer.
+
+
+ 
+
+
+    The disc drive industry is experiencing significant increases in
+    sales of smaller form factor disc drives for an expanding number
+    of applications, in particular notebook computers and consumer
+    electronics devices, but also including personal computers and
+    enterprise storage applications. Much of our recent revenue
+    growth is derived from the sale of drives for small form factor
+    drives for notebook and enterprise applications.
+
+
+ 
+
+
+    We have experienced competition from other companies that
+    produce alternative storage technologies like flash memory,
+    where increased capacity, improving cost, lower power
+    consumption and performance ruggedness have resulted in
+    competition with our lower capacity, smaller form factor disc
+    drives in handheld applications. This competition has largely
+    replaced disc drive products smaller than 1.8-inch with flash
+    memory. However, we believe that disc drives continue to be well
+    suited in applications requiring capacities of 20 gigabytes or
+    more and that the demand for additional storage to store, hold
+    or back up related media content from such handheld devices
+    using flash memory, continues to grow. While this competition
+    has traditionally been in the markets for handheld consumer
+    electronics applications like digital music players and personal
+    media players, these competitors are also attempting to
+    introduce SSD products for notebook and enterprise compute
+    applications.
+
+
+ 
+
+
+    If we do not suitably adapt our product offerings to
+    successfully introduce additional smaller form factor disc
+    drives or alternative storage products based on flash storage
+    technology, or if flash competitors are successful in achieving
+    customer acceptance of SSD products for notebook and enterprise
+    compute applications, customers may decrease the amounts of our
+    products that they purchase which would adversely affect our
+    results of operations.
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+
+    Perpendicular
+    Recording Technology — If products based on this
+    technology suffer unanticipated or atypical reliability or
+    operability problems, our operating results will be adversely
+    impacted. In addition, products based on perpendicular
+    technology require increased quantities of precious metals and
+    scarce alloys like platinum and ruthenium which increases risk
+    of higher costs and production delays that could adversely
+    impact our operating results.
+
+
+ 
+
+
+    In fiscal year 2007, we converted more than half of our products
+    to products using perpendicular technology and we expect that by
+    the end of fiscal year 2008 that all of our products will be
+    based on perpendicular technology. Perpendicular recording
+    technology poses various technological challenges including a
+    complex integration of the recording head, the disc, recording
+    channel and drive firmware as a system.
+
+
+ 
+
+
+    If these perpendicular technology based products suffer
+    unanticipated or atypical failures that were not anticipated in
+    the design of those products, our service and warranty costs may
+    materially increase which would adversely impact our operating
+    results.
+
+
+ 
+
+
+    Perpendicular recording technology also requires recording media
+    with more layers and the use of more precious metals and scarce
+    alloys like platinum and ruthenium to create such layers. These
+    precious metals and scarce alloys have recently become
+    increasingly expensive and at times difficult to acquire. As our
+    product offerings shift increasingly to perpendicular
+    technology, we will be exposed to increased risks that higher
+    costs or reduced availability of these precious metals and
+    scarce alloys could adversely impact our operating results.
+
+
+ 
+
+
+
+    Seasonality —
+    Because we experience seasonality in the sales of our products,
+    our results of operations will generally be adversely impacted
+    during our fourth fiscal quarter.
+
+
+ 
+
+
+    Because sales of computer systems, storage subsystems and
+    consumer electronics tend to be seasonal, we expect to continue
+    to experience seasonality in our business as we respond to
+    variations in our customers’ demand for disc drives. In
+    particular, we anticipate that sales of our products will
+    continue to be lower during our fourth fiscal quarter than the
+    rest of the year. In the desktop computer, notebook computer and
+    consumer electronics sectors of our business, this seasonality
+    is partially attributable to our customers’ increased sales
+    of personal computers and consumer electronics during the winter
+    holiday season. In the enterprise sector of our business, our
+    sales are seasonal because of the capital budgeting and
+    purchasing cycles of our end users. Because our working capital
+    needs peak during periods in which we are increasing production
+    in anticipation of orders that have not yet been received, our
+    operating results will fluctuate seasonally even if the
+    forecasted demand for our products proves accurate.
+
+
+ 
+
+
+    Furthermore, it is difficult for us to evaluate the degree to
+    which this seasonality may affect our business in future periods
+    because of the rate and unpredictability of product transitions
+    and new product introductions, particularly in the consumer
+    electronics market.
+
+
+ 
+
+
+
+    Difficulty
+    in Predicting Quarterly Demand — If we fail to predict
+    demand accurately for our products in any quarter, we may not be
+    able to recapture the cost of our investments.
+
+
+ 
+
+
+    The disc drive industry operates on quarterly purchasing cycles,
+    with much of the order flow in any given quarter coming at the
+    end of that quarter. Our manufacturing process requires us to
+    make significant product-specific investments in inventory in
+    each quarter for that quarter’s production. Because we
+    typically receive the bulk of our orders late in a quarter after
+    we have made our investments, there is a risk that our orders
+    will not be sufficient to allow us to recapture the costs of our
+    investment before the products resulting from that investment
+    have become obsolete. We cannot assure you that we will be able
+    to accurately predict demand in the future.
+
+
+ 
+
+
+    Other factors that may negatively impact our ability to
+    recapture the cost of investments in any given quarter include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the impact of variable demand and the aggressive pricing
+    environment for disc drives;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the impact of competitive product announcements and possible
+    excess industry supply both with respect to particular disc
+    drive products (particularly now that there are no material
+    limitations on disc drive
+
+
+
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    
+
+    
+    component supply for our competitors), and with respect to
+    competing alternative storage technology solutions such as SSDs
+    in notebook and enterprise applications;
+
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    our inability to reduce our fixed costs to match sales in any
+    quarter because of our vertical manufacturing strategy, which
+    means that we make more capital investments than we would if we
+    were not vertically integrated;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    dependence on our ability to successfully qualify, manufacture
+    and sell in increasing volumes on a cost-effective basis and
+    with acceptable quality its disc drive products, particularly
+    the new disc drive products with lower cost structures;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    uncertainty in the amount of purchases from our distributor
+    customers who from time to time constitute a large portion of
+    our total sales;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our product mix and the related margins of the various products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    accelerated reduction in the price of our disc drives due to
+    technological advances
+    and/or an
+    oversupply of disc drives in the market, a condition that is
+    exacerbated when the industry is served by multiple suppliers
+    and shifting trends in demand which can create supply demand
+    imbalances;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    manufacturing delays or interruptions, particularly at our major
+    manufacturing facilities in China, Malaysia, Singapore and
+    Thailand;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    variations in the cost of components for our products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    limited access to components that we obtain from a single or a
+    limited number of suppliers;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the impact of changes in foreign currency exchange rates on the
+    cost of producing our products and the effective price of our
+    products to foreign consumers; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    operational issues arising out of the increasingly automated
+    nature of our manufacturing processes.
+
+
+
+
+
+ 
+
+
+
+    Dependence
+    on Sales of Disc Drives in Consumer Electronics
+    Applications — Our sales of disc drives for consumer
+    electronics applications which have contributed significant
+    revenues to our results, can experience significant volatility
+    due to seasonal and other factors which could materially
+    adversely impact our future results of operations.
+
+
+ 
+
+
+    Our sales of disc drives for consumer electronics applications
+    have contributed significant revenues to our results for the
+    past several years. The growth rate in consumer electronics
+    products has recently begun to moderate and show more seasonal
+    demand variability. The demand for consumer electronics products
+    can be even more volatile and unpredictable than the demand for
+    compute products. In some cases, our products manufactured for
+    consumer electronics applications are uniquely configured for a
+    single customer’s applications, which creates a risk of
+    exposure if the anticipated volumes are not realized. This
+    potential for unpredictable volatility is increased by the
+    possibility of competing alternative storage technologies like
+    flash memory, meeting the customers’ cost and capacity
+    metrics, resulting in a rapid shift in demand from our products
+    and disc drive technology, generally, to alternative storage
+    technologies. Unpredictable fluctuations in demand for our
+    products or rapid shifts in demand from our products to
+    alternative storage technologies in new consumer electronics
+    applications could materially adversely impact our future
+    results of operations.
+
+
+ 
+
+
+
+    Dependence
+    on Supply of Components, Equipment, and Raw
+    Materials — If we experience shortages or delays in
+    the receipt of critical components, equipment or raw materials
+    necessary to manufacture our products, we may suffer lower
+    operating margins, production delays and other material adverse
+    effects.
+
+
+ 
+
+
+    The cost, quality and availability of components, certain
+    equipment and raw materials used to manufacture disc drives and
+    key components like recording media and heads are critical to
+    our success. The equipment we use to manufacture our products
+    and components is frequently custom made and comes from a few
+    suppliers and the lead times required to obtain manufacturing
+    equipment can be significant. Particularly important components
+    for disc drives include read/write heads, aluminum or glass
+    substrates for recording media, ASICs, spindle motors, printed
+    circuit boards and suspension assemblies. We rely on sole
+    suppliers or a limited number of suppliers for some of
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+    these components, including recording media and aluminum and
+    glass substrates that we do not manufacture, ASICs, spindle
+    motors, printed circuit boards and suspension assemblies.
+    Recently, substantially all of our purchases of recording media
+    and a significant portion of our aluminum substrates from
+    third-party suppliers have been sourced from Komag, which is in
+    the process of being acquired by Western Digital. There can be
+    no assurance that we will continue to be able to obtain
+    alternative supply following the purchase of Komag by Western
+    Digital.
+
+
+ 
+
+
+    In the past, we have experienced increased costs and production
+    delays when we were unable to obtain the necessary equipment or
+    sufficient quantities of some components
+    and/or have
+    been forced to pay higher prices or make volume purchase
+    commitments or advance deposits for some components, equipment
+    or raw materials, such as precious metals like platinum and
+    ruthenium, that were in short supply in the industry in general.
+
+
+ 
+
+
+    Historically, the technology sector specifically, and the
+    economy generally have experienced economic pressure, which has
+    resulted in consolidation among component manufacturers and may
+    result in some component manufacturers exiting the industry or
+    not making sufficient investments in research to develop new
+    components.
+
+
+ 
+
+
+    If there is a shortage of, or delay in supplying us with,
+    critical components, equipment or raw materials, then:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    it is likely that our suppliers would raise their prices and, if
+    we could not pass these price increases to our customers, our
+    operating margin would decline;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we might have to reengineer some products, which would likely
+    cause production and shipment delays, make the reengineered
+    products more costly and provide us with a lower rate of return
+    on these products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we would likely have to allocate the components we receive to
+    certain of our products and ship less of others, which could
+    reduce our revenues and could cause us to lose sales to
+    customers who could purchase more of their required products
+    from manufacturers that either did not experience these
+    shortages or delays or that made different allocations; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we might be late in shipping products, causing potential
+    customers to make purchases from our competitors, thus causing
+    our revenue and operating margin to decline.
+
+
+
+
+
+ 
+
+
+    We cannot assure you that we will be able to obtain critical
+    components in a timely and economic manner, or at all.
+
+
+ 
+
+
+
+    Importance
+    of Reducing Operating Costs — If we do not reduce our
+    operating expenses, we will not be able to compete effectively
+    in our industry.
+
+
+ 
+
+
+    Our strategy involves, to a substantial degree, increasing
+    revenue and product volume while at the same time reducing
+    operating expenses. In the past, these activities have included
+    closures and transfers of facilities, significant personnel
+    reductions and efforts to increase automation. Moreover, the
+    reduction of personnel and closure of facilities may adversely
+    affect our ability to manufacture our products in required
+    volumes to meet customer demand and may result in other
+    disruptions that affect our products and customer service. In
+    addition, the transfer of manufacturing capacity of a product to
+    a different facility frequently requires qualification of the
+    new facility by some of our OEM customers. We cannot assure you
+    that these activities and transfers will be implemented on a
+    cost-effective basis without delays or disruption in our
+    production and without adversely affecting our customer
+    relationships and results of operations.
+
+
+ 
+
+
+
+    Industry
+    Demand — Changes in demand for computer systems and
+    storage subsystems has caused and may cause in the future a
+    decline in demand for our products.
+
+
+ 
+
+
+    Our disc drives are components in computers, computer systems,
+    storage subsystems and consumer electronics devices. The demand
+    for these products has been volatile. In a weak economy,
+    consumer spending tends to decline and retail demand for
+    personal computers and consumer electronics devices tends to
+    decrease, as does enterprise demand for computer systems and
+    storage subsystems. Unexpected slowdowns in demand for computer
+    systems and storage subsystems generally cause sharp declines in
+    demand for disc drive products.
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+    Additional causes of declines in demand for our products in the
+    past have included announcements or introductions of major new
+    operating systems or semiconductor improvements or changes in
+    consumer preferences, such as the shift from desktop to notebook
+    computers. We believe these announcements and introductions have
+    from time to time caused consumers to defer their purchases and
+    made inventory obsolete. Whenever an oversupply of disc drives
+    causes participants in our industry to have higher than
+    anticipated inventory levels, we experience even more intense
+    price competition from other disc drive manufacturers than usual.
+
+
+ 
+
+
+
+    Dependence
+    on Distributors — We are dependent on sales to
+    distributors, which may increase price erosion and the
+    volatility of our sales.
+
+
+ 
+
+
+    A substantial portion of our sales has been to distributors of
+    desktop disc drive products. Product qualification programs in
+    this distribution channel are limited, which increases the
+    number of competing products that are available to satisfy
+    demand, particularly in times of lengthening product cycles. As
+    a result, purchasing decisions in this channel are based largely
+    on price, terms and product availability. Sales volumes through
+    this channel are also less predictable and subject to greater
+    volatility than sales to our OEM customers.
+
+
+ 
+
+
+    To the extent that distributors reduce their purchases of our
+    products or prices decline significantly in the distribution
+    channel, and to the extent that our distributor relationships
+    are terminated, our revenues and results of operations would be
+    adversely affected.
+
+
+ 
+
+
+
+    Importance
+    of Time-to-Market — Our operating results may depend
+    on our being among the first-to-market and achieving sufficient
+    production volume with our new products.
+
+
+ 
+
+
+    To achieve consistent success with our OEM customers, it is
+    important that we be an early provider of new types of disc
+    drives featuring leading, high-quality technology and lower per
+    gigabyte storage cost. Historically, our operating results have
+    substantially depended upon our ability to be among the
+    first-to-market with new product offerings. Our market share and
+    operating results in the future may be adversely affected if we
+    fail to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    consistently maintain our time-to-market performance with our
+    new products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    produce these products in sufficient volume;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    qualify these products with key customers on a timely basis by
+    meeting our customers’ performance and quality
+    specifications; or
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    achieve acceptable manufacturing yields, quality and costs with
+    these products.
+
+
+
+
+
+ 
+
+
+    If delivery of our products is delayed, our OEM customers may
+    use our competitors’ products to meet their production
+    requirements. If the delay of our products causes delivery of
+    those OEMs’ computer systems into which our products are
+    integrated to be delayed, consumers and businesses may purchase
+    comparable products from the OEMs’ competitors.
+
+
+ 
+
+
+    Moreover, we face the related risk that consumers and businesses
+    may wait to make their purchases if they want to buy a new
+    product that has been shipped or announced but not yet released.
+    If this were to occur, we may be unable to sell our existing
+    inventory of products that may have become less efficient and
+    cost effective compared to new products. As a result, even if we
+    are among the first-to-market with a given product, subsequent
+    introductions or announcements by our competitors of new
+    products could cause us to lose revenue and not achieve a
+    positive return on our investment in existing products and
+    inventory.
+
+
+ 
+
+
+
+    Accounting
+    Charges and Pre-Acquisition Contingencies not Previously
+    Identified Related to Acquisition of Maxtor — We
+    expect the acquisition of Maxtor with Seagate will continue to
+    result in additional accounting charges, that may continue to
+    have an adverse effect on our fiscal year 2008 operating
+    results.
+
+
+ 
+
+
+    We expect that, as a result of the acquisition of Maxtor, our
+    fiscal year 2008 results of operations will continue to be
+    adversely affected by non-cash accounting charges, the most
+    significant of which relates to the amortization of acquired
+    intangible assets. In addition, pre-acquisition contingencies
+    not previously identified will adversely affect our results of
+    operations.
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+
+    Dependence
+    on Key Customers — We may be adversely affected by the
+    loss of, or reduced, delayed or cancelled purchases by, one or
+    more of our larger customers.
+
+
+ 
+
+
+    Some of our key customers, including HP, Dell, Sony Corporation
+    (“Sony”), EMC and IBM, account for a large portion of
+    our disc drive revenue. Our recent acquisition of Maxtor may
+    increase our business with certain of our larger customers. We
+    have longstanding relationships with many of our customers,
+    however, if any of our key customers were to significantly
+    reduce their purchases from us, our results of operations would
+    be adversely affected. While sales to major customers may vary
+    from period to period, a major customer that permanently
+    discontinues or significantly reduces its relationship with us
+    could be difficult to replace. In line with industry practice,
+    new customers usually require that we pass a lengthy and
+    rigorous qualification process at the customer’s cost.
+    Accordingly, it may be difficult or costly for us to attract new
+    major customers. Additionally, mergers, acquisitions,
+    consolidations or other significant transactions involving our
+    customers generally entail risks to our business. If a
+    significant transaction involving any of our key customers
+    results in the loss of or reduction in purchases by these key
+    customers, it could have a materially adverse effect on our
+    business, results of operations, financial condition and
+    prospects.
+
+
+ 
+
+
+
+    Impact
+    of Technological Change — Increases in the areal
+    density of disc drives may outpace customers’ demand for
+    storage capacity.
+
+
+ 
+
+
+    The rate of increase in areal density, or storage capacity per
+    square inch on a disc, may be greater than the increase in our
+    customers’ demand for aggregate storage capacity,
+    particularly in certain market applications like commercial
+    desktop compute. As a result, our customers’ storage
+    capacity needs may be satisfied with lower priced, low capacity
+    disc drives. These factors could decrease our sales, especially
+    when combined with continued price erosion, which could
+    adversely affect our results of operations.
+
+
+ 
+
+
+
+    Changes
+    in Information Storage Products — Future changes in
+    the nature of information storage products may reduce demand for
+    traditional disc drive products.
+
+
+ 
+
+
+    We expect that in the future, new personal computing devices and
+    products will be developed, some of which, such as Internet
+    appliances, may not contain a disc drive. While we are investing
+    development resources in designing disc drives for new
+    applications, it is too early to assess the impact of these new
+    applications on future demand for disc drive products. Products
+    using alternative technologies, such as flash memory, optical
+    storage and other storage technologies could become a
+    significant source of competition to particular applications of
+    our products, which could adversely affect our results of
+    operations.
+
+
+ 
+
+
+
+    New
+    Product Development and Technological Change — If we
+    do not develop products in time to keep pace with technological
+    changes, our operating results will be adversely
+    affected.
+
+
+ 
+
+
+    Our customers have demanded new generations of disc drive
+    products as advances in computer hardware and software have
+    created the need for improved storage products, with features
+    such as increased storage capacity, improved performance and
+    reliability and lower cost. We, and our competitors, have
+    developed improved products, and we will need to continue to do
+    so in the future. For the fiscal years 2007, 2006 and 2005, we
+    had product development expenses of $904 million,
+    $805 million and $645 million, respectively. We cannot
+    assure you that we will be able to successfully complete the
+    design or introduction of new products in a timely manner, that
+    we will be able to manufacture new products in sufficient
+    volumes with acceptable manufacturing yields, that we will be
+    able to successfully market these new products or that these
+    products will perform to specifications on a long-term basis. In
+    addition, the impact of slowing areal density growth may
+    adversely impact our ability to be successful.
+
+
+ 
+
+
+    When we develop new products with higher capacity and more
+    advanced technology, our operating results may decline because
+    the increased difficulty and complexity associated with
+    producing these products increases the likelihood of
+    reliability, quality or operability problems. If our products
+    suffer increases in failures, are of low quality or are not
+    reliable, customers may reduce their purchases of our products
+    and our manufacturing rework and scrap costs and service and
+    warranty costs may increase. In addition, a decline in the
+    reliability of our products may make us less competitive as
+    compared with other disc drive manufacturers.
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+
+    Risks
+    Associated with Future Acquisitions — We may not be
+    able to identify suitable strategic alliance, acquisition or
+    investment opportunities, or successfully acquire and integrate
+    companies that provide complementary products or
+    technologies.
+
+
+ 
+
+
+    Our growth strategy may involve pursuing strategic alliances
+    with, and making acquisitions of or investments in, other
+    companies that are complementary to our business. There is
+    substantial competition for attractive strategic alliance,
+    acquisition and investment candidates. We may not be able to
+    identify suitable acquisition, investment or strategic
+    partnership candidates. Even if we were able to identify them,
+    we cannot assure you that we will be able to partner with,
+    acquire or invest in suitable candidates, or integrate acquired
+    technologies or operations successfully into our existing
+    technologies and operations. Our ability to finance potential
+    acquisitions will be limited by our high degree of leverage, the
+    covenants contained in the indentures that govern our
+    outstanding indebtedness, the credit agreement that governs our
+    senior secured credit facilities and any agreements governing
+    any other debt we may incur.
+
+
+ 
+
+
+    If we are successful in acquiring other companies, these
+    acquisitions may have an adverse effect on our operating
+    results, particularly while the operations of the acquired
+    business are being integrated. It is also likely that
+    integration of acquired companies would lead to the loss of key
+    employees from those companies or the loss of customers of those
+    companies. In addition, the integration of any acquired
+    companies would require substantial attention from our senior
+    management, which may limit the amount of time available to be
+    devoted to our day-to-day operations or to the execution of our
+    strategy. Growth by acquisition involves an even higher degree
+    of risk to the extent we combine new product offerings and enter
+    new markets in which we have limited experience, and no
+    assurance can be given that acquisitions of entities with new or
+    alternative business models, such as our recent acquisition of
+    EVault, will be successfully integrated or achieve their stated
+    objectives. Furthermore, the expansion of our business involves
+    the risk that we might not manage our growth effectively, that
+    we would incur additional debt to finance these acquisitions or
+    investments and that we would incur substantial charges relating
+    to the write-off of in-process research and development, similar
+    to that which we incurred in connection with several of our
+    prior acquisitions. Each of these items could have a material
+    adverse effect on our financial position and results of
+    operations.
+
+
+ 
+
+
+    In addition, we could issue additional common shares in
+    connection with future acquisitions. For example, in May 2006,
+    we issued approximately 97 million of our common shares in
+    connection with our acquisition of Maxtor Corporation. Issuing
+    shares in connection with acquisitions would have the effect of
+    diluting your ownership percentage of the common shares and
+    could cause the price of our common shares to decline.
+
+
+ 
+
+
+
+    Risk
+    of Intellectual Property Litigation — Our products may
+    infringe the intellectual property rights of others, which may
+    cause us to incur unexpected costs or prevent us from selling
+    our products.
+
+
+ 
+
+
+    We cannot be certain that our products do not and will not
+    infringe issued patents or other intellectual property rights of
+    others. Historically, patent applications in the United States
+    and some foreign countries have not been publicly disclosed
+    until the patent is issued, and we may not be aware of currently
+    filed patent applications that relate to our products or
+    technology. If patents are later issued on these applications,
+    we may be liable for infringement. We may be subject to legal
+    proceedings and claims, including claims of alleged infringement
+    of the patents, trademarks and other intellectual property
+    rights of third parties by us, or our licensees in connection
+    with their use of our products.
+
+
+ 
+
+
+
+    We are
+    currently subject to lawsuits involving intellectual property
+    claims brought by Convolve, Inc. and the Massachusetts Institute
+    of Technology in the United States, Shao Tong in Nanjing, China
+    and Siemens AG and StorMedia Texas LLC in the United States
+    which could cause us to incur significant additional costs or
+    prevent us from selling our products; which could adversely
+    effect our results of operations and financial
+    condition.
+
+
+ 
+
+
+    Intellectual property litigation is expensive and
+    time-consuming, regardless of the merits of any claim, and could
+    divert our management’s attention from operating our
+    business. In addition, intellectual property lawsuits are
+    subject to inherent uncertainties due to the complexity of the
+    technical issues involved, and we cannot assure you that we will
+    be successful in defending ourselves against intellectual
+    property claims. Moreover, patent litigation
+
+
+
+    
+    25
+
+
+
+Table of Contents
+
+
+
+
+    has increased due to the current uncertainty of the law and the
+    increasing competition and overlap of product functionality in
+    the field. If we were to discover that our products infringe the
+    intellectual property rights of others, we would need to obtain
+    licenses from these parties or substantially reengineer our
+    products in order to avoid infringement. We might not be able to
+    obtain the necessary licenses on acceptable terms, or at all, or
+    be able to reengineer our products successfully. Moreover, if we
+    are sued for patent infringement and lose the suit, we could be
+    required to pay substantial damages
+    and/or be
+    enjoined from using or selling the infringing products or
+    technology. Any of the foregoing could cause us to incur
+    significant costs and prevent us from selling our products which
+    could adversely affect our results of operations and financial
+    condition.
+
+
+ 
+
+
+
+    Dependence
+    on Key Personnel — The loss of some key executive
+    officers and employees could negatively impact our business
+    prospects.
+
+
+ 
+
+
+    Our future performance depends to a significant degree upon the
+    continued service of key members of management as well as
+    marketing, sales and product development personnel. The loss of
+    one or more of our key personnel would have a material adverse
+    effect on our business, operating results and financial
+    condition. We believe our future success will also depend in
+    large part upon our ability to attract, retain and further
+    motivate highly skilled management, marketing, sales and product
+    development personnel. We have experienced intense competition
+    for personnel, and we cannot assure you that we will be able to
+    retain our key employees or that we will be successful in
+    attracting, assimilating and retaining personnel in the future.
+
+
+ 
+
+
+
+    Substantial
+    Leverage — Our substantial leverage may place us at a
+    competitive disadvantage in our industry.
+
+
+ 
+
+
+    We are leveraged and have significant debt service obligations.
+    Our significant debt and debt service requirements could
+    adversely affect our ability to operate our business and may
+    limit our ability to take advantage of potential business
+    opportunities. For example, our high level of debt presents the
+    following risks:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    we are required to use a substantial portion of our cash flow
+    from operations to pay principal and interest on our debt,
+    thereby reducing the availability of our cash flow to fund
+    working capital, capital expenditures, product development
+    efforts, strategic acquisitions, investments and alliances and
+    other general corporate requirements;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our interest expense could increase if prevailing interest rates
+    increase, because a substantial portion of our debt bears
+    interest at floating rates;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our substantial leverage increases our vulnerability to economic
+    downturns and adverse competitive and industry conditions and
+    could place us at a competitive disadvantage compared to those
+    of our competitors that are less leveraged;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our debt service obligations could limit our flexibility in
+    planning for, or reacting to, changes in our business and our
+    industry and could limit our ability to pursue other business
+    opportunities, borrow more money for operations or capital in
+    the future and implement our business strategies;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our level of debt may restrict us from raising additional
+    financing on satisfactory terms to fund working capital, capital
+    expenditures, product development efforts, strategic
+    acquisitions, investments and alliances, and other general
+    corporate requirements; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    covenants in our debt instruments limit our ability to pay
+    dividends or make other restricted payments and investments.
+
+
+
+
+
+ 
+
+
+
+    Significant
+    Debt Service Requirements — Servicing our debt
+    requires a significant amount of cash and our ability to
+    generate cash may be affected by factors beyond our
+    control.
+
+
+ 
+
+
+    Our business may not generate cash flow in an amount sufficient
+    to enable us to pay the principal of, or interest on, our
+    indebtedness or to fund our other liquidity needs, including
+    working capital, capital expenditures, product development
+    efforts, strategic acquisitions, investments and alliances, and
+    other general corporate requirements.
+
+
+
+    
+    26
+
+
+
+Table of Contents
+
+
+
+
+    Our ability to generate cash is subject to general economic,
+    financial, competitive, legislative, regulatory and other
+    factors that are beyond our control. We cannot assure you that:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    our business will generate sufficient cash flow from operations;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we will continue to realize the cost savings, revenue growth and
+    operating improvements that resulted from the execution of our
+    long-term strategic plan; or
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    future sources of funding will be available to us in amounts
+    sufficient to enable us to fund our liquidity needs.
+
+
+
+
+
+ 
+
+
+    If we cannot fund our liquidity needs, we will have to take
+    actions such as reducing or delaying capital expenditures,
+    product development efforts, strategic acquisitions, investments
+    and alliances, selling assets, restructuring or refinancing our
+    debt, or seeking additional equity capital. We cannot assure you
+    that any of these remedies could, if necessary, be affected on
+    commercially reasonable terms, or at all. In addition, our
+    existing debt instruments permit us to incur a significant
+    amount of additional debt. If we incur additional debt above the
+    levels now in effect, the risks associated with our substantial
+    leverage, including the risk that we will be unable to service
+    our debt or generate enough cash flow to fund our liquidity
+    needs, could intensify.
+
+
+ 
+
+
+
+    Restrictions
+    Imposed by Debt Covenants — Restrictions imposed by
+    our existing credit facility may limit our ability to finance
+    future operations or capital needs or engage in other business
+    activities that may be in our interest.
+
+
+ 
+
+
+    Our existing credit facility imposes, and the terms of any
+    future debt may impose, operating and other restrictions on us.
+    Our existing credit facility may also limit, among other things,
+    our ability to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    pay dividends or make distributions in respect of our shares;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    redeem or repurchase shares;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    make investments or other restricted payments;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    sell assets;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    issue or sell shares of restricted subsidiaries;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    enter into transactions with affiliates;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    create liens; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    effect a consolidation or merger.
+
+
+
+
+
+ 
+
+
+    These covenants are subject to a number of important
+    qualifications and exceptions, including exceptions that permit
+    us to make significant dividends.
+
+
+ 
+
+
+    Our credit facility also requires us to maintain compliance with
+    specified financial ratios. Our ability to comply with these
+    ratios may be affected by events beyond our control.
+
+
+ 
+
+
+    A breach of any of the covenants described above or our
+    inability to comply with the required financial ratios could
+    result in a default under our credit facility. If a default
+    occurs, the Administrative Agent of the credit facility may
+    elect to declare all of our outstanding obligations under the
+    credit facility, together with accrued interest and other fees,
+    to be immediately due and payable. If our outstanding
+    indebtedness were to be accelerated, we cannot assure you that
+    our assets would be sufficient to repay in full that debt and
+    any potential future indebtedness, which would cause the market
+    price of our common shares to decline significantly.
+
+
+ 
+
+
+
+    System
+    Failures — System failures caused by events beyond our
+    control could adversely affect computer equipment and electronic
+    data on which our operations depend.
+
+
+ 
+
+
+    Our operations are dependent upon our ability to protect our
+    computer equipment and the information stored in our databases
+    from damage by, among other things, earthquake, fire, natural
+    disaster, power loss, telecommunications failures, unauthorized
+    intrusion and other catastrophic events. As our operations
+    become more automated and increasingly interdependent, our
+    exposure to the risks posed by these types of events will
+    increase. We do not
+
+
+
+    
+    27
+
+
+
+Table of Contents
+
+
+
+
+    have a contingency plan for addressing the kinds of events
+    referred to in this paragraph that would be sufficient to
+    prevent system failures and other interruptions in our
+    operations that could have a material adverse effect on our
+    business, results of operations and financial condition.
+
+
+ 
+
+
+
+    Economic
+    Risks Associated with International Operations — Our
+    international operations subject us to risks related to currency
+    exchange fluctuations, longer payment cycles for sales in
+    foreign countries, seasonality and disruptions in foreign
+    markets, tariffs and duties, price controls, potential adverse
+    tax consequences, increased costs, our customers’ credit
+    and access to capital and health-related risks.
+
+
+ 
+
+
+    We have significant operations in foreign countries, including
+    manufacturing facilities, sales personnel and customer support
+    operations. We have manufacturing facilities in China, Malaysia,
+    Northern Ireland, Singapore and Thailand, in addition to those
+    in the United States. A substantial portion of our desktop disc
+    drive assembly occurs in our facility in China.
+
+
+ 
+
+
+    Our international operations are subject to economic risks
+    inherent in doing business in foreign countries, including the
+    following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Disruptions in Foreign Markets.  Disruptions in
+    financial markets and the deterioration of the underlying
+    economic conditions in the past in some countries, including
+    those in Asia, have had an impact on our sales to customers
+    located in, or whose end-user customers are located in, these
+    countries.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Fluctuations in Currency Exchange
+    Rates.  Prices for our products are denominated
+    predominately in U.S. dollars, even when sold to customers
+    that are located outside the United States. Currency instability
+    in Asia and other geographic markets may make our products more
+    expensive than products sold by other manufacturers that are
+    priced in the local currency. Moreover, many of the costs
+    associated with our operations located outside the United States
+    are denominated in local currencies. As a consequence, the
+    increased strength of local currencies against the
+    U.S. dollar in countries where we have foreign operations
+    would result in higher effective operating costs and,
+    potentially, reduced earnings. From time to time, fluctuations
+    in foreign exchange rates have negatively affected our
+    operations and profitability and there can be no assurance that
+    these fluctuations will not adversely affect our operations and
+    profitability in the future.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Longer Payment Cycles.  Our customers outside
+    of the United States are often allowed longer time periods for
+    payment than our U.S. customers. This increases the risk of
+    nonpayment due to the possibility that the financial condition
+    of particular customers may worsen during the course of the
+    payment period.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Seasonality.  Seasonal reductions in the
+    business activities of our customers during the summer months,
+    particularly in Europe, typically result in lower earnings
+    during those periods.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Tariffs, Duties, Limitations on Trade and Price
+    Controls.  Our international operations are
+    affected by limitations on imports, currency exchange control
+    regulations, transfer pricing regulations, price controls and
+    other restraints on trade. In addition, the governments of many
+    countries, including China, Malaysia, Singapore and Thailand, in
+    which we have significant operating assets, have exercised and
+    continue to exercise significant influence over many aspects of
+    their domestic economies and international trade.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Potential Adverse Tax Consequences.  Our
+    international operations create a risk of potential adverse tax
+    consequences, including imposition of withholding or other taxes
+    on payments by subsidiaries.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Increased Costs.  The shipping and
+    transportation costs associated with our international
+    operations are typically higher than those associated with our
+    U.S. operations, resulting in decreased operating margins
+    in some foreign countries.
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    Credit and Access to Capital Risks.  Our
+    international customers could have reduced access to working
+    capital due to higher interest rates, reduced bank lending
+    resulting from contractions in the money supply or the
+    deterioration in the customer’s or its bank’s
+    financial condition, or the inability to access other financing.
+
+
+
+
+
+
+    
+    28
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    Political
+    Risks Associated with International Operations — Our
+    international operations subject us to risks related to
+    political unrest and terrorism.
+
+
+ 
+
+
+    We have manufacturing facilities in parts of the world that
+    periodically experience political unrest. This could disrupt our
+    ability to manufacture important components as well as cause
+    interruptions
+    and/or
+    delays in our ability to ship components to other locations for
+    continued manufacture and assembly. Any such delays or
+    interruptions could result in delays in our ability to fill
+    orders and have an adverse effect on our results of operation
+    and financial condition. U.S. and international responses
+    to the ongoing hostilities in Afghanistan and Iraq and the risk
+    of terrorist attacks or hostilities elsewhere in the world could
+    exacerbate these risks.
+
+
+ 
+
+
+
+    Legal
+    and Operational Risks Associated with International
+    Operations — Our international operations subject us
+    to risks related to staffing and management, legal and
+    regulatory requirements and the protection of intellectual
+    property.
+
+
+ 
+
+
+    Operating outside of the United States creates difficulties
+    associated with staffing and managing our international
+    manufacturing facilities, complying with local legal and
+    regulatory requirements and protecting our intellectual
+    property. We cannot assure you that we will continue to be found
+    to be operating in compliance with applicable customs, currency
+    exchange control regulations, transfer pricing regulations or
+    any other laws or regulations to which we may be subject. We
+    also cannot assure you that these laws will not be modified.
+
+
+ 
+
+
+
+    SOX
+    404 Compliance — While we believe that we currently
+    have adequate internal control procedures in place, we are still
+    exposed to future risks of non-compliance and will continue to
+    incur costs associated with Section 404 of the
+    Sarbanes-Oxley Act of 2002.
+
+
+ 
+
+
+    We have completed the evaluation of our internal controls over
+    financial reporting as required by Section 404 of the
+    Sarbanes-Oxley Act of 2002. Although our assessment, testing,
+    and evaluation resulted in our conclusion that as of
+    June 29, 2007, our internal controls over financial
+    reporting were effective, we cannot predict the outcome of our
+    testing in future periods. If our internal controls are
+    ineffective in future periods, our financial results or the
+    market price of our shares could be adversely affected. We will
+    incur additional expenses and commitment of management’s
+    time in connection with further evaluations.
+
+
+ 
+
+
+
+    Volatile
+    Public Markets — The price of our common shares may be
+    volatile and could decline significantly.
+
+
+ 
+
+
+    The stock market in general, and the market for technology
+    stocks in particular, has recently experienced volatility that
+    has often been unrelated to the operating performance of
+    companies. If these market or industry-based fluctuations
+    continue, the trading price of our common shares could decline
+    significantly independent of our actual operating performance,
+    and you could lose all or a substantial part of your investment.
+    The market price of our common shares could fluctuate
+    significantly in response to several factors, including among
+    others:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    actual or anticipated variations in our results of operations;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    announcements of innovations, new products or significant price
+    reductions by us or our competitors, including those competitors
+    who offer alternative storage technology solutions;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our failure to meet the performance estimates of investment
+    research analysts;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the timing of announcements by us or our competitors of
+    significant contracts or acquisitions;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    general stock market conditions;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the occurrence of major catastrophic events;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    changes in financial estimates by investment research analysts;
+    and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the sale of our common shares held by certain equity investors
+    or members of management.
+
+
+
+
+
+
+    
+    29
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+    Failure
+    to Pay Quarterly Dividends — Our failure to pay
+    quarterly dividends to our common shareholders could cause the
+    market price of our common shares to decline
+    significantly.
+
+
+ 
+
+
+    We paid quarterly dividends aggregating $0.38 per share on
+    September 1, 2006, November 17, 2006,
+    February 16, 2007 and May 18, 2007 to our common
+    shareholders of record as of August 18, 2006,
+    November 3, 2006, February 2, 2007 and May 4,
+    2007, respectively. On July 19, 2007, we declared a
+    quarterly dividend of $0.10 per share that was paid by
+    August 17, 2007 to our common shareholders of record as of
+    August 3, 2007.
+
+
+ 
+
+
+    Our ability to pay quarterly dividends will be subject to, among
+    other things, general business conditions within the disc drive
+    industry, our financial results, the impact of paying dividends
+    on our credit ratings, and legal and contractual restrictions on
+    the payment of dividends by our subsidiaries to us or by us to
+    our common shareholders, including restrictions imposed by the
+    credit agreement governing our revolving credit facility. Any
+    reduction or discontinuation of quarterly dividends could cause
+    the market price of our common shares to decline significantly.
+    Our payment of dividends to holders of our common shares may in
+    certain future quarters result in upward adjustments to the
+    conversion rate of the 2.375% Convertible Senior Notes due
+    2012. Moreover, in the event our payment of quarterly dividends
+    is reduced or discontinued, our failure or inability to resume
+    paying dividends at historical levels could result in a
+    persistently low market valuation of our common shares.
+
+
+ 
+
+
+
+    Potential
+    Governmental Action — Governmental action against
+    companies located in offshore jurisdictions may lead to a
+    reduction in the demand for our common shares.
+
+
+ 
+
+
+    Recent federal and state legislation has been proposed, and
+    additional legislation may be proposed in the future which, if
+    enacted, could have an adverse tax impact on either Seagate or
+    its shareholders. For example, the eligibility for favorable tax
+    treatment of taxable distributions paid to
+    U.S. shareholders of Seagate as qualified dividends could
+    be eliminated.
+
+
+ 
+
+
+
+    Securities
+    Litigation — Significant fluctuations in the market
+    price of our common shares could result in securities class
+    action claims against us.
+
+
+ 
+
+
+    Significant price and value fluctuations have occurred with
+    respect to the publicly traded securities of disc drive
+    companies and technology companies generally. The price of our
+    common shares is likely to be volatile in the future. In the
+    past, following periods of decline in the market price of a
+    company’s securities, class action lawsuits have often been
+    pursued against that company. If similar litigation were pursued
+    against us, it could result in substantial costs and a diversion
+    of management’s attention and resources, which could
+    materially adversely affect our results of operations, financial
+    condition and liquidity.
+
+
+
+
+
+
+
+ 
+
+
+
+    ITEM 1B

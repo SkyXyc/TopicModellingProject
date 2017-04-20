@@ -1,0 +1,3553 @@
+Item 1A. - Risk Factors. These forward-looking statements speak only as of the
+date hereof. Except as required by law, we expressly disclaim any obligation or
+undertaking to release publicly any updates or revisions to any forward-looking
+statements contained herein to reflect any change in our expectations with
+regard thereto or any change in events, conditions or circumstances on which any
+such statement is based.    All
+references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA
+Corporation and its subsidiaries, except where it is made clear that the term
+means only the parent company.
+        
+    
+          NVIDIA,
+GeForce, SLI, Hybrid SLI, GoForce, NVIDIA Quadro, Quadro, NVIDIA Quadro Plex,
+NVIDIA nForce, PureVideo, CUDA, Tesla, NVIDIA APX, PhysX, Ageia, Mental Images,
+Mental Ray, and the NVIDIA logo are our trademarks and/or registered trademarks
+in the United States and other countries that are used in this document. We may
+also refer to trademarks of other corporations and organizations in this
+document.
+    
+     
+    Our Company
+     
+        NVIDIA Corporation is
+the worldwide leader in
+visual computing technologies and the inventor of the graphic processing unit,
+or the GPU. Our products
+are designed to generate
+realistic, interactive graphics on consumer and professional computing
+devices. We serve the
+entertainment and consumer market with our GeForce products, the professional
+design and visualization market with our Quadro products, and the
+high-performance computing market with our Tesla products. We have four major product-line
+operating segments: the GPU Business, the professional solutions
+business, or PSB, the media and communications
+processor, or MCP, business, and the consumer products
+business, or CPB. Our GPU business is comprised primarily of our
+GeForce products that support desktop and notebook personal computers, or
+PCs, plus memory products. Our PSB is comprised of our NVIDIA Quadro
+professional workstation products and other professional graphics products,
+including our NVIDIA Tesla high-performance computing products. Our MCP business
+is comprised of NVIDIA nForce core logic and motherboard GPU, or mGPU products.
+Our CPB is comprised of our GoForce and APX
+mobile brands and products that support handheld personal media players, or
+PMPs, personal digital assistants, or PDAs, cellular phones and other handheld
+devices. CPB also includes license, royalty, other revenue and associated costs
+related to video game consoles and other digital consumer electronics
+devices.  Original equipment manufacturers, or
+OEMs, original design manufacturers, or ODMs, add-in-card manufacturers, system
+builders and consumer electronics companies worldwide utilize NVIDIA processors
+as a core component of their entertainment, business and professional solutions. We were incorporated in California in April 1993 and reincorporated in
+Delaware in April 1998. Our headquarter
+facilities are in Santa
+Clara, California. Our Internet address is www.nvidia.com. The contents of our website are not a
+part of this Form 10-K.
+     
+    
+      
+        
+        
+      
+      
+        4
+        
+          
+        
+      
+      
+        
+        
+      
+       
+      Our
+Business
+    
+    
+      GPU Business
+    
+      Our GPU Business is
+comprised primarily of our GeForce products that support desktop and notebook
+PCs, plus memory products. Our GPU Business is focused on Microsoft Windows and
+Apple PC platforms.  GeForce GPUs power PCs made by or distributed by
+virtually every PC OEM worldwide in desktop PCs, notebook PCs, PCs loaded with
+Windows Media Center and media extenders such as the Apple
+TV.  GPUs enhance the user experience for playing video games, editing
+photos, viewing and editing videos and high-definition, or HD, movies. GPUs also
+enable the rich visual user interfaces of the Windows Vista and Apple OS X
+operating systems. The combination of the programmable Unified Shader GPU with
+Microsoft Corporation’s, or Microsoft’s, DirectX 10 high-level shading language
+is known as DirectX 10 GPUs. Combined with the ability to directly access the
+GPU via the new Windows Vista applications from Microsoft Office to Web 2.0,
+applications can now incorporate improved quality through 3D
+effects.
+    
+      We believe we are in an era
+where visual computing is becoming increasingly important to consumers and other
+end users of our products. Our strategy is to promote our GeForce brand as
+one of the most important processors through technology leadership, increasing
+programmability, and great content experience.  In fiscal year 2008,
+our strategy was to extend our architectural and technology advantage with our
+second-generation DirectX 10 GPUs, the GeForce 8-series GPUs. During fiscal year
+2008, we added the NVIDIA GeForce 8800 Ultra, GeForce 8800 GT, GeForce 8600,
+GeForce 8500, and GeForce 8300 to our GeForce 8-series of GPUs, which previously
+included the GeForce 8800 GTX and 8800 GTS products. Our standalone desktop GPU
+category share grew from 52% to 64% in fiscal year 2008, according to the
+Mercury Research 2006 and 2007 Fourth Quarter PC Graphics Reports,
+respectively.
+     
+       During fiscal year 2008, we
+launched a new family of GeForce 8M Series notebook GPUs.   The
+GeForceM and NVIDIA Quadro FX mobile families represent our notebook GPUs and
+include the GeForce 8M, GeForce 7 Go, and NVIDIA Quadro FX M GPUs. These GPUs
+are designed to deliver desktop graphics performance and features for multiple
+notebook configurations such as desktop replacement notebooks, multimedia
+notebooks, thin-and-light notebooks and notebook workstations. The GeForce M and
+GeForce Go products are designed to serve the needs of both enterprise and
+consumer users. The NVIDIA Quadro FX M products are designed to serve the needs
+of workstation professionals in the area of product design and digital content
+creation.  We experienced a high degree of design-win success for the
+Intel Santa Rosa platform cycle during fiscal year 2008, which helped our
+standalone notebook category share grow from 58% to 75%, according to the
+Mercury Research 2006 and 2007 Fourth Quarter PC Graphics Reports,
+respectively.
+    
+      Professional Solutions
+Business
+    
+      Our PSB is comprised of
+our NVIDIA Quadro professional workstation products and other professional
+graphics products, including our NVIDIA Tesla high-performance computing
+products. Our NVIDIA Quadro brand products are designed to deliver the highest
+possible level of performance and compatibility for the professional
+industry.  The NVIDIA Quadro family consists of the NVIDIA Quadro Plex
+Visual Computing System, or VCS, NVIDIA Quadro FX, and the NVIDIA Quadro Night
+Vision Systems, or NVS, professional workstation processors. NVIDIA Quadro
+products are recognized by many as the standard for professional graphics
+solutions needed to solve many of the world’s complex visual computing
+challenges in the manufacturing, entertainment, medical, science, and aerospace
+industries. NVIDIA Quadro products are fully certified by several software
+developers for professional workstation applications and are designed to deliver
+the graphics performance and precision required by professional
+applications.
+    
+      We believe that recent years
+have experienced an increasing level of global adoption for the computer-aided
+design approach of product creation.  NVIDIA has the leading position
+in the professional graphics category with over 70% share by revenue according
+to the 2007 Fourth Quarter International Data Corporation, or IDC, Market
+Research Report.  We achieved this market position by providing
+innovative GPU technology, software, and tools that integrate the capabilities
+of our GPU with a broad array of visualization products.  During
+fiscal year 2008, we launched seven new Quadro solutions, including the Quadro
+FX 370 and 570. We also introduced a new line of notebook workstation GPUs - the
+NVIDIA Quadro FX 1600M, 570M and 360M – as well as a new line of desktop
+workstation GPUs – the NVIDIA Quadro FX 4600 and 5600 – all based on our GeForce
+8-series unified shader architecture.  We expanded our NVIDIA Quadro
+Plex family with the introduction of the NVIDIA Quadro Plex VCS IV, a new
+version of the NVIDIA Quadro Plex Visual Computing System, or VCS, which
+provides enhanced performance for a wide range of high-performance,
+graphics-intensive styling and design, oil and gas, and scientific
+applications.
+     
+     
+    
+      
+        
+        
+      
+      
+        5
+        
+          
+        
+      
+      
+        
+        
+      
+    
+    
+      In fiscal year 2008, we
+also introduced NVIDIA Tesla, our entry into the high-performance computing
+industry. Tesla is a new family of GPU computing products that delivers
+processing capabilities for high-performance computing applications. The Tesla
+family consists of the C870 GPU Computing processor, the D870 Deskside
+Supercomputer and the S870 1U Computing Server. During the third quarter of
+fiscal year 2008, we began shipments of our Tesla C870 GPU computing processor
+and D870 desk-side supercomputer products. Compute Unified Device Architecture,
+or CUDA, software has been acknowledged for its ability to transform a GPU into
+a supercomputer and to deliver the level of performance normally found in large
+and expensive clusters residing in datacenters to the desktop of scientists and
+engineers around the world. During fiscal year 2008, NVIDA made available the
+first public version of the NVIDIA CUDA Software Developer Kit and C-compiler
+for computing on NVIDIA GPUs.
+     
+      In fiscal year 2008, we
+completed our acquisition of Mental Images, an industry leader in photorealistic
+rendering technology. Mental Images’ Mental Ray product is considered by many to
+be the most pervasive ray tracing renderer in the industry.  Mental
+Images visualization technology is embedded in most major digital content
+creation, or DCC, and computer aided design, or CAD, applications, and their
+rendering technology is deployed by major manufacturers and film studios. We
+believe that this strategic combination will enable the development of tools and
+technologies that will advance the state of visualization, will be optimized for
+next generation computing architectures, and will create new product categories
+for both hardware and software.
+    
+            MCP Business
+     
+       Our MCP Business is comprised of
+NVIDIA nForce core logic and NVIDIA GeForce mGPU products.  Our NVIDIA
+nForce and GeForce mGPU families of products address the multi-billion dollar
+computer core logic market.  Core logic is the computer’s “central
+nervous system,” controlling and directing high speed data between the central
+processing unit, or CPU, the GPU, storage, and networks.  High
+quality, long-term reliability, and top performance are key customer demands of
+core logic suppliers. Our strategy for MCPs aligns with what we anticipate will
+drive growth in the MCP segment such as multi-core, ever-increasing-speed
+networking and storage technologies, and integration of complex features such as
+virtualization, security processing and network processing.  During
+the third quarter of fiscal year 2008, we shipped our first single-chip mGPUs
+for Intel-processor-based desktop PCs.  We believe that the GeForce
+7000 mGPU family delivers the performance of an entry-level discrete GPU when
+compared against traditional integrated graphics solutions. We also shipped the
+GeForce 7050 mGPU, which targets the lower cost categories of the market. We are
+now the only chipset supplier to support processor platforms created by both
+Intel Corporation, or Intel, and Advanced Micro Devices Inc., or AMD, and the
+only branded integrated GPU supplier for the Intel processor
+platform.  We believe that the integrated graphics opportunity
+represents approximately 60% of the world PC market. We also extended the
+reach of Scalable Link Interface, or SLI, technology into the performance
+category with the launch of our NVIDIA nForce 650i SLI, 680i LT SLI and 680i
+Ultra MCP products for Intel. We are now the second largest core logic supplier
+in the world with 15% segment share of the total core logic market, according to
+the Mercury Research 2007 Fourth Quarter PC Chipsets and Processors
+report.
+    
+      In fiscal year 2008, we
+announced a new technology named Hybrid SLI.  We named it hybrid
+because this technology combines a powerful as well as an energy-efficient
+engine and SLI because it is our multi-GPU technology.  When GeForce
+add-in graphics cards are connected to GeForce mGPUs, Hybrid SLI kicks in,
+combining their processing power to deliver an improved
+experience.  The technology is application aware so, depending on the
+processing demands of each application running on the host PC, the discrete GPU
+may be completely shut-down in order to save power.  For example, a PC
+containing the combined power of dual GeForce 8800 GTX SLI add-in graphics cards
+can reach 400 watts. If such a PC contained Hybrid SLI technology, both GPUs
+could be powered down when the user is doing email, surfing the web, or watching
+a Blu-ray movie, keeping the system quiet and consuming lower levels of
+energy.  But when a video game or any other demanding GPU application
+is launched, the dual GeForce 8800 GTX’s would be powered up to deliver the
+performance required to power the related application.  Hybrid SLI was
+made available starting with our GeForce8-series mGPUs.
+    
+      Our MCP strategy is to
+bring the benefits of GeForce GPUs to the most price sensitive categories while
+creating exciting platform architectures like SLI, Hybrid SLI, and
+Enthusiast System Architecture, or ESA.  ESA is a standard for system
+information protocol that links a PC system’s various critical components – such
+as fan, power supply, smart chassis, GPUs, and motherboards.  It
+enables a unified architecture for applications and users to control and
+optimize the performance of their system.  SLI, Hybrid SLI, and ESA
+are examples of how NVIDIA creates architectures that advance the capabilities
+of the PC.
+     
+    
+      
+        
+        
+      
+      
+        6
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+      Consumer Products
+Business
+    
+      Our CPB is comprised of
+our GoForce and APX mobile brands and products that support PMPs, PDAs, cellular
+phones and other handheld devices. This business also includes license, royalty,
+other revenue and associated costs related to video game consoles and other
+digital consumer electronics devices.
+     
+        We believe
+that mobile devices like phones, music players, and portable navigation
+devices will increasingly become multi-function, multi-tasking,
+PCs.  As such, we anticipate the architecture of these devices will
+increasingly become more consumer PC-like and be capable of delivering all the
+entertainment and web experiences that end users currently enjoy on a PC, but in
+a form-factor that fits nicely in their hands.  Our mobile strategy is
+to create an application processor and a computer-on-a-chip that enables this
+experience. NVIDIA GoForce mobile products and application processors
+implement design techniques, both inside the chips and at the system level,
+which result in high performance and long battery life. These technologies
+enhance visual display capabilities, improve connectivity, and minimize chip and
+system-level power consumption. NVIDIA GoForce products can be found primarily
+in multimedia cellular phones and other handheld devices. In February 2008, we
+launched the NVIDIA APX 2500, our first such application
+processor.  The APX 2500 is a computer-on-a-chip designed to meet the
+growing multimedia demands of today's mobile phone user.  The APX 2500
+is the culmination of several hundred man years of research and
+development.  We believe that the mobile application processor is an
+area where we can add a significant amount of value and we also believe that it
+represents growth opportunity that could ultimately reach the level of several
+hundred million units a year. During the first quarter of fiscal year 2008,
+we shipped the GoForce 6100, which was the first product resulting from our
+acquisition of PortalPlayer, Inc., or PortalPlayer, in fiscal year
+2007.  The GoForce 6100 can be found in primarily in
+PMPs.
+    
+    Our
+Strategy
+     
+        We design our products to
+enable our PC OEMs, ODMs, system builders, motherboard and add-in board
+manufacturers, and cellular phone and consumer electronics OEMs, to build
+products that deliver state-of-the-art features, performance, compatibility and
+power efficiency while maintaining competitive pricing and profitability. We
+believe that by developing 3D graphics, HD, video and media communications
+solutions that provide superior performance and address the key requirements of
+each of the product categories we serve, we will accelerate the adoption of HD
+digital media platforms and devices throughout these segments. We combine
+scalable architectural technology with mass market economies-of-scale to deliver
+a complete family of products that span from professional workstations, to
+consumer PCs, to multimedia-rich cellular phones.
+     
+        Our objective is to be the
+leading supplier of performance GPUs, MCPs and application processors that
+support PDAs, PMPs, cellular phones and other handheld devices. Our current
+focus is on the desktop PC, professional workstation, notebook PC,
+high-performance computing, application processor, server, multimedia-rich
+cellular phone and video game console product lines, and we plan to expand into
+other product lines. Our strategy to achieve this objective includes the
+following key elements:
+     
+        Build Award-Winning,
+Architecturally-Compatible 3D Graphics, HD Video, Media Communications and
+Ultra-Low Power Product Families for the PC, Handheld and Digital Entertainment
+Platforms.    Our strategy is to achieve market
+segment leadership in these platforms by providing award-winning performance at
+every price point. By developing 3D graphics, HD video and media communications
+solutions that provide superior performance and address the key requirements of
+these platforms, we believe that we will accelerate the adoption of 3D graphics
+and rich digital media.
+    
+      Target Leading OEMs, ODMs and
+System Builders.    Our strategy is to enable our
+leading PC, handheld and consumer electronics OEMs, ODMs and major system
+builder customers to differentiate their products in a highly competitive
+marketplace by using our products. We believe that design wins with these
+industry leaders provide market validation of our products, increase brand
+awareness and enhance our ability to penetrate additional leading customer
+accounts. In addition, we believe that close relationships with OEMs, ODMs and
+major system builders will allow us to better anticipate and address customer
+needs with future generations of our products.
+    
+      Sustain Technology and Product
+Leadership in 3D Graphics and HD Video, and Media Communications and Ultra-Low
+Power.    We are focused on using our advanced
+engineering capabilities to accelerate the quality and performance of 3D
+graphics, HD video, media communications and ultra-low power processing in PCs
+and handheld devices. A fundamental aspect of our strategy is to actively
+recruit the best 3D graphics and HD video, networking and communications
+engineers in the industry, and we believe that we have assembled an
+exceptionally experienced and talented engineering team. Our research and
+development strategy is to focus on concurrently developing multiple generations
+of GPUs, including GPUs for high-performance computing, MCPs and mobile and
+consumer products that support PMPs, PDAs, cellular phones and other handheld
+devices using independent design teams. As we have in the past, we intend to use
+this strategy to achieve new levels of graphics, networking and communications
+features and performance and ultra-low power designs, enabling our customers to
+achieve superior performance in their products.
+    
+      Increase Market
+Share.    We believe that substantial market share
+will be important to achieving success. We intend to achieve a leading share of
+the market in areas in which we don't have a leading market share, and maintain
+a leading share of the market in areas in which we do have the lead, by devoting
+substantial resources to building families of products for a wide range of
+applications that offer significant improvement in performance over existing
+products.
+    
+    
+      
+        
+        
+      
+      
+        7
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+      Use Our Expertise in Digital
+Multimedia.    We believe the synergy created by the
+combination of 3D graphics, HD video and the Internet will fundamentally change
+the way people work, learn, communicate and play. We believe that our expertise
+in HD graphics and system architecture positions us to help drive this
+transformation. We are using our expertise in the processing and transmission of
+high-bandwidth digital media to develop products designed to address the
+requirements of high-bandwidth concurrent multimedia.
+    
+      Use our Intellectual Property and
+Resources to Enter into License and Development Contracts. From time to
+time, we expect to enter into license arrangements that will require significant
+customization of our intellectual property components.  For license
+arrangements that require significant customization of our intellectual property
+components, we generally recognize this license revenue using the
+percentage-of-completion method of accounting over the period that services are
+performed. For example, in fiscal year 2006, we entered into an agreement with
+Sony Computer Entertainment, Inc., or SCE, to jointly develop a custom GPU for
+SCE’s PlayStation3.  Our collaboration with SCE includes license fees and
+royalties for the PlayStation3 and all derivatives, including next-generation
+digital consumer electronics devices.  In addition, we are licensing
+software development tools for creating shaders and advanced graphics
+capabilities to SCE. 
+    
+    Sales
+and Marketing
+    
+      Our worldwide sales and
+marketing strategy is a key part of our objective to become the leading supplier
+of performance GPUs, MCPs, and applications processors that support PMPs, PDAs,
+cellular phones and other handheld devices. Our sales and marketing teams work
+closely with each industry’s respective OEMs, ODMs, system builders, motherboard
+manufacturers, add-in board manufacturers and industry trendsetters,
+collectively referred to as our Channel, to define product features,
+performance, price and timing of new products. Members of our sales team have a
+high level of technical expertise and product and industry knowledge to support
+the competitive and complex design win process. We also employ a highly skilled
+team of application engineers to assist the Channel in designing, testing and
+qualifying system designs that incorporate our products. We believe that the
+depth and quality of our design support are keys to improving the Channel’s
+time-to-market, maintaining a high level of customer satisfaction within the
+Channel and fostering relationships that encourage customers to use the next
+generation of our products.
+    
+      In the GPU and MCP
+segments we serve, the sales process involves achieving key design wins with
+leading OEMs and major system builders and supporting the product design into
+high volume production with key ODMs, motherboard manufacturers and add-in board
+manufacturers. These design wins in turn influence the retail and system builder
+channel that is serviced by add-in board and motherboard manufacturers. Our
+distribution strategy is to work with a number of leading independent contract
+equipment manufacturers, or CEMs, ODMs, motherboard manufacturers, add-in board
+manufacturers and distributors each of which have relationships with a broad
+range of major OEMs and/or strong brand name recognition in the retail channel.
+In the CPB segment we serve, the sales process primarily involves achieving key
+design wins directly with the leading handheld OEMs and supporting the product
+design into high-volume production. Currently, we sell a significant portion of
+our processors directly to distributors, CEMs, ODMs, motherboard manufacturers
+and add-in board manufacturers, which then sell boards and systems with our
+products to leading OEMs, retail outlets and to a large number of system
+builders.
+    
+      Although a small number
+of our customers represent the majority of our revenue, their end customers
+include a large number of OEMs and system builders throughout the
+world.  As a result of our Channel strategy, our sales are focused on
+a small number of customers. Sales to our largest customer, Asustek Computer,
+Inc. accounted for 10% of our total revenue for fiscal year 2008.
+    
+      To encourage software
+title developers and publishers to develop games optimized for platforms
+utilizing our products, we seek to establish and maintain strong relationships
+in the software development community. Engineering and marketing personnel
+interact with and visit key software developers to promote and discuss our
+products, as well as to ascertain product requirements and solve technical
+problems. Our developer program makes certain of our products available to
+developers prior to volume availability in order to encourage the development of
+software titles that are optimized for our products.
+    
+    Backlog
+    
+      Our sales are primarily
+made pursuant to standard purchase orders. The quantity of products purchased by
+our customers as well as our shipment schedules are subject to revisions that
+reflect changes in both the customers’ requirements and in manufacturing
+availability. The semiconductor industry is characterized by short lead time
+orders and quick delivery schedules. In light of industry practice and
+experience, we believe that only a small portion of our backlog is
+non-cancelable and that the dollar amount associated with the non-cancelable
+portion is not significant. We do not believe that a backlog as of any
+particular date is indicative of future results.
+    
+    
+      
+        
+        
+      
+      
+        8
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    Seasonality
+    
+      Our industry is largely
+focused on the consumer products market. Due to the seasonality in this market,
+we typically expect to see stronger revenue performance in the second half of
+the calendar year related to the back-to-school and holiday
+seasons.
+    
+    Manufacturing
+    
+      We do not directly
+manufacture semiconductor wafers used for our products. Instead, we utilize what
+is known as a fabless manufacturing strategy for all of our product-line
+operating segments whereby we employ world-class suppliers for all phases of the
+manufacturing process, including wafer fabrication, assembly, testing and
+packaging. This strategy uses the expertise of industry-leading suppliers that
+are certified by the International Organization for Standardization, or ISO, in
+such areas as fabrication, assembly, quality control and assurance, reliability
+and testing. In addition, this strategy allows us to avoid many of the
+significant costs and risks associated with owning and operating manufacturing
+operations. Our suppliers are also responsible for procurement of most of the
+raw materials used in the production of our products. As a result, we can focus
+our resources on product design, additional quality assurance, marketing and
+customer support.
+     
+      We utilize
+industry-leading suppliers, such as Taiwan Semiconductor Manufacturing
+Corporation, or TSMC, United Microelectronics Corporation, or UMC, Chartered
+Semiconductor Manufacturing, or Chartered, Semiconductor Manufacturing
+International Corporation, or SMIC, and Austria Micro Systems, or AMS to produce
+our semiconductor wafers. We then utilize independent subcontractors, such as
+Advanced Semiconductor Engineering, or ASE, Amkor Technology, or Amkor, JSI
+Logistics Ltd., or JSI, King Yuan Electronics Co., Ltd, or KYEC, Siliconware
+Precision Industries Company Ltd., or SPIL, and STATS ChipPAC Incorporated, or
+ChipPAC, to perform assembly, testing and packaging of most of our
+products.
+    
+      We typically receive
+semiconductor products from our subcontractors, perform incoming quality
+assurance and then ship the semiconductors to CEMs, distributors, motherboard
+and add-in board manufacturer customers from our third-party warehouse in Hong
+Kong. Generally, these manufacturers assemble and test the boards based on our
+design kit and test specifications, and then ship the products to retailers,
+system builders or OEMs as motherboard and add-in board solutions.
+    
+    Inventory
+and Working Capital
+    
+            Our management focuses
+considerable attention on managing our inventories and other
+working-capital-related items. We manage inventories by communicating with our
+customers and then using our industry experience to forecast demand on a
+product-by-product basis. We then place manufacturing orders for our products
+that are based on forecasted demand. The quantity of products actually purchased
+by our customers as well as shipment schedules are subject to revisions that
+reflect changes in both the customers’ requirements and in manufacturing
+availability. We generally maintain substantial inventories of our products
+because the semiconductor industry is characterized by short lead time orders
+and quick delivery schedules.
+    
+    Research
+and Development
+        
+       We believe that the
+continued introduction of new and enhanced products designed to deliver leading
+3D graphics, HD video, audio, ultra-low power communications, storage, and
+secure networking performance and features is essential to our future success.
+Our research and development strategy is to focus on concurrently developing
+multiple generations of GPUs, MCPs and our consumer products that support PMPs,
+PDAs, cellular phones or other handheld devices using independent design teams.
+Our research and development efforts are performed within specialized groups
+consisting of software engineering, hardware engineering, very large scale
+integration design engineering, process engineering, architecture and
+algorithms. These groups act as a pipeline designed to allow the efficient
+simultaneous development of multiple generations of products.
+     
+       A critical component of our
+product development effort is our partnerships with leaders in the computer
+aided design, or CAD, industry. We invest significant resources in the
+development of relationships with industry leaders, including Cadence Design
+Systems, Inc., and Synopsys, Inc., often assisting these companies in the
+product definition of their new products. We believe that forming these
+relationships and utilizing next-generation development tools to design,
+simulate and verify our products will help us remain at the forefront of the 3D
+graphics market and develop products that utilize leading-edge technology on a
+rapid basis. We believe this approach assists us in meeting the new design
+schedules of PC OEM and other manufacturers.
+    
+     We substantially increased our
+engineering and technical resources in fiscal year 2008, and have 3,255
+full-time employees engaged in research and development as of January 27, 2008,
+compared to 2,668 employees as of January 28, 2007. The majority of the research
+and development employees added during fiscal year 2008 are located in
+international locations, including India, China, Taiwan and various locations in
+Europe. During fiscal years 2008, 2007 and 2006, we incurred research and
+development expenditures of $691.6 million, $553.5 million and
+$357.1 million, respectively. Research and development expenses included
+$76.6 million, $70.1 million and $5.9 million related to non-cash stock-based
+compensation for fiscal years 2008, 2007 and 2006.
+     
+    
+      
+        
+        
+      
+      
+        9
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    Competition
+    
+      The market for GPUs,
+MCPs, and application processors that support PMPs, PDAs, cellular phones or
+other handheld devices is intensely competitive and is characterized by rapid
+technological change, evolving industry standards and declining average selling
+prices. We believe that the principal competitive factors in this market are
+performance, breadth of product offerings, access to customers and distribution
+channels, software support, conformity to industry standard Application
+Programming Interface, or APIs, manufacturing capabilities, price of processors,
+and total system costs. We believe that our ability to remain competitive will
+depend on how well we are able to anticipate the features and functions that
+customers will demand and whether we are able to deliver consistent volumes of
+our products at acceptable levels of quality. We expect competition to increase
+from both existing competitors and new market entrants with products that may be
+less costly than ours, or may provide better performance or additional features
+not provided by our products. In addition, it is possible that new competitors
+or alliances among competitors could emerge and acquire significant market
+share.
+     
+        A significant source of
+competition is from companies that provide or intend to provide GPU, MCP, and
+application processors that support PMPs, PDAs, cellular phones or other
+handheld devices. Some of our competitors may have greater marketing, financial,
+distribution and manufacturing resources than we do and may be more able to
+adapt to customer or technological changes. Currently, Intel, which has greater
+resources than we do, is working on a multi-core architecture code-named
+Larrabee, which may compete with our products in various
+markets.  Intel may also release an enthusiast level discrete GPU
+based on the Larrabee architecture.  
+    
+      Our current competitors include
+the following:
+    
+      · suppliers
+of discrete MCPs that incorporate a combination of networking, audio,
+communications and input/output, or I/O, functionality as part of their existing
+solutions, such as AMD, Broadcom Corporation, or Broadcom, Silicon Integrated
+Systems, Inc., or SIS, VIA Technologies, Inc., or VIA, and
+Intel;
+    
+      · suppliers
+of GPUs, including MCPs that incorporate 3D graphics functionality as part of
+their existing solutions, such as AMD, Intel, Matrox Electronics Systems
+Ltd., SIS, and VIA;
+    
+      · suppliers
+of application processors that support PMPs, PDAs, cellular phones or other
+handheld devices intellectual property such as AMD, Broadcom, Fujitsu Limited,
+Imagination Technologies Ltd., ARM Holdings plc, Marvell Technology Group Ltd,
+or Marvell, NEC Corporation, Qualcomm Incorporated, Renesas Technology, Samsung,
+Seiko-Epson, Texas Instruments Incorporated, and Toshiba America, Inc.;
+and
+    
+      · suppliers
+of application processors for handheld and embedded devices that incorporate
+multimedia processing as part of their existing solutions such as Broadcom,
+Texas Instruments Inc., Qualcomm Incorporated, Marvell, Freescale Semiconductor
+Inc., Renesas Technology, Samsung, and ST Microelectronics.
+     
+        We expect substantial
+competition from both Intel’s and AMD’s strategy of selling platform solutions,
+such as the success Intel achieved with its Centrino platform solution. 
+AMD has also announced a platform solution. Additionally, we expect that Intel
+and AMD will extend this strategy to other segments, including the possibility
+of successfully integrating a central processing unit, or CPU, and a GPU on the
+same chip, as evidenced by AMD’s announcement of its Fusion processor project.
+If AMD and Intel continue to pursue platform solutions, we may not be able to
+successfully compete and our business would be negatively impacted.
+     
+        If and to the extent we
+offer products in new markets, we may face competition from some of our existing
+competitors as well as from companies with which we currently do not compete. We
+cannot accurately predict if we will compete successfully in any new markets we
+may enter. If we are unable to compete in our current or new markets, demand for
+our products could decrease which could cause our revenue to decline and our
+financial results to suffer.
+     
+    
+      
+        
+        
+      
+      
+        10
+        
+          
+        
+      
+      
+        
+        
+      
+    
+     
+    Patents
+and Proprietary Rights
+    
+      We rely primarily on a
+combination of patents, trademarks, trade secrets, employee and third-party
+nondisclosure agreements and licensing arrangements to protect our intellectual
+property in the United States and internationally. Our issued patents have
+expiration dates from October 29, 2008 to May 24, 2027.  We have
+numerous patents issued, allowed and pending in the United States and in foreign
+jurisdictions. Our patents and pending patent applications primarily relate to
+our products and the technology used in connection with our products. We also
+rely on international treaties, organizations and foreign laws to protect our
+intellectual property. The laws of certain foreign countries in which our
+products are or may be manufactured or sold, including various countries in
+Asia, may not protect our products or intellectual property rights to the same
+extent as the laws of the United States. This makes the possibility of piracy of
+our technology and products more likely. We continuously assess whether and
+where to seek formal protection for particular innovations and technologies
+based on such factors as: 
+     
+    
+      
+          
+            
+              ·  
+            
+            
+              the
+      commercial significance of our operations and our competitors’ operations
+      in particular countries and
+regions; 
+            
+          
+      
+    
+    
+      
+          
+            
+              ·  
+            
+            
+              the
+      location in which our products are manufactured;
+   
+            
+          
+      
+    
+    
+      
+          
+            
+              ·  
+            
+            
+              our
+      strategic technology or product directions in different countries; and
+       
+            
+          
+      
+    
+    
+      
+          
+            
+              ·  
+            
+            
+              the
+      degree to which intellectual property laws exist and are meaningfully
+      enforced in different
+jurisdictions. 
+            
+          
+      
+    
+     
+        Our pending patent
+applications and any future applications may not be approved. In addition, any
+issued patents may not provide us with competitive advantages or may be
+challenged by third parties. The enforcement of patents by others may harm our
+ability to conduct our business. Others may independently develop substantially
+equivalent intellectual property or otherwise gain access to our trade secrets
+or intellectual property. Our failure to effectively protect our intellectual
+property could harm our business. We have licensed technology from third parties
+for incorporation in some of our products and for defensive reasons, and expect
+to continue to enter into such license agreements. These licenses may result in
+royalty payments to third parties, the cross licensing of technology by us or
+payment of other consideration. If these arrangements are not concluded on
+commercially reasonable terms, our business could suffer.
+     
+    Employees
+    
+      As of January 27, 2008 we
+had 4,985 employees, 3,255 of whom were engaged in research and development and
+1,730 of whom were engaged in sales, marketing, operations and administrative
+positions. None of our employees are covered by collective bargaining
+agreements, and we believe our relationships with our employees are
+good.
+    
+    Financial
+Information by Business Segment and Geographic Data
+     
+    
+      Our Chief
+Executive Officer, who is considered to be our chief operating decision maker,
+or CODM, reviews financial information presented on a operating segment basis
+for purposes of making operating decisions and assessing financial
+performance.  During the first quarter of fiscal year 2008, we
+reorganized our operating segments. We now report financial information for four
+operating segments to our CODM: the GPU business, which is comprised primarily
+of our GeForce products that support desktop and notebook PCs, plus memory
+products, the PSB, which is comprised of our NVIDIA Quadro professional
+workstation products and other professional graphics products, including our
+NVIDIA Tesla high-performance computing products, the MCP business, which
+is comprised of NVIDIA nForce core logic and motherboard GPU products, and our
+CPB which is comprised of our GoForce and APX mobile brands and products that
+support handheld PMPs, PDAs, cellular phones, other handheld devices and
+license, royalty, other revenue and associated costs related to video game
+consoles and other digital consumer electronics devices.  In addition
+to these operating segments, we have the “All Other” category that includes
+human resources, legal, finance, general administration and corporate marketing
+expenses, which total $266.2 million, $239.6 million, and $123.8
+million during fiscal years 2008, 2007 and 2006, respectively, that we do
+not allocate to our other operating segments as these expenses are not included
+in the segment operating performance measures evaluated by our
+CODM.  “All Other” also includes the results of operations of other
+miscellaneous reporting segments that are neither individually reportable, nor
+aggregated with another operating segment. Revenue in the “All Other” segment is
+primarily derived from sales of components.  All relevant prior period
+amounts have been revised to conform to the presentation of our current fiscal
+year.
+      
+      Our CODM
+does not review any information regarding total assets on an operating segment
+basis. Operating segments do not record intersegment revenue, and, accordingly,
+there is none to be reported.  The accounting policies for segment
+reporting are the same as for NVIDIA as a whole.  The information included
+in Note 14 of the Notes to Consolidated Financial Statements is hereby
+incorporated by reference.
+    
+     
+     
+    
+      
+        
+        
+      
+      
+        11
+        
+          
+        
+      
+      
+        
+        
+      
+    
+       
+    Executive
+Officers of the Registrant
+     
+        The following sets forth
+certain information regarding our executive officers, their ages and their
+positions as of January 27, 2008:
+    
+    
+      
+          
+            
+              Name
+            
+             
+            
+              Age
+            
+             
+            
+              Position
+            
+          
+          
+            
+              Jen-Hsun
+      Huang
+            
+             
+            
+              44
+            
+             
+            
+              President,
+      Chief Executive Officer and Director
+            
+          
+          
+            
+              Marvin
+      D. Burkett
+            
+             
+            
+              65
+            
+             
+            
+              Chief
+      Financial Officer
+            
+          
+          
+            
+              Ajay
+      K. Puri
+            
+             
+            
+              53
+            
+             
+            
+              Senior
+      Vice President, Worldwide Sales
+            
+          
+          
+            
+              David
+      M. Shannon
+            
+             
+            
+              52
+            
+             
+            
+              Senior
+      Vice President, General Counsel and Secretary
+            
+          
+          
+            
+              Debora
+      Shoquist
+            
+             
+            
+              53
+            
+             
+            
+              Senior
+      Vice President, Operations
+            
+          
+      
+    
+    
+      Jen-Hsun Huang co-founded
+NVIDIA in April 1993 and has served as its President, Chief Executive Officer
+and a member of the Board of Directors since its inception. From 1985 to 1993,
+Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer,
+where he held a variety of positions, most recently as Director of Coreware, the
+business unit responsible for LSI’s “system-on-a-chip” strategy. From 1983 to
+1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc.,
+a semiconductor company. Mr. Huang holds a B.S.E.E. degree from
+Oregon State University and an M.S.E.E. degree from
+Stanford University.
+    
+      Marvin D. Burkett joined
+NVIDIA as Chief Financial Officer in September 2002. From February 2000 until
+joining NVIDIA, Mr. Burkett was a financial consultant and served as Chief
+Financial Officer of Arcot Systems, a security software company. From 1998
+to 1999, Mr. Burkett was the Executive Vice President and Chief Financial
+Officer of Packard Bell NEC. Mr. Burkett also previously spent 26 years at
+Advanced Micro Devices, Inc. where he held a variety of positions including
+Chief Financial Officer, Senior Vice President and Corporate Controller. Mr.
+Burkett holds B.S. and M.B.A. degrees from the University of
+Arizona.
+    
+      Ajay K. Puri joined NVIDIA
+in December 2005 as Senior Vice President, Worldwide Sales. Prior to NVIDIA, he
+held positions in sales, marketing, and general management over a 22-year career
+at Sun Microsystems, Inc. Mr. Puri previously held marketing, management
+consulting, and product development positions at Hewlett-Packard Company, Booz
+Allen Hamilton Inc., and Texas Instruments Incorporated. Mr. Puri holds an
+M.B.A. degree from Harvard University, an M.S.E.E. degree from the
+California Institute of Technology and a B.S.E.E. degree from the University of
+Minnesota.
+    
+      David M.
+Shannon joined NVIDIA in August 2002 as Vice President and General
+Counsel. Mr. Shannon became Secretary of NVIDIA in April 2005 and a Senior Vice
+President in December 2005. From 1993 to 2002, Mr. Shannon held various
+counsel positions at Intel, including the most recent position of Vice President
+and Assistant General Counsel. Mr. Shannon also practiced for eight years
+in the law firm of Gibson Dunn and Crutcher, focusing on complex commercial and
+high-technology related litigation. Mr. Shannon holds B.A. and J.D. degrees
+from Pepperdine University.
+     
+    
+        Debora Shoquist joined
+NVIDIA in September 2007 as Senior Vice President of Operations.  From
+2004 to 2007, Ms. Shoquist served as Senior Vice President of Operations at
+JDS Uniphase Corporation, a provider of communications test and measurement
+solutions and optical products for the telecommunications industry. From 2002 to
+2004, she served as Senior Vice President and General Manager of the
+Electro-Optics business at Coherent, Inc., a manufacturer of commercial and
+scientific laser equipment. Her experience includes her role at Quantum
+Corporation as the President of the Personal Computer Hard Disk Drive Division.
+Her experience also includes senior roles at Hewlett-Packard Corporation. She
+holds a B.S degree in Electrical Engineering from
+Kansas State University and a B.S. degree in Biology from Santa
+Clara University.
+       
+    
+    Available
+Information
+    
+      Our Annual Report on Form 10-K,
+quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable,
+amendments to those reports filed or furnished pursuant to Section 13(a) of the
+Securities Exchange Act of 1934, or the Exchange Act, are available free of
+charge on or through our Internet web site, http://www.nvidia.com, as soon as
+reasonably practicable after we electronically file such material with, or
+furnish it to, the Securities and Exchange Commission, or the SEC. Our web site
+and the information on it or connected to it is not a part of this Form
+10-K.
+    
+    
+    
+      
+        
+           
+
+        
+        
+          12
+          
+            
+          
+        
+        
+           
+
+        
+      
+    
+     
+    
+      ITEM 1A. RISK FACTORS
+      
+      In
+evaluating NVIDIA and our business, the following factors should be considered
+in addition to the other information in this Annual Report on Form 10-K. 
+Before you buy our common stock, you should know that making such an investment
+involves some risks including, but not limited to, the risks described below.
+Additionally, any one of the following risks could seriously harm our business,
+financial condition and results of operations, which could cause our stock price
+to decline. Additional risks and uncertainties not presently known to us or that
+we currently deem immaterial may also impair our business
+operations.
+      
+      Risks
+Related to Competition
+      
+      If
+we are unable to compete in the markets for our products, our financial results
+could be adversely impacted.
+      
+      The
+markets for our products are highly competitive and are characterized by rapid
+technological change, new product introductions, evolving industry standards,
+and declining average selling prices. We believe that our ability to remain
+competitive will depend on how well we are able to anticipate the features and
+functions that customers will demand from our products and whether we are able
+to deliver consistent volumes of our products at acceptable prices and quality
+levels. We believe other factors impacting our ability to compete
+are:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                product
+      performance;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                product
+      bundling by competitors with multiple product
+  lines;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                breadth
+      and frequency of product offerings;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                access
+      to customers and distribution
+channels;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                backward-forward
+      software support;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                conformity
+      to industry standard application programming interfaces;
+    and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                manufacturing
+      capabilities.
+              
+            
+        
+      
+      
+      We expect
+competition to increase both from existing competitors and new market entrants
+with products that may be less costly than ours, or may provide better
+performance or additional features not provided by our products, either of which
+could harm our business. Some of these competitors may have or be able to
+obtain greater marketing, financial, distribution and manufacturing resources
+than we do and may be better able to adapt to customer or technological changes.
+Currently, Intel, which has greater resources than we do, is working on a
+multi-core architecture code-named Larrabee, which may compete with our products
+in various markets.  Intel may also release an enthusiast level
+discrete GPU based on the Larrabee architecture. In order to compete, we may
+have to invest substantial amounts in research and development without assurance
+that our products will be superior to those of our competitors or that the
+products will achieve market acceptance.
+      
+      An
+additional significant source of competition comes from companies that provide
+or intend to provide competing product solutions. For example, we are the
+largest supplier of AMD 64 chipsets with 60% segment share in the fourth quarter
+of calendar year 2007, as reported in the 2007 Fourth Quarter PC Processor and
+Chipset report from Mercury Research. Decline in demand for our chipsets in the
+AMD segment as a result of the offerings of a new or existing competitor could
+materially impact our financial results.
+      
+      Our
+current competitors include the following:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                suppliers
+      of discrete MCPs that incorporate a combination of networking, audio,
+      communications and input/output functionality as part of their existing
+      solutions, such as AMD, Broadcom, Silicon Integrated Systems Corporation,
+      or SIS, VIA Technologies, Inc., or VIA, and
+  Intel;
+              
+            
+        
+      
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                suppliers
+      of GPUs, including MCPs that incorporate 3D graphics functionality as part
+      of their existing solutions, such as AMD, Intel, Matrox Electronics
+      Systems Ltd., SIS and VIA;
+              
+            
+        
+      
+      
+        
+           
+
+        
+        
+          13
+          
+            
+          
+        
+        
+           
+
+        
+      
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                suppliers
+      of GPUs or GPU intellectual property for handheld and digital consumer
+      electronics devices that incorporate advanced graphics functionality as
+      part of their existing solutions, such as AMD, Broadcom, Fujitsu Limited,
+      Imagination Technologies Ltd., ARM Holdings plc, Marvell Technology Group
+      Ltd., or Marvell, NEC Corporation, Qualcomm Incorporated, or Qualcomm,
+      Renesas Technology, Seiko-Epson, Texas Instruments Incorporated, and
+      Toshiba America, Inc.; and
+              
+            
+        
+      
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                suppliers
+      of application processors for handheld and digital consumer electronics
+      devices that incorporate multimedia processing as part of their existing
+      solutions such as Broadcom, Texas Instruments Inc., Qualcomm, Marvell,
+      Freescale Semiconductor Inc., Samsung and ST
+    Microelectronics.
+              
+            
+        
+      
+      
+      If and to
+the extent we offer products in new markets, we may face competition from some
+of our existing competitors as well as from companies with which we currently do
+not compete. We cannot accurately predict if we will compete successfully in any
+new markets we may enter. If we are unable to compete in our current or new
+markets, demand for our products could decrease which could cause our revenue to
+decline and our financial results to suffer.
+      
+      As
+Intel and AMD continue to pursue platform solutions, we may not be able to
+successfully compete and our business would be negatively impacted.
+      
+      We expect
+substantial competition from both Intel’s and AMD’s strategy of selling platform
+solutions, such as the success Intel achieved with its Centrino platform
+solution.  AMD has also announced a platform solution. Additionally, we
+expect that Intel and AMD will extend this strategy to other segments, including
+the possibility of successfully integrating a central processing unit, or CPU,
+and a GPU on the same chip, as evidenced by AMD’s announcement of its Fusion
+processor project. If AMD and Intel continue to pursue platform solutions, we
+may not be able to successfully compete and our business would be negatively
+impacted.
+      
+      Risks
+Related to Our Partners and Customers
+      
+      We
+depend on foundries to manufacture our products and these third parties may not
+be able to satisfy our manufacturing requirements, which would harm our
+business.
+      
+      We do
+not manufacture the silicon wafers used for our products and do not own or
+operate a wafer fabrication facility.  Instead, industry-leading
+foundries manufacture our semiconductor wafers using their state-of-the-art
+fabrication equipment and techniques. The foundries, which have limited
+capacity, also manufacture products for other semiconductor companies, including
+some of our competitors.  Since we do not have long-term commitment
+contracts with any of the foundries, they do not have an obligation to provide
+us with any minimum quantity of product at any time or at any set price, except
+as may be provided in a specific purchase order.   Most of our
+products are only manufactured by one foundry at a time.  In times of
+high demand, the foundries could choose to prioritize their capacity for other
+companies, reduce or eliminate deliveries to us, or increase the prices that
+they charge us.  If we are unable to meet customer demand due to
+reduced or eliminated deliveries or have to increase the prices of our products,
+we could lose sales to customers, which would negatively impact our revenue and
+our reputation.
+      
+      Because
+the lead-time needed to establish a strategic relationship with a new
+manufacturing partner could be several quarters, we do not have an alternative
+source of supply for our products. In addition, the time and effort to qualify a
+new foundry could result in additional expense, diversion of resources, or lost
+sales any of which would negatively impact our financial results. We believe
+that long-term market acceptance for our products will depend on reliable
+relationships with the third-party manufacturers we use to ensure adequate
+product supply and competitive pricing to respond to customer
+demand.
+       
+      
+        
+           
+
+        
+        
+          14
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Failure
+to achieve expected manufacturing yields for our products could negatively
+impact our financial results and damage our reputation.
+      
+       Manufacturing
+yields for our products are a function of product design, which is developed
+largely by us, and process technology, which typically is proprietary to the
+manufacturer. Low yields may result from either product design or process
+technology failure.  We do not know a yield problem exists until our
+design is manufactured.  When a yield issue is identified, the product
+is analyzed and tested to determine the cause. As a result, yield problems may
+not be identified until well into the production process. Resolution of yield
+problems requires cooperation by and communication between us and the
+manufacturer. Because of our potentially limited access to wafer foundry
+capacity, decreases in manufacturing yields could result in an increase in our
+costs and force us to allocate our available product supply among our customers.
+Lower than expected yields could potentially harm customer relationships, our
+reputation and our financial results.
+      
+      We
+are dependent on third parties for assembly, testing and packaging of our
+products, which reduces our control over the delivery schedule and quantity of
+our products.
+      
+      Our
+products are assembled, tested and packaged by independent subcontractors, such
+as Advanced Semiconductor Engineering, Inc., Amkor Technology, JSI Logistics,
+Ltd., King Yuan Electronics Co., Siliconware Precision Industries Co. Ltd., and
+ChipPAC. As a result, we do not directly control our product delivery schedules,
+product quantity, or product quality.  All of these subcontractors
+assemble, test and package products for other companies, including some of our
+competitors.  Since we do not have long-term agreements with our
+subcontractors, when demand for subcontractors to assemble, test or package
+products is high, our subcontractors may decide to prioritize the orders of
+other customers over our orders.  Since the time required to qualify a
+different subcontractor to assemble, test or package our products can be
+lengthy, if we have to find a replacement subcontractor we could experience
+significant delays in shipments of our products, product shortages, a decrease
+in the quality of our products, or an increase in product cost. Any product
+shortages or quality assurance problems could increase the costs of manufacture,
+assembly or testing of our products, which could cause our gross margin and
+revenue to decline.
+      
+      Failure
+to transition to new manufacturing process technologies could adversely affect
+our operating results and gross margin.
+      
+      We use
+the most advanced manufacturing process technology appropriate for our products
+that is available from our third-party foundries. As a result, we continuously
+evaluate the benefits of migrating our products to smaller geometry process
+technologies in order to improve performance and reduce costs. We believe this
+strategy will help us remain competitive.  Our current product
+families are manufactured using 0.15 micron, 0.14 micron, 0.13 micron, 0.11
+micron, 90 nanometer and 65 nanometer process
+technologies.   Manufacturing process technologies are subject to
+rapid change and require significant expenditures for research and development,
+which could negatively impact our operating expenses and gross
+margin.
+      
+      We have
+experienced difficulty in migrating to new manufacturing processes in the past
+and, consequently, have suffered reduced yields, delays in product deliveries
+and increased expense levels. We may face similar difficulties, delays and
+expenses as we continue to transition our new products to smaller geometry
+processes. Moreover, we are dependent on our third-party manufacturers to
+migrate to smaller geometry processes successfully. Some of our competitors own
+their manufacturing facilities and may be able to move to a new state of the art
+manufacturing process more quickly than our manufacturing
+partners.  For example, Intel recently released a 45 nanometer
+chip for desktop computers which it is manufacturing in its
+foundries.  If our suppliers fall behind our competitors in
+manufacturing processes, the development and customer demand for our products
+and the use of our products could be negatively impacted. The inability by us or
+our third-party manufacturers to effectively and efficiently transition to new
+manufacturing process technologies may adversely affect our operating results
+and our gross margin.
+      
+      
+        
+           
+
+        
+        
+          15
+          
+            
+          
+        
+        
+           
+
+        
+      
+      We
+rely on third-party vendors to supply software development tools to us for the
+development of our new products and we may be unable to obtain the tools
+necessary to develop or enhance new or existing products.
+      
+      We rely
+on third-party software development tools to assist us in the design, simulation
+and verification of new products or product enhancements. To bring new products
+or product enhancements to market in a timely manner, or at all, we need
+software development tools that are sophisticated enough or technologically
+advanced enough to complete our design, simulations and
+verifications.  In the past, we have experienced delays in the
+introduction of products as a result of the inability of then available software
+development tools to fully simulate the complex features and functionalities of
+our products. In the future, the design requirements necessary to meet consumer
+demands for more features and greater functionality from our products may exceed
+the capabilities of available software development
+tools.  Unavailability of software development tools may result in our
+missing design cycles or losing design wins either of which could result in a
+loss of market share or negatively impact our operating results.
+      
+      Because
+of the importance of software development tools to the development and
+enhancement of our products, a critical component of our product development
+efforts is our partnerships with leaders in the computer-aided design industry,
+including Cadence Design Systems, Inc. and Synopsys, Inc. We have invested
+significant resources to develop relationships with these industry leaders and
+have often assisted them in the definition of their new products. We believe
+that forming these relationships and utilizing next-generation development tools
+to design, simulate and verify our products will help us remain at the forefront
+of the 3D graphics, communications and networking segments and develop products
+that utilize leading-edge technology on a rapid basis. If these relationships
+are not successful, we may be unable to develop new products or product
+enhancements in a timely manner, which could result in a loss of market share, a
+decrease in revenue or negatively impact our operating results.
+      
+       We sell our products to a small
+number of customers and our business could suffer if we lose any of these
+customers.
+      
+      We have a
+limited number of customers and our sales are highly concentrated. Sales to our
+significant customers accounted for approximately 10% of our total revenue from
+one customer during fiscal year 2008, 12% of our total revenue from one customer
+during fiscal year 2007, and 26% of our total revenue from two customers during
+fiscal year 2006.  Although a small number of our other customers
+represents the majority of our revenue, their end customers include a large
+number of original equipment manufacturers, or OEMs, and system integrators
+throughout the world who, in many cases, specify the graphics supplier. Our
+sales process involves achieving key design wins with leading personal computer,
+or PC, OEMs and major system builders and supporting the product design into
+high volume production with key contract equipment manufacturers, or CEMs,
+original design manufacturers, or ODMs, add-in board and motherboard
+manufacturers. These design wins in turn influence the retail and system builder
+channel that is serviced by CEMs, ODMs, add-in board and motherboard
+manufacturers. Our distribution strategy is to work with a small number of
+leading independent CEMs, ODMs, add-in board and motherboard manufacturers, and
+distributors, each of which has relationships with a broad range of system
+builders and leading PC OEMs. If we were to lose sales to our PC OEMs, CEMs,
+ODMs, add-in board and motherboard manufacturers and were unable to replace the
+lost sales with sales to different customers, they were to significantly reduce
+the number of products they order from us, or we were unable to collect accounts
+receivable from them, our revenue may not reach or exceed the expected level in
+any period, which could harm our financial condition and our results of
+operations.
+      
+      
+        
+           
+
+        
+        
+          16
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Any difficulties
+in collecting accounts receivable, including from foreign customers, could harm
+our operating results and financial condition.
+       
+      Our
+accounts receivable are highly concentrated and make us vulnerable to adverse
+changes in our customers' businesses, and to downturns in the industry and the
+worldwide economy.  Two customers accounted for approximately 21% and
+23% of our accounts receivable balance at January 27, 2008 and
+January 28, 2007, respectively.
+      
+      Difficulties
+in collecting accounts receivable or the loss of any significant customer could
+materially and adversely affect our financial condition and results of
+operations. We continue to work directly with more foreign customers and it may
+be difficult to collect accounts receivable from them. We maintain an allowance
+for doubtful accounts for estimated losses resulting from the inability of our
+customers to make required payments. This allowance consists of an amount
+identified for specific customers and an amount based on overall estimated
+exposure. If the financial condition of our customers were to deteriorate,
+resulting in an impairment in their ability to make payments, additional
+allowances may be required, we may be required to defer revenue recognition on
+sales to affected customers, and we may be required to pay higher credit
+insurance premiums, any of which could adversely affect our operating results.
+In the future, we may have to record additional reserves or write-offs and/or
+defer revenue on certain sales transactions which could negatively impact our
+financial results.
+      
+      Risks
+Related to Our Business and Products
+      
+      Our
+failure to estimate customer demand properly could adversely affect our
+financial results.
+      
+      Our
+inventory purchases are based upon future demand forecasts or orders from our
+customers and may not accurately predict the quantity or type of products that
+our customers will want or will ultimately end up purchasing. In forecasting
+demand, we make multiple assumptions any of which may prove to be incorrect.
+Situations that may result in excess or obsolete inventory, which could result
+in write-downs of the value of our inventory and/or a reduction in average
+selling prices, and where our gross margin could be adversely affected
+include:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                if
+      there were a sudden and significant decrease in demand for our
+      products;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                if
+      there were a higher incidence of inventory obsolescence because of rapidly
+      changing technology and customer
+requirements;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                if
+      we fail to estimate customer demand properly for our older products as our
+      newer products are introduced; or
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                if
+      our competition were to take unexpected competitive pricing
+      actions.
+              
+            
+        
+      
+      
+      Conversely,
+if we underestimate our customers’ demand for our products, our third party
+manufacturing partners may not have adequate capacity to increase production for
+us meaning that we may not be able to obtain sufficient inventory to fill our
+customers’ orders on a timely basis. Even if we are able to increase production
+levels to meet customer demand, we may not be able to do so in a cost effective
+or timely manner. Inability to fulfill our customers’ orders on a timely basis,
+or at all, could damage our customer relationships, result in lost revenue,
+cause a loss in market share, impact our customer relationships or damage our
+reputation, any of which could adversely impact our business.
+      
+      
+        
+           
+
+        
+        
+          17
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Because
+we order products or materials in advance of anticipated customer demand our
+ability to reduce our inventory purchase commitments quickly in response to
+lower than expected demand is limited.
+      
+      We
+manufacture our products based on forecasts of customer demand in order to have
+shorter shipment lead times for our customers.  As a result, we may
+build inventories for anticipated periods of growth which do not occur or may
+build inventory anticipating demand for a product that does not
+materialize.  Any inability to sell products to which we have devoted
+resources could harm our business. In addition, cancellation or deferral of
+customer purchase orders could result in our holding excess inventory, which
+could adversely affect our gross margin and restrict our ability to fund
+operations. Additionally, because we often sell a substantial portion of our
+products in the last month of each quarter, we may not be able to reduce our
+inventory purchase commitments in a timely manner in response to customer
+cancellations or deferrals. We could be subject to excess or obsolete
+inventories and be required to take corresponding inventory write-downs if
+growth slows or does not materialize or if we incorrectly forecast product
+demand, which could negatively impact our financial
+results.  
+      
+      Our
+business results could be adversely affected if our product development efforts
+are unsuccessful.
+      
+      In the
+past, we have experienced delays in the development of new products. Any delay
+or failure of our GPUs, our other products, or other technologies to meet or
+exceed specifications of our customers or competitive products could materially
+harm our business if customers do not buy our products. The success of our new
+product introductions will depend on many factors, including the
+following:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                proper
+      new product definition;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                timely
+      completion and introduction of new product
+  designs;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                availability
+      of next-generation software development tools to design, simulate and
+      verify our products;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                our
+      dependence on third-parties to effectively manufacture, assemble, test and
+      package our new products in a timely manner while maintaining product
+      quality;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                differentiation
+      of new products from those of our
+competitors;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                market
+      acceptance of our products and our customers' products;
+  and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                availability
+      of adequate quantity and configurations of various types of memory
+      products.
+              
+            
+        
+      
+      
+      Our
+failure to successfully develop, introduce or achieve market acceptance for new
+processors or other technologies could impact our revenue, gross margin and
+other financial results.
+      
+      Our
+failure to identify new market or product opportunities or to develop new
+products could harm our business.
+      
+      As our
+GPUs and other processors develop and competition increases, we anticipate that
+product life cycles at the high end will remain short and average selling prices
+will decline. In particular, we expect average selling prices and gross margins
+for our processors to decline as each product matures and as unit volume
+increases. As a result, we will need to introduce new products and enhancements
+to existing products to maintain or improve overall average selling prices and
+our gross margin. In order for our processors to achieve high volumes, leading
+PC OEMs, ODMs, and add-in board and motherboard manufacturers must select our
+processors for design into their products, and then successfully complete the
+designs of their products and sell them. We may be unable to successfully
+identify new product opportunities or to develop and bring to market new
+products in a timely fashion. Additionally, we cannot guarantee that new
+products we develop will be selected for design into PC OEMs’, ODMs’, or add-in
+board and motherboard manufacturers’ products, that any new designs will be
+successfully completed, or that any new products will be sold.
+      
+      
+        
+           
+
+        
+        
+          18
+          
+            
+          
+        
+        
+           
+
+        
+      
+      As the
+complexity of our products and the manufacturing process for our products
+increases, there is an increasing risk that we will experience problems with the
+performance of our products and that there will be delays in the development,
+introduction or volume shipment of our products. We may experience difficulties
+related to the production of current or future products or other factors that
+may delay the introduction or volume sale of new products we develop. In
+addition, we may be unable to successfully manage the production transition
+risks with respect to future products. Failure to achieve any of the foregoing
+with respect to future products or product enhancements could result in rapidly
+declining average selling prices, reduced margins and reduced demand for
+products or loss of market share. In addition, products or technologies
+developed by others may render our processors non-competitive or obsolete or
+result in our holding excess inventory, which would harm our
+business.
+      
+      If
+we are unable to achieve design wins, our products may not be adopted by our
+target markets or customers either of which could negatively impact our
+financial results.
+       
+      The
+success of our business depends to a significant extent on our ability to
+develop new competitive products for our target markets and customers. We
+believe achieving design wins, which entails having our existing and future
+products chosen for hardware components or subassemblies designed by OEMs, ODMs,
+add-in board and motherboard manufacturers, are an integral part of our future
+success. Our OEM, ODM, and add-in board and motherboard manufacturers’ customers
+typically introduce new system configurations as often as twice per year,
+typically based on spring and fall design cycles or in connection with trade
+shows. Accordingly, when our customers are making their design decisions, our
+existing products must have competitive performance levels or we must timely
+introduce new products in order to be included in our customers’ new system
+configurations. This requires that we:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                anticipate
+      the features and functionality that customers and consumers will demand;
+       
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                incorporate
+      those features and functionalities into products that meet the exacting
+      design requirements of our customers;
+ 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                price
+      our products competitively; and
+ 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                introduce
+      products to the market within our customers’ limited design cycles.
+       
+              
+            
+        
+      
+       
+      If OEMs,
+ODMs, and add-in board and motherboard manufacturers do not include our products
+in their systems, they will typically not use our products in their systems
+until at least the next design configuration. Therefore, we endeavor to develop
+close relationships with our OEMs and ODMs, in an attempt to better anticipate
+and address customer needs in new products so that we will achieve design
+wins.
+       
+      Our
+ability to achieve design wins also depends in part on our ability to identify
+and be compliant with evolving industry standards. Unanticipated changes in
+industry standards could render our products incompatible with products
+developed by major hardware manufacturers and software developers like Advanced
+Micro Devices Inc., or AMD, Intel and Microsoft Corporation, or
+Microsoft.  If our products are not in compliance with prevailing
+industry standards, we may not be designed into our customers’ product
+designs.  However, to be compliant with changes to industry standards,
+we may have to invest significant time and resources to redesign our products
+which could negatively impact our gross margin or operating results. If we are
+unable to achieve new design wins for existing or new customers, we may lose
+market share and our operating results would be negatively
+impacted.
+      
+      
+        
+           
+
+        
+        
+          19
+          
+            
+          
+        
+        
+           
+
+        
+      
+      We
+may have to invest more resources in research and development than anticipated,
+which could increase our operating expenses and negatively impact our operating
+results.
+      
+      If new
+competitors, technological advances by existing competitors, our entry into new
+markets, or other competitive factors require us to invest significantly greater
+resources than anticipated in our research and development efforts, our
+operating expenses would increase. We have increased our engineering and
+technical resources and had 3,255, 2,668 and 1,654 full-time employees engaged
+in research and development as of January 27, 2008, January 28, 2007 and January
+29, 2006, respectively.  Research and development expenditures were
+$691.6 million, $553.5 million and $357.1 million for fiscal years 2008, 2007
+and 2006, respectively.  Research and development expenses included
+non-cash stock-based compensation expense of $76.6 million and $70.1 million in
+fiscal years 2008 and 2007, respectively, related to non-cash stock based
+compensation, which we began to record in the first quarter of fiscal year 2007
+as a result of our adoption of SFAS No. 123(R). If we are required to invest
+significantly greater resources than anticipated in research and development
+efforts without an increase in revenue, our operating results could decline.
+Research and development expenses are likely to fluctuate from time to time to
+the extent we make periodic incremental investments in research and development
+and these investments may be independent of our level of revenue which could
+negatively impact our financial results. In order to remain competitive, which
+may include entering new markets, we anticipate that we will continue to devote
+substantial resources to research and development, and we expect these expenses
+to increase in absolute dollars in the foreseeable future due to the increased
+complexity and the greater number of products under development as well as
+hiring additional employees.
+      
+      If
+our products contain significant defects our financial results could be
+negatively impacted, our reputation could be damaged and we could lose market
+share.
+      
+      Our
+products are complex and may contain defects or experience failures when first
+introduced or when we release new versions or enhancements. Past products have
+and future products or enhancements may contain defects, errors or
+bugs. Our products typically only go through one verification cycle prior
+to volume production and distribution. As a result, our products may
+contain undetected defects or flaws prior to volume production and
+distribution.  If any of our products or technologies contains a
+defect, compatibility issue or other error, we may have to invest additional
+research and development efforts to find and correct the issue.  Such
+efforts could divert our management’s and engineers’ attention from the
+development of new products and technologies and could increase our operating
+costs and gross margin. Additionally, an error or defect in new products or
+releases or related software drivers after commencement of commercial shipments
+could result in failure to achieve market acceptance or loss of design
+wins. Also, we may be required to reimburse customers for costs to repair
+or replace the products in the field, which could cause our revenue to
+decline. A product recall or a significant number of product returns could
+be expensive, damage our reputation, or result in our customers working with our
+competitors. Costs associated with correcting defects, errors, bugs or
+other issues could be significant and could materially harm our financial
+results. 
+      
+      Because
+our gross margin for any period depends on a number of factors, our failure to
+forecast changes in any of these factors could adversely affect our gross
+margin.
+       
+      We
+continue to pursue improved gross margin. Our gross margin for any period
+depends on a number of factors, including:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      mix of our products sold;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                average
+      selling prices;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                introduction
+      of new products;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                sales
+      discounts;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                unexpected
+      pricing actions by our competitors;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      cost of product components; and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      yield of wafers produced by the foundries that manufacture our
+      products.
+              
+            
+        
+      
+      
+        
+           
+
+        
+        
+          20
+          
+            
+          
+        
+        
+           
+
+        
+      
+      If we do
+not correctly forecast the impact of any of the relevant factors on our
+business, we may not be able to take action in time to counteract any negative
+impact on our gross margin. In addition, if we are unable to meet our gross
+margin target for any period or the target set by analysts, the trading price of
+our common stock may decline.
+      
+      We
+may not be able to realize the potential financial or strategic benefits of
+business acquisitions or strategic investments, which could hurt our ability to
+grow our business, develop new products or sell our products.
+      
+       We
+have acquired and invested in other businesses that offered products, services
+and technologies that we believe will help expand or enhance our existing
+products and business. We may enter into future acquisitions of, or investments
+in, businesses, in order to complement or expand our current businesses or enter
+into a new business market. Negotiations associated with an acquisition or
+strategic investment could divert management’s attention and other company
+resources. Any of the following risks associated with past or future
+acquisitions or investments could impair our ability to grow our business,
+develop new products, our ability to sell our products, and ultimately could
+have a negative impact on our growth or our financial results:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                difficulty
+      in combining the technology, products, operations or workforce of the
+      acquired business with our
+business;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                difficulty
+      in operating in a new or multiple new
+locations;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                disruption
+      of our ongoing businesses;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                disruption
+      of the ongoing business of the company we invest in or
+      acquire;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                difficulty
+      in realizing the potential financial or strategic benefits of the
+      transaction;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                difficulty
+      in maintaining uniform standards, controls, procedures and
+      policies;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                disruption
+      of or delays in ongoing research and development
+  efforts;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                diversion
+      of capital and other resources;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                assumption
+      of liabilities;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                diversion
+      of resources and unanticipated expenses resulting from litigation
+      arising from potential or actual business acquisitions or
+      investments;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                difficulties
+      in entering into new markets in which we have limited or no experience and
+      where competitors in such markets have stronger positions;
+    and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                impairment
+      of relationships with employees and customers, or the loss of any of our
+      key employees or customers of our target’s key employees or customers, as
+      a result of our acquisition or
+investment.
+              
+            
+        
+      
+       
+      In
+addition, the consideration for any future acquisition could be paid in cash,
+shares of our common stock, the issuance of convertible debt securities or a
+combination of cash, convertible debt and common stock. If we make an investment
+in cash or use cash to pay for all or a portion of an acquisition, our cash
+reserves would be reduced which could negatively impact the growth of our
+business or our ability to develop new products. However, if we pay the
+consideration with shares of common stock, or convertible debentures, the
+holdings of our existing stockholders would be diluted. We cannot forecast the
+number, timing or size of future strategic investments or acquisitions, or the
+effect that any such investments or acquisitions might have on our operations or
+financial results.
+      
+      
+        
+           
+
+        
+        
+          21
+          
+            
+          
+        
+        
+           
+
+        
+      
+      We
+are dependent on key employees and the loss of any of these employees could
+negatively impact our business.
+      
+      Our
+future success and ability to compete is substantially dependent on our ability
+to identify, hire, train and retain highly qualified key
+personnel.  The market for key employees in the semiconductor industry
+can be competitive.  None of our key employees is bound by an
+employment agreement, meaning our relationships with all of our key employees
+are at will.  The loss of the services of any of these employees without an
+adequate replacement or our inability to hire new employees as needed could
+delay our product development efforts, harm our ability to sell our products or
+otherwise negatively impact our business.
+      
+      Our
+operating expenses are relatively fixed and we may not be able to reduce
+operating expenses quickly in response to any revenue shortfalls.
+      
+      Our
+operating expenses, which are comprised of research and development expenses and
+sales, general and administrative expenses, represented 25%, 28% and 24% of our
+total revenue during fiscal years 2008, 2007 and 2006,
+respectively.  Operating expenses included non-cash stock-based
+compensation expense of $122.5 million and $108.5 million in fiscal years 2008
+and 2007, respectively, related to non-cash stock based compensation which we
+began to record in the first quarter of fiscal year 2007 as a result of our
+adoption of Statement of Financial Accounting Standards No. 123(R), or SFAS No.
+123(R), Share-Based
+Payment. Since
+we often recognize a substantial portion of our revenue in the last month of
+each quarter, we may not be able to adjust our operating expenses in a timely
+manner in response to any unanticipated revenue shortfalls. Further, some of our
+operating expenses, like non-cash stock-based compensation expense can only be
+adjusted over a longer period of time and cannot be reduced during a
+quarter.  If we are unable to reduce operating expenses quickly in
+response to any revenue shortfalls, our financial results would be negatively
+impacted.
+      
+      Expensing
+employee stock options materially and adversely affects our reported operating
+results and could also adversely affect our competitive position.
+      
+      Since
+inception, we have used stock options and our employee stock purchase program as
+fundamental components of our compensation packages. We believe that these
+incentives directly motivate our employees and, through the use of vesting,
+encourage our employees to remain with us. As a result of adjustments
+arising from our restatement related to stock option grant dates, our operating
+results for fiscal years prior to fiscal year 2007 contain recorded amounts of
+stock-based compensation expense. For our fiscal years 2000 through 2006, this
+stock-based compensation expense was calculated using primarily the intrinsic
+value-based method under Accounting Principles Board Opinion No. 25, or APB 25,
+Accounting for Stock Issued to
+Employees and related interpretations.
+      
+      In
+December 2004, the Financial Accounting Standards Board, or FASB,
+issued SFAS No. 123(R) which requires the measurement and recognition
+of compensation expense for all stock-based compensation payments.  SFAS
+No. 123(R) requires that we record compensation expense for stock options and
+our employee stock purchase plan using the fair value of those awards. During
+the fiscal years 2008 and 2007 we recorded $133.4 million and $116.7 million,
+respectively, related to non-cash stock-based compensation, resulting from our
+compliance with SFAS No. 123(R), which negatively impacted our operating
+results. We believe that SFAS No. 123(R) will continue to negatively impact our
+operating results.
+      
+      To the
+extent that SFAS No. 123(R) makes it more expensive to grant stock options or to
+continue to have an employee stock purchase program, we may decide to incur
+increased cash compensation costs. In addition, actions that we may take to
+reduce stock-based compensation expense that may be more severe than any actions
+our competitors may implement and may make it difficult to attract retain and
+motivate employees, which could adversely affect our competitive position as
+well as our business and operating results.
+      
+        
+           
+
+        
+        
+          22
+          
+            
+          
+        
+        
+           
+
+        
+      
+      We
+may be required to record a charge to earnings if our goodwill or amortizable
+intangible assets become impaired, which could negatively impact our operating
+results.
+      
+      Under
+accounting principles generally accepted in the United States, we review our
+amortizable intangible assets and goodwill for impairment when events or changes
+in circumstances indicate the carrying value may not be recoverable. Goodwill is
+tested for impairment at least annually. The carrying value of our goodwill or
+amortizable assets may not be recoverable due to factors such as a decline in
+stock price and market capitalization, reduced estimates of future cash flows
+and slower growth rates in our industry or in any of our business units.
+Estimates of future cash flows are based on an updated long-term financial
+outlook of our operations. However, actual performance in the near-term or
+long-term could be materially different from these forecasts, which could impact
+future estimates. For example, if one of our business units does not meet its
+near-term and longer-term forecasts, the goodwill assigned to the business unit
+could be impaired. We may be required to record a charge to earnings in our
+financial statements during a period in which an impairment of our goodwill or
+amortizable intangible assets is determined to exist, which may negatively
+impact our results of operations.
+      
+      Our
+operating results are unpredictable and may fluctuate, and if our operating
+results are below the expectations of securities analysts or investors, the
+trading price of our stock could decline.
+       
+      Many of
+our revenue components fluctuate and are difficult to predict, and our operating
+expenses are largely independent of revenue. Therefore, it is difficult for us
+to accurately forecast revenue and profits or losses in any particular
+period.
+      
+      Any one
+or more of the risks discussed in this Form 10-K or other factors could prevent
+us from achieving our expected future revenue or net income. Accordingly, we
+believe that period-to-period comparisons of our results of operations should
+not be relied upon as an indication of future performance. Similarly, the
+results of any quarterly or full fiscal year period are not necessarily
+indicative of results to be expected for a subsequent quarter or a full fiscal
+year.
+      
+      As a
+result, it is possible that in some quarters our operating results could be
+below the expectations of securities analysts or investors, which could cause
+the trading price of our common stock to decline. We believe that our quarterly
+and annual results of operations may continue to be affected by a variety of
+factors that could harm our revenue, gross profit and results of
+operations.
+      
+      Risks
+related to Market Conditions
+      
+      We
+are exposed to fluctuations in the market values of our portfolio investments
+and in interest rates.
+       
+       At
+January 27, 2008 and January 28, 2007, we had $1.81 billion and $1.12 billion,
+respectively, in cash, cash equivalents and marketable securities.  We
+invest in a variety of financial instruments, consisting principally of cash and
+cash equivalents, asset-backed securities, commercial paper, mortgage-backed
+securities issued by Government-sponsored enterprises, equity securities, money
+market funds and highly liquid debt securities of corporations, municipalities
+and the United States government and its agencies. As of January 27, 2008,
+we did not have any investments in auction-rate preferred securities. These
+investments are denominated in United States dollars.
+       
+      
+        
+           
+
+        
+        
+          23
+          
+            
+          
+        
+        
+           
+
+        
+      
+      We
+account for our investment instruments in accordance with Statement of Financial
+Accounting Standards No. 115, or SFAS No. 115, Accounting for Certain Investments
+in Debt and Equity Securities. All of the cash equivalents and marketable
+securities are treated as “available-for-sale” under SFAS No. 115. Investments
+in both fixed rate and floating rate interest earning instruments carry a degree
+of interest rate risk. Fixed rate debt securities may have their market value
+adversely impacted due to a rise in interest rates, while floating rate
+securities may produce less income than expected if interest rates fall. Due in
+part to these factors, our future investment income may fall short of
+expectations due to changes in interest rates or if the decline in fair value of
+our publicly traded debt or equity investments is judged to be
+other-than-temporary. We may suffer losses in principal if we are forced to sell
+securities that decline in market value due to changes in interest rates.
+However, because any debt securities we hold are classified as
+“available-for-sale,” no gains or losses are realized in income statement
+due to changes in interest rates unless such securities are sold prior to
+maturity or unless declines in value are determined to be
+other-than-temporary. These securities are reported at fair value with the
+related unrealized gains and losses included in accumulated other comprehensive
+income, a component of stockholders’ equity, net of tax.
+      
+      Recent
+U.S. sub-prime mortgage defaults have had a significant impact across various
+sectors of the financial markets, causing global credit and liquidity issues.
+The short-term funding markets experienced issues during the third and fourth
+quarter of calendar 2007, leading to liquidity disruption in the market. If the
+global credit market continues to deteriorate, our investment portfolio may be
+impacted and we could determine some of our investments are impaired, which
+could adversely impact our financial results. As of January 27, 2008, we did not
+have any issuer concentration in excess of 10% of our investment portfolio.
+However, our investments in the financial sector and government agencies
+accounted for approximately 46% and 22%, respectively, of our total investment
+portfolio. If the fair value of our investments in these sectors was to decline
+by 2%-5%, it would result in changes in fair market values for these investments
+by approximately $22-$54 million.
+      
+      We
+are subject to risks associated with international operations which may harm our
+business.
+       
+      We
+conduct our business worldwide.  Our semiconductor wafers are
+manufactured, assembled, tested and packaged by third-parties located outside of
+the United States. We generated 89%, 86% and 84% of total revenues for fiscal
+years 2008, 2007 and 2006, respectively, from sales to customers outside the
+United States and other Americas. As of January 27, 2008, we had offices in
+twelve countries outside of the United States.  The manufacture,
+assembly, test and packaging of our products outside of the United States,
+operation of offices outside of the United States, and sales to customers
+internationally subjects us to a number of risks, including:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                international
+      economic and political conditions, such as political tensions between
+      countries in which we do business;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                unexpected
+      changes in, or impositions of, legislative or regulatory requirements;
+       
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                complying
+      with a variety of foreign laws;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                differing
+      legal standards with respect to protection of intellectual property and
+      employment practices;  
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                cultural
+      differences in the conduct of
+business; 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                inadequate
+      local infrastructure that could result in business
+      disruptions; 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                exporting
+      or importing issues related to export or import restrictions, tariffs,
+      quotas and other trade barriers and
+  restrictions; 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                financial
+      risks such as longer payment cycles, difficulty in collecting accounts
+      receivable and fluctuations in currency exchange
+  rates;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                imposition
+      of additional taxes and
+penalties; and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                other
+      factors beyond our control such as terrorism, civil unrest, war and
+      diseases such as severe acute respiratory syndrome and the Avian flu.
+       
+              
+            
+        
+      
+      
+      If sales
+to any of our customers outside of the United States and other Americas are
+delayed or cancelled because of any of the above factors, our revenue may be
+negatively impacted.
+      
+        
+           
+
+        
+        
+          24
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Our
+international operations in Australia, Taiwan, Japan, Korea, China, Hong Kong,
+India, France, Russia, Germany, Finland and the United Kingdom are subject to
+many of the above listed risks. We intend to continue to expand our existing
+operations and expect to open other international offices. Difficulties with our
+international operations, including finding appropriate staffing and office
+space, may divert management’s attention and other resources any of which could
+negatively impact our operating results.
+      
+      The
+economic conditions in our primary overseas markets, particularly in Asia, may
+negatively impact the demand for our products abroad. All of our international
+sales to date have been denominated in United States dollars. Accordingly,
+an increase in the value of the United States dollar relative to foreign
+currencies could make our products less competitive in international markets or
+require us to assume the risk of denominating certain sales in foreign
+currencies. We anticipate that these factors will impact our business to a
+greater degree as we further expand our international business
+activities.
+      
+      If
+our products do not continue to be adopted by the desktop PC, notebook PC,
+workstation, high-performance computing, PMP, PDA, cellular handheld devices,
+and video game console markets or if the demand for new and innovative products
+in these markets decreases, our business and operating results would
+suffer.
+      
+      Our
+success depends in part upon continued broad adoption of our processors for 3D
+graphics and multimedia in desktop PC, notebook PC, workstation,
+high-performance computing, PMP, PDA, cellular handheld devices, and video game
+console applications. The market for processors has been characterized by
+unpredictable and sometimes rapid shifts in the popularity of products, often
+caused by the publication of competitive industry benchmark results, changes in
+pricing of dynamic random-access memory devices and other changes in the total
+system cost of add-in boards, as well as by severe price competition and by
+frequent new technology and product introductions. Broad market acceptance is
+difficult to achieve and such market acceptance, if achieved, is difficult to
+sustain due to intense competition and frequent new technology and product
+introductions. Our GPU and MCP businesses together comprised of approximately
+79%, 77% and 74% of revenue for fiscal years 2008, 2007 and 2006, respectively.
+As such, our financial results would suffer if for any reason our current or
+future GPUs or MCPs do not continue to achieve widespread adoption by the PC
+market. If we are unable to complete the timely development of new products or
+if we were unable to successfully and cost-effectively manufacture and deliver
+products that meet the requirements of the desktop PC, notebook PC, workstation,
+high-performance computing, PMP, PDA, cellular phone, and video game console
+markets, we may experience a decrease in revenue which could negatively impact
+our operating results.
+      
+      Additionally,
+there can be no assurance that the industry will continue to demand new products
+with improved standards, features or performance. If our customers, OEMs, ODMs,
+add-in-card and motherboard manufacturers, system builders and consumer
+electronics companies, do not continue to design products that require more
+advanced or efficient processors and/or the market does not continue to demand
+new products with increased performance, features, functionality or standards,
+sales of our products could decline. Decreased sales of our products for these
+markets could negatively impact our revenue and our financial
+results.
+      
+      We
+are dependent on the PC market and its rate of growth in the future may have a
+negative impact on our business.
+      
+      We derive
+and expect to continue to derive the majority of our revenue from the sale
+or license of products for use in the desktop PC and notebook PC markets,
+including professional workstations. A reduction in sales of PCs, or a reduction
+in the growth rate of PC sales, may reduce demand for our products. These
+changes in demand could be large and sudden. Since PC manufacturers often build
+inventories during periods of anticipated growth, they may be left with excess
+inventories if growth slows or if they incorrectly forecast product transitions.
+In these cases, PC manufacturers may abruptly suspend substantially all
+purchases of additional inventory from suppliers like us until their excess
+inventory has been absorbed, which would have a negative impact on our financial
+results.
+      
+        
+           
+
+        
+        
+          25
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Our
+business is cyclical in nature and an industry downturn could harm our financial
+results.
+      
+      Our
+business is directly affected by market conditions in the highly cyclical
+semiconductor industry, including alternating periods of overcapacity and
+capacity constraints, variations in manufacturing costs and yields, significant
+expenditures for capital equipment and product development, and rapid
+technological change. If we are unable to respond to changes in our industry,
+which can be unpredictable and rapid, in an efficient and timely manner, our
+operating results could suffer. In particular, from time to time, the
+semiconductor industry has experienced significant and sometimes prolonged
+downturns characterized by diminished product demand, increased inventory levels
+and accelerated erosion of average selling prices. If we cannot take appropriate
+actions such as reducing our manufacturing or operating costs to sufficiently
+offset declines in demand, increased inventories, or decreased selling prices
+during a downturn, our revenue and operating results will suffer.
+      
+      Risks
+Related to Regulatory and other Legal Matters
+      
+      The
+United States Department of Justice’s pending investigation into the market
+for graphics processors and the ongoing civil actions could adversely affect our
+business.
+      
+      On
+November 29, 2006, we received a subpoena from the San Francisco Office of the
+Antitrust Division of the United States Department of Justice, or DOJ, in
+connection with the DOJ's investigation into potential antitrust violations
+related to GPUs and cards. No specific allegations have been made against us. We
+are cooperating with the DOJ in its investigation.
+      
+      As of
+March 5, 2008, 55 civil complaints have been filed against us. The majority of
+the complaints were filed in the Northern District of California, several were
+filed in the Central District of California, and other cases were filed in
+several other Federal district courts.  On April 18, 2007, the
+Judicial Panel on Multidistrict Litigation transferred the actions currently
+pending outside of the Northern District of California to the Northern District
+of California for coordination of pretrial proceedings before the Honorable
+William H. Alsup.  By agreement of the parties, Judge Alsup will
+retain jurisdiction over the consolidated cases through trial or other
+resolution.
+      
+      In the
+consolidated proceedings, two groups of plaintiffs (one representing all direct
+purchasers of graphic processing units, or GPUs, and the other representing all
+indirect purchasers) filed consolidated, amended class-action complaints. These
+complaints purport to assert federal antitrust claims based on alleged price
+fixing, market allocation, and other alleged anti-competitive agreements between
+us and ATI Technologies, Inc., or ATI and AMD, as a result of its acquisition of
+ATI.  The indirect purchasers’ consolidated amended complaint also
+asserts a variety of state law antitrust, unfair competition and consumer
+protection claims on the same allegations, as well as a common law claim for
+unjust enrichment.
+      
+      Plaintiffs
+filed their first consolidated complaints on June 14, 2007.  On July
+16, 2007, we moved to dismiss those complaints.  The motions to
+dismiss were heard by Judge Alsup on September 20, 2007.  The Court
+subsequently granted and denied the motions in part, and gave the
+plaintiffs leave to move to amend the complaints.  On November 7,
+2007, the Court granted plaintiffs’ motion to file amended complaints, ordered
+defendants to answer the complaints, lifted a previously entered stay on
+discovery, and set a trial date for January 12, 2009.  Discovery is
+underway and plaintiffs are currently required to file any motion for class
+certification by April 24, 2008.  We believe the allegations in
+the complaints are without merit and intend to vigorously defend the
+cases.  Costs of defense and any damages resulting from a ruling
+against us or a settlement of the litigation could adversely affect our
+business.  
+      
+      
+        
+           
+
+        
+        
+          26
+          
+            
+          
+        
+        
+           
+
+        
+      
+      The
+matters relating to the Board’s review of our historical stock option granting
+practices and the restatement of our consolidated financial statements have
+resulted in litigation, which could harm our financial results.
+      
+      On August
+10, 2006, we announced that the Audit Committee of our Board, with the
+assistance of outside legal counsel, was conducting a review of our stock option
+practices covering the time from our initial public offering in 1999, our fiscal
+year 2000, through June 2006. The Audit Committee reached the conclusion that
+incorrect measurement dates were used for financial accounting purposes for
+stock option grants in certain prior periods. As a result, we recorded
+additional non-cash stock-based compensation expense, and related tax effects,
+related to stock option grants.
+      
+      The Audit
+Committee’s review of our historic stock option practices identified a number of
+occasions on which the measurement date used for financial accounting and
+reporting purposes for stock options granted to certain of our employees was
+different from the actual grant date. To correct these accounting errors, we
+amended our Annual Report on Form 10-K for the year ended January 29, 2006 and
+our Quarterly Report on Form 10-Q for the three months ended April 30, 2006 to
+restate the consolidated financial statements contained in those
+reports.  This review of our historical stock option granting
+practices and subsequent restatement required us to incur substantial expenses
+for legal, accounting, tax and other professional services and diverted our
+management’s attention from our business.
+      
+      Additionally,
+the review and the resulting restatement of our prior financial statements have
+exposed us to greater risks associated with litigation. Ten derivative
+complaints have been filed in state and federal court pertaining to allegations
+relating to stock option grants. We cannot assure you that these or future
+similar complaints, or any future litigation or regulatory action will result in
+the same conclusions reached by the Audit Committee. On August 5, 2007, our
+Board authorized the formation of a Special Litigation Committee to investigate,
+evaluate, and make a determination as to how we should proceed with respect to
+the claims and allegations asserted in the underlying derivative cases brought
+on behalf of NVIDIA.  Currently, the Special Litigation Committee’s
+review is ongoing.  The conduct and resolution of these matters will
+be time consuming, expensive and could distract our management’s attention from
+the conduct of our business.  Furthermore, if we are subject to
+adverse rulings, we could be required to pay damages or penalties or have other
+remedies imposed upon us which could harm our business, financial condition,
+results of operations and cash flows.
+      
+      Our
+ability to compete will be harmed if we are unable to adequately protect our
+intellectual property.
+      
+      We rely primarily on a combination of
+patents, trademarks, trade secrets, employee and third-party nondisclosure
+agreements, and licensing arrangements to protect our intellectual property in
+the United States and internationally. We have numerous patents issued, allowed
+and pending in the United States and in foreign jurisdictions. Our patents and
+pending patent applications primarily relate to our products and the technology
+used in connection with our products. We also rely on international treaties,
+organizations and foreign laws to protect our intellectual property. The laws of
+certain foreign countries in which our products are or may be manufactured or
+sold, including various countries in Asia, may not protect our products or
+intellectual property rights to the same extent as the laws of the United
+States. This makes the possibility of piracy of our technology and products more
+likely. We continuously assess whether and where to seek formal protection for
+particular innovations and technologies based on such factors
+as: 
+       
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      commercial significance of our operations and our competitors’ operations
+      in particular countries and
+regions; 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      location in which our products are manufactured;
+   
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                our
+      strategic technology or product directions in different countries; and
+       
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      degree to which intellectual property laws exist and are meaningfully
+      enforced in different
+jurisdictions. 
+              
+            
+        
+      
+       
+      
+        
+           
+
+        
+        
+          27
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Our
+pending patent applications and any future applications may not be approved. In
+addition, any issued patents may not provide us with competitive advantages or
+may be challenged by third parties. The enforcement of patents by others may
+harm our ability to conduct our business. Others may independently develop
+substantially equivalent intellectual property or otherwise gain access to our
+trade secrets or intellectual property. Our failure to effectively protect our
+intellectual property could harm our business.
+      
+      Litigation
+to defend against alleged infringement of intellectual property rights or to
+enforce our intellectual property rights and the outcome of such litigation
+could result in substantial costs to us.
+      
+      We expect
+that as the number of issued hardware and software patents increases and as
+competition intensifies, the volume of intellectual property infringement claims
+and lawsuits may increase. We may become involved in lawsuits or other legal
+proceedings alleging patent infringement or other intellectual property rights
+violations by us or by our customers that we have agreed to indemnify them for
+certain claims of infringement. An unfavorable ruling could include significant
+damages, invalidation of a patent or family of patents, indemnification of
+customers, payment of lost profits, or, when it has been sought, injunctive
+relief.
+      
+      In
+addition, we may need to commence litigation or other legal proceedings in order
+to:
+       
+      
+        
+            
+              
+                ·  
+              
+              
+                assert
+      claims of infringement of our intellectual
+  property;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                enforce
+      our patents;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                protect
+      our trade secrets or know-how; or
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                determine
+      the enforceability, scope and validity of the propriety rights of
+      others.
+              
+            
+        
+      
+       
+      If we
+have to initiate litigation in order to protect our intellectual property, our
+operating expenses may increase which could negatively impact our operating
+results. Our failure to effectively protect our intellectual property could harm
+our business.
+      
+      If
+infringement claims are made against us or our products are found to
+infringe a third parties’ patent or intellectual property, we or one of our
+indemnified customers may have to seek a license to the third parties’ patent or
+other intellectual property rights. However, we may not be able to obtain
+licenses at all or on terms acceptable to us particularly from our competitors.
+If we or one of our indemnified customers is unable to obtain a license from a
+third party for technology that we use or that is used in one of our products,
+we could be subject to substantial liabilities or have to suspend or discontinue
+the manufacture and sale of one or more of our products.  We may also
+have to make royalty or other payments, or cross license our technology. If
+these arrangements are not concluded on commercially reasonable terms, our
+business could be negatively impacted. Furthermore, the indemnification of a
+customer may increase our operating expenses which could negatively impact our
+operating results.
+      
+      We
+are a party to litigation, which, if determined adversely to us, could adversely
+affect our cash flow and financial results.
+      
+      We are a
+party to litigation. There can be no assurance that any litigation to which we
+are a party will be resolved in our favor. Any claim that is successfully
+asserted against us may cause us to pay substantial damages, including punitive
+damages, and other related fees. Regardless of whether lawsuits are resolved in
+our favor or if we are the plaintiff or the defendant in the litigation, any
+lawsuits to which we are a party will likely be expensive and time consuming to
+defend or resolve. Such lawsuits could also harm our relationships with existing
+customers and result in the diversion of management’s time and attention away
+from business operations, which could harm our business. Costs of defense and
+any damages resulting from litigation, a ruling against us, or a settlement of
+the litigation could adversely affect our cash flow and financial
+results.
+      
+      
+        
+           
+
+        
+        
+          28
+          
+            
+          
+        
+        
+           
+
+        
+      
+      Our
+operating results may be adversely affected if we are subject to unexpected tax
+liabilities.
+      
+      We are
+subject to taxation by a number of taxing authorities both in the United States
+and throughout the world. Tax rates vary among the jurisdictions in which we
+operate. Significant judgment is required in determining our provision for our
+income taxes as there are many transactions and calculations where the ultimate
+tax determination is uncertain. Although we believe our tax estimates are
+reasonable, any of the below could cause our effective tax rate to be materially
+different than that which is reflected in historical income tax provisions and
+accruals:
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      jurisdictions in which profits are determined to be earned and
+      taxed;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                adjustments
+      to estimated taxes upon finalization of various tax
+    returns;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                changes
+      in available tax credits;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                changes
+      in share-based compensation
+expense;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                changes
+      in tax laws, the interpretation of tax laws either in the United States or
+      abroad or the issuance of new interpretative accounting guidance related
+      to uncertain transactions and calculations where the tax treatment was
+      previously uncertain; and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      resolution of issues arising from tax audits with various tax
+      authorities.
+              
+            
+        
+      
+      
+      Should
+additional taxes be assessed as a result of any of the above, our operating
+results could be adversely affected. In addition, our future effective tax rate
+could be adversely affected by changes in the mix of earnings in countries with
+differing statutory tax rates, changes in tax laws or changes in the
+interpretation of tax laws.
+      
+      Our
+failure to comply with any applicable environmental regulations could result in
+a range of consequences, including fines, suspension of production, excess
+inventory, sales limitations, and criminal and civil liabilities.
+      
+      We are
+subject to various state, federal and international laws and regulations
+governing the environment, including restricting the presence of certain
+substances in electronic products and making producers of those products
+financially responsible for the collection, treatment, recycling and disposal of
+those products. For example, we are subject to the European Union Directive on
+Restriction of Hazardous Substances Directive, or RoHS Directive, that restricts
+the use of a number of substances, including lead, and other hazardous
+substances in electrical and electronic equipment in the market in the European
+Union.    We could face significant costs and liabilities in
+connection with the European Union Directive on Waste Electrical and Electronic
+Equipment, or WEEE. The WEEE directs members of the European Union to enact
+laws, regulations, and administrative provisions to ensure that producers of
+electric and electronic equipment are financially responsible for the
+collection, recycling, treatment and environmentally responsible disposal of
+certain products sold into the market after August 15, 2005.
+      
+      It is
+possible that unanticipated supply shortages, delays or excess non-compliant
+inventory may occur as a result of the RoHS Directive, WEEE, and other
+domestic or international environmental regulations. Failure to comply with any
+applicable environmental regulations could result in a range of consequences
+including costs, fines, suspension of production, excess inventory, sales
+limitations, criminal and civil liabilities and could impact our ability to
+conduct business in the countries or states that have adopted these types of
+regulations.
+        
+      
+        
+           
+
+        
+        
+          29
+          
+            
+          
+        
+        
+           
+
+        
+      
+      While we believe that we have
+adequate internal control over financial reporting, if we or our independent
+registered public accounting firm determines that we do not, our reputation may
+be adversely affected and our stock price may decline. 
+      
+      Section 404
+of the Sarbanes-Oxley Act of 2002 requires our management to report on, and our
+independent registered public accounting firm to audit the effectiveness of our
+internal control structure and procedures for financial reporting. We have an
+ongoing program to perform the system and process evaluation and testing
+necessary to comply with these requirements. However, the manner in which
+companies and their independent public accounting firms apply these requirements
+and testing companies’ internal controls, remains subject to some judgment. To
+date, we have incurred, and we expect to continue to incur increased expense and
+to devote additional management resources to Section 404 compliance.
+Despite our efforts, if we identify a material weakness in our internal
+controls, there can be no assurance that we will be able to remediate that
+material weakness in a timely manner, or that we will be able to maintain all of
+the controls necessary to determine that our internal control over financial
+reporting is effective. In the event that our chief executive officer, chief
+financial officer or our independent registered public accounting firm determine
+that our internal control over financial reporting is not effective as defined
+under Section 404, investor perceptions of us may be adversely affected and
+could cause a decline in the market price of our stock.
+      
+      Changes in financial accounting
+standards or interpretations of existing standards could affect our reported
+results of operations.
+       
+         We prepare our
+consolidated financial statements in conformity with generally accepted
+accounting principles in the United States.  These principles are
+constantly subject to review and interpretation by the Securities and Exchange
+Commission, or, SEC, and various bodies formed to interpret and create
+appropriate accounting principles. A change in these principles can have a
+significant effect on our reported results and may even retroactively affect
+previously reported transactions.
+      
+      Provisions in our certificate of
+incorporation, our bylaws and our agreement with Microsoft could delay or
+prevent a change in control.  
+      
+      Our
+certificate of incorporation and bylaws contain provisions that could make it
+more difficult for a third party to acquire a majority of our outstanding voting
+stock. These provisions include the following:
+       
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      ability of our Board to create and issue preferred stock without prior
+      stockholder approval; 
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                the
+      prohibition of stockholder action by written
+  consent;
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                a
+      classified Board; and
+              
+            
+        
+      
+      
+        
+            
+              
+                ·  
+              
+              
+                advance
+      notice requirements for director nominations and stockholder
+      proposals.
+              
+            
+        
+      
+      
+      On March
+5, 2000, we entered into an agreement with Microsoft in which we agreed to
+develop and sell graphics chips and to license certain technology to Microsoft
+and its licensees for use in the Xbox. Under the agreement, if an individual or
+corporation makes an offer to purchase shares equal to or greater than 30% of
+the outstanding shares of our common stock, Microsoft may have first and last
+rights of refusal to purchase the stock. The Microsoft provision and the other
+factors listed above could also delay or prevent a change in control of
+NVIDIA.
+      
+        
+           
+
+        
+        
+          30
+          
+            
+          
+        
+        
+           
+
+        
+        
+     
+    ITEM 1B

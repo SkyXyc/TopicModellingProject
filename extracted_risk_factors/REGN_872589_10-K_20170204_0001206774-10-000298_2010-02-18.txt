@@ -1,0 +1,1422 @@
+ITEM 1A. RISK FACTORS
+     
+         We operate in an environment that involves a
+number of significant risks and uncertainties. We caution you to read the
+following risk factors, which have affected, and/or in the future could affect,
+our business, operating results, financial condition, and cash flows. The risks
+described below include forward-looking statements, and actual events and our
+actual results may differ substantially from those discussed in these
+forward-looking statements. Additional risks and uncertainties not currently
+known to us or that we currently deem immaterial may also impair our business
+operations. Furthermore, additional risks and uncertainties are described under
+other captions in this report and should be considered by our
+investors.
+     
+    Risks Related to Our Financial Results and
+Need for Additional Financing
+     
+    We have had a history of operating losses and we may never achieve
+profitability. If we continue to incur operating losses, we may be unable to
+continue our operations.
+     
+         From inception on January 8, 1988 through
+December 31, 2009, we had a cumulative loss of $941.1 million. If we continue to
+incur operating losses and fail to become a profitable company, we may be unable
+to continue our operations. In the absence of substantial revenue from the sale
+of products or other sources, the amount, timing, nature or source of which
+cannot be predicted, our losses will continue as we conduct our research and
+development activities. 
+     
+    We may need additional funding in the future, which may not be available
+to us, and which may force us to delay, reduce or eliminate our product
+development programs or commercialization efforts.
+     
+         We will need to expend substantial resources
+for research and development, including costs associated with clinical testing
+of our product candidates. We believe our existing capital resources, including
+funding we are entitled to receive under our collaboration agreements, will
+enable us to meet operating needs through at least 2012; however, one or more of
+our collaboration agreements may terminate, our projected revenue may decrease,
+or our expenses may increase and that would lead to our capital being consumed
+significantly before such time. We may require additional financing in the
+future and we may not be able to raise such additional funds. If we are able to
+obtain additional financing through the sale of equity or convertible debt
+securities, such sales may be dilutive to our shareholders. Debt financing
+arrangements may require us to pledge certain assets or enter into covenants
+that would restrict our business activities or our ability to incur further
+indebtedness and may contain other terms that are not favorable to our
+shareholders. If we are unable to raise sufficient funds to complete the
+development of our product candidates, we may face delay, reduction or
+elimination of our research and development programs or preclinical or clinical
+trials, in which case our business, financial condition or results of operations
+may be materially harmed.
+     
+    The value of our investment portfolio, which includes cash, cash
+equivalents, and marketable securities, is influenced by varying economic and
+market conditions. A decrease in the value of an asset in our investment
+portfolio or a default by the issuer may result in our inability to recover the
+principal we invested and/or a recognition of a loss charged against
+income.
+     
+         As of December 31, 2009, cash, cash
+equivalents, restricted cash, and marketable securities totaled $390.0 million
+and represented 53% of our total assets. We have invested our excess cash
+primarily in direct obligations of the U.S. government and its agencies, other
+debt securities guaranteed by the U.S. government, and money market funds that
+invest in U.S. Government securities and, to a lesser extent, investment grade
+debt securities issued by corporations, bank deposits, and asset-backed
+securities. We consider assets classified as marketable securities to be
+“available-for-sale,” as defined by FASB authoritative guidance. Marketable
+securities totaled $181.3 million at December 31, 2009, are carried at fair
+value, and the unrealized gains and losses are included in other accumulated
+
+     
+    14
+     
+    
+    
+    
+    comprehensive income
+(loss) as a separate component of stockholders’ equity. If the decline in the
+value of a security in our investment portfolio is deemed to be
+other-than-temporary, we write down the security to its current fair value and
+recognize a loss which may be fully charged against income. For example, we
+recognized other-than-temporary impairment charges related to certain marketable
+securities of $5.9 million, $2.5 million and $0.1 million in 2007, 2008, and
+2009, respectively. The current economic environment, the deterioration in the
+credit quality of some of the issuers of securities that we hold, and the recent
+volatility of securities markets increase the risk that we may not recover the
+principal we invested and/or there may be further declines in the market value
+of securities in our investment portfolio. As a result, we may incur additional
+charges against income in future periods for other-than-temporary impairments or
+realized losses upon a security’s sale or maturity, and such amounts may be
+material.
+     
+    Risks Related to ARCALYST® (rilonacept) and the
+Development of Our Product Candidates
+     
+    Successful development of any of our product candidates is highly
+uncertain.
+     
+         Only a small minority of all research and
+development programs ultimately result in commercially successful drugs. Even if
+clinical trials demonstrate safety and effectiveness of any of our product
+candidates for a specific disease and the necessary regulatory approvals are
+obtained, the commercial success of any of our product candidates will depend
+upon their acceptance by patients, the medical community, and third-party payers
+and on our partners’ ability to successfully manufacture and commercialize our
+product candidates. Our product candidates are delivered either by intravenous
+infusion or by intravitreal or subcutaneous injections, which are generally less
+well received by patients than tablet or capsule delivery. If our products are
+not successfully commercialized, we will not be able to recover the significant
+investment we have made in developing such products and our business would be
+severely harmed.
+     
+         We are testing aflibercept, VEGF Trap-Eye, and
+rilonacept in a number of late-stage clinical trials. Clinical trials may not
+demonstrate statistically sufficient effectiveness and safety to obtain the
+requisite regulatory approvals for these product candidates. In a number of
+instances, we have terminated the development of product candidates due to a
+lack of or modest effectiveness.
+     
+         Aflibercept is in Phase 3 clinical trials in
+combination with standard chemotherapy regimens for the treatment of 2nd line metastatic
+colorectal cancer, 1st line androgen
+independent prostate cancer, and 2nd line metastatic
+non-small cell lung cancer. Aflibercept may not demonstrate the required safety
+or efficacy to support an application for approval in any of these indications.
+We do not have proof of concept data from early-stage, double-blind, controlled
+clinical trials that aflibercept will be safe or effective in any of these
+cancer settings. 
+     
+         We are testing VEGF Trap-Eye in Phase 3 trials
+for the treatment of wet AMD and the treatment of Central Retinal Vein Occlusion
+(CRVO). Although we reported positive Phase 2 trial results with VEGF Trap-Eye
+in wet AMD, based on a limited number of patients, the results from the larger
+Phase 3 trials may not demonstrate that VEGF Trap-Eye is safe and effective or
+compares favorably to Lucentis (Genentech). A number of other potential new
+drugs and biologics which showed promising results in initial clinical trials
+subsequently failed to establish sufficient safety and efficacy data to obtain
+necessary regulatory approvals. VEGF Trap-Eye has not been previously studied in
+CRVO.
+     
+         Rilonacept is in Phase 3 clinical trials for
+two different gout indications – the prevention of gout flares in patients
+initiating urate-lowering drug therapy and acute gout. We do not have proof of
+concept data from Phase 2 clinical trials that rilonacept will be safe or
+effective in the acute gout setting. Although we reported positive Phase 2 proof
+of concept data from a small number of patients initiating urate-lowering drug
+therapy, there is a risk that the results of the larger Phase 3 trials of
+rilonacept in patients initiating urate-lowering drug therapy will differ from
+the previously reported Phase 2 trial. A number of potential new drugs and
+biologics which showed promising results in initial clinical trials subsequently
+failed to establish sufficient safety and efficacy data to obtain necessary
+regulatory approvals.
+     
+         We are studying our antibody candidates in a
+wide variety of indications in early stage clinical trials. Many of these trials
+are exploratory studies designed to evaluate the safety profile of these
+compounds and to identify what diseases and uses, if any, are best suited for
+these product candidates. These early stage product candidates may not
+demonstrate the requisite efficacy and/or safety profile to support continued
+development for some or all of the indications that are being, or are planned to
+be, studied. 
+     
+    15
+     
+    
+    
+    
+    Clinical trials required for our product candidates are expensive and
+time-consuming, and their outcome is highly uncertain. If any of our drug trials
+are delayed or yield unfavorable results, we will have to delay or may be unable
+to obtain regulatory approval for our product
+candidates.
+     
+         We must conduct extensive testing of our
+product candidates before we can obtain regulatory approval to market and sell
+them. We need to conduct both preclinical animal testing and human clinical
+trials. Conducting these trials is a lengthy, time-consuming, and expensive
+process. These tests and trials may not achieve favorable results for many
+reasons, including, among others, failure of the product candidate to
+demonstrate safety or efficacy, the development of serious or life-threatening
+adverse events (or side effects) caused by or connected with exposure to the
+product candidate, difficulty in enrolling and maintaining subjects in the
+clinical trial, lack of sufficient supplies of the product candidate or
+comparator drug, and the failure of clinical investigators, trial monitors,
+contractors, consultants, or trial subjects to comply with the trial plan or
+protocol. A clinical trial may fail because it did not include a sufficient
+number of patients to detect the endpoint being measured or reach statistical
+significance. A clinical trial may also fail because the dose(s) of the
+investigational drug included in the trial were either too low or too high to
+determine the optimal effect of the investigational drug in the disease setting.
+
+     
+         Many of our clinical trials are conducted
+under the oversight of Independent Data Monitoring Committees (or IDMCs). These
+independent oversight bodies are made up of external experts who review the
+progress of ongoing clinical trials, including available safety and efficacy
+data, and make recommendations concerning a trial’s continuation, modification,
+or termination based on interim, unblinded data. Any of our ongoing clinical
+trials may be discontinued or amended in response to recommendations made by
+responsible IDMCs based on their review of such interim trial results. For
+example, in September 2009, a Phase 3 trial that was evaluating aflibercept as a
+1st line treatment
+for metastic pancreatic cancer in combination with gemcitabine was discontinued
+at the recommendation of an IDMC after a planned analysis of interim efficacy
+data determined that the trial would not meet its efficacy endpoint. The
+recommended termination of any of our ongoing late-stage clinical trials by an
+IDMC could harm the future development of our product candidate(s) and our
+business may be materially harmed. 
+     
+         We will need to reevaluate any drug candidate
+that does not test favorably and either conduct new trials, which are expensive
+and time consuming, or abandon the drug development program. Even if we obtain
+positive results from preclinical or clinical trials, we may not achieve the
+same success in future trials. Many companies in the biopharmaceutical industry,
+including Regeneron, have suffered significant setbacks in clinical trials, even
+after promising results have been obtained in earlier trials. The failure of
+clinical trials to demonstrate safety and effectiveness for the desired
+indication(s) could harm the development of our product candidate(s), and our
+business, financial condition, and results of operations may be materially
+harmed.
+     
+    Serious complications or side effects have occurred, and may continue to
+occur, in connection with the use of our approved product and in clinical trials
+of some of our product candidates which could cause our regulatory approval to
+be revoked or otherwise negatively affected or lead to delay or discontinuation
+of development of our product candidates which could severely harm our
+business.
+     
+         During the conduct of clinical trials,
+patients report changes in their health, including illnesses, injuries, and
+discomforts, to their study doctor. Often, it is not possible to determine
+whether or not the drug candidate being studied caused these conditions. Various
+illnesses, injuries, and discomforts have been reported from time-to-time during
+clinical trials of our product candidates. It is possible as we test our drug
+candidates in larger, longer, and more extensive clinical programs, illnesses,
+injuries, and discomforts that were observed in earlier trials, as well as
+conditions that did not occur or went undetected in smaller previous trials,
+will be reported by patients. Many times, side effects are only detectable after
+investigational drugs are tested in large scale, Phase 3 clinical trials or, in
+some cases, after they are made available to patients after approval. If
+additional clinical experience indicates that any of our product candidates has
+many side effects or causes serious or life-threatening side effects, the
+development of the product candidate may fail or be delayed, which would
+severely harm our business.
+     
+         Aflibercept (VEGF Trap) is being studied for
+the potential treatment of certain types of cancer and our VEGF Trap-Eye
+candidate is being studied in diseases of the eye. There are many potential
+safety concerns associated with significant blockade of vascular endothelial
+growth factor, or VEGF, that may limit our ability to successfully develop
+aflibercept and VEGF Trap-Eye. These serious and potentially life-threatening
+risks, based on clinical and preclinical experience of VEGF inhibitors, include
+bleeding, intestinal perforation, hypertension, proteinuria, 
+     
+    16
+     
+    
+    
+    
+    congestive heart
+failure, heart attack, and stroke. In addition, patients given infusions of any
+protein, including VEGF Trap delivered through intravenous administration, may
+develop severe hypersensitivity reactions or infusion reactions. Other VEGF
+blockers have reported side effects that became evident only after large scale
+trials or after marketing approval and large number of patients were treated.
+These and other complications or side effects could harm the development of
+aflibercept for the treatment of cancer or VEGF Trap-Eye for the treatment of
+diseases of the eye.
+     
+         We have tested ARCALYST® (rilonacept) in only a
+small number of patients. As more patients begin to use our product and as we
+test it in new disease settings, new risks and side effects associated with
+ARCALYST may be discovered, and risks previously viewed as inconsequential could
+be determined to be significant. Like cytokine antagonists such as Kineret® (anakinra), marketed
+by Biovitrum, Enbrel® (etanercept), marketed
+by Amgen and Wyeth Pharmaceuticals, Inc., and Remicade® (infliximab) marketed
+by Centocor, ARCALYST affects the immune defense system of the body by blocking
+some of its functions. Therefore, ARCALYST may interfere with the body’s ability
+to fight infections. Treatment with Kineret (Biovitrum), a medication that works
+through the inhibition of IL-1, has been associated with an increased risk of
+serious infections, and serious, life threatening infections have been reported
+in patients taking ARCALYST. These or other complications or side effects could
+cause regulatory authorities to revoke approvals of ARCALYST. Alternatively, we
+may be required to conduct additional clinical trials, make changes in the
+labeling of our product, or limit or abandon our efforts to develop ARCALYST in
+new disease settings. These side effects may also result in a reduction, or even
+the elimination, of sales of ARCALYST in approved indications.
+     
+    ARCALYST®
+(rilonacept) and our product candidates in development are recombinant proteins
+that could cause an immune response, resulting in the creation of harmful or
+neutralizing antibodies against the therapeutic
+protein.
+     
+         In addition to the safety, efficacy,
+manufacturing, and regulatory hurdles faced by our product candidates, the
+administration of recombinant proteins frequently causes an immune response,
+resulting in the creation of antibodies against the therapeutic protein. The
+antibodies can have no effect or can totally neutralize the effectiveness of the
+protein, or require that higher doses be used to obtain a therapeutic effect. In
+some cases, the antibody can cross react with the patient’s own proteins,
+resulting in an “auto-immune” type disease. Whether antibodies will be created
+can often not be predicted from preclinical or clinical experiments, and their
+detection or appearance is often delayed, so that there can be no assurance that
+neutralizing antibodies will not be detected at a later date, in some cases even
+after pivotal clinical trials have been completed. Antibodies directed against
+the receptor domains of rilonacept were detected in patients with CAPS after
+treatment with ARCALYST. Nineteen of 55 subjects (35%) who received ARCALYST for
+at least 6 weeks tested positive for treatment-emerging binding antibodies on at
+least one occasion. To date, no side effects related to antibodies were observed
+in these subjects and there were no observed effects on drug efficacy or drug
+levels. It is possible that as we continue to test aflibercept and VEGF Trap-Eye
+with more sensitive assays in different patient populations and larger clinical
+trials, we will find that subjects given aflibercept and VEGF Trap-Eye develop
+antibodies to these product candidates, and may also experience side effects
+related to the antibodies, which could adversely impact the development of such
+candidates.
+     
+    We may be unable to formulate or manufacture our product candidates in a
+way that is suitable for clinical or commercial use.
+     
+         Changes in product formulations and
+manufacturing processes may be required as product candidates progress in
+clinical development and are ultimately commercialized. If we are unable to
+develop suitable product formulations or manufacturing processes to support
+large scale clinical testing of our product candidates, including aflibercept,
+VEGF Trap-Eye, and our antibody candidates, we may be unable to supply necessary
+materials for our clinical trials, which would delay the development of our
+product candidates. Similarly, if we are unable to supply sufficient quantities
+of our product or develop product formulations suitable for commercial use, we
+will not be able to successfully commercialize our product candidates.
+
+     
+    17
+     
+    
+    
+    
+    Risks Related to Intellectual
+Property
+     
+    If we cannot protect the confidentiality of our trade secrets or our
+patents are insufficient to protect our proprietary rights, our business and
+competitive position will be harmed.
+     
+         Our business requires using sensitive and
+proprietary technology and other information that we protect as trade secrets.
+We seek to prevent improper disclosure of these trade secrets through
+confidentiality agreements. If our trade secrets are improperly exposed, either
+by our own employees or our collaborators, it would help our competitors and
+adversely affect our business. We will be able to protect our proprietary rights
+from unauthorized use by third parties only to the extent that our rights are
+covered by valid and enforceable patents or are effectively maintained as trade
+secrets. The patent position of biotechnology companies involves complex legal
+and factual questions and, therefore, enforceability cannot be predicted with
+certainty. Our patents may be challenged, invalidated, or circumvented. Patent
+applications filed outside the United States may be challenged by third parties
+who file an opposition. Such opposition proceedings are increasingly common in
+the European Union and are costly to defend. We have pending patent applications
+in the European Patent Office and it is likely that we will need to defend
+patent applications from third party challengers from time to time in the
+future. Our patent rights may not provide us with a proprietary position or
+competitive advantages against competitors. Furthermore, even if the outcome is
+favorable to us, the enforcement of our intellectual property rights can be
+extremely expensive and time consuming.
+     
+    We may be restricted in our development and/or commercialization
+activities by, and could be subject to damage awards if we are found to have
+infringed, third party patents or other proprietary
+rights.
+     
+         Our commercial success depends significantly
+on our ability to operate without infringing the patents and other proprietary
+rights of third parties. Other parties may allege that they have blocking
+patents to our products in clinical development, either because they claim to
+hold proprietary rights to the composition of a product or the way it is
+manufactured or used. Moreover, other parties may allege that they have blocking
+patents to antibody products made using our VelocImmune® technology, either
+because of the way the antibodies are discovered or produced or because of a
+proprietary position covering an antibody or the antibody’s target.
+     
+         We are aware of patents and pending
+applications owned by Genentech that claim certain chimeric VEGF receptor
+compositions. Although we do not believe that aflibercept or VEGF Trap-Eye
+infringes any valid claim in these patents or patent applications, Genentech
+could initiate a lawsuit for patent infringement and assert that its patents are
+valid and cover aflibercept or VEGF Trap-Eye. Genentech may be motivated to
+initiate such a lawsuit at some point in an effort to impair our ability to
+develop and sell aflibercept or VEGF Trap-Eye, which represent potential
+competitive threats to Genentech’s VEGF-binding products and product candidates.
+An adverse determination by a court in any such potential patent litigation
+would likely materially harm our business by requiring us to seek a license,
+which may not be available, or resulting in our inability to manufacture,
+develop, and sell aflibercept or VEGF Trap-Eye or in a damage
+award.
+     
+         We are aware of patents and pending
+applications owned by Roche that claim antibodies to the interleukin-6 receptor
+and methods of treating rheumatoid arthritis with such antibodies. We are
+developing REGN88, an antibody to the interleukin-6 receptor, for the treatment
+of rheumatoid arthritis. Although we do not believe that REGN88 infringes any
+valid claim in these patents or patent applications, Roche could initiate a
+lawsuit for patent infringement and assert its patents are valid and cover
+REGN88. 
+     
+         We are aware of a U.S. patent jointly owned by
+Genentech and City of Hope relating to the production of recombinant antibodies
+in host cells. We currently produce our antibody product candidates using
+recombinant antibodies from host cells and may choose to produce additional
+antibody product candidates in this manner. Neither ARCALYST® (rilonacept),
+aflibercept, nor VEGF Trap-Eye are recombinant antibodies. If any of our
+antibody product candidates are produced in a manner subject to valid claims in
+the Genentech patent, then we may need to obtain a license from Genentech,
+should one be available. Genentech has licensed this patent to several different
+companies under confidential license agreements. If we desire a license for any
+of our antibody product candidates and are unable to obtain a license on
+commercially reasonable terms or at all, we may be restricted in our ability to
+use Genentech’s techniques to make recombinant antibodies in or to import them
+into the United States.
+     
+         Further, we are aware of a number of other
+third party patent applications that, if granted, with claims as currently
+drafted, may cover our current or planned activities. We cannot assure you that
+our products and/or actions in manufacturing and selling our product candidates
+will not infringe such patents.
+     
+    18
+     
+    
+
+    
+    
+         Any patent holders could sue us for damages
+and seek to prevent us from manufacturing, selling, or developing our drug
+candidates, and a court may find that we are infringing validly issued patents
+of third parties. In the event that the manufacture, use, or sale of any of our
+clinical candidates infringes on the patents or violates other proprietary
+rights of third parties, we may be prevented from pursuing product development,
+manufacturing, and commercialization of our drugs and may be required to pay
+costly damages. Such a result may materially harm our business, financial
+condition, and results of operations. Legal disputes are likely to be costly and
+time consuming to defend.
+     
+         We seek to obtain licenses to patents when, in
+our judgment, such licenses are needed. If any licenses are required, we may not
+be able to obtain such licenses on commercially reasonable terms, if at all. The
+failure to obtain any such license could prevent us from developing or
+commercializing any one or more of our product candidates, which could severely
+harm our business.
+     
+    Regulatory and Litigation
+Risks
+     
+    If we do not obtain regulatory approval for our product candidates, we
+will not be able to market or sell them.
+     
+         We cannot sell or market products without
+regulatory approval. If we do not obtain and maintain regulatory approval for
+our product candidates, including ARCALYST® (rilonacept) for the treatment of diseases
+other than CAPS, the value of our company and our results of operations will be
+harmed. In the United States, we must obtain and maintain approval from the
+United States Food and Drug Administration (FDA) for each drug we intend to
+sell. Obtaining FDA approval is typically a lengthy and expensive process, and
+approval is highly uncertain. Foreign governments also regulate drugs
+distributed in their country and approval in any country is likely to be a
+lengthy and expensive process, and approval is highly uncertain. Except for the
+FDA approval of ARCALYST and the EMEA approval of rilonacept for the treatment
+of CAPS, none of our product candidates has ever received regulatory approval to
+be marketed and sold in the United States or any other country. We may never
+receive regulatory approval for any of our product candidates.
+     
+         The FDA enforces good clinical practices and
+other regulations through periodic inspections of trial sponsors, clinical
+research organizations (CROs), principal investigators, and trial sites. If we
+or any of the third parties conducting our clinical studies are determined to
+have failed to fully comply with Good Clinical Practice regulations (GCPs), the
+study protocol or applicable regulations, the clinical data generated in our
+studies may be deemed unreliable. This could result in non-approval of our
+product candidates by the FDA, or we or the FDA may decide to conduct additional
+audits or require additional clinical studies, which would delay our development
+programs and substantially harm our business.
+     
+         Before approving a new drug or biologic
+product, the FDA requires that the facilities at which the product will be
+manufactured be in compliance with current Good Manufacturing Practices, or cGMP
+requirements. Manufacturing product candidates in compliance with these
+regulatory requirements is complex, time-consuming, and expensive. To be
+successful, our products must be manufactured for development, following
+approval, in commercial quantities, in compliance with regulatory requirements,
+and at competitive costs. If we or any of our product collaborators or
+third-party manufacturers, product packagers, or labelers are unable to maintain
+regulatory compliance, the FDA can impose regulatory sanctions, including, among
+other things, refusal to approve a pending application for a new drug or
+biologic product, or revocation of a pre-existing approval. As a result, our
+business, financial condition, and results of operations may be materially
+harmed.
+     
+         In addition to the FDA and other regulatory
+agency regulations in the United States, we are subject to a variety of foreign
+regulatory requirements governing human clinical trials, manufacturing,
+marketing and approval of drugs, and commercial sale and distribution of drugs
+in foreign countries. The foreign regulatory approval process includes all of
+the risks associated with FDA approval as well as country specific regulations.
+Whether or not we obtain FDA approval for a product in the United States, we
+must obtain approval by the comparable regulatory authorities of foreign
+countries before we can commence clinical trials or marketing of ARCALYST or any
+of our product candidates in those countries.
+     
+    19
+     
+    
+    
+    
+    If we fail to meet the stringent requirements of governmental regulation
+in the manufacture of our marketed product and clinical candidates, we could
+incur substantial remedial costs, delays in the development of our clinical
+candidates, and a reduction in sales.
+     
+         We and our third party providers are required
+to maintain compliance with current Good Manufacturing Practice, or cGMP, and
+are subject to inspections by the FDA or comparable agencies in other
+jurisdictions to confirm such compliance. Changes of suppliers or modifications
+of methods of manufacturing may require amending our application to the FDA and
+acceptance of the change by the FDA prior to release of product. Because we
+produce multiple product candidates at our facility in Rensselaer, New York,
+there are increased risks associated with cGMP compliance. Our inability, or the
+inability of our third party service providers, to demonstrate ongoing cGMP
+compliance could require us to engage in lengthy and expensive remediation
+efforts, withdraw or recall product, halt or interrupt clinical trials, and/or
+interrupt commercial supply of our marketed product. Any delay, interruption or
+other issues that arise in the manufacture, fill-finish, packaging, or storage
+of our product candidates as a result of a failure of our facilities or the
+facilities or operations of third parties to pass any regulatory agency
+inspection or maintain cGMP compliance could significantly impair our ability to
+develop and commercialize our products. Any finding of non-compliance could
+increase our costs, cause us to delay the development of our product candidates,
+and cause us to lose revenue from our marketed product. 
+     
+    If the testing or use of our products harms people, we could be subject
+to costly and damaging product liability claims. 
+     
+         The testing, manufacturing, marketing, and
+sale of drugs for use in people expose us to product liability risk. Any
+informed consent or waivers obtained from people who sign up for our clinical
+trials may not protect us from liability or the cost of litigation. We may be
+subject to claims by CAPS patients who use ARCALYST that they have been injured
+by a side effect associated with the drug. Our product liability insurance may
+not cover all potential liabilities or may not completely cover any liability
+arising from any such litigation. Moreover, we may not have access to liability
+insurance or be able to maintain our insurance on acceptable terms.
+     
+    If we market and sell
+ARCALYST®
+(rilonacept) in a way that violates
+federal or state fraud and abuse laws, we may be subject to civil or criminal
+penalties.
+     
+         In addition to FDA and related regulatory
+requirements, we are subject to health care “fraud and abuse” laws, such as the
+federal False Claims Act, the anti-kickback provisions of the federal Social
+Security Act, and other state and federal laws and regulations. Federal and
+state anti-kickback laws prohibit, among other things, knowingly and willfully
+offering, paying, soliciting or receiving remuneration to induce, or in return
+for, purchasing, leasing, ordering or arranging for the purchase, lease or order
+of any health care item or service reimbursable under Medicare, Medicaid, or
+other federally or state financed health care programs. 
+     
+         Federal false claims laws prohibit any person
+from knowingly presenting, or causing to be presented, a false claim for payment
+to the federal government, or knowingly making, or causing to be made, a false
+statement to get a false claim paid. Pharmaceutical companies have been
+prosecuted under these laws for a variety of alleged promotional and marketing
+activities, such as allegedly providing free product to customers with the
+expectation that the customers would bill federal programs for the product;
+reporting to pricing services inflated average wholesale prices that were then
+used by federal programs to set reimbursement rates; engaging in promotion for
+uses that the FDA has not approved, or off-label uses, that caused claims to be
+submitted to Medicaid for non-covered off-label uses; and submitting inflated
+best price information to the Medicaid Rebate program.
+     
+         The majority of states also have statutes or
+regulations similar to the federal anti-kickback law and false claims laws,
+which apply to items and services reimbursed under Medicaid and other state
+programs, or, in several states, apply regardless of the payer. Sanctions under
+these federal and state laws may include civil monetary penalties, exclusion of
+a manufacturer’s products from reimbursement under government programs, criminal
+fines, and imprisonment.
+     
+         Even if we are not determined to have violated
+these laws, government investigations into these issues typically require the
+expenditure of significant resources and generate negative publicity, which
+would also harm our financial condition. Because of the breadth of these laws
+and the narrowness of the safe harbors, it is possible that some of our business
+activities could be subject to challenge under one or more of such
+laws.
+     
+    20
+     
+    
+    
+    
+         In recent years, several states and
+localities, including California, the District of Columbia, Massachusetts,
+Maine, Minnesota, Nevada, New Mexico, Vermont, and West Virginia, have enacted
+legislation requiring pharmaceutical companies to establish marketing compliance
+programs, and file periodic reports with the state or make periodic public
+disclosures on sales, marketing, pricing, clinical trials, and other activities.
+Similar legislation is being considered in other states and also at the federal
+level. Many of these requirements are new and uncertain, and the penalties for
+failure to comply with these requirements are unclear. Nonetheless, if we are
+found not to be in full compliance with these laws, we could face enforcement
+action and fines and other penalties, and could receive adverse
+publicity.
+     
+    Our operations may involve hazardous materials and are subject to
+environmental, health, and safety laws and regulations. We may incur substantial
+liability arising from our activities involving the use of hazardous
+materials.
+     
+         As a biopharmaceutical company with
+significant manufacturing operations, we are subject to extensive environmental,
+health, and safety laws and regulations, including those governing the use of
+hazardous materials. Our research and development and manufacturing activities
+involve the controlled use of chemicals, viruses, radioactive compounds, and
+other hazardous materials. The cost of compliance with environmental, health,
+and safety regulations is substantial. If an accident involving these materials
+or an environmental discharge were to occur, we could be held liable for any
+resulting damages, or face regulatory actions, which could exceed our resources
+or insurance coverage.
+     
+    Changes in the securities laws and regulations have increased, and are
+likely to continue to increase, our costs. 
+     
+         The Sarbanes-Oxley Act of 2002, which became
+law in July 2002, has required changes in some of our corporate governance,
+securities disclosure, and compliance practices. In response to the requirements
+of that Act, the SEC and the NASDAQ Stock Market have promulgated rules and
+listing standards covering a variety of subjects. Compliance with these rules
+and listing standards has increased our legal costs, and significantly increased
+our accounting and auditing costs, and we expect these costs to continue. These
+developments may make it more difficult and more expensive for us to obtain
+directors’ and officers’ liability insurance. Likewise, these developments may
+make it more difficult for us to attract and retain qualified members of our
+board of directors, particularly independent directors, or qualified executive
+officers. 
+     
+    In future years, if we are unable to conclude that our internal control
+over financial reporting is effective, the market value of our Common Stock
+could be adversely affected.
+     
+         As directed by Section 404 of the
+Sarbanes-Oxley Act of 2002, the SEC adopted rules requiring public companies to
+include a report of management on the Company’s internal control over financial
+reporting in their annual reports on Form 10-K that contains an assessment by
+management of the effectiveness of our internal control over financial
+reporting. In addition, the independent registered public accounting firm
+auditing our financial statements must attest to and report on the effectiveness
+of our internal control over financial reporting. Our independent registered
+public accounting firm provided us with an unqualified report as to the
+effectiveness of our internal control over financial reporting as of December
+31, 2009, which report is included in this Annual Report on Form 10-K. However,
+we cannot assure you that management or our independent registered public
+accounting firm will be able to provide such an unqualified report as of future
+year-ends. In this event, investors could lose confidence in the reliability of
+our financial statements, which could result in a decrease in the market value
+of our Common Stock. In addition, if it is determined that deficiencies in the
+design or operation of internal controls exist and that they are reasonably
+likely to adversely affect our ability to record, process, summarize, and report
+financial information, we would likely incur additional costs to remediate these
+deficiencies and the costs of such remediation could be material.
+     
+    Changes in laws and regulations affecting the healthcare industry could
+adversely affect our business.
+     
+         All aspects of our business, including
+research and development, manufacturing, marketing, pricing, sales, litigation,
+and intellectual property rights, are subject to extensive legislation and
+regulation. Changes in applicable federal and state laws and agency regulations
+could have a material adverse effect on our business. These include:
+
+    
+      changes in the FDA and foreign
+  regulatory processes for new therapeutics that may delay or prevent the
+  approval of any of our current or future product candidates; 
+    
+    21
+     
+    
+    
+    
+    
+      new laws, regulations, or judicial
+  decisions related to healthcare availability or the payment for healthcare
+  products and services, including prescription drugs, that would make it more
+  difficult for us to market and sell products once they are approved by the FDA
+  or foreign regulatory agencies; 
+        
+      changes in FDA and foreign
+  regulations that may require additional safety monitoring prior to or after
+  the introduction of new products to market, which could materially increase
+  our costs of doing business; and 
+        
+      changes in FDA and foreign current
+  Good Manufacturing Practice, or cGMPs, that make it more difficult for us to
+  manufacture our marketed product and clinical candidates in accordance with
+  cGMPs. 
+    
+         The enactment in the United States of the
+Medicare Prescription Drug Improvement and Modernization Act of 2003 and current
+pending legislation which would ease the entry of competing follow-on biologics
+into the marketplace are examples of changes and possible changes in laws that
+could adversely affect our business.
+     
+    Risks Related to Our Reliance on Third
+Parties
+     
+    If our antibody collaboration with sanofi-aventis is terminated, our
+business operations and our ability to discover, develop, manufacture, and
+commercialize our pipeline of product candidates in the time expected, or at
+all, would be materially harmed.
+     
+         We rely heavily on the funding from
+sanofi-aventis to support our target discovery and antibody research and
+development programs. Sanofi-aventis has committed to pay up to $1.28 billion
+between 2010 and 2017 to fund our efforts to identify and validate drug
+discovery targets and pre-clinically develop fully human monoclonal antibodies
+against such targets. In addition, sanofi-aventis funds almost all of the
+development expenses incurred by both companies in connection with the clinical
+development of antibodies that sanofi-aventis elects to co-develop with us. We
+rely on sanofi-aventis to fund these activities. In addition, with respect to
+those antibodies that sanofi-aventis elects to co-develop with us, such as
+REGN88, REGN421, REGN475, REGN727, and REGN668 we rely on sanofi-aventis to lead
+much of the clinical development efforts and assist with obtaining regulatory
+approval, particularly outside the United States. We also rely on sanofi-aventis
+to lead the commercialization efforts to support all of the antibody products
+that are co-developed by sanofi-aventis and us. If sanofi-aventis does not elect
+to co-develop the antibodies that we discover or opts-out of their development,
+we would be required to fund and oversee on our own the clinical trials, any
+regulatory responsibilities, and the ensuing commercialization efforts to
+support our antibody products. If sanofi-aventis terminates the antibody
+collaboration or fails to comply with its payment obligations thereunder, our
+business, financial condition, and results of operations would be materially
+harmed. We would be required to either expend substantially more resources than
+we have anticipated to support our research and development efforts, which could
+require us to seek additional funding that might not be available on favorable
+terms or at all, or materially cut back on such activities. While we cannot
+assure you that any of the antibodies from this collaboration will ever be
+successfully developed and commercialized, if sanofi-aventis does not perform
+its obligations with respect to antibodies that it elects to co-develop, our
+ability to develop, manufacture, and commercialize these antibody product
+candidates will be significantly adversely affected. 
+     
+    If our collaboration with sanofi-aventis for aflibercept (VEGF Trap) is
+terminated, or sanofi-aventis materially breaches its obligations thereunder,
+our business operations and financial condition, and our ability to develop,
+manufacture, and commercialize aflibercept in the time expected, or at all,
+would be materially harmed.
+     
+         We rely heavily on sanofi-aventis to lead much
+of the development of aflibercept. Sanofi-aventis funds all of the development
+expenses incurred by both companies in connection with the aflibercept program.
+If the aflibercept program continues, we will rely on sanofi-aventis to assist
+with funding the aflibercept program, provide commercial manufacturing capacity,
+enroll and monitor clinical trials, obtain regulatory approval, particularly
+outside the United States, and lead the commercialization of aflibercept. While
+we cannot assure you that aflibercept will ever be successfully developed and
+commercialized, if sanofi-aventis does not perform its obligations in a timely
+manner, or at all, our ability to develop, manufacture, and commercialize
+aflibercept in cancer indications will be significantly adversely affected.
+Sanofi-aventis has the right to terminate its collaboration agreement with us at
+any time upon twelve months advance notice. If sanofi-aventis were to terminate
+its collaboration agreement with us, we would not have the resources or skills
+to replace those of our partner, which could require us to seek additional
+funding 
+     
+    22
+     
+    
+    
+    
+    that might not be
+available on favorable terms or at all, and could cause significant delays in
+the development and/or manufacture of aflibercept and result in substantial
+additional costs to us. We have limited commercial capabilities and would have
+to develop or outsource these capabilities. Termination of the sanofi-aventis
+collaboration agreement for aflibercept would create substantial new and
+additional risks to the successful development and commercialization of
+aflibercept.
+     
+    If our collaboration with Bayer HealthCare for VEGF Trap-Eye is
+terminated, or Bayer HealthCare materially breaches its obligations thereunder,
+our business, operations and financial condition, and our ability to develop and
+commercialize VEGF Trap-Eye in the time expected, or at all, would be materially
+harmed.
+     
+         We rely heavily on Bayer HealthCare to assist
+with the development of VEGF Trap-Eye. Under our agreement with them, Bayer
+HealthCare is required to fund approximately half of the development expenses
+incurred by both companies in connection with the global VEGF Trap-Eye
+development program. If the VEGF Trap-Eye program continues, we will rely on
+Bayer HealthCare to assist with funding the VEGF Trap-Eye development program,
+lead the development of VEGF Trap-Eye outside the United States, obtain
+regulatory approval outside the United States, and provide all sales, marketing,
+and commercial support for the product outside the United States. In particular,
+Bayer HealthCare has responsibility for selling VEGF Trap-Eye outside the United
+States using its sales force. While we cannot assure you that VEGF Trap-Eye will
+ever be successfully developed and commercialized, if Bayer HealthCare does not
+perform its obligations in a timely manner, or at all, our ability to develop,
+manufacture, and commercialize VEGF Trap-Eye outside the United States will be
+significantly adversely affected. Bayer HealthCare has the right to terminate
+its collaboration agreement with us at any time upon six or twelve months
+advance notice, depending on the circumstances giving rise to termination. If
+Bayer HealthCare were to terminate its collaboration agreement with us, we would
+not have the resources or skills to replace those of our partner, which could
+require us to seek additional funding that might not be available on favorable
+terms or at all, and could cause significant delays in the development and/or
+commercialization of VEGF Trap-Eye outside the United States and result in
+substantial additional costs to us. We have limited commercial capabilities and
+would have to develop or outsource these capabilities outside the United States.
+Termination of the Bayer HealthCare collaboration agreement would create
+substantial new and additional risks to the successful development and
+commercialization of VEGF Trap-Eye.
+     
+    Our collaborators and service providers may fail to perform adequately in
+their efforts to support the development, manufacture, and commercialization of
+ARCALYST® (rilonacept) and our drug candidates.
+     
+         We depend upon third-party collaborators,
+including sanofi-aventis, Bayer HealthCare, and service providers such as
+clinical research organizations, outside testing laboratories, clinical
+investigator sites, and third-party manufacturers and product packagers and
+labelers, to assist us in the manufacture and preclinical and clinical
+development of our product candidates. If any of our existing collaborators or
+service providers breaches or terminates its agreement with us or does not
+perform its development or manufacturing services under an agreement in a timely
+manner or in compliance with applicable Good Manufacturing Practices (GMPs),
+Good Laboratory Practices (GLPs), or Good Clinical Practice (GCP) Standards, we
+could experience additional costs, delays, and difficulties in the manufacture
+or development or in obtaining approval by regulatory authorities for our
+product candidates.
+     
+         We rely on third party service providers to
+support the distribution of ARCALYST and many other related activities in
+connection with the commercialization of ARCALYST for the treatment of CAPS. We
+cannot be certain that these third parties will perform adequately. If these
+service providers do not perform their services adequately, our efforts to
+market and sell ARCALYST for the treatment of CAPS will not be
+successful.
+     
+    Risks Related to the Manufacture of Our
+Product Candidates
+     
+    We have limited manufacturing capacity, which could inhibit our ability
+to successfully develop or commercialize our drugs.
+     
+         Our manufacturing facility is likely to be
+inadequate to produce sufficient quantities of product for commercial sale. We
+intend to rely on our corporate collaborators, as well as contract
+manufacturers, to produce the large quantities of drug material needed for
+commercialization of our products. We rely entirely on third-party manufacturers
+for filling and finishing services. We will have to depend on these
+manufacturers to deliver material on a timely basis 
+     
+    23
+     
+    
+    
+    
+    and to comply with
+regulatory requirements. If we are unable to supply sufficient material on
+acceptable terms, or if we should encounter delays or difficulties in our
+relationships with our corporate collaborators or contract manufacturers, our
+business, financial condition, and results of operations may be materially
+harmed.
+     
+         We must expand our own manufacturing capacity
+to support the planned growth of our clinical pipeline. Moreover, we may expand
+our manufacturing capacity to support commercial production of active
+pharmaceutical ingredients, or API, for our product candidates. This will
+require substantial additional expenditures, and we will need to hire and train
+significant numbers of employees and managerial personnel to staff our facility.
+Start-up costs can be large and scale-up entails significant risks related to
+process development and manufacturing yields. We may be unable to develop
+manufacturing facilities that are sufficient to produce drug material for
+clinical trials or commercial use. This may delay our clinical development plans
+and interfere with our efforts to commercialize our products. In addition, we
+may be unable to secure adequate filling and finishing services to support our
+products. As a result, our business, financial condition, and results of
+operations may be materially harmed.
+     
+         We may be unable to obtain key raw materials
+and supplies for the manufacture of ARCALYST® (rilonacept) and our product candidates. In
+addition, we may face difficulties in developing or acquiring production
+technology and managerial personnel to manufacture sufficient quantities of our
+product candidates at reasonable costs and in compliance with applicable quality
+assurance and environmental regulations and governmental permitting
+requirements.
+     
+    If any of our clinical programs are discontinued, we may face costs
+related to the unused capacity at our manufacturing
+facilities.
+     
+         We have large-scale manufacturing operations
+in Rensselaer, New York. We use our facilities to produce bulk product for
+clinical and preclinical candidates for ourselves and our collaborations. If our
+clinical candidates are discontinued, we will have to absorb one hundred percent
+of related overhead costs and inefficiencies.
+     
+    Third-party supply failures, business interruptions, or natural disasters
+affecting our manufacturing facilities in Rensselaer, New York could adversely
+affect our ability to supply our products.
+     
+         We manufacture all of our bulk drug materials
+for ARCALYST and our product candidates at our manufacturing facilities in
+Rensselaer, New York. We would be unable to supply our product requirements if
+we were to cease production due to regulatory requirements or action, business
+interruptions, labor shortages or disputes, contaminations, fire, natural
+disasters, or other problems at the facilities.
+     
+         Certain raw materials necessary for
+manufacturing and formulation of ARCALYST and our product candidates are
+provided by single-source unaffiliated third-party suppliers. In addition, we
+rely on certain third parties to perform filling, finishing, distribution, and
+other services related to the manufacture of our products. We would be unable to
+obtain these raw materials or services for an indeterminate period of time if
+any of these third-parties were to cease or interrupt production or otherwise
+fail to supply these materials, products, or services to us for any reason,
+including due to regulatory requirements or action, adverse financial
+developments at or affecting the supplier, failure by the supplier to comply
+with GMPs, business interruptions, or labor shortages or disputes. This, in
+turn, could materially and adversely affect our ability to manufacture or supply
+ARCALYST or our product candidates for use in clinical trials, which could
+materially and adversely affect our business and future prospects.
+     
+         Also, certain of the raw materials required in
+the manufacturing and the formulation of our clinical candidates may be derived
+from biological sources, including mammalian tissues, bovine serum, and human
+serum albumin. There are certain European regulatory restrictions on using these
+biological source materials. If we are required to substitute for these sources
+to comply with European regulatory requirements, our clinical development
+activities may be delayed or interrupted.
+     
+    Risks Related to Commercialization of
+Products
+     
+    If we are unable to establish sales, marketing, and distribution
+capabilities, or enter into agreements with third parties to do so, we will be
+unable to successfully market and sell future
+products.
+     
+         We are marketing and selling ARCALYST for the
+treatment of CAPS ourselves in the United States, primarily through third party
+service providers. We have no sales or distribution personnel in the United
+States and have only a small staff with commercial capabilities. We currently
+have no sales, marketing, commercial, or distribution 
+     
+    24
+     
+    
+    
+    
+    capabilities outside
+the United States. If we are unable to obtain those capabilities, either by
+developing our own organizations or entering into agreements with service
+providers, even if our current or future product candidates receive marketing
+approval, we will not be able to successfully sell those products. In that
+event, we will not be able to generate significant revenue, even if our product
+candidates are approved. We cannot guarantee that we will be able to hire the
+qualified sales and marketing personnel we need or that we will be able to enter
+into marketing or distribution agreements with third-party providers on
+acceptable terms, if at all. Under the terms of our collaboration agreement with
+sanofi-aventis, we will rely on sanofi-aventis for sales, marketing, and
+distribution of aflibercept in cancer indications, should it be approved in the
+future by regulatory authorities for marketing. We will have to rely on a third
+party or devote significant resources to develop our own sales, marketing, and
+distribution capabilities for our other product candidates, including VEGF
+Trap-Eye in the United States, and we may be unsuccessful in developing our own
+sales, marketing, and distribution organization.
+     
+    There may be too few
+patients with CAPS to profitably commercialize ARCALYST® (rilonacept) in this
+indication. 
+     
+         Our only approved product is ARCALYST for the
+treatment of CAPS, a group of rare, inherited auto-inflammatory diseases. These
+rare diseases affect a very small group of people. The incidence of CAPS has
+been reported to be approximately 1 in 1,000,000 people in the United States.
+Although the incidence rate of CAPS in Europe has not been reported, it is known
+to be a rare set of diseases. In October 2009 we received European marketing
+authorization for rilonacept for CAPS. In 2009, Novartis received regulatory
+approval in the U.S. and Europe for its IL-1 antibody product for the treatment
+of CAPS. Given the very rare nature of the disease and the competition from
+Novartis’ IL-1 antibody product, we may be unable to profitably commercialize
+ARCALYST in this indication.
+     
+    Even if our product candidates are approved for marketing, their
+commercial success is highly uncertain because our competitors have received
+approval for products with a similar mechanism of action, and competitors may
+get to the marketplace with better or lower cost drugs.
+
+     
+         There is substantial competition in the
+biotechnology and pharmaceutical industries from pharmaceutical, biotechnology,
+and chemical companies. Many of our competitors have substantially greater
+research, preclinical and clinical product development and manufacturing
+capabilities, and financial, marketing, and human resources than we do. Our
+smaller competitors may also enhance their competitive position if they acquire
+or discover patentable inventions, form collaborative arrangements, or merge
+with large pharmaceutical companies. Even if we achieve product
+commercialization, our competitors have achieved, and may continue to achieve,
+product commercialization before our products are approved for marketing and
+sale. 
+     
+         Genentech has an approved VEGF antagonist,
+Avastin, on the market for treating certain cancers and many different
+pharmaceutical and biotechnology companies are working to develop competing VEGF
+antagonists, including Novartis, Amgen, Imclone/Eli Lilly, Pfizer, AstraZeneca,
+and GlaxoSmithKline. Many of these molecules are farther along in development
+than aflibercept and may offer competitive advantages over our
+molecule. Each of Pfizer and Onyx, (together with its
+partner Bayer HealthCare) has received approval from the FDA to market and sell
+an oral medication that targets tumor cell growth and new vasculature formation
+that fuels the growth of tumors. The marketing approvals for Genentech’s VEGF
+antagonist, Avastin, and their extensive, ongoing clinical development plan for
+Avastin in other cancer indications, make it more difficult for us to enroll
+patients in clinical trials to support aflibercept and to obtain regulatory
+approval of aflibercept in these cancer settings. This may delay or impair our
+ability to successfully develop and commercialize aflibercept. In addition, even
+if aflibercept is ever approved for sale for the treatment of certain cancers,
+it will be difficult for our drug to compete against Avastin (Genentech) and the
+FDA approved kinase inhibitors, because doctors and patients will have
+significant experience using these medicines. In addition, an oral medication
+may be considerably less expensive for patients than a biologic medication,
+providing a competitive advantage to companies that market such
+products.
+     
+         The market for eye disease products is also
+very competitive. Novartis and Genentech are collaborating on the
+commercialization and further development of a VEGF antibody fragment, Lucentis,
+for the treatment of age-related macular degeneration (wet AMD), DME, and other
+eye indications. Lucentis (Genentech) was approved by the FDA in June 2006 for
+the treatment of wet AMD. Many other companies are working on the development of
+product candidates for the potential treatment of wet AMD and DME that act by
+blocking VEGF and VEGF receptors, 
+     
+    25
+     
+    
+    
+    
+    and through the use
+of small interfering ribonucleic acids (siRNAs) that modulate gene expression.
+In addition, ophthalmologists are using off-label, with success for the
+treatment of wet AMD, a third-party repackaged version of Genentech’s approved
+VEGF antagonist, Avastin. The National Eye Institute is conducting a Phase 3
+trial comparing Lucentis (Genentech) to Avastin (Genentech) in the treatment of
+wet AMD. The marketing approval of Lucentis (Genentech) and the potential
+off-label use of Avastin (Genentech) make it more difficult for us to enroll
+patients in our clinical trials and successfully develop VEGF Trap-Eye. Even if
+VEGF Trap-Eye is ever approved for sale for the treatment of eye diseases, it
+may be difficult for our drug to compete against Lucentis (Genentech), because
+doctors and patients will have significant experience using this medicine.
+Moreover, the relatively low cost of therapy with Avastin (Genentech) in
+patients with wet AMD presents a further competitive challenge in this
+indication. While we believe that aflibercept would not be well tolerated if
+administered directly to the eye, if aflibercept is ever approved for the
+treatment of certain cancers, there is a risk that third parties will attempt to
+repackage aflibercept for use and sale for the treatment of wet AMD and other
+diseases of the eye, which would present a potential low-cost competitive threat
+to the VEGF Trap-Eye if it is ever approved for sale.
+     
+         The availability of highly effective FDA
+approved TNF-antagonists such as Enbrel (Amgen and Wyeth), Remicade (Centocor),
+Humira®
+(adalimumab), marketed by
+Abbott, and SimponiTM
+(golimumab), marketed by
+Centocor, and the IL-1 receptor antagonist Kineret (Biovitrum), and other
+marketed therapies makes it more difficult to successfully develop and
+commercialize rilonacept in other indications. This is one of the reasons we
+discontinued the development of rilonacept in adult rheumatoid arthritis. In
+addition, even if rilonacept is ever approved for sale in indications where
+TNF-antagonists are approved, it will be difficult for our drug to compete
+against these FDA approved TNF-antagonists because doctors and patients will
+have significant experience using these effective medicines. Moreover, in such
+indications these approved therapeutics may offer competitive advantages over
+rilonacept, such as requiring fewer injections. 
+     
+         There are both small molecules and antibodies
+in development by other companies that are designed to block the synthesis of
+interleukin-1 or inhibit the signaling of interleukin-1. For example, Eli Lilly,
+Xoma, and Novartis are each developing antibodies to interleukin-1 and Amgen is
+developing an antibody to the interleukin-1 receptor. Novartis received
+marketing approval for its IL-1 antibody for the treatment of CAPS from the FDA
+in June 2009 and from the European Medicines Agency in October 2009. Novartis is
+also developing this IL-1 antibody in gout and other inflammatory diseases.
+Novartis’ IL-1 antibody and these other drug candidates could offer competitive
+advantages over ARCALYST. For example, Novartis’ IL-1 antibody is dosed once
+every eight weeks compared to the once-weekly dosing regimen for ARCALYST. The
+successful development and/or commercialization of these competing molecules
+could impair our ability to successfully commercialize ARCALYST. 
+     
+         We have plans to develop rilonacept for the
+treatment of certain gout indications. In October 2009, Novartis announced
+positive Phase 2 results showing that canakinumab is more effective than an
+injectable corticosteroid at reducing pain and preventing recurrent attacks or
+“flares” in patients with hard-to-treat gout. Novartis’ IL-1 antibody is dosed
+less frequently for the treatment of CAPS and may be perceived as offering
+competitive advantages over rilonacept in gout by some physicians, which would
+make it difficult for us to successfully commercialize rilonacept in that
+disease. 
+     
+         Currently, inexpensive, oral therapies such as
+analgesics and other non-steroidal anti-inflammatory drugs are used as the
+standard of care to treat the symptoms of these gout diseases. These
+established, inexpensive, orally delivered drugs may make it difficult for us to
+successfully commercialize rilonacept in these diseases.
+     
+    The successful
+commercialization of ARCALYST® (rilonacept) and our
+product candidates will depend on obtaining coverage and reimbursement for use
+of these products from third-party payers and these payers may not agree to
+cover or reimburse for use of our products.
+     
+         Our product candidates, if commercialized, may
+be significantly more expensive than traditional drug treatments. For example,
+we have announced plans to initiate a Phase 3 program studying the use of
+rilonacept for the treatment of certain gout indications. Patients suffering
+from these gout indications are currently treated with inexpensive therapies,
+including non-steroidal anti-inflammatory drugs. These existing treatment
+options are likely to be considerably less expensive and may be preferable to a
+biologic medication for some patients. Our future revenues and profitability
+will be adversely affected if United States and foreign governmental, private
+third-party insurers and payers, and other third-party payers, including
+Medicare and Medicaid, do not agree to defray 
+     
+    26
+     
+    
+    
+    
+    or reimburse the cost
+of our products to the patients. If these entities refuse to provide coverage
+and reimbursement with respect to our products or provide an insufficient level
+of coverage and reimbursement, our products may be too costly for many patients
+to afford them, and physicians may not prescribe them. Many third-party payers
+cover only selected drugs, making drugs that are not preferred by such payers
+more expensive for patients, and require prior authorization or failure on
+another type of treatment before covering a particular drug. Payers may
+especially impose these obstacles to coverage on higher-priced drugs, as our
+product candidates are likely to be. 
+     
+         We market and sell ARCALYST in the United
+States for the treatment of a group of rare genetic disorders called CAPS. We
+recently received European Union marketing authorization for rilonacept for the
+treatment of CAPS. There may be too few patients with CAPS to profitably
+commercialize ARCALYST. Physicians may not prescribe ARCALYST, and CAPS patients
+may not be able to afford ARCALYST, if third party payers do not agree to
+reimburse the cost of ARCALYST therapy and this would adversely affect our
+ability to commercialize ARCALYST profitably. 
+     
+         In addition to potential restrictions on
+coverage, the amount of reimbursement for our products may also reduce our
+profitability. In the United States, there have been, and we expect will
+continue to be, actions and proposals to control and reduce healthcare costs.
+Government and other third-party payers are challenging the prices charged for
+healthcare products and increasingly limiting, and attempting to limit, both
+coverage and level of reimbursement for prescription drugs.
+     
+         Since ARCALYST and our product candidates in
+clinical development will likely be too expensive for most patients to afford
+without health insurance coverage, if our products are unable to obtain adequate
+coverage and reimbursement by third-party payers our ability to successfully
+commercialize our product candidates may be adversely impacted. Any limitation
+on the use of our products or any decrease in the price of our products will
+have a material adverse effect on our ability to achieve
+profitability.
+     
+         In certain foreign countries, pricing,
+coverage, and level of reimbursement of prescription drugs are subject to
+governmental control, and we may be unable to negotiate coverage, pricing, and
+reimbursement on terms that are favorable to us. In some foreign countries, the
+proposed pricing for a drug must be approved before it may be lawfully marketed.
+The requirements governing drug pricing vary widely from country to country. For
+example, the European Union provides options for its member states to restrict
+the range of medicinal products for which their national health insurance
+systems provide reimbursement and to control the prices of medicinal products
+for human use. A member state may approve a specific price for the medicinal
+product or it may instead adopt a system of direct or indirect controls on the
+profitability of the company placing the medicinal product on the market. Our
+results of operations may suffer if we are unable to market our products in
+foreign countries or if coverage and reimbursement for our products in foreign
+countries is limited.
+     
+    Risk Related to Employees
+     
+    We are dependent on our key personnel and if we cannot recruit and retain
+leaders in our research, development, manufacturing, and commercial
+organizations, our business will be harmed.
+     
+         We are highly dependent on certain of our
+executive officers. If we are not able to retain any of these persons or our
+Chairman, our business may suffer. In particular, we depend on the services of
+P. Roy Vagelos, M.D., the Chairman of our board of directors, Leonard Schleifer,
+M.D., Ph.D., our President and Chief Executive Officer, George D. Yancopoulos,
+M.D., Ph.D., our Executive Vice President, Chief Scientific Officer and
+President, Regeneron Research Laboratories, and Neil Stahl, Ph.D., our Senior
+Vice President, Research and Development Sciences. There is intense competition
+in the biotechnology industry for qualified scientists and managerial personnel
+in the development, manufacture, and commercialization of drugs. We may not be
+able to continue to attract and retain the qualified personnel necessary for
+developing our business.
+     
+    27
+     
+    
+    
+    
+    Risks Related to Our Common
+Stock
+     
+    Our stock price is extremely volatile.
+     
+         There has been significant volatility in our
+stock price and generally in the market prices of biotechnology companies’
+securities. Various factors and events may have a significant impact on the
+market price of our Common Stock. These factors include, by way of
+example:
+    
+      progress, delays, or adverse
+  results in clinical trials; 
+        
+      announcement of technological
+  innovations or product candidates by us or competitors; 
+        
+      fluctuations in our operating
+  results; 
+        
+      third party claims that our
+  products or technologies infringe their patents; 
+        
+      public concern as to the safety or
+  effectiveness of ARCALYST® (rilonacept) or any
+  of our product candidates; 
+        
+      developments in our relationship
+  with collaborative partners; 
+        
+      developments in the biotechnology
+  industry or in government regulation of healthcare; 
+        
+      large sales of our common stock by
+  our executive officers, directors, or significant
+  shareholders; 
+        
+      arrivals and departures of key
+  personnel; and 
+        
+      general market conditions.
+  
+    
+         The trading price of our Common Stock has
+been, and could continue to be, subject to wide fluctuations in response to
+these and other factors, including the sale or attempted sale of a large amount
+of our Common Stock in the market. Broad market fluctuations may also adversely
+affect the market price of our Common Stock.
+     
+    Future sales of our Common Stock by our significant shareholders or us
+may depress our stock price and impair our ability to raise funds in new share
+offerings.
+     
+         A small number of our shareholders
+beneficially own a substantial amount of our Common Stock. As of December 31,
+2009, our four largest shareholders plus Leonard Schleifer, M.D, Ph.D., our
+Chief Executive Officer, beneficially owned 41.6% of our outstanding shares of
+Common Stock, assuming, in the case of our Chief Executive Officer, the
+conversion of his Class A Stock into Common Stock and the exercise of all
+options held by him which are exercisable within 60 days of December 31, 2009.
+As of December 31, 2009, sanofi-aventis beneficially owned 14,799,552 shares of
+Common Stock, representing approximately 18.8% of the shares of Common Stock
+then outstanding. Under our investor agreement, as amended, with sanofi-aventis,
+sanofi-aventis may not sell these shares until December 20, 2017 except under
+limited circumstances and subject to earlier termination of these restrictions
+upon the occurrence of certain events. Notwithstanding these restrictions, if
+sanofi-aventis, or our other significant shareholders or we, sell substantial
+amounts of our Common Stock in the public market, or the perception that such
+sales may occur exists, the market price of our Common Stock could fall. Sales
+of Common Stock by our significant shareholders, including sanofi-aventis, also
+might make it more difficult for us to raise funds by selling equity or
+equity-related securities in the future at a time and price that we deem
+appropriate.
+     
+    Our existing shareholders may be able to exert significant influence over
+matters requiring shareholder approval.
+     
+         Holders of Class A Stock, who are generally
+the shareholders who purchased their stock from us before our initial public
+offering, are entitled to ten votes per share, while holders of Common Stock are
+entitled to one vote per share. As of December 31, 2009, holders of Class A
+Stock held 22.2% of the combined voting power of all shares of Common Stock and
+Class A Stock then outstanding, including any voting power associated with any
+shares of Common Stock beneficially owned by such Class A Stock holders. These
+shareholders, if acting together, would be in a position to significantly
+influence the election of our directors and to effect or prevent certain
+corporate 
+     
+    28
+     
+    
+    
+    
+    transactions that
+require majority or supermajority approval of the combined classes, including
+mergers and other business combinations. This may result in us taking corporate
+actions that you may not consider to be in your best interest and may affect the
+price of our Common Stock. As of December 31, 2009:
+    
+      our current executive officers and
+  directors beneficially owned 14.0% of our outstanding shares of Common Stock,
+  assuming conversion of their Class A Stock into Common Stock and the exercise
+  of all options held by such persons which are exercisable within 60 days of
+  December 31, 2009, and 28.5% of the combined voting power of our outstanding
+  shares of Common Stock and Class A Stock, assuming the exercise of all options
+  held by such persons which are exercisable within 60 days of December 31,
+  2009; and 
+        
+      our four largest shareholders plus
+  Leonard S. Schleifer, M.D., Ph.D. our Chief Executive Officer, beneficially
+  owned 41.6% of our outstanding shares of Common Stock, assuming, in the case
+  of our Chief Executive Officer, the conversion of his Class A Stock into
+  Common Stock and the exercise of all options held by him which are exercisable
+  within 60 days of December 31, 2009. In addition, these five shareholders held
+  48.5% of the combined voting power of our outstanding shares of Common Stock
+  and Class A Stock, assuming the exercise of all options held by our Chief
+  Executive Officer which are exercisable within 60 days of December 31,
+  2009. 
+    
+         Pursuant to an investor agreement, as amended,
+sanofi-aventis has agreed to vote its shares, at sanofi-aventis’ election,
+either as recommended by our board of directors or proportionally with the votes
+cast by our other shareholders, except with respect to certain change of control
+transactions, liquidation or dissolution, stock issuances equal to or exceeding
+10% of the then outstanding shares or voting rights of Common Stock and Class A
+Stock, and new equity compensation plans or amendments if not materially
+consistent with our historical equity compensation practices. 
+     
+    The anti-takeover effects of provisions of our charter, by-laws, and of
+New York corporate law and the contractual “standstill” provisions in our
+investor agreement with sanofi-aventis, could deter, delay, or prevent an
+acquisition or other “change in control” of us and could adversely affect the
+price of our Common Stock.
+     
+         Our amended and restated certificate of
+incorporation, our by-laws, and the New York Business Corporation Law contain
+various provisions that could have the effect of delaying or preventing a change
+in control of our company or our management that shareholders may consider
+favorable or beneficial. Some of these provisions could discourage proxy
+contests and make it more difficult for you and other shareholders to elect
+directors and take other corporate actions. These provisions could also limit
+the price that investors might be willing to pay in the future for shares of our
+Common Stock. These provisions include:
+    
+      authorization to issue “blank
+  check” preferred stock, which is preferred stock that can be created and
+  issued by the board of directors without prior shareholder approval, with
+  rights senior to those of our common shareholders; 
+        
+      a staggered board of directors, so
+  that it would take three successive annual meetings to replace all of our
+  directors; 
+        
+      a requirement that removal of
+  directors may only be effected for cause and only upon the affirmative vote of
+  at least eighty percent (80%) of the outstanding shares entitled to vote for
+  directors, as well as a requirement that any vacancy on the board of directors
+  may be filled only by the remaining directors; 
+        
+      any action required or permitted
+  to be taken at any meeting of shareholders may be taken without a meeting,
+  only if, prior to such action, all of our shareholders consent, the effect of
+  which is to require that shareholder action may only be taken at a duly
+  convened meeting; 
+        
+      any shareholder seeking to bring
+  business before an annual meeting of shareholders must provide timely notice
+  of this intention in writing and meet various other requirements;
+  and 
+        
+      under the New York Business
+  Corporation Law, in addition to certain restrictions which may apply to
+  “business combinations” involving the Company and an “interested shareholder”,
+  a plan of merger or consolidation of the Company must be approved by
+  two-thirds of the votes of all outstanding shares entitled to vote thereon.
+  See the risk factor immediately above captioned “Our existing shareholders may be
+  able to exert significant influence over matters requiring shareholder
+  approval.” 
+    
+    29
+     
+    
+
+    
+    
+         Until the later of the fifth anniversaries of
+the expiration or earlier termination of our antibody collaboration agreements
+with sanofi-aventis or our aflibercept collaboration with sanofi-aventis,
+sanofi-aventis will be bound by certain “standstill” provisions, which
+contractually prohibit sanofi-aventis from acquiring more than certain specified
+percentages of our Class A Stock and Common Stock (taken together) or otherwise
+seeking to obtain control of the Company. 
+     
+         In addition, we have a Change in Control
+Severance Plan and our Chief Executive Officer has an employment agreement that
+provides severance benefits in the event our officers are terminated as a result
+of a change in control of the Company. Many of our stock options issued under
+our Amended and Restated 2000 Long-Term Incentive Plan may become fully vested
+in connection with a “change in control” of our company, as defined in the
+plan.
+     
+    ITEM 1B

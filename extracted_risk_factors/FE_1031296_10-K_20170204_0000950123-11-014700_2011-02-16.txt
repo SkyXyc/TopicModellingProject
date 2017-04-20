@@ -1,0 +1,1753 @@
+ITEM 1A.
+     
+    RISK FACTORS
+
+
+
+
+
+
+
+We operate in a business environment that involves significant risks, many of which are beyond our
+control. Management of each Registrant regularly evaluates the most significant risks of the
+Registrant’s businesses and reviews those risks with the FirstEnergy Board of Directors or
+appropriate Committees of the Board. The following risk factors and all other information contained
+in this report should be considered carefully when evaluating FirstEnergy and our subsidiaries.
+These risk factors could affect our financial results and cause such results to differ materially
+from those expressed in any forward-looking statements made by or on behalf of us. Below, we have
+identified risks we currently consider material. Additional information on risk factors is included
+in “Item 1. Business” and “Item 7. Management’s Discussion and Analysis of Financial Condition and
+Results of Operations” and in other sections of this Form 10-K that include forward-looking and
+other statements involving risks and uncertainties that could impact our business and financial
+results.
+
+
+
+Risks Related to Business Operations
+
+
+
+Risks Arising from the Reliability of Our Power Plants and Transmission and Distribution Equipment
+
+
+
+Operation of generation, transmission and distribution facilities involves risk, including, the
+risk of potential breakdown or failure of equipment or processes, due to aging infrastructure, fuel
+supply or transportation disruptions, accidents, labor disputes or work stoppages by employees,
+acts of terrorism or sabotage, construction delays or cost overruns, shortages of or delays in
+obtaining equipment, material and labor, operational restrictions resulting from environmental
+limitations and governmental interventions, and performance below expected levels. In addition,
+weather-related incidents and other natural disasters can disrupt generation, transmission and
+distribution delivery systems. Because our transmission facilities are interconnected with those of
+third parties, the operation of our facilities could be adversely affected by unexpected or
+uncontrollable events occurring on the systems of such third parties.
+
+
+ 
+
+23
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Operation of our power plants below expected capacity could result in lost revenues and increased
+expenses, including higher operating and maintenance costs, purchased power costs and capital
+requirements. Unplanned outages of generating units and extensions of scheduled outages due to
+mechanical failures or other problems occur from time to time and are an inherent risk of our
+business. Unplanned outages typically increase our operation and maintenance expenses and may
+reduce our revenues as a result of selling fewer MWH or may require us to incur significant costs
+as a result of operating our higher cost units or obtaining replacement power from third parties in
+the open market to satisfy our forward power sales obligations. Moreover, if we were unable to
+perform under contractual obligations, penalties or liability for damages could result. FES, FGCO
+and the Ohio Companies are exposed to losses under their applicable sale-leaseback arrangements for
+generating facilities upon the occurrence of certain contingent events that could render those
+facilities worthless. Although we believe these types of events are unlikely to occur, FES, FGCO
+and the Ohio Companies have a maximum exposure to loss under those provisions of approximately
+$1.36 billion for FES, $666 million for OE and an aggregate of $622 million for TE and CEI as
+co-lessees.
+
+
+
+We remain obligated to provide safe and reliable service to customers within our franchised service
+territories. Meeting this commitment requires the expenditure of significant capital resources.
+Failure to provide safe and reliable service and failure to meet regulatory reliability standards
+due to a number of factors, including, but not limited to, equipment failure and weather, could
+adversely affect our operating results through reduced revenues and increased capital and operating
+costs and the imposition of penalties/fines or other adverse regulatory outcomes.
+
+
+
+Changes in Commodity Prices Could Adversely Affect Our Profit Margins
+
+
+
+We purchase and sell electricity in the competitive wholesale and retail markets. Increases in the
+costs of fuel for our generation facilities (particularly coal, uranium and natural gas) can affect
+our profit margins. Changes in the market price of electricity, which are affected by changes in
+other commodity costs and other factors, may impact our results of operations and financial
+position by increasing the amount we pay to purchase power to supply POLR and default service
+obligations in the states we do business. In addition, the global economy could lead to lower
+international demand for coal, oil and natural gas, which may lower fossil fuel prices and put
+downward pressure on electricity prices.
+
+
+
+Electricity and fuel prices may fluctuate substantially over relatively short periods of time for a
+variety of reasons, including:
+
+
+
+
+
+
+
+     
+    •
+     
+    changing weather conditions or seasonality;
+
+
+
+     
+
+     
+    •
+     
+    changes in electricity usage by our customers;
+
+
+
+     
+
+     
+    •
+     
+    illiquidity and credit worthiness of participants in wholesale power and other markets;
+
+
+
+     
+
+     
+    •
+     
+    transmission congestion or transportation constraints, inoperability or inefficiencies;
+
+
+
+     
+
+     
+    •
+     
+    availability of competitively priced alternative energy sources;
+
+
+
+     
+
+     
+    •
+     
+    changes in supply and demand for energy commodities;
+
+
+
+     
+
+     
+    •
+     
+    changes in power production capacity;
+
+
+
+     
+
+     
+    •
+     
+    outages at our power production facilities or those of our competitors;
+
+
+
+     
+
+     
+    •
+     
+    changes in production and storage levels of natural gas, lignite, coal, crude oil and refined products;
+
+
+
+     
+
+     
+    •
+     
+    changes in legislation and regulation; and
+
+
+
+     
+
+     
+    •
+     
+    natural disasters, wars, acts of sabotage, terrorist acts, embargoes and other catastrophic events.
+
+
+
+
+
+We Are Exposed to Operational, Price and Credit Risks Associated With Selling and Marketing
+Products in the Power Markets That We Do Not Always Completely Hedge Against
+
+
+We purchase and sell power at the wholesale level under market-based tariffs authorized by the
+FERC, and also enter into agreements to sell available energy and capacity from our generation
+assets. If we are unable to deliver firm capacity and energy under these agreements, we may be
+required to pay damages. These damages would generally be based on the difference between the
+market price to acquire replacement capacity or energy and the contract price of the undelivered
+capacity or energy. Depending on price volatility in the wholesale energy markets, such damages
+could be significant. Extreme weather conditions, unplanned power plant outages, transmission
+disruptions, and other factors could affect our ability to meet our obligations, or cause increases
+in the market price of replacement capacity and energy.
+
+
+ 
+
+24
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+We attempt to mitigate risks associated with satisfying our contractual power sales arrangements by
+reserving generation capacity to deliver electricity to satisfy our net firm sales contracts and,
+when necessary, by purchasing firm transmission service. We also routinely enter into contracts,
+such as fuel and power purchase and sale commitments, to hedge our exposure to fuel requirements
+and other energy-related commodities. We may not, however, hedge the entire exposure of our
+operations from commodity price volatility. To the extent we do not hedge against commodity price
+volatility, our results of operations and financial position could be negatively affected.
+
+
+
+The Use of Derivative Contracts by Us to Mitigate Risks Could Result in Financial Losses That May
+Negatively Impact Our Financial Results
+
+
+We use a variety of non-derivative and derivative instruments, such as swaps, options, futures and
+forwards, to manage our commodity and financial market risks. In the absence of actively quoted
+market prices and pricing information from external sources, the valuation of some of these
+derivative instruments involves management’s judgment or use of estimates. As a result, changes in
+the underlying assumptions or use of alternative valuation methods could affect the reported fair
+value of some of these contracts. Also, we could recognize financial losses as a result of
+volatility in the market values of these contracts or if a counterparty fails to perform.
+
+
+
+Financial Derivatives Reforms Could Increase Our Liquidity Needs and Collateral Costs
+
+
+In July 2010, federal legislation was enacted to reform financial markets that significantly alter
+how over-the-counter (OTC) derivatives are regulated. The law increased regulatory oversight of
+OTC energy derivatives, including (1) requiring standardized OTC derivatives to be traded on
+registered exchanges regulated by the Commodity Futures Trading Commission (CFTC), (2) imposing new
+and potentially higher capital and margin requirements and (3) authorizing the establishment of
+overall volume and position limits. The law gives the CFTC authority to exempt end users of energy
+commodities which could reduce, but not eliminate, the applicability of these measures to us and
+other end users. These requirements could cause our OTC transactions to be more costly and have an
+adverse effect on our liquidity due to additional capital requirements. In addition, as these
+reforms aim to standardize OTC products it could limit the effectiveness of our hedging programs
+because we would have less ability to tailor OTC derivatives to match the precise risk we are
+seeking to protect.
+
+
+
+Our Risk Management Policies Relating to Energy and Fuel Prices, and Counterparty Credit, Are by
+Their Very Nature Risk Related, and We Could Suffer Economic Losses Despite Such Policies
+
+
+We attempt to mitigate the market risk inherent in our energy, fuel and debt positions. Procedures
+have been implemented to enhance and monitor compliance with our risk management policies,
+including validation of transaction and market prices, verification of risk and transaction limits,
+sensitivity analysis and daily portfolio reporting of various risk measurement metrics.
+Nonetheless, we cannot economically hedge all of our exposures in these areas and our risk
+management program may not operate as planned. For example, actual electricity and fuel prices may
+be significantly different or more volatile than the historical trends and assumptions reflected in
+our analyses. Also, our power plants might not produce the expected amount of power during a given
+day or time period due to weather conditions, technical problems or other unanticipated events,
+which could require us to make energy purchases at higher prices than the prices under our energy
+supply contracts. In addition, the amount of fuel required for our power plants during a given day
+or time period could be more than expected, which could require us to buy additional fuel at prices
+less favorable than the prices under our fuel contracts. As a result, we cannot always predict the
+impact that our risk management decisions may have on us if actual events lead to greater losses or
+costs than our risk management positions were intended to hedge.
+
+
+
+Our risk management activities, including our power sales agreements with counterparties, rely on
+projections that depend heavily on judgments and assumptions by management of factors such as
+future market prices and demand for power and other energy-related commodities. These factors
+become more difficult to predict and the calculations become less reliable the further into the
+future these estimates are made. Even when our policies and procedures are followed and decisions
+are made based on these estimates, results of operations may be diminished if the judgments and
+assumptions underlying those calculations prove to be inaccurate.
+
+
+
+We also face credit risks from parties with whom we contract who could default in their
+performance, in which cases we could be forced to sell our power into a lower-priced market or make
+purchases in a higher-priced market than existed at the time of executing the contract. Although we
+have established risk management policies and programs, including credit policies to evaluate
+counterparty credit risk, there can be no assurance that we will be able to fully meet our
+obligations, that we will not be required to pay damages for failure to perform or that we will not
+experience counterparty non-performance or that we will collect for voided contracts. If
+counterparties to these arrangements fail to perform, we may be forced to enter into alternative
+hedging arrangements or honor underlying commitments at then-current market prices. In that event,
+our financial results could be adversely affected.
+
+
+ 
+
+25
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Nuclear Generation Involves Risks that Include Uncertainties Relating to Health and Safety,
+Additional Capital Costs, the Adequacy of Insurance Coverage and Nuclear Plant Decommissioning
+
+
+We are subject to the risks of nuclear generation, including but not limited to the following:
+
+
+
+
+
+
+
+     
+    •
+     
+    the potential harmful effects on the environment and human health
+resulting from unplanned radiological releases associated with the
+operation of our nuclear facilities and the storage, handling and
+disposal of radioactive materials;
+
+
+
+     
+
+     
+    •
+     
+    limitations on the amounts and types of insurance commercially
+available to cover losses that might arise in connection with our
+nuclear operations or those of others in the United States;
+
+
+
+     
+
+     
+    •
+     
+    uncertainties with respect to contingencies and assessments if insurance coverage is inadequate; and
+
+
+
+     
+
+     
+    •
+     
+    uncertainties with respect to the technological and financial aspects
+of decommissioning nuclear plants at the end of their licensed
+operation including increases in minimum funding requirements or costs
+of completion.
+
+
+
+
+
+The NRC has broad authority under federal law to impose licensing security and safety-related
+requirements for the operation of nuclear generation facilities. In the event of non-compliance,
+the NRC has the authority to impose fines and/or shut down a unit, depending upon its assessment of
+the severity of the situation, until compliance is achieved. Revised safety requirements
+promulgated by the NRC could necessitate substantial capital expenditures at nuclear plants,
+including ours. Also, a serious nuclear incident at a nuclear facility anywhere in the world could
+cause the NRC to limit or prohibit the operation or relicensing of any domestic nuclear unit.
+
+
+
+Our nuclear facilities are insured under NEIL policies issued for each plant. Under these policies,
+up to $2.8 billion of insurance coverage is provided for property damage and decontamination and
+decommissioning costs. We have also obtained approximately $2.0 billion of insurance coverage for
+replacement power costs. Under these policies, we can be assessed a maximum of approximately $79
+million for incidents at any covered nuclear facility occurring during a policy year that are in
+excess of accumulated funds available to the insurer for paying losses.
+
+
+
+The Price-Anderson Act limits the public liability that can be assessed with respect to a nuclear
+power plant to $12.6 billion (assuming 104 units licensed to operate in the United States) for a
+single nuclear incident, which amount is covered by: (i) private insurance amounting to $375
+million; and (ii) $12.2 billion provided by an industry retrospective rating plan. Under such
+retrospective rating plan, in the event of a nuclear incident at any unit in the United States
+resulting in losses in excess of private insurance, up to $118 million (but not more than $18
+million per year) must be contributed for each nuclear unit licensed to operate in the country by
+the licensees thereof to cover liabilities arising out of the incident. Our maximum potential
+exposure under these provisions would be $470 million per incident but not more than $70 million in
+any one year.
+
+
+
+Capital Market Performance and Other Changes May Decrease the Value of Decommissioning Trust Fund,
+Pension Fund Assets and Other Trust Funds Which Then Could Require Significant Additional Funding
+
+
+Our financial statements reflect the values of the assets held in trust to satisfy our obligations
+to decommission our nuclear generation facilities and under pension and other post-retirement
+benefit plans. The value of certain of the assets held in these trusts do not have readily
+determinable market values. Changes in the estimates and assumptions inherent in the value of these
+assets could affect the value of the trusts. If the value of the assets held by the trusts
+declines by a material amount, our funding obligation to the trusts could materially increase.
+ These assets are subject to market fluctuations and will yield
+uncertain returns, which may fall below our projected return rates. Forecasting investment earnings
+and costs to decommission nuclear generating stations, to pay future pensions and other obligations
+requires significant judgment, and actual results may differ significantly from current estimates.
+Capital market conditions that generate investment losses or greater liability levels can
+negatively impact our results of operations and financial position.
+
+
+ 
+
+26
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+We Could be Subject to Higher Costs and/or Penalties Related to Mandatory Reliability Standards Set
+by NERC/FERC or Changes in the Rules of Organized Markets and the States in Which We Do Business
+
+
+As a result of the EPACT, owners, operators, and users of the bulk electric system are subject to
+mandatory reliability standards promulgated by the NERC and approved by FERC as well as mandatory
+reliability standards and energy efficiency requirements imposed by each of the states in which we
+operate. The standards are based on the functions that need to be performed to ensure that the bulk
+electric system operates reliably. Compliance with modified or new reliability standards may
+subject us to higher operating costs and/or increased capital expenditures. If we were found not to
+be in compliance with the mandatory reliability standards, we could be subject to sanctions,
+including substantial monetary penalties.
+
+
+
+Reliability standards that were historically subject to voluntary compliance are now mandatory and
+could subject us to potential civil penalties for violations which could negatively impact our
+business. The FERC can now impose penalties of $1.0 million per day for failure to comply with
+these mandatory electric reliability standards.
+
+
+
+In addition to direct regulation by the FERC and the states, we are also subject to rules and terms
+of participation imposed and administered by various RTOs and ISOs. Although these entities are
+themselves ultimately regulated by the FERC, they can impose rules, restrictions and terms of
+service that are quasi-regulatory in nature and can have a material adverse impact on our business.
+For example, the independent market monitors of ISOs and RTOs may impose bidding and scheduling
+rules to curb the potential exercise of market power and to ensure the market functions. Such
+actions may materially affect our ability to sell, and the price we receive for, our energy and
+capacity. In addition, the RTOs may direct our transmission owning affiliates to build new
+transmission facilities to meet the reliability requirements of the RTO or to provide new or
+expanded transmission service under the RTO tariffs.
+
+
+
+We Rely on Transmission and Distribution Assets That We Do Not Own or Control to Deliver Our
+Wholesale Electricity. If Transmission is Disrupted Including Our Own Transmission, or Not Operated
+Efficiently, or if Capacity is Inadequate, Our Ability to Sell and Deliver Power May Be Hindered
+
+
+We depend on transmission and distribution facilities owned and operated by utilities and other
+energy companies to deliver the electricity we sell. If transmission is disrupted (as a result of
+weather, natural disasters or other reasons) or not operated efficiently by independent system
+operators, in applicable markets, or if capacity is inadequate, our ability to sell and deliver
+products and satisfy our contractual obligations may be hindered, or we may be unable to sell
+products on the most favorable terms. In addition, in certain of the markets in which we operate,
+we may be required to pay for congestion costs if we schedule delivery of power between congestion
+zones during periods of high demand. If we are unable to hedge or recover for such congestion
+costs in retail rates, our financial results could be adversely affected.
+
+
+
+Demand for electricity within our Utilities’ service areas could stress available transmission
+capacity requiring alternative routing or curtailing electricity usage that may increase operating
+costs or reduce revenues with adverse impacts to results of operations. In addition, as with all
+utilities, potential concerns over transmission capacity could result in MISO, PJM or the FERC
+requiring us to upgrade or expand our transmission system, requiring additional capital
+expenditures.
+
+
+
+The FERC requires wholesale electric transmission services to be offered on an open-access,
+non-discriminatory basis. Although these regulations are designed to encourage competition in
+wholesale market transactions for electricity, it is possible that fair and equal access to
+transmission systems will not be available or that sufficient transmission capacity will not be
+available to transmit electricity as we desire. We cannot predict the timing of industry changes as
+a result of these initiatives or the adequacy of transmission facilities in specific markets or
+whether independent system operators in applicable markets will operate the transmission networks,
+and provide related services, efficiently.
+
+
+
+Disruptions in Our Fuel Supplies Could Occur, Which Could Adversely Affect Our Ability to Operate
+Our Generation Facilities and Impact Financial Results
+
+
+We purchase fuel from a number of suppliers. The lack of availability of fuel at expected prices,
+or a disruption in the delivery of fuel which exceeds the duration of our on-site fuel inventories,
+including disruptions as a result of weather, increased transportation costs or other difficulties,
+labor relations or environmental or other regulations affecting our fuel suppliers, could cause an
+adverse impact on our ability to operate our facilities, possibly resulting in lower sales and/or
+higher costs and thereby adversely affect our results of operations. Operation of our coal-fired
+generation facilities is highly dependent on our ability to procure coal. Although we have
+long-term contracts in place for our coal and coal transportation needs, power generators in the
+Midwest and the Northeast have experienced significant pressures on available coal supplies that
+are either transportation or supply related. If prices for physical delivery are unfavorable, our
+financial condition, results of operations and cash flows could be materially adversely affected.
+
+
+ 
+
+27
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Temperature Variations as well as Weather Conditions or other Natural Disasters Could Have a
+Negative Impact on Our Results of Operations and Demand Significantly Below or Above Our Forecasts
+Could Adversely Affect Our Energy Margins
+
+
+Weather conditions directly influence the demand for electric power. Demand for power generally
+peaks during the summer and winter months, with market prices also typically peaking at that time.
+Overall operating results may fluctuate based on weather conditions. In addition, we have
+historically sold less power, and consequently received less revenue, when weather conditions are
+milder. Severe weather, such as tornadoes, hurricanes, ice or snow storms, or droughts or other
+natural disasters, may cause outages and property damage that may require us to incur additional
+costs that are generally not insured and that may not be recoverable from customers. The effect of
+the failure of our facilities to operate as planned under these conditions would be particularly
+burdensome during a peak demand period.
+
+
+
+Customer demand could change as a result of severe weather conditions or other circumstances over
+which we have no control. We satisfy our electricity supply obligations through a portfolio
+approach of providing electricity from our generation assets, contractual relationships and market
+purchases. A significant increase in demand could adversely affect our energy margins if we are
+required under the terms of the default service tariffs to provide the energy supply to fulfill
+this increased demand at capped rates, which we expect would remain below the wholesale prices at
+which we would have to purchase the additional supply if needed or, if we had available capacity,
+the prices at which we could otherwise sell the additional supply. Accordingly, any significant
+change in demand could have a material adverse effect on our results of operations and financial
+position.
+
+
+
+We Are Subject to Financial Performance Risks Related to Regional and General Economic Cycles and
+also Related to Heavy Manufacturing Industries such as Automotive and Steel
+
+
+Our business follows the economic cycles of our customers. As our retail strategy is centered
+around the sale of output from our generating plants generally where that power will reach,
+therefore, we are more directly impacted by the economic conditions in our primary markets (i.e.,
+Pennsylvania, Ohio, Maryland, New Jersey, Michigan and Illinois).
+Declines in demand for electricity as a result of a regional economic downturn would be expected to
+reduce overall electricity sales and reduce our revenues. Electric generation sales volume has
+been, and is expected to continue to be, influenced by circumstances in automotive, steel and other
+heavy industries.
+
+
+
+Increases in Customer Electric Rates and Economic Uncertainty May Lead to a Greater Amount of
+Uncollectible Customer Accounts
+
+
+Our operations are impacted by the economic conditions in our service territories and those
+conditions could negatively impact the rate of delinquent customer accounts and our collections of
+accounts receivable which could adversely impact our financial condition, results of operations and
+cash flows.
+
+
+
+The Goodwill of One or More of Our Operating Subsidiaries May Become Impaired, Which Would Result
+in Write-Offs of the Impaired Amounts
+
+
+Goodwill could become impaired at one or more of our operating subsidiaries. The actual timing and
+amounts of any goodwill impairments in future years would depend on many uncertainties, including
+changing interest rates, utility sector market performance, our capital structure, market prices
+for power, results of future rate proceedings, operating and capital expenditure requirements, the
+value of comparable utility acquisitions, environmental regulations and other factors.
+
+
+
+We Face Certain Human Resource Risks Associated with the Availability of Trained and Qualified
+Labor to Meet Our Future Staffing Requirements
+
+
+We must find ways to retain our aging skilled workforce while recruiting new talent to mitigate
+losses in critical knowledge and skills due to retirements. Mitigating these risks could require
+additional financial commitments.
+
+
+ 
+
+28
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Significant Increases in Our Operation and Maintenance Expenses, Including Our Health Care and
+Pension Costs, Could Adversely Affect Our Future Earnings and Liquidity
+
+
+We continually focus on limiting, and reducing where possible, our operation and maintenance
+expenses. However, we expect cost pressures could increase as we continue to implement our retail
+sales strategy. We expect to continue to face increased cost pressures in the areas of health care
+and pension costs. We have experienced significant health care cost inflation in the last few
+years, and we expect our cash outlay for health care costs, including prescription drug coverage,
+to continue to increase despite measures that we have taken and expect to take requiring employees
+and retirees to bear a higher portion of the costs of their health care benefits. The measurement
+of our expected future health care and pension obligations and costs is highly dependent on a
+variety of assumptions, many of which relate to factors beyond our control. These assumptions
+include investment returns, interest rates, health care cost trends, benefit design
+changes, salary increases, the demographics of plan participants and regulatory requirements. If
+actual results differ materially from our assumptions, our costs could be significantly increased.
+
+
+
+Our Business is Subject to the Risk that Sensitive Customer Data May be Compromised, Which Could
+Result in an Adverse Impact to Our Reputation and/or Results of Operations
+
+
+Our business requires access to sensitive customer data, including personal and credit information,
+in the ordinary course of business. A security breach may occur, despite security measures taken by
+us and required of vendors. If a significant or widely publicized breach occurred, our business
+reputation may be adversely affected, customer confidence may be diminished, or we may become
+subject to legal claims, fines or penalties, any of which could have a negative impact on our
+business and/or results of operations.
+
+
+
+Acts of War or Terrorism Could Negatively Impact Our Business
+
+
+The possibility that our infrastructure, such as electric generation, transmission and distribution
+facilities, or that of an interconnected company, could be direct targets of, or indirect
+casualties of, an act of war or terrorism, could result in disruption of our ability to generate,
+purchase, transmit or distribute electricity. Any such disruption could result in a decrease in
+revenues and additional costs to purchase electricity and to replace or repair our assets, which
+could have a material adverse impact on our results of operations and financial condition.
+
+
+
+Capital Improvements and Construction Projects May Not be Completed Within Forecasted Budget,
+Schedule or Scope Parameters
+
+
+Our business plan calls for extensive capital investments. We may be exposed to the risk of
+substantial price increases in the costs of labor and materials used in construction. We have
+engaged numerous contractors and entered into a large number of agreements to acquire the necessary
+materials and/or obtain the required construction-related services. As a result, we are also
+exposed to the risk that these contractors and other counterparties could breach their obligations
+to us. Such risk could include our contractors’ inabilities to procure sufficient skilled labor as
+well as potential work stoppages by that labor force. Should the counterparties to these
+arrangements fail to perform, we may be forced to enter into alternative arrangements at
+then-current market prices that may exceed our contractual prices, with resulting delays in those
+and other projects. Although our agreements are designed to mitigate the consequences of a
+potential default by the counterparty, our actual exposure may be greater than these mitigation
+provisions. This could have negative financial impacts such as incurring losses or delays in
+completing construction projects.
+
+
+
+Changes in Technology May Significantly Affect Our Generation Business by Making Our Generating
+Facilities Less Competitive
+
+
+We primarily generate electricity at large central facilities. This method results in economies of
+scale and lower costs than newer technologies such as fuel cells, microturbines, windmills and
+photovoltaic solar cells. It is possible that advances in technologies will reduce their costs to
+levels that are equal to or below that of most central station electricity production, which could
+have a material adverse effect on our results of operations.
+
+
+
+We May Acquire Assets That Could Present Unanticipated Issues for Our Business in the Future, Which
+Could Adversely Affect Our Ability to Realize Anticipated Benefits of Those Acquisitions
+
+
+Asset acquisitions involve a number of risks and challenges, including: management attention;
+integration with existing assets; difficulty in evaluating the requirements associated with the
+assets prior to acquisition, operating costs, potential environmental and other liabilities, and
+other factors beyond our control; and an increase in our expenses and working capital requirements.
+Any of these factors could adversely affect our ability to achieve anticipated levels of cash
+flows or realize other anticipated benefits from any such asset acquisition.
+
+
+ 
+
+29
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Ability of Certain FirstEnergy Companies to Meet Their Obligations to Other FirstEnergy Companies
+
+
+Certain of the FirstEnergy companies have obligations to other FirstEnergy companies because of
+transactions involving energy, coal, other commodities, services, and because of hedging
+transactions. If one FirstEnergy entity failed to perform under any of these arrangements, other
+FirstEnergy entities could incur losses. Their results of operations, financial position, or
+liquidity could be adversely affected, resulting in the nondefaulting FirstEnergy entity being
+unable to meet its obligations to unrelated third parties. Our hedging activities are generally
+undertaken with a view to overall FirstEnergy exposures. Some FirstEnergy companies may therefore
+be more or less hedged than if they were to engage in such transactions alone.
+
+
+Risks Associated With Our Proposed Merger With Allegheny
+
+
+
+We May be Unable to Obtain the Approvals Required to Complete Our Merger with Allegheny or, in
+Order to do so, the Combined Company May be Required to Comply With Material Restrictions or
+Conditions
+
+
+
+On
+February 11, 2010, we announced the execution of a merger
+agreement with Allegheny. The only regulatory approval pending is
+from the PPUC. The PPUC could impose
+conditions on the completion, or require changes to the terms, of the merger, including
+restrictions or conditions on the business, operations, or financial performance of the combined
+company following completion of the merger. These conditions or changes could have the effect of
+delaying completion of the merger or imposing additional costs on or limiting the revenues of the
+combined company following the merger, which could have a material adverse effect on the financial
+results of the combined company and/or cause either us or Allegheny to abandon the merger.
+
+
+
+If Completed, Our Merger with Allegheny May Not Achieve Its Intended Results
+
+
+
+We and Allegheny entered into the merger agreement with the expectation that the merger would
+result in various benefits, including, among other things, cost savings and operating efficiencies
+relating to both the regulated utility operations and the generation business. Achieving the
+anticipated benefits of the merger is subject to a number of uncertainties, including whether the
+business of Allegheny is integrated in an efficient and effective manner. Failure to achieve these
+anticipated benefits could result in increased costs, decreases in the amount of expected revenues
+generated by the combined company and diversion of management’s time and energy and could have an
+adverse effect on the combined company’s business, financial results and prospects.
+
+
+
+We Will be Subject to Business Uncertainties and Contractual Restrictions While the Merger with
+Allegheny is Pending That Could Adversely Affect Our Financial Results
+
+
+
+Uncertainty about the effect of the merger with Allegheny on employees and customers may have an
+adverse effect on us. Although we intend to take steps designed to reduce any adverse effects,
+these uncertainties may impair our ability to attract, retain and motivate key personnel until the
+merger is completed and for a period of time thereafter, and could cause customers, suppliers and
+others that deal with us to seek to change existing business relationships.
+
+
+
+Employee retention and recruitment may be particularly challenging prior to the completion of the
+merger, as employees and prospective employees may experience uncertainty about their future roles
+with the combined company. If, despite our retention and recruiting efforts, key employees depart
+or fail to accept employment with us because of issues relating to the uncertainty and difficulty
+of integration or a desire not to remain with the combined company, our financial results could be
+affected.
+
+
+
+The pursuit of the merger and the preparation for the integration of Allegheny into our company may
+place a significant burden on management and internal resources. The diversion of management
+attention away from day-to-day business concerns and any difficulties encountered in the transition
+and integration process could affect our financial results.
+
+
+
+In addition, the merger agreement restricts us, without Allegheny‘s consent, from making
+certain acquisitions and taking other specified actions until the merger occurs or the merger
+agreement terminates. These restrictions may prevent us from pursuing otherwise attractive business
+opportunities and making other changes to our business prior to completion of the merger or
+termination of the merger agreement.
+
+
+
+Failure to Complete Our Merger with Allegheny Could Negatively Impact Our Stock Price and Our
+Future Business and Financial Results
+
+
+
+If our merger with Allegheny is not completed, our ongoing business and financial results may be
+adversely affected and we would be subject to a number of risks, including the following:
+
+
+
+
+
+
+
+     
+    •
+     
+    We may be required, under specified circumstances set forth in the Merger
+Agreement, to pay Allegheny a termination fee of $350 million and/or
+Allegheny’s reasonable out-of-pocket transaction expenses up to $45 million;
+
+
+
+     
+
+     
+    •
+     
+    we would be required to pay costs relating to the merger, including
+legal, accounting, financial advisory, filing and printing costs,
+whether or not the merger is completed; and
+
+
+
+     
+
+     
+    •
+     
+    matters relating to our merger with Allegheny (including integration
+planning) may require substantial commitments of time and resources by
+our management, which could otherwise have been devoted to other
+opportunities that may have been beneficial to us.
+
+
+
+
+
+We could also be subject to litigation related to any failure to complete our merger with
+Allegheny. If our merger is not completed, these risks may materialize and may adversely affect
+our business, financial results and stock price.
+
+ 
+
+30
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Risks Associated With Regulation
+
+
+
+Complex and Changing Government Regulations Could Have a Negative Impact on Our Results of
+Operations
+
+
+We are subject to comprehensive regulation by various federal, state and local regulatory agencies
+that significantly influence our operating environment. Changes in, or reinterpretations of,
+existing laws or regulations, or the imposition of new laws or regulations, could require us to
+incur additional costs or change the way we conduct our business, and therefore could have an
+adverse impact on our results of operations.
+
+
+
+Our utility subsidiaries currently provide service at rates approved by one or more regulatory
+commissions. Thus, the rates a utility is allowed to charge may or may not be set to recover its
+expenses at any given time. Additionally, there may also be a delay between the timing of when
+costs are incurred and when costs are recovered. For example, we may be unable to timely recover
+the costs for our energy efficiency investments, expenses and additional capital or lost revenues
+resulting from the implementation of aggressive energy efficiency programs. While rate regulation
+is premised on providing an opportunity to earn a reasonable return on invested capital and
+recovery of operating expenses, there
+can be no assurance that the applicable regulatory commission will determine that all of our costs
+have been prudently incurred or that the regulatory process in which rates are determined will
+always result in rates that will produce full recovery of our costs in a timely manner. For
+example, our utility subsidiaries’ ability to timely recover rates and charges associated with
+integration of the ATSI footprint into PJM is uncertain.
+
+
+
+Regulatory Changes in the Electric Industry, Including a Reversal, Discontinuance or Delay of the
+Present Trend Toward Competitive Markets, Could Affect Our Competitive Position and Result in
+Unrecoverable Costs Adversely Affecting Our Business and Results of Operations
+
+
+As a result of restructuring initiatives, changes in the electric utility business have occurred,
+and are continuing to take place throughout the United States, including the states in which we do
+business. These changes have resulted, and are expected to continue to result, in fundamental
+alterations in the way utilities conduct their business.
+
+
+
+Some states that have deregulated generation service have experienced difficulty in transitioning
+to market-based pricing. In some instances, state and federal government agencies and other
+interested parties have made proposals to impose rate cap extensions or otherwise delay market
+restructuring or even re-regulate areas of these markets that have previously been deregulated.
+Although we expect wholesale electricity markets to continue to be competitive, proposals to
+re-regulate our industry may be made, and legislative or other action affecting the electric power
+restructuring process may cause the process to be delayed, discontinued or reversed in the states
+in which we currently, or may in the future, operate. Such delays, discontinuations or reversals of
+electricity market restructuring in the markets in which we operate could have an adverse impact on
+our results of operations and financial condition.
+
+
+
+The FERC and the U.S. Congress propose changes from time to time in the structure and conduct of
+the electric utility industry. If the restructuring, deregulation or re-regulation efforts result
+in decreased margins or unrecoverable costs, our business and results of operations would be
+adversely affected. We cannot predict the extent or timing of further efforts to restructure,
+deregulate or re-regulate our business or the industry.
+
+
+
+The Prospect of Rising Rates Could Prompt Legislative or Regulatory Action to Restrict or Control
+Such Rate Increases. This In Turn Could Create Uncertainty Affecting Planning, Costs and Results
+of Operations and May Adversely Affect the Utilities’ Ability to Recover Their Costs, Maintain
+Adequate Liquidity and Address Capital Requirements
+
+
+Increases in utility rates, such as may follow a period of frozen or capped rates, can generate
+pressure on legislators and regulators to take steps to control those increases. Such efforts can
+include some form of rate increase moderation, reduction or freeze. The public discourse and debate
+can increase uncertainty associated with the regulatory process, the level of rates and revenues,
+and the ability to recover costs. Such uncertainty restricts flexibility and resources, given the
+need to plan and ensure available financial resources. Such uncertainty also affects the costs of
+doing business. Such costs could ultimately reduce liquidity, as suppliers tighten payment terms,
+and increase costs of financing, as lenders demand increased compensation or collateral security to
+accept such risks.
+
+
+ 
+
+31
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Our Profitability is Impacted by Our Affiliated Companies’ Continued Authorization to Sell Power at
+Market-Based Rates
+
+
+The FERC granted FES, FGCO and NGC  authority to sell electricity at market-based rates. These
+orders also granted them waivers of certain FERC accounting, record-keeping and reporting
+requirements. The Utilities also have market-based rate authority. The FERC’s orders that grant
+this market-based rate authority reserve the right to revoke or revise that authority if the FERC
+subsequently determines that these companies can exercise market power in transmission or
+generation, create barriers to entry or engage in abusive affiliate transactions. As a condition to
+the orders granting the generating companies market-based rate authority, every three years they
+are required to file a market power update to show that they continue to meet the FERC’s standards
+with respect to generation market power and other criteria used to evaluate whether entities
+qualify for market-based rates. FES, FGCO, NGC and the Utilities renewed this authority for PJM in
+2008 and MISO in 2009. On December 30, 2010, FES, FGCO, NGC and the Utilities filed to renew this
+authority for operations within PJM. If any of these companies were to lose their market-based
+rate authority, they would be required to obtain the FERC’s acceptance to sell power at cost-based
+rates. FES, FGCO and NGC could also lose their waivers, and become subject to the accounting,
+record-keeping and reporting requirements that are imposed on utilities with cost-based rate
+schedules.
+
+
+
+There Are Uncertainties Relating to Our Participation in RTOs
+
+
+RTO rules could affect our ability to sell power produced by our generating facilities to users in
+certain markets due to transmission constraints and attendant congestion costs. The prices in
+day-ahead and real-time energy markets and RTO capacity markets have been subject to price
+volatility. Administrative costs imposed by RTOs, including the cost of administering energy
+markets, have also increased. The rules governing the various regional power markets may also
+change from time to time, which could affect our costs or revenues. To the degree we incur
+significant additional fees and increased costs to participate in an RTO, and we are limited with
+respect to recovery of such costs from retail customers, we may suffer financial harm. While RTO
+rates for transmission service are cost based, our revenues from customers to whom we currently
+provide transmission services may not reflect all of the administrative and market-related costs
+imposed under the RTO tariff. In addition, we may be allocated a portion of the cost of
+transmission facilities built by
+others due to changes in RTO transmission rate design. Finally, we may be required to expand our
+transmission system according to decisions made by an RTO rather than our internal planning
+process. As a member of an RTO, we are subject to certain additional risks, including those
+associated with the allocation among members of losses caused by unreimbursed defaults of other
+participants in that RTO’s market and those associated with complaint cases filed against the RTO
+that may seek refunds of revenues previously earned by its members.
+
+
+
+The MISO has proposed changes to its rates and tariffs that may result or cause significant charges
+to ATSI or the Ohio Companies or Penn upon their respective withdrawal from the MISO on May 31,
+2011. The implementation of these and other new market designs has the potential to increase our
+costs of transmission, costs associated with inefficient generation dispatching, costs of
+participation in the market and costs associated with estimated payment settlements.
+
+
+
+Because it remains unclear which companies will be participating in the various regional power
+markets, or how RTOs will ultimately develop and operate, or what region they will cover, we cannot
+fully assess the impact that these power markets or other ongoing RTO developments may have.
+
+
+
+
+ 
+
+32
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+A Significant Delay in or Challenges to Various Elements of ATSI’s Consolidation into PJM,
+including but not Limited to, the Intervention of Parties to the Regulatory Proceedings Could
+have a Negative Impact on Our Results of Operations and Financial Condition
+
+
+On December 17, 2009, FERC authorized, subject to certain conditions, FirstEnergy to consolidate
+its transmission assets and operations that currently are located in MISO into PJM; such
+consolidation to be effective on June 1, 2011. The consolidation will make the transmission assets
+that are part of ATSI, whose footprint includes the Ohio Companies and Penn, part of PJM.
+Consolidation on June 1, 2011 will coincide with delivery of power under the next competitive
+generation procurement process for the Ohio Companies. On December 17, 2009, and after FERC issued
+the order, ATSI executed and delivered to PJM those legal documents necessary to implement
+its consolidation into PJM. On December 18, 2009, the Ohio Companies and Penn executed and
+delivered to PJM those legal documents necessary to follow ATSI into PJM. Currently, ATSI, the Ohio
+Companies and Penn are expected to consolidate into PJM as planned on June 1, 2011.
+
+
+
+On February 1, 2011, ATSI filed its proposal with FERC for moving its transmission rate into PJM’s
+tariffs. Numerous parties are expected to intervene and file responsive comments. Our expectation
+is that ATSI will enter PJM as scheduled on June 1, 2011, and that if legal proceedings regarding
+its rate are outstanding at that time, ATSI will be permitted to start charging its proposed rates,
+subject to refund.  Additional FERC proceedings are either
+pending or expected in which the amount of exit fees, transmission cost allocations, and costs
+associated with long term firm transmission rights payable by the ATSI zone upon its departure from
+the Midwest ISO will be determined. In addition, certain other parties continue to protest aspects
+of the move into PJM, and certain of these matters remain outstanding and will be resolved in
+future FERC proceedings. A ruling by FERC or any other regulator with jurisdiction in favor of one
+or more of the intervening or protesting parties (and against FirstEnergy) on one or more of
+the disputed issues could result in a negative impact on our results of operations and financial
+condition.
+
+
+
+Energy Conservation and Energy Price Increases Could Negatively Impact Our Financial Results
+
+
+A number of regulatory and legislative bodies have introduced requirements and/or incentives to
+reduce energy consumption by certain dates. Conservation programs could impact our financial
+results in different ways. To the extent conservation resulted in reduced energy demand or
+significantly slowed the growth in demand, the value of our merchant generation and other
+unregulated business activities could be adversely impacted. We currently have energy efficiency
+riders in place to recover the cost of these programs either at or near a current recovery
+timeframe in Ohio and Pennsylvania. In New Jersey, we recover the costs for energy efficiency
+programs through the SBC. Currently only Ohio has provisions for recovery of lost revenues. In our
+regulated operations, conservation could negatively impact us depending on the regulatory treatment
+of the associated impacts. Should we be required to invest in conservation measures that result in
+reduced
+sales from effective conservation, regulatory lag in adjusting rates for the impact of these
+measures could have a negative financial impact. We could also be impacted if any future energy
+price increases result in a decrease in customer usage. Our results could be affected if we are
+unable to increase our customer’s participation in our energy efficiency programs. We are unable
+to determine what impact, if any, conservation and increases in energy prices will have on our
+financial condition or results of operations.
+
+
+
+Our Business and Activities are Subject to Extensive Environmental Requirements and Could be
+Adversely Affected by such Requirements
+
+
+We may be forced to shut down facilities, either temporarily or permanently, if we are unable to
+comply with certain environmental requirements, or if we make a determination that the expenditures
+required to comply with such requirements are uneconomical. In fact, we are exposed to the risk
+that such electric generating plants would not be permitted to continue to operate if pollution
+control equipment is not installed by prescribed deadlines.
+
+
+
+The EPA is Conducting NSR Investigations at a Number of Our Generating Plants, the Results of Which
+Could Negatively Impact Our Results of Operations and Financial Condition
+
+
+We may be subject to risks in connection with changing or conflicting interpretations of existing
+laws and regulations. For example, applicable standards under the EPA’s NSR initiatives remain in
+flux. Under the CAA, modification of our generation facilities in a manner that causes increased
+emissions could subject our existing facilities to the far more stringent NSR standards applicable
+to new facilities.
+
+
+ 
+
+33
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+The EPA has taken the view that many companies, including many energy producers, have been
+modifying emissions sources in violation of NSR standards in connection with work believed by the
+companies to be routine maintenance. We are currently involved in litigation and EPA investigations
+concerning alleged violations of the NSR standards at certain of our existing and former generating
+facilities. We intend to vigorously pursue and defend our position in these environmental matters
+but FGCO is unable to predict their outcomes. If NSR and similar requirements are imposed on our
+generation facilities, in addition to the possible imposition of fines, compliance could entail
+significant capital investments in pollution control technology, which could have an adverse impact
+on our business, results of operations, cash flows and financial condition. For a more complete
+discussion see “Environmental Matters.”
+
+
+
+Costs of Compliance with Environmental Laws are Significant, and the Cost of Compliance with Future
+Environmental Laws, Including Limitations on GHG Emissions, Could Adversely Affect Cash
+Flow and Profitability
+
+
+Our operations are subject to extensive federal, state and local environmental statutes, rules and
+regulations. Compliance with these legal requirements requires us to incur costs for environmental
+monitoring, installation of pollution control equipment, emission fees, maintenance, upgrading,
+remediation and permitting at our facilities. These expenditures have been significant in the past
+and may increase in the future. If the cost of compliance with existing environmental laws and
+regulations does increase, it could adversely affect our business and results of operations,
+financial position and cash flows. Moreover, changes in environmental laws or regulations may
+materially increase our costs of compliance or accelerate the timing of capital expenditures.
+Because of the deregulation of generation, we may not directly recover through rates additional
+costs incurred for such compliance. Our compliance strategy, although reasonably based on available
+information, may not successfully address future relevant standards and interpretations. If we fail
+to comply with environmental laws and regulations, even if caused by factors beyond our control or
+new interpretations of longstanding requirements, that failure could result in the assessment of
+civil or criminal liability and fines. In addition, any alleged violation of environmental laws and
+regulations may require us to expend significant resources to defend against any such alleged
+violations.
+
+
+
+There are a number of initiatives to reduce GHG emissions under consideration at the federal, state
+and international level. Environmental advocacy groups, other organizations and some agencies in
+the United States are focusing considerable attention on carbon dioxide emissions from power
+generation facilities and their potential role in climate change. Many states and environmental
+groups have also challenged certain of the federal laws and regulations relating to air emissions
+as not being sufficiently strict. Also, claims have been made alleging that CO2
+emissions from power generating facilities constitute a public nuisance under federal and/or state
+common law. Private individuals may seek to enforce environmental laws and regulations against us
+and could allege personal injury or property damage from exposure to hazardous materials. Recently
+the courts have begun to acknowledge these claims and may order us to reduce GHG emissions in the
+future. There is a growing consensus in the United States and globally that GHG emissions are a
+major cause of global warming and that some form of regulation will be forthcoming at the federal
+level with respect to GHG emissions (including carbon dioxide) and such regulation could result in
+the creation of substantial additional costs in the form of taxes or emission allowances. As a
+result, it is possible that state and federal regulations will be developed that will impose more
+stringent limitations on emissions than are currently in effect. In December 2009, the EPA issued
+an “endangerment and cause or contributing finding” for GHG under the CAA, which will allow the EPA
+to craft rules that directly regulate GHG. This “finding” triggered several regulatory actions
+under the CAA, resulting, among other things in the regulation of GHG emissions from large
+stationary sources. Although several bills have been introduced at the state and federal level that
+would compel carbon dioxide emission reductions, none have advanced
+through the legislature. Due to the uncertainty of control technologies available to reduce
+greenhouse gas emissions including CO2, as well as the unknown nature of potential
+compliance obligations should climate change regulations be enacted, we cannot provide any
+assurance regarding the potential impacts these future regulations would have on our operations. In
+addition, any legal obligation that would require us to substantially reduce our emissions could
+require extensive mitigation efforts and, in the case of carbon dioxide legislation, would raise
+uncertainty about the future viability of fossil fuels, particularly coal, as an energy source for
+new and existing electric generation facilities. Until specific regulations are promulgated, the
+impact that any new environmental regulations, voluntary compliance guidelines, enforcement
+initiatives, or legislation may have on our results of operations, financial condition or liquidity
+is not determinable.
+
+
+
+At the federal level, members of Congress have introduced several bills seeking to reduce emissions
+of GHG in the United States, and the House of Representatives passed one such bill, the American
+Clean Energy and Security Act of 2009, on June 26, 2009. The Senate continues to consider a number
+of measures to regulate GHG emissions. President Obama has announced his Administration’s “New
+Energy for America Plan” that includes, among other provisions, ensuring that 10% of electricity
+used in the United States comes from renewable sources by 2012, increasing to 25% by 2025, and
+implementing an economy-wide cap-and-trade program to reduce GHG emissions by 80% by 2050. State
+activities, primarily the northeastern states participating in the Regional Greenhouse Gas
+Initiative and western states, led by California, have coordinated efforts to develop regional
+strategies to control emissions of certain GHGs.
+
+
+ 
+
+34
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+In September 2009, the EPA finalized a national GHG emissions collection and reporting rule that
+required FirstEnergy to measure GHG emissions commencing in 2010 and begin to submit reports
+commencing in 2011. In December 2009, the EPA released its final “Endangerment and Cause or
+Contribute Findings for Greenhouse Gases under the Clean Air Act.” The EPA’s finding concludes that
+concentrations of several key GHGs increase the threat of climate change and may be regulated as
+“air pollutants” under the CAA. In May 2010, the EPA finalized new thresholds for GHG emissions
+that define when permits under the CAA’s NSR program would be required. The EPA established an
+emissions applicability threshold of 75,000 tons per year (tpy) of carbon dioxide equivalents
+(CO2e) effective January 2, 2011 for existing facilities under the CAA’s PSD program, but until
+July 1, 2011 that emissions applicability threshold will only apply if PSD is triggered by
+non-carbon dioxide pollutants.
+
+
+
+At the international level, the Kyoto Protocol, signed by the U.S. in 1998 but never submitted for
+ratification by the U.S. Senate, was intended to address global warming by reducing the amount of
+man-made GHG, including CO2, emitted by developed countries by 2012. A December 2009
+U.N. Climate Change Conference in Copenhagen did not reach a consensus on a successor treaty to the
+Kyoto Protocol, but did take note of the Copenhagen Accord, a non-binding political agreement which
+recognized the scientific view that the increase in global temperature should be below two degrees
+Celsius; include a commitment by developed countries to provide funds, approaching $30 billion over
+the next three years with a goal of increasing to $100 billion by 2020; and establish the
+“Copenhagen Green Climate Fund” to support mitigation, adaptation, and other climate-related
+activities in developing countries. Once they have become a party to the Copenhagen Accord,
+developed economies, such as the European Union, Japan, Russia and the United States, would commit
+to quantified economy-wide emissions targets from 2020, while developing countries, including
+Brazil, China and India, would agree to take mitigation actions, subject to their domestic
+measurement, reporting and verification.
+
+
+
+FirstEnergy cannot currently estimate the financial impact of climate change policies, although
+potential legislative or regulatory programs restricting CO2 emissions, or litigation
+alleging damages from GHG emissions, could require significant capital and other expenditures or
+result in changes to its operations. The CO2 emissions per KWH of electricity generated
+by FirstEnergy is lower than many regional competitors due to its diversified generation sources,
+which include low or non-CO2 emitting gas-fired and nuclear generators.
+
+
+
+The EPA’s CAIR requires reductions of NOx and SO2 emissions in two phases (2009/2010 and
+2015), ultimately capping SO2 emissions in affected states to 2.5 million tons annually
+and NOx emissions to 1.3 million tons annually. In 2008, the U.S. Court of Appeals for the District
+of Columbia vacated CAIR “in its entirety” and directed the EPA to “redo its analysis from the
+ground up.” In December 2008, the Court reconsidered its prior ruling and allowed CAIR to remain in
+effect to “temporarily preserve its environmental values” until the EPA replaces CAIR with a new
+rule consistent with the Court’s opinion. In July 2010, the EPA proposed the CATR to replace CAIR,
+which remains in effect until the EPA finalizes CATR. CATR requires reductions of NOx and
+SO2 emissions in two phases (2012 and 2014), ultimately capping SO2 emissions
+in affected states to 2.6 million tons annually and NOx emissions to 1.3 million tons annually. The
+EPA proposed a preferred regulatory approach that allows trading of NOx and SO2 emission
+allowances between power plants located in the same state and severely limits interstate trading of
+NOx and SO2 emission allowances. The EPA also requested comment on two alternative
+approaches—the first eliminates interstate trading of NOx and SO2 emission allowances
+and the second eliminates trading of NOx and SO2 emission allowances in its entirety.
+Depending on the actions taken by the EPA with respect to CATR, the proposed MACT regulations
+discussed below and any future regulations that are ultimately implemented, FGCO’s future cost of
+compliance may be substantial.
+
+
+
+The EPA’s CAMR provides for a cap-and-trade program to reduce mercury emissions from coal-fired
+power plants in two phases; initially, capping nationwide emissions of mercury at 38 tons by 2010
+(as a “co-benefit” from implementation of SO2 and NOX emission caps under the
+EPA’s CAIR program) and 15 tons per year by 2018. The U.S. Court of Appeals
+for the District of Columbia, at the urging of several states and environmental groups, vacated the
+CAMR, ruling that the EPA failed to take the necessary steps to “de-list” coal-fired power plants
+from its hazardous air pollutant program and, therefore, could not promulgate a cap-and-trade
+program. On April 29, 2010, the EPA issued proposed MACT regulations requiring emissions reductions
+of mercury and other hazardous air pollutants from non-electric generating unit boilers, including
+boilers which do not use fossil fuels. If finalized, the non-electric generating unit MACT
+regulations could also provide precedent for MACT standards applicable to electric generating
+units. On January 20, 2011, the U.S. District Court for the District of Columbia denied a motion by
+the EPA for an extension of the deadline to issue final rules, ordering the EPA to issue such rules
+by February 21, 2011. The EPA also entered into a consent decree requiring it to propose MACT
+regulations for mercury and other hazardous air pollutants from electric generating units by March
+16, 2011, and to finalize the regulations by November 16, 2011. Depending on the action taken by
+the EPA and on how any future regulations are ultimately implemented, FGCO’s future cost of
+compliance with MACT regulations may be substantial and changes to FGCO’s operations may result.
+
+
+
+Various water quality regulations, the majority of which are the result of the federal Clean Water
+Act and its amendments, apply to FirstEnergy’s plants. In addition, various states have water
+quality standards applicable to FirstEnergy’s operations.
+
+
+ 
+
+35
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+The EPA established new performance standards under Section 316(b) of the Clean Water Act for
+reducing impacts on fish and shellfish from cooling water intake structures at certain existing
+electric generating plants. The regulations call for reductions in impingement mortality (when
+aquatic organisms are pinned against screens or other parts of a cooling water intake system) and
+entrainment (which occurs when aquatic life is drawn into a facility’s cooling water system). The
+EPA has taken the position that until further rulemaking occurs; permitting authorities should
+continue the existing practice of applying their best professional judgment to minimize impacts on
+fish and shellfish from cooling water intake structures. On April 1, 2009, the U.S. Supreme Court
+reversed one significant aspect of the Second Circuit’s opinion and decided that Section 316(b) of
+the Clean Water Act authorizes the EPA to compare costs with benefits in determining the best
+technology available for minimizing adverse environmental impact at cooling water intake
+structures. The EPA is developing a new regulation under Section 316(b) of the Clean Water Act
+consistent with the opinions of the Supreme Court and the Court of Appeals which have created
+significant uncertainty about the specific nature, scope and timing of the final performance
+standard. FirstEnergy is studying various control options and their costs and effectiveness,
+including pilot testing of reverse louvers in a portion of the Bay Shore power plant’s water intake
+channel to divert fish away from the plant’s water intake system. On November 19, 2010, the Ohio
+EPA issued a permit for the Bay Shore power plant requiring installation of reverse louvers in its
+entire water intake channel by April 1, 2013. Depending on the results of such studies and the
+EPA’s further rulemaking and any final action taken by the states exercising best professional
+judgment, the future costs of compliance with these standards may require material capital
+expenditures. Also, If either the federal or state final regulations require retrofitting of
+cooling water intake structures (cooling towers) at any of our power plants, and if installation of
+such cooling towers is not technically or economically feasible, we may be forced to take actions
+which could adversely impact our results of operations and financial condition.
+
+
+
+Federal and state hazardous waste regulations have been promulgated as a result of the Resource
+Conservation and Recovery Act of 1976, as amended, and the Toxic Substances Control Act of 1976.
+Certain fossil-fuel combustion residuals, such as coal ash, were exempted from hazardous waste
+disposal requirements pending the EPA’s evaluation of the need for future regulation. In February
+2009, the EPA requested comments from the states on options for regulating coal combustion
+residuals, including whether they should be regulated as hazardous or non-hazardous waste.
+
+
+
+On December 30, 2009, in an advanced notice of public rulemaking, the EPA said that the large
+volumes of coal combustion residuals produced by electric utilities pose significant financial risk
+to the industry. On May 4, 2010, the EPA proposed two options for additional regulation of coal
+combustion residuals, including the option of regulation as a special waste under the EPA’s
+hazardous waste management program which could have a significant impact on the management,
+beneficial use and disposal of coal combustion residuals. FGCO’s future cost of compliance with any
+coal combustion residuals regulations which may be promulgated could be substantial and would
+depend, in part, on the regulatory action taken by the EPA and implementation by the EPA or the
+states.
+
+
+
+The Physical Risks Associated with Climate Change May Impact Our Results of Operations and Cash
+Flows.
+
+
+Physical risks of climate change, such as more frequent or more extreme weather events, changes in
+temperature and precipitation patterns, changes to ground and surface water availability, and other
+related phenomena, could affect some, or all, of our operations. Severe weather or other natural
+disasters could be destructive, which could result in increased costs, including supply chain
+costs. An extreme weather event within the Utilities’ service areas can also directly affect their
+capital assets, causing disruption in service to customers due to downed wires and poles or damage
+to other operating equipment. Finally, climate change could affect the availability of a secure and
+economical supply of water in some locations, which is essential for continued operation of
+generating plants.
+
+
+
+Remediation of Environmental Contamination at Current or Formerly Owned Facilities
+
+
+We are subject to liability under environmental laws for the costs of remediating environmental
+contamination of property now or formerly owned by us and of property contaminated by hazardous
+substances that we may have generated
+regardless of whether the liabilities arose before, during or after the time we owned or operated
+the facilities. Remediation activities associated with our former MGP operations are one source of
+such costs. We are currently involved in a number of proceedings relating to sites where other
+hazardous substances have been deposited and may be subject to additional proceedings in the
+future. We also have current or previous ownership interests in sites associated with the
+production of gas and the production and delivery of electricity for which we may be liable for
+additional costs related to investigation, remediation and monitoring of these sites. Citizen
+groups or others may bring litigation over environmental issues including claims of various types,
+such as property damage, personal injury, and citizen challenges to compliance decisions on the
+enforcement of environmental requirements, such as opacity and other air quality standards, which
+could subject us to penalties, injunctive relief and the cost of litigation. We cannot predict the
+amount and timing of all future expenditures (including the potential or magnitude of fines or
+penalties) related to such environmental matters, although we expect that they could be material.
+
+
+
+In some cases, a third party who has acquired assets from us has assumed the liability we may
+otherwise have for environmental matters related to the transferred property. If the transferee
+fails to discharge the assumed liability or disputes its responsibility, a regulatory authority or
+injured person could attempt to hold us responsible, and our remedies against the transferee may be
+limited by the financial resources of the transferee.
+
+
+ 
+
+36
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Availability and Cost of Emission Credits Could Materially Impact Our Costs of Operations
+
+
+We are required to maintain, either by allocation or purchase, sufficient emission credits to
+support our operations in the ordinary course of operating our power generation facilities. These
+credits are used to meet our obligations imposed by various applicable environmental laws. If our
+operational needs require more than our allocated allowances of emission credits, we may be forced
+to purchase such credits on the open market, which could be costly. If we are unable to maintain
+sufficient emission credits to match our operational needs, we may have to curtail our operations
+so as not to exceed our available emission credits, or install costly new emissions controls. As we
+use the emissions credits that we have purchased on the open market, costs associated with such
+purchases will be recognized as operating expense. If such credits are available for purchase, but
+only at significantly higher prices, the purchase of such credits could materially increase our
+costs of operations in the affected markets. Laws and regulations such as CAIR may, and are, being
+revised and as CAIR is being rewritten it is creating uncertainty in many areas, including but not
+limited to, the annual NOx emission allowances beyond 2010.
+
+
+
+Mandatory Renewable Portfolio Requirements Could Negatively Affect Our Costs
+
+
+If federal or state legislation mandates the use of renewable and alternative fuel sources, such as
+wind, solar, biomass and geothermal and such legislation would not also provide for adequate cost
+recovery, it could result in significant changes in our business, including renewable energy credit
+purchase costs, purchased power and potentially renewable energy credit costs and capital
+expenditures. We are unable to predict what impact, if any, these changes may have on our
+financial condition or results of operations.
+
+
+
+We Are and May Become Subject to Legal Claims Arising from the Presence of Asbestos or Other
+Regulated Substances at Some of Our Facilities
+
+
+We have been named as a defendant in pending asbestos litigation involving multiple plaintiffs and
+multiple defendants. In addition, asbestos and other regulated substances are, and may continue to
+be, present at our facilities where suitable alternative materials are not available. We believe
+that any remaining asbestos at our facilities is contained. The continued presence of asbestos and
+other regulated substances at these facilities, however, could result in additional actions being
+brought against us.
+
+
+
+The Continuing Availability and Operation of Generating Units is Dependent on Retaining the
+Necessary Licenses, Permits, and Operating Authority from Governmental Entities, Including the NRC
+
+
+
+We are required to have numerous permits, approvals and certificates from the agencies that
+regulate our business. We believe the necessary permits, approvals and certificates have been
+obtained for our existing operations and that our business is conducted in accordance with
+applicable laws; however, we are unable to predict the impact on our operating results from future
+regulatory activities of any of these agencies and we are not assured that any such permits,
+approvals or certifications will be renewed.
+
+
+
+Future Changes in Financial Accounting Standards May Affect Our Reported Financial Results
+
+
+The SEC, FASB or other authoritative bodies or governmental entities may issue new pronouncements
+or new interpretations of existing accounting standards that may require us to change our
+accounting policies. These changes are beyond our control, can be difficult to predict and could
+materially impact how we report our financial condition and results of operations. We could be
+required to apply a new or revised standard retroactively, which could adversely affect our
+financial position. The SEC has announced a work plan to aid in its evaluation of the impact that
+the use of IFRS by U.S. public companies would have on the U.S. securities market. Given the
+results of the work plan, the SEC expects to make a determination in 2011 regarding the mandatory
+adoption of IFRS.  We are currently assessing the impact that
+this potential change would have on our consolidated financial statements and we will continue to
+monitor the development of the potential implementation of IFRS.
+
+
+
+Increases in Taxes and Fees.
+
+
+Due to the revenue needs of the United States and the states and jurisdictions in which we operate,
+various tax and fee increases may be proposed or considered. We cannot predict whether legislation
+or regulation will be introduced, the form of any legislation or regulation, whether any such
+legislation or regulation will be passed by the state legislatures or regulatory bodies. If
+enacted, these changes could increase tax costs and could have a negative impact on our results of
+operations, financial condition and cash flows.
+
+
+ 
+
+37
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Risks Associated With Financing and Capital Structure
+
+
+
+Interest Rates and/or a Credit Rating Downgrade Could Negatively Affect Our Financing Costs, Our
+Ability to Access Capital and Our Requirement to Post Collateral
+
+
+We have near-term exposure to interest rates from outstanding indebtedness indexed to variable
+interest rates, and we have exposure to future interest rates to the extent we seek to raise debt
+in the capital markets to meet maturing debt obligations and fund construction or other investment
+opportunities. Past disruptions in capital and credit markets have resulted in higher interest
+rates on new publicly issued debt securities, increased costs for certain of our variable interest
+rate debt securities and failed remarketings (all of which were eventually remarketed) of variable
+interest rate tax-exempt debt issued to finance certain of our facilities. Continuation of these
+disruptions could increase our financing costs and adversely affect our results of operations.
+Also, interest rates could change as a result of economic or other events that our risk management
+processes were not established to address. As a result, we cannot always predict the impact that
+our risk management decisions may have on us if actual events lead to greater losses or costs than
+our risk management positions were intended to hedge. Although we employ risk management techniques
+to hedge against interest rate volatility, significant and sustained increases in market interest
+rates could materially increase our financing costs and negatively impact our reported results of
+operations.
+
+
+
+We rely on access to bank and capital markets as sources of liquidity for cash requirements not
+satisfied by cash from operations. A downgrade in our credit ratings from the nationally recognized
+credit rating agencies, particularly to a level below investment grade, could negatively affect our
+ability to access the bank and capital markets, especially in a time of uncertainty in either of
+those markets, and may require us to post cash collateral to support outstanding commodity
+positions in the wholesale market, as well as available letters of credit and other guarantees. A
+rating downgrade would also increase the fees we pay on our various credit facilities, thus
+increasing the cost of our working capital. A rating downgrade could also impact our ability to
+grow our businesses by substantially increasing the cost of, or limiting access to, capital. On
+February 11, 2010, S&P issued a report lowering FirstEnergy’s and its subsidiaries’ credit ratings
+by one notch, while maintaining its stable outlook. As a result, FirstEnergy may be required to
+post up to $48 million of collateral. Moody’s and Fitch affirmed the ratings and stable outlook of
+FirstEnergy and its subsidiaries on February 11, 2010. On September 28, 2010, S&P then affirmed
+the ratings and stable outlook of FE and its subsidiaries. On December 15, 2010, Fitch revised its
+outlook on FE and FES from stable to negative and affirmed the rating for FirstEnergy and its
+subsidiaries.
+
+
+
+A rating is not a recommendation to buy, sell or hold debt, inasmuch as such rating does not
+comment as to market price or suitability for a particular investor. The ratings assigned to our
+debt address the likelihood of payment of principal and interest pursuant to their terms. A rating
+may be subject to revision or withdrawal at any time by the assigning rating agency. Each rating
+should be evaluated independently of any other rating that may be assigned to our securities.
+Also, we cannot predict how rating agencies may modify their evaluation process or the impact such
+a modification may have on our ratings.
+
+
+
+Our credit ratings also govern the collateral provisions of certain contract guarantees. Subsequent
+to the occurrence of a credit rating downgrade to below investment grade or a “material adverse
+event,” the immediate posting of cash collateral may be required. See Note 15(B) of the Notes to
+the Consolidated Financial Statements for more information associated with a credit ratings
+downgrade leading to the posting of cash collateral.
+
+
+
+We Must Rely on Cash from Our Subsidiaries and Any Restrictions on Our Utility Subsidiaries’
+Ability to Pay Dividends or Make Cash Payments to Us May Adversely Affect Our Financial Condition
+
+
+We are a holding company and our investments in our subsidiaries are our primary assets.
+Substantially all of our business is conducted by our subsidiaries. Consequently, our cash flow is
+dependent on the operating cash flows of our subsidiaries and their ability to upstream cash to the
+holding company. Our utility subsidiaries are regulated by various state utility commissions that
+generally possess broad powers to ensure that the needs of utility customers are being met. Those
+state commissions could attempt to impose restrictions on the ability of our utility subsidiaries
+to pay dividends or otherwise restrict cash payments to us.
+
+
+
+We Cannot Assure Common Shareholders that Future Dividend Payments Will be Made, or if Made, in
+What Amounts they May be Paid
+
+
+Our Board of Directors regularly evaluates our common stock dividend policy and determines the
+dividend rate each quarter. The level of dividends will continue to be influenced by many factors,
+including, among other things, our earnings, financial condition and cash flows from subsidiaries,
+as well as general economic and competitive conditions. We cannot assure common shareholders that
+dividends will be paid in the future, or that, if paid, dividends will be at the same amount or
+with the same frequency as in the past.
+
+
+ 
+
+38
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Disruptions in the Capital and Credit Markets May Adversely Affect Our Business, Including the
+Availability and Cost of Short-Term Funds for Liquidity Requirements, Our Ability to Meet Long-Term
+Commitments, Our Ability to Hedge Effectively Our Generation Portfolio, and the Competitiveness and
+Liquidity of Energy Markets; Each Could Adversely Affect Our Results of Operations, Cash Flows and
+Financial Condition
+
+
+We rely on the capital markets to meet our financial commitments and short-term liquidity needs if
+internal funds are not available from our operations. We also use letters of credit provided by
+various financial institutions to support our hedging operations. Disruptions in the capital and
+credit markets could adversely affect our ability to draw on our respective credit facilities. Our
+access to funds under those credit facilities is dependent on the ability of the financial
+institutions that are parties to the facilities to meet their funding commitments. Those
+institutions may not be able to meet their funding commitments if they experience shortages of
+capital and liquidity or if they experience excessive volumes of borrowing requests within a short
+period of time.
+
+
+
+Longer-term disruptions in the capital and credit markets as a result of uncertainty, changing or
+increased regulation, reduced alternatives or failures of significant financial institutions could
+adversely affect our access to liquidity needed for our business. Any disruption could require us
+to take measures to conserve cash until the markets stabilize or until alternative credit
+arrangements or other funding for our business needs can be arranged. Such measures could include
+deferring capital expenditures, changing hedging strategies to reduce collateral-posting
+requirements, and reducing or eliminating future dividend payments or other discretionary uses of
+cash.
+
+
+
+The strength and depth of competition in energy markets depends heavily on active participation by
+multiple counterparties, which could be adversely affected by disruptions in the capital and credit
+markets. Reduced capital and liquidity and failures of significant institutions that participate in
+the energy markets could diminish the liquidity and competitiveness of energy markets that are
+important to our business. Perceived weaknesses in the competitive strength of the energy markets
+could lead to pressures for greater regulation of those markets or attempts to replace those market
+structures with other mechanisms for the sale of power, including the requirement of long-term
+contracts, which could have a material adverse effect on our results of operations and cash flows.
+
+
+
+Questions Regarding the Soundness of Financial Institutions or Counterparties Could Adversely
+Affect Us
+
+
+We have exposure to many different financial institutions and counterparties and we routinely
+execute transactions with counterparties in connection with our hedging activities, including
+brokers and dealers, commercial banks, investment banks and other institutions and industry
+participants. Many of these transactions expose us to credit risk in the event that any of our
+lenders or counterparties are unable to honor their commitments or otherwise default under a
+financing agreement. We also deposit cash balances in short-term investments. Our ability to access
+our cash quickly depends on the soundness of the financial institutions in which those funds
+reside. Any delay in our ability to access those funds, even for a short period of time, could have
+a material adverse effect on our results of operations and financial condition.
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+    ITEM 1B

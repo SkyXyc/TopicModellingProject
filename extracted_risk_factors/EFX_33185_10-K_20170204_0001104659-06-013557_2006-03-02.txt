@@ -1,0 +1,470 @@
+ITEM 1A.        RISK
+FACTORS
+
+The following risk factors and other information
+included in this Form 10-K should be carefully considered. The risks
+and uncertainties described below are not the only risks we face. Additional
+risks and uncertainties not currently known to us or that we currently deem to
+be less significant may also impair our business operations. If any of the
+following risks actually were to occur, our business, financial condition or
+results of operations could be materially and adversely affected.
+
+Risks Related to Our Business
+
+Since our revenues
+depend to a large extent on our customers’ demand for consumer credit
+information, deterioration of current economic conditions may harm our results
+of operations.
+
+Consumer credit reports
+constitute our core product. In general, our customers use our credit
+information and related services to process applications for new credit cards,
+automobile loans, home mortgages and refinancing and other consumer loans. They
+also use our credit information and services to monitor existing credit
+relationships. Consumer demand for credit, i.e., rates of spending and levels
+of indebtedness, tends to grow more slowly or decline during periods of
+economic contraction or slow economic growth. Rising rates of interest may
+reduce consumer demand for mortgage loans. A decline in consumer demand for
+credit may reduce our customers’ demand for our consumer credit information.
+Consequently, our revenues from consumer credit information products and
+services could be negatively affected and our results of operations harmed if
+consumer demand for credit decreases.
+
+The loss of access
+to credit and other data from external sources could harm our ability to
+provide our products and services.
+
+We rely extensively upon
+data from external sources to maintain our proprietary and non-proprietary
+databases, including data received from customers and various government and
+public record services. Our data sources could withdraw their data from us for
+a variety of reasons, including legislatively or judicially imposed
+restrictions on use. If a substantial number of data sources were to withdraw
+their data, or if we were to lose access to data due to government regulation,
+our ability to provide products and services to our clients could be materially
+adversely impacted, which could result in decreased revenues, net income and
+earnings per share.
+
+
+ 12 
+
+
+
+
+
+Our markets are
+highly competitive and new product introductions and pricing strategies being
+offered by our competitors could decrease our sales and market share, or
+require us to reduce our prices in a manner that reduces our gross margins.
+
+We operate in a number of geographic, product and
+service markets that are highly competitive. In consumer credit reporting
+services, we compete primarily with two global consumer credit reporting
+companies, Experian and TransUnion. We also compete with these and other
+companies, including Acxiom Corporation, Harte-Hanks, Inc. and InfoUSA, Inc.
+with respect to our direct marketing services, Fair Issac Corporation, Experian
+and TransUnion with respect to our analytical tools and a variety of software
+companies with respect to our enabling technologies. Competitors may develop
+products and services that are superior to or that achieve greater market
+acceptance than our products and services.
+
+The sizes of our competitors vary across market
+segments, as do the resources we have allocated to the segments we target.
+Therefore, some of our competitors may have significantly greater financial,
+technical, marketing or other resources than we do in each of our market
+segments or overall. As a result, our competitors may be in a position to
+respond more quickly than we can to new or emerging technologies and changes in
+customer requirements, or may devote greater resources than we can to the
+development, promotion, sale and support of products and services. Moreover,
+new competitors or alliances among our competitors may emerge and potentially
+reduce our market share. If we are unable to respond as quickly or effectively
+to changes in customer requirements as our competition, our ability to expand
+our business and sell our products and services will be negatively affected.
+
+Some of our competitors
+may also be able to sell products competitive to ours at lower prices given
+proprietary ownership of data, technical superiority or economies of scale.
+Price reductions by our competitors could negatively impact our margins and
+results of operations, and could also harm our ability to obtain new commercial
+relationships on favorable terms.
+
+Our ability to
+increase our revenues will depend to some extent upon introducing new products
+and services, and if the marketplace does not accept these new products and
+services, our revenues may decline.
+
+To increase our revenues,
+we must enhance and improve existing products and continue to introduce new
+products and new versions of existing products that keep pace with
+technological developments, satisfy increasingly sophisticated customer
+requirements and achieve market acceptance. We believe much of our future
+growth prospects will rest on our ability to continue to expand into newer
+products and services. Products that we plan to market in the future are in
+various stages of development. We cannot assure that the marketplace will
+accept these products. If our current or potential customers are not willing to
+switch to or adopt our new products and services, our ability to increase
+revenues will be impaired.
+
+If we fail to keep
+up with rapidly changing technologies, our products and services could become
+less competitive or obsolete.
+
+In our markets, technology
+changes rapidly and there are continuous improvements in computer hardware,
+network operating systems, programming tools, programming languages, operating
+systems, database technology and the use of the Internet. Advances in
+technology may result in changing customer preferences for products and services
+and delivery formats. If we fail to enhance our current products and develop
+new products in response to changes in technology, industry standards or
+customer preferences, our products and services could rapidly become less
+competitive or obsolete. Our future success will depend, in part, upon our
+ability to internally develop new and competitive technologies; use leading
+third-party technologies effectively; continue to develop our technical
+expertise; anticipate and effectively respond to changing customer needs; and
+influence and respond to emerging industry standards and other technological
+changes.
+
+
+ 13 
+
+
+
+
+
+We may suffer
+adverse financial consequences if Computer Sciences Corporation requires us to
+purchase its credit reporting business when the public equity or debt markets
+or other financing conditions are unfavorable to us.
+
+In 1988, we entered into
+an agreement with Computer Sciences Corporation, or CSC, and certain of its
+affiliates under which CSC’s credit reporting agencies utilize our computerized
+credit database services. Under the agreement, CSC has an option, exercisable
+at any time, to sell its credit reporting business to us. The option expires in
+August 2013. The option exercise price will be determined by an appraisal
+process and would be due in cash within 180 days after the exercise of the
+option. We estimate that if CSC were to exercise the option today, the option
+price would be approximately $650 million to $700 million. This estimate
+is based solely on our internal analysis of the value of the businesses,
+current market conditions and other factors, all of which are subject to
+constant change. Therefore, the actual option exercise price could be
+materially higher or lower than the estimated amount. If CSC were to exercise
+its option, we would have to obtain additional sources of funding. We believe
+that this funding would be available from sources such as additional bank lines
+of credit and the issuance of public debt and/or equity. However, the
+availability and terms of any such capital financing would be subject to a
+number of factors, including credit market conditions, the state of the equity
+markets, general economic conditions and our financial performance and
+condition. Because we do not control the timing of CSC’s exercise of its option,
+we could be required to seek such financing and increase our debt levels at a
+time when market or other conditions are unfavorable.
+
+Our international
+operations subject us to additional business risks that may reduce our
+profitability or revenues.
+
+We conduct business
+outside the U.S. During the fiscal year ended December 31, 2005, we
+received approximately 26% of our revenues from business outside the U.S. As
+part of our growth strategy, we plan to continue to pursue opportunities
+outside the U.S. As a result, our future operating results could be negatively
+affected by a variety of factors, many of which are beyond our control. The
+risks and potential costs of our international operations include: political
+and economic instability; changes in regulatory requirements and policy and the
+adoption of laws detrimental to our operations, such as legislation relating to
+the collection and use of personal data; negative impact of currency exchange
+rate fluctuations; potentially adverse tax consequences; increased restrictions
+on the repatriation of earnings; and general economic conditions in
+international markets. We may not be able to avoid significant expenditures in
+addressing these potential risks.
+
+Security is
+important to our business, and breaches of security, or the perception that
+e-commerce is not secure, could harm our business.
+
+Business-to-business and
+business-to-consumer electronic commerce, including that which is Internet-based,
+requires the secure transmission of confidential information over public
+networks. Several of our products are accessed through the Internet, including
+our consumer and commercial information services that are delivered via ePORT™,
+our Internet delivery channel and our Personal Solutions services accessible
+through the www.equifax.com website. Security breaches in connection with the
+delivery of our products and services via ePORT™, our Personal Solutions website
+or well-publicized security breaches not involving the Internet that may affect
+us or our industry, such as database intrusion, could be detrimental to our
+business, operating results and financial condition. We cannot be certain that
+advances in criminal capabilities, new discoveries in the field of cryptography
+or other developments will not compromise or breach the technology protecting
+the networks that access our products, consumer services and proprietary
+database information.
+
+
+ 14 
+
+
+
+
+
+If we experience
+system failures, the delivery of our products and services to our customers
+could be delayed or interrupted, which could harm our business and reputation
+and result in the loss of customers.
+
+Our ability to provide
+reliable service largely depends on the efficient and uninterrupted operation
+of our computer network systems and data centers. Some of these systems have
+been outsourced to third party providers. Any significant interruptions could
+severely harm our business and reputation and result in a loss of customers.
+Our systems and operations could be exposed to damage or interruption from
+fire, natural disaster, power loss, telecommunications failure, unauthorized
+entry and computer viruses. The steps we have taken to prevent a system failure,
+including backup disaster recovery systems, may not be successful and our
+property and business interruption insurance may not be adequate to compensate
+us for all losses or failures that may occur.
+
+We may incur risks
+related to acquisitions or significant investment in businesses.
+
+We have made in the
+past, and may make in the future, acquisitions of, or significant investments
+in, businesses that offer complementary products, services and technologies.
+Any acquisitions or investments will be accompanied by the risks commonly
+encountered in acquisitions of businesses. Such risks include:
+
+·       The
+financial and strategic goals for the acquired and combined business may not be
+achieved;
+
+·       The
+possibility that we will pay more than the acquired companies or assets are
+worth;
+
+·       Unexpected
+liabilities arising out of the acquired businesses;
+
+·       The
+difficulty of assimilating the operations and personnel of the acquired
+businesses;
+
+·       The
+potential disruption of our ongoing business;
+
+·       The
+potential dilution of our existing shareholders and earnings per share;
+
+·       Unanticipated
+liabilities, legal risks and costs;
+
+·       The
+distraction of management from our ongoing business; and
+
+·       The
+impairment of relationships with employees and customers as a result of any
+integration of new management personnel.
+
+These factors could harm
+our business, results of operations or financial position, particularly in the
+event of a significant acquisition. The acquisition of businesses having a
+significant presence outside the U.S. will increase our relative exposure to
+the risks of conducting operations in international markets.
+
+The loss of key
+personnel, or the inability to attract and retain highly skilled personnel,
+could make it more difficult to run our business and reduce our likelihood of
+success.
+
+We are dependent on the
+principal members of our management and technical computer information systems
+staff. We do not have employment agreements with any of our executive officers
+other than Richard F. Smith, Chairman and Chief Executive Officer, and Donald
+T. Heroman, Chief Financial Officer. The loss of our management and key
+technical employees might slow the achievement of important business goals. It
+is also critical to our success that we recruit and retain qualified technical
+personnel to perform development work. We may not be able to attract and retain
+skilled and experienced technical personnel on acceptable terms because of
+intense competition.
+
+
+ 15
+
+
+
+
+
+
+
+
+
+
+Risks Related to
+Our Common Stock
+
+We have the ability
+to issue additional equity securities, which would lead to dilution of our
+issued and outstanding common stock.
+
+The issuance of additional
+equity securities or securities convertible into equity securities would result
+in dilution of the then-existing shareholders’ equity interests in us. Our
+Board of Directors has the authority to issue, without vote or action of
+shareholders, up to 10,000,000 shares of preferred stock in one or more series,
+and has the ability to fix the rights, preferences, privileges and restrictions
+of any such series. Any such series of preferred stock could contain dividend
+rights, conversion rights, voting rights, terms of redemption, redemption
+prices, liquidation preferences or other rights superior to the rights of
+holders of our common stock. If we issue convertible preferred stock, a
+subsequent conversion may dilute the current common shareholders’ interest. Our
+Board of Directors has no present intention of issuing any such preferred
+stock, but reserves the right to do so in the future. In addition, we are
+authorized to issue, without shareholder approval, up to 300,000,000 shares of
+common stock, of which 133,534,624 shares were outstanding as of December 31,
+2005, including shares held by employee benefits trusts.
+
+Provisions in our
+articles of incorporation, bylaws, shareholder rights plan, other agreements
+and Georgia law may make it difficult for a third party to acquire us, even in
+situations that may be viewed as desirable by our shareholders.
+
+Our articles of
+incorporation, bylaws, shareholder rights plan, other agreements and the
+General Business Corporation Code of the State of Georgia, or Georgia Code,
+contain provisions that may delay or prevent an attempt by a third party to
+acquire control of our company. For example, our articles of incorporation:
+
+·       Provide for classified
+terms for the members of our Board of Directors;
+
+·       Authorize our Board of
+Directors to fill vacant directorships or to increase the size of the Board;
+
+·       Do not authorize our
+shareholders to remove a director without cause;
+
+·       Do not authorize our
+shareholders to cumulate voting in the election of directors; and
+
+·       Authorize
+the issuance of preferred stock with such rights, powers and privileges as the
+Board of Directors deems appropriate.
+
+In addition, our bylaws limit the ability of
+shareholders to bring business before a meeting of shareholders and do not
+allow our shareholders to act by written consent.
+
+We are a Georgia corporation and have elected to be
+governed by the “business combination” and “fair price” provisions of the
+Georgia Code, that could be viewed as having the effect of discouraging an
+attempt to obtain control of us. The business combination provision generally
+would prohibit us from engaging in various business combination transactions
+with any interested shareholder for a period of five years after the date of
+the transaction in which the person became an interested shareholder unless
+certain designated conditions are met.
+
+The fair price provision generally requires that,
+absent Board or shareholder approval of an acquisition or merger, an interested
+shareholder seeking to engage in a business combination transaction with us
+must pay the remaining shareholders the same price for their shares as was paid
+by the interested shareholder to acquire beneficial ownership of 10% or more of
+our outstanding voting shares.
+
+We have also implemented a shareholder rights plan,
+also called a poison pill, which could make it uneconomical for a third party
+to acquire our company on a hostile basis.
+
+
+ 16 
+
+
+
+
+
+These provisions could
+also discourage or impede a tender offer, proxy contest or other similar
+transactions involving control of us, even if viewed favorably by shareholders.
+
+Risks
+Relating to Regulation and Litigation
+
+Compliance with recent amendments to the FCRA have
+increased our compliance costs.
+
+The FACT Act, which amended the FCRA, became law in December 2003.
+Beginning on December 1, 2004, the FACT Act, among other things, required
+us on an annual basis to provide free credit reports to consumers upon request.
+These reports may be requested by Internet, telephone or mail through
+centralized request facilities which we and other nationwide credit reporting
+agencies must establish and support. In addition, subject to final regulations
+to be adopted by the FTC, consumers will be entitled to a free credit report
+upon request if a report results in the consumer obtaining credit terms less
+favorable than those provided to a majority of the credit provider’s customers
+(also known as risk-based pricing). The FACT Act also requires us to provide
+credit scores to requesting consumers for a reasonable fee, as determined by
+the FTC.
+
+The FTC has issued regulations to implement many of
+these requirements, including establishment of the centralized request
+facilities and development of procedures to phase-in such requests. The
+phase-in was completed on September 1, 2005. Additional provisions of the
+FACT Act impose requirements designed to reduce consumer identity theft, limit
+provision of medical information and require reports to the FTC regarding
+consumer complaints. We have modified our procedures and systems to deal with
+these and other FACT Act provisions where applicable.
+
+We have incurred
+significant compliance costs to implement the FACT Act requirements, and we
+expect to continue incurring expenses to comply with the FTC’s regulations that
+could have a material adverse effect on our financial condition and results of
+operations. The net impact of the free report disclosure and other requirements
+of the FACT Act on our business will depend on numerous factors, including
+among others the actual demand of consumers for free credit reports; our
+ability to increase fees to customers to recover these regulatory costs; our
+experience marketing fee-generating products to consumers requesting free
+credit file disclosures; the FTC’s final determination of the fee we can charge
+for providing credit score disclosures to requesting consumers; the actual cost
+of resolving additional credit file and credit score reinvestigation requests
+from consumers; and approval of final FTC and Federal Reserve Board rules on
+risk-based pricing transactions and other matters.
+
+Changes in the
+legislative, regulatory and judicial environments may adversely affect our
+ability to collect, manage, aggregate and use data.
+
+Our business involves collection of consumer and
+business data and distribution of such information to businesses making credit and
+marketing decisions. Consequently, certain of our activities and services are
+subject to regulation by federal, state and local authorities in the U.S. and
+Canada, and in those countries within Europe and Latin America where we do
+business. For instance, much of the data and services that we provide are
+subject to regulation under the FCRA which regulates the use of consumer credit
+information and, to a lesser extent, the Gramm-Leach-Bliley Act which regulates
+the use of non-public personal information held by financial institutions.
+
+We are also subject to the
+U.K.’s Data Protection Act of 1998, which regulates the manner in which we can
+use third-party data and recent regulatory limitations relating to use of the
+Electoral Roll, one of our key data sources in the U.K. In addition, public
+interest in individual privacy rights and the collection, distribution and use
+of information about individuals may result in the adoption of new federal,
+state, local and foreign laws and regulations that could include increased
+compliance requirements and restrictions on the purchase, sale and sharing of
+information about consumers for commercial purposes, and have a negative impact
+on our ability to collect such information provided by consumers voluntarily.
+Future 
+
+
+ 17 
+
+
+
+
+
+international,
+federal, state and local laws and regulations with respect to the collection,
+management and use of data about individuals, and adverse publicity, judicial
+interpretations or potential litigation concerning the commercial use of such
+information, may result in substantial regulatory compliance costs, litigation
+expense or a loss of revenue. The outcome of litigation is inherently uncertain
+and adverse developments or outcomes can result in significant monetary
+damages, penalities or injunctive relief against us.
+
+ITEM 1B

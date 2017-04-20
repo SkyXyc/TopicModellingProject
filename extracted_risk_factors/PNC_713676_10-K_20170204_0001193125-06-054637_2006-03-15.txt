@@ -1,0 +1,197 @@
+ITEM 1A – RISK FACTORS  We are subject to a number of risks
+potentially impacting our business, financial condition, results of operations and cash flows. Indeed, as a financial services organization, certain elements of risk are inherent in every one of our transactions and are presented by every business
+decision we make. Thus, we encounter risk as part of the normal course of our business, and we design risk management processes to help manage these risks.  <FONT FACE="Times New Roman"
+SIZE="2">In many cases, there are risks that are known to exist at the outset of a transaction but which cannot reasonably be eliminated. For example, every loan transaction presents credit risk (the risk that the borrower may not perform in
+accordance with contractual terms) and interest rate risk (a potential loss in earnings or economic value due to adverse movement in market interest rates or credit spreads), with the nature and extent of these risks principally depending on the
+identity of the borrower and overall economic conditions. These risks are inherent in every loan transaction; if we wish to make loans, we must manage these risks through the terms and structure of the loans and through management of our deposits
+and other funding sources. The success of our business is dependent on our ability to identify, understand and manage the risks presented by our business activities so that we can balance appropriately revenue generation and profitability with these
+inherent risks. We discuss our principal risk management processes and, in appropriate places, related historical performance in the Risk Management section included in Item 7 of this Report.  <P
+STYLE="margin-top:12px;margin-bottom:0px">The following are the key risk factors that affect us. These risk factors are also discussed further in other parts of this Report.  <P
+STYLE="margin-top:0px;margin-bottom:0px"> 
+ 8 
+
+
+
+
+Table of Contents
+
+ A sustained weakness or weakening in business and economic conditions generally or specifically in the principal
+markets in which we do business could adversely affect our business and operating results.  PNC’s business could be adversely affected to the
+extent that weaknesses in business and economic conditions have direct or indirect impacts on our customers and counterparties. These conditions could lead, for example, to one or more of the following:  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+A decrease in the demand for loans and other products and services offered by us,   
+
+
+ 
+•
+ 
+A decrease in the value of our loans held for sale,   
+
+
+ 
+•
+ 
+A decrease in the usage of unfunded commitments,   
+
+
+ 
+•
+ 
+A decrease in customer savings generally and in the demand for savings and investment products offered by us, and  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+An increase in the number of customers and counterparties who become delinquent, file for protection under bankruptcy laws, or default on their loans or other obligations to us. An
+increase in the number of delinquencies, bankruptcies or defaults could result in a higher level of nonperforming assets, net charge-offs, provision for credit losses, and valuation adjustments on loans held for sale.  <P
+STYLE="margin-top:12px;margin-bottom:0px">Although many of our businesses are national and some are international in scope, our retail banking business is concentrated within our retail branch network footprint
+(Delaware, Indiana, Kentucky, New Jersey, Ohio, Pennsylvania, and the greater Washington, D.C. area), and thus that business is particularly vulnerable to adverse changes in economic conditions in these regions.  <P
+STYLE="margin-top:12px;margin-bottom:0px">Changes in interest rates or in valuations in the debt or equity markets could directly impact our assets and liabilities and our performance.  <P
+STYLE="margin-top:12px;margin-bottom:0px">Given our business mix, our traditional banking activities of gathering deposits and extending loans, and the fact that most of our assets and liabilities are financial
+in nature, we tend to be particularly sensitive to market interest rate movement and the performance of the financial markets. In addition to the impact on the economy generally, with some of the potential effects outlined above, changes in
+interest rates, in the shape of the yield curve, or in valuations in the debt or equity markets could directly impact us in one or more of the following ways:   
+
+
+ 
+•
+ 
+Such changes could affect the difference between the interest that we earn on assets and the interest that we pay on liabilities, as well as the value of some or all of our
+on-balance sheet and off-balance sheet financial instruments or the value of equity investments that we hold,   
+
+
+ 
+•
+ 
+To the extent to which we access capital markets to raise funds to support our business, such changes could affect the cost of such funds or our ability to raise such funds, and
+  
+
+
+ 
+•
+ 
+Such changes could affect the value of the assets that we manage or otherwise administer for others or the assets for which we provide processing services. Although we are not
+directly impacted by changes in the value of assets that we manage or administer for others or for which we provide processing services, decreases in the value of those assets would affect our fee income relating to those assets and could result in
+decreased demand for our services.  As a result of the high percentage of our assets and liabilities that are in the form of interest-bearing
+instruments, the monetary, tax and other policies of the government and its agencies, including the Federal Reserve, which have a significant impact on interest rates and overall financial market performance, can affect the activities and results of
+operations of bank holding companies and their subsidiaries, such as PNC and our subsidiaries. An important function of the Federal Reserve is to regulate the national supply of bank credit and market interest rates. The actions of the Federal
+Reserve influence the rates of interest that we charge on loans and that we pay on borrowings and interest-bearing deposits and can also affect the value of our on-balance sheet and off-balance sheet financial instruments. Both due to the impact on
+rates and by controlling access to direct funding from the Federal Reserve Banks, the Federal Reserve’s policies also influence, to a significant extent, our cost of funding. We cannot predict the nature or timing of future changes in monetary,
+tax and other policies or the effect that they may have on our activities and results of operations.  We operate in a highly competitive environment,
+both in terms of the products and services we offer and the geographic markets in which we conduct business. Competition could adversely impact our customer acquisition, growth and retention, as well as our credit spreads and product pricing,
+causing us to lose market share and deposits and revenues.  We are subject to intense competition from various financial institutions and from non-bank
+entities that engage in similar activities without being subject to bank regulatory supervision and restrictions.  In making loans, our subsidiary banks
+compete with traditional banking institutions as well as consumer finance companies, leasing companies and other non-bank lenders. Loan pricing and credit standards are under competitive pressure as lenders seek to deploy capital and a broader range
+of borrowers have access to capital markets.  Traditional deposit activities are subject to pricing pressures and customer migration as a result of intense
+competition for consumer investment dollars. Our subsidiary banks compete for deposits with other commercial banks, savings banks, savings and loan associations, credit unions, treasury  <FONT
+SIZE="1"> 
+ 9 
+
+
+
+
+Table of Contents
+
+ management service companies, insurance companies, and issuers of commercial paper and other securities, including mutual
+funds.  Our various non-bank subsidiaries engaged in investment banking and private equity activities compete with commercial banks, investment banking
+firms, merchant banks, insurance companies, private equity firms, and other investment vehicles.  In providing asset management services, our subsidiaries
+compete with investment management firms, large banks and other financial institutions, brokerage firms, mutual fund complexes, and insurance companies.  <FONT FACE="Times New Roman"
+SIZE="2">The fund servicing business is also highly competitive, with a relatively small number of providers. Merger, acquisition and consolidation activity in the financial services industry has also impacted the number of existing or potential
+fund servicing clients and has intensified competition.  In all of these areas, the principal bases for competition are pricing (including the interest
+rates charged on loans or paid on interest-bearing deposits), the range of products and services offered, and the quality of customer service (including convenience and responsiveness to customer needs and concerns). The ability to access and use
+technology is an increasingly important competitive factor in the financial services industry. Technology is important not only with respect to delivery of financial services but also in processing information. Each of our businesses consistently
+must make significant technological investments to remain competitive.  Our failure to execute successfully our One PNC initiative would negatively
+impact our financial performance over the next several years.  Our future results are likely to be affected significantly by the results of the
+implementation of our One PNC initiative, as discussed in Item 7 of this Report. Our ability to improve profitability is, in particular, dependent to a meaningful extent on the success of this initiative. Generally, the amounts of our
+anticipated cost savings and revenue enhancements are based to some extent on estimates and assumptions regarding future business performance and expenses, and, although we believe them to be reasonable at the present time, these estimates and
+assumptions may prove to be inaccurate in some respects, due to changing conditions or otherwise. For example:   
+
+
+ 
+•
+ 
+Some of the ideas may take longer to implement than anticipated or may cost more to implement than anticipated;  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+The implementation of cost savings ideas may have unintended impacts on our ability to attract and retain business and customers;  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+Revenue enhancement ideas may not be successful in the marketplace or may result in unintended costs;  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+Assumed attrition required to achieve workforce reductions may not come in the right places or at the right times to meet planned goals; and  <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"> 
+
+
+ 
+•
+ 
+Changing market conditions may force us to alter the implementation or continuation of cost savings or revenue enhancement ideas.  <P
+STYLE="margin-top:12px;margin-bottom:0px">As a result, we may not be able to achieve or sustain the cost savings and revenue enhancements that we are anticipating from the One PNC initiative.  <P
+STYLE="margin-top:12px;margin-bottom:0px">We grow our business in part by acquiring from time to time other financial services companies, and these acquisitions present us with a number of risks and
+uncertainties related both to the acquisition transactions themselves and to the integration of the acquired businesses into PNC after closing.  <FONT FACE="Times New Roman"
+SIZE="2">Acquisitions of other financial services companies also present risks to PNC other than those presented by the nature of the business acquired. In particular, acquisitions may be substantially more expensive to complete (including as a
+result of costs incurred in connection with the integration of the acquired company) and the anticipated benefits (including anticipated cost savings and strategic gains) may be significantly harder or take longer to achieve than expected. In some
+cases, acquisitions involve our entry into new businesses or new geographic or other markets, and these situations also present risks resulting from our inexperience in these new areas. As a regulated financial institution, our pursuit of attractive
+acquisition opportunities could be negatively impacted due to regulatory delays or other regulatory issues. Regulatory and/or legal issues relating to the pre-acquisition operations of an acquired business may cause reputational harm to PNC
+following the acquisition and integration of the acquired business into ours and may result in additional future costs and expenses arising as a result of those issues. Recent acquisitions, including our acquisition of Riggs, continue to present the
+post-closing risks and uncertainties described above.  The performance of our asset management businesses may be adversely affected by the relative
+performance of our products compared with alternative investments.  Asset management revenue is primarily based on a percentage of the value of assets
+under management and, in some cases, performance fees, in most cases expressed as a percentage of the returns realized on assets under management, and thus is impacted by general changes in capital markets valuations and customer preferences. In
+addition, investment performance is an important factor influencing the level of assets under management. Poor investment performance could impair revenue and growth as existing clients might withdraw funds in favor of better performing products.
+Also, performance fees could be lower or nonexistent. Additionally, the ability to attract funds from existing and new clients might diminish.   
+ 10 
+
+
+
+
+Table of Contents
+
+ The performance of our fund servicing business may be adversely affected by changes in investor preferences, or
+changes in existing or potential fund servicing clients or alternative providers.  Fund servicing fees are primarily derived from the market value of
+the assets and the number of shareholder accounts that we administer for our clients. The performance of our fund processing business is thus partially dependent on the underlying performance of its fund clients and, in particular, their ability to
+attract and retain customers. Changes in interest rates or a sustained weakness, weakening or volatility in the debt and equity markets could (in addition to affecting directly the value of assets administered as discussed above) influence an
+investor’s decision to invest or maintain an investment in a particular mutual fund or other pooled investment product. Other factors beyond our control may impact the ability of our fund clients to attract or retain customers or customer
+funds, including changes in preferences as to certain investment styles. Further, to the extent that our fund clients’ businesses are adversely affected by ongoing governmental investigations into the practices of the mutual and hedge fund
+industries, our fund processing business’ results also could be adversely impacted. As a result of these types of factors, fluctuations may occur in the level or value of assets for which we provide processing services. In addition, this
+regulatory and business environment is likely to continue to result in operating margin pressure for our various services.  As a regulated financial
+services firm, we are subject to numerous governmental regulations and to comprehensive examination and supervision by regulators, which affects our business as well as our competitive position.  <P
+STYLE="margin-top:12px;margin-bottom:0px">PNC is a bank and financial holding company and is subject to numerous governmental regulations involving both its business and organization. Our businesses are subject
+to regulation by multiple bank regulatory bodies as well as multiple securities industry regulators. Applicable laws and regulations restrict our ability to repurchase stock or to receive dividends from bank subsidiaries and impose capital adequacy
+requirements. They also restrict permissible activities and investments and require compliance with protections for loan, deposit, brokerage, fiduciary, mutual fund and other customers, and for the protection of customer information, among other
+things. The consequences of noncompliance can include substantial monetary and nonmonetary sanctions as well as damage to our reputation and business.  In
+addition, we are subject to comprehensive examination and supervision by banking and other regulatory bodies. Examination reports and ratings (which often are not publicly available) and other aspects of this supervisory framework can materially
+impact the conduct, growth, and profitability of our businesses.  We discuss these and other regulatory issues applicable to PNC in the Supervision and
+Regulation section included in Item 1 of this Report and in Note 4 Regulatory Matters in the Notes To Consolidated Financial Statements in Item 8 of this Report and here by reference.  <P
+STYLE="margin-top:12px;margin-bottom:0px">Over the last several years, there has been an increasing regulatory focus on compliance with anti-money laundering laws and regulations, resulting in, among other
+things, several significant publicly-announced enforcement actions, including those relating to Riggs National Corporation. There has also been a heightened focus recently, by customers and the media as well as by regulators, on the protection of
+confidential customer information. In response to this environment, we are working to enhance our procedures for compliance with laws and regulations in these areas. A failure to have adequate procedures to comply with anti-money laundering laws and
+regulations or to protect the confidentiality of customer information could expose us to damages, fines and regulatory penalties, which could be significant, and could also injure our reputation with customers and others with whom we do business.
+ Our business and financial performance could be adversely affected, directly or indirectly, by natural disasters, by terrorist activities or by
+international hostilities.  The impact of natural disasters, terrorist activities and international hostilities cannot be predicted with respect to
+severity or duration. However, any of these could impact us directly (for example, by causing significant damage to our facilities or preventing us from conducting our business in the ordinary course), or could impact us indirectly through a direct
+impact on our borrowers, depositors, other customers, suppliers or other counterparties. We could also suffer adverse consequences to the extent that natural disasters, terrorist activities or international hostilities affect the economy and
+financial and capital markets generally. These types of impacts could lead, for example, to an increase in delinquencies, bankruptcies or defaults that could result in our experiencing higher levels of nonperforming assets, net charge-offs and
+provisions for credit losses.  Our ability to mitigate the adverse consequences of such occurrences is in part dependent on the quality of our resiliency
+planning, including our ability to anticipate the nature of any such event that occurs. The adverse impact of natural disasters or terrorist activities also could be increased to the extent that there is a lack of preparedness on the part of
+national or regional emergency responders or on the part of other organizations and businesses that we deal with, particularly those that we depend upon.  <FONT FACE="Times New Roman"
+SIZE="2">
+ITEM 1B

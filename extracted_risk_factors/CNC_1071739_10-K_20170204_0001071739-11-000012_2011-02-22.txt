@@ -1,0 +1,4071 @@
+Item 1A.  “Risk Factors,” and Part I, Item 3 “Legal Proceedings.”  Readers are cautioned that matters subject to forward-looking statements involve known and unknown risks and uncertainties, including economic, regulatory, competitive and other factors that may cause our or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements.  These statements are not guarantees of future performance and are subject to risks, uncertainties and assumptions.
+
+
+
+
+All forward-looking statements included in this filing are based on information available to us on the date of this filing.  Actual results may differ from projections or estimates due to a variety of important factors, including:
+
+
+
+
+
+
+
+
+·  
+
+
+our ability to accurately predict and effectively manage health benefits and other operating expenses;
+
+
+
+
+
+
+
+
+·  
+
+
+competition;
+
+
+
+
+
+
+
+
+·  
+
+
+changes in healthcare practices;
+
+
+
+
+
+
+
+
+·  
+
+
+changes in federal or state laws or regulations;
+
+
+
+
+
+
+
+
+·  
+
+
+inflation;
+
+
+
+
+
+
+
+
+·  
+
+
+provider contract changes;
+
+
+
+
+
+
+
+
+·  
+
+
+new technologies;
+
+
+
+
+
+
+
+
+·  
+
+
+reduction in provider payments by governmental payors;
+
+
+
+
+
+
+
+
+·  
+
+
+major epidemics;
+
+
+
+
+
+
+
+
+·  
+
+
+disasters and numerous other factors affecting the delivery and cost of healthcare;
+
+
+
+
+
+
+
+
+·  
+
+
+the expiration, cancellation or suspension of our Medicaid managed care contracts by state governments;
+
+
+
+
+
+
+
+
+·  
+
+
+availability of debt and equity financing, on terms that are favorable to us; and
+
+
+
+
+
+
+
+
+·  
+
+
+general economic and market conditions.
+
+
+
+
+
+
+
+  Item 1A “Risk Factors” of Part I of this filing contains a further discussion of these and other important factors that could cause actual results to differ from expectations.  We disclaim any current intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.  Due to these important factors and risks, we cannot give assurances with respect to our future premium levels or our ability to control our future medical costs.
+
+
+
+
+
+
+  
+
+
+
+1
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+PART I
+
+ 
+
+Item 1.  Business
+
+ 
+
+OVERVIEW
+
+
+
+
+We are a diversified, multi-line healthcare enterprise operating in two segments: Medicaid Managed Care and Specialty Services.  Our Medicaid Managed Care segment provides Medicaid and Medicaid-related health plan coverage to individuals through government subsidized programs, including Medicaid, the State Children’s Health Insurance Program, or CHIP, Foster Care, Medicare Special Needs Plans and the Supplemental Security Income Program, also known as the Aged, Blind or Disabled Program, or collectively ABD.  Our health plans in Florida, Georgia, Indiana, Mississippi, Ohio, South Carolina, Texas and Wisconsin are included in the Medicaid Managed Care segment.  As of December 31, 2010, Medicaid accounted for 77% of our at-risk membership, while CHIP (also including Foster Care) and ABD (also including M
+edicare) accounted for 14% and 7%, respectively.  Other state programs in Massachusetts represent the remaining 2% at-risk membership.  Our Specialty Services segment offers products for behavioral health, heath insurance exchanges, individual health insurance, life and health management, long-term care programs, managed vision, telehealth services, and pharmacy benefits management to state programs, healthcare organizations, employer groups and other commercial organizations, as well as to our own subsidiaries.  Our health plans in Arizona, operated by our long-term care company, and Massachusetts, operated by our individual health insurance provider, are included in the Specialty Services segment.
+
+
+
+
+We completed the sale of certain assets of University Health Plans, Inc., or UHP, our New Jersey health plan, during the first quarter of 2010.  Accordingly, the results of operations for UHP are classified as discontinued operations for all periods presented in our consolidated financial statements.  The following discussion and analysis is presented primarily in the context of continuing operations unless otherwise identified.
+
+
+
+
+Our at-risk managed care membership totaled approximately 1.5 million as of December 31, 2010.  For the year ended December 31, 2010, our revenues and net earnings from continuing operations were $4.4 billion and $90.9 million, respectively, and our total cash flow from operations was $168.9 million.
+
+
+
+
+We provide member-focused services through locally based staff by assisting in accessing care, coordinating referrals to related health and social services and addressing member concerns and questions.  We also provide education and outreach programs to inform and assist members in accessing quality, appropriate healthcare services.  We believe our local approach to managing our health plans, including provider and member services, enables us to provide accessible, quality, culturally-sensitive healthcare coverage to our communities.  Our health management, educational and other initiatives are designed to help members best utilize the healthcare system to ensure they receive appropriate, medically necessary services and effective management of routine, severe and chronic health problems, resulting in better
+ health outcomes.  We combine our decentralized local approach for care with a centralized infrastructure of support functions such as finance, information systems and claims processing.
+
+ 
+
+Our initial health plan commenced operations in Wisconsin in 1984.  We were organized in Wisconsin in 1993 as a holding company for our initial health plan and reincorporated in Delaware in 2001.  Our corporate office is located at 7700 Forsyth Boulevard, St. Louis, Missouri 63105, and our telephone number is (314) 725-4477.  Our stock is publicly traded on the New York Stock Exchange under the ticker symbol “CNC.”
+
+ 
+
+INDUSTRY
+
+
+
+
+We provide our services to the uninsured primarily through Medicaid, CHIP, Foster Care, ABD, Medicare and other state programs for the uninsured.  The federal Centers for Medicare and Medicaid Services, or CMS, estimated the total Medicaid and CHIP market was approximately $355 billion in 2008, and estimate the market will grow to $896 billion by 2019.  According to the most recent information provided by the Kaiser Commission on Medicaid and the Uninsured, Medicaid spending increased by 8.8% in fiscal 2010 and states appropriated an increase of 7.4% for Medicaid in fiscal 2011 budgets.
+
+ 
+
+Established in 1965, Medicaid is the largest publicly funded program in the United States, and provides health insurance to low-income families and individuals with disabilities.  Authorized by Title XIX of the Social Security Act, Medicaid is an entitlement program funded jointly by the federal and state governments and administered by the states.  The majority of funding is provided at the federal level.  Each state establishes its own eligibility standards, benefit packages, payment rates and program administration within federal standards.  As a result, there are 56 Medicaid programs— one for each U.S. state, each U.S. territory and the District of Columbia.  Eligibility is based on a combination of household income and assets, often determined by an income level relative to the
+ federal poverty level.  Historically, children have represented the largest eligibility group. Many states have selected Medicaid managed care as a means of delivering quality healthcare and controlling costs, including states that automatically enroll Medicaid recipients who don’t select a health plan.  We refer to these states as mandated managed care states.
+
+ 
+
+Established in 1972, and authorized by Title XVI of the Social Security Act, ABD covers low-income persons with chronic physical disabilities or behavioral health impairments.  ABD beneficiaries represent a growing portion of all Medicaid recipients.  In addition, ABD recipients typically utilize more services because of their critical health issues.
+
+ 
+
+The Balanced Budget Act of 1997 created CHIP to help states expand coverage primarily to children whose families earned too much to qualify for Medicaid, yet not enough to afford private health insurance.  Some states include the parents of these children in their CHIP programs.  CHIP is the single largest expansion of health insurance coverage for children since the enactment of Medicaid.  Costs related to the largest eligibility group, children, are primarily composed of pediatrics and family care.  These costs tend to be more predictable than other healthcare issues which predominantly affect the adult population.
+
+ 
+
+A portion of Medicaid beneficiaries are dual eligibles, low-income seniors and people with disabilities who are enrolled in both Medicaid and Medicare.  According to the Kaiser Commission on Medicaid and the Uninsured, there were approximately 9 million dual eligible enrollees in 2010.  These dual eligibles may receive assistance from Medicaid for Medicaid benefits, such as nursing home care and/or assistance with Medicare premiums and cost sharing.  Dual eligibles also use more services due to their tendency to have more chronic health issues.  We serve dual eligibles through our ABD and long-term care programs, and beginning in 2008, through Special Needs Plans.
+
+ 
+
+While Medicaid programs have directed funds to many individuals who cannot afford or otherwise maintain health insurance coverage, they did not initially address the inefficient and costly manner in which the Medicaid population tends to access healthcare.  Medicaid recipients in non-managed care programs typically have not sought preventive care or routine treatment for chronic conditions, such as asthma and diabetes.  Rather, they have sought healthcare in hospital emergency rooms, which tends to be more expensive.  As a result, many states have found that the costs of providing Medicaid benefits have increased while the medical outcomes for the recipients remained unsatisfactory.
+
+ 
+
+Since the early 1980s, increasing healthcare costs, combined with significant growth in the number of Medicaid recipients, have led many states to establish Medicaid managed care initiatives.  Additionally, a number of states are designing programs to cover the rising number of uninsured Americans.  The Kaiser Commission on Medicaid and the Uninsured estimated there were over 46 million Americans in 2008 that lacked health insurance.  We expect that continued pressure on states’ Medicaid budgets will cause public policy to recognize the value of managed care as a means of delivering quality healthcare and effectively controlling costs.  A growing number of states have mandated that their Medicaid recipients enroll in managed care plans.  Other states are considering moving to a mand
+ated managed care approach.  As a result, a significant market opportunity exists for managed care organizations with operations and programs focused on the distinct socio-economic, cultural and healthcare needs of the uninsured population and the Medicaid, CHIP, Foster Care and ABD populations.  We believe our approach and strategy enable us to be a growing participant in this market.
+
+
+
+
+OUR COMPETITIVE STRENGTHS
+
+
+
+
+Our multi-line managed care approach is based on the following key attributes:
+
+
+
+
+
+
+
+
+·  
+
+
+Strong Historic Operating Performance. We have increased revenues as we have grown in existing markets, expanded into new markets and broadened our product offerings. We entered the Wisconsin market in 1984, the Indiana market in 1995, the Texas market in 1999, the Arizona market in 2003, the Ohio market in 2004, the Georgia market in 2006, the South Carolina market in 2007, the Florida and Massachusetts markets in 2009 and the Mississippi market in 2011. We have increased our membership through participation in new programs in existing states. For example, in 2008, we began operations in the Texas Foster Care program and began serving Acute Care members in Yavapai county of Arizona. We have also increased membership by acquiring Medicaid businesses, contracts and o
+ther related assets from competitors in existing markets, most recently in Florida and South Carolina in 2010. Our at-risk membership totaled approximately 1.5 million as of December 31, 2010.  For the year ended December 31, 2010, we had revenues of $4.4 billion, representing a 25% Compound Annual Growth Rate, or CAGR, since the year ended December 31, 2005.  We generated total cash flow from operations of $168.9 million and net earnings of $90.9 million for the year ended December 31, 2010.
+
+
+
+
+ 
+
+
+
+  
+
+
+
+2
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+
+·  
+
+
+Medicaid Expertise.  For more than 25 years, we have developed a specialized Medicaid expertise that has helped us establish and maintain relationships with members, providers and state governments.  We have implemented programs developed to achieve savings for state governments and improve medical outcomes for members by reducing inappropriate emergency room use, inpatient days and high cost interventions, as well as by managing care of chronic illnesses.  Our experience in working with state regulators helps us implement and deliver programs and services efficiently and affords us opportunities to provide input regarding Medicaid industry practices and policies in the states in which we operate.  We work with state agencies on redefining benefits, eligib
+ility requirements and provider fee schedules in order to maximize the number of uninsured individuals covered through Medicaid, CHIP, Foster Care and ABD and expand the types of benefits offered.  Our approach is to accomplish this while maintaining adequate levels of provider compensation and protecting our profitability.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Diversified Business Lines.  We continue to broaden our service offerings to address areas that we believe have been traditionally underserved by Medicaid managed care organizations.  In addition to our Medicaid and Medicaid-related managed care services, our service offerings include behavioral health, health insurance exchanges, individual health insurance, life and health management, long-term care programs, managed vision, telehealth services and pharmacy benefits management.  Through the utilization of a multi-business line approach, we are able to improve quality of care, improve outcomes, and diversify our revenues and help control our medical costs.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Localized Approach with Centralized Support Infrastructure.  We take a localized approach to managing our subsidiaries, including provider and member services.  This approach enables us to facilitate access by our members to high quality, culturally sensitive healthcare services.  Our systems and procedures have been designed to address these community-specific challenges through outreach, education, transportation and other member support activities.  For example, our community outreach programs work with our members and their communities to promote health and self-improvement through employment and education on how best to access care.  We complement this localized approach with a centralized infrastructure of support functions such as finance,
+ information systems and claims processing, which allows us to minimize general and administrative expenses and to integrate and realize synergies from acquisitions.  We believe this combined approach allows us to efficiently integrate new business opportunities in both Medicaid and specialty services while maintaining our local accountability and improved access.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Specialized and Scalable Systems and Technology.  Through our specialized information systems, we work to strengthen relationships with providers and states which help us grow our membership base.  We continue to develop our specialized information systems which allow us to support our core processing functions under a set of integrated databases, designed to be both replicable and scalable.  Physicians can use claims, utilization and membership data to manage their practices more efficiently, and they also benefit from our timely payments.  State agencies can use data from our information systems to demonstrate that their Medicaid populations receive quality healthcare in an efficient manner.  These systems also help identify needs for new healt
+hcare and specialty programs.  We have the ability to leverage our platform for one state configuration into new states or for health plan acquisitions.  Our utilization data is maintained on one common system for all health plans.  Our ability to access data and translate it into meaningful information is essential to operating across a multi-state service area in a cost-effective manner.
+
+
+
+
+ 
+
+OUR BUSINESS STRATEGY
+
+ 
+
+Our objective is to become the leading multi-line healthcare enterprise focusing on the uninsured and under insured population and state funded healthcare initiatives.  We intend to achieve this objective by implementing the following key components of our strategy:
+
+ 
+
+
+
+
+
+·  
+
+
+Increase Penetration of Existing State Markets. We seek to continue to increase our Medicaid membership in states in which we currently operate through alliances with key providers, outreach efforts, development and implementation of community-specific products and acquisitions. In Texas, we expanded our operations to the Corpus Christi market in 2006, began managing care for ABD recipients in February 2007 and began operations in the Foster Care program in April 2008. In Arizona, we began serving members of a long-term care plan in 2006 and within an acute care plan in 2008. In 2008, we began serving Medicare members within Special Needs Plans in Arizona, Ohio, Texas and Wisconsin. We may also increase membership by acquiring Medicaid businesses, contracts and othe
+r related assets from our competitors in our existing markets or by enlisting additional providers. For example, in 2010, we acquired certain Medicaid-related assets in Florida and South Carolina. 
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Diversify Business Lines. We seek to broaden our business lines into areas that complement our existing business to enable us to grow and diversify our revenue. We are constantly evaluating new opportunities for expansion both domestically and abroad. For instance, in July 2008, we completed the acquisition of Celtic Insurance Company, a national individual health insurance provider.  In October 2006, we commenced operations under our managed care program contracts to provide long-term care services in Arizona, and in January 2006, we completed the acquisition of US Script, a pharmacy benefits manager. We employ a disciplined acquisition strategy that is based on defined criteria including internal rate of return, accretion to earnings per share, market le
+adership and compatibility with our information systems. We engage our executives in the relevant operational units or functional areas to ensure consistency between the diligence and integration process. 
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Address Emerging State Needs. We work to assist the states in which we operate in addressing the operating challenges they face. We seek to assist the states in balancing premium rates, benefit levels, member eligibility, policies and practices, and provider compensation. For example, in November 2010, we began operating under a new contract with the Texas Department of Insurance to provide affordable health plans for Texas small businesses under the new Healthy Texas initiative, in April 2010, we began offering an individual insurance product for residents of Massachusetts who do not qualify for other state funded insurance programs and in 2008, we began operating under a contract with the Texas Health and Human Services Commission for Comprehensive Health Care for
+ Children in Foster Care, a new statewide program providing managed care services to participants in the Texas Foster Care program. By helping states structure an appropriate level and range of Medicaid, CHIP and specialty services, we seek to ensure that we are able to continue to provide those services on terms that achieve targeted gross margins, provide an acceptable return and grow our business. 
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Develop and Acquire Additional State Markets. We continue to leverage our experience to identify and develop new markets by seeking both to acquire existing business and to build our own operations. We expect to focus expansion in states where Medicaid recipients are mandated to enroll in managed care organizations, because we believe member enrollment levels are more predictable in these states.  In addition, we focus on states where managed care programs can help address states’ financial needs.  In 2007, we entered the South Carolina market and we participated in the state’s conversion to at-risk managed care. In February 2009, we began managed care operations in Florida through conversion of members in certain counties from Access
+ Health Solutions to at-risk managed care in Sunshine State Health Plan, through our state contract. In July 2009, we began operating under our contract in Massachusetts to manage healthcare services operating as CeltiCare Health Plan of Massachusetts. In 2011, we began managing care for ABD members in Mississippi.  We expect to begin providing managed care services to older adults and adults with disabilities in Illinois in the first half of 2011.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Leverage Established Infrastructure to Enhance Operating Efficiencies. We intend to continue to invest in infrastructure to further drive efficiencies in operations and to add functionality to improve the service provided to members and other organizations at a low cost. Information technology, or IT, investments complement our overall efficiency goals by increasing the automated processing of transactions and growing the base of decision-making analytical tools.  Our centralized functions and common systems enable us to add members and markets quickly and economically. 
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Maintain Operational Discipline. We monitor our cost trends, operating performance, regulatory relationships and the Medicaid political environment in our existing markets. We seek to operate in markets that allow us to meet our internal metrics including membership growth, plan size, market leadership and operating efficiency. We may divest contracts or health plans in markets where the state’s Medicaid environment, over a long-term basis, does not allow us to meet our targeted performance levels. We use multiple techniques to monitor and reduce our medical costs, including on-site hospital review by staff nurses and involvement of medical management in significant cases. Our executive dashboard is utilized to quickly identify cost drivers and medical trends.
+  Our management team regularly evaluates the financial impact of proposed changes in provider relationships, contracts, changes in membership and mix of members, potential state rate changes and cost reduction initiatives.
+
+
+
+
+ 
+
+
+
+  
+
+
+
+3
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+We have regulated subsidiaries offering healthcare services in each state we serve.  The table below provides summary data for the state markets we currently serve:
+
+
+
+
+
+
+
+
+State
+
+  
+
+Local Health Plan Name
+
+
+  
+
+
+First Year of Operations Under the Company
+
+
+  
+
+
+Counties Served at December 31, 2010
+
+
+  
+
+
+Market Share (1)
+
+  
+
+At-risk Managed Care Membership at
+
+December 31, 2010
+
+
+  
+
+
+
+Arizona
+
+  
+
+Bridgeway Health Solutions (2)
+
+  
+
+2008
+
+  
+
+5
+
+  
+
+1.5%
+
+  
+
+22,400
+
+  
+
+
+Florida
+
+  
+
+Sunshine State Health Plan
+
+  
+
+2009
+
+  
+
+26
+
+  
+
+17.3%
+
+  
+
+194,900
+
+  
+
+
+Georgia
+
+  
+
+Peach State Health Plan
+
+  
+
+2006
+
+  
+
+90
+
+  
+
+28.6%
+
+  
+
+305,800
+
+  
+
+
+Indiana
+
+  
+
+Managed Health Services
+
+  
+
+1995
+
+  
+
+92
+
+  
+
+31.8%
+
+  
+
+215,800
+
+  
+
+
+Massachusetts
+
+  
+
+CeltiCare Health Plan
+
+  
+
+2009
+
+  
+
+14
+
+  
+
+(3)
+
+  
+
+36,200
+
+  
+
+
+Ohio
+
+  
+
+Buckeye Community Health Plan
+
+  
+
+2004
+
+  
+
+43
+
+  
+
+9.9%
+
+  
+
+160,100
+
+  
+
+
+South Carolina
+
+  
+
+Absolute Total Care
+
+  
+
+2007
+
+  
+
+42
+
+  
+
+17.2%
+
+  
+
+90,300
+
+  
+
+
+Texas
+
+  
+
+Superior HealthPlan
+
+  
+
+1999
+
+  
+
+254
+
+  
+
+18.7%
+
+  
+
+433,100
+
+  
+
+
+Wisconsin
+
+  
+
+Managed Health Services
+
+  
+
+1984
+
+  
+
+    38
+
+  
+
+10.5%
+
+  
+
+      74,900
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  604
+
+  
+  
+  
+
+ 1,533,500
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+ 
+
+
+
+
+
+(1)  
+
+
+Represents Medicaid and CHIP membership as of December 31, 2010 as a percentage of total eligible Medicaid and CHIP managed care members in each state.  ABD programs are excluded.
+
+
+
+
+
+
+
+
+(2)  
+
+
+Represents the acute care and Medicare businesses under Bridgeway Health Solutions.
+
+
+
+
+
+
+
+
+(3)  
+
+
+CeltiCare Health Plan manages members under the state Commonwealth Care Bridge program and Commonwealth Care program with market share of 100% and approximately 7.0%, respectively.
+
+
+
+
+
+
+
+All of our revenue is derived from operations within the United States and its territories, and all of the Company’s long lived assets are based in the United States and its territories.  We generally receive a fixed premium per member per month pursuant to our state contracts.  Our medical costs have a seasonality component due to cyclical illness, for example cold and flu season, resulting in higher medical expenses beginning in the fourth quarter and continuing throughout the first quarter of the following year.  Our managed care subsidiaries in Georgia, Ohio, and Texas had revenues from their respective state governments that each exceeded 10% of our consolidated total revenues in 2010.  Other financial information about our segments is found in Note 20, <font style="DISPLAY: inline; FONT
+- -STYLE: italic">Segment Information, of our Notes to Consolidated Financial Statements and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included elsewhere in this Annual Report on Form 10-K.
+
+
+
+
+MEDICAID MANAGED CARE
+
+
+
+
+Benefits to States
+
+ 
+
+Our ability to establish and maintain a leadership position in the markets we serve results primarily from our demonstrated success in providing quality care while reducing and managing costs, and from our specialized programs in working with state governments.  Among the benefits we are able to provide to the states with which we contract are:
+
+
+
+
+
+
+
+
+·  
+
+
+Significant cost savings and budget predictability compared to state paid reimbursement for services.  We bring bottom-line management experience to our health plans.  On the administrative and management side, we bring experience including quality of care improvement methods, utilization management procedures, an efficient claims payment system, and provider performance reporting, as well as managers and staff experienced in using these key elements to improve the quality of and access to care.  We receive a contracted premium on a per member basis and are responsible for the medical costs and as a result, provide budget predictability.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Data-driven approaches to balance cost and verify eligibility.  Our Medicaid health plans have conducted enrollment processing and activities for state programs since 1984.  We seek to ensure effective enrollment procedures that move members into the plan, then educate them and ensure they receive needed services as quickly as possible.  Our IT department has created mapping/translation programs for loading membership and linking membership eligibility status to all of Centene’s subsystems.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Establishment of realistic and meaningful expectations for quality deliverables.  We have collaborated with state agencies in redefining benefits, eligibility requirements and provider fee schedules with the goal of maximizing the number of individuals covered through Medicaid, CHIP, Foster Care and ABD programs.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Managed care expertise in government subsidized programs.  Our expertise in Medicaid has helped us establish and maintain strong relationships with our constituent communities of members, providers and state governments.  We provide access to services through local providers and staff that focus on the cultural norms of their individual communities.  To that end, systems and procedures have been designed to address community-specific challenges through outreach, education, transportation and other member support activities.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Improved medical outcomes.  We have implemented programs developed to achieve savings for state governments and improve medical outcomes for members by reducing inappropriate emergency room use, inpatient days and high cost interventions, as well as by managing care of chronic illness.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Timely payment of provider claims.  We are committed to ensuring that our information systems and claims payment systems meet or exceed state requirements.  We continuously endeavor to update our systems and processes to improve the timeliness of our provider payments.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Provider outreach and programs.  Our health plans have adopted a physician-driven approach where network providers are actively engaged in developing and implementing healthcare delivery policies and strategies.  This approach is designed to eliminate unnecessary costs, improve services to members and simplify the administrative burdens placed on providers.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Responsible collection and dissemination of utilization data.  We gather utilization data from multiple sources, allowing for an integrated view of our members’ utilization of services.  These sources include medical, vision and behavioral health claims and encounter data, pharmacy data, dental vendor claims and authorization data from the authorization and case management system utilized by us to coordinate care.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Timely and accurate reporting.  Our information systems have reporting capabilities which have been instrumental in identifying the need for new and/or improved healthcare and specialty programs.  For state agencies, our reporting capability is important in demonstrating an auditable program.
+
+
+
+
+
+
+
+
+
+
+
+·  
+
+
+Fraud and abuse prevention.  We have several systems in place to help identify, detect and investigate potential waste, abuse and fraud including pre and post payment software.  We collaborate with state and federal agencies and assist with investigation requests.  We use nationally recognized standards to benchmark our processes. 
+
+
+
+
+ 
+
+Member Programs and Services
+
+
+
+
+We recognize the importance of member-focused delivery of quality managed care services.  Our locally-based staff assists members in accessing care, coordinating referrals to related health and social services and addressing member concerns and questions.  While covered healthcare benefits vary from state to state, our health plans generally provide the following services:
+
+ 
+
+
+
+
+
+Ÿ
+
+
+    primary and specialty physician care
+
+  
+
+Ÿ
+
+
+    transportation assistance
+
+
+
+Ÿ
+
+
+    inpatient and outpatient hospital care
+
+  
+
+Ÿ
+
+
+    vision care
+
+
+
+Ÿ
+
+
+    emergency and urgent care
+
+  
+
+Ÿ
+
+
+    dental care
+
+
+
+Ÿ
+
+
+    prenatal care
+
+  
+
+Ÿ
+
+
+    immunizations
+
+
+
+Ÿ
+
+
+    laboratory and x-ray services
+
+  
+
+Ÿ
+
+
+    prescriptions and limited over-the-counter drugs
+
+
+
+Ÿ
+
+
+    home health and durable medical equipment
+
+  
+
+Ÿ
+
+
+    therapies
+
+
+
+Ÿ
+
+
+    behavioral health and substance abuse services
+
+  
+
+Ÿ
+
+
+    social work services
+
+
+
+Ÿ
+
+
+    24-hour nurse advice line
+
+  
+
+Ÿ
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+4
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+We also provide the following education and outreach programs to inform and assist members in accessing quality, appropriate healthcare services in an efficient manner:
+
+ 
+
+
+
+
+
+Ÿ  
+
+
+Start Smart For Your Baby ® is a prenatal and infant health program designed to increase the percentage of pregnant women receiving early prenatal care, reduce the incidence of low birth weight babies, identify high risk pregnancies, increase participation in the federal Women, Infant and Children program, prevent hospital admissions in the first year of life and increase well-child visits.  The program includes risk assessments, education through face-to-face meetings and materials, behavior modification plans, assistance in selecting a provider for the infant and scheduling newborn follow-up visits.  These initiatives are supported by a stati
+stically proven reduction in Neonatal Intensive Care Unit (NICU) days as well as increased gestational birth weights.  The program includes a Notification of Pregnancy process to identify pregnant women more quickly and enables us to help them gain access to prenatal medical care, give them education on their healthcare needs, assist with social needs and concerns, and coordinate referrals to appropriate specialists and the obstetrics (OB) case management program as needed.  The Notification of Pregnancy also identifies women eligible for our high risk OB management program, or 17P Program, which aims to reduce the rate of recurrent preterm delivery and neonatal intensive care admissions through the use of Progesterone.  In addition, Start Smart has also co-written a book for the first year of life with the American Academy of Pediatrics.  In 2010, Start Smart won the Platinum Award for Consumer Empowerment at the URAC Quality Summit.  Start Smart also w
+as awarded the 2010 URAC / GKEN International Health Promotion Award.  The “Your Pregnancy Guide” developed by Start Smart was a 2010 Silver Medalist of the National Health Information Award.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+Connections Plus ® is a cell phone program developed for high-risk members who have limited or no access to a safe, reliable telephone.  The program puts free, preprogrammed cell phones into the hands of eligible members.  This program seeks to eliminate lack of safe, reliable access to a telephone as a barrier to coordinating care, thus reducing avoidable adverse events such as inappropriate emergency room utilization, hospital admissions and premature birth.  Members are identified through case management activities or through a referral.  Connections Plus is available to high-risk members in all Centene health plans.  Originally designed for pregnant women and ABD populati
+ons, this program has now been expanded to service members with mental health issues, and specific diseases, including sickle cell.  Connections Plus was recognized as a URAC Best Practice 2009 Silver Medalist and a 2008 NCQA Best Practice.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+MemberConnections ® is a community face-to-face outreach and education program designed to create a link between the member and the provider and help identify potential challenges or risk elements to a member’s health, such as nutritional challenges and health education shortcomings.  MemberConnections representatives contact new members by phone or mail to discuss managed care, the Medicaid program and our services.  Our MemberConnections representatives make home visits, conduct educational programs and represent our health plans at community events such as health fairs.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+Thumbs Up Johnnie Health Initiatives for Children is aimed at educating child members on a variety of health topics. Our health plans are reaching out directly to children with newsletters, contests and other innovative events, such as readings with the author of “The Adventures of Thumbs Up Johnnie” series of books.  Thumbs Up Johnnie has developed two programs: preventive obesity and asthma.  Obesity rates for children doubled in the past two decades and tripled for adolescents during the same period.  Preventive obesity focuses on the childhood obesity epidemic with educational information encouraging proper eating and exercise habits. We have sponsored the creation of a book with author Michelle Bain titled "Thumbs Up Johnnie & the SUPER Centeam 
+5 - Adventures Through FITROPOLIS!" which is intended to educate children on the importance of living an active and healthy life as well as a kid’s cookbook entitled “SUPER Centeam 5 Cookbook”and a teen book entitled “Off the Chain”.  Thumbs Up Johnnie’s focus on asthma has resulted in the creation of the book “Asthma: The Adventures from Puffletown” which educates children about how to manage their asthma.  This book received the 2010 National Health Information Award Silver Medal.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+Health Passport is a leading-edge, patient-centric electronic community health record for foster care children in the state of Texas.  Passport collects patient demographic data, clinician visit records, dispensed medications, vital sign history, lab results, allergy charts, and immunization data.  Providers can directly input additional or updated patient data and documentation into the Passport.  All information is accessible anywhere, anytime to all authorized users, including health plan staff, greatly facilitating coordinated care among providers.  In 2010, we expanded the Health Passport to our behavioral health program in Arizona.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+Fluvention is an outreach program aimed at educating members on preventing the transmission of the influenza virus by encouraging members to get the seasonal influenza vaccines and take everyday precautions to prevent illness. We use an integrated communications approach including direct mail, phone calls, providing information via health plan websites and posting information in provider offices.  The health plans also conduct general community awareness through public service announcements on television and radio.  Beginning in 2009, we targeted education efforts related to health hygiene, preventative care and the benefits of obtaining appropriate care of their condition, for groups that are at higher-risk for contracting both the traditional and H1N1 influenza viruses, inc
+luding pregnant women, children from six months old up to 24-year-old adults, as well as adults with chronic health conditions.  Incentives in the form of gift cards were given to members who received both flu vaccines.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+EPSDT Case Management is a preventive care program designed to educate our members on the benefits of Early and Periodic Screening, Diagnosis and Treatment, or EPSDT, services.  We have a systematic program of communicating, tracking, outreach, reporting and follow-through that promotes state EPSDT programs.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ  
+
+
+Life and Health Management Programs are designed to help members understand their disease and treatment plan and improve their wellness in a cost effective manner.  These programs address medical conditions that are common within the Medicaid population such as asthma, diabetes and pregnancy.  Our Specialty Services segment manages many of our life and health management programs.  Our ABD program uses a proprietary assessment tool that effectively identifies barriers to care, unmet functional needs, available social supports and the existence of behavioral health conditions that impede a member’s ability to maintain a proper health status.  Care coordinators develop individual care plans with the member and healthcare providers ensuring the full inte
+gration of behavioral, social and acute care services.  These care plans, while specific to an ABD member, incorporate “Condition Specific” practices in collaboration with physician partners and community resources.
+
+
+
+
+ 
+
+Providers
+
+ 
+
+For each of our service areas, we establish a provider network consisting of primary and specialty care physicians, hospitals and ancillary providers.  As of December 31, 2010, the health plans we currently operate contracted with the following number of physicians and hospitals:
+
+
+
+
+
+
+
+  
+ 
+
+Primary Care
+
+Physicians
+
+ 
+ 
+
+Specialty Care
+
+Physicians
+
+ 
+ 
+
+Hospitals
+
+ 
+
+
+Arizona
+
+ 
+ 
+1,256
+ 
+ 
+ 
+2,966
+ 
+ 
+ 
+25
+ 
+
+
+Florida
+
+ 
+ 
+1,785
+ 
+ 
+ 
+4,290
+ 
+ 
+ 
+78
+ 
+
+
+Georgia
+
+ 
+ 
+3,056
+ 
+ 
+ 
+9,831
+ 
+ 
+ 
+122
+ 
+
+
+Indiana
+
+ 
+ 
+1,036
+ 
+ 
+ 
+5,443
+ 
+ 
+ 
+97
+ 
+
+
+Massachusetts
+
+ 
+ 
+1,937
+ 
+ 
+ 
+6,676
+ 
+ 
+ 
+35
+ 
+
+
+Ohio
+
+ 
+ 
+2,000
+ 
+ 
+ 
+8,537
+ 
+ 
+ 
+122
+ 
+
+
+South Carolina
+
+ 
+ 
+1,519
+ 
+ 
+ 
+4,501
+ 
+ 
+ 
+34
+ 
+
+
+Texas
+
+ 
+ 
+8,885
+ 
+ 
+ 
+21,671
+ 
+ 
+ 
+400
+ 
+
+
+Wisconsin
+
+ 
+ 
+2,451
+ 
+ 
+ 
+6,655
+ 
+ 
+ 
+76
+ 
+
+
+   Total
+
+ 
+ 
+23,925
+ 
+ 
+ 
+70,570
+ 
+ 
+ 
+989
+ 
+
+
+
+ 
+
+Our network of primary care physicians is a critical component in care delivery, management of costs and the attraction and retention of new members.  Primary care physicians include family and general practitioners, pediatricians, internal medicine physicians and obstetricians and gynecologists.  Specialty care physicians provide medical care to members generally upon referral by the primary care physicians.  Specialty care physicians include, but are not limited to, orthopedic surgeons, cardiologists and otolaryngologists.  We also provide education and outreach programs to inform and assist members in accessing quality, appropriate healthcare services.
+
+ 
+
+
+
+  
+
+
+
+5
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Our health plans facilitate access to healthcare services for our members primarily through contracts with our providers.  Our contracts with primary and specialty care physicians and hospitals usually are for one to two-year periods and renew automatically for successive one-year terms, but generally are subject to termination by either party upon 90 to 120 days prior written notice.  In the absence of a contract, we typically pay providers at state Medicaid reimbursement levels.  We pay hospitals under a variety of methods, including fee-for-services, per diems, diagnostic related groups and case rates.  We pay physicians under a fee-for-service, capitation arrangement, or risk-sharing arrangement.
+
+
+
+
+
+
+ 
+
+
+
+
+
+Ÿ
+
+
+Under our fee-for-service contracts with physicians, particularly specialty care physicians, we pay a negotiated fee for covered services.  This model is characterized as having no financial risk for the physician.  In addition, this model requires management oversight because our total cost may increase as the units of services increase or as more expensive services replace less expensive services.  We have prior authorization procedures in place that are intended to make sure that certain high cost diagnostic and other services are medically appropriate.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Under our capitated contracts, primary care physicians are paid a monthly fee for each of our members assigned to his or her practice for all ambulatory care.  In return for this payment, these physicians provide all primary care and preventive services, including primary care office visits and EPSDT services, and are at risk for all costs associated with such services.  If these physicians also provide non-capitated services to their assigned members, they may receive payment under fee-for-service arrangements at standard Medicaid rates.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Under risk-sharing arrangements, physicians are paid under a capitated or fee-for-service arrangement.  The arrangement, however, contains provisions for additional bonus to the physicians or reimbursement from the physicians based upon cost and quality factors.  We often refer to these arrangements as Model 1 contracts.
+
+
+
+
+
+
+
+We work with physicians to help them operate efficiently by providing financial and utilization information, physician and patient educational programs and disease and medical management programs.  Our programs are also designed to help the physicians coordinate care outside of their offices.  In addition, we are governed by state prompt payment policies.
+
+ 
+
+We believe our collaborative approach with physicians gives us a competitive advantage in entering new markets.  Our physicians serve on local committees that assist us in implementing preventive care programs, managing costs and improving the overall quality of care delivered to our members, while also simplifying the administrative burdens on our providers.  This approach has enabled us to strengthen our provider networks through improved physician recruitment and retention that, in turn, have helped to increase our membership base.  The following are among the services we provide to support physicians:
+
+ 
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Customized Utilization Reports provide certain of our contracted physicians with information that enables them to run their practices more efficiently and focuses them on specific patient needs.  For example, quarterly detail reports update physicians on their status within their risk pools.  Equivalency reports provide physicians with financial comparisons of capitated versus fee-for-service arrangements.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Case Management Support helps the physician coordinate specialty care and ancillary services for patients with complex conditions and direct members to appropriate community resources to address both their health and socio-economic needs.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Ÿ
+
+
+Web-based Claims and Eligibility Resources have been implemented to provide physicians with on-line access to perform claims and eligibility inquiries.
+
+
+
+
+
+
+
+
+
+ 
+
+Our contracted physicians also benefit from several of the services offered to our members, including the MemberConnections, EPSDT case management and health management programs.  For example, the MemberConnections staff facilitates doctor/patient relationships by connecting members with physicians, the EPSDT programs encourage routine checkups for children with their physicians and the health management programs assist physicians in managing their patients with chronic disease.
+
+
+
+
+Where appropriate, our health plans contract with our specialty services organizations to provide services and programs such as behavioral health, life and health management, managed vision, telehealth services and pharmacy benefits management.  When necessary, we also contract with third-party providers on a negotiated fee arrangement for physical therapy, home healthcare, diagnostic laboratory tests, x-ray examinations, ambulance services and durable medical equipment.  Additionally, we contract with dental vendors in markets where routine dental care is a covered benefit.
+
+ 
+
+Quality Management
+
+ 
+
+Our medical management programs focus on improving quality of care in areas that have the greatest impact on our members.  We employ strategies, including health management and complex case management, that are adjusted for implementation in our individual markets by a system of physician committees chaired by local physician leaders.  This process promotes physician participation and support, both critical factors in the success of any clinical quality improvement program.
+
+
+
+
+We have implemented specialized information systems to support our medical quality management activities.  Information is drawn from our data warehouse, clinical databases and our membership and claims processing system to identify opportunities to improve care and to track the outcomes of the interventions implemented to achieve those improvements.  Some examples of these intervention programs include:
+
+
+
+
+
+
+
+
+Ÿ
+
+
+appropriate leveling of care for neonatal intensive care unit  hospital admissions, other inpatient hospital admissions, and observation admissions, in accordance with Interqual criteria;
+
+
+
+
+
+
+
+
+Ÿ
+
+
+tightening of our pre-authorization list and more stringent review of durable medical equipment and injectibles;
+
+
+
+
+
+
+
+
+Ÿ
+
+
+emergency department, or ED, program designed to collaboratively work with hospitals to steer non-emergency care away from the costly ED setting (through patient education, on-site alternative urgent care settings, etc.);
+
+
+
+
+
+
+
+
+Ÿ
+
+
+increase emphasis on case management and clinical rounding where case managers are nurses or social workers who are employed by the health plan to assist selected patients with the coordination of healthcare services in order to meet a patient's specific healthcare needs;
+
+
+
+
+
+
+
+
+Ÿ
+
+
+incorporation of disease management, which is a comprehensive, multidisciplinary, collaborative approach to chronic illnesses such as asthma and diabetes; and
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Start Smart For Your Baby, a prenatal case management program aimed at helping women with high-risk pregnancies deliver full-term, healthy infants.
+
+
+
+
+
+
+
+We provide reporting on a regular basis using our data warehouse.  State and Health Employer Data and Information Set, or HEDIS, reporting constitutes the core of the information base that drives our clinical quality performance efforts.  This reporting is monitored by Plan Quality Improvement Committees and our corporate medical management team.
+
+ 
+
+In an effort to ensure the quality of our provider networks, we undertake to verify the credentials and background of our providers using standards that are supported by the National Committee for Quality Assurance.
+
+ 
+
+Information Technology
+
+ 
+
+The ability to access data and translate it into meaningful information is essential to operating across a multi-state service area in a cost-effective manner.  Our centralized information systems, which are located in St. Louis, Missouri, support our core processing functions under a set of integrated databases and are designed to be both replicable and scalable to accommodate organic growth and growth from acquisitions.  We continue to enhance our systems in order to leverage the platform we have developed for our existing states for configuration into new states or health plan acquisitions.
+
+
+
+
+Our predictive modeling technology enables the medical management operations to proactively case and disease manage specific high risk members.  It can recommend medical care opportunities using a mix of company defined algorithms and evidence based medical guidelines.  Interventions are determined by the clinical indicators, the ability to improve health outcomes, and the risk profile of members. 
+
+
+
+
+Our integrated approach helps to assure that consistent sources of claim and member information are provided across all of our health plans.  Our membership and claims processing system is capable of expanding to support additional members in an efficient manner.  We have a disaster recovery and business resumption plan developed and implemented in conjunction with a third party.  This plan allows us complete access to the business resumption centers and hot-site facilities provided under the business resumption plan.
+
+  
+
+
+
+  
+
+
+
+6
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+SPECIALTY SERVICES
+
+ 
+
+Our specialty services are a key component of our healthcare enterprise and complement our core Medicaid Managed Care business.  Specialty services diversify our revenue stream, provide higher quality health outcomes to our membership and others, and assist in controlling costs.  Our specialty services are provided primarily through the following businesses: 
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Behavioral Health.  Cenpatico Behavioral Health, or Cenpatico, manages behavioral healthcare for members via a contracted network of providers.  Cenpatico works with providers to determine the best services to help people overcome mental illness and lead productive lives.  Our networks feature a full range of services and levels of care to help people with mental illness reach their recovery and wellness goals.  In addition, we operate school-based programs in Arizona that focus on students with special needs and also provide speech and other therapy services.  We acquired Cenpatico in 2003.
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+Individual and State Sponsored Health Insurance Exchanges.  Celtic Insurance Company, or Celtic, is a national healthcare provider licensed in 49 states offering high-quality, affordable health insurance to individual customers and their families.  Sold online and through independent insurance agents nationwide, Celtic’s portfolio of major medical plans is designed to meet the diverse needs of the uninsured at all budget and benefit levels. Celtic also offers a standalone guaranteed-issue medical conversion program to self-funded employer groups, stop-loss and fully-insured group carriers, managed care plans, and HMO reinsurers. We acquired Celtic in July 2008.  In 2009, CeltiCare of Massachusetts was formed to provide state sponsored health insurance to the u
+ninsured who do not qualify for Medicaid.  In 2010, NovaSys Health LLC was acquired to add both TPA and PPO network capabilities.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Life and Health Management.  Nurtur Health, Inc. (Nurtur) specializes in implementing life and health management programs that encourage healthy behaviors, promote healthier workplaces, improve workforce and societal productivity and reduce healthcare costs.  Health risk appraisals, biometric screenings, online and telephonic wellness programs, disease management and work-life/employee assistance services are areas of focus.  Nurtur Health uses telephonic health and work/life balance coaching, in-home and online interaction and informatics processes to deliver effective clinical outcomes, enhanced patient-provider satisfaction and overall healthcare cost.  Nurtur was formed in December 2007 through the combination of three<font style="DISPLAY: inline; FONT
+- -WEIGHT: bold"> entities we acquired from July 2005 through November 2007.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Long-term Care and Acute Care.  Bridgeway Health Solutions, or Bridgeway, provides long-term care services to the elderly and people with disabilities that meet income and resources requirements who are at risk of being or are institutionalized.  Bridgeway has long-term care members in the Maricopa, Yuma and La Paz counties of Arizona.  Bridgeway participates with community groups to address situations that might be barriers to quality care and independent living.  Bridgeway commenced long-term care operations in 2006.  Bridgeway also provides acute care services to members in the Yavapai county of Arizona.  These services include emergency and physician and hospitalization services, limited dental and rehabilitative services and o
+ther maternal and child health services.  Bridgeway commenced acute care operations in October 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Managed Vision.  OptiCare administers routine and medical surgical eye care benefits via its own contracted national network of eye care providers. OptiCare clients include Medicaid, Medicare, and commercial health plans, as well as employer groups. OptiCare has been providing vision network services for over 25 years and offers a variety of plan designs to meet the individual needs of its clients and members.  We acquired the managed vision business of OptiCare Health Systems, Inc. in 2006.
+
+
+
+
+ 
+
+
+
+
+
+
+Ÿ
+
+
+
+Telehealth Services.  NurseWise and Nurse Response provide a toll-free nurse triage line 24 hours per day, 7 days per week, 52 weeks per year.  Our members call one number and reach bilingual customer service representatives and nursing staff who provide health education, triage advice and offer continuous access to health plan functions.  Additionally, our representatives verify eligibility, confirm primary care provider assignments and provide benefit and network referral coordination for members and providers after business hours.  Our staff can arrange for urgent pharmacy refills, transportation and qualified behavioral health professionals for crisis stabilization assessments.  Call volume is based on membership levels and seasonal variation
+.  NurseWise commenced operations in 1998 and Nurse Response was acquired in 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Pharmacy Benefits Management.  US Script offers progressive pharmacy benefits management services that are specifically designed to improve quality of care while containing costs. This is achieved through a lowest net cost strategy that helps optimize clients' pharmacy benefit.  Services include claims processing, pharmacy network management, benefit design consultation, drug utilization review, formulary and rebate management, specialty and mail order pharmacy services, patient and physician intervention.  We acquired US Script in 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Care Management Software.  Casenet is a software provider of innovative care management solutions that automate the clinical, administrative and technical components of care management programs.  We maintain an equity investment in Casenet and are currently implementing this new software platform which is available for sale to third parties.  We acquired a controlling interest in Casenet in 2010 and present it as a consolidated subsidiary of the Company.
+
+
+
+
+
+
+
+CORPORATE COMPLIANCE
+
+ 
+
+Our Corporate Ethics and Compliance Program was established in 1998 and provides controls by which we further enhance operations, safeguard against fraud and abuse, improve access to quality care and help assure that our values are reflected in everything we do.
+
+ 
+
+The two primary standards by which corporate compliance programs in the healthcare industry are measured are the Federal Organizational Sentencing Guidelines and the “Compliance Program Guidance” series issued by the Office of the Inspector General, or OIG, of the Department of Health and Human Services.  Our program contains each of the seven elements suggested by the Sentencing Guidelines and the OIG guidance.  These key components are:
+
+ 
+
+
+
+
+
+
+Ÿ
+
+
+written standards of conduct;
+
+
+
+
+
+
+
+
+Ÿ
+
+
+designation of a corporate compliance officer and compliance committee;
+
+
+
+
+
+
+
+
+Ÿ
+
+
+effective training and education;  
+
+
+
+
+
+
+
+
+Ÿ
+
+
+effective lines for reporting and communication;  
+
+
+
+
+
+
+
+
+Ÿ
+
+
+enforcement of standards through disciplinary guidelines and actions;  
+
+
+
+
+
+
+
+
+Ÿ
+
+
+internal monitoring and auditing; and  
+
+
+
+
+
+
+
+
+Ÿ
+
+
+prompt response to detected offenses and development of corrective action plans.
+
+
+
+
+
+ 
+
+The goal of the program is to build a culture of ethics and compliance, which is assessed yearly using a diagnostic survey to measure the integrity of the organization.  Our internal Corporate Compliance intranet site, accessible to all employees, contains our Business Ethics and Conduct Policy (Code of Conduct), Compliance Program description and various resources for employees to report concerns or ask questions.  If needed, employees have access to the contact information for the members of the Audit Committee to report concerns.  Our Ethics and Compliance Helpline is a toll-free number operated by a third party independent of the Company  to allow employees or other persons to report suspected incidents of fraud, abuse or other compliance violations.  The Board of Directors reviews an
+ ethics compliance report on a quarterly basis.
+
+
+
+
+COMPETITION
+
+ 
+
+We continue to face varying and increasing levels of competition as we expand in our existing service areas or enter new markets, as federal regulations require at least two competitors in each service area.  Healthcare reform may cause a number of commercial managed care organizations to decide to enter or exit the Medicaid market.
+
+ 
+
+In our business, our principal competitors for state contracts, members and providers consist of the following types of organizations:
+
+ 
+
+
+
+
+
+
+Ÿ
+
+
+
+Medicaid Managed Care Organizations focus on providing healthcare services to Medicaid recipients.  These organizations consist of national and regional organizations, as well as smaller organizations that operate in one city or state and are owned by providers, primarily hospitals.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+National and Regional Commercial Managed Care Organizations have Medicaid members in addition to members in private commercial plans.  Some of these organizations offer a range of specialty services including pharmacy benefits management, behavioral health management, health management, and nurse triage call support centers.
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+Primary Care Case Management Programs are programs established by the states through contracts with primary care providers.  Under these programs, physicians provide primary care services to Medicaid recipients, as well as limited medical management oversight.
+
+
+
+
+
+
+
+We compete with other managed care organizations and specialty companies for state contracts.  In order to grant a contract, state governments consider many factors.  These factors include quality of care, financial requirements, an ability to deliver services and establish provider networks and infrastructure.  In addition, our specialty companies also compete with other providers, such as disease management companies, individual health insurance companies, and pharmacy benefits managers for non-governmental contracts.
+
+ 
+
+We also compete to enroll new members and retain existing members.  People who wish to enroll in a managed healthcare plan or to change healthcare plans typically choose a plan based on the quality of care and services offered, ease of access to services, a specific provider being part of the network and the availability of supplemental benefits.
+
+ 
+
+
+
+  
+
+
+
+7
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+We also compete with other managed care organizations to enter into contracts with physicians, physician groups and other providers.  We believe the factors that providers consider in deciding whether to contract with us include existing and potential member volume, reimbursement rates, medical management programs, speed of reimbursement and administrative service capabilities.  See “Risk Factors — Competition may limit our ability to increase penetration of the markets that we serve.”
+
+ 
+
+REGULATION
+
+ 
+
+Our Medicaid, Medicare and Specialty operations are regulated at both state and federal levels.  Government regulation of the provision of healthcare products and services is a changing area of law that varies from jurisdiction to jurisdiction.  Regulatory agencies generally have discretion to issue regulations and interpret and enforce laws and rules.  Changes in applicable laws and rules also may occur periodically.
+
+
+
+
+Our regulated subsidiaries are licensed to operate as health maintenance organizations and/or insurance companies in their respective states.  In each of the jurisdictions in which we operate, we are regulated by the relevant health, insurance and/or human services departments that oversee the activities of managed care organizations providing or arranging to provide services to Medicaid enrollees.
+
+ 
+
+The process for obtaining authorization to operate as a managed care organization is complex and requires us to demonstrate to the regulators the adequacy of the health plan’s organizational structure, financial resources, utilization review, quality assurance programs, complaint procedures, provider network and procedures for covering emergency medical conditions.  Under both state managed care organization statutes and state insurance laws, our health plan subsidiaries, as well as our specialty companies, must comply with minimum statutory capital and other financial requirements, such as deposit and reserve requirements.  Insurance regulations may also require prior state approval of acquisitions of other managed care organization businesses and the payment of dividends, as well as notice for loans or th
+e transfer of funds.  Our subsidiaries are also subject to periodic state and federal reporting requirements.  In addition, each health plan and individual health insurance provider must meet criteria to secure the approval of state regulatory authorities before implementing operational changes, including the development of new product offerings and, in some states, the expansion of service areas.
+
+ 
+
+States have adopted a number of regulations that may affect our business and results of operations.  These regulations in certain states include:
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+premium taxes or similar assessments;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+stringent prompt-pay laws;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+disclosure requirements regarding provider fee schedules and coding procedures; and
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+programs to monitor and supervise the activities and financial solvency of provider groups.
+
+
+
+
+
+
+
+We are regulated as an insurance holding company and are subject to the insurance holding company acts of the states in which our insurance company and HMO subsidiaries are domiciled. These acts contain certain reporting requirements as well as restrictions on transactions between an insurer or HMO and its affiliates. These holding company laws and regulations generally require insurance companies and HMOs within an insurance holding company system to register with the insurance department of each state where they are domiciled and to file with those states’ insurance departments certain reports describing capital structure, ownership, financial condition, certain intercompany transactions and general business operations. In addition, various notice and reporting requirements generally apply to transactions between insurance compan
+ies and HMOs and their affiliates within an insurance holding company system, depending on the size and nature of the transactions. Some insurance holding company laws and regulations require prior regulatory approval or, in certain circumstances, prior notice of certain material intercompany transfers of assets as well as certain transactions between insurance companies, HMOs, their parent holding companies and affiliates. Among other provisions, state insurance and HMO laws may restrict the ability of our regulated subsidiaries to pay dividends.
+
+ 
+
+Additionally, the holding company acts of the states in which our subsidiaries are domiciled restrict the ability of any person to obtain control of an insurance company or HMO without prior regulatory approval. Under those statutes, without such approval (or an exemption), no person may acquire any voting security of an insurance holding company, which controls an insurance company or HMO, or merge with such a holding company, if as a result of such transaction such person would “control” the insurance holding company. “Control” is generally defined as the direct or indirect power to direct or cause the direction of the management and policies of a person and is presumed to exist if a person directly or indirectly owns or controls 10% or more of the voting securities of another person.
+
+
+
+
+State Contracts
+
+
+
+
+In addition to being a licensed health maintenance organization, in order to be a Medicaid Managed Care organization in each of the states in which we operate, we must operate under a contract with the state’s Medicaid agency.  States generally use either a formal proposal process, reviewing a number of bidders, or award individual contracts to qualified applicants that apply for entry to the program.  We receive monthly payments based on specified capitation rates determined on an actuarial basis.  These rates differ by membership category and by state depending on the specific benefits and policies adopted by each state.
+
+ 
+
+Our state contracts and the regulatory provisions applicable to us generally set forth the requirements for operating in the Medicaid sector, including provisions relating to:
+
+
+
+
+
+
+
+
+Ÿ
+
+
+eligibility, enrollment and disenrollment processes;
+
+
+Ÿ
+
+
+health education and wellness and prevention programs;
+
+
+
+Ÿ
+
+
+covered services;
+
+
+Ÿ
+
+
+timeliness of claims payment;
+
+
+
+Ÿ
+
+
+eligible providers;
+
+
+Ÿ
+
+
+financial standards;
+
+
+
+Ÿ
+
+
+subcontractors;
+
+
+Ÿ
+
+
+safeguarding of member information;
+
+
+
+Ÿ
+
+
+record-keeping and record retention;
+
+
+Ÿ
+
+
+fraud and abuse detection and reporting;
+
+
+
+Ÿ
+
+
+periodic financial and informational reporting;
+
+
+Ÿ
+
+
+grievance procedures; and
+
+
+
+Ÿ
+
+
+quality assurance;
+
+
+Ÿ
+
+
+organization and administrative systems.
+
+
+
+Ÿ
+
+
+accreditation;
+
+ 
+  
+
+
+
+
+
+
+A health plan or individual health insurance provider’s compliance with these requirements is subject to monitoring by state regulators and by CMS.  A health plan is also subject to periodic comprehensive quality assurance evaluations by a third-party reviewing organization and generally by the insurance department of the jurisdiction that licenses the health plan.  A health plan or individual health insurance provider must also submit reports to various regulatory agencies, including quarterly and annual statutory financial statements and utilization reports.
+
+ 
+
+
+
+  
+
+
+
+8
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+The table below sets forth the term of our state contracts and provides details regarding related renewal or extension and termination provisions as of December 31, 2010.  The contracts are subject to termination by the state for cause, an event of default or lack of funding.
+
+
+
+
+
+
+
+
+State Contract
+
+
+  
+
+
+Expiration Date
+
+
+  
+
+
+Renewal or Extension by the State
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Arizona – Acute Care
+
+  
+
+September 30, 2011
+
+  
+
+May be extended for up to two additional one-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Arizona – Behavioral Health
+
+  
+
+June 30, 2013
+
+  
+
+Renewable for two additional one-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Arizona – Long-term Care
+
+  
+
+September 30, 2011
+
+  
+
+Renewable through the state’s reprocurement process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Arizona – Special Needs Plan (Medicare)
+
+  
+
+December 31, 2011
+
+  
+
+Renewable annually for successive 12-month periods.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Florida – Medicaid & ABD
+
+  
+
+August 31, 2012
+
+  
+
+Renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Florida – Long-term Care
+
+  
+
+August 31, 2011
+
+  
+
+Renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Georgia – Medicaid & CHIP
+
+  
+
+June 30, 2011
+
+  
+
+Renewable for three additional one-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Indiana – Medicaid & CHIP
+
+  
+
+December 31, 2014
+
+  
+
+Renewable for two additional one-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Kansas – Behavioral Health
+
+  
+
+June 30, 2011
+
+  
+
+May be extended for up to one additional one-year term.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Massachusetts – Commonwealth Care
+
+  
+
+June 30, 2011
+
+  
+
+Renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Massachusetts – Commonwealth Care Bridge
+
+  
+
+June 30, 2011
+
+  
+
+May be extended for up to three additional one-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Mississippi – ABD
+
+  
+
+December 31, 2013
+
+  
+
+Renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Ohio – Medicaid, CHIP & ABD
+
+  
+
+June 30, 2011
+
+  
+
+Renewable annually for successive 12-month periods.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Ohio – Special Needs Plan (Medicare)
+
+  
+
+December 31, 2011
+
+  
+
+Renewable annually for successive 12-month periods.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+South Carolina – Medicaid & ABD
+
+  
+
+March 31, 2012
+
+  
+
+May be extended for up to one additional year and subsequently renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Texas – Medicaid, CHIP & ABD
+
+  
+
+August 31, 2013
+
+  
+
+Renewable through the state’s reprocurement process.1
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Texas – CHIP Rural Service Area
+
+  
+
+August 31, 2013
+
+  
+
+May be extended for up to five additional years.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Texas – Foster Care
+
+  
+
+August 31, 2012
+
+  
+
+May be extended for up to three and a half additional years.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Texas – Special Needs Plan (Medicare)
+
+  
+
+December 31, 2011
+
+  
+
+Renewable annually for successive 12-month periods.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Wisconsin – Medicaid, CHIP & ABD
+
+  
+
+December 31, 2011
+
+  
+
+Renewable through the state’s recertification process.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Wisconsin – Network Health Plan Subcontract
+
+  
+
+December 31, 2011
+
+  
+
+Renews automatically for successive five-year terms.
+
+  
+
+  
+  
+  
+  
+  
+  
+
+
+Wisconsin – Special Needs Plan (Medicare)
+
+  
+
+December 31, 2011
+
+  
+
+Renewable annually for successive 12-month periods.
+
+  
+
+
+
+
+
+
+1 The Texas Medicaid, CHIP and ABD contract is currently subject to renewal under the state’s reprocurement process effective March 1, 2012.
+
+ 
+
+HIPAA and HITECH
+
+ 
+
+In 1996, Congress enacted the Health Insurance Portability and Accountability Act, or HIPAA.  The Act is designed to improve the portability and continuity of health insurance coverage, simplify the administration of health insurance transactions and ensure the privacy and security of individual’s information.  Among the main requirements of HIPAA are the “Administrative Simplification” provisions which include: standards for processing health insurance claims and related transactions (Transactions Standards); requirements for protecting the privacy and security of medical records and other personal health information (Privacy Rule); and standards and specifications for safeguarding personal health information which is maintained, stored or transmitted in electronic format (Security Rule). The Health
+ Information Technology for Economic and Clinical Health (HITECH) Act, which was enacted as part of the American Reinvestment and Recovery Act of 2009, amended certain provisions of HIPAA and introduced new data security obligations for covered entities and their business associates.  HITECH also mandated individual notification in instances of data breach, provided enhanced penalties for HIPAA violations, and granted enforcement authority to states’ Attorneys General in addition to the HHS Office of Civil Rights.
+
+ 
+
+ The Privacy and Security Rules and HITECH enhancements establish requirements to protect the privacy of medical records and other personal health information maintained and used by healthcare providers, health plans, healthcare clearinghouses, and their business associates.  Among numerous other requirements, the privacy regulations:
+
+ 
+
+
+
+
+
+
+Ÿ
+
+
+
+limit certain uses and disclosures of private health information, and require patient authorizations for such uses and disclosures of private health information;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+guarantee patients the right to access their health information and to know who else has accessed it;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+limit most disclosure of health information to the minimum needed for the intended purpose;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+establish procedures to ensure the protection of private health information;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+authorize access to records by researchers and others;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+establish requirements for breach notification; and
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+impose criminal and civil sanctions for improper uses or disclosures of health information.
+
+
+
+
+
+
+
+The Security Rule requires healthcare providers, health plans, healthcare clearinghouses, and their business associates to implement administrative, physical and technical safeguards to ensure the privacy and confidentiality of personal health information when it is electronically stored, maintained or transmitted.  The HITECH Act established a federal requirement for notification when the security of personal health information is breached.  In addition there is a patchwork of states laws that have been adopted to provide for, among other things, private rights of action for breaches of data security and mandatory notification to persons whose identifiable information is obtained without authorization.
+
+ 
+
+The requirements of the Transactions Standards apply to certain healthcare related transactions conducted using “electronic media.” Since “electronic media” is defined broadly to include “transmissions that are physically moved from one location to another using magnetic tape, disk or compact disk media,” many communications are considered to be electronically transmitted.  Under HIPAA, health plans are required to have the capacity to accept and send all covered transactions in a standardized electronic format.  Penalties can be imposed for failure to comply with these requirements.  The transaction standards are being modified to version 5010 to prepare for the implementation of the ICD10 coding system.
+
+ 
+
+The preemption provisions of HIPAA provide that the federal standards will not preempt state laws that are more stringent than the related federal requirements.  In addition, the Secretary of HHS may grant exceptions allowing state laws to prevail if one or more of a number of conditions are met, including but not limited to the following:
+
+ 
+
+
+
+
+
+
+Ÿ
+
+
+
+the state law is necessary to prevent fraud and abuse associated with the provision of and payment for healthcare;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+the state law is necessary to ensure appropriate state regulation of insurance and health plans;
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+the state law is necessary for state reporting on healthcare delivery or costs; or
+
+
+
+
+
+
+
+
+
+Ÿ
+
+
+
+the state law addresses controlled substances.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+9
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+We have implemented processes, policies and procedures to comply with both HIPAA and HITECH, including administrative, technical and physical safeguards to prevent against electronic data breach.  We provide education and training for employees specifically designed to help prevent any unauthorized use or access to personal health information and enhance the reporting of suspected breaches.  In addition, our corporate privacy officer and health plan privacy officials serve as resources to employees to address any questions or concerns they may have.
+
+
+
+
+Other Fraud and Abuse Laws
+
+
+
+
+Investigating and prosecuting healthcare fraud and abuse became a top priority for state and federal law enforcement entities in the last decade.  The focus of these efforts has been directed at participants in public government healthcare programs such as Medicaid.  The laws and regulations relating to Medicaid fraud and abuse and the contractual requirements applicable to health plans participating in these programs are complex and changing and may require substantial resources.  We are constantly looking for ways to improve our waste, fraud and abuse detection methods.  We have both prospective and retrospective processes to identify abusive patterns and fraudulent billing.
+
+
+
+
+EMPLOYEES
+
+
+
+
+As of December 31, 2010, we had approximately 4,200 employees.  None of our employees are represented by a union.  We believe our relationships with our employees are good.
+
+
+
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+
+
+
+The following table sets forth information regarding our executive officers, including their ages, at February 10, 2011:
+
+ 
+
+
+
+
+
+Name
+
+
+  
+
+
+Age
+
+
+  
+
+
+Position
+
+
+
+Michael F. Neidorff
+
+
+  
+
+
+68
+
+
+  
+
+
+Chairman and Chief Executive Officer
+
+
+
+Karen A. Bedell
+
+  
+
+51
+
+  
+
+Senior Vice President, New Business Integration & Development
+
+
+
+Mark W. Eggert
+
+  
+
+49
+
+  
+
+Executive Vice President, Health Plan Business Unit
+
+
+
+Carol E. Goldman
+
+
+  
+
+
+53
+
+
+  
+
+
+Executive Vice President and Chief Administrative Officer
+
+
+
+Jason M. Harrold
+
+  
+
+41
+
+  
+
+Senior Vice President, Specialty Business Unit
+
+
+
+Jesse N. Hunter
+
+  
+
+35
+
+  
+
+Executive Vice President, Corporate Development
+
+
+
+Donald G. Imholz
+
+  
+
+58
+
+  
+
+Executive Vice President and Chief Information Officer
+
+
+
+Edmund E. Kroll
+
+  
+
+51
+
+  
+
+Senior Vice President, Finance and Investor Relations
+
+
+
+Mary V. Mason
+
+  
+
+42
+
+  
+
+Senior Vice President and Chief Medical Officer
+
+
+
+William N. Scheffel
+
+
+  
+
+
+57
+
+
+  
+
+
+Executive Vice President, Chief Financial Officer and Treasurer
+
+
+
+Jeffrey A. Schwaneke
+
+  
+
+35
+
+  
+
+Vice President, Corporate Controller and Chief Accounting Officer
+
+
+
+Keith H. Williamson
+
+  
+
+58
+
+  
+
+Senior Vice President, Secretary and General Counsel
+
+
+
+
+ 
+
+Michael F. Neidorff.  Mr. Neidorff has served as our Chairman and Chief Executive Officer since May 2004.  From May 1996 to May 2004, Mr. Neidorff served as President, Chief Executive Officer and as a member of our Board of Directors.  From 1995 to 1996, Mr. Neidorff served as a Regional Vice President of Coventry Corporation, a publicly-traded managed care organization, and as the President and Chief Executive Officer of one of its subsidiaries, Group Health Plan, Inc. From 1985 to 1995, Mr. Neidorff served as the President and Chief Executive Officer of Physicians Health Plan of Greater St. Louis, a subsidiary of United Healthcare Corp., a publicly-traded managed care organization now known as UnitedHealth Group Incorporated.  Mr. Neidorff 
+also serves as a director of Brown Shoe Company, Inc., a publicly-traded footwear company with global operations.
+
+ 
+
+Karen H. Bedell.  Ms. Bedell has served as our Senior Vice President, New Business Integration & Development since May 2010.  From 2007 to 2009, Ms. Bedell served as Vice President and General Manager for DRS Marlo Coil, a manufacturer of heat transfer systems.  From 2003 to 2007, Ms. Bedell served as Senior Vice President, Marketing and Strategic Planning for Engineered Support Systems, Inc.
+
+
+
+
+Mark W. Eggert.  Mr. Eggert has served as our Executive Vice President, Health Plan Business Unit since November 2007.  From January 1999 to November 2007, Mr. Eggert served as the Associate Vice Chancellor and Deputy General Counsel at Washington University, where he oversaw the legal affairs of the School of Medicine.
+
+
+
+
+Carol E. Goldman.  Ms. Goldman has served as Executive Vice President and Chief Administrative Officer since June 2007.  From July 2002 to June 2007, she served as our Senior Vice President, Chief Administrative Officer.  From September 2001 to July 2002, Ms. Goldman served as our Plan Director of Human Resources.  From 1998 to August 2001, Ms. Goldman was Human Resources Manager at Mallinckrodt Inc., a medical device and pharmaceutical company.
+
+
+
+
+Jason M. Harrold.  Mr. Harrold has served as our Senior Vice President, Specialty Business Unit since August 2009.  He served as President of OptiCare from July 2000 to August 2009.  From July 1996 to July 2000, Mr. Harrold held various positions of increasing responsibility at OptiCare including Vice President of Operations and Chief Operating Officer.
+
+
+
+
+Jesse N. Hunter.  Mr. Hunter has served as our Executive Vice President, Corporate Development since April 2008.  He served as our Senior Vice President, Corporate Development from April 2007 to April 2008.  He served as our Vice President, Corporate Development from December 2006 to April 2007.  From October 2004 to December 2006, he served as our Vice President, Mergers & Acquisitions.  From July 2003 until October 2004, he served as the Director of Mergers & Acquisitions and from February 2002 until July 2003, he served as the Manager of Mergers & Acquisitions.
+
+
+
+
+Donald G. Imholz.   Mr. Imholz has served as our Executive Vice President and Chief Information Officer since December 2009.  Mr. Imholz served as our Senior Vice President and Chief Information Officer from September 2008 to December 2009.  From January 2008 to September 2008, Mr. Imholz was an independent consultant working for clients across a variety of industries. From January 1975 to January 2008, Mr. Imholz was with The Boeing Company and served as Vice President of Information Technology from 2002 to January 2008. In that role, Mr. Imholz was responsible for all application development and support worldwide.  
+
+
+
+
+Edmund E. Kroll.  Mr. Kroll has served as our Senior Vice President, Finance and Investor Relations since May 2007.  From June 1997 to November 2006, Mr. Kroll served as Managing Director at Cowen and Company LLC, where his research coverage focused on the managed care industry, including the Company.
+
+
+
+
+Dr. Mary V. Mason.  Dr. Mason has served as our Senior Vice President and Chief Medical Officer since March 2007. From April 2006 to February 2007, she served as our Vice President, Medical Affairs – Health Plans. From January 2006 to April 2006 she served as our National Medical Director.
+
+
+
+
+William N. Scheffel.  Mr. Scheffel has served as our Executive Vice President, Chief Financial Officer and Treasurer since May 2009.  He served as our Executive Vice President, Specialty Business Unit from June 2007 to May 2009. From May 2005 to June 2007, he served as our Senior Vice President, Specialty Business Unit.  From December 2003 until May 2005, he served as our Senior Vice President and Controller.  From July 2002 to October 2003, Mr. Scheffel was a partner with Ernst & Young LLP.  From 1975 to July 2002, Mr. Scheffel was with Arthur Andersen LLP.
+
+
+
+
+Jeffrey A. Schwaneke.  Mr. Schwaneke has served as our Vice President, Corporate Controller since July 2008 and Chief Accounting Officer since September 2008.  He previously served as Vice President, Controller and Chief Accounting Officer at Novelis Inc. from October 2007 to July 2008, and Assistant Corporate Controller from May 2006 to September 2007.  Mr. Schwaneke served as Segment Controller for SPX Corporation from January 2005 to April 2006.  Mr. Schwaneke served as Corporate Controller at Marley Cooling Technologies, a segment of SPX Corporation, from March 2004 to December 2004 and Director of Financial Reporting from November 2002 to February 2004.
+
+
+
+
+Keith H. Williamson.  Mr. Williamson has served as our Senior Vice President, General Counsel since November 2006 and as our Secretary since February 2007.  From 1988 until November 2006, he served at Pitney Bowes Inc. in various legal and executive roles, the last seven years as a Division President.  Mr. Williamson also serves as a director of PPL Corporation, a publicly-traded energy and utility holding company.
+
+
+
+
+Available Information
+
+
+
+
+We are subject to the reporting and information requirements of the Securities Exchange Act of 1934, as amended (Exchange Act) and, as a result, we file periodic reports and other information with the Securities and Exchange Commission, or SEC. We make these filings available on our website free of charge, the URL of which is http://www.centene.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The SEC maintains a website (http://www.sec.gov) that contains our annual, quarterly and current reports and other information we file electronically with the SEC. You can read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Room 1850, Washington, D.C. 20549. You may obtain information on the operation of 
+the Public Reference Room by calling the SEC at 1-800-SEC-0330. Information on our website does not constitute part of this Annual Report on Form 10-K.
+
+
+
+
+
+
+  
+
+
+
+10
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+ITEM 1A. Risk Factors.
+
+ 
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS AND THE
+
+TRADING PRICE OF OUR COMMON STOCK
+
+
+
+
+You should carefully consider the risks described below before making an investment decision.  The trading price of our common stock could decline due to any of these risks, in which case you could lose all or part of your investment.  You should also refer to the other information in this filing, including our consolidated financial statements and related notes.  The risks and uncertainties described below are those that we currently believe may materially affect our Company.  Additional risks and uncertainties that we are unaware of or that we currently deem immaterial also may become important factors that affect our Company.
+
+
+
+
+Risks Related to Being a Regulated Entity
+
+
+
+
+Reduction in Medicaid, CHIP and ABD funding could substantially reduce our profitability.
+
+
+
+
+Most of our revenues come from Medicaid, CHIP and ABD premiums. The base premium rate paid by each state differs, depending on a combination of factors such as defined upper payment limits, a member’s health status, age, gender, county or region, benefit mix and member eligibility categories. Future levels of Medicaid, CHIP and ABD funding and premium rates may be affected by continuing government efforts to contain healthcare costs and may further be affected by state and federal budgetary constraints. 
+
+
+
+
+States periodically consider reducing or reallocating the amount of money they spend for Medicaid, CHIP, Foster Care and ABD. The current adverse economic conditions have, and are expected to continue to, put pressures on state budgets as tax and other state revenues decrease while the Medicaid eligible population increases, creating more need for funding. We anticipate this will require government agencies with whom we contract to find funding alternatives, which may result in reductions in funding for current programs and program expansions, contraction of covered benefits, limited or no premium rate increases or premium decreases. In recent years, the majority of states have implemented measures to restrict Medicaid, CHIP, Foster Care and ABD costs and eligibility. If any state in which we operate were to decrease premiums paid to us,
+ or pay us less than the amount necessary to keep pace with our cost trends, it could have a material adverse effect on our revenues and operating results. 
+
+ 
+
+In March 2010, the Patient Protection and Affordable Care Act and the accompanying Health Care and Education Affordability Reconciliation Act were enacted. The Acts permit states to expand Medicaid to all individuals under age 65 with incomes up to 133% of the federal poverty level beginning April 1, 2010 and requires this expansion by January 1, 2014. Additional federal funds will be provided to states in 2014, but the amount of the federal support decreases each year. We cannot predict when the states will make these expansions. Further, because the states have to pay for a portion of the care, states may reduce our rates in order to afford the additional beneficiaries.
+
+
+
+
+The American Reinvestment and Recovery Act of 2009, which was signed into law on February 17, 2009, provides $87 billion in additional federal Medicaid funding for states’ Medicaid expenditures between October 1, 2008 and December 31, 2010. States meeting certain eligibility requirements will temporarily receive additional money in the form of an increase in the federal medical assistance percentage (FMAP). Thus, for a limited period of time, the share of Medicaid costs that are paid for by the federal government will go up, and each state’s share will go down. On August 10, 2010, a six-month extension of the enhanced match funding law was signed, such that the enhanced match, at a reduced level, will continue until June 30, 2011.  We cannot predict whether states are, or will remain, eligible to receive the additio
+nal federal Medicaid funding, or whether the states will have sufficient funds for their Medicaid programs.
+
+ 
+
+Changes to Medicaid, CHIP, Foster Care and ABD programs could reduce the number of persons enrolled in or eligible for these programs, reduce the amount of reimbursement or payment levels, or increase our administrative or healthcare costs under these programs, all of which could have a negative impact on our business. Recent legislation generally requires that eligibility levels be maintained, but this could cause states to reduce reimbursement or reduce benefits in order to afford to maintain eligibility levels.  We believe that reductions in Medicaid, CHIP, Foster Care and ABD payments could substantially reduce our profitability. Further, our contracts with the states are subject to cancellation by the state after a short notice period in the event of unavai
+lability of state funds.
+
+
+
+
+If we are unable to participate in CHIP programs, our growth rate may be limited.
+
+
+
+
+CHIP is a federal initiative designed to provide coverage for low-income children not otherwise covered by Medicaid or other insurance programs. The programs vary significantly from state to state. Participation in CHIP programs is an important part of our growth strategy.  If states do not allow us to participate or if we fail to win bids to participate, our growth strategy may be materially and adversely affected.
+
+ 
+
+If CHIP is not reauthorized or states face shortfalls, our business could suffer.
+
+
+
+
+        Federal support for CHIP has been authorized through 2019, with funding authorized through 2015. We cannot be certain that funding for CHIP will be reauthorized when current funding expires in 2015. Thus, we cannot predict the impact that reauthorization will have on our business. 
+
+
+
+
+States receive matching funds from the federal government to pay for their CHIP programs which have a per state annual cap. Because of funding caps, there is a risk that states could experience shortfalls in future years, which could have an impact on our ability to receive amounts owed to us from states in which we have CHIP contracts. 
+
+
+
+
+If any of our state contracts are terminated or are not renewed, our business will suffer.
+
+
+
+
+We provide managed care programs and selected services to individuals receiving benefits under federal assistance programs, including Medicaid, CHIP and ABD. We provide those healthcare services under contracts with regulatory entities in the areas in which we operate. Our contracts with various states are generally intended to run for one or two years and may be extended for one or two additional years if the state or its agent elects to do so. Our current contracts are set to expire or renew between June 30, 2011 and December 31, 2014. When our contracts expire, they may be opened for bidding by competing healthcare providers. There is no guarantee that our contracts will be renewed or extended. For example, on April 12, 2010, the Wisconsin Department of Health Services notifi
+ed us that our Wisconsin subsidiary was not awarded a Southeast Wisconsin BadgerCare Plus Managed Care contract.  While we will continue to serve other regions of the state, we transitioned the affected members to other plans by November 1, 2010. Further, our contracts with the states are subject to cancellation by the state after a short notice period in the event of unavailability of state funds. For example, the Indiana contract under which we operate can be terminated by the State without cause. Our contracts could also be terminated if we fail to perform in accordance with the standards set by state regulatory agencies. If any of our contracts are terminated, not renewed, renewed on less favorable terms, or not renewed on a timely basis, our business will suffer, and our financial position, results of operations or cash flows may be materially affected.
+
+
+
+
+Changes in government regulations designed to protect the financial interests of providers and members rather than our investors could force us to change how we operate and could harm our business.
+
+
+
+
+Our business is extensively regulated by the states in which we operate and by the federal government. The applicable laws and regulations are subject to frequent change and generally are intended to benefit and protect the financial interests of health plan providers and members rather than investors. The enactment of new laws and rules or changes to existing laws and rules or the interpretation of such laws and rules could, among other things: 
+
+ 
+
+• force us to restructure our relationships with providers within our network;
+
+• require us to implement additional or different programs and systems;
+
+• mandate minimum medical expense levels as a percentage of premium revenues;
+
+• restrict revenue and enrollment growth;
+
+• require us to develop plans to guard against the financial insolvency of our providers;
+
+• increase our healthcare and administrative costs;
+
+• impose additional capital and reserve requirements; and
+
+• increase or change our liability to members in the event of malpractice by our providers.
+
+
+
+
+
+
+  
+
+
+
+11
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Regulations may decrease the profitability of our health plans.
+
+
+
+
+Certain states have enacted regulations which require us to maintain a minimum health benefits ratio, or establish limits on our profitability. Other states require us to meet certain performance and quality metrics in order to receive our full contractual revenue. In certain circumstances, our plans may be required to pay a rebate to the state in the event profits exceed established levels. These regulatory requirements, changes in these requirements or the adoption of similar requirements by other regulators may limit our ability to increase our overall profits as a percentage of revenues. Most states, including but not limited to Georgia, Indiana, Texas and Wisconsin have implemented prompt-payment laws and many states are enforcing penalty provisions for failure to pay claims in a timely manner. Failure to meet these requirements can
+ result in financial fines and penalties. In addition, states may attempt to reduce their contract premium rates if regulators perceive our health benefits ratio as too low. Any of these regulatory actions could harm our financial position, results of operations or cash flows. Certain states also impose marketing restrictions on us which may constrain our membership growth and our ability to increase our revenues.
+
+
+
+
+We face periodic reviews, audits and investigations under our contracts with state government agencies, and these audits could have adverse findings, which may negatively impact our business.
+
+
+
+
+We contract with various state governmental agencies to provide managed healthcare services. Pursuant to these contracts, we are subject to various reviews, audits and investigations to verify our compliance with the contracts and applicable laws and regulations. Any adverse review, audit or investigation could result in:
+
+ 
+
+• cancellation of our contracts;
+
+• refunding of amounts we have been paid pursuant to our contracts;
+
+• imposition of fines, penalties and other sanctions on us;
+
+• loss of our right to participate in various markets;
+
+• increased difficulty in selling our products and services; and
+
+• loss of one or more of our licenses.
+
+
+
+
+Failure to comply with government regulations could subject us to civil and criminal penalties.
+
+
+
+
+Federal and state governments have enacted fraud and abuse laws and other laws to protect patients’ privacy and access to healthcare. In some states, we may be subject to regulation by more than one governmental authority, which may impose overlapping or inconsistent regulations. Violation of these and other laws or regulations governing our operations or the operations of our providers could result in the imposition of civil or criminal penalties, the cancellation of our contracts to provide services, the suspension or revocation of our licenses or our exclusion from participating in the Medicaid, CHIP, Foster Care and ABD programs. If we were to become subject to these penalties or exclusions as the result of our actions or omissions or our inability to monitor the compliance of our providers, it would negatively affect our abili
+ty to operate our business.
+
+
+
+
+HIPAA broadened the scope of fraud and abuse laws applicable to healthcare companies. HIPAA created civil penalties for, among other things, billing for medically unnecessary goods or services. HIPAA established new enforcement mechanisms to combat fraud and abuse, including civil and, in some instances, criminal penalties for failure to comply with specific standards relating to the privacy, security and electronic transmission of most individually identifiable health information. The HITECH Act expanded the scope of these provisions by mandating individual notification in instances of data breach, providing enhanced penalties for HIPAA violations, and granting enforcement authority to states’ Attorneys General in addition to the HHS Office of Civil Rights. It is possible that Congress may enact additional legislation in the futur
+e to increase penalties and to create a private right of action under HIPAA, which could entitle patients to seek monetary damages for violations of the privacy rules.
+
+ 
+
+We may incur significant costs as a result of compliance with government regulations, and our management will be required to devote time to compliance.
+
+
+
+
+Many aspects of our business are affected by government laws and regulations. The issuance of new regulations, or judicial or regulatory guidance regarding existing regulations, could require changes to many of the procedures we currently use to conduct our business, which may lead to additional costs that we have not yet identified. We do not know whether, or the extent to which, we will be able to recover from the states our costs of complying with these new regulations. The costs of any such future compliance efforts could have a material adverse effect on our business. We have already expended significant time, effort and financial resources to comply with the privacy and security requirements of HIPAA and will have to expend additional time and financial resources to comply with the HIPAA provisions contained in <font style="DISPLAY
+: inline; FONT-FAMILY: Times New Roman">the American Recovery and Reinvestment Act of 2009 and the Patient Protection and Affordable Care Act and Health Care and Education Affordability Reconciliation Act. We cannot predict whether states will enact stricter laws governing the privacy and security of electronic health information. If any new requirements are enacted at the state or federal level, compliance would likely require additional expenditures and management time.
+
+
+
+
+Changes in healthcare law and benefits may reduce our profitability.
+
+
+
+
+Changes in applicable laws and regulations are continually being considered, and interpretations of existing laws and rules may also change from time to time. We are unable to predict what regulatory changes may occur or what effect any particular change may have on our business. For example, these changes could reduce the number of persons enrolled or eligible to enroll in Medicaid, reduce the reimbursement or payment levels for medical services or reduce benefits included in Medicaid coverage. For example, some states, including Indiana and Ohio have removed, and others could consider removing, pharmacy coverage from the services covered by managed care entities. We are also unable to predict whether new laws or proposals will favor or hinder the growth of managed healthcare in general. 
+
+
+
+
+The recently enacted health care reform law and the implementation of that law could have a material adverse effect on our business, financial condition, cash flows, or results of operations.
+
+ 
+
+In March 2010, the Patient Protection and Affordable Care Act and the accompanying Health Care and Education Affordability Reconciliation Act were enacted.  This legislation provides comprehensive changes to the U.S. health care system, which will be phased in at various stages over the next eight years.  Among other things, by January 1, 2014, states will be required to expand their Medicaid programs to provide eligibility to nearly all people under age 65 with income below 133 percent of the federal poverty line. As a result, millions of low-income adults without children who currently cannot qualify for coverage, as well as many low-income parents and, in some instances, children now covered through CHIP, will be made eligible for Medicaid.  States were permitted to begin such expansions on April 1, 2010.
+
+
+ 
+
+The legislation also imposes an annual insurance industry assessment of $8 billion starting in 2014, with increasing annual amounts thereafter. Such assessment may not be deductible for income tax purposes.  If this federal premium tax is imposed as enacted, and if the cost of the federal premium tax is not included in the calculation of our rates, or if we are unable to otherwise adjust our business model to address this new tax, our results of operations, financial position and liquidity may be materially adversely affected.
+
+ 
+
+There are numerous outstanding steps required to implement the legislation, including the promulgation of a substantial number of new and potentially more onerous federal regulations.  Further, various health insurance reform proposals are also emerging at the state level. Because of the unsettled nature of these reforms and numerous steps required to implement them, we cannot predict what additional health insurance requirements will be implemented at the federal or state level, or the effect that any future legislation or regulation will have on our business or our growth opportunities.
+
+ 
+
+In addition, there have been a number of lawsuits filed that challenge all or part of the health care reform law.  On January 31, 2011, a Florida District Court ruled that the entire health care reform law is unconstitutional.  Other courts have ruled in favor of the law or have only struck down certain provisions of the law.  These cases are under appeal and others are in process.  We can not predict the ultimate outcome of any of the litigation.   Further, various Congressional leaders have indicated a desire to revisit some or all of the health care reform law during 2011.  While the U.S House of Representatives voted to repeal the whole health care reform law, the U.S. Senate voted against such a repeal, and there have separately been a number of bills introduced that would repeal or 
+change certain provisions of the law.  Because of these challenges, we cannot predict whether any or all of the legislation will be implemented as enacted, overturned, repealed or modified.
+
+ 
+
+Although we believe the legislation may provide us with significant opportunities to grow our business, the enacted reforms, as well as future regulations and legislative changes, may in fact have a material adverse affect on our results of operations, financial position or liquidity.  If we fail to effectively implement our operational and strategic initiatives with respect to the implementation of health care reform, or do not do so as effectively as our competitors, our business may be materially adversely affected.
+
+ 
+
+
+
+  
+
+
+
+12
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+If a state fails to renew a required federal waiver for mandated Medicaid enrollment into managed care or such application is denied, our membership in that state will likely decrease.
+
+
+
+
+States may administer Medicaid managed care programs pursuant to demonstration programs or required waivers of federal Medicaid standards. Waivers and demonstration programs are generally approved for two year periods and can be renewed on an ongoing basis if the state applies. We have no control over this renewal process. If a state does not renew such a waiver or demonstration program or the Federal government denies a state’s application for renewal, membership in our health plan in the state could decrease and our business could suffer.
+
+
+
+
+Changes in federal funding mechanisms may reduce our profitability.
+
+
+
+
+Changes in funding for Medicaid may affect our business. For example, on May 29, 2007, CMS issued a final rule that would reduce states’ use of intergovernmental transfers for the states’ share of Medicaid program funding. By restricting the use of intergovernmental transfers, this rule may restrict some states’ funding for Medicaid, which could adversely affect our growth, operations and financial performance. On May 23, 2008, the United States District Court for the District of Columbia vacated the final rule as improperly promulgated.  On November 30, 2010, CMS issued final regulations that remove these provision
+s and restore the regulatory language that was in place before the 2007 regulations were issued.  While this rule has been removed, we cannot predict whether another similar rule or any other rule that changes funding mechanisms will be promulgated, and if any are, what impact they will have on our business.
+
+ 
+
+Legislative changes in the Medicare program may also affect our business. For example, the Medicare Prescription Drug, Improvement and Modernization Act of 2003 revised cost-sharing requirements for some beneficiaries and requires states to reimburse the federal Medicare program for costs of prescription drug coverage provided to beneficiaries who are enrolled simultaneously in both the Medicaid and Medicare programs. 
+
+ 
+
+If state regulatory agencies require a statutory capital level higher than the state regulations, we may be required to make additional capital contributions.
+
+
+
+
+Our operations are conducted through our wholly owned subsidiaries, which include health maintenance organizations, or HMOs, and managed care organizations, or MCOs. HMOs and MCOs are subject to state regulations that, among other things, require the maintenance of minimum levels of statutory capital, as defined by each state. Additionally, state regulatory agencies may require, at their discretion, individual HMOs to maintain statutory capital levels higher than the state regulations. If this were to occur to one of our subsidiaries, we may be required to make additional capital contributions to the affected subsidiary. Any additional capital contribution made to one of the affected subsidiaries could have a material adverse effect on our liquidity and our ability to grow.
+
+ 
+
+If state regulators do not approve payments of dividends and distributions by our subsidiaries to us, we may not have sufficient funds to implement our business strategy.
+
+
+
+
+We principally operate through our health plan subsidiaries. If funds normally available to us become limited in the future, we may need to rely on dividends and distributions from our subsidiaries to fund our operations. These subsidiaries are subject to regulations that limit the amount of dividends and distributions that can be paid to us without prior approval of, or notification to, state regulators. If these regulators were to deny our subsidiaries’ request to pay dividends to us, the funds available to us would be limited, which could harm our ability to implement our business strategy.
+
+ 
+
+Risks Related to Our Business
+
+
+
+
+Ineffectiveness of state-operated systems and subcontractors could adversely affect our business.
+
+
+
+
+Our health plans rely on other state-operated systems or sub-contractors to qualify, solicit, educate and assign eligible members into the health plans. The effectiveness of these state operations and sub-contractors can have a material effect on a health plan’s enrollment in a particular month or over an extended period. When a state implements new programs to determine eligibility, new processes to assign or enroll eligible members into health plans, or chooses new contractors, there is an increased potential for an unanticipated impact on the overall number of members assigned into the health plans.
+
+
+
+
+Failure to accurately predict our medical expenses could negatively affect our financial position, results of operations or cash flows.
+
+
+
+
+Our medical expense includes claims reported but not yet paid, or inventory, estimates for claims incurred but not reported, or IBNR, and estimates for the costs necessary to process unpaid claims at the end of each period. Our development of the medical claims liability estimate is a continuous process which we monitor and refine on a monthly basis as claims receipts and payment information becomes available. As more complete information becomes available, we adjust the amount of the estimate, and include the changes in estimates in medical expense in the period in which the changes are identified.
+
+
+
+
+We can not be sure that our medical claims liability estimates are adequate or that adjustments to those estimates will not unfavorably impact our results of operations. For example, in the three months ended June 30, 2006 we adjusted IBNR by $9.7 million for adverse medical costs development from the first quarter of 2006. 
+
+
+
+
+Additionally, when we commence operations in a new state or region, we have limited information with which to estimate our medical claims liability. For example, we commenced operations in South Carolina in December 2007, began our Foster Care program in Texas in April 2008, commenced operations in Florida in February 2009, in Massachusetts in July 2009, in Mississippi in January 2011, and expect to commence operations in Illinois in 2011. For a period of time after the inception of business in these states, we base our estimates on state-provided historical actuarial data and limited actual incurred and received claims.  The addition of new categories of individuals who are eligible for Medicaid under new legislation may pose the same difficulty in estimating our medi
+cal claims liability and utilization patterns.
+
+
+
+
+From time to time in the past, our actual results have varied from our estimates, particularly in times of significant changes in the number of our members. The accuracy of our medical claims liability estimate may also affect our ability to take timely corrective actions, further harming our results.
+
+
+
+
+Receipt of inadequate or significantly delayed premiums would negatively affect our revenues, profitability or cash flows.
+
+
+
+
+Our premium revenues consist of fixed monthly payments per member and supplemental payments for other services such as maternity deliveries. These premiums are fixed by contract, and we are obligated during the contract periods to provide healthcare services as established by the state governments. We use a large portion of our revenues to pay the costs of healthcare services delivered to our members. If premiums do not increase when expenses related to medical services rise, our earnings will be affected negatively. In addition, our actual medical services costs may exceed our estimates, which would cause our health benefits ratio, or our expenses related to medical services as a percentage of premium revenue, to increase and our profits to decline. In addition, it is possible for a state to increase the rates payable to the hospitals w
+ithout granting a corresponding increase in premiums to us. If this were to occur in one or more of the states in which we operate, our profitability would be harmed. In addition, if there is a significant delay in our receipt of premiums to offset previously incurred health benefits costs, our cash flows or earnings could be negatively impacted.
+
+
+
+
+In some instances, our base premiums are subject to an adjustment, or risk score, based on the acuity of our membership. Generally, the risk score is determined by the State analyzing encounter submissions of processed claims data to determine the acuity of our membership relative to the entire state’s Medicaid membership. The risk score is dependent on several factors including our providers’ completeness and quality of claims submission, our processing of the claim, submission of the processed claims in the form of encounters to the states’ encounter systems and the states’ acceptance and analysis of the encounter data. If the risk scores assigned to our premiums that are risk adjusted are not adequate or do not appropriately reflect the acuity of our membership, our earnings will be affected negatively.<
+/div>
+
+
+
+
+Failure to effectively manage our medical costs or related administrative costs or uncontrollable epidemic or pandemic costs would reduce our profitability.
+
+
+
+
+Our profitability depends, to a significant degree, on our ability to predict and effectively manage expenses related to health benefits. We have less control over the costs related to medical services than we do over our general and administrative expenses. Because of the narrow margins of our health plan business, relatively small changes in our health benefits ratio can create significant changes in our financial results. Changes in healthcare regulations and practices, the level of use of healthcare services, hospital costs, pharmaceutical costs, major epidemics or pandemics, new medical technologies and other external factors, including general economic conditions such as inflation levels, are beyond our control and could reduce our ability to predict and effectively control the costs of providing health benefits. In 2009, the 
+H1N1 influenza pandemic resulted in heightened costs due to increased physician visits and increased utilization of hospital emergency rooms and pharmaceutical costs. We cannot predict what impact the H1N1 influenza virus or any other epidemic or pandemic will have on our costs in the future. Additionally, we may not be able to manage costs effectively in the future. If our costs related to health benefits increase, our profits could be reduced or we may not remain profitable.
+
+
+
+
+
+
+  
+
+
+
+13
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Our investment portfolio may suffer losses from changes in market interest rates and changes in market conditions which could materially and adversely affect our results of operations or liquidity.
+
+
+
+
+As of December 31, 2010, we had $455.3 million in cash, cash equivalents and short-term investments and $618.6 million of long-term investments and restricted deposits. We maintain an investment portfolio of cash equivalents and short-term and long-term investments in a variety of securities which may include asset backed securities, bank deposits, commercial paper, certificates of deposit, money market funds, municipal bonds, corporate bonds, instruments of the U.S. Treasury and other government corporations and agencies, insurance contracts and equity securities. These investments are subject to general credit, liquidity, market and interest rate risks. Substantially all of these securities are subject to interest rate and credit risk and will decline in value if intere
+st rates increase or one of the issuers’ credit ratings is reduced. As a result, we may experience a reduction in value or loss of liquidity of our investments, which may have a negative adverse effect on our results of operations, liquidity and financial condition. For example, in the third quarter of 2008, we recorded a loss on investments of approximately $4.5 million due to a loss in a money market fund.
+
+
+
+
+Our investments in state, municipal and corporate securities are not guaranteed by the United States government which could materially and adversely affect our results of operation, liquidity or financial condition.
+
+
+
+
+As of December 31, 2010, we had $556.3 million of investments in state, municipal and corporate securities. These securities are not guaranteed by the United States government. State and municipal securities are subject to additional credit risk based upon each local municipality’s tax revenues and financial stability. As a result, we may experience a reduction in value or loss of liquidity of our investments, which may have a negative adverse effect on our results of operations, liquidity and financial condition.
+
+
+
+
+Difficulties in executing our acquisition strategy could adversely affect our business.
+
+
+
+
+Historically, the acquisition of Medicaid and specialty services businesses, contract rights and related assets of other health plans both in our existing service areas and in new markets has accounted for a significant amount of our growth. Many of the other potential purchasers have greater financial resources than we have. In addition, many of the sellers are interested either in (a) selling, along with their Medicaid assets, other assets in which we do not have an interest or (b) selling their companies, including their liabilities, as opposed to the assets of their ongoing businesses. 
+
+
+
+
+We generally are required to obtain regulatory approval from one or more state agencies when making acquisitions. In the case of an acquisition of a business located in a state in which we do not currently operate, we would be required to obtain the necessary licenses to operate in that state. In addition, even if we already operate in a state in which we acquire a new business, we would be required to obtain additional regulatory approval if the acquisition would result in our operating in an area of the state in which we did not operate previously, and we could be required to renegotiate provider contracts of the acquired business. We cannot provide any assurance that we would be able to comply with these regulatory requirements for an acquisition in a timely manner, or at all. In deciding whether to approve a proposed acquisition, sta
+te regulators may consider a number of factors outside our control, including giving preference to competing offers made by locally owned entities or by not-for-profit entities. 
+
+
+
+
+We also may be unable to obtain sufficient additional capital resources for future acquisitions. If we are unable to effectively execute our acquisition strategy, our future growth will suffer and our results of operations could be harmed.
+
+ 
+
+Execution of our growth strategy may increase costs or liabilities, or create disruptions in our business.
+
+
+
+
+We pursue acquisitions of other companies or businesses from time to time. Although we review the records of companies or businesses we plan to acquire, even an in-depth review of records may not reveal existing or potential problems or permit us to become familiar enough with a business to assess fully its capabilities and deficiencies. As a result, we may assume unanticipated liabilities or adverse operating conditions, or an acquisition may not perform as well as expected. We face the risk that the returns on acquisitions will not support the expenditures or indebtedness incurred to acquire such businesses, or the capital expenditures needed to develop such businesses. We also face the risk that we will not be able to integrate acquisitions into our existing operations effectively without substantial expense, delay or other operationa
+l or financial problems. Integration may be hindered by, among other things, differing procedures, including internal controls, business practices and technology systems. We may need to divert more management resources to integration than we planned, which may adversely affect our ability to pursue other profitable activities.
+
+
+
+
+In addition to the difficulties we may face in identifying and consummating acquisitions, we will also be required to integrate and consolidate any acquired business or assets with our existing operations. This may include the integration of:
+
+
+
+
+• additional personnel who are not familiar with our operations and corporate culture;
+
+• provider networks that may operate on different terms than our existing networks;
+
+• existing members, who may decide to switch to another healthcare plan; and
+
+• disparate administrative, accounting and finance, and information systems.
+
+
+
+
+Additionally, our growth strategy includes start-up operations in new markets or new products in existing markets. We may incur significant expenses prior to commencement of operations and the receipt of revenue. As a result, these start-up operations may decrease our profitability. In the event we pursue any opportunity to diversify our business internationally, we would become subject to additional risks, including, but not limited to, political risk, an unfamiliar regulatory regime, currency exchange risk and exchange controls, cultural and language differences, foreign tax issues, and different labor laws and practices.
+
+
+
+
+Accordingly, we may be unable to identify, consummate and integrate future acquisitions or start-up operations successfully or operate acquired or new businesses profitably.
+
+
+
+
+Acquisitions of unfamiliar new businesses could negatively impact our business.
+
+
+
+
+We are subject to the expenditures and risks associated with entering into any new line of business. Our failure to properly manage these expenditures and risks could have a negative impact on our overall business. For example, effective July 2008, we completed the previously announced acquisition of Celtic Group, Inc., the parent company of Celtic Insurance Company, or Celtic. Celtic is a national individual health insurance provider that provides health insurance to individual customers and their families. While we believed that the addition of Celtic would be complementary to our business, we had not previously operated in the individual health care industry.
+
+
+
+
+If competing managed care programs are unwilling to purchase specialty services from us, we may not be able to successfully implement our strategy of diversifying our business lines.
+
+
+
+
+We are seeking to diversify our business lines into areas that complement our Medicaid business in order to grow our revenue stream and balance our dependence on Medicaid risk reimbursement. In order to diversify our business, we must succeed in selling the services of our specialty subsidiaries not only to our managed care plans, but to programs operated by third-parties. Some of these third-party programs may compete with us in some markets, and they therefore may be unwilling to purchase specialty services from us. In any event, the offering of these services will require marketing activities that differ significantly from the manner in which we seek to increase revenues from our Medicaid programs. Our inability to market specialty services to other programs may impair our ability to execute our business strategy.
+
+ 
+
+Failure to achieve timely profitability in any business would negatively affect our results of operations.
+
+
+
+
+Business expansion costs associated with a new business can be substantial. For example, in order to obtain a certificate of authority in most jurisdictions, we must first establish a provider network, have systems in place and demonstrate our ability to obtain a state contract and process claims. If we were unsuccessful in obtaining the necessary license, winning the bid to provide service or attracting members in numbers sufficient to cover our costs, any new business of ours would fail. We also could be obligated by the state to continue to provide services for some period of time without sufficient revenue to cover our ongoing costs or recover business expansion costs. The expenses associated with starting up a new business could have a significant impact on our results of operations if we are unable to achieve profitable operations 
+in a timely fashion.
+
+
+
+
+
+
+  
+
+
+
+14
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Adverse credit market conditions may have a material adverse affect on our liquidity or our ability to obtain credit on acceptable terms.
+
+
+
+
+The securities and credit markets have been experiencing extreme volatility and disruption over the past several years. The availability of credit, from virtually all types of lenders, has been restricted. Such conditions may persist during 2011 and beyond. In the event we need access to additional capital to pay our operating expenses, make payments on our indebtedness, pay capital expenditures, or fund acquisitions, our ability to obtain such capital may be limited and the cost of any such capital may be significant, particularly if we are unable to access our existing credit facility.
+
+
+
+
+Our access to additional financing will depend on a variety of factors such as prevailing economic and credit market conditions, the general availability of credit, the overall availability of credit to our industry, our credit ratings and credit capacity, and perceptions of our financial prospects. Similarly, our access to funds may be impaired if regulatory authorities or rating agencies take negative actions against us. If a combination of these factors were to occur, our internal sources of liquidity may prove to be insufficient, and in such case, we may not be able to successfully obtain additional financing on favorable terms or at all. We believe that if credit could be obtained, the terms and costs of such credit could be significantly less favorable to us than what was obtained in our most recent financings.
+
+
+
+
+We derive a majority of our premium revenues from operations in a small number of states, and our financial position, results of operations or cash flows would be materially affected by a decrease in premium revenues or profitability in any one of those states.
+
+
+
+
+Operations in a few states have accounted for most of our premium revenues to date. If we were unable to continue to operate in any of our current states or if our current operations in any portion of one of those states were significantly curtailed, our revenues could decrease materially. Our Medicaid contract with Kansas, which terminated December 31, 2006, together with our Medicaid contract with Missouri, accounted for $317.0 million in revenue for the year ended December 31, 2006. Our reliance on operations in a limited number of states could cause our revenue and profitability to change suddenly and unexpectedly depending on legislative or other governmental or regulatory actions and decisions, economic conditions and similar factors in those states. For example, states we currently serve may bid out their Medicaid program through 
+a Request for Proposal, or RFP, process. Our inability to continue to operate in any of the states in which we operate would harm our business.
+
+
+
+
+Competition may limit our ability to increase penetration of the markets that we serve.
+
+
+
+
+We compete for members principally on the basis of size and quality of provider network, benefits provided and quality of service. We compete with numerous types of competitors, including other health plans and traditional state Medicaid programs that reimburse providers as care is provided. In addition, the impact of health care reform and potential growth in our segment may attract new competitors. Subject to limited exceptions by federally approved state applications, the federal government requires that there be choices for Medicaid recipients among managed care programs. Voluntary programs, increases in the number of competitors and mandated competition may limit our ability to increase our market share. 
+
+
+
+
+Some of the health plans with which we compete have greater financial and other resources and offer a broader scope of products than we do. In addition, significant merger and acquisition activity has occurred in the managed care industry, as well as in industries that act as suppliers to us, such as the hospital, physician, pharmaceutical, medical device and health information systems businesses. To the extent that competition intensifies in any market that we serve, our ability to retain or increase members and providers, or maintain or increase our revenue growth, pricing flexibility and control over medical cost trends may be adversely affected.
+
+
+
+
+In addition, in order to increase our membership in the markets we currently serve, we believe that we must continue to develop and implement community-specific products, alliances with key providers and localized outreach and educational programs. If we are unable to develop and implement these initiatives, or if our competitors are more successful than we are in doing so, we may not be able to further penetrate our existing markets.
+
+ 
+
+If we are unable to maintain relationships with our provider networks, our profitability may be harmed.
+
+
+
+
+Our profitability depends, in large part, upon our ability to contract favorably with hospitals, physicians and other healthcare providers. Our provider arrangements with our primary care physicians, specialists and hospitals generally may be cancelled by either party without cause upon 90 to 120 days prior written notice. We cannot provide any assurance that we will be able to continue to renew our existing contracts or enter into new contracts enabling us to service our members profitably.
+
+
+
+
+From time to time providers assert or threaten to assert claims seeking to terminate non-cancelable agreements due to alleged actions or inactions by us. Even if these allegations represent attempts to avoid or renegotiate contractual terms that have become economically disadvantageous to the providers, it is possible that in the future a provider may pursue such a claim successfully. In addition, we are aware that other managed care organizations have been subject to class action suits by physicians with respect to claim payment procedures, and we may be subject to similar claims. Regardless of whether any claims brought against us are successful or have merit, they will still be time-consuming and costly and could distract our management’s attention. As a result, we may incur significant expenses and may be unable to operate our 
+business effectively.
+
+
+
+
+We will be required to establish acceptable provider networks prior to entering new markets. We may be unable to enter into agreements with providers in new markets on a timely basis or under favorable terms. If we are unable to retain our current provider contracts or enter into new provider contracts timely or on favorable terms, our profitability will be harmed.
+
+
+
+
+We may be unable to attract and retain key personnel.
+
+
+
+
+We are highly dependent on our ability to attract and retain qualified personnel to operate and expand our business. If we lose one or more members of our senior management team, including our chief executive officer, Michael F. Neidorff, who has been instrumental in developing our business strategy and forging our business relationships, our business and financial position, results of operations or cash flows could be harmed. Our ability to replace any departed members of our senior management or other key employees may be difficult and may take an extended period of time because of the limited number of individuals in the Medicaid managed care and specialty services industry with the breadth of skills and experience required to operate and successfully expand a business such as ours. Competition to hire from this limited pool is intens
+e, and we may be unable to hire, train, retain or motivate these personnel.
+
+ 
+
+Negative publicity regarding the managed care industry may harm our business and financial position, results of operations or cash flows.
+
+
+
+
+The managed care industry has received negative publicity. This publicity has led to increased legislation, regulation, review of industry practices and private litigation in the commercial sector. These factors may adversely affect our ability to market our services, require us to change our services, and increase the regulatory burdens under which we operate. Any of these factors may increase the costs of doing business and adversely affect our financial position, results of operations or cash flows.
+
+
+
+
+Claims relating to medical malpractice could cause us to incur significant expenses.
+
+
+
+
+Our providers and employees involved in medical care decisions may be subject to medical malpractice claims. In addition, some states have adopted legislation that permits managed care organizations to be held liable for negligent treatment decisions or benefits coverage determinations. Claims of this nature, if successful, could result in substantial damage awards against us and our providers that could exceed the limits of any applicable insurance coverage. Therefore, successful malpractice or tort claims asserted against us, our providers or our employees could adversely affect our financial condition and profitability. Even if any claims brought against us are unsuccessful or without merit, they would still be time consuming and costly and could distract our management’s attention. As a result, we may incur significant expenses
+ and may be unable to operate our business effectively.
+
+
+
+
+
+
+  
+
+
+
+15
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Loss of providers due to increased insurance costs could adversely affect our business.
+
+
+
+
+Our providers routinely purchase insurance to help protect themselves against medical malpractice claims. In recent years, the costs of maintaining commercially reasonable levels of such insurance have increased dramatically, and these costs are expected to increase to even greater levels in the future. As a result of the level of these costs, providers may decide to leave the practice of medicine or to limit their practice to certain areas, which may not address the needs of Medicaid participants. We rely on retaining a sufficient number of providers in order to maintain a certain level of service. If a significant number of our providers exit our provider networks or the practice of medicine generally, we may be unable to replace them in a timely manner, if at all, and our business could be adversely affected.
+
+
+
+
+Growth in the number of Medicaid-eligible persons could cause our financial position, results of operations or cash flows to suffer if state and federal budgets decrease or do not increase.
+
+
+
+
+Less favorable economic conditions may cause our membership to increase as more people become eligible to receive Medicaid benefits. During such economic downturns, however, state and federal budgets could decrease, causing states to attempt to cut healthcare programs, benefits and rates. Additionally, the number of individuals eligible for Medicaid managed care will likely increase as a result of the recent health care reform legislation.  We cannot predict the impact of changes in the United States economic environment or other economic or political events, including acts of terrorism or related military action, on federal or state funding of healthcare programs or on the size of the population eligible for the programs we operate. If federal or state funding 
+decreases or remains unchanged while our membership increases, our results of operations will suffer.
+
+
+
+
+Growth in the number of Medicaid-eligible persons may be countercyclical, which could cause our financial position, results of operations or cash flows to suffer when general economic conditions are improving.
+
+
+
+
+Historically, the number of persons eligible to receive Medicaid benefits has increased more rapidly during periods of rising unemployment, corresponding to less favorable general economic conditions. Conversely, this number may grow more slowly or even decline if economic conditions improve. Therefore, improvements in general economic conditions may cause our membership levels to decrease, thereby causing our financial position, results of operations or cash flows to suffer, which could lead to decreases in our stock price during periods in which stock prices in general are increasing.
+
+
+
+
+If we are unable to integrate and manage our information systems effectively, our operations could be disrupted.
+
+
+
+
+Our operations depend significantly on effective information systems. The information gathered and processed by our information systems assists us in, among other things, monitoring utilization and other cost factors, processing provider claims, and providing data to our regulators. Our providers also depend upon our information systems for membership verifications, claims status and other information.
+
+
+
+
+Our information systems and applications require continual maintenance, upgrading and enhancement to meet our operational needs and regulatory requirements. Moreover, our acquisition activity requires frequent transitions to or from, and the integration of, various information systems. We regularly upgrade and expand our information systems’ capabilities. If we experience difficulties with the transition to or from information systems or are unable to properly maintain or expand our information systems, we could suffer, among other things, from operational disruptions, loss of existing members and difficulty in attracting new members, regulatory problems and increases in administrative expenses. In addition, our ability to integrate and manage our information systems may be impaired as the result of events outside our control, incl
+uding acts of nature, such as earthquakes or fires, or acts of terrorists.
+
+
+
+
+We rely on the accuracy of eligibility lists provided by state governments. Inaccuracies in those lists would negatively affect our results of operations.
+
+
+
+
+Premium payments to us are based upon eligibility lists produced by state governments. From time to time, states require us to reimburse them for premiums paid to us based on an eligibility list that a state later discovers contains individuals who are not in fact eligible for a government sponsored program or are eligible for a different premium category or a different program. Alternatively, a state could fail to pay us for members for whom we are entitled to payment. Our results of operations would be adversely affected as a result of such reimbursement to the state if we had made related payments to providers and were unable to recoup such payments from the providers.
+
+
+
+
+We may not be able to obtain or maintain adequate insurance.
+
+
+
+
+We maintain liability insurance, subject to limits and deductibles, for claims that could result from providing or failing to provide managed care and related services. These claims could be substantial. We believe that our present insurance coverage and reserves are adequate to cover currently estimated exposures. We cannot provide any assurance that we will be able to obtain adequate insurance coverage in the future at acceptable costs or that we will not incur significant liabilities in excess of policy limits.
+
+ 
+
+From time to time, we may become involved in costly and time-consuming litigation and other regulatory proceedings, which require significant attention from our management.
+
+
+
+
+We are a defendant from time to time in lawsuits and regulatory actions relating to our business. Due to the inherent uncertainties of litigation and regulatory proceedings, we cannot accurately predict the ultimate outcome of any such proceedings. An unfavorable outcome could have a material adverse impact on our business and financial position, results of operations or cash flows. In addition, regardless of the outcome of any litigation or regulatory proceedings, such proceedings are costly and time consuming and require significant attention from our management. For example, we have in the past, or may be subject to in the future, securities class action lawsuits, IRS examinations or similar regulatory actions. Any such matters could harm our business and financial position, results of operations or cash flows.
+
+
+
+
+An unauthorized disclosure of sensitive or confidential member information could have an adverse effect on our business.
+
+
+
+
+As part of our normal operations, we collect, process and retain confidential member information. We are subject to various federal and state laws and rules regarding the use and disclosure of confidential member information, including HIPAA and the Gramm-Leach-Bliley Act. The American Recovery and Reinvestment Act of 2009 further expands the coverage of HIPAA by, among other things, extending the privacy and security provisions, requiring new disclosures if a data breach occurs, mandating new regulations around electronic medical records, expanding enforcement mechanisms, allowing the state Attorneys General to bring enforcement actions and increasing penalties for violations. Despite the security measures we have in place to ensure compliance with applicable laws and rules, our facilities and systems, and those of our third party servi
+ce providers, may be vulnerable to security breaches, acts of vandalism, computer viruses, misplaced or lost data, programming and/or human errors or other similar events. Any security breach involving the misappropriation, loss or other unauthorized disclosure or use of confidential member information, whether by us or a third party, could have a material adverse effect on our business, financial condition, cash flows, or results of operations.
+
+
+
+
+
+
+  
+
+
+
+16
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+ 
+
+Item 1B

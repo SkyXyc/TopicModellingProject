@@ -1,0 +1,1729 @@
+Item 1A. 
+    
+    Risk
+    Factors 
+     11 
+  
+    Item
+      1B. 
+    
+    Unresolved Staff Comments 
+     16 
+  
+    Item 2. 
+    
+    Properties 
+     16 
+  
+    Item
+      3. 
+    
+    Legal
+      Proceedings 
+     17 
+  
+    Item 4. 
+    
+    Submission of Matters to a
+      Vote of Security Holders 
+     18 
+  
+     
+  
+     
+  
+    PART II 
+    
+     
+     
+  
+     
+  
+    Item
+      5. 
+    
+    Market for Registrant's Common Equity, Related
+      Stockholder Matters and 
+     19 
+  
+     
+    
+    Issuer Purchases of Equity Securities 
+     
+  
+    Item 6. 
+    
+    Selected Financial
+      Data 
+     21 
+  
+    Item
+      7. 
+    
+    Management's Discussion and Analysis of Financial
+      Condition and Results 
+     22 
+  
+     
+    
+    of
+      Operations 
+     
+  
+    Item 7A. 
+    
+    Quantitative and
+      Qualitative Disclosures about Market Risk 
+     35 
+  
+    Item
+      8. 
+    
+    Financial Statements and Supplementary
+    Data 
+     37 
+  
+    Item 9. 
+    
+    Changes in and
+      Disagreements with Accountants on Accounting and 
+     68 
+  
+     
+    
+    Financial
+      Disclosure 
+     
+  
+    Item
+      9A. 
+    
+    Controls and Procedures 
+     68 
+  
+    Item 9B. 
+    
+    Other
+    Information 
+     68 
+  
+     
+  
+    PART III 
+    
+     
+     
+  
+     
+  
+    Item
+      10. 
+    
+    Directors, Executive Officers and Corporate
+      Governance 
+     69 
+  
+    Item 11. 
+    
+    Executive
+      Compensation 
+     69 
+  
+    Item
+      12. 
+    
+    Security Ownership of Certain Beneficial Owners and
+      Management 
+     69 
+  
+     
+    
+    and
+      Related Stockholder Matters 
+     
+  
+    Item 13. 
+    
+    Certain Relationships and
+      Related Transactions, and Director Independence 
+     71 
+  
+    Item
+      14. 
+    
+    Principal Accountant Fees and Services 
+     71 
+  
+     
+  
+     
+  
+    PART IV 
+    
+     
+     
+  
+     
+  
+    Item
+      15. 
+    
+    Exhibits and Financial Statement
+Schedules 
+     72 
+  
+    Signatures
+      
+    
+     
+     74 
+2
+
+
+PART I
+FORWARD-LOOKING
+STATEMENTS
+This Annual Report on Form 10-K
+contains forward-looking statements
+within the meaning of the Private Securities
+Litigation Reform Act of 1995. Forward-looking statements may be found
+throughout this Annual Report and particularly in Items 1. “Business” and 3.
+“Legal Proceedings” which contain discussions concerning our development
+efforts, strategy, new product introductions, backlog and litigation.
+Forward-looking statements involve numerous known and unknown risks and
+uncertainties that could cause actual results to differ materially and adversely
+from those expressed or implied. Such risks include, but are not limited to,
+those discussed throughout this document as well as in Item 1A. "Risk Factors."
+Often, forward-looking statements can be identified by the use of
+forward-looking words, such as “may,” “will,” “could,” “should,” “expect,”
+“believe,” “anticipate,” “estimate,” “continue,” “plan,” “intend,” “project” and
+other similar terminology, or the negative of such terms. We disclaim any
+responsibility to update or revise any forward-looking statement provided in
+this Annual Report or in any of our other communications for any
+reason.
+ITEM 1. BUSINESS
+Xilinx, Inc. (Xilinx or the Company)
+designs, develops and markets complete programmable logic solutions. These
+solutions have several components:
+
+  Advanced integrated circuits (ICs) in the form of
+  programmable logic devices (PLDs);
+  Software design tools to program the PLDs;
+  Predefined system functions delivered as
+  intellectual property (IP) cores;
+  Design services;
+  Customer training; and
+  Field engineering and technical
+  support.
+Our PLDs include field programmable
+gate arrays (FPGAs) and complex programmable logic devices (CPLDs) that our
+customers program to perform desired logic functions. Our solutions are designed
+to provide high integration and quick time-to-market for electronic equipment
+manufacturers in end markets such as wired and wireless communications,
+industrial, scientific and medical, test and measurement, aerospace and defense,
+audio, video and broadcast, consumer, automotive and data processing. We sell
+our products globally through independent domestic and foreign distributors and
+through direct sales to original equipment manufacturers (OEMs) by a network of
+independent sales representative firms and by a direct sales management
+organization.
+Xilinx was founded and incorporated in
+California in February 1984. In April 1990, the Company reincorporated in
+Delaware. Our corporate facilities and executive offices are located at 2100
+Logic Drive, San Jose, California 95124, and our website address is
+www.xilinx.com.
+Industry Overview
+There are three principal types of ICs
+used in most digital electronic systems: processors, which generally are
+utilized for control and computing tasks; memory devices, which are used for
+storing program instructions and data; and logic devices, which generally are
+used to manage the interchange and manipulation of digital signals within a
+system. Xilinx develops PLDs, a type of logic device. Alternatives to PLDs
+include custom gate arrays, application specific integrated circuits (ASICs) and
+application specific standard products (ASSPs). These devices all compete with
+each other since they may be utilized in many of the same types of applications
+within electronic systems. However, variations in unit pricing, development
+cost, product performance, reliability, power consumption, density,
+functionality, ease of use and time-to-market determine the degree to which the
+devices compete for specific applications.
+The primary advantage PLDs have over
+custom gate arrays, ASICs and ASSPs is that PLDs enable faster time-to-market
+because of their shorter design cycles. Users can program the PLD to implement
+their design, using software to create and revise their designs relatively
+quickly with lower development costs. PLDs typically have a larger die size
+resulting in higher costs per unit compared to custom gate arrays, ASICs and
+ASSPs, which are customized to perform a limited fixed function. Custom gate
+arrays, ASICs and ASSPs, however, generally offer less flexibility, require
+longer fabrication lead times and higher up-front costs than PLDs.
+PLDs are standard components. This
+means that the same device type can be sold to many different users for many
+different applications. As a result, the development cost of PLDs can be spread
+over a large number of users. Custom gate arrays, ASICs and ASSPs, on the other
+hand, are custom chips for an individual user for use in a specific application.
+ASSPs implement specific functions for a limited set of users. This involves a
+high up-front cost to users. Technology advances are enabling PLD companies to
+reduce costs considerably, making PLDs an increasingly attractive alternative to
+custom gate arrays, ASICs and ASSPs.
+3
+
+
+An overview of typical PLD end market applications
+for our products is shown in the following table:
+
+
+
+  
+    End
+      Markets  
+    Sub-Segments  
+    Applications  
+  
+      
+     
+     
+     
+  
+    Communications  
+    Wireless  
+         ·
+    3G/4G Cellular Base Stations  
+  
+      
+      
+         ·
+    WiMAX/LTE Base Stations  
+  
+      
+      
+         ·
+    Wireless Backhaul  
+  
+      
+     
+     
+     
+  
+      
+    Wireline  
+         ·
+    Metro Area Networks  
+  
+      
+      
+         ·
+    FTTx-Passive Optical Networks  
+  
+      
+      
+         ·
+    Digital Subscriber Line Access  
+  
+      
+      
+    
+    Multiplexers (DSLAMs) and  
+  
+      
+     
+    
+    Cable Modem Termination  
+  
+      
+      
+    
+    Systems (CMTS)  
+  
+      
+      
+         ·
+    Multi-Service Provisioning  
+  
+      
+      
+    
+    Platforms (MSPPs)  
+  
+      
+      
+         ·
+    Enterprise Switches  
+  
+      
+      
+         ·
+    Mid-end and High-end Routers  
+  
+      
+     
+     
+     
+  
+    Consumer, Automotive,  
+    Consumer  
+         ·
+    Video Display Systems,  
+  
+    Industrial and Other  
+      
+     
+    LCD/PDP Televisions  
+  
+      
+      
+         ·
+    Digital Video Recorders/Set Top  
+  
+      
+      
+    
+    Boxes/IPTV  
+  
+      
+      
+         ·
+    Smart Handhelds  
+  
+      
+     
+     
+     
+  
+      
+    Industrial, Scientific and  
+         ·
+    Factory Automation  
+  
+      
+    Medical  
+         ·
+    Medical Imaging  
+  
+      
+      
+         ·
+    Test and Measurement  
+  
+      
+      
+    
+    Equipment  
+  
+      
+     
+     
+     
+  
+      
+    Audio, Video and Broadcast  
+         ·
+    Cable Head-end Systems  
+  
+      
+      
+         ·
+    Production Switchers  
+  
+      
+      
+         ·
+    Cameras  
+  
+      
+     
+     
+     
+  
+      
+    Automotive  
+         ·
+    Automotive Infotainment  
+  
+      
+      
+         ·
+    GPS Navigation Systems  
+  
+      
+      
+         ·
+    Rear Seat Entertainment  
+  
+      
+     
+     
+     
+  
+      
+    Aerospace and Defense  
+         ·
+    Satellite Surveillance  
+  
+      
+      
+         ·
+    Radar and Sonar Systems  
+  
+      
+      
+         ·
+    Secure Communications  
+  
+      
+     
+     
+     
+  
+    Data Processing  
+    Storage  
+         ·
+    Security and Encryption  
+  
+      
+      
+         ·
+    Network Attached Storage  
+  
+      
+     
+     
+     
+  
+      
+    Servers  
+         ·
+    High-end Servers  
+  
+      
+      
+         ·
+    Computer Peripherals  
+  
+      
+     
+     
+     
+  
+      
+    Office Automation  
+         ·
+    Copiers  
+  
+      
+      
+         ·
+    Printers 
+  
+Products
+Integral to the success of our business
+is the timely introduction of new products that meet customer requirements and
+compete effectively with respect to price, functionality and performance.
+Software design tools, IP cores, technical support and design services are also
+critical components that enable our customers to implement their design
+specifications into our PLDs. Altogether, our PLDs and related IP, service and
+support form a comprehensive programmable logic solution. A brief
+overview of our PLD offerings follows and is not all-inclusive but does comprise
+the majority of our
+4
+
+
+revenues. Some of our more mature
+product families have been excluded from the table although they continue to
+generate revenues. We operate and track our results in one operating segment for
+financial reporting purposes.
+Product Families
+
+
+
+  
+      
+      
+      
+     Process 
+     
+  
+    FPGAs  
+    Date Introduced 
+     Densities 
+     Technology 
+     Voltage 
+  
+      
+      
+     20K to
+    330K 
+     
+     
+  
+    Virtex®-5  
+     May 2006 
+     Logic
+    Cells 
+     65nm 
+     1.0v 
+  
+      
+      
+     12K to
+    200K 
+     
+     
+  
+    Virtex-4  
+     June 2004 
+     Logic
+    Cells 
+     90nm 
+     1.2v 
+  
+      
+      
+     3K to
+    99K 
+     
+     
+  
+    Virtex-II Pro 
+    
+     March 2002 
+     Logic
+    Cells 
+     130nm 
+     1.5v 
+  
+      
+      
+     576 to
+    104K 
+     
+     
+  
+    Virtex-II  
+     January 2001 
+     Logic
+    Cells 
+     150nm 
+     1.5v 
+  
+      
+      
+     1.7K to
+    73K 
+     
+     
+  
+    Virtex-E  
+     September 1999 
+     Logic
+    Cells 
+     180nm 
+     1.8v 
+  
+      
+      
+     1.6K to
+    54K 
+    
+     
+  
+    Spartan®-3A  
+     December 2006 
+     Logic
+    Cells 
+     90nm 
+     1.2v 
+  
+      
+      
+     2.2K to
+      33.2K 
+    
+     
+  
+    Spartan-3E 
+
+     March 2005 
+     Logic
+    Cells 
+     90nm 
+     1.2v 
+  
+      
+      
+     1.7K to 75K
+      Logic 
+    
+     
+  
+    Spartan-3  
+     April 2003 
+     Cells 
+     90nm 
+     1.2v 
+  
+      
+      
+     1.7K to 16K
+      Logic 
+    
+     
+  
+    Spartan-IIE 
+    
+     November 2001 
+     Cells 
+     150nm 
+     1.8v 
+  
+      
+      
+     432 to
+    5.3K 
+    
+     
+  
+    Spartan-II 
+
+     January 2000 
+     Logic
+    Cells 
+     180nm 
+     2.5v 
+  
+       
+  
+      
+      
+      
+     Process 
+     
+  
+    CPLDs  
+     Date
+      Introduced 
+     Densities 
+     Technology 
+     Voltage 
+  
+      
+      
+     32 to
+    512 
+    
+     
+  
+    CoolRunner™-II  
+     January 2002 
+     Macrocells 
+     180nm 
+     1.8v 
+  
+      
+      
+     32 to
+    512 
+    
+     
+  
+    CoolRunner 
+
+     August 1999 
+     Macrocells 
+     350nm 
+     3.3v 
+  
+      
+      
+     36 to
+    288 
+    
+     
+  
+    XC9500XL  
+     September 1998 
+     Macrocells 
+     350nm 
+     3.3v 
+     Virtex
+FPGAs
+The Virtex-5 FPGA family consists of 24
+devices and is the latest generation Virtex family and the PLD industry’s first
+product family manufactured using 65-nanometer (nm) process technology. The
+Virtex-5 family consists of four platforms: Virtex-5 LX FPGAs for
+logic-intensive designs, Virtex-5 LXT FPGAs for high-performance logic with
+serial connectivity, Virtex-5 SXT FPGAs for high-performance digital signal
+processing (DSP) with serial connectivity and Virtex-5 FXT FPGAs for embedded
+processing with serial connectivity. Within each platform are a number of
+offerings, differing primarily in the amount of logic, memory, clock and
+input/output (I/O) resources provided. These offerings enable customers to
+select the optimal mix of resources for their particular application. Currently,
+Xilinx is shipping devices from all platforms. Compared to previous 90-nm Virtex
+family products, this product family offers increased performance, density and
+features, while reducing dynamic power consumption.
+The 17-device Virtex-4 FPGA family
+consists of three platforms: LX, SX and FX. Virtex-4 LX FPGAs are optimized for
+logic-intensive designs, Virtex-4 SX FPGAs are optimized for high-performance
+DSP, and Virtex-4 FX FPGAs are optimized for embedded processing with serial
+connectivity. Virtex-4 devices are produced on 90-nm process
+technology.
+Prior generation Virtex families
+include Virtex-II Pro, Virtex-II, Virtex-E and the original Virtex
+family.
+5
+
+
+     Spartan FPGAs
+The Spartan-3 generation
+FPGAs were the PLD
+industry’s first 90-nm FPGAs and were developed as a programmable alternative to
+ASICs for new applications in high growth end markets such as consumer,
+automotive and low cost networking. The Spartan-3 generation is comprised of
+three primary platforms including the original Spartan-3 family, the Spartan-3E
+family, and the Spartan-3A family. The Spartan-3E family consists of five
+devices and is optimized to deliver the lowest cost per logic cell. The
+Spartan-3A family consists of 14 devices and is optimized to deliver the lowest
+cost per I/O. In addition, this family has devices targeted for cost sensitive,
+high performance signal processing applications and nonvolatile devices
+optimized for cost sensitive applications where security and board space are
+customer priorities.
+Prior generation Spartan families
+include Spartan-IIE, Spartan-II, Spartan XL and the original Spartan
+family.
+     EasyPath FPGAs
+EasyPath™ FPGAs use the same production
+masks and fabrication process as standard FPGAs and are tested to a specific
+customer application to improve yield and lower costs. As a result, EasyPath
+FPGAs provide customers with significant cost reduction when compared to the
+standard FPGA devices without the conversion risk, conversion engineering effort
+or the additional time required to move to an ASIC. EasyPath FPGAs are available
+for the higher density devices of the Virtex-II, Virtex-II Pro and Virtex-4
+families. EasyPath FPGAs will also be available for the higher densities of the
+Virtex-5 families. Customers purchasing EasyPath FPGAs must meet certain minimum
+order requirements and pay a custom test generation charge.
+     CPLDs
+CPLDs operate on the low end of the
+programmable logic density spectrum. CPLDs are single chip, nonvolatile
+solutions characterized by instant-on and universal interconnect.
+The CoolRunner-II family is the latest
+generation Xilinx CPLD family with six devices in production. CoolRunner-II
+CPLDs combine the advantages of ultra low power consumption with the benefits of
+high performance and low cost. While CoolRunner-II is suitable for a wide
+variety of end markets and applications, the ultra low power consumption and
+small package profiles of these devices have led to their acceptance in the
+growing portable consumer electronics marketplace.
+The CoolRunner XPLA3 family was the
+first CPLD product to combine very low power consumption with high density logic
+and high I/O counts in a single device. This family consists of six
+devices.
+Prior generation CPLD families include
+the XC9500, XC9500XL and XC9500XV which offer low cost, high performance and
+in-system programmability for 5.0-volt, 3.3-volt and 2.5-volt systems,
+respectively. These families are widely used in communications and industrial
+applications.
+Support Products
+     Software
+Solutions
+We offer complete software solutions
+that enable customers to implement their design specifications into our PLDs.
+These software design tools combine a powerful technology with a flexible,
+easy-to-use graphical interface to help achieve the best possible designs within
+each customer’s project schedule, enabling use by designers with varying
+experience levels. Our software design tools operate on personal computers
+running Microsoft Windows Vista, XP and Linux operating systems.
+The Xilinx ISE® (Integrated Software Environment) Design Suite fits a wide
+range of customer needs. ISE software also integrates with a wide range of
+third-party electronic design automation (EDA) software offerings and point-tool
+solutions to deliver the most flexible design environment available.
+All Xilinx FPGA and CPLD device
+families are supported by ISE software, including the newest Virtex, Spartan and
+CoolRunner device families.
+     Processing
+Solutions
+Xilinx offerings in the areas of DSP
+and embedded processing are aimed at solving system level problems of existing
+and non-traditional users such as system architects and software engineers.
+Embedded processing solutions enable new growth
+6
+
+
+for Xilinx beyond the PLD market
+segment by building and delivering a configurable processing platform, tools,
+and IP for specific vertical markets.
+     Configuration
+Solutions
+Xilinx offers a range of one-time
+programmable and in-system programmable storage devices to configure Xilinx
+FPGAs. The PlatformFlash PROM (programmable read only memory) family is our
+newest offering. This family ranges in density from 1 to 128 megabits and offers
+full in-system programmability at the lowest cost per megabit of any Xilinx
+configuration solution. Older solutions include our XC1700 family (one-time
+programmable with density up to 16 megabits), and the XC1800 family (in-system
+programmable with density up to 4 megabits). Our PROM solutions support all of
+our FPGA devices.
+     Global Services
+To extend our customers’ technical
+capabilities and shorten their design times, we offer a portfolio of global
+services, which includes education, design and support services. In addition, we
+offer a personalized online technical resource,
+www.mysupport.xilinx.com.
+Please see information under the
+caption “Results of Operations – Net Revenues” in Item 7. “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” for
+information about our revenues from our product families.
+Research and
+Development
+Our research and development (R&D)
+activities are primarily directed towards the design of new ICs, the development
+of new software design automation tools for hardware and embedded software, the
+design of IP cores of logic and the adoption of advanced semiconductor
+manufacturing processes for ongoing cost reductions, performance and signal
+integrity improvements and lowering power consumption. As a result of our
+R&D efforts, we have introduced a number of new products during the past
+years including the Virtex-5 and Virtex-4 series of FPGAs, and the Spartan-3
+FPGA series. Additionally, we have made major enhancements to our IP core
+offerings and introduced new versions of our ISE software. To support embedded
+processing and DSP design on our platform FPGA devices, the Platform Studio tool
+suite and System Generator for DSP have been further enhanced. We extended our
+collaboration with our foundry suppliers in the development of 90-nm and 65-nm
+complementary metal oxide semiconductor (CMOS) manufacturing technology and we
+are the first company in the PLD industry to ship 65-nm devices.
+Our R&D challenge is to continue to
+develop new products that create cost-effective solutions for customers. In
+fiscal 2008, 2007 and 2006, our R&D expenses were $358.1 million, $388.1
+million and $326.1 million, respectively. We believe technical leadership and innovation
+are essential to our future success and we are committed to continuing a
+significant level of R&D effort.
+Sales and
+Distribution
+We sell our products to OEMs and to
+electronic components distributors who resell these products to OEMs or
+subcontract manufacturers.
+We use dedicated global sales and
+marketing organizations as well as independent sales representatives to generate
+sales. In general, we focus our direct demand creation efforts on a limited
+number of key accounts with independent sales representatives often addressing
+those customers in defined territories. Distributors create demand within the
+balance of our customer base. Distributors also provide vendor-managed
+inventory, value-added services and logistics for a wide range of our OEM
+customers.
+Whether Xilinx, the independent sales
+representative, or the distributor identifies the sales opportunity, a local
+distributor will process and fulfill the majority of all customer orders. In
+such situations, distributors are the sellers of the products and as such they
+bear all legal and financial risks generally related to the sale of commercial
+goods, such as credit loss, inventory shrinkage and theft, as well as foreign
+currency fluctuations, but excluding indemnity and warranty liability.
+In accordance with our distribution
+agreements and industry practice, we have granted the distributors the
+contractual right to return certain amounts of unsold product on a periodic
+basis and also receive price adjustments for unsold product in the case of a
+subsequent change in list prices. Revenue recognition on shipments to
+distributors worldwide is deferred until the products are sold to the
+distributors’ end customers.
+7
+
+
+Avnet, Inc. (Avnet) distributes the
+substantial majority of our products worldwide. No end customer accounted for
+more than 10% of our net revenues in fiscal 2008, 2007 or 2006. As of March 29,
+2008 and March 31, 2007, Avnet accounted for 83% and 86% of the Company’s total
+accounts receivable, respectively. Resale of product through Avnet accounted for
+61%, 67% and 70% of the Company’s worldwide net revenues in fiscal 2008, 2007
+and 2006, respectively. We also use other regional distributors throughout the
+world. From time to time, we may add or terminate distributors in specific
+geographies, as we deem appropriate given the level of business and their
+performance. We believe distributors provide a cost-effective means of reaching
+a broad range of customers while providing efficient logistics services. Since
+PLDs are standard products, they do not present many of the inventory risks to
+distributors posed by custom gate arrays, and they simplify the requirements for
+distributor technical support. See Note 2 to our consolidated financial
+statements, included in Item 8. “Financial Statements and Supplementary Data,”
+for information about concentrations of credit risk and Note 15 for information about our revenues from
+external customers and domestic and international operations.
+Backlog
+As of March 29, 2008, our backlog from
+OEM customers and backlog from end customers reported by our distributors
+scheduled for delivery within the next three months was $202.0 million, compared
+to $190.0 million as of March 31, 2007. Orders from end customers to our
+distributors are subject to changes in delivery schedules or to cancellation
+without significant penalty. As a result, backlogs from both OEM customers and
+end customers reported by our distributors as of any particular period may not
+be a reliable indicator of revenue for any future period.
+Wafer Fabrication
+As a fabless semiconductor company, we
+do not manufacture wafers used for our products. Rather, we purchase wafers from
+multiple foundries including United Microelectronics Corporation (UMC), Toshiba
+Corporation (Toshiba), Seiko Epson Corporation (Seiko) and He Jian Technology
+(Suzhou) Co., Ltd. Currently, UMC manufactures the substantial majority of our
+wafers. Precise terms with respect to the volume and timing of wafer production
+and the pricing of wafers produced by the semiconductor foundries are determined
+by our periodic negotiations with the wafer foundries.
+Our strategy is to focus our resources
+on market development and creating new ICs and software design tools rather than
+on wafer fabrication. We continuously evaluate opportunities to enhance foundry
+relationships and/or obtain additional capacity from our main suppliers as well
+as other suppliers of leading-edge process technologies.
+In September 1995, we entered into a
+joint venture with UMC and other parties to construct a wafer fabrication
+facility in Taiwan, known as United Silicon Inc. (USIC). In January 2000, as a
+result of the merger of USIC into UMC, our equity position in USIC was converted
+into shares of UMC, which are publicly traded on the Taiwan Stock Exchange. In
+fiscal 2007, we sold a portion of our UMC shares and we sold the remaining
+shares of our UMC investment in the fourth quarter of fiscal 2008. Also see Note
+4 to our consolidated financial statements included in Item 8. “Financial
+Statements and Supplementary Data.”
+In fiscal 1997, we signed a wafer
+purchasing agreement with Seiko that was amended in fiscal 1998, 1999 and 2000.
+Seiko manufactures wafers for our older, more mature product lines.
+In October 2004, the Company entered
+into an advanced purchase agreement with Toshiba under which the Company paid
+Toshiba a total of $100.0 million in two equal installments for advance payment
+of silicon wafers produced under the agreement. The original agreement was
+extended to December 2008. The balance of the advance payment remaining was $4.5
+million at March 29, 2008.
+Sort, Assembly and
+Test
+Wafers purchased are sorted by the
+foundry, independent sort subcontractors, or by Xilinx. Sorted die are assembled
+by subcontractors. During the assembly process, the wafers are separated into
+individual die, which are then assembled into various package types. Following
+assembly, the packaged units are tested by Xilinx personnel at our San Jose,
+California, Dublin, Ireland or Singapore facilities or by independent test
+subcontractors. We purchase most of our assembly and some of our testing
+services from Siliconware Precision Industries Ltd. in Taiwan, Amkor Technology,
+Inc. in Korea and the Philippines and STATS ChipPAC Ltd. in
+Singapore.
+Quality Certification
+Xilinx has achieved ISO 9001 quality
+certification in our San Jose, California, Dublin, Ireland, Longmont, Colorado, Singapore and
+Albuquerque locations. In addition, Xilinx achieved
+8
+
+
+ISO 14001, TL 9000 and TS 16949
+environmental and quality certifications in the San Jose, Dublin and Singapore
+locations and TL 9000 and TS16949 quality certifications in the Albuquerque
+location.
+Patents and Licenses
+While our various proprietary
+intellectual property rights are important to our success, we believe our
+business as a whole is not materially dependent on any particular patent or
+license, or any particular group of patents or licenses. As of March 29, 2008,
+we held 1,785 issued United States patents relating to our products, which vary
+in duration. We maintain an active program of filing for additional patents in
+the areas of, but not limited to, software, IC architecture, system design,
+testing methodologies and other technologies relating to PLDs. We intend to
+vigorously protect our intellectual property. We believe that failure to enforce
+our intellectual property rights (for example, patents, copyrights and
+trademarks) or failure to protect our trade secrets effectively could have an
+adverse effect on our financial condition and results of operations. In the
+future, we may incur litigation expenses to enforce our intellectual property
+rights against third parties. However, any such litigation may or may not be
+successful.
+We have acquired various software
+licenses that permit us to grant sublicenses to our customers for certain third
+party software programs licensed with our software design tools. In addition, we
+have licensed certain software for internal use in product design. We are also
+licensed under certain third party patents and have provided some third parties
+licenses under Company patents.
+Employees
+As of March 29, 2008, we had 3,415
+employees compared to 3,353 at the end of the prior fiscal year. None of our
+employees are represented by a labor union. We have not experienced any work
+stoppages and believe we maintain good employee relations.
+Executive Officers of the
+Registrant
+Certain information regarding the
+executive officers of Xilinx as of May 28, 2008 is set forth below: 
+
+
+  
+    Name 
+     
+          
+    Age 
+          
+    Position  
+  
+    Moshe
+      N. Gavrielov  
+    
+     53 
+    
+    President and Chief Executive Officer (CEO) 
+    
+  
+    Scott
+      R. Hover-Smoot  
+    
+     53 
+    
+    Vice President, General
+      Counsel and Secretary  
+  
+    Patrick W. Little  
+     
+     45 
+    
+    Senior Vice President, Products and Market
+      Development  
+  
+    Jon
+      A. Olson  
+    
+     54 
+    
+    Senior Vice President,
+      Finance and Chief Financial Officer (CFO)  
+  
+    Boon
+      C. Ooi  
+     
+     54 
+    
+    Senior Vice President, Worldwide Operations and
+      Business Process Reengineering  
+  
+    Victor Peng  
+    
+     48 
+     
+    Senior Vice President,
+      Silicon Engineering Group  
+  
+    Vincent F. Ratford  
+    
+     56 
+    
+    Senior Vice President, Solutions Development
+      Group  
+  
+    Frank
+      A. Tornaghi  
+    
+     53 
+    
+    Senior Vice President,
+      Worldwide Sales  
+There are no family relationships among
+the executive officers of the Company or the Board of Directors.
+Moshe N. Gavrielov joined the Company
+in January 2008 as President and CEO and was appointed to the Board of Directors
+in February 2008. Prior to joining the Company, he served at Cadence Design
+Systems, Inc., an electronic design automation company, as Executive Vice
+President and General Manager of the Verification Division from April 2005
+through November 2007. Mr. Gavrielov served as CEO of Verisity Ltd., an
+electronic design automation company, from March 1998 to April 2005 prior to its
+acquisition by Cadence Design Systems, Inc. Prior to joining Verisity, Mr.
+Gavrielov spent nearly 10 years at LSI Corporation (formerly LSI Logic
+Corporation), a semiconductor manufacturer, in a variety of executive management
+positions, including Executive Vice President of the Products Group, Senior Vice
+President and General Manager of International Marketing and Sales and Senior
+Vice President and General Manager of LSI Logic Europe plc. Prior to joining LSI
+Corporation, Mr. Gavrielov held various engineering and engineering management
+positions at Digital Equipment Corporation and National Semiconductor
+Corporation.
+Scott R. Hover-Smoot joined the Company
+in October 2007 as Vice President, General Counsel and Secretary. From November
+2001 to October 2007, Mr. Hover-Smoot served as Regional Counsel and Director of
+Legal Operations with Taiwan Semiconductor Manufacturing Company, Ltd., an
+independent semiconductor foundry. He served as Vice President and General
+Counsel of California Micro Devices Corporation, a provider of
+application-specific protection devices and display electronics devices from
+June 1994 to November 2001. Prior to joining California Micro Devices
+Corporation, Mr. Hover-Smoot spent over 20 years working in law firms including
+Berliner-Cohen, Flehr, Hohbach, Test, Albritton & Herbert, and Lyon &
+Lyon.
+9
+
+
+Patrick W. Little joined the Company in
+March 2003 as Vice President and General Manager. He was promoted in March 2005
+to Vice President of Worldwide Sales and to Vice President, Worldwide Sales and
+Services in December 2005. Mr. Little assumed the position of Vice President and
+General Manager in February 2008. He was promoted to his current position of
+Senior Vice President, Products and Market Development in April 2008. From
+September 1999 to March 2003, he served as President and CEO of Believe, Inc., a
+computer graphics imaging company. Mr. Little served as Executive Vice President
+of Sales and Marketing at Rendition, Inc., a graphics IC company, from March
+1998 to September 1999. He was General Manager of the Audio Business Division of
+Diamond Multimedia Systems, Inc., and held various senior management positions
+at Trident Microsystems, Inc. and Opti, Inc., from 1992 to 1998.
+Jon A. Olson joined the Company in June
+2005 as Vice President, Finance and CFO. Mr. Olson was
+promoted to his current position of Senior Vice President, Finance and CFO in August 2006. Prior to joining the Company, Mr. Olson spent
+more than 25 years at Intel Corporation, a semiconductor chip maker, serving in
+a variety of positions, including Vice President, Finance and Enterprise
+Services, Director of Finance.
+Boon C. Ooi joined the Company in
+November 2003 as Vice President, Worldwide Operations. Mr. Ooi was promoted to
+his current position of Senior Vice President, Worldwide Operations and Business
+Process Reengineering in November 2007. Prior to joining the Company, Mr. Ooi
+spent more than 25 years at Intel Corporation serving in a variety of positions,
+including Vice President of the Corporate Technology Group and Director of
+Operations.
+Victor Peng joined the Company in April
+2008 as Senior Vice President, Silicon Engineering Group. Prior to joining the
+Company, Mr. Peng served as Corporate Vice President, Graphics Products Group at
+Advanced Micro Devices (AMD), a provider of processing solutions, from November
+2005 to April 2008. Before joining AMD, Mr. Peng served as Vice President of
+Silicon Engineering in the Graphics Products Group business unit at ATI
+Technologies, a graphics processor unit provider, from April 2005 until its
+acquisition by AMD. Before joining ATI Technologies, Mr. Peng served as Vice
+President of Engineering at TZero Technologies, a fabless semiconductor company,
+from September 2004 to April 2005. From November 2000 to September 2004, Mr.
+Peng served as Vice President of Engineering at MIPS Technologies, a
+semiconductor design IP company.
+Vincent F. Ratford joined the Company
+in January 2006 as Vice President of Marketing, Business Development and Silicon
+Architecture. Mr. Ratford was promoted to Vice President and General Manager in
+October 2007. He was promoted to his current position of Senior Vice President,
+Solutions Development Group in April 2008. Prior to joining the Company, he
+served as President and CEO of AccelChip, Inc. (AccelChip), a provider of
+synthesis software tools for designing DSP systems, from July 2004 until its
+acquisition by Xilinx in January 2006. Prior to that, Mr. Ratford operated the
+consulting firm, DeepTech Consulting, from April 2002 to July 2004. Mr. Ratford
+worked at Virage Logic Corporation, a provider of semiconductor IP, as Vice
+President of Marketing and Business Development from July 2000 to April 2002 and
+as Vice President of Sales and Marketing from February 1998 to July 2000. Before
+joining Virage Logic, Mr. Ratford served as Chief Operating Officer of the
+Microtec Division of Mentor Graphics, a provider of hardware and software design
+solutions to semiconductor companies, from October 1995 to December 1997. Before
+joining the Microtec Division, he was Director of Marketing for Mentor Graphics’
+System Design Division from May 1993 to October 1995.
+Frank A. Tornaghi joined the Company in
+February 2008 as Vice President, Worldwide Sales and was promoted to his current
+position of Senior Vice President, Worldwide Sales in April 2008. Prior to
+joining the Company, Mr. Tornaghi spent 22 years at LSI Corporation. Mr.
+Tornaghi acted as an independent consultant from April 2006 until he joined the
+Company. He served as Executive Vice President, Worldwide Sales at LSI
+Corporation from July 2001 to April 2006 and as Vice President, North America
+Sales, from May 1993 to July 2001. From 1984 until May 1993, Mr. Tornaghi held
+various management positions in sales at LSI Corporation.
+Additional
+Information
+Our Internet address is www.xilinx.com. We make available, via a link through our investor relations website
+located at www.investor.xilinx.com, access to our
+Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on
+Form 8-K and any amendments to those reports filed or furnished pursuant to
+Section 13(a) or 15(d) of the U.S. Securities Exchange Act of 1934, as amended
+(Exchange Act) as soon as reasonably practicable after they are electronically
+filed with or furnished to the Securities and Exchange Commission (SEC). All
+such filings on our investor relations website are available free of charge.
+Printed copies of these documents are also available to stockholders without
+charge, upon written request directed to Xilinx, Inc., Attn: Investor Relations,
+2100 Logic Drive, San Jose, CA 95124. Further, a copy of this Annual Report on
+Form 10-K is located at the SEC’s Public Reference Room at 450 Fifth Street, NW,
+Washington, D.C. 20549. Information on the operation of the Public Reference
+Room can be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains an
+Internet site that contains reports, proxy and information statements and other
+information regarding our filings at http://www.sec.gov. The content on any
+website referred to in this filing is not incorporated by reference into this
+filing unless expressly noted otherwise.
+10
+
+
+Additional information required by this
+Item 1 is incorporated by reference to the section captioned “Net Revenues – Net
+Revenues by Geography” in Item 7. “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations” and to Note 14 to our
+consolidated financial statements, included in Item 8. “Financial Statements and
+Supplementary Data.”
+This annual report includes trademarks
+and service marks of Xilinx and other companies that are unregistered and
+registered in the United States and other countries.
+ITEM 1A. RISK FACTORS
+The following risk factors and other
+information included in this Annual Report on Form 10-K should be carefully
+considered. The risks and uncertainties described below are not the only risks
+to the Company. Additional risks and uncertainties not presently known to the
+Company or that the Company’s management currently deems immaterial also may
+impair its business operations. If any of the risks described below were to
+occur, our business, financial condition, operating results and cash flows could
+be materially adversely affected.
+The semiconductor industry is
+characterized by cyclical market patterns and a significant industry downturn
+could adversely affect our operating results.
+The semiconductor industry is highly
+cyclical and our financial performance has been affected by downturns in the
+industry. The down cycles are generally characterized by price erosion and
+weaker demand for our products. Weaker demand for our products resulting from
+economic conditions in the end markets we serve and reduced capital spending by
+our customers can result in excess and obsolete inventories and corresponding
+inventory write-downs. We attempt to identify changes in market conditions as
+soon as possible; however, the dynamics of the market make prediction of and
+timely reaction to such events difficult. Due to these and other factors, our
+past results are much less reliable predictors of the future than with companies
+in older, more stable industries.
+The nature of our business makes our
+revenues difficult to predict which could have an adverse impact on our
+business.
+In addition to the challenging market
+conditions we may face, we have limited visibility into the demand for our
+products, particularly new products, because demand for our products depends
+upon our products being designed into our end customer’s products and those
+products achieving market acceptance. Due to the complexity of our products, the
+design to production process requires a substantial amount of time, frequently
+longer than a year. In addition, we are increasingly dependent upon “turns,”
+orders received and turned for shipment in the same quarter and we have
+historically derived a significant portion of our quarterly revenue during the
+last weeks of the quarter. These factors make it difficult for us to forecast
+future sales and project quarterly revenues. The difficulty in forecasting
+future sales impairs our ability to project our inventory requirements, which
+could result in inventory write-downs or failure to meet customer requirements.
+In addition, difficulty in forecasting revenues compromises our ability to
+provide forward-looking revenue and earnings guidance.
+Global economic conditions, the
+economic conditions of the countries in which we operate and currency
+fluctuations could negatively impact our financial condition and results of
+operations.
+We derive a substantial portion of our
+revenues from international sales. International sales accounted for
+approximately 61% of our net revenues in fiscal 2008, and 60% and 59% of our net
+revenues in fiscal 2007 and 2006, respectively. We also have significant
+international operations, including foreign sales offices to support our
+international customers and distributors and our regional headquarters in
+Ireland and Singapore. Sales and operations outside of the U.S. subject us to
+the risks associated with conducting business in foreign economic and regulatory
+environments. Our financial condition and results of operations could be
+adversely affected by unfavorable economic conditions in countries in which we
+do significant business or by changes in foreign currency exchange rates
+affecting those countries. For example, we have sales and operations in the Asia
+Pacific region, Japan and Europe. Past economic weakness in these markets
+adversely affected revenues, and such conditions may occur in the future. Sales
+to all direct OEMs and distributors are denominated in U.S. dollars. While the
+recent movement of the Euro and Yen against the U.S. dollar had no material
+impact to our business, increased volatility could impact our European and
+Japanese customers. Currency instability may increase credit risks for some of
+our customers and may impair our customers' ability to repay existing
+obligations. Increased currency volatility could also positively or negatively
+impact our foreign currency denominated costs, assets and liabilities.
+Furthermore, because we are increasingly dependent on the global economy,
+instability in worldwide economic environments occasioned, for example, by
+political instability, terrorist activity or U.S. military actions could impact
+economic activity and lead to a contraction of capital spending by our
+customers. Any or all of these factors could adversely affect our financial
+condition and results of operations in the future.
+11
+
+
+
+
+We are subject to the risks associated
+with conducting business operations outside of the U.S. which could adversely
+affect our business.
+In addition to international sales and
+support operations, we purchase our wafers from foreign foundries and have our
+commercial products assembled, packaged and tested by subcontractors located
+outside the U.S. All of these activities are subject to the uncertainties
+associated with international business operations, including tax laws and
+regulations, trade barriers, economic sanctions, import and export regulations,
+duties and tariffs and other trade restrictions, changes in trade policies,
+other foreign governmental regulations, reduced protection for IP, longer
+receivable collection periods and disruptions or delays in production or
+shipments, any of which could have a material adverse effect on our business,
+financial condition and/or operating results. Additional factors that could
+adversely affect us due to our international operations include rising oil
+prices and increased costs of natural resources. Moreover, our financial
+condition and results of operations could be affected in the event of political
+conflicts or economic crises in countries where our main wafer providers, end
+customers and contract manufacturers who provide assembly and test services
+worldwide, are located. Adverse change to the circumstances or conditions of our
+international business operations could have a material adverse effect on our
+business. 
+Our success depends on our ability to
+develop and introduce new products and failure to do so would have a material
+adverse impact on our financial condition and results of operations.
+
+Our success depends in large part on our
+ability to develop and introduce new products that address customer requirements
+and compete effectively on the basis of price, density, functionality, power
+consumption and performance. The success of new product introductions is
+dependent upon several factors, including: 
+
+  timely completion of new product designs;
+  ability to generate new design opportunities or “design
+  wins”; 
+  availability of specialized field application engineering
+  resources supporting demand creation and customer adoption of new
+  products;
+  ability to utilize advanced manufacturing process
+  technologies on circuit geometries of 65nm and smaller;
+  achieving acceptable yields;
+  ability to obtain adequate production capacity from our wafer
+  foundries and assembly subcontractors;
+  ability to obtain advanced packaging;
+  availability of supporting software design tools;
+  utilization of predefined IP cores of logic;
+  customer acceptance of advanced features in our new products;
+  and
+  successful deployment of electronic systems by our
+  customers.
+Our product development efforts may not be
+successful, our new products may not achieve industry acceptance and we may not
+achieve the necessary volume of production that would lead to further per unit
+cost reductions. Revenues relating to our mature products are expected to
+decline in the future, which is normal for our product life cycles. As a result,
+we may be increasingly dependent on revenues derived from design wins for our
+newer products as well as anticipated cost reductions in the manufacture of our
+current products. We rely primarily on obtaining yield improvements and
+corresponding cost reductions in the manufacture of existing products and on
+introducing new products that incorporate advanced features and other
+price/performance factors that enable us to increase revenues while maintaining
+consistent margins. To the extent that such cost reductions and new product
+introductions do not occur in a timely manner, or to the extent that our
+products do not achieve market acceptance at prices with higher margins, our
+financial condition and results of operations could be materially adversely
+affected. 
+We are dependent on independent
+foundries for the manufacture of all of our products and a manufacturing problem
+or insufficient foundry capacity could adversely affect our
+operations.
+During fiscal 2008, nearly all of our
+wafers were manufactured either in Taiwan, by UMC or in Japan, by Toshiba or
+Seiko. Terms with respect to the volume and timing of wafer production and the
+pricing of wafers produced by the semiconductor foundries are determined by
+periodic negotiations between Xilinx and these wafer foundries, which usually
+result in short-term agreements that do not provide for long-term supply or
+allocation commitments. We are dependent on these foundries, especially UMC,
+which supplies the substantial majority of our wafers. We rely on UMC to produce
+wafers with competitive performance and cost attributes. These attributes
+include an ability to transition to advanced manufacturing process technologies
+and increased wafer sizes, produce wafers at acceptable yields, and deliver them
+in a timely manner. We cannot guarantee that the foundries that supply our
+wafers will not experience manufacturing problems, including delays in the
+realization of advanced manufacturing process technologies or difficulties due
+to limitations of new and 
+12 
+
+
+existing process technologies.
+Furthermore, we cannot guarantee our foundries will be able to manufacture
+sufficient quantities of our products. Any manufacturing problem or insufficient
+foundry capacity could disrupt our operations.
+We have established other sources of wafer
+supply for our products in an effort to secure a continued supply of wafers.
+However, establishing, maintaining and managing multiple foundry relationships
+requires the investment of management resources as well as additional costs. If
+we do not manage these relationships effectively, it could adversely affect our
+results of operations. 
+Increased costs of wafers and
+materials, or shortages in wafers and materials, could adversely impact our
+gross margins and lead to reduced revenues. 
+If greater demand for wafers produced by
+the foundries is not offset by an increase in foundry capacity, or market demand
+for wafers or production and assembly materials increases, our supply of wafers
+and other materials could become limited. Such shortages raise the likelihood of
+potential wafer price increases and wafer shortages or shortages in materials at
+our production and test facilities. Such increases in wafer prices or materials
+could adversely affect our gross margins and shortages of wafers and materials
+would adversely affect our ability to meet customer demands.
+Earthquakes and other natural disasters
+could disrupt our operations and have a material adverse affect on our financial
+condition and results of operations.
+The independent foundries, upon which we
+rely to manufacture our products, as well as our California and Singapore
+facilities, are located in regions that are subject to earthquakes and other
+natural disasters. UMC’s foundries in Taiwan and Toshiba’s and Seiko’s foundries
+in Japan as well as many of our operations in California are centered in areas
+that have been seismically active in the recent past and some areas have been
+affected by other natural disasters. Any catastrophic event in these locations
+will disrupt our operations, including our manufacturing activities. This type
+of disruption could result in our inability to manufacture or ship products,
+thereby materially adversely affecting our financial condition and results of
+operations. Additionally, disruption of operations at these foundries for any
+reason, including other natural disasters such as typhoons, fires or floods, as
+well as disruptions in access to adequate supplies of electricity, natural gas
+or water could cause delays in shipments of our products, and could have a
+material adverse effect on our results of operations.
+We are dependent on independent
+subcontractors for most of our assembly and test services and unavailability or
+disruption of these services could negatively impact our financial condition and
+results of operations. 
+We are also dependent on subcontractors to
+provide semiconductor assembly, substrate, test and shipment services. Any
+prolonged inability to obtain wafers with competitive performance and cost
+attributes, adequate yields or timely delivery, any disruption in assembly, test
+or shipment services, or any other circumstance that would require us to seek
+alternative sources of supply, could delay shipments and have a material adverse
+effect on our ability to meet customer demands. These factors would result in
+reduced net revenues and could negatively impact our financial condition and
+results of operations.
+If we are not able to successfully
+compete in our industry, our financial results and future prospects will be
+adversely affected.
+Our PLDs compete in the logic IC industry,
+an industry that is intensely competitive and characterized by rapid
+technological change, increasing levels of integration, product obsolescence and
+continuous price erosion. We expect increased competition from our primary PLD
+competitors, Altera Corporation, Lattice Semiconductor Corporation and
+Actel Corporation, from the ASIC market, which has been ongoing since the
+inception of FPGAs, from the ASSP market, and from new companies that may enter
+the traditional programmable logic market segment. We believe that important
+competitive factors in the logic industry include: 
+
+  product pricing;
+  time-to-market;
+  product performance, reliability, quality, power consumption
+  and density;
+  field upgradability;
+  adaptability of products to specific applications;
+  ease of use and functionality of software design
+tools;
+  availability and functionality of predefined IP cores of
+  logic;
+  inventory management;
+  access to leading-edge process technology and assembly
+  capacity; and
+  ability to provide timely customer service and
+  support.
+13
+
+
+Our strategy for expansion in the logic
+market includes continued introduction of new product architectures that address
+high-volume, low-cost and low-power applications as well as high-performance,
+high-density applications. In addition, we anticipate continued price reductions
+proportionate with our ability to lower the cost for established products.
+However, we may not be successful in achieving these strategies.
+Other competitors include manufacturers
+of:
+
+  high-density programmable logic products
+  characterized by FPGA-type architectures;
+  high-volume and low-cost FPGAs as programmable replacements
+  for ASICs and ASSPs;
+  ASICs and ASSPs with incremental amounts of embedded
+  programmable logic;
+  high-speed, low-density CPLDs;
+  high-performance DSP devices;
+  products with embedded processors;
+  products with embedded multi-gigabit transceivers; and
+
+  other new or emerging programmable logic
+products.
+Several companies have introduced products
+that compete with ours or have announced their intention to enter the PLD market
+segment. To the extent that our efforts to compete are not successful, our
+financial condition and results of operations could be materially adversely
+affected. 
+The benefits of programmable logic have
+attracted a number of competitors to the market segment. We recognize that
+different applications require different programmable technologies, and we are
+developing architectures, processes and products to meet these varying customer
+needs. Recognizing the increasing importance of standard software solutions, we
+have developed common software design tools that support the full range of our
+IC products. We believe that automation and ease of design are significant
+competitive factors in the PLD market segment. 
+We could also face competition from our
+licensees. In the past we have granted limited rights to other companies with
+respect to certain of our older technology, and we may do so in the future.
+Granting such rights may enable these companies to manufacture and market
+products that may be competitive with some of our older products.
+Our failure to protect and defend our
+intellectual properly could impair our ability to compete
+effectively.
+We rely upon patent, copyright, trade
+secret, mask work and trademark laws to protect our intellectual property. We
+cannot provide assurance that such intellectual property rights can be
+successfully asserted in the future or will not be invalidated, circumvented or
+challenged. From time to time, third parties, including our competitors, have
+asserted against us patent, copyright and other intellectual property rights to
+technologies that are important to us. Third parties may assert infringement
+claims against our indemnitees or us in the future. Assertions by third parties
+may result in costly litigation or indemnity claims and we may not prevail in
+such matters or be able to license any valid and infringed patents from third
+parties on commercially reasonable terms. Any infringement claim,
+indemnification claim, or impairment or loss of use of our intellectual property
+could materially adversely affect our financial condition and results of
+operations.
+Considerable amounts of our common
+shares are available for issuance under our equity incentive plans and
+debentures, and significant issuances in the future may adversely impact the
+market price of our common shares.
+
+As of March 29, 2008, we had 2.00 billion
+authorized common shares, of which 280.5 million shares were outstanding. In
+addition, 68.9 million common shares were reserved for issuance pursuant to our
+equity incentive plans and 1990 Employee Qualified Stock Purchase Plan (Employee
+Stock Purchase Plan), and 32.1 million shares were reserved for issuance upon
+conversion or repurchase of the 3.125% convertible debentures due March 15, 2037
+(debentures). The availability of substantial amounts of our common shares
+resulting from the exercise or settlement of equity awards outstanding under our
+equity incentive plans or the conversion or repurchase of debentures using
+common shares, which would be dilutive to existing stockholders, could adversely
+affect the prevailing market price of our common shares and could impair our
+ability to raise additional capital through the sale of equity
+securities.
+We rely on information technology
+systems, and failure of these systems to function properly could result in
+business disruption. 
+We rely in part on various information
+technology (IT) systems to manage our operations including financial reporting
+and we regularly evaluate these systems and make changes to improve them as
+necessary. Consequently, we periodically implement new, or enhance existing,
+operational and IT systems, procedures and controls. Any delay in the
+implementation of, or disruption in the transition to, new or enhanced systems,
+procedures or controls, could harm our ability to record and 
+14 
+
+
+report financial and management
+information on a timely and accurate basis. Further, these systems are subject
+to power and telecommunication outages or other general system failure. Failure
+of our IT systems or difficulties in managing them could result in business
+disruption. 
+If we do not successfully manage the
+transitions associated with our new management, our ability to compete could be
+adversely affected. 
+On January 7, 2008, we announced the
+appointment of Moshe N. Gavrielov as our new President and CEO concurrent with
+the retirement of Willem P. Roelandts from these positions. Our new CEO has made
+organizational changes, including changes to our management team and may make
+future changes to our Company’s structure. It is important for us to
+successfully manage these transitions as our failure to do so could adversely
+affect our ability to compete effectively. 
+If we are unable to maintain effective
+internal controls, our stock price could be adversely affected.
+We are subject to the ongoing internal
+control provisions of Section 404 of the Sarbanes-Oxley Act of 2002 (the Act).
+Our controls necessary for continued compliance with the Act may not operate
+effectively at all times and may result in a material weakness disclosure. The
+identification of material weaknesses in internal control, if any, could
+indicate a lack of proper controls to generate accurate financial statements and
+could cause investors to lose confidence and our stock price to drop. Further,
+our internal control effectiveness may be impacted if we are unable to retain
+sufficient skilled finance and accounting personnel, especially in light of the
+increased demand for such personnel among publicly traded companies. 
+Unfavorable results of legal
+proceedings could adversely affect our financial condition and operating
+results. 
+From time to time we are subject to
+various legal proceedings and claims that arise out of the ordinary conduct of
+our business. Certain claims are not yet resolved, including those that are
+discussed in Item 3, "Legal Proceedings," and additional claims may arise in the
+future. Results of legal proceedings cannot be predicted with certainty.
+Regardless of its merit, litigation may be both time-consuming and disruptive to
+our operations and cause significant expense and diversion of management
+attention and we may enter into material settlements to avoid these risks.
+Should the Company fail to prevail in certain matters, or should several of
+these matters be resolved against us in the same reporting period, we may be
+faced with significant monetary damages or injunctive relief against us that
+would materially and adversely affect a portion of our business and might
+materially and adversely affect our financial condition and operating results.
+
+We are exposed to fluctuations in
+interest rates and changes in credit rating and in the market values of our
+portfolio investments which could adversely impact our financial condition and
+results of operations.
+Our cash, short-term and long-term
+investments represent significant assets that may be subject to fluctuating and
+even negative returns depending upon interest rate movements and financial
+market conditions. Since September 2007, the global credit markets have
+experienced adverse conditions due to the increased concerns related to the U.S.
+sub-prime mortgage market that have negatively impacted the values of various
+types of investment and non-investment grade securities. As of March 29, 2008,
+approximately 4% of our investment portfolio consisted of AAA-rated auction rate
+securities which are secured primarily by pools of student loans originated
+under the Federal Family Education Loan Program (FFELP) that are guaranteed by
+the U. S. Department of Education. These securities experienced failed auctions
+in the fourth quarter of fiscal 2008 due to liquidity issues in the global
+credit markets. In a failed auction, the interest rates are reset to a maximum
+rate defined by the contractual terms for each security. We have collected and
+expect to collect all interest payable on these securities when due. As of March
+29, 2008, the securities were reclassified from short-term to long-term
+investments on the consolidated balance sheet to reflect the securities’ final
+maturity dates since there can be no assurance of a successful auction in the
+future. The auction rate securities described above are a type of asset-backed
+securities. All other asset-backed securities comprised less than 5% of our
+investment portfolio as of March 29, 2008 and were all AAA rated with the
+exception of approximately $37.0 million of asset-backed securities that were
+downgraded in April 2008 to AA or A rating. These asset-backed securities are
+secured primarily by bank, finance and insurance company obligations,
+collateralized loan and bank obligations, mortgage-backed securities with no
+direct sub-prime exposure and credit card debt. Substantially all of the other
+mortgage-backed securities in the investment portfolio are AAA rated, were
+issued by U.S. government-sponsored enterprises and agencies and represented
+less than 9% of the portfolio as of March 29, 2008. As a result of these recent
+adverse conditions in the global credit markets, there is a risk that we may
+incur other-than-temporary impairment charges for certain types of investments
+such as asset-backed securities should the credit markets experience further
+deterioration. Our future investment income may fall short of expectations due
+to changes in interest rates or if the decline in fair values of our debt and
+equity securities is judged to be other-than-temporary. Furthermore, we may
+suffer losses in principal if we are forced to sell securities that have
+declined in market value due to changes in interest rates or financial market
+conditions. Please see Note 5 to our consolidated financial statements, included
+in Item 8. “Financial Statements and Supplementary Data,” for additional
+information about our investments.
+15 
+
+
+Our products could have quality
+problems which could result in reduced revenues and claims against
+us.
+We develop complex and evolving
+products that include both hardware and software. Despite our testing efforts
+and those of our subcontractors, defects may be found in existing or new
+products. These defects may cause us to incur significant warranty, support and
+repair or replacement costs, divert the attention of our engineering personnel
+from our product development efforts and harm our relationships with customers.
+Product defects or other performance problems could result in the delay or loss
+of market acceptance of our products and would likely harm our business. Our
+customers could also seek damages from us for their losses. A product liability
+claim brought against us, even if unsuccessful, would likely be time-consuming
+and costly to defend. Product liability risks are particularly significant with
+respect to aerospace, automotive and medical applications because of the risk of
+serious harm to users of these products. Any product liability claim, whether or
+not determined in our favor, could result in significant expense, divert the
+efforts of our technical and management personnel, and harm our
+business.
+In preparing our financial
+statements, we make good faith estimates and judgments that may change or turn
+out to be erroneous. 
+In preparing our financial statements
+in conformity with accounting principles generally accepted in the United
+States, we must make estimates and judgments in applying our most critical
+accounting policies. Those estimates and judgments have a significant impact on
+the results we report in our consolidated financial statements. The most
+difficult estimates and subjective judgments that we make concern valuation of
+marketable and non-marketable securities, revenue recognition, inventories,
+long-lived assets, taxes, legal matters and stock-based compensation. We base
+our estimates on historical experience and on various other assumptions that we
+believe to be reasonable under the circumstances, the results of which form the
+basis for making judgments about the carrying values of assets and liabilities
+that are not readily apparent from other sources. We also have other key
+accounting policies that are not as subjective, and therefore, their application
+would not require us to make estimates or judgments that are as difficult, but
+which nevertheless could significantly affect our financial reporting. Actual
+results may differ materially from these estimates. If these estimates or their
+related assumptions change, our operating results for the periods in which we
+revise our estimates or assumptions could be adversely and perhaps materially
+affected.
+We depend on distributors, primarily
+Avnet, to generate a majority of our sales and complete order fulfillment.
+
+We rely on distributors throughout the
+world to assist us in demand creation, technical support, order processing and
+order fulfillment. Resale of product through Avnet accounted for 61% of the
+Company’s worldwide net revenues in fiscal 2008 and as of March 29, 2008, Avnet
+accounted for 83% of our accounts receivable. If a key distributor such as Avnet
+materially defaults on a contract or fails to perform, our business and
+financial results would suffer. 
+Reductions in the average selling
+prices of our products could have a negative impact on our gross margins.
+
+The average selling prices of our
+products generally decline as the products mature. We seek to offset the
+decrease in selling prices through yield improvement, manufacturing cost
+reductions and increased unit sales. However, there is no guarantee that our
+ongoing efforts will be successful or that they will keep pace with the decline
+in selling prices of our products, which could ultimately lead to a decline in
+revenues and have a negative effect on our gross margins.
+A number of factors can impact our
+gross margins.
+A number of factors, including our
+product mix, market acceptance of our new products, competitive pricing
+dynamics, geographic and/or market segment pricing strategies and various
+manufacturing cost variables cause our gross margins to fluctuate. In addition,
+forecasting our gross margins is difficult because the majority of our business
+is based on turns within the same quarter.
+ITEM 1B

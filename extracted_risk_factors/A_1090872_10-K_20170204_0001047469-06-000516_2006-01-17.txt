@@ -1,0 +1,1547 @@
+Item 1A and elsewhere in this
+Form 10-K. 
+
+<A
+NAME="dc1015_part_i"> 
+ 
+PART I        
+
+Item 1.    Business  
+
+Overview  
+
+        Agilent Technologies, Inc. ("we", "Agilent" or the "company"), incorporated in Delaware in May 1999, is the world's premier measurement company
+providing core bio-analytical and electronic measurement solutions to the communications, electronics, life sciences and chemical analysis industries. 
+
+
+        We
+currently have three primary businesses: 
+
+
+
+•electronic
+measurement;
+•bio-analytical
+measurement; and
+•semiconductor
+test solutions. 
+
+
+        In
+August 2005, the Board of Directors of Agilent approved the divestiture of our semiconductor products business. We subsequently signed an Asset Purchase Agreement with Avago
+Technologies Ltd. (f/k/a Argos Acquisition Pte. Ltd.) ("Avago") providing for the sale of our semiconductor products business for approximately $2.66 billion. We have reflected
+the semiconductor products business as a discontinued operation for all periods presented in this Annual Report on Form 10-K. In December 2005, we completed the sale of our
+semiconductor products business to Avago. For further information, see Note 24, "Subsequent Events", to our consolidated financial statements. 
+
+        Our
+electronic measurement and semiconductor test solutions businesses focus on growth opportunities in the communications and electronics industries, while our
+bio-analytical measurement business focuses on core business and growth opportunities in the life sciences industry and in the environmental, chemical, food and petrochemical industries. 
+
+5
+
+
+
+
+ 
+
+
+        We
+sell our products primarily through direct sales, but we also utilize distributors, resellers, manufacturer's representatives, telesales and electronic commerce. Of our total net
+revenue of $5.1 billion for the fiscal year ended October 31, 2005, we generated 35 percent in the United States ("U.S.") and 65 percent outside the U.S. As of
+October 31, 2005, we employed approximately 21,000 people worldwide, excluding our former semiconductor products business employees. Our primary research, development and manufacturing sites
+are in California, Colorado, Delaware and Washington in the U.S. and in China, Germany, Japan, Malaysia, Singapore and the United Kingdom ("U.K."). 
+
+        Net
+revenue for each of our businesses for the years ended October 31, 2005, 2004 and 2003 was: 
+
+
+
+
+ 
+ 
+2005
+ 
+2004
+ 
+2003
+
+
+ 
+ 
+(in millions) 
+
+
+Electronic Measurement
+ 
+$
+3,265
+ 
+$
+3,225
+ 
+$
+2,746
+
+
+Bio-analytical Measurement
+ 
+ 
+1,421
+ 
+ 
+1,333
+ 
+ 
+1,186
+
+
+Semiconductor Test Solutions
+ 
+ 
+453
+ 
+ 
+602
+ 
+ 
+538
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+ 
+ Total Net Revenue
+ 
+$
+5,139
+ 
+$
+5,160
+ 
+$
+4,470
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+        More
+financial information about our businesses is contained in Note 23, "Segment Information", to our consolidated financial statements. 
+
+Electronic Measurement Business  
+
+        Our electronic measurement business provides standard and customized electronic measurement instruments and systems, monitoring, management and optimization tools
+for communications networks and services, software design tools and related services that are used in the design, development, manufacture, installation, deployment and operation of electronics
+equipment and communications networks and services. Related services include start-up assistance, instrument productivity and application services and instrument calibration and repair. We
+also offer customization, consulting and optimization services throughout the customer's product lifecycle. 
+
+        Our
+electronic measurement business employed approximately 11,500 people as of October 31, 2005. We sell our electronic measurement products through direct sales, distributors,
+resellers, manufacturer's representatives, telesales and electronic commerce. Our electronic measurement business generated $3.3 billion in revenue in fiscal 2005, $3.2 billion in
+revenue in fiscal 2004 and $2.7 billion in revenue in fiscal 2003. 
+
+
+
+ Electronic Measurement Markets  
+
+
+
+        Our electronic measurement products compete in the communications test market and the general purpose test market. 
+
+
+
+ The Communications Test Market  
+
+
+
+        We market our communications test products and services to handset manufacturers, Network Equipment Manufacturers ("NEMs") and communications service providers.
+NEMs manufacture and sell products to facilitate the transmission of voice and data traffic. The NEMs' customers are the distributors of end-user subscriber devices, including cell
+phones and personal digital assistants ("PDAs"), as well as communications service providers that deploy and operate the networks and services. To meet their customers' demands, NEMs require
+test and measurement instruments, systems and solutions for the development, production and installation of each network technology. 
+
+6
+
+
+
+
+ 
+
+        Communications
+service providers require reliable network equipment that enables their networks and services to operate at ever-faster speeds, permits an expanding capacity
+and provides quick feedback. To achieve this, communications service providers require a range of sophisticated test instruments and systems to evaluate network performance and to identify any sources
+of communications failure. 
+
+        Agilent's
+communications service provider customers require advanced software and systems, known as operations support systems ("OSS"), to monitor and manage the network infrastructure
+and services on a continuous, proactive basis to achieve either regulated or customer-specified service levels. 
+
+
+
+ The General Purpose Test Market  
+
+
+
+        We market our general purpose test products and services to the electronics industry. The electronics industry designs, develops and manufactures a wide range of
+products, including those produced in high volumes, such as computers, computer peripherals, electronic components, consumer electronics, enterprise servers, storage networks and communications
+devices, including PDAs. The components, printed circuit assemblies and functional devices for these products may be designed, developed and manufactured by electronic components companies, by
+original equipment manufacturers or by contract manufacturers. For the development and timely commercialization of new technologies, manufacturers require
+state-of-the-art test instruments, systems and software design tools in order to design products for efficient and cost-effective manufacturing and to
+validate product performance in a variety of configurations and
+environments. They also demand automated functional test systems, which test an electronic device as if it were in use in its final environment. 
+
+        We
+also sell to the electronics manufacturing test markets, the parametric test markets and the flat panel display ("FPD") markets. Customers in these markets use our test equipment for
+structural and electrical board assembly testing, wafer-level parametric testing, and inspection for printed circuit board assemblies and thin-film transistor ("TFT") array test for FPDs. 
+
+
+
+ Electronic Measurement Products  
+
+
+
+        We divide our electronic measurement products into communications test products and general purpose test products. 
+
+
+
+ Communications Test Products  
+
+
+
+        We sell communications test products and services for the following types of communications networks and systems: fiber optics networks, transport networks,
+broadband and data networks, wireless communications and microwave networks. In addition, we provide assistance with installation and maintenance of our products and OSS. 
+
+        Our
+fiber optic network test products include optical signal instruments, spectrum analysis instruments and lightwave optical systems, such as optical amplifier test, passive component
+test and jitter test instruments, tunable laser sources, multi-wavelength meters, photonic all-parameter testers and high-speed bit-error rate testers that measure
+key transmission properties of high-speed optical and electrical signals. 
+
+        Our
+broadband and data network test products include our Network Analyzer and Router Testers. Our Network Analyzer product line helps to troubleshoot high-speed local area
+networks, wide area networks and asynchronous transfer mode networks. 
+
+7
+
+
+
+
+ 
+
+
+        Our
+wireless communications and microwave network products include RF and microwave test instruments and Electronic Design Automation ("EDA") software tools, which assist in the design
+and production of cellular handsets and base stations, as well as satellite and aerospace defense systems. 
+
+        Our
+installation and maintenance assistance facilitates the installation, commission and activation of networks and services. We have a breadth of products for troubleshooting and
+maintaining optical, wireless, wireline and large-company networks. 
+
+        Our
+OSS products manage performance and quality of service for broadband, data, wireless and converged networks and services. 
+
+
+
+ General Purpose Test Products  
+
+
+
+        We sell the following types of products into the general purpose test market: general purpose instruments, modular instruments and test software, digital design
+products, parametric test products, high frequency electronic design tools, electronics manufacturing test equipment and TFT array test equipment. 
+
+
+        General
+purpose instruments are used principally by engineers in research and development laboratories, manufacturing, calibration and service for measuring voltage, current, frequency,
+signal pulse width and other standard electronics measurements and include spectrum analyzers, network analyzers, signal generators, digitizing oscilloscopes, voltmeters, multimeters, frequency
+counters, bench and system power supplies, function generators and waveform synthesizers. 
+
+        Modular
+instruments and test software are used to dynamically configure and reconfigure test systems for designers and manufacturers of electronic devices and include products such as
+Agilent's IO Library, Agilent's VEE Pro 7.5 and the Test & Measurement Programmers Toolkit. 
+
+
+        Our
+digital design products are used by research and development engineers in the computer, communications and semiconductor industries for validating and verifying the performance of
+digital product designs and include simple digital control circuits, complex high-speed servers incorporating the latest microprocessor technology, high-performance
+oscilloscopes, logic analyzers, logic-signal sources and data generators. 
+
+        Our
+high-frequency electronic design automation software tools are used by RF integrated circuit design engineers to model, simulate and analyze communications product
+designs at the circuit and system levels. The main products in this area are the Advanced Design System, the RF Design Environment and the IC-CAP Device Modeling Software. Each is a
+well-established software platform within the wireless and the aerospace and defense design industries. Our customers are also applying this technology more frequently to model signal
+integrity problems in digital design applications. 
+
+        Our
+parametric test instruments and systems combine hardware technology and customizable system software and are used to examine semiconductor wafers during the semiconductor
+manufacturing process. 
+
+        Our
+electronic manufacturing test product categories are Automated Optical Inspection Products that enable automated visual inspection of printed circuit assemblies, Automated
+X-ray Inspection Products that provide a three-dimensional scan of printed circuit board assemblies to identify and isolate quality defects caused by the manufacturing process, Automated
+In-Circuit Testing Products that identify quality defects such as bad and incorrect parts that affect electrical performance and allow early repair of these defects, and Manufacturing Test
+System Software that provides common 
+
+8
+
+
+
+
+ 
+
+
+tools
+to enable customers to use information across the manufacturing line for effective process control, repair and test design. 
+
+        Our
+TFT array tester products provide FPD manufacturers with test solutions in the rapidly growing FPD market. An array tester can provide significant cost savings by detecting defects
+early in the process of manufacturing FPDs. 
+
+
+
+ Electronic Measurement Customers  
+
+
+
+        Agilent's electronic measurement customers include contract manufactures, handset manufacturers, NEMs who design, develop, manufacture and install network
+equipment, and service providers who implement, maintain and manage communication networks and services. We also engage in collaborative relationships with contract manufacturers. Many of our
+customers purchase solutions across several of our major product lines for their different business units. As of the end of fiscal 2005, no single customer represented greater than 10 percent
+of the net revenue of the business. 
+
+        The
+orders and revenues in many of the electronic measurement businesses are seasonal, with our fourth quarter traditionally bringing larger volumes of business and our first quarter
+generally showing reduced volumes. This is especially true of products that we sell in the aerospace and defense industry as well as those that are linked to consumer spending, including some of our
+communications test equipment. However, the seasonal impact is tempered by the diversity of the electronic measurement business's products and customers, which span multiple industries. 
+
+
+
+ Electronic Measurement Sales, Marketing and Support  
+
+
+
+        We have a focused sales strategy, using a direct sales force, resellers, manufacturer's representatives and distributors to strengthen customer satisfaction. Our
+direct sales force is focused on identifying customer needs and recommending solutions involving the effective use and deployment of our equipment, services, systems and capabilities. Some members of
+our direct sales force focus on global accounts, providing uniform services on a worldwide basis. Others focus on our more complex products such as our OSS communications monitoring and management
+systems, where customers require intensive strategic consultation. Our sales force also specifically targets the contract manufacturer market by collaborating with original equipment manufacturers to
+specify that contract manufacturers use our test equipment, as well as marketing to contract manufacturers directly. 
+
+        Our
+direct sales force consists of field engineers and systems engineers who have in-depth knowledge of the customers' business and technology needs. Our systems engineers
+provide a combination of consulting, systems integration and application and software engineering services and are instrumental in all stages of the sale, implementation and support of our complex
+systems and solutions. 
+
+        To
+complement our direct sales force we have agreements with many channel partners around the world. These partners, including resellers, manufacturer's representatives, and
+distributors, serve Agilent's customers across a number of product lines and provide the same level of service and support expected from our direct channel. Our products come with clearly outlined
+warranties and extended warranties available for an additional cost. 
+
+
+
+ Electronic Measurement Manufacturing  
+
+
+
+        We concentrate our electronic measurement manufacturing efforts primarily on final assembly and test of our products. To maximize our productivity and our ability
+to respond to market conditions, we use contract manufacturers for the production of printed circuit boards, sheet metal fabrication, metal die-casting, plastic molding and standard
+electronic components. We also 
+
+9
+
+
+
+
+ 
+
+manufacture
+proprietary devices and assemblies, in our own fabrication facilities for competitive advantage. 
+
+        We
+generally only manufacture products when we have received firm orders for delivery and do not generally hold large stocks of finished inventory. 
+
+
+
+ Electronic Measurement Competition  
+
+
+
+        The market for electronic measurement equipment is highly competitive. Our electronic measurement business competes with a number of significant competitors in
+all our major product categories and across our targeted industries. In the general purpose test market, we compete against companies such as Fluke Corporation (a subsidiary of Danaher Corporation),
+Keithley Instruments, Inc., LeCroy Corporation, National Instruments Corporation and Tektronix, Inc. In the electronics manufacturing test market, we compete primarily against
+Teradyne, Inc. In the FPD test market, we compete against Photon Dynamics, Inc., Applied Komatsu Technologies and Shimadzu Corporation for large-panel test customers, and primarily with
+Wintest Corp. in emerging FPD technologies. In the communications test market our primary competitors are Acterna Corporation, Aeroflex Incorporated, Anritsu Corporation, EXFO Electro-Optical
+Engineering, Inc., Ixia, Marconi Corporation plc, Rohde & Schwartz GmbH & Co. KG, Spirent plc and Tektronix, Inc. In addition, we compete with Telcordia
+Technologies, Inc. and Hewlett-Packard Company ("HP") in the communications test market. In the communications management and monitoring market our primary competitors are Spirent plc,
+Tektronix, Inc. and Micromuse, Inc. Our EDA business also has several software competitors, including Ansoft Corporation, APLAC Solutions Corporation, Applied Wave Research, Inc.
+and Xpedion Design Systems, Inc. 
+
+        Our
+electronic measurement business offers a wide range of products, and these products compete primarily on the basis of product quality and functionality, as well as performance and
+reliability. 
+
+Bio-Analytical Measurement Business  
+
+        Our bio-analytical measurement business provides application-focused solutions that include instruments, software, consumables and services that
+enable customers to identify, quantify and analyze the physical and biological properties of substances and products. Our seven key product categories include: microarrays, microfluidics, gas
+chromatography, liquid chromatography, mass spectrometry, software and informatics, and related consumables, reagents and services. 
+
+        We
+employed approximately 4,000 people as of October 31, 2005 in our bio-analytical measurement business. This business generated revenue of $1.4 billion in
+fiscal 2005, $1.3 billion in fiscal 2004 and $1.2 billion in fiscal 2003. 
+
+
+
+ Bio-Analytical Measurement Markets  
+
+
+
+        Primarily, our bio-analytical measurement business serves the following markets: 
+
+
+
+ Life Sciences Markets  
+
+
+
+        Our life science markets account for approximately 42 percent of revenue from our bio-analytical measurement business. Within the life
+sciences, we focus on the following areas: pharmaceutical analysis (drug development, manufacturing and quality assurance/quality control), gene expression and proteomics. 
+
+
+                The Pharmaceutical Analysis Market.    Pharmaceutical and biopharmaceutical companies
+develop and manufacture drugs under
+strict regulatory guidelines. We provide liquid chromatography, 
+
+10
+
+
+
+
+ 
+
+
+gas
+chromatography and mass spectrometry solutions for the analysis of chemicals, and provide compliance services and data systems designed to further enable compliance with relevant regulations of
+the Food and Drug Administration and other regulatory agencies. 
+
+
+                The Gene Expression Market.    Gene expression researchers use microarrays to measure the
+activity levels of many genes in a
+cell simultaneously for the purpose of understanding and characterizing disease, identifying drug targets and identifying patterns of gene activity that correlate to the potential toxicity or
+effectiveness of a drug. Currently, this is a double-digit growth market in which our microarray, microfluidics and informatics solutions are sold. 
+
+                The Proteomics Market.    Proteomics is a growing field with the goal of identifying,
+characterizing and analyzing proteins on
+a high-volume scale. Proteomics is also important to the large-scale manufacture of protein-based therapies in development by biotechnology companies. This is a double-digit growth market
+in which we provide liquid chromatography, mass spectrometry and informatics. 
+
+
+
+ Chemical Analysis Markets  
+
+
+
+        Our chemical analysis markets account for approximately 58 percent of revenue from the bio-analytical measurement business. Within chemical
+analysis, we focus primarily on the following areas: petrochemical, environmental, homeland security and forensics, and bioagriculture and food safety. 
+
+
+                The Petrochemical Market.    The natural gas and petroleum refining markets use our
+products to measure and control the quality
+of their finished products and to verify the environmental safety of their operations. Petroleum refiners use our measurement solutions to analyze crude oil composition, perform raw material analysis,
+verify and improve refining processes and ensure the overall quality of gasoline, fuels, lubricants and other products. Our gas chromatographs are also used to monitor consistent quality in the
+delivery of natural gas. 
+
+                The Environmental Market.    Our gas chromatography, liquid chromatography and mass
+spectrometry solutions are used by the
+environmental market for applications such as laboratory and field analysis of chemical pollutants in air, water, soil and solid waste. Environmental
+industry customers include all levels of government, the industrial and manufacturing sectors, engineering and consulting companies, commercial testing laboratories and colleges and universities. We
+are seeing strong international demand for environmental instrumentation in the Asia-Pacific region. 
+
+
+                The Homeland Security and Forensics Market.    Our liquid chromatography, gas
+chromatography, mass spectrometry and
+microfluidics solutions are used by health and forensics laboratories in the U.S. and abroad, particularly in the analysis of evidence associated with crime or with the detection and identification of
+biological and chemical warfare agents. This instrumentation is either used in static or mobile laboratories. Customers include local, state, federal, and international law enforcement agencies and
+health laboratories. 
+
+                The Bioagriculture and Food Safety Market.    Food safety industries apply the same general
+technologies for chemical analysis
+as the pharmaceutical and environmental markets, including gas and liquid chromatography and mass spectrometry. Additionally, bioagriculture industries seek to improve crops and foods by conducting
+research on these organisms, as well as testing for genetically modified content, using microarray and microfluidics solutions. 
+
+11
+
+
+
+
+ 
+
+
+
+ Bio-Analytical Measurement Products  
+
+
+
+        A key factor in all of our bio-analytical measurement target markets is the need for new products that increase customer productivity and provide high
+quality data that enable decision-making by our customers. 
+
+
+
+ Microarray Products  
+
+
+
+        Since announcing the launch of our DNA microarray program for the life sciences in December 1999, we have become the second leading supplier of microarray
+solutions which we sell primarily to pharmaceutical companies, biotechnology companies and academia. Using our refined inkjet manufacturing process, we make highly sensitive 60-mer
+oligonucleotide ("oligo") microarrays. This unique inkjet process is highly flexible and accurate, enabling the faster manufacture of new and custom high-density microarrays. In 2005, we
+expanded our line of microarrays to offer genomics solutions for chromosome analysis and gene regulation. 
+
+
+
+ Microfluidics Products  
+
+
+
+        The Agilent 2100 bioanalyzer is the first commercial microfluidics product for the analysis of a wide range of biological molecules, including DNA, RNA, proteins
+and cells. The bioanalyzer chips allow sample quality assessment to be done in a fraction of the usual time using fewer samples and reagents than traditional gel electrophoresis. We also provide
+related software, which enables the bioanalyzer to be used for the development and manufacture of protein-based therapeutics and, also enables standardization of RNA quality measurement. In
+November 2004, Agilent introduced the first fully automated, high-throughput lab-on-a-chip system, which will enable unattended analysis of
+thousands of DNA or protein samples per day. 
+
+
+
+ Gas Chromatography Products  
+
+
+
+        Agilent is the world's leading provider of gas chromatographs, both portable and stationary. A gas chromatograph ("GC") is used to separate any gas, liquid or
+solid molecules that can be vaporized in order to determine the quantity and identity of the molecules present. As a market leader in gas chromatography, we continue to expand its applications with
+new columns and supplies, as well as product enhancements. Over the last three years, Agilent has introduced improved models of all of its major gas chromatographs. 
+
+
+
+ Liquid Chromatography Products  
+
+
+
+        A liquid chromatograph ("LC") or a high performance liquid chromatograph ("HPLC") is used to separate molecules of a liquid mixture to determine the quantity and
+identity of the molecules present. Used when gas chromatography is not an option, these instruments are modular in construction and can be configured to form instruments that perform specific
+analyses. Agilent's HPLC system, the Agilent 1100 Series, has sold over 60,000 systems since its introduction. As a leader in liquid chromatography, we continue to expand its applications with new LC
+and HPLC columns and provide ongoing product enhancements. Our latest innovation, HPLC-Chip, facilitates more than a 3000-fold improvement in sensitivity. 
+
+
+
+ Mass Spectrometry Products  
+
+
+
+        A mass spectrometer ("MS") identifies and quantifies chemicals based on a chemical's molecular mass and on characteristic patterns of fragment masses that result
+when a molecule is broken apart. Mass spectrometry is an important tool in analyzing proteins and other biological entities that undergo transformations because it enables the understanding and
+characterization of their many different states. MS systems are typically used in combination with gas or liquid chromatographs. In the past three years, Agilent significantly expanded its mass
+spectrometry portfolio with a focus on ease of use, 
+
+12
+
+
+
+
+ 
+
+sensitivity
+and reliability. New products include several ion trap and time-of-flight mass spectrometers, a multimode ion source and a range of instrument control and data
+analysis software packages. 
+
+
+
+ Software and Informatics Products  
+
+
+
+        We provide software for instrument control, data acquisition and analysis, laboratory content and business process management, and informatics. Our software
+facilitates the regulatory-compliant use of instruments in pharmaceutical quality assurance/quality control environments. In 2005, we completed acquisition of Scientific Software, Inc. and
+Silicon Genetics, Inc., expanding our portfolio of chromatography data systems and informatics. 
+
+
+
+ Consumables, Reagents and Services  
+
+
+
+        We also offer a broad range of consumable products, which support our LC, GC and MS technology platforms. These consumable products include chemical and
+biological reagents, instrument replacement parts, brand-specific chromatography columns and consumable supplies to meet our customers' analysis needs. All of our products, which include generic and
+proprietary supplies, are designed to work together. 
+
+        We
+offer a wide range of startup, operational, educational and compliance support services for our measurement and data handling systems. Our support services include all of our chemical
+and bioinstrumentation analysis hardware and software maintenance, troubleshooting, repair and training. Special service bundles have also been designed to meet the specific analysis instrument needs
+of various industries. 
+
+
+
+ Bio-Analytical Measurement Customers  
+
+
+
+        Our top 25 customers account for approximately 24 percent of revenue within our bio-analytical measurement businesses. We have roughly 21,000
+customers, and as of the end of fiscal 2005, no single customer represented greater than 10 percent of the net revenue of the business. 
+
+
+        The
+bio-analytical measurement business is susceptible to seasonality in its orders and revenues primarily based on U.S. government and large pharmaceutical company budgets.
+The result is that our first and fourth fiscal quarters tend to deliver the strongest profits for this group. However, general economic trends, new product introductions and competition might
+overshadow this trend in any given year. 
+
+
+
+ Bio-Analytical Measurement Sales, Marketing and Support  
+
+
+
+        Our sales and support delivery channels are aligned by key markets. We market products to our customers through direct sales, electronic commerce, resellers,
+manufacturers' representatives and distributors. Additionally, we are optimizing our worldwide distribution capabilities to address high-growth opportunities such as the environmental,
+food safety and pharmaceutical markets in the Asia-Pacific region. 
+
+        We
+use direct sales to market our solutions to all of our pharmaceutical and biopharmaceutical accounts, large- and medium-sized chemical customers and environmental accounts. Sales
+agents supplement direct sales by providing broader geographic coverage and coverage of smaller accounts. Our active reseller program augments our ability to provide more complete solutions to our
+customers. We sell our consumable products through distributors, telesales and electronic commerce. 
+
+
+        We
+deliver our support services to customers in a variety of ways, including on-site assistance with repair or exchange of returned products, telephone support and
+self-diagnostic services provided 
+
+13
+
+
+
+
+ 
+
+
+over
+the Internet. We also offer special industry-focused service bundles that are designed to meet the specific needs of hydrocarbon processing, environmental, pharmaceutical and biopharmaceutical
+customers to keep instruments fully operational and compliant with the respective industry requirements. 
+
+
+
+ Bio-Analytical Measurement Manufacturing  
+
+
+
+        Our manufacturing supports our diverse product range and customer-centric focus. We assemble highly configurable products to individual customer orders and make
+standard products to stock. We employ advanced manufacturing techniques and supply chain management systems to reduce costs and manufacturing cycle times. We selectively use third parties to provide
+manufacturing capabilities outside our core competencies, such as the manufacture of printed circuit assemblies and the delivery of shipment logistics. We have manufacturing facilities in California
+and Delaware in the U.S., China, Germany and Japan. We utilize just-in-time manufacturing and so typically do not maintain a high level of inventory. Our products typically
+come with standard warranties, and extended warranties are available for additional cost. 
+
+
+
+ Bio-Analytical Measurement Competition  
+
+
+
+        The markets for analytical instruments in which we compete are characterized by evolving industry standards and intense competition. Our principal competitors in
+the life sciences arena include: Affymetrix, Inc., Applied Biosystems Inc., GE Healthcare, Invitrogen Corp., Thermo Electron Corp. and Waters Corp. Our principal competitors in the
+chemical analysis arena include: Applied Biosystems Inc., Perkin Elmer Corp., Shimadzu Corporation, Thermo Electron Corp. and Varian, Inc. Agilent competes on the basis of price, product
+performance, reliability, support quality, applications expertise and global channel coverage. 
+
+
+
+ Bio-Analytical Measurement Government Regulation  
+
+
+
+        The analysis products and related consumables marketed by our chemical analysis business are subject to regulation in the U.S. by the Environmental Protection
+Agency ("EPA") under the Toxic Substances Control Act and by government agencies in other countries under similar laws. The Toxic Substances Control Act regulations govern, among other things, the
+testing, manufacture, processing and distribution of chemicals, the testing of regulated chemicals for their effects on human health and safety and import and export of chemicals. The Toxic Substances
+Control Act prohibits persons from manufacturing any chemical in the U.S. that has not been reviewed by EPA for its effect on health and safety, and placed on an EPA inventory of chemical substances.
+Therefore, we must continually adapt our chemical analysis products to changing regulations. If we fail to comply with the notification, record-keeping and other requirements in the manufacture or
+distribution of our products, the EPA can obtain an order from a court that would prohibit the further distribution or marketing of a product that does not comply or we could face fines, civil
+penalties or criminal prosecution. 
+
+Semiconductor Test Solutions Business  
+
+        Agilent's semiconductor test solutions business delivers technologies and solutions for companies who design, manufacture and test
+systems-on-a-chip ("SOCs"), systems-in-a-package ("SIPs") and memory semiconductor devices. Our systems are used to test a wide
+range of devices, from the extremely price-sensitive to the most complex and high-performance. 
+
+
+        On
+August 15, 2005, Agilent announced a strategic move that includes a plan to spin off the semiconductor test solutions business, which operates in the SOC, SIP and Memory Test
+markets. This business will become a new automated test company focused on technology and innovation in semiconductor test. The spin-off will take place as soon as practical in 2006 and
+entails separating the semiconductor test solutions business from Agilent, then launching an IPO process. The expected IPO 
+
+14
+
+
+
+
+ 
+
+
+date
+of our semiconductor test solutions spin-off is near mid-year 2006, with an expected completion date for the spin-off by the end of fiscal year 2006. 
+
+        During
+the fourth quarter of 2005, we realigned our operating segments, creating the semiconductor test solutions business, formerly included within our automated test business. The
+remainder of the automated test business is currently reported in our electronic measurement business. Our semiconductor test solutions business employed approximately 1,600 people as of
+October 31, 2005. We sell our semiconductor test solutions through direct sales. Our semiconductor test solutions business generated $0.5 billion in revenue in fiscal 2005,
+$0.6 billion in revenue in fiscal 2004, and $0.5 billion in revenue in fiscal 2003. 
+
+
+
+ Semiconductor Test Solutions Markets  
+
+
+
+        Agilent's semiconductor test solutions business sells to the semiconductor manufacturing markets. Customers in these markets use our equipment for
+wafer-sort and final sort for memory test, and package-level functional and structural test. In general, market demand for semiconductor test solutions' equipment is driven both by changes
+in the volume of semiconductor devices produced and by developments in semiconductor performance and function, packaging and assembly technology. 
+
+        In
+the semiconductor manufacturing market, the development of increasingly faster and more complex semiconductor devices stimulates demand for testers capable of evaluating these
+high-speed devices. The continuing integration of functions, such as microprocessor, logic, analog, RF and logic, application specific integrated circuits ("ASICs") and memory on a single
+integrated circuit or single package has created the SOC and SIP product categories. Similarly, vertical stacking of both similar and different types of memory chips has created a category of memory
+package, the complex multi-chip package ("MCP"). 
+
+
+
+ Semiconductor Test Solutions Products  
+
+
+
+        Our semiconductor test solutions business designs, develops and manufactures semiconductor test equipment. We develop our products on scalable-system architecture
+and then deliver, over time, enhancements to that architecture that extend its testing capabilities to address changing device and production requirements. 
+
+
+
+ Semiconductor Test Equipment  
+
+
+
+        We produce semiconductor test equipment to perform electrical functional testing and structural testing of logic, memory, mixed analog and digital signal, RF,
+microwave, SOC and SIP integrated circuits. In addition, we provide applications, service and support for our test equipment. 
+
+        Our
+semiconductor test equipment tests a variety of different circuit types. We test both at the wafer level and at final assembly. We are an industry leader in wafer-sort
+test solutions for flash memory devices, which retain data even when the power is turned off and that are used in digital cameras, cellular phones, PDAs and storage of portable digital audio files.
+Our flash memory test products can test multiple devices in parallel, and with a single test insertion can test complex memory packages including different memory types. Our SOC/SIP test system can
+test not only multiple devices at a time but also multiple functional elements on a given device at the same time. As a result of its scalable architecture, this system can be field-upgraded to the
+latest technology without the customer needing to buy a new system or shut down the production line for an extended time. 
+
+
+
+ Semiconductor Test Solutions Customers  
+
+
+
+        Agilent's semiconductor test solutions customers include many of the world's leading high-technology firms. Our semiconductor test solutions enable
+our customers to speed their time to 
+
+15
+
+
+
+
+ 
+
+market
+and achieve volume production and high-quality precision manufacturing. More than half of the business' net revenue is generated from outside the U.S. 
+
+
+        Many
+of our customers purchase solutions across our major product lines for their different business units. Generally, our customers are involved in producing digital consumer and
+wireless products, computation, personal computers and related peripherals, wireline communications, or enterprise networking and storage. As of the end of fiscal 2005, no single customer represented
+greater than 10 percent of the net revenue of the business. 
+
+        We
+also engage in collaborative, co-development relationships with electronics industry leaders and sub-contract manufacturers. 
+
+        The
+back-to-school and holiday seasons affect our semiconductor test business to the extent that we are subject to the cycles of consumer electronics
+manufacturing. Our customers include manufacturers who produce a wide range of consumer electronics equipment requiring the test of semiconductors. 
+
+
+
+ Semiconductor Test Solutions Sales, Marketing and Support  
+
+
+
+        Our semiconductor test solutions business' products are distributed using direct sales. Some portions of the direct sales force provide general services around
+the world, while others provide specialized consultation services for particular segments of the semiconductor test business. 
+
+
+
+ Semiconductor Test Solutions Manufacturing  
+
+
+
+        Our semiconductor test solutions business has manufacturing facilities in Germany, the U.S. and Japan and contract manufacturing relationships in Europe, Asia,
+Japan and the U.S. We do not maintain a high level of finished goods inventory, due to a combination of product platform strategy and outsourcing. 
+
+
+
+ Semiconductor Test Solutions Competition  
+
+
+
+        The market for semiconductor test solutions is highly competitive. In the semiconductor test solutions market, we compete mostly against Advantest Corp.,
+Teradyne, Inc., Credence Systems Corp. and LTX Corp. 
+
+        Most
+of our equipment competes primarily on performance or differentiated capabilities. Other contributing factors include cost of test, sensitivity, speed, reliability and yield. 
+
+
+Agilent Technologies Laboratories ("Agilent Labs")  
+
+        Agilent Labs is our central research organization based in Palo Alto, California, with satellite offices in Beijing, China; Everett, Washington; Leuven, Belgium;
+and South Queensferry, Scotland. Agilent Labs engages primarily in two types of research: 1) applied research that leads to technology that can be transferred to our existing businesses in
+communications, electronics, life sciences and chemical analysis, and 2) research that creates new businesses that are outside of our current markets but within our fields of interest. Agilent
+Labs also provides technology integration across our company. 
+
+        Agilent
+Labs employs approximately 220 people. Agilent Labs' technical staff have advanced degrees that cover a wide range of scientific fields, such as biology, bioinformatics,
+chemistry, computer science, distributed measurement, electrical engineering, image processing, materials science, mathematics, measurement software, optics, physics, physiology, semiconductor device
+design and signal processing. 
+
+16
+
+
+
+
+
+
+<A
+NAME="page_de1015_1_17">   
+        The following discussions of Research and Development, Backlog, Intellectual Property, Materials, Environmental, International Operations and Acquisition and
+Disposal of Material Assets include information common to all three of our businesses.
+
+
+Research and Development  
+
+        Research and development ("R&D") expenditures were $738 million in 2005, $689 million in 2004 and $771 million in 2003, the vast majority of
+which was company-sponsored. We anticipate that we will continue to have significant R&D expenditures in order to maintain our competitive position with a continuing flow of innovative,
+high-quality products and services. 
+
+Backlog  
+
+        We believe that backlog orders are not a meaningful indicator of future business prospects. Backlog, as we define it, generally only represents cumulative
+outstanding orders that are scheduled for delivery within a six-month period. Therefore backlog is not a material indicator of our future medium- to long-term business
+prospects. We believe that our incoming orders in any given period are more indicative of short-term revenue trends for our businesses. See "Results of Continuing Operations" in Item 7 of
+this report. 
+
+Intellectual Property  
+
+        Our general policy has been to seek patent and other intellectual property protection for those inventions and improvements likely to be incorporated into our
+products and services or to give us a competitive advantage. While we believe that our licenses, patents and applications have value, in general no single patent or license is in itself material. In
+addition, there can be no assurance that any of our proprietary rights will not be challenged, invalidated or circumvented, or that our rights will provide significant competitive advantages. 
+
+Materials  
+
+        Our manufacturing operations employ a wide variety of semiconductors, electromechanical components and assemblies and raw materials such as plastic resins and
+sheet metal. Each of our segments purchases materials from thousands of suppliers on a global basis. No single supplier is material, although some of the parts that require custom design work are not
+readily available from alternate suppliers due to their unique design or the length of time necessary for design work. Our long-term relationships with our suppliers allow us to
+proactively manage technology road maps and product discontinuance plans and monitor their financial health. Even so, some suppliers may still extend their lead times, limit supplies, increase prices
+or cease to produce necessary parts for our products. If these are unique components, we may not be able to find a substitute quickly or at all. To address the potential disruption in our supply
+chain, we use a number of techniques, including qualifying multiple sources of supply, redesign of products for alternative components and purchase of incremental inventory for supply buffer. 
+
+Environmental  
+
+        Our R&D, manufacturing and distribution operations involve the use of hazardous substances and are regulated under international, federal, state and local laws
+governing health and safety and the environment. We apply strict standards for protection of the environment and worker health and safety to sites inside and outside the U.S., even if not subject to
+regulation imposed by foreign governments. We believe that our properties and operations at our facilities comply in all material respects with applicable environmental laws and worker health and
+safety laws. However, the risk of environmental liabilities cannot be completely eliminated and there can be no assurance that the application of environmental and health and safety laws to Agilent
+will not require us to incur significant expenditures. We are also regulated under a number of international, federal, state and 
+
+17
+
+
+
+
+ 
+
+
+local
+laws regarding recycling, product packaging and product content requirements. These laws are gradually becoming more stringent and may in the future cause us to incur significant expenditures. 
+
+        Some
+of our operations are located on properties that are known to have subsurface contamination undergoing remediation by HP. As part of our spin-off from HP in 1999, HP has
+agreed to retain the liability for the contamination, perform the required remediation and indemnify us with respect to claims arising out of the contamination. The determination of the existence and
+cost of any additional contamination caused by us could involve costly and time-consuming negotiations and litigation. While we expect that HP will meet its remediation and indemnification
+obligations in this regard, there can be no
+guarantee that it will do so. Under our agreement with HP, HP will have access to these properties to perform the remediation. HP has agreed to minimize interference with on-site
+operations at those properties during the course of the remediation, but there can be no guarantee that our operations will not be interrupted or that we will not be required to incur unreimbursed
+costs associated with the remediation. Remediation could also harm on-site operations and the future use and value of the properties. 
+
+        In
+addition, some of these properties are undergoing remediation by HP under an order of an agency of the state in which the property is located. Although HP has agreed to indemnify us
+with respect to that subsurface contamination, it is possible that one or more of the governmental agencies will require us to be named on any of these orders. The naming of Agilent will not affect
+HP's obligation to indemnify us with regard to these matters. 
+
+        We
+are liable and are indemnifying HP for any contamination found at all facilities transferred to us by HP excluding the properties undergoing remediation. In addition, we are
+indemnifying HP for any liability associated with past non-compliance with environmental laws regulating ongoing operations at all properties transferred to us by HP, as well as at sold or
+discontinued businesses that are related to our businesses. While we are not aware of any material liabilities associated with such indemnified matters, there is no guarantee that such contamination
+or regulatory non-compliance does not exist, and will not expose us to material liability in the future. 
+
+        We
+are being indemnified by HP with respect to all environmental liabilities for which HP accrued a reserve, and we are not aware of any material and probable environmental liabilities
+being assumed by us which are not subject to the indemnity. 
+
+International Operations  
+
+        Our net revenue originating outside the U.S., as a percentage of our total net revenue, was approximately 65 percent in fiscal 2005, 66 percent in
+fiscal 2004 and 62 percent in fiscal 2003, the majority of which was from customers other than foreign governments. Approximately 13 percent of our annual revenues in each of the last
+three years was derived from Japan. Revenues from external customers are generally attributed to countries based upon the location of the Agilent sales representative. 
+
+        Long-lived
+assets located outside of the U.S., as a percentage of our total long-lived assets, was approximately 50 percent in fiscal year 2005,
+54 percent in fiscal year 2004 and 46 percent in fiscal year 2003. Approximately 17 percent of our long-lived assets were located in Japan in fiscal year 2005 and 2004
+and approximately 15 percent were located in Japan in fiscal year 2003. 
+
+
+        Most
+of our sales in international markets are made by foreign sales subsidiaries. In countries with low sales volumes, sales are made through various representatives and distributors.
+However, we also sell into international markets directly from the U.S. 
+
+18
+
+
+
+
+ 
+
+        Our
+international business is subject to risks customarily encountered in foreign operations, including interruption to transportation flows for delivery of parts to us and finished
+goods to our customers, changes in a specific country's or region's political or economic conditions, trade protection measures, import or export licensing requirements, consequences from changes in
+tax laws and regulatory requirements, difficulty in staffing and managing widespread operations, differing labor regulations, differing protection of intellectual property and geopolitical turmoil,
+including terrorism and war. We are also exposed to foreign currency exchange rate risk inherent in our sales commitments, anticipated sales and expenses, and assets and liabilities denominated in
+currencies other than the local functional currency, and may also become subject to interest rate risk inherent in any debt we incur, or investment and finance receivable portfolios we hold. The U.S.
+and international response to recent terrorist activities could exacerbate these risks. For example, there may be an increased risk of political unrest in regions where we have significant
+manufacturing operations such as Southeast Asia. However, we believe that our international diversification provides stability to our worldwide operations and reduces the impact on us of adverse
+economic changes in any single country. Financial information about our international operations is contained in Note 23, "Segment Information", to our consolidated financial statements. 
+
+Acquisition and Disposal of Material Assets  
+
+        On January 5, 2001, we acquired Objective Systems Integrators, Inc. ("OSI") for approximately $716 million. OSI was a provider of
+next-generation operations-support-system software for communications service providers and has become part of our test and measurement business. In January 2000, April 2000
+and January 2001, we acquired Yokogawa Electric Corporation's 25 percent equity interest in Agilent Technologies Japan, Ltd. for approximately $521 million. In addition to
+the OSI and Yokogawa acquisitions, we acquired several other companies since our incorporation that were not material. 
+
+        In
+the fourth quarter of 2000, we entered into an asset purchase agreement with CIT Group Inc. ("CIT," formerly Tyco Capital Corporation) to sell them substantially all of our
+leasing portfolio over the course of 2000 and 2001. We also entered into a vendor financing arrangement with CIT whereby CIT will provide equipment financing and leasing services to our customers on a
+global basis. 
+
+        In
+February 2001, we sold a parcel of surplus land in San Jose, California for $287 million in cash. On August 1, 2001, Agilent completed the sale of its healthcare
+solutions business to Koninklijke Philips Electronics, N.V. ("Philips") pursuant to an Asset Purchase Agreement for a total purchase price of $1.7 billion. 
+
+        On
+November 28, 2005, we completed the sale of our stake in Lumileds Lighting International, B.V. ("Lumileds") to Philips pursuant to a Share Purchase Agreement (the "Share
+Purchase Agreement") dated as of August 12, 2005 among Agilent, Agilent LED International, Philips Lumileds Holding B.V. and Philips. Under the terms of the Share Purchase Agreement, Agilent
+received $948.5 million in cash proceeds, as well as approximately $51 million in repayment of outstanding advances to Lumileds and interest due to Agilent. 
+
+        In
+December 2005, we completed the sale of substantially all the assets of our semiconductor products business to Avago pursuant to an Asset Purchase Agreement dated as of
+August 14, 2005 and amended November 30, 2005 (the "Asset Purchase Agreement"). Under the terms of the Asset Purchase Agreement, Agilent received approximately $2.6 billion in
+cash proceeds, subject to further adjustment based on transfer taxes, a determination of working capital at closing and other items as further detailed in the Asset Purchase Agreement. 
+
+19
+
+
+
+
+ 
+
+
+Executive Officers of the Registrant  
+
+        The names of our executive officers and their ages, titles and biographies as of January 17, 2006 appear below: 
+
+        <FONT
+SIZE=2>Edward W. Barnholt, 62, served as Agilent's Chairman Emeritus from March 1, 2005 until October 31, 2005. Prior to assuming
+this position, Mr. Barnholt served as Agilent's President and Chief Executive Officer and as a director from May 1999 to March 1, 2005, and as Chairman of the Board from
+November 2002 to March 1, 2005. Before being named Agilent's Chief Executive Officer, Mr. Barnholt served as Executive Vice President and General Manager of Hewlett-Packard
+Company's Measurement Organization from 1998 to 1999, which included the business organizations that have become Agilent. From 1990 to 1998, he served as General Manager of Hewlett-Packard Company's
+Test and Measurement Organization. He was elected a Senior Vice President of Hewlett-Packard Company in 1993 and an Executive Vice President in 1996. He is a director of KLA-Tencor
+Corporation, Adobe and eBay Corporation and is a member of the Board of Trustees of the Packard Foundation. 
+
+
+        <FONT
+SIZE=2>Patrick J. Byrne, 45, has served as our Senior Vice President and President of the Electronic Measurement Group since
+February 2005. Prior to assuming this position, Mr. Byrne served as Vice President and General Manager for Electronic Products and Solutions Group's Wireless Business Unit from
+September 2001 to February 2005. Mr. Byrne served as Vice President for Electronic Products and Solutions Group's Product Generation Units from 1999 to 2001. Mr. Byrne held
+a number of management positions at Hewlett-Packard Company and Agilent Technologies, Inc. 
+
+        <FONT
+SIZE=2>Dick M. Chang, 66, served as our Senior Vice President, New Business Development from October 2003 until December 2005, and
+as President of the Semiconductor Products Group from March 2005 until December 2005. Prior to assuming this position, Mr. Chang served as Vice President and General Manager of
+Networking Solutions Division form 1999 to March 2002. During 1998, Mr. Chang served as the General Manager of Communications Semiconductor Solutions Division of Hewlett-Packard
+and later that year assumed the same position for the Integrated Circuit Business Division of Hewlett-Packard. Mr. Chang joined Hewlett-Packard in 1967 as a member of Hewlett-Packard Labs
+technical staff and, over the years, held a variety of managerial positions within Hewlett-Packard. 
+
+        <FONT
+SIZE=2>David B. Cooper, Jr., 49, has served as our Senior Vice President, Finance and Treasurer since April 2005. Prior to joining
+Agilent, Mr. Cooper served as Senior Vice President and Chief Financial Officer of QRS Corporation from November 2003 to November 2004. He served as Chief Financial Officer and
+Chief Operating Officer of Avantgo, Inc. from August 2000 to February 2003. Mr. Cooper served as Chief Financial Officer of Powerbar, Inc. from August 1998 to
+May 2000. Mr. Cooper held a number of finance and management positions at various companies since 1978. 
+
+        <FONT
+SIZE=2>Adrian T. Dillon, 51, has served as our Executive Vice President, Finance and Administration, Chief Financial Officer since
+December 2001. Prior to assuming this position, Mr. Dillon served as Executive Vice President and Chief Financial and Planning Officer of Eaton Corporation from April 1997 to
+December 2001. Mr. Dillon held various management positions at Eaton Corporation from 1979 to 1997. Mr. Dillon is a member of the board of directors of
+Williams-Sonoma, Inc. 
+
+        <FONT
+SIZE=2>Jean M. Halloran, 53, has served as our Senior Vice President, Human Resources since August 1999. From 1997 to 1999,
+Ms. Halloran served as Director of Corporate Education and Development for Hewlett-Packard. Prior to assuming this position, from 1993 to 1997, Ms. Halloran acted as human resources
+manager for Hewlett-Packard's Measurement Systems Organization. Ms. Halloran joined Hewlett-Packard in 1980 in the Medical Products Group, where she held a variety of positions in human
+resources, manufacturing and strategic planning. 
+
+20
+
+
+
+
+ 
+
+
+        <FONT
+SIZE=2>Didier Hirsch, 54, has served as our Vice President and Corporate Controller since April 2003. Prior to assuming that position,
+Mr. Hirsch served as Vice President and Treasurer from September 1999 to April 2003. In 1996, Mr. Hirsch became Director of Finance and Administration of Hewlett-Packard
+Europe, Middle East, and Africa. In 1993, Mr. Hirsch became Director of Finance and Administration of Hewlett-Packard Asia Pacific. Mr. Hirsch joined Hewlett-Packard Company in 1989 as
+Director of Finance and Administration of Hewlett-Packard France. 
+
+        <FONT
+SIZE=2>D. Craig Nordlund, 56, was named our Senior Vice President, General Counsel and Secretary in May 1999 and serves as an officer or
+director for a variety of Agilent subsidiaries. He is also a director of the Addison Avenue Federal Credit Union. Mr. Nordlund served as Associate General Counsel and Secretary of
+Hewlett-Packard Company from 1987 to 1999. 
+
+        <FONT
+SIZE=2>William P. Sullivan, 56, has served as Agilent's President, Chief Executive Officer and a Director since March 2005. Before being
+named as Agilent's Chief Executive Officer, Mr. Sullivan served as Executive Vice President and Chief Operating Officer from March 2002 to March 2005. In that capacity, he shared
+the responsibilities of the president's office with Agilent's former President and Chief Executive Officer, Edward W. Barnholt. Mr. Sullivan also had overall responsibility for Agilent's
+Electronic Products and Solutions Group, the company's largest business group. Prior to assuming that position, Mr. Sullivan served as our Senior Vice President, Semiconductor Products Group
+from August 1999 to March 2002. Before that, Mr. Sullivan held various management positions at Hewlett-Packard Company. Mr. Sullivan serves on the Board of the Children's
+Discovery Museum in San Jose, California. 
+
+        <FONT
+SIZE=2>Jack P. Trautman, 55, has served as Senior Vice President of Agilent Technologies, Inc. and President of the Automated Test Group
+(now the Semiconductor Test Solutions business) since May 2002. Prior to assuming that position, Mr. Trautman served as Vice President and General Manager of the Communications
+Management Solutions Business Unit from 2001 to 2002. He served as General Manager of the Data Protection Unit of Hewlett-Packard Company from 2000 to 2001. Mr. Trautman was the General Manager
+of Hewlett-Packard's Computer Peripherals Bristol Division in Bristol, England from 1997 to 2000. Mr. Trautman joined Hewlett-Packard in 1974 and held a number of managerial positions over the
+years. 
+
+        <FONT
+SIZE=2>Chris van Ingen, 59, has served as Senior Vice President of Agilent Technologies, Inc. and President of the Life Sciences and
+Chemical Analysis Group since May 2001. Prior to assuming this position, Mr. Van Ingen held a number of positions at Hewlett-Packard Company including, Chemical Analysis Group Sales and
+Marketing Manager from 1996 to April 2001, the Americas Marketing Center Manager from 1989 to 1996, Product Marketing Manager at Little Falls Division from 1986 to 1989, and Sales Support
+Manager at Little Falls Division from 1984 to 1986. 
+
+        <FONT
+SIZE=2>Thomas E. White, 48, has served as Senior Vice President of Agilent Technologies, Inc. and President of the Operations Support
+Systems Group since August 1999. From 1997 to August 1999, Mr. White served as Vice President and General Manager of the Communications Solutions Group of Hewlett-Packard. From
+1996 to 1997, he served as General Manager of Hewlett-Packard Company's Computer Peripherals Bristol Division and, beginning in 1994, he served as General
+Manager for Hewlett-Packard's Telecommunications Systems Division, South Queensferry, Scotland. 
+
+
+Investor Information  
+
+        We are subject to the informational requirements of the Securities Exchange Act of 1934 (the "Exchange Act"). Therefore, we file periodic reports, proxy
+statements and other information with the Securities and Exchange Commission (the "SEC"). Such reports, proxy statements and other information may be obtained by visiting the Public Reference Room of
+the SEC at 100 F Street N.E., Washington, D.C. 20549 or by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an 
+
+21
+
+
+
+
+
+ 
+
+
+Internet
+site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically. 
+
+        You
+can access financial and other information at our Investor Relations website. The address is www.investor.agilent.com. We make available, free of charge, copies of our Annual Report
+on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to
+Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC. 
+
+
+        Our
+Amended and Restated Corporate Governance Standards, the charters of our Audit and Finance Committee, our Compensation Committee, our Executive Committee and our Nominating/Corporate
+Governance Committee, as well as our Standards of Business Conduct (including code of ethics provisions that apply to our principal executive officer, principal financial officer, controller and
+senior financial officers) are available on our website at www.investor.agilent.com under "Corporate Governance Policies". These items are also available in print to any stockholder in the United
+States and Canada who requests them by calling (877) 942-4200. This information is also available by writing to the Company at the address on the cover of this Annual Report on
+Form 10-K. 
+
+Item 1A.    Risk Factors  
+
+Risks, Uncertainties and Other Factors That May Affect Future Results  
+
+
+
+ Our operating results and financial condition could be harmed if the markets into which we sell our products decline or do not grow as anticipated.  
+
+
+
+        Visibility into our markets is limited. Our quarterly sales and operating results are highly dependent on the volume and timing of orders received during the
+quarter, which are difficult to forecast. In addition, our revenues and earnings forecast for future quarters are often based on the expected seasonality or cyclicality of our markets. However, the
+markets we serve do not always experience the seasonality or cyclicality that we expect. Any decline in our customers' markets or in general economic conditions would likely result in a reduction in
+demand for our products and services. For example, if the Asia Pacific market does not grow as anticipated, our results could suffer. In addition, we have not yet completed our proposed
+spin-off of our SOC and memory test businesses, which are directly influenced by changes in the semiconductor market. Since the broader semiconductor market is one of the drivers for our
+electronic measurement business, a continued decrease in the semiconductor market could harm our electronic measurement business. Also, if our customers' markets decline, we may not be able to collect
+on outstanding amounts due to us. Such decline could harm our consolidated financial position, results of operations, cash flows and stock price, and could limit our ability to sustain profitability.
+Also, in such an environment, pricing pressures could intensify. Since a significant portion of our operating expenses is relatively fixed in nature due to sales, research and development and
+manufacturing costs, if we were unable to respond quickly enough these pricing pressures could further reduce our gross margins. Finally, we may be required to secure additional debt or equity
+financing at some time in the future, and we cannot assure you that such financing will be available on acceptable terms when required. If our corporate credit rating is downgraded, we could be
+required to pay a higher interest rate for future borrowing needs and we may have stricter terms. 
+
+
+
+ The actions we are taking to focus our organization on our core businesses may cause disruption and increase expenses, which may affect our results of operations or financial condition.  
+
+
+
+        The spin-off of our SOC and memory test businesses and the divestiture of our semiconductor products business, even after its completion, could
+involve a number of risks, including: 
+
+
+
+•the
+diversion of the attention of management and other key personnel; and 
+
+22
+
+
+
+
+ 
+
+
+
+
+•restructuring,
+inventory and other charges which may affect our results of operations. 
+
+
+        There
+can be no assurance that our completed sale of the semiconductor products business or our spin-off of the SOC and memory test businesses would cause us to achieve our
+goal of successfully focusing on our core businesses. Also, there can there be no assurance that this strategic realignment of the business will be beneficial to our business or financial condition.
+Even assuming the strategic realignment would be beneficial, we may fail to properly implement the spin-off, which might adversely affect our financial condition and results of operations.
+Additionally, our decision to divest the semiconductor products business and to spin-off the SOC and memory test businesses may result in the recording of special charges, such as
+inventory, goodwill and intangible-asset impairments, workforce reduction costs, pension and stock option costs, charges relating to consolidation of excess facilities, or claims from third parties
+who were resellers or users of discontinued products. 
+
+        Prior
+to its divestiture, our semiconductor products business was a significant portion of our consolidated business, but its financial results are no longer included in our consolidated
+financial results on a continuing operations basis. Our semiconductor test business represents a significant portion of our consolidated business, but we will not report the financial results of this
+business, including net revenues and net income, after it is spun off. The result of omitting the semiconductor products business from our continuing operations has caused our net revenues to decline
+and the result of omitting our semiconductor test business from our consolidated financial statements could cause our net revenues to decline. Accordingly, our historical consolidated financial
+results may not necessarily reflect our future financial position, results of operations or cash flows. In addition, as a result of a spin-off or divestiture, our stock price may
+fluctuate. 
+
+        We
+will retain contingent liabilities from the divestiture of our semiconductor products business. We agreed to retain responsibility for specified contingent liabilities related to
+these businesses, including designated tax and environmental liabilities and potential claims by Avago Technologies Ltd. (formerly known as Argos Acquisition Pte. Ltd.) ("Avago") that
+the representations and warranties we made about the businesses were inaccurate. The resolution of these contingencies may have a material adverse effect on our continuing results of operations or
+financial condition. 
+
+
+
+ We may not be successful in our efforts to maintain a reduced cost structure, and the actions that we take in order to reduce costs could have long-term adverse effects on our business.  
+
+
+
+        We have taken, and continue to take, various actions to transition our company to a reduced cost structure. In conjunction with the divestiture of our
+semiconductor products business and proposed spin-off of our SOC and memory test businesses, we recently announced the restructuring of our global infrastructure organization to reduce
+costs by $450 million. 
+
+        There
+are several risks inherent in our efforts to maintain a reduced cost structure. These include the risks that we will not be able to reduce expenditures quickly enough and hold them
+at a level necessary to sustain or increase profitability and that we may have to undertake further restructuring initiatives that would entail additional charges. For example, our expenses were
+higher than anticipated during the second quarter of 2004, due to increases in demand for items like travel, training, consultants, manufacturing and operating supplies, which adversely affected our
+performance. If our current plan to reduce costs leads to similar increases in demand we could face the same situation in the future. As we transform our infrastructure, we expect to face ongoing
+pressure to control expenses. If we are not able to hold down expenses we may have to further reduce our workforce. There is also the risk that cost-cutting initiatives will impair our
+ability to effectively develop and market products, to remain competitive in the industries in which we compete and to operate effectively. Each of the above measures could have long-term
+effects on our business by reducing our pool of technical talent, decreasing or slowing improvements in our products, making it 
+
+23
+
+
+
+
+ 
+
+
+more
+difficult for us to respond to customers, limiting our ability to increase production quickly if and when the demand for our products increases and limiting our ability to hire and retain key
+personnel. These circumstances could cause our income to be lower than it otherwise might be, which would adversely affect our stock price. 
+
+
+
+ If we do not introduce successful new products and services in a timely manner, our products and services will become obsolete, and our operating results will suffer.  
+
+
+
+        We generally sell our products in industries that are characterized by rapid technological changes, frequent new product and service introductions and changing
+industry standards. In addition, many of the markets in which we operate are seasonal and cyclical. Without the timely introduction of new products, services and enhancements, our products and
+services will become technologically obsolete over time, in which case our revenue and operating results would suffer.
+The success of our new products and services will depend on several factors, including our ability to: 
+
+
+
+•properly
+identify customer needs;
+•innovate
+and develop new technologies, services and applications;
+•successfully
+commercialize new technologies in a timely manner;
+•manufacture
+and deliver our products in sufficient volumes on time;
+•differentiate
+our offerings from our competitors' offerings;
+•price
+our products competitively;
+•anticipate
+our competitors' development of new products, services or technological innovations; and
+•control
+product quality in our manufacturing process. 
+
+
+
+
+ Dependence on contract manufacturing and outsourcing other portions of our supply chain may adversely affect our ability to bring products to market and damage our reputation. Dependence on outsourced
+information technology functions may impair our ability to operate effectively.  
+
+
+
+        As part of our efforts to streamline operations and to cut costs, we have been outsourcing and will continue to evaluate additional outsourcing. If our contract
+manufacturers or other outsourcers fail to perform their obligations in a timely manner or at satisfactory quality levels, our ability to bring products to market and our reputation could suffer. For
+example, during a market upturn, our contract manufacturers may be unable to meet our demand requirements, which may preclude us from fulfilling our customers' orders on a timely basis. The ability of
+these manufacturers to perform is largely outside of our control. In addition, we outsourced significant portions of our information technology ("IT") function. Since IT is critical to our operations,
+any failure to perform on the part of the IT providers could impair our ability to operate effectively. In addition to the risks outlined above, problems with manufacturing or IT outsourcing could
+result in lower revenues, and impact our results of operations and our stock price. Much of our outsourcing takes place in developing countries, and as a result may be subject to geopolitical
+uncertainty. 
+
+
+
+ Future changes in financial accounting standards may adversely affect our reported results of operations.  
+
+
+
+        A change in accounting standards can have a significant effect on our reported results. New accounting pronouncements and varying interpretations of accounting
+pronouncements have occurred and may occur in the future. These new accounting pronouncements may adversely affect our reported financial results. 
+
+24
+
+
+
+
+ 
+
+        For
+example, under Statement of Financial Accounting Standards No. 123R, "Share Based Payment" ("SFAS No. 123R"), we will be required to account for our stock-based awards
+as a compensation expense and our net income and net income per share will be significantly reduced. Currently, we record compensation expense only in connection with option grants that have an
+exercise price below fair market value. For option grants that have an exercise price at fair market value, we calculate compensation expense and disclose their impact on net income (loss) and net
+income (loss) per share, as well as the impact of all stock-based compensation expense in a footnote to the consolidated financial statements. SFAS No. 123R requires us to adopt the new
+accounting provisions beginning in our first quarter of 2006, and will require us to expense stock-
+based awards, including shares issued under our employee stock purchase plan, stock options, restricted stock and stock appreciation rights, as compensation cost. 
+
+
+
+ Failure to adjust our purchases due to changing market conditions or failure to estimate our customers' demand could adversely affect our income.  
+
+
+
+        Our income could be harmed if we are unable to adjust our purchases to market fluctuations, including those caused by the seasonal or cyclical nature of the
+markets in which we operate. The sale of our products and services are dependent, to a large degree, on customers whose industries are subject to seasonal or cyclical trends in the demand for their
+products. For example, the consumer electronics market is particularly volatile, making demand difficult to anticipate. During a market upturn, we may not be able to purchase sufficient supplies or
+components to meet increasing product demand, which could materially affect our results. In addition, some of the parts that require custom design are not readily available from alternate suppliers
+due to their unique design or the length of time necessary for design work. Should a supplier cease manufacturing such a component, we would be forced to reengineer our product. In addition to
+discontinuing parts, suppliers may also extend lead times, limit supplies or increase prices due to capacity constraints or other factors. In order to secure components for the production of products,
+we may continue to enter into non-cancelable purchase commitments with vendors, or at times make advance payments to suppliers, which could impact our ability to adjust our inventory to
+declining market demands. Prior commitments of this type have resulted in an excess of parts when demand for our communications, semiconductor and electronics products has decreased. If demand for our
+products is less than we expect, we may experience additional excess and obsolete inventories and be forced to incur additional charges. 
+
+
+
+ Our income may suffer if our manufacturing capacity does not match our demand.  
+
+
+
+        Because we cannot immediately adapt our production capacity and related cost structures to rapidly changing market conditions, when demand does not meet our
+expectations, our manufacturing capacity will likely exceed our production requirements. If, during a general market upturn or an upturn in one of our segments, we cannot increase our manufacturing
+capacity to meet product demand, we will not be able to fulfill orders in a timely manner. This inability could materially and adversely limit our ability to improve our results. By contrast, if
+during an economic downturn we had excess manufacturing capacity, then our fixed costs associated with excess manufacturing capacity would adversely affect our income. 
+
+
+
+ Economic, political and other risks associated with international sales and operations could adversely affect our results of operations.  
+
+
+
+        Because we sell our products worldwide, our business is subject to risks associated with doing business internationally. We anticipate that revenue from
+international operations will continue to represent a majority of our total revenue. In addition, many of our employees, contract manufacturers, suppliers, job functions and manufacturing facilities
+are increasingly located outside the U.S. Accordingly, our future results could be harmed by a variety of factors, including: 
+
+
+
+•interruption
+to transportation flows for delivery of parts to us and finished goods to our customers; 
+
+25
+
+
+
+
+
+ 
+
+
+
+
+•changes
+in foreign currency exchange rates;
+•changes
+in a specific country's or region's political, economic or other conditions;
+•trade
+protection measures and import or export licensing requirements;
+•negative
+consequences from changes in tax laws;
+•difficulty
+in staffing and managing widespread operations;
+•differing
+labor regulations;
+•differing
+protection of intellectual property;
+•unexpected
+changes in regulatory requirements; and
+•geopolitical
+turmoil, including terrorism and war. 
+
+
+        We
+centralized most of our accounting processes to two locations: Malaysia and India. These processes include general accounting, cost accounting, accounts payable and accounts
+receivables functions. If conditions change in those countries, it may adversely affect operations, including impairing our ability to pay our suppliers and collect our receivables. Our results of
+operations, as well as our liquidity, may be adversely affected and possible delays may occur in reporting financial results. 
+
+
+
+ Our business will suffer if we are not able to retain and hire key personnel.  
+
+
+
+        Our future success depends partly on the continued service of our key research, engineering, sales, marketing, manufacturing, executive and administrative
+personnel. If we fail to retain and hire a sufficient number of these personnel, we will not be able to maintain or expand our business. The markets in which we operate are very dynamic, and our
+businesses continue to respond with reorganizations, workforce reductions and site closures. We believe our pay levels are very competitive within the regions that we operate. However, there is also
+intense competition for certain highly technical specialties in geographic areas where we continue to recruit, and it may become more difficult to retain our key employees. 
+
+
+
+ Our acquisitions, strategic alliances, joint ventures and divestitures may result in financial results that are different than expected.  
+
+
+
+        In the normal course of business, we frequently engage in discussions with third parties relating to possible acquisitions, strategic alliances, joint ventures
+and divestitures, and generally expect to complete several transactions per year. As a result of such transactions, our financial results may differ from the investment community's expectations in a
+given quarter, or over the long term. In
+addition, acquisitions and strategic alliances may require us to integrate a different company culture, management team and business infrastructure. We may have difficulty developing, manufacturing
+and marketing the products of a newly acquired company in a way that enhances the performance of our combined businesses or product lines to realize the value from expected synergies. Depending on the
+size and complexity of an acquisition, our successful integration of the entity depends on a variety of factors, including: 
+
+
+
+•the
+retention of key employees;
+•the
+management of facilities and employees in different geographic areas;
+•the
+retention of key customers;
+•the
+compatibility of our sales programs and facilities within those of the acquired company; and
+•the
+compatibility of our existing infrastructure with that of an acquired company. 
+
+
+        A
+successful divestiture depends on various factors, including our ability to: 
+
+
+
+•effectively
+transfer liabilities, contracts, facilities and employees to the purchaser; 
+
+26
+
+
+
+
+ 
+
+
+
+
+•identify
+and separate the intellectual property to be divested from the intellectual property that we wish to keep; and
+•reduce
+fixed costs previously associated with the divested assets or business. 
+
+
+        Future
+impairment of the value of purchased assets and goodwill could have a significant negative impact on our future operating results. 
+
+        In
+addition, if customers of the divested business do not receive the same level of service from the new owners, this may adversely affect our other businesses to the extent that these
+customers also purchase other Agilent products. All of these efforts require varying levels of management resources, which may divert our attention from other business operations. Further, if market
+conditions or other factors lead us to change our strategic direction, we may not realize the expected value from such transactions. If we do not realize the expected benefits or synergies of such
+transactions, our consolidated financial position, results of operations, cash flows and stock price could be negatively impacted. 
+
+
+
+ Environmental contamination from past operations could subject us to unreimbursed costs and could harm on-site operations and the future use and value of the properties involved and
+environmental contamination caused by ongoing operations could subject us to substantial liabilities in the future.  
+
+
+
+        Some of our properties are undergoing remediation by Hewlett-Packard ("HP") for subsurface contaminations that were known at the time of our separation from HP.
+HP has agreed to retain the liability for this subsurface contamination, perform the required remediation and indemnify us with respect to claims arising out of that contamination. The determination
+of the existence and cost of any additional contamination caused by us could involve costly and time-consuming negotiations and litigation. In addition, HP will have access to our
+properties to perform remediation. While HP has agreed to minimize interference with on-site operations at those properties, remediation activities and subsurface contamination may require
+us to incur unreimbursed costs and could harm on-site operations and the future use and value of the properties. We cannot be sure that HP will continue to fulfill its indemnification or
+remediation obligations. 
+
+        We
+have agreed to indemnify HP for any liability associated with contamination from past operations at all other properties transferred from HP to us other than those properties
+currently undergoing remediation by HP. While we are not aware of any material liabilities associated with any potential subsurface contamination at any of those properties, subsurface contamination
+may exist, and we may be exposed to material liability as a result of the existence of that contamination. 
+
+
+        Our
+semiconductor and other manufacturing processes involve the use of substances regulated under various international, federal, state and local laws governing the environment. We may
+still be subject to liabilities for environmental contamination, and these liabilities may be substantial. Although our policy is to apply strict standards for environmental protection at our sites
+inside and outside the U.S., even if the sites outside the U.S. are not subject to regulations imposed by foreign governments, we may not be aware of all conditions that could subject us to liability. 
+
+
+
+ Our customers and we are subject to various governmental regulations, compliance with which may cause us to incur significant expenses, and if we fail to maintain satisfactory compliance with certain
+regulations, we may be forced to recall products and cease their manufacture and distribution, and we could be subject to civil or criminal penalties.  
+
+
+
+        Our businesses are subject to various significant international, federal, state and local regulations, including but not limited to health and safety, packaging,
+product content, labor and import/export regulations. These regulations are complex, change frequently and have tended to become more 
+
+27
+
+
+
+
+ 
+
+stringent
+over time. We may be required to incur significant expenses to comply with these regulations or to remedy violations of these regulations. Any failure by us to comply with applicable
+government regulations could also result in cessation of our operations or portions of our operations, product recalls or impositions of fines and restrictions on our ability to carry on or expand our
+operations. In addition, because many of our products are regulated or sold into regulated industries, we must comply with additional regulations in marketing our products. 
+
+        Our
+products and operations are also often subject to the rules of industrial standards bodies, like the International Standards Organization, as well as regulation by other agencies
+such as the U.S. Federal Communications Commission. We also must comply with work safety rules. If we fail to adequately address any of these regulations, our businesses could be harmed. 
+
+        Some
+of our chemical analysis products are used in conjunction with chemicals whose manufacture, processing, distribution and notification requirements are regulated by the U.S.
+Environmental Protection Agency under the Toxic Substances Control Act, and by regulatory bodies in other countries with laws similar to the Toxic Substances Control Act. We must conform the
+manufacture, processing, distribution of and notification about these chemicals to these laws and adapt to regulatory requirements in all countries as these requirements change. If we fail to comply
+with these requirements in the manufacture or distribution of our products, then we could be made to pay civil penalties, face criminal prosecution and, in some cases, be prohibited from distributing
+our products in commerce until the products or component substances are brought into compliance. 
+
+
+
+ We are subject to laws and regulations governing government contracts, and failure to address these laws and regulations or comply with government contracts could harm our business by leading to a
+reduction in revenue associated with these customers.  
+
+
+
+        We have agreements relating to the sale of our products to government entities and, as a result, we are subject to various statutes and regulations that apply to
+companies doing business with the government. The laws governing government contracts differ from the laws governing private contracts. For example, many government contracts contain pricing terms and
+conditions that are not applicable to private contracts. We are also subject to investigation for compliance with the regulations governing government contracts. A failure to comply with these
+regulations might result in suspension of these contracts, or administrative penalties. 
+
+
+
+ Third parties may claim that we are infringing their intellectual property, and we could suffer significant litigation or licensing expenses or be prevented from selling products.  
+
+
+
+        While we do not believe that any of our products infringe the valid intellectual property rights of third parties, we may be unaware of intellectual property
+rights of others that may cover some of our technology, products or services. Any litigation regarding patents or other intellectual property could be costly and time-consuming and could
+divert our management and key personnel from our business operations. The complexity of the technology involved and the uncertainty of intellectual property litigation increase these risks. Claims of
+intellectual property infringement might also require us to enter into costly license agreements. However, we may not be able to obtain license agreements on terms acceptable to us, or at all. We also
+may be subject to significant damages or injunctions against development and sale of certain of our products. 
+
+        We
+often rely on licenses of intellectual property useful for our businesses. We cannot ensure that these licenses will be available in the future on favorable terms or at all. In
+addition, our position with respect to the negotiation of licenses has changed as a result of our agreement to divest our semiconductor products business. In the past, we benefited from a substantial
+intellectual property portfolio, including the intellectual property that is being sold to the buyer of our semiconductor products business, when asserting counterclaims and negotiating cross-licenses
+with third parties. Our divestiture agreement gives us only a limited ability to sublicense the semiconductor products 
+
+28
+
+
+
+
+ 
+
+
+intellectual
+property portfolio. Accordingly, we may be unable to obtain agreements on terms as favorable as we may have been able to obtain if we could have licensed the intellectual property
+portfolio we owned prior to the divestiture agreement. 
+
+
+
+ Third parties may infringe our intellectual property, and we may expend significant resources enforcing our rights or suffer competitive injury.  
+
+
+
+        Our success depends in large part on our proprietary technology. We rely on a combination of patents, copyrights, trademarks, trade secrets, confidentiality
+provisions and licensing arrangements to establish and protect our proprietary rights. If we fail to successfully enforce our intellectual property rights, our competitive position could suffer, which
+could harm our operating results. 
+
+        Our
+pending patent and trademark registration applications may not be allowed, or competitors may challenge the validity or scope of our patents, copyrights or trademarks. In addition,
+our patents may not provide us a significant competitive advantage. 
+
+        We
+may be required to spend significant resources to monitor and police our intellectual property rights. We may not be able to detect infringement and our competitive position may be
+harmed before we do so. In addition, competitors may design around our intellectual property rights or develop competing technologies. Intellectual property rights and our ability to enforce them may
+also be unavailable or limited in some foreign countries, which could make it easier for competitors to capture market share and result in lost revenues. Furthermore, some intellectual property rights
+are licensed to other companies, allowing them to compete with us using that intellectual property. 
+
+
+
+ If we suffer loss to our factories, facilities or distribution system due to catastrophe, our operations could be seriously harmed.  
+
+
+
+        Our factories, facilities and distribution system are subject to catastrophic loss due to fire, flood, terrorism or other natural or man-made
+disasters. In particular, several of our facilities could be subject to a catastrophic loss caused by earthquake due to their locations. Our production facilities, headquarters and Agilent
+Technologies Laboratories in California, and our production facilities in Washington and Japan, are all located in areas with above average seismic activity. If any of these facilities were to
+experience a catastrophic loss, it could disrupt our operations, delay production, shipments and revenue and result in large expenses to repair or replace the facility. In addition, since we have
+recently consolidated our manufacturing facilities, we are more likely to experience an interruption to our operations in the event of a catastrophe in any one location. Although we carry insurance
+for property damage and business interruption, we do not carry insurance or financial reserves for interruptions or potential losses arising from earthquakes or terrorism. 
+
+Item 1B

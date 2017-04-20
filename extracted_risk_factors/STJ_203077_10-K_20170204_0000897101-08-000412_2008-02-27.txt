@@ -1,0 +1,611 @@
+Item 1A, Risk Factors of this Form 10-K. Currency exchange rate fluctuations relative to the U.S. Dollar can affect reported consolidated revenues and net earnings. We may hedge a portion of this exposure from time to time to reduce the effect of foreign currency rate fluctuations on net earnings. See the Market Risk
+section of Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Financial Report included in St. Jude Medical’s 2007 Annual Report to Shareholders and filed as Exhibit 13 to this Form 10-K. 
+
+Seasonality 
+
+Our quarterly net sales are influenced by many factors, including new product introductions, acquisitions, regulatory approvals, patient and physician holiday schedules and other factors. Net sales in the third quarter are typically lower than other quarters of the year as a result of patient tendencies to defer, if possible, cardiac procedures during the summer months and from the seasonality of the U.S. and European markets, where summer vacation schedules normally result in fewer procedures. 
+
+Suppliers 
+
+We purchase raw materials and other products from numerous suppliers. Our manufacturing requirements comply with the rules and regulations of the FDA, which mandate validation of materials prior to use in our products. We purchase certain supplies used in our manufacturing processes from single sources due to quality considerations, costs or constraints resulting from regulatory requirements. Agreements with certain suppliers are terminable by either party upon short notice and we have been advised periodically by some suppliers that in an effort to reduce their potential product liability exposure, they may terminate sales of products to customers that manufacture implantable medical devices. While some of these suppliers have modified their positions and have indicated a willingness to continue to provide a product temporarily until an alternative vendor or product can be qualified (or even to reconsider the
+supply relationship), where a particular single-source supply relationship is terminated, we may not be able to establish additional or replacement suppliers for certain components or materials quickly. A reduction or interruption by a sole-source supplier of the supply of materials or key components used in the manufacturing of our products or an increase in the price of those materials or components could adversely affect our business, financial condition and results of operations. 
+
+Government Regulation 
+
+Our products, development activities and manufacturing processes are subject to extensive and rigorous regulation by the FDA pursuant to the Federal Food, Drug, and Cosmetic Act (FDCA), by comparable agencies in foreign countries and by other regulatory agencies and governing bodies. Under the FDCA and associated regulations, manufacturers of medical devices must comply with certain regulations that cover the composition, labeling, testing, clinical study, manufacturing, packaging and distribution of medical devices. Medical devices must receive FDA clearance or approval before they can be commercially marketed in the United States. The most comprehensive level of approval requires the completion of an FDA-approved clinical evaluation program and submission and approval of a pre-market approval (PMA) application before a device may be commercially marketed. Our mechanical and tissue heart valves, ICDs,
+pacemakers and certain leads, neurostimulation devices and EP catheter applications require a PMA application or supplement to a PMA. Other leads and lead delivery tools, annuloplasty ring products, other neurostimulation devices and other EP and cardiology products are currently marketed under the less rigorous 510(k) pre-market notification procedure of the FDCA. 
+
+Furthermore, our international business is subject to medical device laws in individual countries outside the United States. Most major markets for medical devices outside the United States require clearance, approval or compliance with certain standards before a product can be commercially marketed. The applicable laws range from extensive device approval requirements in some countries for all or some of our products, to requests for data or certifications in other countries. Generally, international regulatory requirements are increasing. In the European Union, the regulatory systems have been consolidated, and approval to market in all European Union countries (represented by the CE Mark) can be obtained through one agency. The process of obtaining marketing clearance from the FDA and foreign regulatory agencies for new products or with respect to enhancements or modifications to existing products can take
+a significant period of time, require the expenditure of substantial resources, involve rigorous pre-clinical and clinical testing, require changes to the products and result in limitations on the indicated uses of the products. 
+
+The FDA conducts inspections prior to approval of a PMA application to determine compliance with the quality system regulations that cover manufacturing and design. In addition, the FDA may require testing and surveillance programs to monitor the effects of approved products that have been commercialized, and may prevent or limit further marketing of products based on the results of these post-marketing programs. At any time after approval of a product, the FDA may conduct periodic inspections to determine compliance with both the FDA’s Quality System Regulation (QSR) requirements and/or current medical device reporting regulations. Product approvals by the FDA can be withdrawn due to failure to comply with regulatory standards or the occurrence of unforeseen problems following initial approval. The failure to comply with regulatory standards or the discovery of previously unknown problems with a product
+or manufacturer could result in fines, delays or suspensions of regulatory clearances, seizures or recalls of products (with the attendant expenses), the banning of a particular device, an order to replace or refund the cost of any device previously manufactured or distributed, operating restrictions and criminal prosecution, as well as decreased sales as a result of negative publicity and product liability claims. 
+
+ 
+
+9
+
+
+
+
+
+
+Table of Contents 
+
+
+
+We are required to register with the FDA as a device manufacturer and as a result, we are subject to periodic inspection by the FDA for compliance with the FDA’s QSR requirements, which require manufacturers of medical devices to adhere to certain regulations, including testing, quality control and documentation procedures. In addition, the federal Medical Device Reporting regulations require us to provide information to the FDA whenever there is evidence that reasonably suggests that a device may have caused or contributed to a death or serious injury or, if a malfunction were to occur, could cause or contribute to a death or serious injury. Compliance with applicable regulatory requirements is subject to continual review and is rigorously monitored through periodic inspections by the FDA. In the European Community, we are required to maintain certain International Organization for Standardization (ISO)
+certifications in order to sell products, and we undergo periodic inspections by notified bodies to obtain and maintain these certifications. 
+
+The FDA also regulates recordkeeping for medical devices and reviews hospital and manufacturers’ required reports of adverse experiences to identify potential problems with FDA-authorized devices. Regulatory actions may be taken by the FDA due to adverse experience reports. 
+
+Diagnostic-related group (DRG) and Ambulatory Patient Classification (APC) reimbursement schedules dictate the amount that the U.S. government, through the Centers for Medicare and Medicaid Services, will reimburse hospitals for care of persons covered by Medicare. In response to rising Medicare and Medicaid costs, several legislative proposals are under consideration that would restrict future funding increases for these programs. Changes in current DRG and APC reimbursement levels could have an adverse effect on market demand and our domestic pricing flexibility. In the U.S., Medicare payment to providers is based on prospectively set rates. The Centers for Medicare and Medicaid Services (CMS), which administers the Medicare and Medicaid programs, uses separate Prospective Payment Systems (PPSs) for reimbursement to acute inpatient hospitals, hospital outpatient departments and ambulatory surgery centers. In
+response to rising Medicare costs, several legislative proposals are under consideration that would reduce the annual update in federal payments to hospitals. Reduced funding could have an adverse effect on market demand and our domestic pricing flexibility.
+
+More generally, major third-party payors for hospital services in the United States and abroad continue to work to contain healthcare costs. The introduction of cost containment incentives, combined with closer scrutiny of healthcare expenditures by both private health insurers and employers, has resulted in increased discounts and contractual adjustments to hospital charges for services performed and in the shifting of services between inpatient and outpatient settings. Initiatives to limit the growth of healthcare costs, including price regulation, are also underway in several countries in which we do business. Implementation of healthcare reforms in the United States and in significant overseas markets such as Germany, Japan and other countries may limit the price of or the level at which reimbursement is provided for, our products. 
+
+The United States Medicare-Medicaid Anti-kickback law generally prohibits payments to physicians or other purchasers of medical products under these government programs as an inducement to purchase a product. Many foreign countries have similar laws. We subscribe to the AdvaMed Code (AdvaMed is a U.S. medical device industry trade association) which limits certain marketing and other practices in our relationships with product purchasers. We also adhere to many similar codes in countries outside the United States. In addition, we have in place and are continuously improving an internal business integrity and compliance program.
+
+Federal and state laws protect the confidentiality of certain patient health information, including patient records, and restrict the use and disclosure of such information. In particular, the U.S. Department of Health and Human Services has issued patient privacy rules under the Health Insurance Portability and Accountability Act of 1996 (HIPAA privacy rule). The HIPAA privacy rule governs the use and disclosure of protected health information by “covered entities,” which are healthcare providers that submit electronic claims, health plans and healthcare clearinghouses. Other than our employee health benefit plans, which are covered entities, the HIPAA privacy rule only affects us indirectly. Our policy is to work with customers and business partners in their HIPAA compliance efforts. 
+
+Some medical device regulatory agencies have considered and are considering whether to continue to permit the sale of medical devices that incorporate any bovine material because of concerns about Bovine Spongiform Encephalopathy (BSE), sometimes referred to as “mad cow disease,” a disease which has sometimes been transmitted to humans through the consumption of beef. We are not aware of any reported cases of transmission of BSE through medical products. Some of our products (Angio-Seal™ and vascular grafts) use bovine collagen. In addition, some of the tissue heart valves we market incorporate bovine pericardial material. We are cooperating with the regulatory agencies considering these issues. 
+
+ 
+
+10
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Product Liability 
+
+The design, manufacture and marketing of medical devices of the types we produce entail an inherent risk of product liability claims. Our products are often used in intensive care settings with seriously ill patients, and many of the medical devices we manufacture and sell are designed to be implanted in the human body for long periods of time or indefinitely. There are a number of factors that could result in an unsafe condition or injury to, or death of, a patient with respect to these or other products which we manufacture or sell, including component failures, manufacturing flaws, design defects or inadequate disclosure of product-related risks or product-related information. Product liability claims may be brought by individuals or by groups seeking to represent a class. 
+
+We are currently the subject of various product liability claims, including several lawsuits which may be allowed to proceed as class actions in the United States and Canada. The outcome of litigation, particularly class action lawsuits, is difficult to assess or quantify. Plaintiffs in these types of lawsuits often seek recovery of very large or indeterminate amounts, and the magnitude of the potential loss relating to such lawsuits may remain unknown for substantial periods of time. In addition, product liability claims may be asserted against us in the future, relative to events that are not known to management at the present time. 
+
+Insurance 
+
+Problems with our products can result in product liability claims or a field action, safety alert or advisory notice relating to the product. Our product liability insurance coverage is designed to help protect us against a catastrophic claim. Our current product liability policies (for the period June 15, 2007 through June 15, 2008) provide $350 million of insurance coverage, with a $50 million per occurrence deductible or a $100 million deductible if the claims are deemed an integrated occurrence under the policies. 
+
+Our facilities could be materially damaged by earthquakes, hurricanes and other natural disasters or catastrophic circumstances. California earthquake insurance is currently difficult to obtain, extremely costly, and restrictive with respect to scope of coverage. Our earthquake insurance for our significant CRM facilities located in Sylmar and Sunnyvale, California, provides $10 million of insurance coverage in the aggregate, with a deductible equal to 5% of the total value of the facility and contents involved in the claim. Consequently, despite this insurance coverage, we could incur uninsured losses and liabilities arising from an earthquake near one or both of our California facilities as a result of various factors, including the severity and location of the earthquake, the extent of any damage to our facilities, the impact of an earthquake on our California workforce and on the infrastructure of the
+surrounding communities and the extent of damage to our inventory and work in process. While we believe that our exposure to significant losses from a California earthquake could be partially mitigated by our ability to manufacture some of our CRM products at our manufacturing facilities in Sweden and Puerto Rico, the losses could have a material adverse effect on our business for an indeterminate period of time before this manufacturing transition is complete and operates without significant problems. Furthermore, our manufacturing facilities in Puerto Rico may suffer damage as a result of hurricanes which are frequent in the Caribbean and which could result in lost production and additional expenses to us to the extent any such damage is not fully covered by our hurricane and business interruption insurance. 
+
+Employees 
+
+As of December 29, 2007, we had approximately 12,000 employees worldwide. Our employees are not represented by any labor organizations, with the exception of our employees in Sweden and certain employees in France. We have never experienced a work stoppage as a result of labor disputes. We believe that our relationship with our employees is generally good. 
+
+Executive Officers of the Registrant 
+
+The following is a list of our executive officers as of February 15, 2008. For each position, the dates in parentheses indicate the year during which each executive officer began serving in such capacity. 
+
+
+
+
+
+    
+        
+            Name  
+        
+            Age 
+        
+            Position   
+    
+        
+              
+        
+              
+        
+               
+    
+        
+            Daniel J. Starks 
+        
+            53 
+        
+            Chairman (2004), President (2001) and Chief Executive Officer (2004)  
+    
+        
+            John C. Heinmiller 
+        
+            53 
+        
+            Executive Vice President (2004) and Chief Financial Officer (1998)  
+    
+        
+            Joseph H. McCullough 
+        
+            58 
+        
+            Group President (2008)  
+    
+        
+            Michael T. Rousseau 
+        
+            52 
+        
+            Group President (2008)  
+    
+        
+            Frank J. Callaghan 
+        
+            54 
+        
+            President, Cardiovascular (2008)  
+    
+        
+            Christopher G. Chavez 
+        
+            52 
+        
+            President, Advanced Neuromodulation Systems (2005)  
+    
+        
+            Eric S. Fain, M.D. 
+        
+            47 
+        
+            President, Cardiac Rhythm Management (2007)  
+    
+        
+            George J. Fazio 
+        
+            48 
+        
+            President, U.S. (2008)   
+    
+        
+            Denis M. Gestin 
+        
+            44 
+        
+            President, International (2008)  
+    
+        
+            Jane J. Song 
+        
+            45 
+        
+            President, Atrial Fibrillation (2004)  
+    
+        
+            I. Paul Bae 
+        
+            43 
+        
+            Vice President, Human Resources (2006)  
+    
+        
+            Angela D. Craig 
+        
+            36 
+        
+            Vice President, Corporate Relations (2006)  
+    
+        
+            Pamela S. Krop 
+        
+            49 
+        
+            Vice President (2006), General Counsel (2006) and Secretary (2006)  
+    
+        
+            Thomas R. Northenscold 
+        
+            50 
+        
+            Vice President, Information Technology (2008) and Chief Information Officer (2008)  
+    
+        
+            Donald J. Zurbay 
+        
+            40 
+        
+            Vice President (2006) and Corporate Controller (2004)  
+
+
+ 
+
+ 
+
+11
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Mr. Starks has served on St. Jude Medical’s Board of Directors since 1996 and has been Chairman, President and Chief Executive Officer of St. Jude Medical since May 12, 2004. Previously, Mr. Starks was President and Chief Operating Officer of St. Jude Medical since February 1, 2001. From April 1998 to February 2001, he was President and Chief Executive Officer of our Cardiac Rhythm Management Division, and prior to that, Mr. Starks was Chief Executive Officer and President of Daig Corporation, a wholly-owned subsidiary of St. Jude Medical. Mr. Starks serves on the Board of Directors of Urologix, Inc., a urology medical device company. 
+
+Mr. Heinmiller joined St. Jude Medical in May 1996 as a part of our acquisition of Daig Corporation, where Mr. Heinmiller had served as Vice President of Finance and Administration since 1995. In May 1998, he was named Vice President of Corporate Business Development. In September 1998, he was appointed Vice President, Finance and Chief Financial Officer and in May 2004 was promoted to Executive Vice President. 
+
+Mr. McCullough joined St. Jude Medical in 1994 as a Cardiac Rhythm Management Regional Sales Director. He became Director of Cardiac Rhythm Management Marketing in 1996 and was named Vice President of Cardiac Rhythm Management Marketing in January 1997. In December 1997, Mr. McCullough was appointed European Cardiac Rhythm Management Business Unit Director. He became Vice President, Cardiac Rhythm Management Europe and Managing Director of manufacturing operations in Veddesta, Sweden, in January 1999, and Senior Vice President, Cardiac Rhythm Management Europe in August 1999. Mr. McCullough served as President, International Division from July 2001 to January 2008, when he was promoted to Group President, with the Company’s U.S. and International Divisions and Corporate Brand and Global Marketing functions reporting directly to him.
+
+Mr. Rousseau joined St. Jude Medical in 1999 as Senior Vice President, Cardiac Rhythm Management Global Marketing. In August 1999, Cardiac Rhythm Management Marketing and Sales were combined under his leadership. In January 2001, he was named President, U.S. Cardiac Rhythm Management Sales, and in July 2001, he was named President, U.S. Division, a position Mr. Rousseau held until January 2008, when he was promoted to Group President, with the Company’s four product divisions reporting directly to him.
+
+Mr. Callaghan joined St. Jude Medical as Vice President of Research and Development for the Atrial Fibrillation Division in January 2005 as part of the ESI acquisition. From 1995 - 2005, Mr. Callaghan served as Vice President of Research and Development for ESI. In January 2008, he was promoted to President, Cardiovascular Division.
+
+Mr. Chavez joined St. Jude Medical as President, Advanced Neuromodulation Systems Division, as a result of our acquisition of ANS in November 2005. From April 1998 to 2005, he served as President, Chief Executive Officer and Director of ANS, when it was a separate company. Mr. Chavez serves on the Board of Directors of Advanced Medical Optics, Inc., an optical medical device company. 
+
+Dr. Fain joined St. Jude Medical in 1997 as a part of our acquisition of Ventritex, Inc., where he had served since 1987. In 1998, he was named Senior Vice President, Clinical Engineering and Regulatory Affairs, Cardiac Rhythm Management. In 2002 he was appointed Senior Vice President for Development and Clinical/Regulatory Affairs for Cardiac Rhythm Management and was promoted to Executive Vice President over those functions in 2005. In July 2007, Dr. Fain became President of our Cardiac Rhythm Management Division.
+
+Mr. Fazio joined St. Jude Medical in 1992 and served as the General Manager of St. Jude Medical Canada, Inc., based in Mississauga, Ontario, Canada, until being named President, Health Care Services in May 1999. In July 2001, he was appointed President of St. Jude Medical Europe and in August 2004 was named President, Cardiac Surgery Division. In January 2007, he became President, Cardiovascular Division, which was formed by the combination of our former Cardiology and Cardiac Surgery Divisions. In January 2008, Mr. Fazio was promoted to President, U.S. Division.
+
+ 
+
+12
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Mr. Gestin joined St. Jude Medical in 1997 as manager of cardiac rhythm management and catheter product sales in France. He was named Managing Director of St. Jude Medical France in 1999 and was promoted to Vice President, Northern Europe & Africa in 2002. He was named President of SJM Europe, Middle East, Africa and Canada in August 2004, and in January 2008, Mr. Gestin was promoted to President, International Division.
+
+Ms. Song joined St. Jude Medical in 1998 as Senior Vice President, Cardiac Rhythm Management Operations. In May 2002, she was appointed President, Cardiac Surgery Division, and in August 2004, was appointed President, Atrial Fibrillation Division. 
+
+Mr. Bae joined St. Jude Medical in 2003 and most recently served as General Counsel and Vice President, Human Resources for the U.S. Division. In September 2006, he was appointed Vice President, Human Resources. Prior to joining St. Jude Medical, Mr. Bae was Director of Litigation for Alpha Therapeutic Corporation, a biopharmaceutical company. 
+
+Ms. Craig joined St. Jude Medical in May 2005 as Vice President of Communications and served in that position until being named Vice President, Corporate Relations, in January 2006. Prior to joining St. Jude Medical, Ms. Craig spent 12 years with Smith & Nephew plc, a medical device company headquartered in London, England, where she served as Director of Corporate Affairs from 2002 to 2003 prior to serving as Vice President of U.S. Public Relations and Investor Relations from 2003 to 2005. 
+
+Ms. Krop joined St. Jude Medical in July 2006 as Vice President, General Counsel and Corporate Secretary. She previously spent 15 years at General Electric (GE) Company, a diversified industrial corporation, and served as General Counsel of GE Healthcare Bio-Sciences, a $3 billion business acquired by GE, formerly known as Amersham plc. 
+
+Mr. Northenscold joined St. Jude Medical in 2001 as Vice President, Finance and Administration of Daig Corporation, a wholly-owned subsidiary of St. Jude Medical. In March 2003, he was named Vice President, Administration and in November 2007 was promoted to Vice President, Information Technology and Chief Information Officer. 
+
+Mr. Zurbay joined St. Jude Medical in 2003 as Director of Corporate Finance. In 2004, Mr. Zurbay was named Corporate Controller, and in January 2006 he was named Vice President and Corporate Controller. From 1999 to 2003, he served as Senior Audit Manager at PricewaterhouseCoopers LLP, a global public accounting firm. 
+
+Availability of SEC Reports 
+
+We make available, free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act) as soon as reasonably practical after they are filed or furnished to the U.S. Securities and Exchange Commission (SEC). Such reports are available on our website (http://www.sjm.com) under Company Information section Investor Relations – SEC Filings or can be obtained by contacting our Investor Relations group at 1.800.552.7664 or at St. Jude Medical, Inc., One Lillehei Plaza, St. Paul, Minnesota 55117. Information included on our website is not deemed to be incorporated into this Form 10-K. 
+
+Item 1A.  RISK FACTORS
+
+Our business faces many risks. Any of the risks discussed below, or elsewhere in this Form 10-K or our other SEC filings, could have a material impact on our business, financial condition or results of operations. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also impair our business operations. 
+
+We face intense competition and may not be able to keep pace with the rapid technological changes in the medical devices industry. 
+
+The medical device market is intensely competitive and is characterized by extensive research and development and rapid technological change. Our customers consider many factors when choosing suppliers, including product reliability, clinical outcomes, product availability, inventory consignment, price and product services provided by the manufacturer, and market share can shift as a result of technological innovation and other business factors. Major shifts in industry market share have occurred in connection with product problems, physician advisories and safety alerts, reflecting the importance of product quality in the medical device industry. Our competitors range from small start-up companies to larger companies which have significantly greater resources and broader product offerings than us, and we anticipate that in the coming years, other large companies will enter certain markets in which we
+currently hold a strong position. For example, Boston Scientific Corporation acquired one of our principal competitors, Guidant Corporation, in 2006. In addition, we expect that competition will continue to intensify with the increased use of strategies such as consigned inventory and we have seen increasing price competition as a result of managed care, consolidation among healthcare providers, increased competition and declining reimbursement rates. Product introductions or enhancements by competitors which have advanced technology, better features or lower pricing may make our products or proposed products obsolete or less competitive. As a result, we will be required to devote continued efforts and financial resources to bring our products under development to market, enhance our existing products and develop new products for the medical marketplace. If we fail to develop new products, enhance existing products or compete effectively, our business, financial
+condition and results of operations will be adversely affected. 
+
+ 
+
+13
+
+
+
+
+
+
+Table of Contents 
+
+
+
+We are subject to stringent domestic and foreign medical device regulation which may impede the approval process for our products, hinder our development activities and manufacturing processes and, in some cases, result in the recall or seizure of previously approved products. 
+
+Our products, development activities and manufacturing processes are subject to extensive and rigorous regulation by the FDA pursuant to the FDCA, by comparable agencies in foreign countries and by other regulatory agencies and governing bodies. Under the FDCA and associated regulations, manufacturers of medical devices must comply with certain regulations that cover the composition, labeling, testing, clinical study, manufacturing, packaging and distribution of medical devices. In addition, medical devices must receive FDA clearance or approval before they can be commercially marketed in the United States, and the FDA may require testing and surveillance programs to monitor the effects of approved products that have been commercialized and can prevent or limit further marketing of a product based on the results of these post-marketing programs. Furthermore, most major markets for medical devices outside the
+United States require clearance, approval or compliance with certain standards before a product can be commercially marketed. The process of obtaining marketing approval or clearance from the FDA and foreign regulatory agencies for new products or with respect to enhancements or modifications to existing products can take a significant period of time, require the expenditure of substantial resources, involve rigorous pre-clinical and clinical testing, require changes to the products and result in limitations on the indicated uses of the products. We cannot be certain that we will receive the required approval or clearance from the FDA and foreign regulatory agencies for new products or modifications to existing products on a timely basis. The failure to receive approval or clearance for significant new products on a timely basis could have a material adverse effect on our financial condition and results of operations. 
+
+At any time after approval of a product, the FDA may conduct periodic inspections to determine compliance with both the FDA’s QSR requirements and/or current medical device reporting regulations. Product approvals by the FDA can be withdrawn due to failure to comply with regulatory standards or the occurrence of unforeseen problems following initial approval. The failure to comply with regulatory standards or the discovery of previously unknown problems with a product, component or manufacturer could result in fines, delays or suspensions of regulatory clearances, seizures or recalls of products (with the attendant expenses), the banning of a particular device, an order to replace or refund the cost of any device previously manufactured or distributed, operating restrictions and criminal prosecution, as well as decreased sales as a result of negative publicity and product liability claims, and could have
+a material adverse effect on our financial condition and results of operations. 
+
+We may not be able to meet regulatory quality standards applicable to our manufacturing process. 
+
+We are required to register with the FDA as a device manufacturer and as a result, we are subject to periodic inspection by the FDA for compliance with the FDA’s QSR requirements, which require manufacturers of medical devices to adhere to certain regulations, including testing, quality control and documentation procedures. In addition, the federal Medical Device Reporting regulations require us to provide information to the FDA whenever there is evidence that reasonably suggests that a device may have caused or contributed to a death or serious injury or, may contain an anomaly which, if a malfunction were to occur, could cause or contribute to a death or serious injury. Compliance with applicable regulatory requirements is subject to continual review and is rigorously monitored through periodic inspections by the FDA. In the European Community, we are required to maintain certain ISO certifications in
+order to sell products and we undergo periodic inspections by notified bodies to obtain and maintain these certifications. If we or our manufacturers fail to adhere to QSR or ISO requirements, this could delay production of our products and lead to fines, difficulties in obtaining regulatory clearances, recalls or other consequences, which could in turn have a material adverse effect on our financial condition and results of operations. 
+
+If we are unable to protect our intellectual property effectively, our financial condition and results of operations could be adversely affected. 
+
+Patents and other proprietary rights are essential to our business and our ability to compete effectively with other companies is dependent upon the proprietary nature of our technologies. We also rely upon trade secrets, know-how, continuing technological innovations and licensing opportunities to develop, maintain and strengthen our competitive position. We seek to protect these, in part, through confidentiality agreements with certain employees, consultants and other parties. We pursue a policy of generally obtaining patent protection in both the United States and in key foreign countries for patentable subject matter in our proprietary devices and also attempt to review third-party patents and patent applications to the extent publicly available to develop an effective patent strategy, avoid infringement of third-party patents, identify licensing opportunities and monitor the patent claims of others. We
+currently own numerous United States and foreign patents and have numerous patent applications pending. We are also a party to various license agreements pursuant to which patent rights have been obtained or granted in consideration for cash, cross-licensing rights or royalty payments. We cannot be certain that any pending or future patent applications will result in issued patents, that any current or future patents issued to or licensed by us will not be challenged, invalidated or circumvented or that the rights granted thereunder will provide a competitive advantage to us or prevent competitors from entering markets which we currently serve. Any required license may not be available to us on acceptable terms, if at all. In addition, some licenses may be non-exclusive, and therefore our competitors may have access to the same technologies as us. In addition, we may have to take legal action in the future to protect our trade secrets or know-how or to defend them against claimed
+infringement of the rights of others. Any legal action of that type could be costly and time consuming to us and we cannot be certain that any lawsuit will be successful. The invalidation of key patents or proprietary rights which we own or an unsuccessful outcome in lawsuits to protect our intellectual property could have a material adverse effect on our financial condition and results of operations. 
+
+ 
+
+14
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Pending and future patent litigation could be costly and disruptive to us and may have an adverse effect on our financial condition and results of operations. 
+
+We operate in an industry that is susceptible to significant patent litigation and, in recent years, it has been common for companies in the medical device field to aggressively challenge the rights of other companies to prevent the marketing of new devices. Companies that obtain patents for products or processes that are necessary for or useful to the development of our products may bring legal actions against us claiming infringement and at any given time, we generally are involved as both a plaintiff and a defendant in a number of patent infringement and other intellectual property-related actions. Among other matters, we are currently defending a significant ongoing patent infringement action brought against us by one of our principal competitors, Guidant Corporation, which is now part of Boston Scientific Corporation. Defending intellectual property litigation is expensive and complex and outcomes are
+difficult to predict. Any pending or future patent litigation may result in significant royalty or other payments or injunctions that can prevent the sale of products and may cause a significant diversion of the efforts of our technical and management personnel. While we intend to defend any such lawsuits vigorously, we cannot be certain that we will be successful. In the event that our right to market any of our products is successfully challenged or if we fail to obtain a required license or are unable to design around a patent, our financial condition and results of operations could be materially adversely affected. 
+
+Pending and future product liability claims and litigation may adversely affect our financial condition and results of operations. 
+
+ 
+
+The design, manufacture and marketing of medical devices of the types we produce entail an inherent risk of product liability claims. Our products are often used in intensive care settings with seriously ill patients, and many of the medical devices we manufacture and sell are designed to be implanted in the human body for long periods of time or indefinitely. There are a number of factors that could result in an unsafe condition or injury to, or death of, a patient with respect to these or other products which we manufacture or sell, including component failures, manufacturing flaws, design defects or inadequate disclosure of product-related risks or product-related information. Product liability claims may be brought by individuals or by groups seeking to represent a class. 
+
+ 
+
+We are currently the subject of various product liability claims, including several lawsuits which may be allowed to proceed as class actions in the United States and are being allowed to proceed as class actions in Canada. The outcome of litigation, particularly class action lawsuits, is difficult to assess or quantify. Plaintiffs in these types of lawsuits often seek recovery of very large or indeterminate amounts, and the magnitude of the potential loss relating to such lawsuits may remain unknown for substantial periods of time. For example, in January 2000, we initiated a voluntary field action to replace products incorporating Silzone® coating, which was used in certain of our mechanical heart valves and heart valve repair products. After our voluntary field action, we were sued in various jurisdictions and now have cases pending in the United States, Canada and France which have been brought by some
+patients alleging complications and past or future costs arising either from the surgical removal or, alternatively, from the continued implantation and maintenance of products incorporating Silzone® coating over and above the medical monitoring all replacement heart valve patients receive. Some of the cases involving Silzone®-coated products have been settled, others have been dismissed and still others are ongoing. The complaints in the ongoing individual cases in the United States request damages ranging from $10,000 to $120.5 million and in some cases, seek an unspecified amount, and the complaints in the Canadian class actions request damages ranging from the equivalent of $1.5 million to $2.0 billion at December 29, 2007. We believe that the final resolution of the Silzone®-coated product cases will take years and cannot reasonably estimate the time frame in which any potential settlements or judgments would be paid out or the amounts of any such settlements or
+judgments. In addition, the cost to defend any future litigation, whether Silzone®-related or not, may be significant. We believe that many settlements and judgments relating to the Silzone® litigation and our other litigation may be covered in whole or in part under our product liability insurance policies and existing reserves. Any costs not covered under our product liability insurance policies and existing reserves could have a material adverse effect on our financial condition and results of operations.
+
+ 
+
+15
+
+
+
+
+Table of Contents 
+
+
+
+
+We may be unable to obtain appropriate levels of product liability insurance. 
+
+Problems with our products can result in product liability claims or a field action, safety alert or advisory notice relating to the product. Our product liability insurance coverage is designed to help protect us against a catastrophic claim. Our current product liability policies provide $350 million of insurance coverage, with a $100 million deductible per occurrence. We cannot be certain that such insurance will be available or adequate to satisfy future claims or that our insurers will be able to pay claims on insurance policies which they have issued to us. If we are unable to secure appropriate levels of product liability insurance coverage, our financial condition and results of operations could be materially adversely affected. 
+
+Our product liability insurers may refuse to cover certain losses on the grounds that such losses are outside the scope of our product liability insurance policies or may agree that such losses are covered losses, but may not be able to meet their current or future payment obligations to us. 
+
+Certain of our insurers have filed suits seeking court
+orders declaring that they are not required to provide coverage for some of the costs we have incurred in the Silzone®
+litigation described above. These same insurers, as well as other insurers from whom we have purchased product liability
+insurance, may deny coverage of these and other past and/or future losses relating to our products on the grounds that such losses
+are outside the scope of coverage of our insurance policies. To the extent that we suffer losses that are outside of the scope of
+coverage of our product liability insurance policies, those losses may have an adverse effect on our financial condition and
+results of operations.
+
+Our remaining product liability insurance for Silzone® claims consists of a number of layers, each of which is covered by one or more insurance companies. Part of our final layer of insurance is covered by a unit of the Kemper Insurance Companies (Kemper), which is currently in “run off” and not issuing new policies or generating any new revenue that could be used to cover claims made under previously-issued policies such as ours. In the event that Kemper is unable to pay part or all of the claims directed to it, we believe that the other insurance carriers in Kemper’s layer will take the position that we will be directly liable for any claims and costs that Kemper is unable to pay and that the other insurance carriers in that layer will not provide coverage for Kemper’s portion. If Kemper or any other insurance companies are unable to meet their respective obligations to us, we could
+incur substantial losses which could have an adverse effect on our financial condition and results of operations. 
+
+The loss of any of our sole-source suppliers or an increase in the price of inventory supplied to us could have an adverse effect on our business, financial condition and results of operations. 
+
+We purchase certain supplies used in our manufacturing processes from single sources due to quality considerations, costs or constraints resulting from regulatory requirements. Agreements with certain suppliers are terminable by either party upon short notice and we have been advised periodically by some suppliers that in an effort to reduce their potential product liability exposure, they may terminate sales of products to customers that manufacture implantable medical devices. While some of these suppliers have modified their positions and have indicated a willingness to continue to provide a product temporarily until an alternative vendor or product can be qualified (or even to reconsider the supply relationship), where a particular single-source supply relationship is terminated, we may not be able to establish additional or replacement suppliers for certain components or materials quickly. This is largely
+due to the FDA approval system, which mandates validation of materials prior to use in our products, and the complex nature of manufacturing processes employed by many suppliers. In addition, we may lose a sole-source supplier due to, among other things, the acquisition of such a supplier by a competitor (which may cause the supplier to stop selling its products to us) or the bankruptcy of such a supplier, which may cause the supplier to cease operations. A reduction or interruption by a sole-source supplier of the supply of materials or key components used in the manufacturing of our products or an increase in the price of those materials or components could adversely affect our business, financial condition and results of operations. 
+
+Cost containment pressures and domestic and foreign legislative or administrative reforms resulting in restrictive reimbursement practices of third-party payors or preferences for alternate therapies could decrease the demand for products purchased by our customers, the prices which they are willing to pay for those products and the number of procedures using our devices. 
+
+Our products are purchased principally by hospitals or physicians that typically bill various third-party payors, such as governmental programs (e.g., Medicare and Medicaid), private insurance plans and managed care plans, for the healthcare services provided to their patients. The ability of customers to obtain appropriate reimbursement for their services and the products they provide from government and third-party payors is critical to the success of medical technology companies. The availability of reimbursement affects which products customers purchase and the prices they are willing to pay. Reimbursement varies from country to country and can significantly impact the acceptance of new technology. After we develop a promising new product, we may find limited demand for the product unless reimbursement approval is obtained from private and governmental third-party payors. 
+
+ 
+
+16
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Major third-party payors for hospital services in the United States and abroad continue to work to contain healthcare costs. The introduction of cost containment incentives, combined with closer scrutiny of healthcare expenditures by both private health insurers and employers, has resulted in increased discounts and contractual adjustments to hospital charges for services performed and in the shifting of services between inpatient and outpatient settings. Initiatives to limit the growth of healthcare costs, including price regulation, are also underway in several countries in which we do business. Implementation of healthcare reforms in the United States and in significant overseas markets such as Germany, Japan and other countries may limit the price of, or the level at which, reimbursement is provided for our products and adversely affect both our pricing flexibility and the demand for our products.
+Hospitals or physicians may respond to such cost-containment pressures by substituting lower cost products or other therapies for our products. 
+
+Further legislative or administrative reforms to the U.S. or international reimbursement systems that significantly reduce reimbursement for procedures using our medical devices or deny coverage for such procedures, or adverse decisions relating to our products by administrators of such systems in coverage or reimbursement issues, would have an adverse impact on the products, including clinical products, purchased by our customers and the prices our customers are willing to pay for them. This in turn would have an adverse effect on our financial condition and results of operations. 
+
+Our failure to comply with restrictions relating to reimbursement and regulation of healthcare goods and services may subject us to penalties and adversely affect our financial condition and results of operations.
+
+Our devices are subject to regulation regarding quality and cost by the United States Department of Health and Human Services, including the Centers for Medicare and Medicaid Services (CMS), as well as comparable state and foreign agencies responsible for reimbursement and regulation of healthcare goods and services. Foreign governments also impose regulations in connection with their healthcare reimbursement programs and the delivery of healthcare goods and services. U.S. federal government healthcare laws apply when we submit a claim on behalf of a U.S. federal healthcare program beneficiary, or when a customer submits a claim for an item or service that is reimbursed under a U.S. federal government funded healthcare program, such as Medicare or Medicaid. The principal U.S. federal laws implicated include those that prohibit the filing of false or improper claims for federal payment, those that prohibit
+unlawful inducements for the referral of business reimbursable under federally-funded healthcare programs, known as the anti-kickback laws, and those that prohibit healthcare service providers seeking reimbursement for providing certain services to a patient who was referred by a physician that has certain types of direct or indirect financial relationships with the service provider, known as the Stark law.
+
+The laws applicable to us are subject to evolving interpretations. If a governmental authority were to conclude that we are not in compliance with applicable laws and regulations, we and our officers and employees could be subject to severe criminal and civil penalties, including, for example, exclusion from participation as a supplier of product to beneficiaries covered by CMS. If we are excluded from participation based on such an interpretation, it could adversely affect our financial condition and results of operations.
+
+Consolidation in the healthcare industry could lead to demands for price concessions or limit or eliminate our ability to sell to certain of our significant market segments. 
+
+The cost of healthcare has risen significantly over the past decade and numerous initiatives and reforms initiated by legislators, regulators and third-party payors to curb these costs have resulted in a consolidation trend in the medical device industry as well as among our customers, including hospitals. This in turn has resulted in greater pricing pressures and limitations on our ability to sell to important market segments, as group purchasing organizations, independent delivery networks and large single accounts, such as the Veterans Administration in the United States, continue to consolidate purchasing decisions for some of our hospital customers. We expect that market demand, government regulation, third-party reimbursement policies and societal pressures will continue to change the worldwide healthcare industry, resulting in further business consolidations and alliances which may exert further
+downward pressure on the prices of our products and adversely impact our business, financial condition and results of operations. 
+
+ 
+
+17
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Failure to integrate acquired businesses into our operations successfully could adversely affect our business. 
+
+As part of our strategy to develop and identify new products and technologies, we have made several acquisitions in recent years and may make additional acquisitions in the future. Our integration of the operations of acquired businesses requires significant efforts, including the coordination of information technologies, research and development, sales and marketing, operations, manufacturing and finance. These efforts result in additional expenses and involve significant amounts of management’s time that cannot then be dedicated to other projects. Our failure to manage successfully and coordinate the growth of the combined company could also have an adverse impact on our business. In addition, we cannot be certain that the businesses we acquire will become profitable or remain so. If our acquisitions are not successful, we may record unexpected impairment charges. Factors that will affect the success of
+our acquisitions include: 
+
+
+
+
+
+    
+        
+               
+        
+            •  
+        
+            the presence or absence of adequate internal controls and/or significant fraud in the financial systems of acquired companies;   
+    
+        
+               
+        
+            •  
+        
+            adverse developments arising out of investigations by governmental entities of the business practices of acquired companies;   
+    
+        
+               
+        
+            •  
+        
+            any decrease in customer loyalty and product orders caused by dissatisfaction with the combined companies’ product lines and sales and marketing practices, including price increases;   
+    
+        
+               
+        
+            •  
+        
+            our ability to retain key employees; and   
+    
+        
+               
+        
+            •  
+        
+            the ability of the combined company to achieve synergies among its constituent companies, such as increasing sales of the combined company’s products, achieving cost savings and effectively combining technologies to develop new products.   
+
+
+ 
+
+The success of many of our products depends upon strong relationships with physicians. 
+
+If we fail to maintain our working relationships with physicians, many of our products may not be developed and marketed in line with the needs and expectations of the professionals who use and support our products. The research, development, marketing and sales of many of our new and improved products is dependent upon our maintaining working relationships with physicians. We rely on these professionals to provide us with considerable knowledge and experience regarding our products and the marketing of our products. Physicians assist us as researchers, marketing consultants, product consultants, inventors and as public speakers. If we are unable to maintain our strong relationships with these professionals and continue to receive their advice and input, the development and marketing of our products could suffer, which could have a material adverse effect on our financial condition and results of operations.
+
+Instability in international markets or foreign currency fluctuations could adversely affect our results of operations. 
+
+Our products are currently marketed in more than 100 countries around the world, with our largest geographic markets outside of the United States being Europe, Japan and Asia Pacific. As a result, we face currency and other risks associated with our international sales. We are exposed to foreign currency exchange rate fluctuations due to transactions denominated primarily in Euros, Japanese Yen, Canadian Dollars, Brazilian Reals, British Pounds and Swedish Kronor, which may potentially reduce the U.S. Dollars we receive for sales denominated in any of these foreign currencies and/or increase the U.S. Dollars we report as expenses in these currencies, thereby affecting our reported consolidated revenues and net earnings. We do not currently hedge our foreign currency exposure. Consequently, fluctuations between the currencies in which we do business have caused and will continue to cause foreign currency
+transaction gains and losses. We cannot predict the effects of currency exchange rate fluctuations upon our future operating results because of the number of currencies involved, the variability of currency exposures and the volatility of currency exchange rates. 
+
+In addition to foreign currency exchange rate fluctuations, there are a number of additional risks associated with our international operations, including those related to: 
+
+
+
+
+
+    
+        
+               
+        
+            •  
+        
+            the imposition of or increase in import or export duties, surtaxes, tariffs or customs duties;   
+    
+        
+               
+        
+            •  
+        
+            the imposition of import or export quotas or other trade restrictions;   
+    
+        
+               
+        
+            •  
+        
+            foreign tax laws and potential increased costs associated with overlapping tax structures;   
+    
+        
+               
+        
+            •  
+        
+            longer accounts receivable cycles in certain foreign countries, whether due to cultural, exchange rate or other factors;   
+    
+        
+               
+        
+            •  
+        
+            changes in regulatory requirements in international markets in which we operate;   
+    
+        
+               
+        
+            •  
+        
+            inquiries into possible improprieties in our international operations, such as our inclusion in the report of the Independent Inquiry Committee into the United Nations (U.N.) Oil-For-Food Programme as allegedly having made payments to the Iraqi government in connection with certain product sales which we made to Iraq under this program from 2000 to 2003; and   
+    
+        
+               
+        
+            •  
+        
+            economic and political instability in foreign countries.   
+
+
+ 
+
+ 
+
+18
+
+
+
+
+
+
+Table of Contents 
+
+
+
+The medical device industry is the subject of a governmental investigation into marketing and other business practices. This and other governmental investigations could result in the commencement of civil and/or criminal proceedings, substantial fines, penalties and/or administrative remedies, divert the attention of our management and have an adverse effect on our financial condition and results of operations.
+
+ 
+
+In October 2005, the U.S. Department of Justice, acting through the U.S. Attorney’s office in Boston, commenced an industry-wide investigation into whether the provision of payments and/or services by makers of implantable cardiac rhythm devices to doctors or other persons constitutes improper inducements under the federal health care program anti-kickback law. As part of this investigation, we received a civil subpoena from the U.S. Attorney’s office in Boston requesting documents created since January 2000 regarding our practices related to pacemakers, ICDs, lead systems and related products marketed by our CRM segment. We understand that our principal competitors in the CRM therapy areas received similar civil subpoenas. We received an additional subpoena from the U.S. Attorney’s office in Boston in September 2006, requesting documents created since January 2002 related to certain employee
+expense reports and certain pacemaker and ICD purchasing arrangements.
+
+ 
+
+In February 2006, we received a subpoena from the SEC requesting that we produce documents concerning transactions under the U.N. Oil-for-Food Programme.
+
+ 
+
+In July 2007, we received a civil subpoena from the U.S. Department of Health and Human Services, Office of the Inspector General requesting documents created during the period from 2003 through 2006 regarding our relationships with ten Ohio hospitals.
+
+We are fully cooperating with these investigations and are responding to these requests. However, we cannot predict when these investigations will be resolved, the outcome of these investigations or their impact on the Company. An adverse outcome in one or more of these investigations could include the commencement of civil and/or criminal proceedings, substantial fines, penalties and/or administrative remedies, including exclusion from government reimbursement programs. In addition, resolution of any of these matters could involve the imposition of additional and costly compliance obligations. Finally, if these investigations continue over a long period of time, they could divert the attention of management from the day-to-day operations of our business and impose significant administrative burdens on us. These potential consequences, as well as any adverse outcome from these investigations, could have an
+adverse effect on our financial condition and results of operations.
+
+Regulatory actions arising from the concern over Bovine Spongiform Encephalopathy may limit our ability to market products containing bovine material.
+
+ 
+
+Our Angio-Seal™ vascular closure device, as well as our vascular graft products, contain bovine collagen. In addition, some of the tissue heart valves we market, such as our Biocor® and Epic™ tissue heart valves, incorporate bovine pericardial material. Certain medical device regulatory agencies may prohibit the sale of medical devices that incorporate any bovine material because of concerns over BSE, sometimes referred to as “mad cow disease,” a disease which may be transmitted to humans through the consumption of beef. While we are not aware of any reported cases of transmission of BSE through medical products and are cooperating with regulatory agencies considering these issues, the suspension or revocation of authority to manufacture, market or distribute products containing bovine material, or the imposition of a regulatory requirement that we procure material for these products
+from alternate sources, could result in lost market opportunities, harm the continued commercialization and distribution of such products and impose additional costs on us. Any of these consequences could in turn have a material adverse effect on our financial condition and results of operations.
+
+We are not insured against all potential losses. Natural disasters or other catastrophes could adversely affect our business, financial condition and results of operations. 
+
+Our facilities could be materially damaged by earthquakes, hurricanes and other natural disasters or catastrophic circumstances. For example, we have significant CRM facilities located in Sylmar and Sunnyvale, California. Earthquake insurance in California is currently difficult to obtain, extremely costly and restrictive with respect to scope of coverage. Our earthquake insurance for these California facilities provides $10 million of insurance coverage in the aggregate, with a deductible equal to 5% of the total value of the facility and contents involved in the claim. Consequently, despite this insurance coverage, we could incur uninsured losses and liabilities arising from an earthquake near one or both of our California facilities as a result of various factors, including the severity and location of the earthquake, the extent of any damage to our facilities, the impact of an earthquake on our California
+workforce and on the infrastructure of the surrounding communities and the extent of damage to our inventory and work in process. While we believe that our exposure to significant losses from a California earthquake could be partially mitigated by our ability to manufacture some of our CRM products at our manufacturing facilities in Sweden and Puerto Rico, the losses could have a material adverse effect on our business for an indeterminate period of time before this manufacturing transition is complete and operates without significant problems. Furthermore, our manufacturing facilities in Puerto Rico may suffer damage as a result of hurricanes which are frequent in the Caribbean and which could result in lost production and additional expenses to us to the extent any such damage is not fully covered by our hurricane and business interruption insurance. 
+
+ 
+
+19
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Even with insurance coverage, natural disasters or other catastrophic events could cause us to suffer substantial losses in our operational capacity and could also lead to a loss of opportunity and to a potential adverse impact on our relationships with our existing customers resulting from our inability to produce products for them, for which we would not be compensated by existing insurance. This in turn could have a material adverse effect on our financial condition and results of operations. 
+
+Our operations are subject to environmental, health and safety laws and regulations that could require us to incur material costs. 
+
+Our operations are subject to environmental, health and safety laws and regulations concerning, among other things, the generation, handling, transportation and disposal of hazardous substances or wastes, particularly ethylene oxide, the cleanup of hazardous substance releases, and emissions or discharges into the air or water. We have incurred and expect to incur expenditures in the future in connection with compliance with environmental, health and safety laws and regulations. New laws and regulations, violations of these laws or regulations, stricter enforcement of existing requirements, or the discovery of previously unknown contamination could require us to incur costs or become the basis for new or increased liabilities that could be material. 
+
+Failure to successfully implement a new enterprise resource planning (ERP) system could adversely affect our business.
+
+ 
+
+We are in the process of converting to a new ERP system. Failure to smoothly execute the implementation of the ERP system could adversely affect the Company’s business, financial condition and results of operations.
+
+Item 1B

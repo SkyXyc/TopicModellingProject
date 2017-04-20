@@ -1,0 +1,1383 @@
+Item 1A of this report, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update
+these forward-looking statements.  
+
+  
+ 
+    PART I        
+
+<A
+NAME="da75001_item_1._business."> 
+  ITEM 1. Business.        
+
+
+        HP is a leading global provider of products, technologies, software, solutions and services to individual consumers, small- and medium-sized businesses ("SMBs")
+and large enterprises, including in the public and education sectors. Our offerings span: 
+
+
+
+•personal
+computing and other access devices,
+•imaging
+and printing-related products and services,
+•enterprise
+information technology infrastructure, including enterprise storage and server technology and software that optimizes business technology investments, and
+•multi-vendor
+customer services, including technology support and maintenance, consulting and integration and outsourcing services. 
+
+
+        HP
+was incorporated in 1947 under the laws of the State of California as the successor to a partnership founded in 1939 by William R. Hewlett and David Packard. Effective in
+May 1998, we changed our state of incorporation from California to Delaware. 
+
+HP Products and Services; Segment Information  
+
+        During fiscal 2007, our operations were organized into seven business segments: Enterprise Storage and Servers ("ESS"), HP Services ("HPS"), HP Software, the
+Personal Systems Group ("PSG"), the Imaging and Printing Group ("IPG"), HP Financial Services ("HPFS") and Corporate Investments. Given the solution sale approach across our enterprise offerings, and
+in order to capitalize on up-selling and cross-selling opportunities, ESS, HPS and HP Software are structured beneath a broader 
+
+3
+
+
+
+
+ 
+
+
+Technology
+Solutions Group ("TSG"). While TSG is not a business segment, this aggregation provides a supplementary view of our business. In each of the past three fiscal years, industry standard
+servers, desktops, notebooks and printing supplies each accounted for more than 10% of our consolidated net revenue. 
+
+
+        A
+summary of our net revenue, earnings from operations and assets for our segments and business units is found in Note 18 to the Consolidated Financial Statements in Item 8, which
+is incorporated herein by reference. A discussion of factors potentially affecting our operations is set forth in "Risk Factors" in Item 1A, which is incorporated herein by reference. 
+
+Technology Solutions Group  
+
+        TSG provides servers, storage, software and information technology ("IT") services that enable enterprise and midmarket business customers to better manage their
+current IT environments and transform IT into a business enabler. TSG products help accelerate growth, minimize risk and reduce costs to optimize the business outcomes of customers' IT investments.
+Companies around the globe leverage HP's infrastructure solutions to deploy next generation data centers and address business challenges ranging from compliance to business continuity. TSG's modular
+IT systems and services are primarily standards-based and feature differentiated technologies in areas including power and cooling, unified management, security, virtualization and automation. Each of
+the three business segments within TSG is described in detail below. 
+
+
+Enterprise Storage and Servers  
+
+        The server market continues to shift towards standards-based architectures as proprietary hardware and operating systems are replaced by industry standard server
+platforms that typically offer compelling
+price and performance advantages by leveraging standards-based operating systems and microprocessor designs. At the same time, critical business functions continue to demand scalability and
+reliability. By providing a broad portfolio of storage and server solutions, ESS aims to optimize the combined product solutions required by different customers and provide solutions for a wide range
+of operating environments, spanning both the enterprise and the SMB markets. ESS provides storage and server products in a number of categories. 
+
+
+        Industry Standard Servers.    Industry standard servers include primarily entry-level and mid-range ProLiant
+servers, which run primarily Windows®,(1) Linux and Novell operating systems and leverage Intel Corporation ("Intel") and Advanced Micro Devices ("AMD") processors. The
+business spans a range of product lines that include pedestal-tower servers, density-optimized rack servers and HP's BladeSystem family of server blades. In fiscal 2007, HP's industry standard server
+business continued to lead the industry in terms of units shipped and factory revenue. HP also has a leadership position in server blades, the fastest-growing segment of the market. 
+
+
+
+(1)Windows®
+is a registered trademark of Microsoft Corporation. 
+
+        Business Critical Systems.    Business Critical Systems include Itanium®(2)-based Integrity servers
+running on the HP-UX, Windows®, Linux and OpenVMS operating systems, including the high-end Superdome servers and fault-tolerant Integrity NonStop servers. Business
+Critical Systems also include the Reduced Instruction Set Computing ("RISC")-based servers with the HP 9000 line running on the HP-UX operating system, HP AlphaServers running on both
+Tru64 UNIX®(3) and OpenVMS, and MIPs-based NonStop servers. 
+
+
+
+(2)Itanium®
+is a registered trademark of Intel Corporation.
+(3)UNIX®
+is a registered trademark of The Open Group. 
+4
+
+
+
+
+ 
+
+        Storage.    HP's StorageWorks offerings include entry-level, mid-range and high-end arrays, storage area
+networks, network attached storage, storage management software and virtualization technologies, as well as tape drives, tape libraries and optical archival storage. 
+
+HP Services  
+
+        HPS provides a portfolio of multi-vendor IT services, including technology services, consulting and integration and outsourcing services. HPS also offers a
+variety of services tailored to particular industries such as communications, media and entertainment, manufacturing and distribution, financial services, health and life sciences and the public
+sector, including government services. HPS collaborates with the Enterprise Storage and Servers and HP Software groups, as well as with third-party system integrators and software and networking
+companies to bring solutions to HP customers. HPS also works with HP's Imaging and Printing Group and Personal Systems Group to provide managed print services, end user workplace services, and mobile
+workforce productivity solutions to enterprise customers. 
+
+        Technology Services.    HPS provides a range of technology services from standalone product support to high availability
+services for complex, global, networked, multi-vendor environments. This business also manages the delivery of product warranty support through its own service organization, as well as through
+authorized partners. 
+
+        Consulting and Integration.    HPS provides consulting and integration services to architect, design and implement technology
+and industry-specific solutions for customers. Consulting and integration also provides cross-industry solutions in the areas of architecture and governance, infrastructure, applications and packaged
+applications, security, IT service management, information management and enterprise Microsoft solutions. 
+
+        Outsourcing Services.    HPS offers a variety of IT management and outsourcing services that support customers' infrastructure,
+applications, business processes, end user workplace, print environment and business continuity and recovery requirements. 
+
+HP Software  
+
+        HP Software provides a suite of Business Technology Optimization ("BTO") software solutions, including support, that allow customers to manage and automate their
+IT infrastructure, operations, applications, IT services and business processes under the OpenView brand. In addition, this segment delivers a suite of comprehensive, carrier-grade software platforms
+for developing and deploying next-generation voice, data and converged services to network and service providers under the HP OpenCall brand. 
+
+
+        We
+are focused on extending our enterprise systems management leadership position into application, service management and business process management market segments. During fiscal
+2007, we completed the acquisitions of Mercury Interactive Corporation, Bristol Technologies, Inc., SPI Dynamics, Inc. and Opsware Inc., which added transaction monitoring,
+applications security testing and data center automation capabilities to the BTO portfolio. We expect to continue to make strategic acquisitions as well as undertake internal realignments as we deem
+appropriate. The portfolio of BTO solutions is designed to enable our customers to reduce their IT costs, and gain better insight to their business and IT operations. This helps our customers align IT
+resources with their business goals and automate data center operations and IT processes, enabling IT to deliver more value to the business. 
+
+Personal Systems Group  
+
+        PSG is the leading provider of personal computers ("PCs") in the world based on unit volume shipped and annual revenue. PSG provides commercial PCs, consumer PCs,
+workstations, handheld 
+
+5
+
+
+
+
+ 
+
+
+computing
+devices, digital entertainment systems, calculators and other related accessories, software and services for the commercial and consumer markets. We group commercial desktops, commercial
+notebooks and workstations into commercial clients and consumer desktop and consumer notebooks into consumer clients when describing our performance in these markets. Like the broader PC market, PSG
+continues to experience a shift toward mobile products such as notebooks. Both commercial and consumer PCs are based predominately on the Windows® operating system and use Intel and AMD
+processors. 
+
+        Commercial PCs.    PSG offers a variety of personal computers optimized for commercial uses, including enterprise and SMB
+customers, and for connectivity and manageability in networked environments. These commercial PCs include primarily the HP Compaq business desktops, business notebooks, and Tablet PCs. 
+
+
+        Consumer PCs.    Consumer PCs include the HP Pavilion and Compaq Presario series of multi-media consumer desktops and notebooks,
+as well as HP Media Center and Voodoo Gaming PCs, which are targeted at the home user. 
+
+        Workstations.    Workstations are individual computing products designed for users demanding enhanced performance, such as
+computer animation, engineering design and other programs requiring high-resolution graphics. HP provides workstations that run on UNIX®, Windows® and Linux-based
+operating systems. 
+
+        Handheld Computing.    HP provides a series of HP iPAQ Pocket PC handheld computing devices that run on Windows®
+Mobile software. These products range from value devices such as music or Global Positioning System receivers to advanced devices with voice and data capability. 
+
+        Digital Entertainment.    PSG's digital entertainment products are targeted at the intersection of the personal computing and
+consumer electronics markets and span a range of products and product categories that allow customers to enjoy a broad range of digital entertainment experiences. PSG's digital entertainment products
+include HD DVD and RW drives and DVD writers; plasma and LCD flat-panel televisions; and the HP Digital Entertainment Center, which allows consumers to access their music, movies, home
+videos and photos from a single device via remote control. 
+
+Imaging and Printing Group  
+
+        IPG is the leading imaging and printing systems provider in the world for consumer and commercial printer hardware, printing supplies, printing media and scanning
+devices. IPG is also focused on imaging solutions in the commercial markets, from managed print services solutions to addressing new growth opportunities in commercial printing in areas such as
+industrial applications, outdoor signage, and the graphic arts business. When describing our performance in this segment, we group inkjet printer units and digital photography and entertainment
+products and services into consumer hardware, LaserJet printers and graphics and imaging products into commercial hardware and break out printer supplies separately. 
+
+        Inkjet Printers.    Inkjet systems include desktop single function and inkjet all-in-one printers,
+including photo, productivity and business inkjet printers and scanners. 
+
+        Digital Photography and Entertainment.    Digital imaging products and services include photo specialty printers, photo kiosks,
+digital cameras, accessories and online photo services through Snapfish. An important part of IPG's strategy is to provide digital imaging solutions that rival traditional imaging for quality, cost
+and ease of use so that consumers can manage their digital imaging throughout the home and outside the home. On November 7, 2007, we announced that we were seeking an alternative business model
+for our HP-branded cameras. 
+
+6
+
+
+
+
+ 
+
+
+        LaserJet Printers.    LaserJet systems include monochrome and color laser printers, printer-based multi-function devices and
+Total Print Management Solutions for enterprise customers. A key initiative in this area of IPG's business has been and continues to be driving color printing penetration in the office. 
+
+        Graphics and Imaging.    Graphics and Imaging products include large format (DesignJet) printers, Indigo and Scitex digital
+presses, digital publishing solutions and graphics printing solutions. A key initiative for IPG is to capture high-value pages by developing compelling solutions for the industrial,
+commercial printing and graphics segments. 
+
+        Printer Supplies.    Printer supplies include LaserJet toner and inkjet cartridges and other printing-related media. These
+supplies include HP-branded Vivera and ColorSphere ink and HP Premium and Premium Plus photo papers, which are designed to work together as a system to produce faster prints with improved
+resistance to fading, increased print quality and better affordability. 
+
+HP Financial Services  
+
+        HPFS supports and enhances HP's global product and service solutions, providing a broad range of value-added financial life-cycle management services. HPFS
+enables our worldwide customers to acquire complete IT solutions, including hardware, software and services. The group offers leasing, financing, utility programs and asset recovery services, as well
+as financial asset management services for large global and enterprise customers. HPFS also provides an array of specialized financial services to SMBs and educational and governmental entities. HPFS
+offers innovative, customized and flexible alternatives to balance unique customer cash flow, technology obsolescence and capacity needs. 
+
+Corporate Investments  
+
+        Corporate Investments is managed by the Office of Strategy and Technology and includes Hewlett-Packard Laboratories, also known as HP Labs, and certain business
+incubation projects. Revenue in this segment is attributable to the sale of certain network infrastructure products, including Ethernet switch products that enhance computing and enterprise solutions
+under the brand ProCurve Networking. Corporate Investments also derives revenue from licensing specific HP technology to third parties. 
+
+Sales, Marketing and Distribution  
+
+        We manage our business and report our financial results based on the principal business segments described above. Our customers are organized by consumer and
+commercial customer groups, and distribution is organized by direct and channel. Within the channel, we have various types of partners that we utilize for various customer groups. The partners
+include: 
+
+
+
+•retailers
+that sell our products to the public through their own physical or Internet stores;
+•resellers
+that sell our products and services, frequently with their own value-added products or services, to targeted customer groups;
+•distribution
+partners that supply our solutions to smaller resellers with which we do not have direct relationships;
+•independent
+distributors that sell our products into geographies or customer segments in which we have little or no presence;
+•original
+equipment manufacturers ("OEMs") that integrate our products with their own hardware or software and sell the integrated products; 
+
+7
+
+
+
+
+ 
+
+
+
+
+•independent
+software vendors ("ISVs") that provide their clients with specialized software products, frequently driving sales of additional non-HP products and
+services, and often assist us in selling our products and services to clients purchasing their products; and
+•systems
+integrators that provide various levels and kinds of expertise in designing and implementing custom IT solutions and often partner with HPS to extend their expertise
+or influence the sale of our products and services. 
+
+
+        The
+mix of HP's business by channel or direct sales differs substantially by business and region. We believe that customer buying patterns and different regional market conditions
+necessitate sales, marketing and distribution to be tailored accordingly. HP is focused on driving efficiencies and productivity gains in both the direct and indirect business. 
+
+
+        TSG
+manages enterprise and public sector customer relationships and also is charged with simplifying sales processes across our segments to improve speed and effectiveness of customer
+delivery. In this capacity, TSG manages our direct sales for both volume and value products including industry standard servers products, UNIX®, enterprise storage and software and
+pre-sales technical consultants, as well as our direct distribution activities for commercial products and go-to-market activities with systems integrators and
+ISVs. TSG also drives HP's vertical sales and marketing approach in the communication, media and entertainment, financial services, manufacturing and distribution and public sector industries. 
+
+
+        PSG
+manages SMB customer relationships and commercial reseller channels, due largely to the significant volume of commercial PCs that HP sells through these channels. In addition to
+commercial channel relationships, the volume direct organization, which is charged with the management of direct sales for volume products, is hosted within PSG. 
+
+        IPG
+manages HP's overall consumer-related sales and marketing activities, including our annual consumer product launch for the back-to-school and holiday seasons.
+IPG also manages consumer channel relationships with third-party retail locations for imaging and printing products, as well as other consumer products, including consumer PCs, which provides for a
+bundled
+sale opportunity between PCs and IPG products. In addition, IPG manages direct consumer sales online through HP Home & Home Office. 
+
+Manufacturing and Materials  
+
+        We utilize a number of contract manufacturers ("CMs") and original design manufacturers ("ODMs") around the world to manufacture HP-designed products.
+The use of CMs and ODMs is intended to generate cost efficiencies and reduce time to market for certain HP-designed products. Third-party OEMs manufacture some
+products that we purchase and resell under the HP brand. In addition to our use of CMs and ODMs, we currently manufacture finished products from components and sub-assemblies that
+we acquire from a wide range of vendors. 
+
+        We
+utilize two primary methods of fulfilling demand for products: building products to order and configuring products to order. We employ building products to order capabilities to
+maximize manufacturing efficiencies by producing high volumes of basic product configurations. Configuring products to order permits configuration of units to the particular hardware and software
+customization requirements of certain customers. Our inventory management and distribution practices in both building products to order and configuring products to order seek to minimize inventory
+holding periods by taking delivery of the inventory and manufacturing immediately prior to the sale or distribution of products to our customers. 
+
+
+        We
+purchase materials, supplies and product subassemblies from a substantial number of vendors. For many of our products, we have existing alternate sources of supply, or such sources
+are readily available. However, we do rely on sole sources for laser printer engines, LaserJet supplies and parts for 
+
+8
+
+
+
+
+ 
+
+
+products
+with short life cycles (although some of these sources have operations in multiple locations). We are dependent upon Intel as a supplier of processors and Microsoft for various software
+products. However, we believe that disruptions with these suppliers would result in industry-wide dislocations and therefore would not disproportionately disadvantage us relative to our
+competitors. We also have a valued relationship with AMD, and we have continued to see solid acceptance of AMD processors in the market during fiscal 2007. 
+
+        Like
+other participants in the high technology industry, we ordinarily acquire materials and components through a combination of blanket and scheduled purchase orders to support our
+requirements for periods averaging 90 to 120 days. From time to time, we experience significant price volatility and supply constraints of certain components that are not available from
+multiple sources. Frequently, we are able to obtain scarce components for somewhat higher prices on the open market, which may have
+an impact on gross margin but does not disrupt production. On occasion, we acquire component inventory in anticipation of supply constraints or enter into longer-term pricing commitments
+with vendors to improve the priority, price and availability of supply. See "Risk Factors—We depend on third-party suppliers, and our revenue and gross margin could suffer if we fail to
+manage supplier issues properly," in Item 1A, which is incorporated herein by reference. 
+
+International  
+
+        Our products and services are available worldwide. We believe this geographic diversity allows us to meet demand on a worldwide basis for both consumer and
+enterprise customers, draws on business and technical expertise from a worldwide workforce, provides stability to our operations, allows us to drive economies of scale, provides revenue streams to
+offset geographic economic trends and offers us an opportunity to access new markets for maturing products. In addition, we believe that future growth is dependent in part on our ability to develop
+products and sales models that target developing countries. In this regard, we believe that our broad geographic presence gives us a solid base upon which to build such future growth. 
+
+        A
+summary of our domestic and international net revenue and net property, plant and equipment is set forth in Note 18 to the Consolidated Financial Statements in Item 8, which is
+incorporated herein by reference. Approximately 67% of our overall net revenue in fiscal 2007 came from outside the United States. The substantial majority of our net revenue originating outside the
+United States was from customers other than foreign governments. 
+
+        For
+a discussion of risks attendant to HP's foreign operations, see "Risk Factors—Due to the international nature of our business, political or economic changes or other
+factors could harm our future revenue, costs and expenses and financial condition," in Item 1A, "Quantitative and Qualitative Disclosure about Market Risk" in Item 7A and Note 9 to the
+Consolidated Financial Statements in Item 8, which are incorporated herein by reference. 
+
+Research and Development  
+
+        We remain committed to innovation as a key element of HP's culture. Our development efforts are focused on designing and developing products, services and
+solutions that anticipate customers' changing needs and desires and emerging technological trends. Our efforts also are focused on identifying the areas where we believe we can make a unique
+contribution and the areas where partnering with other leading technology companies will leverage our cost structure and maximize our customers' experiences. 
+
+9
+
+
+
+
+
+
+<A
+NAME="page_dc75001_1_10">   
+        HP Labs, together with the various research and development groups within the five principal business segments, are responsible for our research and development efforts. HP Labs is part
+of our Corporate Investments segment. 
+
+        Expenditures
+for research and development were $3.6 billion in each of fiscal years 2007 and 2006 and $3.5 billion in fiscal 2005. We anticipate that we will continue to
+have significant research and development expenditures in the future to provide a continuing flow of innovative, high-quality products and services to maintain and enhance our competitive
+position. 
+
+        For
+a discussion of risks attendant to our research and development activities, see "Risk Factors—If we cannot continue to develop, manufacture and market products and
+services that meet customer requirements for innovation and quality, our revenue and gross margin may suffer," in Item 1A, which is incorporated herein by reference. 
+
+Patents  
+
+        Our general policy has been to seek patent protection for those inventions and improvements likely to be incorporated into our products and services or where
+proprietary rights will improve our competitive position. At October 31, 2007, our worldwide patent portfolio included over 31,000 patents, which was slightly above the number of patents in our
+patent portfolio at the end of both fiscal 2006 and fiscal 2005. 
+
+        Patents
+generally have a term of twenty years from the time they are filed. As our patent portfolio has been built over time, the remaining terms on the individual patents vary. While we
+believe that our patents and applications are important for maintaining the competitive differentiation of our products and maximizing our return on research and development investments, no single
+patent is in itself essential to us as a whole or any of our principal business segments. 
+
+
+        In
+addition to developing our patents, we license intellectual property from third parties as we deem appropriate. We have also granted and continue to grant to others licenses under
+patents owned by us when we consider these arrangements to be in our interests. These license arrangements include a number of cross-licenses with third parties. 
+
+        For
+a discussion of risks attendant to intellectual property rights, see "Risk Factors—Our revenue, cost of sales, and expenses may suffer if we cannot continue to license or
+enforce the intellectual property rights on which our business depends or if third parties assert that we violate their intellectual property rights," in Item 1A, which is incorporated herein by
+reference. 
+
+Backlog  
+
+        We believe that backlog is not a meaningful indicator of future business prospects due to the large volume of products delivered from shelf or channel partner
+inventories, the shortening of product life cycles and the relative portion of net revenue related to our service and support businesses. Therefore, we believe that backlog information is not material
+to an understanding of our overall business. 
+
+Seasonality  
+
+        General economic conditions have an impact on our business and financial results. From time to time, the markets in which we sell our products experience weak
+economic conditions that may negatively affect sales. We experience some seasonal trends in the sale of our products and services. For example, European sales often are weaker in the summer months and
+consumer sales often are stronger in the fourth calendar quarter. Demand during the spring and early summer months also may be adversely impacted by market anticipation of seasonal trends. See "Risk
+Factors—Our sales cycle makes planning and inventory management difficult and future financial results less predictable," in Item 1A, which is incorporated herein by reference. 
+
+10
+
+
+
+
+ 
+
+
+Competition  
+
+        We encounter aggressive competition in all areas of our business activity. We compete primarily on the basis of technology, performance, price, quality,
+reliability, brand, reputation, distribution, range of products and services, ease of use of our products, account relationships, customer training, service and support, security and availability of
+application software and our Internet infrastructure offerings. 
+
+        The
+markets for each of our business segments are characterized by vigorous competition among major corporations with long-established positions and a large number of new and
+rapidly growing firms. Product life cycles are short, and to remain competitive we must develop new products and services, periodically enhance our existing products and services and compete
+effectively on the basis of the factors listed above. In addition, we compete with many of our current and potential partners, including OEMs that design, manufacture and often market their
+products under their own brand names. Our successful management of these competitive partner relationships will continue to be critical to our future success. Moreover, we anticipate that we will have
+to continue to adjust prices on many of our products and services to stay competitive. 
+
+        On
+an overall basis we are among the largest U.S.-based companies offering our range of general purpose computers and personal information, imaging and printing products for industrial,
+scientific, business and consumer applications, and IT services. We are the leader or among the leaders in each of our principal business segments. 
+
+        The
+competitive environments in which each segment operates are described below: 
+
+        Enterprise Storage and Servers.    The areas in which ESS operates are intensely competitive and are characterized by rapid and
+ongoing technological innovation and price reductions. Our competitors range from broad solutions providers such as International Business Machines Corporation ("IBM") to more focused competitors such
+as EMC Corporation and Network Appliance, Inc. in storage, Dell, Inc. ("Dell") in industry standard servers, and Sun Microsystems, Inc. in both industry standard and
+UNIX®-based servers. We believe that our important competitive advantages in this segment include the six technology components of our adaptive infrastructure initiatives: IT systems,
+power and cooling, security, management, virtualization and automation. We believe that our competitive advantages also include our global reach and our significant intellectual property portfolio and
+research and development capabilities, which will contribute to further enhancements of our product offerings and our ability to cross sell our portfolio and leverage scale advantages in everything
+from brand to procurement leverage. 
+
+        HP Services.    HPS competes in IT support services, consulting and integration and outsourcing services. The IT support
+services and consulting and integration markets have been under significant pressure as our customers have reduced their IT budgets. However, this trend has benefited the outsourcing services business
+as customers look at reducing IT management costs to enable more strategic investments. Our competitors include IBM Global Services, systems integration firms such as Accenture Ltd.,
+outsourcing firms such as Electronic Data Systems Corporation, and offshore companies. We also compete with other traditional hardware providers, such as Dell, which are increasingly offering services
+to support their products. Many of our competitors are able to offer a wide range of global services, and some of our competitors enjoy significant brand recognition. HPS teams with many companies to
+offer services, and those arrangements allow us to extend our reach and augment our capabilities. Our competitive advantages are evident in our deep technology expertise, which includes multi-vendor
+environments, virtualization and automation, our strong track record of collaboration with clients and partners, and the combination of our expertise in infrastructure management with skilled global
+resources in SAP, Oracle and Microsoft platforms. 
+
+        HP Software.    Our software competitors include companies focused on providing software solutions for IT management, such as
+BMC Software Inc, CA Inc., and IBM Tivoli Software. 
+
+11
+
+
+
+
+ 
+
+
+        Personal Systems Group.    The areas in which PSG operates are intensely competitive and are characterized by rapid price
+reductions and inventory depreciation. Our primary competitors for the branded personal computers are Dell, Acer Inc, Apple Inc., Lenovo Group Limited and Toshiba Corporation. In particular regions,
+we also experience competition from local companies and from generically-branded or "white box" manufacturers. Our competitive advantages include our broad product portfolio, our innovation and
+research and development capabilities, our brand and procurement leverage, our ability to cross sell our portfolio of offerings, our extensive service and support offerings and the availability of our
+broad-based distribution of products from retail and commercial channels to direct sales. 
+
+        Imaging and Printing Group.    We are the leading imaging and printing systems provider in the world for printer hardware,
+printing supplies and scanning devices. We believe that our brand recognition, reputation for quality, breadth of product offerings and large customer base are important competitive advantages.
+However, the markets for printer hardware and associated supplies are highly competitive, especially with respect to pricing and the introduction of new products and features. IPG's key competitors
+include Canon USA, Inc., Lexmark International, Inc., Xerox Corporation ("Xerox"), Seiko Epson Corporation, Samsung Electronics Co. Ltd. and Dell. In addition, independent
+suppliers offer refill and remanufactured alternatives for our supplies which, although generally offering lower print quality and reliability, may be offered at lower prices and put pressure on our
+supplies sales and margins. Other companies also have developed and marketed new compatible cartridges for HP's laser and inkjet products, particularly in jurisdictions outside of the United States
+where adequate intellectual property protection may not exist. In recent years, we and our competitors have regularly lowered prices on printer hardware both to reach new customers and in response to
+the competitive environment. Important areas for future growth include digital photography in the home and outside the home, printer-based multi-function devices in the office space, digital presses
+in our imaging and graphics space and driving color printing expansion in the office. While we encounter competitors in some product categories whose current market share is greater than ours, such as
+Xerox in copiers and Heidelberger Druckmaschinen Aktiengesellschaft in publishing, we believe we will provide important new contributions in the home, the office and publishing environments by
+providing comprehensive solutions. 
+
+        HP Financial Services.    In our financing business, our competitors are captive financing companies, mainly IBM Global
+Financing, as well as banks and financial institutions. We believe our competitive advantage in this business over banks and financial institutions is our ability to finance products, services and
+total solutions. 
+
+        For
+a discussion of risks attendant to these competitive factors, see "Risk Factors—The competitive pressures we face could harm our revenue, gross margin and prospects," in
+Item 1A, which is incorporated herein by reference. 
+
+Environment  
+
+        Some of our operations use substances regulated under various federal, state, local and international laws governing the environment, including laws governing the
+discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes and the cleanup of contaminated sites. Many of our products are subject to various
+federal, state, local and international laws governing chemical substances in products, including laws regulating the manufacture and distribution of chemical substances and laws restricting the
+presence of certain substances in electronics products. We could incur substantial costs, including cleanup costs, fines and civil or criminal sanctions, third-party damage or personal injury claims,
+if we were to violate or become liable under environmental laws or if our products become non-compliant with environmental laws. We also face increasing complexity in our product design
+and procurement operations as we adjust to new and future requirements relating to the materials composition of our products, including the restrictions on 
+
+12
+
+
+
+
+ 
+
+
+lead,
+cadmium and certain other substances that apply to specified electronics products put on the market in the European Union (the "EU") as of July 1, 2006 (Restriction of Hazardous
+Substances Directive) and similar legislation in China, the labeling provisions of which went into effect March 1, 2007. We also could face significant costs and liabilities in connection with
+product take-back legislation. The EU has enacted the Waste Electrical and Electronic Equipment Directive, which makes producers of electrical goods, including computers and printers,
+financially responsible for specified collection, recycling, treatment and disposal of past and future covered products. The deadline for the individual member states of the EU to enact the directive
+in their respective countries was August 13, 2004 (such legislation, together with the directive, the "WEEE Legislation"). Producers participating in the market became financially responsible
+for implementing their responsibilities under the WEEE Legislation beginning in August 2005. Implementation in certain EU member states was delayed into 2006 and 2007. Similar legislation has
+been or may be enacted in other jurisdictions, including in the United States, Canada, Mexico, China and Japan. It is our policy to apply strict standards for environmental protection to sites inside
+and outside the United States, even if we are not subject to regulations imposed by local governments. The liability for environmental remediation and other environmental costs is accrued when HP
+considers it probable and can reasonably estimate the costs. Environmental costs and accruals are presently not material to our operations or financial position, and we do not currently anticipate
+material capital expenditures for environmental control facilities. 
+
+Executive Officers:  
+
+Mark V. Hurd; age 50; Chairman, Chief Executive Officer and President  
+
+        Mr. Hurd has served as Chairman of HP since September 2006 and as Chief Executive Officer, President and a member of the Board since
+April 2005. Prior to that, he served as Chief Executive Officer of NCR Corporation, a technology company, from March 2003 to March 2005 and as President from July 2001 to
+March 2005. From September 2002 to March 2003, Mr. Hurd was the Chief Operating Officer of NCR, and from July 2000 until March 2003 he was Chief Operating
+Officer of NCR's Teradata data-warehousing division. 
+
+R. Todd Bradley; age 49; Executive Vice President, Personal Systems Group  
+
+        Mr. Bradley was elected Executive Vice President in June 2005. From October 2003 to June 2005, he served as the Chief Executive
+Officer of palmOne Inc., a mobile computing company. Mr. Bradley also served as President and Chief Operating Officer of palmOne from May 2002 until October 2003 and as
+Executive Vice President and Chief Operating Officer from June 2001 to May 2002. 
+
+Charles N. Charnas; age 49; Vice President, Deputy General Counsel and Assistant Secretary  
+
+        Mr. Charnas was elected Assistant Secretary in 1999. He was appointed a Vice President and Deputy General Counsel in 2002. Since 1999, he has headed the
+Corporate, Securities and Mergers and Acquisitions Section of HP's worldwide legal department. From September 2006 until February 2007, Mr. Charnas also served as Acting General
+Counsel of HP. Mr. Charnas is not an executive officer for purposes of Section 16 of the Securities Exchange Act of 1934. 
+
+Jon E. Flaxman; age 50; Executive Vice President and Chief Administrative Officer  
+
+        Mr. Flaxman has served as Executive Vice President and Chief Administrative Officer of HP since March 2007. Mr. Flaxman served as Senior Vice
+President and Controller from 2002 until March 2007, and as Principal Accounting Officer from February 2005 until March 2007. 
+
+13
+
+
+
+
+ 
+
+
+Michael J. Holston; age 45; Executive Vice President, General Counsel and Secretary  
+
+        Mr. Holston has served as Executive Vice President and General Counsel since February 2007 and as Secretary since March 2007. Prior to that,
+he was a partner in the litigation practice at Morgan, Lewis & Bockius LLP, where, among other clients, he supported HP as external counsel on a variety of litigation and regulatory matters for
+more than ten years. 
+
+Vyomesh Joshi; age 53; Executive Vice President, Imaging and Printing Group  
+
+        Mr. Joshi was elected Executive Vice President in 2002 after serving as Vice President since January 2001. He became President of the Imaging and
+Printing Group in February 2001. Mr. Joshi also served as Chairman of Phogenix Imaging LLC, a joint venture between HP and Kodak, from 2000 until May 2003, when Phogenix was
+dissolved. Mr. Joshi also is a director of Yahoo! Inc. 
+
+Catherine A. Lesjak; age 48; Executive Vice President and Chief Financial Officer  
+
+        Ms. Lesjak has served as Executive Vice President and Chief Financial Officer since January 2007. She served as Senior Vice President from 2003
+until December 2006 and as Treasurer from 2003 until March 2007. From May 2002 to July 2003, she was Vice President of Finance for Enterprise Marketing and Solutions and
+Vice President of Finance for the Software Global Business Unit. 
+
+Ann M. Livermore; age 49; Executive Vice President, Technology Solutions Group  
+
+
+        Ms. Livermore was elected Executive Vice President in 2002 after serving as Vice President since 1995. Since May 2004, she has led the Technology
+Solutions Group. In April 2001, she became President of HP Services. Ms. Livermore also is a director of United Parcel Service, Inc. 
+
+John N. McMullen; age 49; Senior Vice President and Treasurer  
+
+        Mr. McMullen has served as Senior Vice President and Treasurer since March 2007. Previously, he served as Vice President of Finance for HP's Imaging
+and Printing Group since May 2002. 
+
+Randall D. Mott; age 51; Executive Vice President and Chief Information Officer  
+
+
+        Mr. Mott was elected Executive Vice President and Chief Information Officer in July 2005. From 2000 to June 2005, Mr. Mott was Senior
+Vice President and Chief Information Officer of Dell, Inc., a technology company. 
+
+James T. Murrin; age 47; Senior Vice President, Controller and Principal Accounting Officer  
+
+        Mr. Murrin has served as Senior Vice President, Controller and Principal Accounting Officer since March 2007. Previously, he served as Vice
+President of Finance for the Technology Solutions Group since 2004. Prior to that, Mr. Murrin was Vice President of Finance for HP Services and held various other finance positions at HP since
+joining the company in 1989. 
+
+Marcela Perez de Alonso; age 53; Executive Vice President, Human Resources  
+
+        Ms. Perez de Alonso was elected Executive Vice President, Human Resources in January 2004. From 1999 until she joined HP in January 2004,
+Ms. Perez de Alonso was Division Head of Citigroup North Latin America Consumer Bank, in charge of the retail business operations of Citigroup in Puerto Rico, Venezuela, Colombia, Peru, Panama,
+the Bahamas and the Dominican Republic and also in charge of deposit products for the international retail bank until 2002. 
+
+14
+
+
+
+
+
+
+<A
+NAME="page_de75001_1_15">  
+
+
+
+Shane V. Robison; age 54; Executive Vice President and Chief Strategy and Technology Officer  
+
+        Mr. Robison has served as Executive Vice President and Chief Strategy and Technology Officer since May 2002. He was elected Senior Vice President in
+2002 in connection with the Compaq acquisition. Prior to joining HP, Mr. Robison served as Senior Vice President, Technology and Chief Technology Officer at Compaq from 2000 to May 2002. 
+
+Employees  
+
+        We had approximately 172,000 employees worldwide as of October 31, 2007. 
+
+Available Information and Exchange Certifications  
+
+        Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and
+amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available on our website at  http://www.hp.com/investor/home, as soon
+as reasonably practicable after HP electronically files such reports with, or furnishes those reports to, the
+Securities and Exchange Commission. HP's Corporate Governance Guidelines, Board of Directors committee charters (including the charters of the Audit Committee, HR and Compensation Committee, and
+Nominating and Governance Committee) and code of ethics entitled "Standards of Business Conduct" also are available at that same location on our website. Stockholders may request free copies of these
+documents from: 
+
+Hewlett-Packard
+Company
+Attention: Investor Relations
+3000 Hanover Street
+Palo Alto, CA 94304
+(866) GET-HPQ1 or (866) 438-4771
+http://www.hp.com/investor/informationrequest 
+
+        We
+submitted the certification of the CEO of HP required by Section 303A.12(a) of the New York Stock Exchange "NYSE" Listed Company Manual, relating to HP's compliance with the
+NYSE's corporate governance listing standards, to the NYSE on March 19, 2007 with no qualifications. 
+
+        We
+included the certifications of the CEO and the CFO of HP required by Section 302 of the Sarbanes-Oxley Act of 2002 and related rules, relating to the quality of HP's public
+disclosure, in this Annual Report on Form 10-K as Exhibits 31.1 and 31.2. 
+
+<A
+NAME="de75001_item_1a._risk_factors."> 
+ 
+ITEM 1A. Risk Factors.        
+
+        Because of the following factors, as well as other variables affecting our operating results, past financial performance may not be a reliable indicator of future
+performance, and historical trends should not be used to anticipate results or trends in future periods. 
+
+The competitive pressures we face could harm our revenue, gross margin and prospects.  
+
+        We encounter aggressive competition from numerous and varied competitors in all areas of our business, and our competitors may target our key market segments. We
+compete primarily on the basis of technology, performance, price, quality, reliability, brand, reputation, distribution, range of products and services, ease of use of our products, account
+relationships, customer training, service and support, security, availability of application software, and Internet infrastructure offerings. If our products, services, support and cost structure do
+not enable us to compete successfully based on any of those criteria, our operations, results and prospects could be harmed. 
+
+15
+
+
+
+
+ 
+
+
+        Unlike
+many of our competitors, we have a portfolio of businesses and must allocate resources across these businesses while competing with companies that specialize in one or more of
+these product lines. As a result, we may invest less in certain areas of our businesses than our competitors do, and these competitors may have greater financial, technical and marketing resources
+available to them than our businesses that compete against them. Industry consolidation also may affect competition by creating larger, more homogeneous and potentially stronger competitors in the
+markets in which we compete, and our competitors also may affect our business by entering into exclusive arrangements with existing or potential customers or suppliers. 
+
+
+        We
+may have to continue to lower the prices of many of our products and services to stay competitive, while at the same time trying to maintain or improve revenue and gross margin. The
+markets in which we do business, particularly the personal computer and printing markets, are highly competitive, and we encounter aggressive price competition for all of our products and services
+from numerous companies globally. Over the past several years, price competition in the market for personal computers, printers and related products has been particularly intense as competitors have
+aggressively cut prices and lowered their product margins for these products. Our results of operations and financial condition may be adversely affected by these and other industry-wide
+pricing pressures. 
+
+        Because
+our business model is based on providing innovative and high quality products, we may spend a proportionately greater amount on research and development than some of our
+competitors. If we cannot proportionately decrease our cost structure on a timely basis in response to competitive price pressures, our gross margin and therefore our profitability could be adversely
+affected. In addition, if our pricing and other factors are not sufficiently competitive, or if there is an adverse reaction to our product decisions, we may lose market share in certain areas, which
+could adversely affect our revenue and prospects. 
+
+        Even
+if we are able to maintain or increase market share for a particular product, revenue could decline because the product is in a maturing industry. Revenue and margins also could
+decline due to increased competition from other types of products. For example, refill and remanufactured alternatives for some of HP's LaserJet toner and inkjet cartridges compete with HP's supplies
+business. In addition, other companies have developed and marketed new compatible cartridges for HP's LaserJet and inkjet products, particularly in jurisdictions outside of the United States where
+adequate intellectual property protection may not exist. HP expects competitive refill and remanufacturing and cloned cartridge activity to continue to pressure margins in IPG, which in turn has a
+significant impact on HP margins and profitability overall. 
+
+If we cannot continue to develop, manufacture and market products and services that meet customer requirements for innovation and quality, our revenue and gross margin may
+suffer.  
+
+        The process of developing new high technology products and services and enhancing existing products and services is complex, costly and uncertain, and any failure
+by us to anticipate customers' changing needs and emerging technological trends accurately could significantly harm our market share and results of operations. We must make long-term
+investments, develop or obtain appropriate intellectual property and commit significant resources before knowing whether our predictions will accurately reflect customer demand for our products and
+services. After we develop a product, we must be able to manufacture appropriate volumes quickly and at low costs. To accomplish this, we must accurately forecast volumes, mixes of products and
+configurations that meet customer requirements, and we may not succeed at all or within a given product's life cycle. Any delay in the development, production or marketing of a new product could
+result in our not being among the first to market, which could further harm our competitive position. 
+
+        In
+the course of conducting our business, we must adequately address quality issues associated with our products and services, including defects in our engineering, design and
+manufacturing processes, as 
+
+16
+
+
+
+
+ 
+
+
+well
+as defects in third-party components included in our products. In order to address quality issues, we work extensively with our customers and suppliers and engage in product testing to determine
+the cause of the problem and to determine appropriate solutions. However, we may have limited ability to control quality issues, particularly with respect to faulty components manufactured by third
+parties. If we are unable to determine the cause, find an appropriate solution or offer a temporary fix (or "patch"), we may delay shipment to customers, which would delay revenue recognition and
+could adversely affect our revenue and reported results. Finding solutions to quality issues can be expensive and may result in additional warranty, replacement and other costs, adversely affecting
+our profits. If new or existing customers have difficulty operating our products, our operating margins could be adversely affected, and we could face possible claims if we fail to meet our customers'
+expectations. In addition, quality issues can impair our relationships with new or existing customers and adversely affect our reputation, which could have a material adverse effect on our operating
+results. 
+
+If we do not effectively manage our product and services transitions, our revenue may suffer.  
+
+        Many of the industries in which we compete are characterized by rapid technological advances in hardware performance and software features and functionality;
+frequent introduction of new products; short product life cycles; and continual improvement in product price characteristics relative to product performance. Among the risks associated with the
+introduction of new products and services are delays in development or manufacturing, variations in costs, delays in customer purchases or reductions in price of existing products in anticipation of
+new introductions, difficulty in predicting customer demand for the new offerings and effectively managing inventory levels so that they are in line with anticipated demand, risks associated with
+customer qualification and evaluation of new products and the risk that new products may have quality or other defects or may not be supported adequately by application software. If we do not make an
+effective transition from existing products and services to future offerings, our revenue may decline. 
+
+
+        Our
+revenue and gross margin also may suffer due to the timing of product or service introductions by our suppliers and competitors. This is especially challenging when a product has a
+short life cycle or a competitor introduces a new product just before our own product introduction. Furthermore, sales of our new products and services may replace sales, or result in discounting of
+some of our current offerings, offsetting the benefit of even a successful introduction. There also may be overlaps in the current products and services of HP and portfolios acquired through mergers
+and acquisitions that we must manage. In addition, it may be difficult to ensure performance of new customer contracts in accordance with our revenue, margin and cost estimates and to achieve
+operational efficiencies embedded in our estimates. Given the competitive nature of our industry, if any of these risks materializes, future demand for our products and services and our results of
+operations may suffer. 
+
+Our revenue, cost of sales, and expenses may suffer if we cannot continue to license or enforce the intellectual property rights on which our business depends or if third
+parties assert that we violate their intellectual property rights.  
+
+        We rely upon patent, copyright, trademark and trade secret laws in the United States and similar laws in other countries, and agreements with our employees,
+customers, suppliers and other parties, to establish and maintain our intellectual property rights in technology and products used in our operations. However, any of our direct or indirect
+intellectual property rights could be challenged, invalidated or circumvented, or such intellectual property rights may not be sufficient to permit us to take advantage of current market trends or
+otherwise to provide competitive advantages, which could result in costly product redesign efforts, discontinuance of certain product offerings or other competitive harm. Further, the laws of certain
+countries do not protect our proprietary rights to the same extent as the laws of the United States. Therefore, in certain jurisdictions we may be unable to 
+
+17
+
+
+
+
+ 
+
+
+protect
+our proprietary technology adequately against unauthorized third-party copying or use, which could adversely affect our competitive position. 
+
+
+        Because
+of the rapid pace of technological change in the information technology industry, much of our business and many of our products rely on key technologies developed or licensed by
+third parties. We may not be able to obtain or to continue to obtain licenses and technologies from these third parties at all or on reasonable terms, or such third parties may demand cross-licenses
+to our intellectual property. In addition, it is possible that as a consequence of a merger or acquisition transaction third parties may obtain licenses to some of our intellectual property rights or
+our business may be subject to certain restrictions that were not in place prior to the transaction. Consequently, we may lose a competitive advantage with respect to these intellectual property
+rights or we may be required to enter into costly arrangements in order to terminate or limit these rights. 
+
+
+        Third
+parties also may claim that we or customers indemnified by us are infringing upon their intellectual property rights. For example, in recent years, individuals and groups have
+begun purchasing intellectual property assets for the sole purpose of making claims of infringement and attempting to extract settlements from large companies such as HP. If we cannot or do not
+license the infringed technology at all or on reasonable terms or substitute similar technology from another source, our operations could suffer. Even if we believe that the claims are without merit,
+the claims can be time-consuming and costly to defend and divert management's attention and resources away from our business. Claims of intellectual property infringement also might
+require us to redesign affected products, enter into costly settlement or license agreements or pay costly damage awards, or face a temporary or permanent injunction prohibiting us from marketing or
+selling certain of our products. Even if we have an agreement to indemnify us against such costs, the indemnifying party may be unable to uphold its contractual agreements to us. 
+
+        Finally,
+our results of operations and cash flows could be affected in certain periods and on an ongoing basis by the imposition, accrual and payment of copyright levies or similar fees.
+In certain countries (primarily in Europe), proceedings are ongoing against HP seeking to impose levies upon equipment (such as PCs, multifunction devices and printers) and alleging that the copyright
+owners are entitled to compensation because these devices enable reproducing copyrighted content. Other countries that do not yet have levies on these types of devices are expected to extend existing
+levy schemes, and countries that do not currently have levy schemes may decide to impose copyright levies on these types of devices. If imposed, the amount of copyright levies would depend on the
+types of products determined to be subject to the levy, the number of units of those products sold during the period covered by the levy and the per unit fee for each type of product, all of which may
+be affected by several factors, including the outcome of ongoing litigation involving HP and other industry participants and possible action by the legislative bodies in the applicable countries, but
+could be substantial. Consequently, the ultimate impact of these potential copyright levies or similar fees and the ability of HP to recover such amounts through increased prices, remains uncertain. 
+
+Economic uncertainty could adversely affect our revenue, gross margin and expenses.  
+
+        Our revenue and gross margin depend significantly on general economic conditions and the demand for computing and imaging products and services in the markets in
+which we compete. Economic weakness and constrained IT spending has previously resulted, and may result in the future, in decreased revenue, gross margin, earnings or growth rates and problems with
+our ability to manage inventory levels and collect customer receivables. We could experience such economic weakness and reduced spending, particularly in our consumer and financial services
+businesses, due to increases in fuel and other energy costs, conditions in the residential real estate and mortgage markets, access to credit and other macroeconomic factors affecting spending
+behavior. In addition, customer financial difficulties have previously resulted, and could result in the future, in increases in bad debt write-offs and additions to reserves in our
+receivables portfolio, inability by our lessees to make required lease 
+
+18
+
+
+
+
+ 
+
+
+payments
+and reduction in the value of leased equipment upon its return to us compared to the value estimated at lease inception. We also have experienced, and may experience in the future, gross
+margin declines in certain businesses, reflecting the effect of items such as competitive pricing pressures, inventory write-downs, charges associated with the cancellation of planned production line
+expansion, and increases in pension and post-retirement benefit expenses. Economic downturns also may lead to restructuring actions and associated expenses. Uncertainty about future
+economic conditions makes it difficult for us to forecast operating results and to make decisions about future investments. Delays or reductions in information technology spending could have a
+material adverse effect on demand for our products and services, and consequently our results of operations, prospects and stock price. 
+
+Due to the international nature of our business, political or economic changes or other factors could harm our future revenue, costs and expenses and financial condition.  
+
+
+        Sales outside the United States make up approximately 67% of our net revenue. Our future revenue, gross margin, expenses and financial condition also could suffer
+due to a variety of international factors, including: 
+
+
+
+•ongoing
+instability or changes in a country's or region's economic or political conditions, including inflation, recession, interest rate fluctuations and actual or
+anticipated military or political conflicts;
+•longer
+accounts receivable cycles and financial instability among customers;
+•trade
+regulations and procedures and actions affecting production, pricing and marketing of products;
+•local
+labor conditions and regulations;
+•managing
+a geographically dispersed workforce;
+•changes
+in the regulatory or legal environment;
+•differing
+technology standards or customer requirements;
+•import,
+export or other business licensing requirements or requirements relating to making foreign direct investments, which could affect our ability to obtain favorable
+terms for components or lead to penalties or restrictions;
+•difficulties
+associated with repatriating cash generated or held abroad in a tax-efficient manner and changes in tax laws; and
+•fluctuations
+in freight costs and disruptions in the transportation and shipping infrastructure at important geographic points of exit and entry for our products and
+shipments. 
+
+
+        The
+factors described above also could disrupt our product and component manufacturing and key suppliers located outside of the United States. For example, we rely on manufacturers in
+Taiwan for the production of notebook computers and other suppliers in Asia for product assembly and manufacture. 
+
+        As
+approximately 67% of our sales are from countries outside of the United States, other currencies, particularly the euro and the Japanese yen, can have an impact on HP's results
+(expressed in U.S. dollars). Currency variations also contribute to variations in sales of products and services in impacted jurisdictions. In addition, currency variations can adversely affect
+margins on sales of our products in countries outside of the United States and margins on sales of products that include components obtained from suppliers located outside of the United States. We use
+a combination of forward contracts and options designated as cash flow hedges to protect against foreign currency exchange rate risks. Such hedging activities may be ineffective or may not offset more
+than a portion of 
+
+19
+
+
+
+
+ 
+
+
+the
+adverse financial impact resulting from currency variations. Gains or losses associated with hedging activities also may impact our revenue and to a lesser extent our cost of sales and financial
+condition. 
+
+        In
+many foreign countries, particularly in those with developing economies, it is common to engage in business practices that are prohibited by laws and regulations applicable to us,
+such as the Foreign Corrupt Practices Act. Although we implement policies and procedures designed to facilitate compliance with these laws, our employees, contractors and agents, as well as those
+companies to which we outsource certain of our business operations, may take actions in violation of our policies. Any such violation, even if prohibited by our policies, could have a material adverse
+effect on our business. 
+
+Terrorist acts, conflicts and wars may seriously harm our business and revenue, costs and expenses and financial condition and stock price.  
+
+
+        Terrorist acts, conflicts or wars (wherever located around the world) may cause damage or disruption to HP, our employees, facilities, partners, suppliers,
+distributors, resellers or customers. The potential for future attacks, the national and international responses to attacks or perceived threats to national security, and other actual or potential
+conflicts or wars, including the ongoing military operations in Iraq, have created many economic and political uncertainties. In addition, as a major multi-national company with headquarters and
+significant operations located in the United States, actions against or by the United States may impact our business or employees. Although it is impossible to predict the occurrences or consequences
+of any such events, they could result in a decrease in demand for our products, make it difficult or impossible to deliver products to our customers or to receive components from our suppliers, create
+delays and inefficiencies in our supply chain and result in the need to impose employee travel restrictions. We are predominantly uninsured for losses and interruptions caused by terrorist acts,
+conflicts and wars. 
+
+Business disruptions could seriously harm our future revenue and financial condition and increase our costs and expenses.  
+
+        Our worldwide operations could be subject to earthquakes, power shortages, telecommunications failures, water shortages, tsunamis, floods, hurricanes, typhoons,
+fires, extreme weather conditions, medical epidemics and other natural or manmade disasters or business interruptions, for which we are predominantly self-insured. The occurrence of any of
+these business disruptions could seriously harm our revenue and financial condition and increase our costs and expenses. Our corporate headquarters, and a portion of our research and development
+activities, are located in California, and other critical business operations and some of our suppliers are located in California and Asia, near major earthquake faults. The ultimate impact on us, our
+significant suppliers and our general infrastructure of being located near major earthquake faults is unknown, but our revenue, profitability and financial condition could suffer in the event of a
+major earthquake or other natural disaster. In addition, some areas, including California and parts of the East Coast, Southwest and Midwest of the United States, have previously experienced, and may
+experience in the future, major power shortages and blackouts. These blackouts could cause disruptions to our operations or the operations of our suppliers, distributors and resellers, or customers.
+Moreover, the consolidation of all of our worldwide IT data centers into six centers located in the southern United States, when completed, could increase the impact on us of a natural disaster or
+other business disruption occurring in that geographic area. 
+
+If we fail to manage the distribution of our products and services properly, our revenue, gross margin and profitability could suffer.  
+
+        We use a variety of different distribution methods to sell our products and services, including third-party resellers and distributors and both direct and
+indirect sales to both enterprise accounts and consumers. Successfully managing the interaction of our direct and indirect channel efforts to reach various potential customer segments for our products
+and services is a complex process. Moreover, since each distribution method has distinct risks and gross margins, our failure to implement the most 
+
+20
+
+
+
+
+ 
+
+
+advantageous
+balance in the delivery model for our products and services could adversely affect our revenue and gross margins and therefore our profitability. Other distribution risks are described
+below. 
+
+
+
+•Our
+financial results could be materially adversely affected due to channel conflicts or if the financial conditions of our channel partners were to weaken. 
+
+
+
+Our
+future operating results may be adversely affected by any conflicts that might arise between our various sales channels, the loss or deterioration of any alliance or distribution arrangement or
+the loss of retail shelf space. Moreover, some of our wholesale and retail distributors may have insufficient financial resources and may not be able to withstand changes in business conditions,
+including economic weakness and industry consolidation. Many of our significant distributors operate on narrow product margins and have been negatively affected by business pressures. Considerable
+trade receivables that are not covered by collateral or credit insurance are outstanding with our distribution and retail channel partners. Revenue from indirect sales could suffer, and we could
+experience disruptions in distribution if our distributors' financial conditions, abilities to borrow funds in the credit markets or operations weaken. 
+
+
+
+•Our
+inventory management is complex as we continue to sell a significant mix of products through distributors. 
+
+
+
+
+We
+must manage inventory effectively, particularly with respect to sales to distributors, which involves forecasting demand and pricing issues. Distributors may increase orders during periods of
+product shortages, cancel orders if their inventory is too high or delay orders in anticipation of new products. Distributors also may adjust their orders in response to the supply of our products and
+the products of our competitors and seasonal fluctuations in end-user demand. Our reliance upon
+indirect distribution methods may reduce visibility to demand and pricing issues, and therefore make forecasting more difficult. If we have excess or obsolete inventory, we may have to reduce our
+prices and write down inventory. Moreover, our use of indirect distribution channels may limit our willingness or ability to adjust prices quickly and otherwise to respond to pricing changes by
+competitors. We also may have limited ability to estimate future product rebate redemptions in order to price our products effectively. 
+
+
+
+
+We depend on third-party suppliers, and our revenue and gross margin could suffer if we fail to manage suppliers properly.  
+
+
+        Our operations depend on our ability to anticipate our needs for components, products and services and our suppliers' ability to deliver sufficient quantities of
+quality components, products and services at reasonable prices in time for us to meet critical schedules. Given the wide variety of systems, products and services that we offer, the large number of
+our suppliers and contract manufacturers that are dispersed across the globe, and the long lead times that are required to manufacture, assemble and deliver certain components and products, problems
+could arise in planning production and managing inventory levels that could seriously harm us. Other supplier problems that we could face include component shortages, excess supply, risks related to
+the terms of our contracts with suppliers, risks associated with contingent workers, and risks related to our relationships with single source suppliers, as described below. 
+
+
+
+•Shortages. Occasionally we may experience a shortage of, or a delay in receiving, certain supplies as a result of strong
+demand, capacity constraints, supplier financial weaknesses, inability of suppliers to borrow funds in the credit markets, disputes with suppliers (some of which are also customers), other problems
+experienced by suppliers or problems faced during the transition to new suppliers. In particular, our PC business relies heavily upon Contract Manufacturers ("CMs") and Original Design Manufacturers
+("ODMs") to manufacture its products and is 
+
+21
+
+
+
+
+ 
+
+
+
+therefore
+dependent upon the continuing operations of those CMs and ODMs to fulfill demand for our PC products. HP represents a substantial portion of the business of some of these CMs and ODMs, and
+any changes to the nature or volume of business transacted by HP with a particular CM or ODM could adversely affect the operations and financial condition of the CM or ODM and lead to shortages or
+delays in receiving products from that CM or ODM. If shortages or delays persist, the price of these supplies may increase, we may be exposed to quality issues or the supplies may not be available at
+all. We may not be able to secure enough supplies at reasonable prices or of acceptable quality to build products or provide services in a timely manner in the quantities or according to the
+specifications needed. Accordingly, our revenue and gross margin could suffer as we could lose time-sensitive sales, incur additional freight costs or be unable to pass on price increases
+to our customers. If we cannot adequately address supply issues, we might have to reengineer some products or service offerings, resulting in further costs and delays. 
+
+
+
+•Oversupply. In order to secure supplies for the provision of products or services, at times we may make advance payments to
+suppliers or enter into non-cancelable commitments with vendors. In addition, we may purchase supplies strategically in advance of demand to take advantage of favorable pricing or to
+address concerns about the availability of future supplies. If we fail to anticipate customer demand properly, a temporary oversupply could result in excess or obsolete components, which could
+adversely affect our gross margin.
+•Contractual terms. As a result of binding price or purchase commitments with vendors, we may be obligated to purchase
+supplies or services at prices that are higher than those available in the current market and be limited in our ability to respond to changing market conditions. In the event that we become committed
+to purchase supplies or services for prices in excess of the current market price, we may be at a disadvantage to competitors who have access to components or services at lower prices, and our gross
+margin could suffer. In addition, many of our competitors obtain products or components from the same CMs, ODMs and suppliers that we utilize. Our competitors may obtain better pricing and other terms
+and more favorable allocations of products and components during periods of limited supply, and our ability to engage in relationships with certain CMs, ODMs and suppliers could be limited. The
+practice employed by our PC business of purchasing product components and transferring those components to its CMs and ODMs may create large supplier receivables with the CMs and ODMs that, depending
+on the financial condition of the CMs and ODMs, may have a risk of uncollectibility. In addition, certain of our CMs, ODMs and suppliers may decide in the future to discontinue conducting
+business with us. Any of these actions by our competitors, CMs, ODMs or suppliers could adversely affect our future operating results and financial condition.
+•Contingent workers. We also rely on third-party suppliers for the provision of contingent workers, and our failure to manage
+our use of such workers effectively could adversely affect our results of operations. We have been exposed to various legal claims relating to the status of contingent workers in the past and could
+face similar claims in the future. We may be subject to shortages, oversupply or fixed contractual terms relating to contingent workers, as described above. Our ability to manage the size of, and
+costs associated with, the contingent workforce may be subject to additional constraints imposed by local laws.
+•Single source suppliers. Our use of single source suppliers for certain components could exacerbate our supplier issues. We
+obtain a significant number of components from single sources due to technology, availability, price, quality or other considerations. For example, we rely on Intel to provide us with a sufficient
+supply of processors for many of our PCs, workstations, handheld computing devices and servers, and some of those processors are customized for our products. New products that we introduce may utilize
+custom components obtained from only one source initially until we have evaluated whether there is a need for 
+
+22
+
+
+
+
+ 
+
+
+
+additional
+suppliers. Replacing a single source supplier could delay production of some products as replacement suppliers initially may be subject to capacity constraints or other output limitations.
+For some components, such as customized components and some of the processors that we obtain from Intel, alternative sources may not exist or those alternative sources may be unable to produce the
+quantities of those components necessary to satisfy our production requirements. In addition, we sometimes purchase components from single source suppliers under short-term agreements that
+contain favorable pricing and other terms but that may be unilaterally modified or terminated by the supplier with limited notice and with little or no penalty. The performance of such single source
+suppliers under those agreements (and the renewal or extension of those agreements upon similar terms) may affect the quality, quantity and price of supplies to HP. The loss of a single source
+supplier, the deterioration of our relationship with a single source supplier, or any unilateral modification to the contractual terms under which we are supplied components by a single source
+supplier could adversely effect our revenue and gross margins. 
+
+
+
+
+If we fail to comply with our customer contracts or government contracting regulations, our revenue could suffer.  
+
+
+        Our
+contracts with our customers may include unique and specialized performance requirements. In particular, our contracts with federal, state, provincial and local governmental
+customers are subject to various procurement regulations, contract provisions and other requirements relating to their formation, administration and performance. Any failure by us to comply with the
+specific provisions in our customer contracts or any violation of government contracting regulations could result in the imposition of various civil and criminal penalties, which may include
+termination of contracts, forfeiture of profits, suspension of payments and, in the case of our government contracts, fines and suspension from future government contracting. In addition, we are
+currently, and in the future may be, subject to qui tam litigation brought by private individuals on behalf of the government relating to our government
+contracts, which could include claims for up to treble damages. Further, any negative publicity related to our customer contracts or any proceedings surrounding them, regardless of its accuracy, may
+damage our business by affecting our ability to compete for new contracts. If our customer contracts are terminated, if we are suspended from government work, or if our ability to compete for new
+contracts is adversely affected, we could suffer a material reduction in expected revenue. 
+
+The revenue and profitability of our operations have historically varied, which makes our future financial results less predictable.  
+
+
+        Our revenue, gross margin and profit vary among our products and services, customer groups and geographic markets and therefore will likely be different in future
+periods than our current results. Overall gross margins and profitability in any given period are dependent partially on the product, customer and geographic mix reflected in that period's net
+revenue. In particular, IPG and certain of its business units such as printer supplies contribute significantly to our gross margin and profitability. Competition, lawsuits, investigations and other
+risks affecting IPG, therefore may have a significant impact on our overall gross margin and profitability. Certain segments, and ESS in particular, have a higher fixed cost structure and more
+variation in gross margins across their business units and product portfolios than others and may therefore experience significant operating profit volatility on a quarterly basis. In addition, newer
+geographic markets may be relatively less profitable due to investments associated with entering those markets and local pricing pressures, and we may have difficulty establishing and maintaining the
+operating infrastructure necessary to support the high growth rate associated with some of those markets. Market trends, competitive pressures, commoditization of products, seasonal rebates, increased
+component or shipping costs, regulatory impacts and other factors may result in reductions in revenue or pressure on gross margins of certain segments in a given period, which may necessitate
+adjustments to our operations. 
+
+23
+
+
+
+
+
+
+<A
+NAME="page_dg75001_1_24">  
+
+
+
+We make estimates and assumptions in connection with the preparation of HP's Consolidated Financial Statements, and any changes to those estimates and assumptions could have a
+material adverse effect on our results of operations.  
+
+        In connection with the preparation of HP's Consolidated Financial Statements, we use certain estimates and assumptions based on historical experience and other
+factors. Our most critical accounting estimates are described in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in this report. In addition, as discussed in
+Note 17 to the Consolidated Financial Statements, we make certain estimates under the provisions of SFAS No. 5 "Accounting for Contingencies," including decisions related to provisions
+for legal proceedings and other contingencies. While we believe that these estimates and assumptions are reasonable under the circumstances, they are subject to significant uncertainties, some of
+which are beyond our control. Should any of these estimates and assumptions change or prove to have been incorrect, it could have a material adverse effect on our results of operations. 
+
+Unanticipated changes in HP's tax provisions or exposure to additional income tax liabilities could affect our profitability.  
+
+        We are subject to income taxes in the United States and numerous foreign jurisdictions. Our tax liabilities are affected by the amounts we charge for inventory,
+services, licenses, funding and other items in intercompany transactions. We are subject to ongoing tax audits in various jurisdictions. Tax authorities may disagree with our intercompany charges or
+other matters and assess additional taxes. We regularly assess the likely outcomes of these audits in order to determine the appropriateness of our tax provision. However, there can be no assurance
+that we will accurately predict the outcomes of these audits, and the actual outcomes of these audits could have a material impact on our net income or financial condition. In addition, our effective
+tax rate in the future could be adversely affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities,
+changes in tax laws and the discovery of new information in the course of our tax return preparation process. In particular, the carrying value of deferred tax assets, which are predominantly in the
+United States, is dependent on our ability to generate future taxable income in the United States. Any of these changes could affect our profitability. 
+
+Our sales cycle makes planning and inventory management difficult and future financial results less predictable.  
+
+        In some of our segments, our quarterly sales often have reflected a pattern in which a disproportionate percentage of each quarter's total sales occur towards the
+end of such quarter. This uneven sales pattern makes prediction of revenue, earnings, cash flow from operations and working capital for each financial period difficult, increases the risk of
+unanticipated variations in quarterly results and financial condition and places pressure on our inventory management and logistics systems. If predicted demand is substantially greater than orders,
+there will be excess inventory. Alternatively, if orders substantially exceed predicted demand, we may not be able to fulfill all of the orders received in the last few weeks of each quarter. Other
+developments late in a quarter, such as a systems failure, component pricing movements, component shortages or global logistics disruptions, could adversely impact inventory levels and results of
+operations in a manner that is disproportionate to the number of days in the quarter affected. 
+
+        We
+experience some seasonal trends in the sale of our products that also may produce variations in quarterly results and financial condition. For example, sales to governments
+(particularly sales to the United States government) are often stronger in the third calendar quarter, consumer sales are often stronger in the fourth calendar quarter, and many customers whose fiscal
+and calendar years are the same spend their remaining capital budget authorizations in the fourth calendar quarter prior to new budget constraints in the first calendar quarter of the following year.
+European sales are often weaker during the summer months. Demand during the spring and early summer also may be adversely 
+
+24
+
+
+
+
+ 
+
+
+impacted
+by market anticipation of seasonal trends. Moreover, to the extent that we introduce new products in anticipation of seasonal demand trends, our discounting of existing products may adversely
+affect our gross margin prior to or shortly after such product launches. Typically, our third fiscal quarter is our weakest and our fourth fiscal quarter is our strongest. Many of the factors that
+create and affect seasonal trends are beyond our control. 
+
+Any failure by us to execute planned cost reductions successfully could result in total costs and expenses that are greater than expected.  
+
+        We have adopted restructuring and other cost reduction plans to bring operational expenses to appropriate levels for each of our businesses, while simultaneously
+implementing extensive new company-wide expense control programs. These initiatives include: 
+
+
+
+•A
+workforce restructuring program and a related U.S. early retirement program announced in July 2005 that we expect to result in the elimination of approximately
+14,985 positions by the end of fiscal 2008;
+•A
+multi-year plan announced in the third fiscal quarter of 2006 to reduce IT spending by consolidating HP's 85 data centers worldwide into six larger centers
+located in three U.S. cities;
+•A
+multi-year program announced in the third fiscal quarter of 2006 to reduce real estate costs by consolidating several hundred HP real estate locations
+worldwide to fewer core sites;
+•Modifications
+to our defined benefit pension plan, our subsidized retiree medical program and our 401(k) plan announced in February 2007 pursuant to which affected
+employees will cease accruing pension benefits and will, instead, receive an increased 401(k) match effective January 1, 2008; and
+•A
+U.S. early retirement program announced in February 2007 under which 3,080 employees left the company as of May 31, 2007, all of whom have been or we expect
+will be replaced. 
+
+
+        Our
+ability to achieve the anticipated cost savings and other benefits from these initiatives within the expected time frame is subject to many estimates and assumptions, including
+estimates and assumptions regarding the cost of consolidating the data centers and real estate locations, the amount of accelerated depreciation or asset impairment to be incurred when we vacate
+facilities or cease using equipment before the end of their respective lease term or asset life, the savings associated with the benefit plan changes announced in February 2007, the costs
+associated with the replacement of employees who retired under the February 2007 early retirement program and the costs and timing of other activities in connection with these initiatives.
+These estimates and assumptions are subject to significant economic, competitive and other uncertainties, some of which are beyond our control. If these estimates and assumptions are incorrect, if we
+experience delays, or if other unforeseen events occur, our business and results of operations could be adversely affected. 
+
+In order to be successful, we must attract, retain and motivate key employees, and failure to do so could seriously harm us.  
+
+        In order to be successful, we must attract, retain and motivate executives and other key employees, including those in managerial, technical, sales, marketing and
+IT support positions. Hiring and retaining qualified executives, engineers, skilled solutions providers in the IT support business and qualified sales representatives are critical to our future, and
+competition for experienced employees in the IT industry can be intense. The failure to hire executives and key employees or the loss of executives and key employees could have a significant impact on
+our operations. 
+
+25
+
+
+
+
+ 
+
+
+Changes to our compensation and benefit programs could adversely affect our ability to attract and retain employees.  
+
+        We have historically used stock options and other forms of share-based payment awards as key components of our total rewards employee compensation program in
+order to align employees' interests with the interests of our stockholders, encourage employee retention and provide competitive compensation and benefit packages. HP began recording charges to
+earnings for stock-based compensation expense in the first quarter of fiscal 2006 in accordance with Statement of Financial Accounting Standards No. 123 (revised 2004), "Share-Based Payment."
+As a result, we began to incur increased compensation costs associated with our stock-based compensation programs. Moreover, difficulties relating to obtaining stockholder approval of equity
+compensation plans could make it harder or more expensive for us to grant share-based payment awards to employees in the future. Like other companies, HP has reviewed its equity compensation strategy
+in light of the current regulatory and competitive environment and has reduced the total number of share-based payment awards granted to employees and the number of employees who receive share-based
+payment awards. Due to this change in our stock-based compensation strategy, combined with the pension and other benefit plan changes undertaken to reduce costs and our increasing reliance on variable
+pay, we may find it difficult to attract, retain and motivate employees, and any such difficulty could materially adversely affect our business. 
+
+HP's stock price has historically fluctuated and may continue to fluctuate, which may make future prices of HP's stock difficult to predict.  
+
+        HP's stock price, like that of other technology companies, can be volatile. Some of the factors that could affect our stock price are: 
+
+
+
+•speculation
+in the press or investment community about, or actual changes in, our business, strategic position, market share, organizational structure, operations, financial
+condition, financial reporting and results, effectiveness of cost cutting efforts, value or liquidity of our investments, exposure to market volatility, prospects, business combination or investment
+transactions, or executive team;
+•the
+announcement of new products, services, technological innovations or acquisitions by HP or its competitors; and
+•quarterly
+increases or decreases in revenue, gross margin, earnings or cash flow from operations, changes in estimates by the investment community or guidance provided by
+HP, and variations between actual and estimated financial results. 
+
+
+        General
+or industry-specific market conditions or stock market performance or domestic or international macroeconomic and geopolitical factors unrelated to HP's performance also may
+affect the price of HP common stock. For these reasons, investors should not rely on recent trends to predict future stock prices, financial condition, results of operations or cash flows. In
+addition, following periods of volatility in a company's securities, securities class action litigation against a company is sometimes instituted. If instituted against HP, this type of litigation
+could result in substantial costs and the diversion of management time and resources. 
+
+System security risks and systems integration issues could disrupt our internal operations or information technology services provided to customers, and any such disruption
+could harm our revenue, increase our expenses and harm our reputation and stock price.  
+
+        Experienced computer programmers and hackers may be able to penetrate our network security and misappropriate our confidential information or that of third
+parties, create system disruptions or cause shutdowns. In addition, computer programmers and hackers may be able to develop and deploy viruses, worms, and other malicious software programs that attack
+our products or otherwise exploit 
+
+26
+
+
+
+
+ 
+
+
+any
+security vulnerabilities of our products. As a result, we could incur significant expenses in addressing problems created by security breaches of our network and any security vulnerabilities of
+our products. Moreover, we could lose existing or potential customers for information technology outsourcing services or other information technology solutions or incur significant expenses in
+connection with our customers' system failures or any actual or perceived security vulnerabilities in our products. In addition, sophisticated hardware and operating system software and applications
+that we produce or procure from third parties may contain defects in design or manufacture, including "bugs" and other problems that could unexpectedly interfere with the operation of the system. The
+costs to us to eliminate or alleviate security problems, bugs, viruses, worms, malicious software programs and security vulnerabilities could be significant, and the efforts to address these problems
+could result in interruptions, delays, cessation of service and loss of existing or potential customers that may impede our sales, manufacturing, distribution or other critical functions. 
+
+
+        Portions
+of our IT infrastructure also may experience interruptions, delays or cessations of service or produce errors in connection with systems integration or migration work that takes
+place from time to time. We may not be successful in implementing new systems and transitioning data, including our current project to consolidate all of our worldwide IT data centers into six
+centers, which could cause business disruptions and be more expensive, time consuming, disruptive and resource-intensive. Such disruptions could adversely impact our ability to fulfill orders and
+interrupt other processes. Delayed sales, lower margins or lost customers resulting from these disruptions have adversely affected in the past, and in the future could adversely affect, our financial
+results, stock price and reputation. 
+
+Any failure by us to manage, complete and integrate acquisitions, divestitures and other significant transactions successfully could harm our financial results, business and
+prospects and may result in financial results that are different than expected.  
+
+        As part of our business strategy, we frequently acquire complementary companies or businesses, divest non-core businesses or assets, enter into
+strategic alliances and joint ventures and make investments to further our business (collectively, "business combination and investment transactions"). In order to pursue this strategy successfully,
+we must identify suitable candidates for and successfully complete business combination and investment transactions, some of which may be large and complex,
+and manage post-closing issues such as the integration of acquired companies or employees. Integration and other risks associated with business combination and investment transactions can
+be more pronounced for larger and more complicated transactions or if multiple transactions are integrated simultaneously. If we fail to identify and complete successfully business combination and
+investment transactions that further our strategic objectives, we may be required to expend resources to develop products and technology internally, we may be at a competitive disadvantage or we may
+be adversely affected by negative market perceptions, any of which may have a material adverse effect on our revenue, gross margin and profitability. 
+
+
+        Integration
+issues are complex, time-consuming and expensive and, without proper planning and implementation, could significantly disrupt our business. The challenges
+involved in integration include: 
+
+
+
+•combining
+product offerings and entering into new markets in which we are not experienced;
+•convincing
+customers and distributors that the transaction will not diminish client service standards or business focus, preventing customers and distributors from deferring
+purchasing decisions or switching to other suppliers (which could result in our incurring additional obligations in order to address customer uncertainty), minimizing sales force attrition and
+coordinating sales, marketing and distribution efforts;
+•consolidating
+and rationalizing corporate IT infrastructure, which may include multiple legacy systems from various acquisitions and integrating software code; 
+
+27
+
+
+
+
+ 
+
+
+
+
+•minimizing
+the diversion of management attention from ongoing business concerns;
+•persuading
+employees that business cultures are compatible, maintaining employee morale and retaining key employees, engaging with employee works councils representing an
+acquired company's non-U.S. employees, integrating employees into HP, correctly estimating employee benefit costs and implementing restructuring programs;
+•coordinating
+and combining administrative, manufacturing, research and development and other operations, subsidiaries, facilities and relationships with third parties in
+accordance with local laws and other obligations while maintaining adequate standards, controls and procedures;
+•achieving
+savings from supply chain integration; and
+•managing
+integration issues shortly after or pending the completion of other independent transactions. 
+
+
+        We
+evaluate and enter into significant business combination and investment transactions on an ongoing basis. We may not fully realize all of the anticipated benefits of any business
+combination and investment transaction, and the timeframe for achieving benefits of a business combination and investment transaction may depend partially upon the actions of employees, suppliers or
+other third parties. In addition, the pricing and other terms of our contracts for business combination and investment transactions require us to make estimates and assumptions at the time we enter
+into these contracts, and, during the course of our due diligence, we may not identify all of the factors necessary to estimate our costs accurately. Any increased or unexpected costs, unanticipated
+delays or failure to achieve contractual obligations could make these agreements less profitable or unprofitable. 
+
+        Managing
+business combination and investment transactions requires varying levels of management resources, which may divert our attention from other business operations. These business
+combination and investment transactions also have resulted and in the future may result in significant costs and expenses and charges to earnings, including those related to severance pay, early
+retirement costs, employee benefit costs, asset impairment charges, charges from the elimination of duplicative facilities and contracts, in-process research and development charges,
+inventory adjustments, assumed litigation and other liabilities, legal, accounting and financial advisory fees, and required payments to executive officers and key employees under retention plans.
+Moreover, HP has incurred and will incur additional depreciation and amortization expense over the useful lives of certain assets acquired in connection with business combination and investment
+transactions, and, to the extent that the value of goodwill or intangible assets with indefinite lives acquired in connection with a business combination and investment transaction becomes impaired,
+we may be required to incur additional material charges relating to the impairment of those assets. In order to complete an acquisition, we may issue common stock, potentially creating dilution for
+existing stockholders, or borrow, affecting our financial condition and potentially our credit ratings. Any prior or future downgrades in our credit rating associated with an acquisition could
+adversely affect our ability to borrow and result in more restrictive borrowing terms. In addition, HP's effective tax rate on an ongoing basis is uncertain, and business combination and investment
+transactions could impact our effective tax rate. We also may experience risks relating to the challenges and costs of closing a business combination and investment transaction and the risk that an
+announced business combination and investment transaction may not close. As a result, any completed, pending or future transactions may contribute to financial results that differ from the investment
+community's expectations in a given quarter. 
+
+28
+
+
+
+
+ 
+
+
+We cannot predict the outcome of various regulatory inquiries and stockholder derivative action lawsuits arising out of the processes employed in the investigation into leaks
+of HP confidential information to members of the media, and we may be named in additional regulatory inquiries and stockholder litigation, all of which could result in significant legal and other
+expenses.  
+
+        The Attorney General of the State of California, the Committee on Energy and Commerce of the U.S. House of Representatives, the U.S. Attorney for the Northern
+District of California, the Division of Enforcement of the SEC and the U.S. Federal Communications Commission all have conducted inquiries or investigations relating to the processes employed in an
+investigation into leaks of HP confidential information to members of the media that concluded in May 2006. We have entered into an agreement with the California Attorney General to resolve
+civil claims relating to the leak investigation. Under the terms of the agreement, which includes an injunction, we have paid a total of $14.5 million and agreed to implement and maintain for
+five years a series of measures designed to ensure that HP's corporate investigations are conducted in accordance with California law and the company's high ethical standards. We also have consented
+to the entry of an order by the SEC ordering HP to cease and desist from committing or causing violations of the public reporting requirements of the Securities Exchange Act of 1934, as amended. If we
+fail to implement and maintain the measures required under the agreement with the California Attorney General or if we fail to comply with the SEC cease and desist order, we could be subject to civil
+or criminal penalties. 
+
+        Four
+stockholder derivative lawsuits also have been filed in California (all of which have been consolidated into a single lawsuit) and two in Delaware (both of which have been
+consolidated into a single lawsuit) purportedly on behalf of HP stockholders seeking to recover damages and to obtain specified injunctive relief stemming from the activities of the leak
+investigations. We may in the future also be subject to additional litigation or other proceedings arising in relation to these matters. The period of time necessary to resolve the stockholder
+lawsuits is uncertain, and the expense of defending and concluding such litigation may be significant. In addition, we may be obligated to indemnify (and advance legal expenses to) former or current
+directors, officers or employees in accordance with the terms of our certificate of incorporation, bylaws, other applicable agreements, and Delaware law. 
+
+
+Unforeseen environmental costs could impact our future net earnings.  
+
+        We are subject to various federal, state, local and foreign laws and regulations concerning environmental protection, such as laws governing the conduct of our
+facilities and operations with respect to the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes and the cleanup of contaminated sites. It
+is our policy to apply strict standards for environmental clean-up to sites outside the United States, even where we are not required to do so under applicable local laws and regulations.
+Many of our products are subject to various federal, state and international laws governing chemical substances, including laws regulating the manufacture and distribution of chemical substances and
+laws restricting the presence of certain substances in electronics products. We could incur substantial costs, including cleanup costs, fines and civil or criminal sanctions, third-party property
+damage or personal injury claims, or our products could be enjoined from entering certain jurisdictions, if we were to violate or become liable under environmental laws or if our products become
+non-compliant with environmental laws. The ultimate costs under environmental laws and the timing of these costs are difficult to predict, and liability under some environmental laws
+relating to contaminated sites can be imposed retroactively and on a joint and several basis. We record a liability for environmental remediation and other environmental costs when we consider the
+costs to be probable and the amount of the costs can be reasonably estimated. We face increasing complexity in our product design and procurement operations as we adjust to new and future requirements
+relating to the materials composition of our products, including the restrictions on lead, cadmium and certain other substances that apply to specified electronics products put on the market in the
+European Union as of July 1, 2006 (Restriction of Hazardous Substances Directive) and 
+
+29
+
+
+
+
+ 
+
+
+similar
+legislation in other countries including China, Japan and Korea. We also could face significant costs and liabilities in connection with product take-back legislation. The EU has
+enacted the Waste Electrical and Electronic Equipment Directive (the "WEEE Legislation"), which makes producers of electrical goods, including computers and printers, financially responsible for
+specified collection, recycling, treatment and disposal of past and future covered products. Similar legislation has been or may be enacted in other jurisdictions, including in the United States,
+Canada, Mexico, China and Japan. We are continuing to evaluate the cumulative impact of, and are taking steps to comply with, the WEEE Legislation and similar legislation in other jurisdictions as
+individual countries issue their implementation legislation and guidance. 
+
+Some anti-takeover provisions contained in our certificate of incorporation and bylaws, as well as provisions of Delaware law, could impair a takeover attempt.  
+
+
+        We have provisions in our certificate of incorporation and bylaws, each of which could have the effect of rendering more difficult or discouraging an acquisition
+of HP deemed undesirable by our Board of Directors. These include provisions: 
+
+
+
+•authorizing
+blank check preferred stock, which HP could issue with voting, liquidation, dividend and other rights superior to our common stock;
+•limiting
+the liability of, and providing indemnification to, HP's directors and officers;
+•specifying
+that HP stockholders may take action only at a duly called annual or special meeting of stockholders and otherwise in accordance with our bylaws and limiting the
+ability of our stockholders to call special meetings;
+•requiring
+advance notice of proposals by HP stockholders for business to be conducted at stockholder meetings and for nominations of candidates for election to our Board of
+Directors;
+•requiring
+a vote by the holders of two-thirds of HP's outstanding shares to amend certain bylaws relating to HP stockholder meetings, the Board of Directors and
+indemnification; and
+•controlling
+the procedures for conduct of HP Board and stockholder meetings and election, appointment and removal of HP directors. 
+
+
+        These
+provisions, alone or together, could deter or delay hostile takeovers, proxy contests and changes in control or management of HP. As a Delaware corporation, HP also is subject to
+provisions of Delaware law, including Section 203 of the Delaware General Corporation Law, which prevents some
+stockholders from engaging in certain business combinations without approval of the holders of substantially all of HP's outstanding common stock. 
+
+
+        Any
+provision of our certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control of HP could limit the opportunity for our
+stockholders to receive a premium for their shares of HP common stock and also could affect the price that some investors are willing to pay for HP common stock. 
+
+<A
+NAME="dg75001_item_1b._unresolved_staff_comments."> 
+ 
+ITEM 1B

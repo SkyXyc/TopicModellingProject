@@ -1,0 +1,5701 @@
+Item 1A. Risk Factors, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A), Item 8. Financial Statements and Supplementary Data—Note 11. Commitments and
+  Contingent Liabilities and other factors discussed in filings we make with the United States Securities and Exchange Commission (SEC). These factors include, but are not limited to:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Adverse changes in energy industry policies and regulation, including market structures and rules.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Any inability of our energy transmission and distribution businesses to obtain adequate and timely rate relief and regulatory approvals from federal and state regulators.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Changes in federal and state environmental regulations that could increase our costs or limit operations of our generating units.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Changes in nuclear regulation and/or developments in the nuclear power industry generally that could limit operations of our nuclear generating units.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Actions or activities at one of our nuclear units that might adversely affect our ability to continue to operate that unit or other units at the same site.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Any inability to balance our energy obligations, available supply and trading risks.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Any deterioration in our credit quality.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Availability of capital and credit at reasonable pricing terms and our ability to meet cash needs.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Any inability to realize anticipated tax benefits or retain tax credits.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Increases in the cost of, or interruption in the supply of, fuel and other commodities necessary to the operation of our generating units.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Delays or cost escalations in our construction and development activities.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Adverse investment performance of our decommissioning and defined benefit plan trust funds and changes in discount rates and funding requirements.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Changes in technology and increased customer conservation.
+    
+  
+
+
+
+Additional information concerning these factors are set forth under Item 1A. Risk Factors.
+All of the forward-looking statements made in this report are qualified by these cautionary statements and we cannot assure you that the results or developments anticipated by management will be realized, or even if realized, will have the expected consequences to, or effects on, us or our
+  business prospects, financial condition or results of operations. Readers are cautioned not to place undue reliance on these forward-looking statements in making any investment decision. Forward-looking statements made in this report only apply as of the date of this report. While we may elect to
+  update forward-looking statements from time to time, we specifically disclaim any obligation to do so, even if internal estimates change, unless otherwise required by applicable securities laws.
+The forward-looking statements contained in this report are intended to qualify for the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+ii
+
+
+
+
+FILING FORMAT AND GLOSSARY
+This combined Annual Report on Form 10-K is separately filed by Public Service Enterprise Group Incorporated (PSEG), PSEG Power LLC (Power) and Public Service Electric and Gas Company (PSE&G). Information relating to any individual company is filed by such company on its own behalf.
+  Power and PSE&G each is only responsible for information about itself and its subsidiaries.
+Discussions throughout the document refer to PSEG and its principal operating subsidiaries, Power, PSE&G and PSEG Energy Holdings L.L.C. (Energy Holdings). Depending on the context of each section, references to “we,” “us,” and “our” relate to the specific company or companies being
+  discussed. In addition, certain key acronyms and definitions are summarized in a glossary beginning on page 233.
+WHERE TO FIND MORE INFORMATION
+PSEG, Power and PSE&G file annual, quarterly and special reports, proxy statements and other information with the U.S. Securities and Exchange Commission (SEC). You may read and copy any document that we file at the Public Reference Room of the SEC at 100 F Street, N.E., Washington,
+  D.C. 20549. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. You may also obtain our filed documents from commercial document retrieval services, the SEC’s internet website at www.sec.gov or our website at www.pseg.com.
+  Information contained on our website should not be deemed incorporated into or as a part of this report. Our Common Stock is listed on the New York Stock Exchange under the ticker symbol PEG. You can obtain information about us at the offices of the New York Stock Exchange, 20 Broad
+  Street, New York, New York 10005.
+PART I
+ITEM 1. BUSINESS
+We were incorporated under the laws of the State of New Jersey in 1985 and our principal executive offices are located at 80 Park Plaza, Newark, New Jersey 07102. We conduct our business through three direct wholly owned subsidiaries, Power, PSE&G and Energy Holdings, each of which also
+  has its principal executive offices at 80 Park Plaza, Newark, New Jersey 07102. PSEG Services Corporation (Services), our wholly owned subsidiary, provides us and these operating subsidiaries with certain management, administrative and general services at cost.
+1
+
+
+
+
+
+     
+     
+     
+     
+     
+  
+
+
+  
+    
+      PSEG
+  
+  
+     
+  
+  
+    
+      We are an energy company with a diversified business mix. Our operations are located primarily in the Northeastern and Mid Atlantic United States. Our business approach focuses on operational excellence, financial strength and disciplined investment. As a holding company, our profitability
+      depends significantly on our subsidiaries’ operating capabilities. Below are descriptions of our principal operating subsidiaries.
+  
+  
+     
+  
+  
+    
+      Power
+     
+    
+      PSE&G
+     
+    
+      Energy Holdings
+  
+  
+     
+  
+  
+    
+      A Delaware limited liability company formed in 1999 that integrates its generating asset
+      operations with its wholesale energy sales, fuel supply, energy trading and marketing and risk
+      management functions.
+Earns revenues from selling under contract or on the spot market a range of diverse products
+      such as electricity, natural gas, capacity, emissions credits, congestion credits and a series of
+      energy-related products used to optimize the operation of the energy grid.
+      Owns approximately 13,600 megawatts (MWs) of generation capacity located in the Northeast
+      and Mid Atlantic regions of the U.S. in some of the country’s largest and most developed
+      electricity markets.
+     
+    
+      A New Jersey corporation, incorporated in 1924, which is a regulated public utility providing
+      transmission and distribution of electric energy and natural gas in New Jersey. It is also the
+      provider of last resort for gas and electric commodity service for end users in its service
+      territory.
+      Earns revenue from its regulated rate tariffs under which it provides electric transmission and
+      electric and gas distribution to residential, commercial and industrial customers in its service
+      territory. It also offers appliance services and repairs to customers throughout its service territory.
+      Provides service to 2.1 million electric customers and 1.7 million gas customers in a service area
+      that covers approximately 2,600 square miles running diagonally across New Jersey where
+      approximately 5.5 million people, or about 70% of the State’s population, resides. Serves the
+      most heavily populated, commercialized and industrialized territory in New Jersey, including its
+      six largest cities and approximately 300 suburban and rural communities.
+     
+    
+      A New Jersey limited liability company (formed as successor to a company which was
+      incorporated in 1989) that invests and operates through its two primary subsidiaries.
+      Earns revenues from the operation of generation projects and passive energy-related
+      investments.
+      Owns approximately 2,400 MW of generation capacity, mostly in Texas.
+      Also owns and manages a $2 billion diversified portfolio of passive investments, which
+      consists mainly of energy-related leveraged leases.
+  
+
+
+The majority of our earnings are derived from the operations of Power, which has contributed at least 70% of our Income from Continuing Operations over the past three years. While this part of the business has produced significant earnings over that period, its operations are subject to higher
+  risks resulting from volatility in the energy markets. PSE&G has continued to produce stable earnings contributions for us. Earnings from Energy Holdings have declined in recent years as we have significantly reduced our investment in international projects. Energy Holdings’ earnings have also
+  been impacted by gains and losses on its asset sales and other charges and impairments taken on its remaining investments.
+2
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+  
+  
+     
+  
+
+
+  
+    
+      Earnings (Losses) in millions
+     
+    
+      2008
+     
+    
+      2007
+     
+    
+      2006
+  
+  
+     
+  
+
+
+
+
+  
+    
+    Power
+     
+     
+    
+      $
+     
+    
+       1,050
+     
+     
+     
+    
+      $
+     
+    
+       949
+     
+     
+     
+    
+      $
+     
+    
+       515
+     
+  
+  
+    
+    PSE&G
+     
+     
+     
+    
+      364
+     
+     
+     
+     
+    
+      380
+     
+     
+     
+     
+    
+      265
+     
+  
+  
+    
+    Energy Holdings
+     
+     
+     
+    
+      (403
+    
+       )
+     
+     
+     
+     
+    
+      63
+     
+     
+     
+     
+    
+      (30
+    
+       )
+     
+  
+  
+    
+    Other
+     
+     
+     
+    
+      (28
+    
+       )
+     
+     
+     
+     
+    
+      (67
+    
+       )
+     
+     
+     
+     
+    
+      (77
+    
+       )
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+    PSEG Income from Continuing Operations
+     
+     
+    
+      $
+     
+    
+       983
+     
+     
+     
+    
+      $
+     
+    
+       1,325
+     
+     
+     
+    
+      $
+     
+    
+       673
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+  
+
+
+The following is a more detailed description of our business, including a discussion of our:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Business Operations and Strategy
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Competitive Environment
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Employee Relations
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Regulatory Issues
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Environmental Matters
+    
+  
+
+
+
+
+
+BUSINESS OPERATIONS AND STRATEGY
+Power
+Through Power, we seek to produce low-cost energy by efficiently operating our nuclear, coal and gas-fired generation facilities, while balancing generation production, fuel requirements and supply obligations through energy portfolio management. We use commodity and financial instruments,
+  combined with our owned generation, to cover our commitments for Basic Generation Service (BGS) in New Jersey and other bilateral contract agreements.
+Products and Services
+As a merchant generator, our profit is derived from selling a range of products and services under contract to power marketers and to load-serving entities, such as investor-owned and municipal utilities, and to aggregators who resell energy to retail consumers, or on the spot market. These
+  products and services include:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Energy—is the electrical output produced by generation plants that is ultimately delivered to customers for use in lighting, heating, air conditioning and operation of other electrical equipment. Energy is our principal product and is priced on a usage basis, typically in cents per kWh or dollars
+      per MWh.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Capacity—a product distinct from energy, is a market commitment that a given unit will be available to an Independent System Operator (ISO) for dispatch if it is needed to meet system demand. Capacity is typically priced in dollars per MW for a given sale period.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Ancillary Services—are related activities supplied by generation unit owners to the wholesale market, required by the ISO to ensure the safe and reliable operation of the bulk power system. Owners of generation units may bid units into the ancillary services market in return for
+      compensatory payments. Costs to pay generators for ancillary services are recovered through charges imposed on market participants.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Emissions Allowances and Congestion Credits—Emissions Allowances (or credits) represent the right to emit a specific amount of certain pollutants. Allowance trading is used to control air pollution by providing economic incentives for achieving reductions in the emissions of pollutants.
+      Congestion credits (or Financial Transmission Rights) are financial instruments that entitle the holder 
+  
+
+
+
+3
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      to a stream of revenues (or charges) based on the hourly congestion price differences across a transmission path.
+    
+  
+
+
+
+
+Power also sells wholesale natural gas, primarily through a full requirements Basic Gas Supply Service (BGSS) contract with PSE&G to meet the gas supply requirements of PSE&G’s gas customers. The current BGSS contract runs through March 31, 2012.
+About 42% of PSE&G’s peak daily gas requirements comes from our firm transportation, which is available every day of the year. We satisfy the remainder of PSE&G’s requirements from our field storage, liquefied natural gas, seasonal purchases, contract peaking supply, propane and refinery and
+  landfill gas. Based upon availability, we also sell gas to others.
+How Power Operates
+We
+    have ownership interests in five nuclear generating units: Salem Units 1
+    and 2, each owned 57.41% by us and 42.59% by Exelon Generation and which
+    we operate; Hope Creek, 100% owned and operated by us; and Peach Bottom Units
+    2 and 3, each of which is operated by Exelon Generation and owned 50% by
+    us and 50% by Exelon Generation. Salem 1 and 2 and Hope Creek are located
+    at the same site. We also have ownership interests in fossil-fueled generating
+    stations in the Northeast and Mid Atlantic U.S. These units use coal, natural
+  gas and oil for electric generation.
+The map below shows the locations of Power’s generation facilities. For additional information, see Item 2. Properties.
+
+4
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      Generation Capacity
+    
+  
+
+
+
+
+
+Our installed capacity is comprised of a diverse mix of fuels: 45% gas, 27% nuclear, 17% coal, 9% oil and 2% pumped storage. This fuel diversity serves to mitigate risks associated with fuel price volatility and market demand cycles. Our total generating output in 2008 was
+  approximately 55,300 GWh, which was the highest level of generating output achieved in a year by our facilities. We anticipate that our 2009 electric output will be approximately 58,000 GWh. The following table indicates the proportionate share of generating output by fuel type.
+
+
+     
+     
+     
+     
+     
+  
+  
+    
+      Generation by Fuel Type
+     
+    
+      Actual 2008
+     
+    
+      Estimated 2009 (A)
+  
+
+
+  
+    
+    Nuclear:
+     
+     
+     
+     
+  
+  
+    
+    New Jersey facilities
+     
+     
+     
+    
+      36
+    
+       %
+     
+     
+     
+     
+    
+      35
+    
+       %
+     
+  
+  
+    
+    Pennsylvania facilities
+     
+     
+     
+    
+      17
+    
+       %
+     
+     
+     
+     
+    
+      16
+    
+       %
+     
+  
+  
+    
+    Fossil:
+     
+     
+     
+     
+  
+  
+    
+    Coal:
+     
+     
+     
+     
+  
+  
+    
+    New Jersey facilities
+     
+     
+     
+    
+      8
+    
+       %
+     
+     
+     
+     
+    
+      11
+    
+       %
+     
+  
+  
+    
+    Pennsylvania facilities
+     
+     
+     
+    
+      11
+    
+       %
+     
+     
+     
+     
+    
+      10
+    
+       %
+     
+  
+  
+    
+    Connecticut facilities
+     
+     
+     
+    
+      5
+    
+       %
+     
+     
+     
+     
+    
+      5
+    
+       %
+     
+  
+  
+    
+    Oil and Natural Gas:
+     
+     
+     
+     
+  
+  
+    
+    New Jersey facilities
+     
+     
+     
+    
+      18
+    
+       %
+     
+     
+     
+     
+    
+      17
+    
+       %
+     
+  
+  
+    
+    New York facilities
+     
+     
+     
+    
+      5
+    
+       %
+     
+     
+     
+     
+    
+      6
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+  
+    
+    Total
+     
+     
+     
+    
+      100
+    
+       %
+     
+     
+     
+     
+    
+      100
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      (A)
+     
+     
+     
+    
+      No assurances can be given that actual 2009 output by source will match estimates.
+    
+  
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      Generation Dispatch
+    
+  
+
+
+
+
+
+Our generation units are typically characterized as serving one or more of the three general energy market segments: base load; load following; and peaking, based on their operating capability and performance. On a capacity basis, our portfolio of generation assets consists of 35% base
+  load, 43% load following and 22% peaking. This diversity serves to reduce the risk associated with market demand cycles and allows us to participate in the market at each segment of the dispatch curve.
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      Base Load Units are the largest and most efficient units that we operate. These units operate whenever they are available. These units generally derive revenues from energy and capacity sales. Operating costs are low due to the combination of high efficiency and the use of coal
+      and nuclear fuels, which have generally been lower in cost relative to oil or natural gas. Performance is generally measured by the unit’s “capacity factor,” or the ratio of the actual output to the theoretical maximum output. During 2008, our base load coal unit average capacity
+      factor was 86.2%. Our base load nuclear unit capacity factors were as follows:
+    
+  
+
+
+
+
+
+
+
+     
+     
+     
+  
+  
+    
+      Unit
+     
+    
+      CapacityFactor
+  
+
+
+  
+    
+    Salem Unit 1
+     
+     
+     
+    
+      89.9
+    
+       %
+     
+  
+  
+    
+    Salem Unit 2
+     
+     
+     
+    
+      81.2
+    
+       %
+     
+  
+  
+    
+    Hope Creek
+     
+     
+     
+    
+      100.8
+    
+       %
+     
+  
+  
+    
+    Peach Bottom Unit 2
+     
+     
+     
+    
+      87.4
+    
+       %
+     
+  
+  
+    
+    Peach Bottom Unit 3
+     
+     
+     
+    
+      98.2
+    
+       %
+     
+  
+
+
+
+
+No assurances can be given that these capacity factors will be achieved in the future.
+5
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      Load Following Units are generally less efficient than base load units. These units generally operate between 20% and 80% of the time. The operating costs are generally higher per unit of output due to lower efficiency and/or the use of higher cost fuels such as oil and natural
+      gas. They operate less frequently than base load units and generally derive revenues from energy, capacity and ancillary services.
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    Peaking Units are the least efficient units, run the least amount of time, and generally utilize higher-priced fuels. These units generally operate less than 20% of the time. Costs per unit of output tend to be much higher than that of base load units. The majority of a peaking unit’s
+      revenues is from capacity and ancillary service sales. The characteristics of these units enable them to capture energy revenues during periods of high energy prices.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In the energy markets in which we operate, owners of power plants generally specify to the ISO prices at which they are prepared to generate and sell energy based on the marginal cost of generating energy from each individual unit. The ISOs will generally dispatch in merit order,
+      calling on the lowest variable cost units first and dispatching progressively higher-cost units until the point that the entire system demand for power (known as the system “load”) is satisfied. Base load units are generally dispatched first, with load following units next, followed by
+      peaking units. The following illustrative chart depicts the order of dispatch of our units based on their dispatch cost:
+    
+  
+
+
+
+
+
+Our Generation Facilities Along Dispatch Curve
+
+The bid price of the last unit dispatched by an ISO establishes the energy market-clearing price. In PJM, after considering the market-clearing price and the effect of transmission, congestion and other factors, the ISO calculates the locational marginal pricing (LMP) for every generation facility.
+  The ISO pays all units that are dispatched their respective LMP for each MWh of energy produced, regardless of their specific bid prices. Since bids generally approximate the marginal cost of production, units with lower marginal costs generate higher operating profits than units with
+  comparatively higher marginal costs.
+During periods when one or more parts of the transmission grid are operating at full capability, resulting in a constraint on the transmission system, it may not be possible to dispatch units in merit order without violating transmission reliability standards. Under such circumstances, the ISO will
+  dispatch higher-cost 
+6
+
+
+
+generation out of merit order within the congested area and power suppliers will be paid an increased LMP in congested areas, reflecting the bid prices of those higher-cost generation units.
+This method of determining supply and pricing creates an environment in the markets in which Power participates where natural gas prices have often had a major impact on the price that generators will receive for their output, especially in periods of relatively strong demand. As such, significant
+  changes in the price of natural gas will often translate into significant changes in the price of electricity.
+For example, the price of natural gas at the Henry Hub terminal increased from an average of about $3 per MMBtu in 2002 to about $9 per MMBtu on average in 2008. Similarly, the electricity spot price quoted at the PJM West market increased from an average of about $25 per MWh for
+  2002 to an average of about $70 per MWh in 2008. The prices at which transactions are entered into for future delivery of these products also are volatile, as evidenced by the market for forward contracts at points such as PJM West. The historical annual spot prices and forward calendar prices
+  as averaged over a year are reflected in the graphs below.
+
+
+7
+
+
+
+The prices reflected in the tables above do not necessarily illustrate our contract prices, but they are representative of market prices at relatively liquid hubs, with nearer-term forward pricing generally resulting from more liquid markets than pricing for later years. In addition, the prices do not
+  reflect locational differences resulting from congestion or other factors which can be considerable. While these prices provide some perspective on past and future prices, the forward prices are highly volatile and there is no assurance that such prices will remain in effect nor that we will be able
+  to contract output at these forward prices.
+Fuel Supply
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Nuclear Fuel Supply—To run our nuclear units we have long-term contracts for nuclear fuel. These contracts provide for:
+    
+  
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      purchase of uranium (concentrates and uranium hexafluoride);
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    conversion of uranium concentrates to uranium hexafluoride;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    enrichment of uranium hexafluoride; and
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    fabrication of nuclear fuel assemblies.
+    
+  
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Coal Supply—Coal is the primary fuel for our Hudson, Mercer, Keystone, Conemaugh and Bridgeport stations. We have contracts with numerous suppliers. Coal is delivered to our units through a combination of rail, truck, barge or ocean shipments.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In order to minimize emissions levels, our Bridgeport 3 and Hudson units use a specific type of coal obtained from Indonesia. If the supply from Indonesia or equivalent coal from other sources was not available for these facilities, their near-term operations would be adversely impacted. In
+      the longer-term, additional material capital expenditures would be required to modify our Bridgeport 3 station to enable it to operate using a broader mix of coal sources.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Recent volatility in the price of coal has prompted action by coal suppliers to attempt to renegotiate contracts. In particular, the Indonesian government requested that one of its domestic suppliers renegotiate its contracts with us to reflect more current market prices based on certain coal
+      indexes. We reached an agreement with this supplier, which has resulted in an adjustment to the pricing, volumes and term of our contract.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    We are constructing pollution control equipment at Hudson and Mercer that is designed to provide more flexibility in the types of coal we can use at those stations.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Gas Supply—Natural gas is the primary fuel for the bulk of our load following and peaking fleet. We purchase gas directly from natural gas producers and marketers. These supplies are transported to New Jersey by four interstate pipelines with whom we have contracted.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    We have one billion cubic feet-per-day of firm transportation capacity under contract to meet the primary gas supply needs of our generation fleet and our obligations under the BGSS contract. We supplement that supply with a total storage capacity of 80 billion cubic feet.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Oil—Oil is used as the primary fuel for two load following steam units and nine combustion turbine peaking units and can be used as an alternate fuel by several load following and peaking units that have dual-fuel capability. Oil is purchased on the spot market and delivered by truck,
+      barge, or pipeline.
+    
+  
+
+
+
+
+
+We expect to be able to meet the fuel supply demands of our customers and our own operations. However, the ability to maintain an adequate fuel supply could be affected by several factors not within our control, including changes in prices and demand, curtailments by suppliers, severe weather
+  and the availability of feedstocks for the production of supplements to the natural gas supply. For additional information, see Item 7. MD&A—Overview of 2008 and Future Outlook and Note 11. Commitments and Contingent Liabilities.
+8
+
+
+
+Markets and Market Pricing
+In the Northeast and Mid Atlantic U.S., there are three centralized, competitive electricity markets now being operated by ISO organizations:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      PJM Regional Transmission Organization—PJM conducts the largest centrally dispatched energy market in North America. It serves nearly 17% of the total U.S. population and has a peak demand of over 139,000 MW. The PJM Interconnection coordinates the movement of electricity
+      through all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia and the District of Columbia. All of Power’s generating stations, except for the Bethlehem Energy Center (BEC) and the
+      Bridgeport and New Haven stations, operate in PJM.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    New York—The New York ISO is the market coordinator for New York State and is now responsible for managing the New York power pool and for administering its energy marketplace. This service area has a population of about 19 million and a peak demand of over 32,000 MW.
+      Power’s BEC operates in New York.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    New England—ISO New England is responsible for managing the New England Power Pool which covers Maine, New Hampshire, Vermont, Massachusetts, Connecticut and Rhode Island. This service area has a population of about 14 million and a peak demand of over 26,000 MW.
+      Power’s Bridgeport and New Haven stations operate in Connecticut.
+    
+  
+
+
+
+
+
+The pricing of electricity varies by location in each of these markets. Depending upon our production and our obligations, these price differentials can serve to increase or decrease our profitability.
+Commodity prices, such as electricity, gas, coal and emissions, as well as the availability of our diverse fleet of generation units to produce these products also have a considerable effect on our profitability. These commodity prices have been, and continue to be, highly volatile.
+Since the majority of the power we generate is sourced from lower-cost nuclear and coal units, the rise in electric prices in recent years has yielded higher margins for us. Over a longer-term horizon, if these higher prices are sustained at the levels indicated by the current forward markets, we
+  expect to have an attractive environment in which to contract for the sale of our anticipated output. However, higher prices also increase the cost of replacement power, thereby placing us at risk should any of our generating units fail to function effectively or otherwise become unavailable.
+In addition to energy sales, we also earn revenue from capacity payments, through which we are compensated for committing that a portion of our capacity be available to the ISO for dispatch at its discretion. Capacity payments reflect the value to the ISO that at any time there is assurance that
+  sufficient generating capacity is available to meet system reliability and energy requirements. Currently, there is sufficient capacity in the markets in which we operate. However, in certain areas of these markets there are transmission system constraints, raising concerns about reliability and
+  creating a more acute need for capacity. Some generators, including us, announced the retirement of certain older generating facilities in these constrained areas due to insufficient revenues to support their continued operation. To enable the continued availability of these facilities, in separate
+  instances, both PJM and the New England Power Pool (NEPOOL) agreed to enter into Reliability-Must-Run (RMR) contracts to compensate us for those units’ contribution to reliability. By providing for such a payment structure, the ISOs have acknowledged that these units provide a reliability
+  service that is not otherwise compensated for in the existing markets.
+Through the implementation of the Reliability Pricing Model (RPM) (the market design for capacity payments in PJM) and the Forward Capacity Market (FCM) (in NEPOOL), the markets in which we operate have changed to provide for a more structured, forward-looking, transparent pricing
+  mechanism. This change is aimed at providing greater clarity regarding the value of capacity, resulting in an improved pricing signal to prospective investors in new generating facilities so as to encourage expansion of capacity to meet future market demands.
+9
+
+
+
+The prices to be received by generating units in PJM for capacity have been set through RPM base residual auctions based on the zone in which the generating unit is located. The majority of our PJM generating units are located in zones where the following prices have been set.
+
+
+     
+     
+     
+     
+     
+  
+  
+    
+      Delivery Year
+     
+    
+      MW-day
+     
+    
+      kW-yr
+  
+
+
+  
+    
+    June 2007 to May 2008
+     
+     
+    
+      $
+     
+    
+       197.67
+     
+     
+     
+    
+      $
+     
+    
+       72.15
+     
+  
+  
+    
+    June 2008 to May 2009
+     
+     
+    
+      $
+     
+    
+       148.80
+     
+     
+     
+    
+      $
+     
+    
+       54.31
+     
+  
+  
+    
+    June 2009 to May 2010
+     
+     
+    
+      $
+     
+    
+       191.32
+     
+     
+     
+    
+      $
+     
+    
+       69.83
+     
+  
+  
+    
+    June 2010 to May 2011
+     
+     
+    
+      $
+     
+    
+       174.29
+     
+     
+     
+    
+      $
+     
+    
+       63.62
+     
+  
+  
+    
+    June 2011 to May 2012
+     
+     
+    
+      $
+     
+    
+       110.00
+     
+     
+     
+    
+      $
+     
+    
+       40.16
+     
+  
+
+
+
+
+The zone in which our Keystone and Conemaugh units are located experienced fewer constraints on the system, resulting in prices lower than the prices for the rest of our generating assets in the first three auctions. This was not the case for the periods from June 2010 to May 2012 when
+  identical prices were set for all zones.
+The price that must be paid by an entity serving load in the various zones is also set through these auctions. These prices can be higher or lower than the prices noted in the table above due to import and export capability to and from lower-priced areas.
+The majority of our generating capacity has experienced increases in value from the recent changes in market designs, resulting in significant additional revenue. We cannot determine the long-term sustainability of these market design changes.
+On a prospective basis, many factors will affect the capacity pricing in PJM, including but not limited to:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      changes in load and demand;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes in the available amounts of demand response resources;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes in available generating capacity (including retirements, additions, derates, forced outage rates, etc.);
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    increases in transmission capability between zones; and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes to the pricing mechanism, including increasing the potential number of zones to create more pricing sensitivity to changes in supply and demand, as well as other potential changes that PJM may propose over time.
+    
+  
+
+
+
+
+
+For additional information on our collection of RMR payments in PJM and NEPOOL and the RPM and FCM proposals, see Regulatory Issues—Federal Regulation.
+Hedging Strategy
+In an attempt to mitigate volatility in our results, we seek to contract in advance for a significant portion of our anticipated electric output, capacity and fuel needs. We seek to sell a portion of our anticipated lower-cost nuclear and coal-fired generation over a multi-year forward horizon, normally
+  over a period of two to three years. We believe this hedging strategy increases stability of earnings.
+Among the ways in which we hedge our output are: (1) sales at PJM West and (2) BGS contracts. The BGS-Fixed Price contract, a full requirements contract that includes energy and capacity, ancillary and other services, is awarded for three-year periods through an auction process managed by
+  the New Jersey Board of Public Utilities (BPU). The volume of BGS contracts and the electric utilities our generation operations will serve vary from year to year. Pricing for the BGS contracts for recent and future periods by purchasing utility, including a capacity component, is as follows:
+10
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+      Load Zone ($/MWh)
+     
+    
+      2005-2008
+     
+    
+      2006-2009
+     
+    
+      2007-2010
+     
+    
+      2008-2011
+     
+    
+      2009-2012
+  
+
+
+  
+    
+    PSE&G
+     
+     
+    
+      $
+     
+    
+       65.41
+     
+     
+     
+    
+      $
+     
+    
+       102.51
+     
+     
+     
+    
+      $
+     
+    
+       98.88
+     
+     
+     
+    
+      $
+     
+    
+       111.50
+     
+     
+     
+    
+      $
+     
+    
+       103.72
+     
+  
+  
+    
+    Jersey Central Power and Light
+     
+     
+    
+      $
+     
+    
+       65.70
+     
+     
+     
+    
+      $
+     
+    
+       100.44
+     
+     
+     
+    
+      $
+     
+    
+       99.64
+     
+     
+     
+    
+      $
+     
+    
+       114.09
+     
+     
+     
+    
+      $
+     
+    
+       103.51
+     
+  
+  
+    
+    Atlantic City Electric
+     
+     
+    
+      $
+     
+    
+       66.48
+     
+     
+     
+    
+      $
+     
+    
+       103.99
+     
+     
+     
+    
+      $
+     
+    
+       99.59
+     
+     
+     
+    
+      $
+     
+    
+       116.50
+     
+     
+     
+    
+      $
+     
+    
+       105.36
+     
+  
+  
+    
+    Rockland Electric Company
+     
+     
+    
+      $
+     
+    
+       71.79
+     
+     
+     
+    
+      $
+     
+    
+       111.14
+     
+     
+     
+    
+      $
+     
+    
+       109.99
+     
+     
+     
+    
+      $
+     
+    
+       120.49
+     
+     
+     
+    
+      $
+     
+    
+       112.70
+     
+  
+
+
+
+
+A portion of our total generation capacity is allocated in the BGS contract through the BGS auctions. On average, tranches won in the BGS auctions require 100 MW to 120 MW of capacity on a daily basis. In addition, we hedged a portion of our generation capacity with forward capacity sales
+  contracts.
+The capacity prices we contracted for in the 2005-2008 BGS auctions and through some of the forward sales contracts were set prior to the implementation of RPM capacity auctions and therefore do not reflect the capacity prices determined more recently in the RPM capacity auctions. As a
+  result, we were unable to fully realize such pricing for some of our generating capacity. As these older contracts expire, we expect revenues to increase as we realize the RPM auction pricing.
+We have obtained price certainty for all of our PJM and New England capacity through May 2012 through these mechanisms.
+To support our contracted sales of energy, we also entered into contracts for the future purchase and delivery of nuclear fuel and coal, which include some market-based pricing components. As of February 10, 2009, we had contracted for the following percentages of our nuclear and coal
+  generation output and related fuel supplies for the next three years with modest amounts beyond 2011.
+
+
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+      Nuclear and Coal Generation
+     
+    
+      2009
+     
+    
+      2010
+     
+    
+      2011
+  
+
+
+  
+    
+    Generation Sales
+     
+    
+      100%
+     
+    
+      70%-80%
+     
+    
+      30%-50%
+  
+  
+    
+    Nuclear Fuel
+     
+    
+      100%
+     
+    
+      100%
+     
+    
+      100%
+  
+  
+    
+    Coal Supply and Transportation
+     
+    
+      90%-100%
+     
+    
+      15%-25%
+     
+    
+      0%-25%
+  
+
+
+
+We take a more opportunistic approach in hedging our anticipated natural gas-fired generation. The generation from these units is less predictable, as these units are generally dispatched when aggregate market demand has exceeded the supply provided by lower-cost units. The natural gas-fired
+  units have generally provided a lower contribution to our margin than either the nuclear or coal units. We purchase natural gas when gas-fired generation is required to supply forward sale commitments.
+In a changing market environment, this hedging strategy may cause our realized prices to differ materially from current market prices. In a rising price environment, this strategy normally results in lower margins than would have been the case if little or no hedging activity had been conducted.
+  Alternatively, in a falling price environment, this hedging strategy will tend to create margins higher than those implied by the then current market.
+11
+
+
+
+PSE&G
+Our regulated public utility, PSE&G, distributes electric energy and gas to customers within a designated service territory running diagonally across New Jersey where approximately 5.5 million people, or about 70% of the State’s population, reside.
+
+Products and Services
+Our utility operations primarily earn margins through the transmission and distribution of electricity and the distribution of gas.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Transmission—is the movement of electricity at high voltage from generating plants to substations and transformers, where it is then reduced to a lower voltage for distribution to homes, businesses and industrial customers. Our revenues for these services are based upon tariffs approved by
+      the Federal Energy Regulatory Commission (FERC).
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Distribution—is the delivery of electricity and gas to the retail customer’s home, business or industrial facility. Our revenues for these services are based upon tariffs approved by the BPU.
+    
+  
+
+
+
+
+
+We also earn margins through non-tariff competitive services, such as appliance repair services. The commodity supply portion of our utility business’ electric and gas sales are managed by BGS and BGSS suppliers. Pricing for those services are set by the BPU as a pass-through, resulting in no
+  margin for our utility operations.
+In addition to our current utility products and services, we have proposed several programs to improve efficiencies in customer energy use and increase the level of renewable generation to be constructed and owned by us including:
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      a program approved in 2008 to help finance the installation of 30 MW of solar power systems throughout our electric service area,
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    a new proposal to develop 120 MW of solar power systems over five years,
+    
+  
+
+
+
+12
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    a proposed energy efficiency stimulus initiative to encourage conservation and energy efficiency and to provide energy and money saving measures directly to businesses and families, and
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    a small scale carbon abatement program designed to promote energy efficiency.
+    
+  
+
+
+
+
+For additional information concerning these proposed programs and the components of our tariffs, see Regulatory Issues.
+How PSE&G Operates
+Transmission
+In September 2008, we received FERC approval to use formula transmission rates, effective October 1, 2008, for our existing and future transmission investments. Formula-type rates provide a method of rate recovery where the transmission owner annually determines its revenue requirements
+  through a fixed formula which considers Operations and Maintenance expenditures, Rate Base and capital investments and applies an approved return on equity (ROE). Currently, approved rates provide for a ROE of 11.68% on existing and new transmission investment. FERC has also approved
+  incentive rate treatment for the Susquehanna-Roseland line, which when added to the approved base ROE, will yield a ROE of 12.93% for this particular project. We will also earn this ROE on Construction Work In Progress (CWIP) dollars spent on this project.
+
+
+     
+     
+     
+     
+     
+  
+  
+    
+      Transmission Statistics
+  
+
+  
+    
+    December 31, 2008
+     
+    
+      Historical AnnualGrowth 2004-2008
+  
+  
+    
+    Network Circuit Miles
+     
+    
+      Billing Peak (MW)
+  
+
+
+  
+    
+    1,429
+     
+    
+      10,654
+     
+    
+      1.60%
+  
+
+
+
+For more information on current transmission construction activities, see Regulatory Issues, Federal Regulation—Transmission Regulation.
+Distribution
+All electric and gas customers in New Jersey have the ability to choose their own electric energy and/or gas supplier. However, pursuant to BPU requirements, we serve as the supplier of last resort for electric and gas customers within our service territory who have no other supplier. As a
+  practical matter, this means we are obligated to provide supply to a vast majority of residential customers and a smaller portion of commercial and industrial customers.
+The percentage of customers we serve as compared to that served by third party suppliers has been reasonably stable over the past several years. As shown in the table below, we continue to provide the electric energy and gas supply for the majority of the customers in our service territory for
+  the year ended December 31, 2008.
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+     
+     
+    
+      Electric
+     
+    
+      Gas
+  
+  
+     
+    
+      GWh
+     
+    
+      %
+     
+    
+      MillionTherms
+     
+    
+      %
+  
+
+
+  
+    
+    PSE&G
+     
+     
+     
+    
+      33,702
+     
+     
+     
+     
+    
+      77
+    
+       %
+     
+     
+     
+     
+    
+      2,139
+     
+     
+     
+     
+    
+      62
+    
+       %
+     
+  
+  
+    
+    Third Party Suppliers
+     
+     
+     
+    
+      10,018
+     
+     
+     
+     
+    
+      23
+    
+       %
+     
+     
+     
+     
+    
+      1,302
+     
+     
+     
+     
+    
+      38
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+    Total Delivered
+     
+     
+     
+    
+      43,720
+     
+     
+     
+     
+    
+      100
+    
+       %
+     
+     
+     
+     
+    
+      3,441
+     
+     
+     
+     
+    
+      100
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+
+
+13
+
+
+
+Our load requirements were split during 2008 among residential, commercial and industrial customers, described below. We believe that we have all the non-exclusive franchise rights (including consents) necessary for our electric and gas distribution operations in the territory we serve.
+
+
+     
+     
+     
+     
+     
+  
+  
+    
+      Customer Type
+     
+    
+      % of Sales
+  
+  
+     
+    
+      Electric
+     
+    
+      Gas
+  
+
+
+  
+    
+    Commercial
+     
+     
+     
+    
+      57
+    
+       %
+     
+     
+     
+     
+    
+      36
+    
+       %
+     
+  
+  
+    
+    Residential
+     
+     
+     
+    
+      31
+    
+       %
+     
+     
+     
+     
+    
+      60
+    
+       %
+     
+  
+  
+    
+    Industrial
+     
+     
+     
+    
+      12
+    
+       %
+     
+     
+     
+     
+    
+      4
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+  
+    
+    Total
+     
+     
+     
+    
+      100
+    
+       %
+     
+     
+     
+     
+    
+      100
+    
+       %
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+
+
+We procure the supply to meet our BGS obligations through two concurrent auctions authorized by the BPU for New Jersey’s total BGS requirement. These auctions take place annually in February. Results of these auctions determine which energy suppliers are authorized to supply BGS to New
+  Jersey’s electric distribution companies (EDCs). Once validated by the BPU, electricity prices for BGS service are set.
+BGSS is the mechanism approved by the BPU designed to recover all gas costs related to the supply for residential customers. BGSS filings are made annually by June 1 of each year, with an effective date of October 1. PSE&G has a full requirements contract through 2012 with Power to meet
+  the supply requirements of our default service gas customers. Gas commodity costs under this contract are recovered from our customers. Any difference between rates charged under the BGSS contract and rates charged to our residential customers is deferred and collected or refunded through
+  adjustments in future rates.
+While our customer base has remained steady, electric load has been fairly flat and gas load has declined, as illustrated:
+
+
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+      Electric and Gas Distribution Statistics
+  
+
+  
+     
+     
+    
+      December 31, 2008
+     
+    
+      Historical AnnualLoad Growth2004-2008
+  
+  
+     
+    
+      Number ofCustomers
+     
+    
+      Electric Sales and GasSold and Transported
+  
+
+
+  
+    
+    Electric
+     
+     
+     
+    
+      2.1 Million
+     
+     
+    
+      43,720 GWh
+     
+     
+     
+    
+      0.08
+    
+       %
+     
+  
+  
+    
+    Gas
+     
+     
+     
+    
+      1.7 Million
+     
+     
+    
+      3,441 Million Therms
+     
+     
+     
+    
+      -3.50
+    
+       %
+     
+  
+
+
+Markets and Market Pricing
+There continues to be significant volatility in commodity prices. Such volatility can have a considerable impact on us since a rising commodity price environment results in higher delivered electric and gas rates for customers. This may result in decreased demand for both electricity and gas,
+  increased regulatory pressures and greater working capital requirements as the collection of higher commodity costs may be deferred under our regulated rate structure. For additional information see Item 7. MD&A.
+Energy Holdings
+Through Energy Holdings, we own domestic generation outside of the Mid Atlantic region and own and manage passive energy-related investments. We are also pursuing an offshore wind project and a modest amount of solar and other renewable projects, primarily in our core markets.
+Products and Services
+We own 2,395 MW of domestic capacity in areas outside of the Mid Atlantic region, of which 2,000 MW comes from two 1,000 MW gas-fired, combined cycle generation facilities in Texas. The majority of our investments in international generation and distribution projects have been sold.
+14
+
+
+
+Our passive energy-related investments consist primarily of leveraged leases. As of December 31, 2008, the single largest lease investment represented 13% of total leveraged leases.
+How Energy Holdings Operates
+Approximately 37% of the expected output of our Texas facilities for 2009 has been sold via bilateral agreements. Additional bilateral sales for peak and off-peak services are expected to be signed as the year progresses. Any remaining uncommitted economic output will be offered in the Texas
+  spot market. Included in these bilateral agreements is a 350 MW daily capacity call option at Odessa that expires on December 31, 2010.
+In August 2008, we invested in a joint venture to further develop compressed air energy storage (CAES) technology. CAES technology stores energy in the form of compressed air by injection into underground caverns or above ground storage facilities which can then be released to generate
+  electricity through specialized turbine equipment. This technology could be used to optimize an intermittent energy source, such as wind, by storing energy at night and releasing this stored energy during the day when customers need power. Our plan is to use the technology to develop CAES
+  power plants and sell licenses to third parties to implement CAES technology.
+In October 2008, the New Jersey Office of Clean Energy (OCE) awarded a $4 million grant to a joint venture owned equally by one of our subsidiaries and an unaffiliated private developer, to advance the development of a 350 MW wind farm to be located approximately 16 miles off the shore
+  of southern New Jersey. An offshore wind farm has not yet been developed and constructed in the U.S. Numerous issues, including federal and state permitting, environmental impacts, power output sale arrangements, construction approach and expected maintenance costs, will need to be worked
+  through in order to successfully develop such a project. If these issues are satisfactorily addressed and the joint venture decides to proceed, the wind farm could be fully operational in 2013.
+Our leasing portfolio is designed to provide a fixed rate of return. Income on leveraged leases is recognized by a method which produces a constant rate of return on the outstanding investment in the lease, net of the related deferred tax liability, in the years in which the net investment is
+  positive. Any gains or losses incurred as a result of a lease termination are recorded as Operating Revenues as these events occur in the ordinary course of business of managing the investment portfolio.
+Leveraged lease investments involve three parties: an owner/lessor, a creditor and a lessee. In a typical leveraged lease financing, the lessor purchases an asset to be leased. The purchase price is typically financed 80% with debt provided by the creditor and the balance comes from equity funds
+  provided by the lessor. The creditor provides long-term financing to the transaction secured by the property subject to the lease. Such long-term financing is non-recourse to the lessor and, with respect to our lease investments, is not presented in our Consolidated Balance Sheets.
+The lessor acquires economic and tax ownership of the asset and then leases it to the lessee for a period of time no greater than 80% of its remaining useful life. As the owner, the lessor is entitled to depreciate the asset under applicable federal and state tax guidelines. The lessor receives income
+  from lease payments made by the lessee during the term of the lease and from tax benefits associated with interest and depreciation deductions with respect to the leased property. The ability to realize these tax benefits is dependent on operating gains generated by our other operating subsidiaries
+  and allocated pursuant to the consolidated tax sharing agreement between us and our operating subsidiaries. During 2008, we recorded after-tax charges of $490 million related to tax deductions previously claimed for certain of these leases that were recently disallowed by the Internal Revenue
+  Service (IRS). See Note 11. Commitments and Contingent Liabilities for further discussion.
+Lease rental payments are unconditional obligations of the lessee and are set at levels at least sufficient to service the non-recourse lease debt. The lessor is also entitled to any residual value associated with the leased asset at the end of the lease term. An evaluation of the after-tax cash flows to
+  the lessor determines the return on the investment. Under GAAP, the lease investment is recorded net of non-recourse debt and income is recognized as a constant return on the net unrecovered investment.
+15
+
+
+
+For additional information on leases, including the credit, tax and accounting risks related to certain lessees, see Item 1A. Risk Factors, Item 7. MD&A—Results of Operations—Energy Holdings, Item 7A. Qualitative and Quantitative Disclosures About Market Risk—Credit Risk—Energy Holdings and Note
+  11. Commitments and Contingent Liabilities.
+Markets and Market Pricing
+Our generation business in Texas is a merchant generation business located in the Electric Reliability Council of Texas (ERCOT) market. In balancing energy and ancillary service markets, an ISO will generally dispatch the lowest bids first unless local transmission congestion requires units to be
+  dispatched out of merit order. The price that all dispatched units receive is set by the last, or marginal bidder that is dispatched. Our Texas generation assets are combined cycle gas-fired generation units and generally have lower variable costs than less efficient single cycle gas and oil-fired
+  generation units. As a result, during on-peak periods, the price of power in ERCOT is frequently set by generation units with higher variable costs than our Texas generation assets. Unlike the other markets in which we compete, ERCOT does not have a capacity market, and as a result, all
+  generators are compensated solely through energy revenues and revenues for ancillary services, which are subject to substantial volatility as power prices fluctuate.
+ERCOT has decided to delay a proposed transition from a zonal market to a nodal wholesale market until the fourth quarter of 2010 at the earliest. As proposed, the redesigned grid will consist of more than 4,000 nodes replacing the current four congestion management zones. The implementation
+  of the new design is expected to deliver improved price signals, improved dispatch efficiencies and direct assignment of local congestion. We will continue to evaluate the potential impact this change will have on our Texas generation facilities once implemented.
+COMPETITIVE ENVIRONMENT
+Power
+Various market participants compete with us and one another in buying and selling in wholesale power pools, entering into bilateral contracts and selling to aggregated retail customers. Our competitors include:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      merchant generators,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    domestic and multi-national utility generators,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    energy marketers,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    banks, funds and other financial entities,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    fuel supply companies, and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    affiliates of other industrial companies.
+    
+  
+
+
+
+
+
+Our business is also under competitive pressure due to demand side management (DSM) and other efficiency efforts aimed at changing the quantity and patterns of usage by consumers which could result in a reduction in load requirements. A reduction in load requirements can also be caused by
+  economic cycles and factors. It is also possible that advances in technology, such as distributed generation, will reduce the cost of alternative methods of producing electricity to a level that is competitive with that of most central station electric production. To the extent that additions to the
+  transmission system relieve or reduce congestion in eastern PJM where most of our plants are located, our revenues could be adversely affected. In addition, pressures from renewable resources, such as wind and solar, could increase over time, especially if government incentive programs continue
+  to grow.
+We are also at risk if one or more states in which we operate should decide to turn away from competition and allow regulated utilities to continue to own or reacquire and operate generating stations in a regulated and potentially uneconomical manner, or to encourage rate-based generation for
+  the construction of new base load units. This has occurred in certain states. The lack of consistent rules in energy markets can negatively impact the competitiveness of our plants. Also, regional inconsistencies in environmental regulations, particularly those related to emissions, have put some of
+  our plants which are located in the 
+16
+
+
+
+Northeast, where rules are more stringent, at an economic disadvantage compared to our competitors in certain Midwest states.
+Also, environmental issues such as restrictions on carbon dioxide (CO2) emissions and other pollutants may have a competitive impact on us to the extent it is more expensive for our plants to remain compliant, thus affecting our ability to be a lower-cost provider compared to competitors without
+  such restrictions.
+PSE&G
+The electric and gas transmission and distribution business has minimal risks from competitors. Our transmission and distribution business is minimally impacted when customers choose alternate electric or gas suppliers since we earn our return by providing transmission and distribution service,
+  not by supplying the commodity. The demand for electric energy and gas by customers is affected by customer conservation, economic conditions, weather and other factors not within our control.
+Energy Holdings
+New
+    additions of lower cost or more efficient generation capacity in Texas could
+    make our plants in the region less economical in the future. A number of
+    competitors have announced plans to build additional coal-fired and gas-fired
+    generation capacity in ERCOT. Although it is not clear if this capacity will
+    be built or, if so, what the economic impact will be, such additions could
+    impact market prices and our competitiveness.
+Over the past several years, substantial amounts of wind generation capacity have been constructed in ERCOT, particularly in western Texas, where our Odessa generation facility is located. At the end of 2008, ERCOT had approximately 8,000 MW of installed wind capacity. Given the favorable
+  wind conditions in western Texas, these wind generation facilities are able to produce power during a substantial period of the year, resulting in an additional source of base load power in western Texas, especially during off-peak seasons.
+While numerous competitors have announced plans to build substantial amounts of new wind generation capacity, an issue impacting the likelihood of these projects being built is the constrained amount of transmission capacity between western Texas, where wind generation units are typically
+  sited but where power demand is relatively low, and the rest of Texas.
+The Public Utility Commission of Texas (PUCT) has designated five Competitive Renewable Energy Zones in western Texas and the Texas Panhandle in an effort to address the constraint issue. The PUCT has requested that ERCOT develop transmission construction options within these zones
+  that would allow for much greater levels of delivery of wind power from western Texas to customers throughout the ERCOT grid. Although it is not clear if these efforts at transmission expansion will be successful or, if so, what the economic impact will be, it is possible that substantial
+  additional amounts of wind generation will be built in ERCOT as a result of such potential transmission expansion, which could impact market prices and our competitiveness.
+EMPLOYEE RELATIONS
+The following table provides summarized information about our employees as of December 31, 2008. We believe that we maintain satisfactory relationships with our employees.
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+    Employees as of December 31, 2008
+  
+  
+     
+     
+    
+      Power
+     
+    
+      PSE&G
+     
+    
+      EnergyHoldings
+     
+    
+      Services
+  
+
+
+  
+    
+    Non-Union
+     
+     
+     
+    
+      1,126
+     
+     
+     
+     
+    
+      1,231
+     
+     
+     
+     
+    
+      112
+     
+     
+     
+     
+    
+      1,032
+     
+  
+  
+    
+    Union
+     
+     
+     
+    
+      1,412
+     
+     
+     
+     
+    
+      4,838
+     
+     
+     
+     
+    
+      —
+     
+     
+     
+     
+    
+      98
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+    Total Employees
+     
+     
+     
+    
+      2,538
+     
+     
+     
+     
+    
+      6,069
+     
+     
+     
+     
+    
+      112
+     
+     
+     
+     
+    
+      1,130
+     
+  
+  
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+    Number of Union Groups
+     
+     
+     
+    
+      3
+     
+     
+     
+     
+    
+      4
+     
+     
+     
+     
+    
+      n/a
+     
+     
+     
+     
+    
+      1
+     
+  
+  
+    
+    Bargaining Agreement Expiration Year
+     
+     
+     
+    
+      2011
+     
+     
+     
+     
+    
+      2011
+     
+     
+     
+     
+    
+      n/a
+     
+     
+     
+     
+    
+      2011
+     
+  
+
+
+
+
+17
+
+
+
+REGULATORY ISSUES
+Federal Regulation
+FERC
+The FERC is an independent federal agency that regulates the transmission of electric energy and gas in interstate commerce and the sale of electric energy and gas at wholesale pursuant to the Federal Power Act (FPA) and the Natural Gas Act. PSE&G and certain subsidiaries of Power and Energy
+  Holdings are public utilities as defined by the FPA. By virtue of its regulation of (a) interstate electric and gas transmission and (b) wholesale sales of electricity and gas, the FERC has extensive oversight over “public utilities” as defined by the FPA. FERC approval is usually required when a
+  “public utility” company seeks to: sell or acquire an asset that is regulated by the FERC (such as a transmission line or a generating station); collect costs from customers associated with a new transmission facility; charge a rate for wholesale sales under a contract or tariff; or engage in certain
+  mergers and internal corporate reorganizations.
+The FERC also regulates generating facilities known as qualifying facilities (QFs). QFs are cogeneration facilities that produce electricity and another form of useful thermal energy, or small power production facilities where the primary energy source is renewable, biomass, waste, or geothermal
+  resources. QFs must meet certain ownership, operating and efficiency criteria established by the FERC. Through Energy Holdings, we own several QF plants. QFs are subject to many, but not all, of the same FERC requirements as public utilities.
+For us, the major effects of FERC regulation fall into four general categories:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Regulation of Wholesale Sales—Generation/Market Issues
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Capacity Market Issues
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Transmission Regulation
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Compliance
+    
+  
+
+
+
+
+
+Regulation of Wholesale Sales—Generation/Market Issues
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Market Power—Under FERC regulations, public utilities must receive FERC authorization to sell power in interstate commerce. They can sell power at cost-based rates or apply to the FERC for authority to make market based rate (MBR) sales. For a requesting company to receive MBR
+      authority, the FERC must first make a determination that the requesting company lacks market power in the relevant markets. The FERC requires that holders of MBR tariffs file an update every three years demonstrating that they continue to lack market power.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    PSE&G and certain subsidiaries of Power and Energy Holdings have received MBR authority from the FERC. Retention of MBR authority is critical to the maintenance of our generation business’ revenues.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Under new MBR rules issued in 2007, the FERC may look at sub-markets to analyze whether a company possesses market power. Applying these new rules in October 2008, the FERC granted both PSE&G and PSEG Energy Resources & Trade LLC continued MBR authority and granted
+      both PSEG Fossil LLC and PSEG Nuclear LLC initial MBR authority.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Cost-Based RMR Agreements—The FERC has permitted public utility generation owners to enter into RMR agreements that provide cost-based compensation to a generation owner when a unit proposed for retirement is asked to continue operating for reliability purposes. Our Hudson 1
+      generating station is currently operating under an RMR agreement which expires September 2010. However, pursuant to the request of PJM, we will be extending this agreement until September 2011. For additional information, see Note 11. Commitments and Contingent Liabilities.
+    
+  
+
+
+
+18
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In NEPOOL, many owners of generation facilities have also filed for RMR treatment. We currently collect FERC-approved monthly payments for the Bridgeport Harbor Station Unit 2 and the New Haven Harbor Station. These agreements are scheduled to expire in June 2010.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    RMR treatment has enabled these units to continue to operate. Various parties have challenged the continuation of RMR payments in NEPOOL, and thus, there is risk that such payments may be terminated prior to the end of the contract terms.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Reactive Power—Reactive power encompasses certain ancillary services necessary to maintain voltage support and operate the system. In May 2008, we filed with FERC to increase our annual fixed revenues by $18 million to reflect our provision of reactive power support in PJM. In
+      November 2008, FERC accepted our reactive power rate filing retroactive to May 2008.
+    
+  
+
+
+
+
+Capacity Market Issues
+RPM is a locational installed capacity market design for the PJM region, including a forward auction for installed capacity. Under RPM, generators located in constrained areas within PJM are paid more for their capacity as an incentive to locate in areas where generation capacity is most needed.
+  PJM’s RPM has been challenged in court.
+In early 2006, certain interested market participants in New England agreed to a settlement that establishes the design of the region’s market for installed capacity and which is being implemented gradually over four years. Commencing in December 2006, all generators in New England began
+  receiving fixed capacity payments that escalate gradually over the transition period. The market design consists of a forward-looking auction for installed capacity that is intended to recognize the locational value of generators on the system and contains incentive mechanisms to encourage
+  generator availability during generation shortages. Capacity market rules in both PJM and in New England may change in the future.
+Transmission Regulation
+The FERC has exclusive jurisdiction to establish the rates and terms and conditions of service for interstate transmission. We currently have FERC-approved formula rates in effect to recover the costs of our transmission facilities. Under this formula, rates are put into effect in January of each
+  year based upon our internal forecast of annual expenses and capital expenditures. Rates are then trued up the following year to reflect actual annual expenses/capital expenditures. Our allowed ROE is 11.68% for both existing and new transmission investments, and we have received incentive
+  rates—affording a higher return on equity—for specific transmission investments.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Transmission Expansion—In June 2007, PJM approved the construction of the Susquehanna-Roseland line, a new 500 kV transmission line intended to maintain the reliability of the electrical grid serving New Jersey customers. PJM assigned construction responsibility for the new line to us
+      and PPL for the New Jersey and Pennsylvania portions of the project, respectively. The estimated cost of our portion of this construction project is approximately $750 million, and PJM has directed that the line be placed into service by June 2012. We have recently filed with the BPU to
+      obtain authorization to construct the Susquehanna-Roseland line. For further discussion, see State Regulation—Energy Policy—Susquehanna-Roseland BPU Petition.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Construction of the Susquehanna-Roseland line is contingent upon obtaining all necessary federal, state, municipal and landowner permits and approvals. The construction of the line has encountered local opposition. Should the line be cancelled for reasons beyond our control, we will be
+      entitled to recover 100% of prudently-incurred abandonment costs.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    PJM has also approved the construction of a 500 kV transmission line running from Virginia through Maryland and Delaware and is still considering approval of the portion terminating in Salem Township, New Jersey. We will be responsible for constructing and operating a portion of this
+      line, known as the Mid-Atlantic Pathway Project (MAPP), if approved. We have asked the FERC to approve a 150 basis point ROE adder for this project, 100% recovery of abandonment costs and the ability to transfer the project to an affiliate. Several state consumer advocates, including
+      the New 
+  
+
+
+
+19
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      Jersey Division of Rate Counsel, have opposed the incentive rate filing and have requested that the FERC set the matter for hearing. This filing is pending at the FERC.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In December 2008, PJM approved another transmission project, including two additional 500 kV transmission lines. The first would run from Branchburg to Roseland, and the second from Roseland to Hudson. These lines are still in the design phase.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    U.S. Department of Energy (DOE) Congestion Study—National Interest Electric Transmission Corridors and FERC Back-Stop Siting Authority—By virtue of the Energy Policy Act enacted by Congress in 2005, the DOE has the ability to designate transmission corridors in areas found to be
+      critical congestion areas, which then gives the FERC the ability to site transmission projects within these corridors should certain events occur.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In October 2007, the DOE acted to designate transmission corridors within these critical congestion areas. One of the designated corridors is the Mid-Atlantic Area National Corridor. Thus, entities seeking to build transmission within the Mid-Atlantic Area Corridor, which includes New
+      Jersey, most of Pennsylvania and New York, may be able to use the FERC’s back-stop siting authority in the future under certain circumstances, if necessary, to site transmission, including with respect to the Susquehanna-Roseland line. On February 18, 2009, the United States Court of
+      Appeals for the Fourth Circuit narrowed the scope of the FERC’s back-stop siting authority, which may lead to future legislative changes in this area.
+    
+  
+
+
+
+
+Compliance
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Reliability Standards—Congress has required the FERC to put in place, through the North American Electric Reliability Council (NERC), national and regional reliability standards to ensure the reliability of the U.S. electric transmission and generation system and to prevent major system
+      blackouts. Many reliability standards have been developed and approved. Since these standards are mandatory and applicable to, among other entities, transmission owners and generation owners and operators, and thus several of our operating subsidiaries, we are obligated to comply with
+      the standards and to ensure continuing compliance. In 2008, our Texas generation plants were audited for NERC Reliability Standards and were found to be in compliance. PSE&G was also audited for NERC Reliability Standards compliance in November 2008, and we are awaiting a final
+      determination on the audit.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    FERC Standards of Conduct—On October 16, 2008, FERC issued a revised rule governing the interaction between transmission provider employees and wholesale merchant employees, which revises FERC’s Standards of Conduct by abandoning the “corporate” separation approach to
+      regulating these interactions and instead adopting an “employee function” approach, which focuses on an individual employee’s job functions in determining how the rules will apply. The effect of these rules will be to permit more affiliate communication with respect to corporate and
+      strategic planning, to loosen restrictions on senior officers and directors and to permit necessary operational communications between those employees engaged in transmission system operations and planning and those employees engaged in generating plant operations. This rule became
+      effective in November 2008, with full compliance required by the FERC during the first quarter of 2009. We expect to be able to comply with these new rules.
+    
+  
+
+
+
+
+
+Nuclear Regulatory Commission (NRC)
+Our operation of nuclear generating facilities is subject to comprehensive regulation by the NRC, a federal agency established to regulate nuclear activities to ensure protection of public health and safety, as well as the security and protection of the environment. Such regulation involves testing,
+  evaluation and modification of all aspects of plant operation in light of NRC safety and environmental requirements. Continuous demonstration to the NRC that plant operations meet requirements is also necessary. The NRC has the ultimate authority to determine whether any nuclear generating
+  unit may operate. We anticipate filing for 
+20
+
+
+
+extensions of operating licenses for the Salem and Hope Creek facilities in 2009. The current operating licenses of our nuclear facilities expire in the years shown below:
+
+
+     
+     
+     
+  
+  
+    
+      Unit
+     
+    
+      Year
+  
+
+
+  
+    
+    Salem Unit 1
+     
+     
+     
+    
+      2016
+     
+  
+  
+    
+    Salem Unit 2
+     
+     
+     
+    
+      2020
+     
+  
+  
+    
+    Hope Creek
+     
+     
+     
+    
+      2026
+     
+  
+  
+    
+    Peach Bottom Unit 2
+     
+     
+     
+    
+      2033
+     
+  
+  
+    
+    Peach Bottom Unit 3
+     
+     
+     
+    
+      2034
+     
+  
+
+
+
+
+State Regulation
+Since our operations are primarily located within New Jersey, our main state regulator is the BPU. The BPU is the regulatory authority that oversees electric and natural gas distribution companies in New Jersey. PSE&G is subject to comprehensive regulation by the BPU including, among other
+  matters, regulation of retail electric and gas distribution rates and service and the issuance and sale of certain types of securities. BPU regulation can also have a direct or indirect impact on our power generation business as it relates to energy supply agreements and energy policy in New Jersey.
+We are also subject to some state regulation in California, Connecticut, Hawaii, New Hampshire, New York, Pennsylvania and Texas due to our ownership of generation and transmission facilities in those states.
+Rates
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Electric and Gas Base Rates—We must file electric and gas base rate cases with the BPU in order to change PSE&G’s base rates. The BPU also has authority to seek to adjust rates downward if it believes the rates are no longer just and reasonable. Under our current BPU Order, we may not
+      seek new base rates to be effective prior to November 15, 2009. We also must file a joint electric and gas petition for any future base rate increases. We expect to file a joint electric and gas rate case by mid 2009 with a request that rates become effective in 2010.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Rate Adjustment Clauses—In addition to base rate determinations, we recover certain costs from customers pursuant to mechanisms, known as adjustment clauses. These permit, at set intervals, the flow-through of costs to customers related to specific programs, outside the context of base rate
+      case proceedings. Recovery of these costs are subject to BPU approval. Costs associated with these programs are deferred when incurred and amortized to expense when recovered in revenues. Delays in the pass-through of costs under these clauses can result in significant changes in cash
+      flow. Our SBC and NGC clauses are detailed in the following table:
+    
+  
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+  
+  
+    
+      Rate Clause
+     
+    
+      2008 Revenue
+     
+    
+      (Over) Under RecoveredBalanceas of December 31, 2008
+  
+
+  
+    
+     
+     
+     
+     
+    
+      Millions
+  
+
+
+  
+    
+    Energy Efficiency and Renewable Energy
+     
+     
+    
+      $
+     
+    
+       179
+     
+     
+     
+    
+      $
+     
+    
+       9
+     
+  
+  
+    
+    RAC
+     
+     
+     
+    
+      16
+     
+     
+     
+     
+    
+      134
+     
+  
+  
+    
+    USF
+     
+     
+     
+    
+      152
+     
+     
+     
+     
+    
+      34
+     
+  
+  
+    
+    Social Programs
+     
+     
+     
+    
+      33
+     
+     
+     
+     
+    
+      32
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+  
+    
+    Total SBC
+     
+     
+     
+    
+      380
+     
+     
+     
+     
+    
+      209
+     
+  
+  
+    
+    NGC
+     
+     
+     
+    
+      59
+     
+     
+     
+     
+    
+      (9
+    
+       )
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+  
+    
+    Total
+     
+     
+    
+      $
+     
+    
+       439
+     
+     
+     
+    
+      $
+     
+    
+       200
+     
+  
+  
+    
+     
+     
+     
+     
+     
+  
+
+
+
+
+
+  
+     
+
+  
+  
+     
+     
+     
+     
+    
+      Societal Benefits Charges (SBC)—The SBC is a mechanism designed to ensure recovery of costs associated with activities required to be accomplished to achieve specific government-mandated 
+  
+
+
+
+21
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      public policy determinations. The programs that are covered by the SBC (gas and electric) are energy efficiency and renewable energy programs, Manufactured Gas Plant RAC and the Universal Service Fund (USF). In addition, the electric SBC includes a Social Programs component. All
+      components include interest on both over and under recoveries.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Non-utility Generation Charge (NGC)—The NGC recovers the above market costs associated with the long-term power purchase contracts with non-utility generators approved by the BPU.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Recent Rate Adjustments—USF/Lifeline—On October 21, 2008, we received an Order to reset rates for the USF and the Lifeline program to recover $85 million and $61 million for USF electric and gas, respectively and $28 million and $16 million for Lifeline electric and gas, respectively.
+      The new rates were effective October 24, 2008.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    SBC/NGC—On December 8, 2008, the BPU issued its final order approving an electric SBC/NGC rate increase of $89.7 million on an annual basis and a gas SBC increase of $15.3 million. The new rates were effective December 9, 2008. As part of the order, we were required to write off
+      $1.4 million of previously deferred SBC costs.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    On February 9, 2009, we filed a petition requesting a decrease in our electric SBC/NGC rates of $18.9 million and an increase in gas SBC rates of $3.7 million. This matter is expected to be transferred to the Office of Administrative Law (OAL) for potential evidentiary hearings.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    RAC—On October 3, 2008, the BPU issued an order approving a settlement and affirming recovery of our RAC 15 costs of $36 million incurred from August 1, 2006 through July 31, 2007.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    On December 1, 2008, we filed a RAC 16 petition with the BPU requesting an Order which would increase our current gas RAC rates by approximately $8.9 million on an annual basis and increase our current electric RAC rates by approximately $7.6 million on an annual basis. This
+      matter has been transferred to the OAL for evidentiary hearings.
+    
+  
+
+
+
+
+Energy Supply
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      BGS—New Jersey’s EDCs provide two types of BGS, the default electric supply service for customers who do not have a third party supplier. The first type, which represents about 80% of PSE&G’s load requirements, provides default supply service for smaller industrial and commercial
+      customers and residential customers at seasonally-adjusted fixed prices for a three-year term (BGS-Fixed Price). These rates change annually on June 1, and are based on the average price obtained at auctions in the current year and two prior years. The second type provides default supply
+      for larger customers. However, energy is priced at hourly PJM real-time market prices and the term of the contract is 12 months.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    All of New Jersey’s EDCs jointly procure the supply to meet their BGS obligations through two concurrent auctions authorized each year by the BPU for New Jersey’s total BGS requirement. These auctions take place annually in February. Results of these auctions determine which energy
+      suppliers are authorized to supply BGS to New Jersey’s EDCs. PSE&G earns no margin on the provision of BGS.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    PSE&G’s total BGS-Fixed Price load is expected to be approximately 8,700 MW. Approximately one-third of this load is auctioned each year for a three-year term. Current pricing is as follows:
+    
+  
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+     
+     
+    
+      2006
+     
+    
+      2007
+     
+    
+      2008
+     
+    
+      2009
+  
+
+
+  
+    
+    36 Month Term Ending
+     
+     
+     
+    
+      May 2009
+     
+     
+     
+     
+    
+      May 2010
+     
+     
+     
+     
+    
+      May 2011
+     
+     
+     
+     
+    
+      May 2012
+     
+  
+  
+    
+    Load (MW)
+     
+     
+     
+    
+      2,882
+     
+     
+     
+     
+    
+      2,758
+     
+     
+     
+     
+    
+      2,840
+     
+     
+     
+     
+    
+      2,840
+     
+  
+  
+    
+    $ per kWh
+     
+     
+    
+      $
+     
+    
+       0.10251
+     
+     
+     
+    
+      $
+     
+    
+       0.09888
+     
+     
+     
+    
+      $
+     
+    
+       0.11150
+     
+     
+     
+    
+      $
+     
+    
+       0.10372
+     
+  
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      (a)
+     
+     
+     
+    
+      Prices set in the February 2009 BGS Auction are effective on June 1, 2009 when the 36-month (May 2009) supply agreements expire.
+    
+  
+
+
+
+
+
+22
+
+
+
+For additional information, see Note 5. Regulatory Assets and Liabilities and Note 11. Commitments and Contingent Liabilities.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      BGSS—BGSS is the mechanism approved by the BPU designed to recover all gas costs related to the supply for residential customers. BGSS filings are made annually by June 1 of each year, with an effective date of October 1. Revenues are matched with costs using deferral accounting,
+      with the goal of achieving a zero cumulative balance by September 30 of each year. In addition, we have the ability to put in place two self-implementing BGSS increases on December 1 and February 1 of up to 5% and also may reduce the BGSS rate at any time.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    PSE&G has a full requirements contract through 2012 with Power to meet the supply requirements of default service gas customers. Power charges PSE&G for gas commodity costs which PSE&G recovers from customers. Any difference between rates charged by Power under the BGSS contract
+      and rates charged to PSE&G’s residential customers are deferred and collected or refunded through adjustments in future rates. PSE&G earns no margin on the provision of BGSS.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In May 2008, PSE&G requested an increase in annual BGSS revenue of $376 million, excluding Sales and Use Tax, to be effective October 1, 2008. Since that time, due to the significant downward trend in wholesale natural gas prices, we filed two revisions to the BGSS increase, a revised
+      Stipulation (increase of 14% or $267 million) and also a BGSS self-implementing decrease (5% or approximately $108 million). The increase in the BGSS-Residential Service Gas (RSG) rate became effective on October 3, 2008 and the decrease became effective on January 1, 2009.
+    
+  
+
+
+
+
+
+Energy Policy
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      New Jersey Energy Master Plan (EMP)—New Jersey law requires that an EMP be developed every three years, the purpose of which is to ensure safe, secure and reasonably-priced energy supply, foster economic growth and development and protect the environment. The most recent EMP
+      was finalized in October 2008. The plan identifies a number of the actions to improve energy efficiency, increase the use of renewable resources, ensure a reliable supply of energy and stimulate investment in clean energy technologies, including to:
+    
+  
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      maximize energy conservation and energy efficiency to reduce New Jersey’s projected energy use 20% by the year 2020;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    reduce prices by decreasing peak demand 5,700 MW by 2020;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    strive to achieve 30% of the state’s electricity needs from renewable sources by 2020;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    develop at least 3,000 MW of off-shore wind generation by 2020,
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    develop new low carbon-emitting, efficient power plants to help close the gap between the supply and demand of electricity;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    invest in innovative clean energy technologies and businesses to stimulate the industry’s growth and green job development in New Jersey;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    work with electric and gas utilities to develop individual utility master plans through 2020 to evaluate options to modernize the electrical grid;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    establish a state energy council; and
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    conduct a complete review of the BGS auction process.
+    
+  
+
+
+
+
+
+Consistent with the EMP, we have proposed several programs in filings with the BPU addressing different components of the EMP goals, and have submitted a number of strategies designed to improve efficiencies in customer use and increase the level of renewable generation in the State.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Solar Initiative—In 2007, we filed a plan with the BPU designed to spur investment in solar power in New Jersey and meet energy goals under the EMP. This program received final BPU approval and a written BPU order in April 2008. Under the plan, our utility business will invest 
+  
+
+
+
+23
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      approximately $105 million over two years in a pilot program to help finance the installation of 30 MW of solar systems throughout its electric service area by providing loans to customers for the installation of solar photovoltaic systems on their premises. The borrowers can repay the
+      loans over a period of either 10 years (for residential customer loans) or 15 years by providing us with solar renewable energy certificates. Borrowers will also have the option to repay the loans with cash. The program is designed to fulfill approximately 50% of the BPU’s Renewal
+      Portfolio Standard requirements in our utility service area in May 2009 and May 2010.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In February 2009, we filed a new solar initiative with the BPU. This initiative is called the Solar 4 All Program. Through this program, we seek to invest approximately $773 million to develop 120 MW of solar photovoltaic (PV) systems over a five year horizon. The program consists of
+      four segments: a centralized PV system (35MW); solar systems installed in distribution system poles (40MW), roof-mounted systems installed on local government buildings in our electric service territory (43MW) and roof-mounted solar systems installed in New Jersey Housing and
+      Mortgage Finance Agency affordable housing communities (2MW). This program is under review by the BPU.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Carbon Abatement Program—In June 2008, we filed a petition for approval for a small scale carbon abatement program with the BPU, under which we propose to invest up to $46 million over four years in programs across specific customer segments. The program is designed to support
+      EMP goals and promote energy efficiency. The BPU approved a settlement with new rates going into effect on January 1, 2009.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Demand Response (DR)—In July 2008, the BPU directed that DR programs be implemented by each of New Jersey’s electric utilities beginning in June 2009. In its order, the BPU established target goals to increase DR by 300 MW for the first year of the program and a total increase of
+      600 MW by the end of the third year and stated that 55% of the target would be our responsibility. In response, we filed our program proposal and identified $93.4 million of demand response investment over a period of four years, seeking full recovery of the program costs, including a
+      return on our investment, through rates.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In September 2008, the BPU voted to defer action on our program (and the proposed programs of the other New Jersey utilities) and to reconvene its working group which will focus on enrolling, with additional incentives, more New Jersey-based demand response in already-existing
+      programs of PJM, in which our role would be limited. It is possible that the BPU may still act to approve all, or at least a portion, of our filing, but the outcome of this proceeding cannot be predicted.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    On December 10, 2008, the BPU issued an order directing each of the State’s electric utilities to implement a one-year demand response program in their respective service territories. The targeted amount of demand response for this program is 600 MW statewide, with a budget of $4.9
+      million, which represents an incentive in addition to PJM’s existing DR service programs. The utilities’ role is limited to collecting the program costs, plus administrative costs, through rates, and making the incentive payment to the DR service providers after PJM and the BPU direct the
+      utilities to do so.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Energy Efficiency Economic Stimulus Program—On January 21, 2009, we filed for approval of an energy efficiency economic stimulus program, under which we proposed to spend $190 million to encourage conservation and create green jobs. This filing is in direct response to a call from
+      New Jersey’s Governor to invigorate the economy as part of the State’s economic assistance and recovery plan. The Economic Energy Efficiency Stimulus Program filing was made under New Jersey’s Regional Greenhouse Gas Initiative (RGGI) legislation, which encourages utilities to
+      invest in conservation and energy efficiency programs as part of their regulated business.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    The new expanded energy efficiency initiative offers programs for various targeted customer segments. Sub-programs for residential homes and small businesses in Urban Enterprise Zone municipalities, multi-family buildings, hospitals, data centers and governmental entities provide audits at
+      no cost to identify energy efficiency measures. Customers could be eligible for incentives toward the installation of the energy efficiency measures. Other components include a program that provides 
+  
+
+
+24
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      funding for new technologies and demonstration projects, and a program to encourage non-residential customers to reduce energy use through improvements in the operation and maintenance of their facilities.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Capital Economic Stimulus Infrastructure Program—On January 21, 2009, we also filed for approval of a capital economic stimulus infrastructure investment program and an associated cost recovery mechanism. Under this initiative, we propose to undertake $698 million of capital
+      infrastructure investments for electric and gas programs over a 24 month period. These investments would be subject to deferred accounting and recovered through a new Capital Adjustment Mechanism. The goal of these accelerated capital investments is to help improve the State’s
+      economy through the creation of new employment opportunities. While this filing was made in response to the Governor of New Jersey’s proposal to help revive the economy through job growth and capital spending, the outcome of this filing cannot be predicted at this time.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Susquehanna-Roseland BPU Petition—In January 2009, we filed a Petition with the BPU seeking authorization from the BPU to construct the New Jersey portion of the Susquehanna-Roseland line. The New Jersey portion of the line spans approximately 45 miles and crosses through 16
+      municipalities. The Petition seeks a finding from the BPU that municipal land use and zoning ordinances of these municipalities do not apply to this line. In this Petition and accompanying testimony, we explain the need for the line—that it is required to address 23 PJM-identified reliability
+      violations—and we address issues such as engineering and design, route selection, construction impacts, property rights, environmental impacts and public outreach. The first prehearing conference in this proceeding is scheduled for February 26, 2009, at which time a procedural schedule will
+      be established.
+    
+  
+
+
+
+Compliance
+The BPU has statutory authority to conduct periodic audits of our utility’s operations and its compliance with applicable affiliate rules and competition standards. The BPU has retained consultants to conduct periodic combined management/competitive service audits of New Jersey utilities and we
+  could be subject to various audits in 2009.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Gas Purchasing Strategies Audit—In 2007, the BPU engaged a contractor to perform an analysis of the gas purchasing practices and hedging strategies of the four New Jersey gas distribution companies (GDCs). The primary focus was to examine and compare the financial and physical
+      hedging policies and practices of each company and to provide recommendations for improvements to these policies and practices. The audit included a detailed review of gas hedging practices, including discovery and management interviews. A report including findings and
+      recommendations for all four GDCs and each GDC’s comments and suggestions was provided to Rate Counsel who also provided comments. On February 24, 2009, the BPU accepted the final audit report and recommended that the findings be used as a starting point for future changes to
+      each GDC’s hedging program.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Deferral Audit—The BPU Energy and Audit Division conducts audits of deferred balances. A draft Deferral Audit—Phase II report relating to the 12-month period ended July 31, 2003 was released by the consultant to the BPU in April 2005. For additional information regarding PSE&G’s
+      Deferral Audit, see Item 1A. Risk Factors and Note 11. Commitments and Contingent Liabilities.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    RAC Audit—On February 4, 2008, the BPU’s Division of Audits commenced a review of the RAC program for the RAC 12, 13 and 14 periods encompassing August 1, 2003 through July 31, 2006. Total RAC costs associated with this period were $83 million. The BPU has not issued a
+      final order or report. We cannot predict the final outcome of this audit.
+    
+  
+
+
+
+
+
+ENVIRONMENTAL MATTERS
+Our operations are subject to environmental regulation by federal, regional, state and local authorities. These environmental laws and regulations impact the manner in which our operations currently are conducted as 
+25
+
+
+
+well as impose costs on us to address the environmental impacts of historical operations that may have been in full compliance with the legal requirements in effect at the time those operations were conducted.
+Areas of regulation may include, but are not limited to:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      air pollution control,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    water pollution control,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    hazardous substance liability,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    fuel and waste disposal, and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    climate change.
+    
+  
+
+
+
+
+
+To the extent that environmental requirements are more stringent and compliance more costly in certain states where we operate compared to other states that are part of the same market, such rules may impact our ability to compete within that market. Due to evolving environmental regulations,
+  it is difficult to project expected costs of compliance and their impact on competition. For additional information related to environmental matters, including anticipated expenditures for installation of pollution control equipment, hazardous substance liabilities and fuel and waste disposal costs, see
+  Item 1A. Risk Factors, Item 3. Legal Proceedings and Note 11. Commitments and Contingent Liabilities.
+Air Pollution Control
+The Clean Air Act and its regulations require controls of emissions from sources of air pollution and also impose record keeping, reporting and permit requirements. Facilities that we operate or in which we have an ownership interest are subject to these federal requirements, as well as
+  requirements established under state and local air pollution laws applicable where those facilities are located. Capital costs of complying with air pollution control requirements through 2010 are included in our estimate of construction expenditures in Item 7. MD&A—Capital Requirements.
+The New Jersey Air Pollution Control Act requires that certain sources of air emissions obtain operating permits issued by the New Jersey Department of Environmental Protection (NJDEP). All of our generating facilities in New Jersey are required to have such operating permits. Our generating
+  facilities in New York, Connecticut, Pennsylvania and Texas are under jurisdiction of their respective state’s environmental agencies. The costs of compliance associated with any new requirements that may be imposed by these permits in the future are not known at this time and are not included
+  in capital expenditures, but may be material.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      SO2, NOx and Particulate Matter Emissions—Since January 1, 2000 the Clean Air Act set a cap on SO2 emissions from affected units and allocates SO2 allowances to those units with the stated intent of reducing the impact of acid rain. Generation units with emissions greater than their
+      allocations can obtain allowances from sources that have excess allowances. We do not expect to incur material expenditures to continue complying with the acid rain program.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    The U.S. Environmental Protection Agency (EPA) published the final Clean Air Interstate Rule (CAIR) that identified 28 states and the District of Columbia as contributing significantly to the levels of fine particulates and/or eight-hour ozone air quality in downwind states. New Jersey,
+      New York, Pennsylvania, Texas and Connecticut were among the states the EPA listed in the CAIR. Based on state obligations to address interstate transport of pollutants under the Clean Air Act, the EPA had proposed a two-phased emission reduction program with Phase 1 beginning in
+      2009 for NOx and 2010 for SO2 and Phase 2 beginning in 2015. The EPA is recommending that the program be implemented through a cap-and-trade program, although states are not required to proceed in this manner.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In December 2008, the U.S. Court of Appeals for the District of Columbia Circuit remanded CAIR back to the EPA to fix the flaws within CAIR. CAIR will remain in effect until the EPA issues new rules.
+    
+  
+
+
+
+26
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    The remand allows the NOx trading program in CAIR to commence in 2009, with the annual NOx cap-and-trade program starting on January 1, 2009 (NJ, NY, PA, TX), and the Ozone season NOx cap-and-trade program starting May 1, 2009 (NJ, NY, CT, PA) in a separate and distinct cap-
+      and-trade program. It is anticipated that, in aggregate, we will be net buyers of annual NOx allowances but will likely be allocated sufficient allowances to satisfy Ozone season NOx emissions. At recent market prices of annual NOx allowances, the cost of our estimated shortfall requirement
+      of 3,000 allowances is approximately $10 million for 2009. The future direction of the market is unclear due to the recent court ruling and pending new administration leadership. The final cost of compliance is uncertain due to market instability.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    If the SO2 part of CAIR is initiated on January 1, 2010, the financial impact to us is anticipated to be minimal due to the surplus allowances banked from the acid rain program that can be used to satisfy CAIR obligations.
+    
+  
+
+
+
+
+Water Pollution Control
+The Federal Water Pollution Control Act (FWPCA) prohibits the discharge of pollutants to waters of the U.S. from point sources, except pursuant to a National Pollutant Discharge Elimination System (NPDES) permit issued by the EPA or by a state under a federally authorized state program.
+  The FWPCA authorizes the imposition of technology-based and water quality-based effluent limits to regulate the discharge of pollutants into surface waters and ground waters. The EPA has delegated authority to a number of state agencies, including those in New Jersey, New York, Connecticut
+  and Texas, to administer the NPDES program through state acts. We also have ownership interests in facilities in other jurisdictions that have their own laws and implement regulations to control discharges to their surface waters and ground waters that directly govern our facilities in those
+  jurisdictions.
+The EPA promulgated regulations under FWPCA Section 316(b), which require that cooling water intake structures reflect the best technology available (BTA) for minimizing adverse environmental impact. The Phase II rule covering large existing power plants became effective in 2004. The
+  Phase II regulations provided five alternative methods by which a facility can demonstrate that it complies with the requirement for best technology available for minimizing adverse environmental impacts associated with cooling water intake structures.
+In January 2007, the U.S. Court of Appeals for the Second Circuit issued a decision that remanded major portions of the regulations and determined that Section 316(b) of the Clean Water Act does not support the use of restoration and the site-specific cost-benefit test. The court instructed the
+  EPA to reconsider the definition of best technology available without comparing the costs of the best performing technology to its benefits. Prior to this decision, we had used restoration and/or a site-specific cost-benefit test in applications we had filed to renew the permits at our once-through
+  cooled plants, including Salem, Hudson and Mercer. Although the rule applies to all of our electric generating units that use surface waters for once-through cooling purposes, the impact of the rule and the decision of the court cannot be determined at this time.
+The U.S. Supreme Court granted the request of industry petitioners, including us, to review the question of whether Section 316(b) of the FWPCA allows the EPA to compare costs with benefits in determining the “best technology available” for minimizing adverse environmental impact at cooling
+  water intake structures. It is anticipated that the U.S. Supreme Court will render a decision before the end of its 2008-2009 term.
+The decision could have a material impact on our ability to renew NPDES permits at our larger once-through cooled plants, including Salem, Hudson, Mercer, Bridgeport and possibly Sewaren and New Haven, without making significant upgrades to our existing intake structures and cooling
+  systems. The costs of those upgrades to one or more of our once-through cooled plants could be material and would require economic review to determine whether to continue operations.
+Hazardous Substance Liability
+Because of the nature of our businesses, including the production and delivery of electricity, the distribution of gas and, formerly, the manufacture of gas, various by-products and substances are or were produced or 
+27
+
+
+
+handled that contain constituents classified by federal and state authorities as hazardous. Federal and state laws impose liability for damages to the environment from hazardous substances. This liability can include obligations to conduct an environmental remediation of discharged hazardous
+  substances as well as monetary payments, regardless of the absence of fault and the absence of any prohibitions against the activity when it occurred, as compensation for injuries to natural resources.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Site Remediation—The Federal Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA) and the New Jersey Spill Compensation and Control Act (Spill Act) require the remediation of discharged hazardous substances and authorize the EPA, the NJDEP
+      and private parties to commence lawsuits to compel clean-ups or reimbursement for clean-ups of discharged hazardous substances. The clean-ups of hazardous substances can be more complicated and the costs higher when the hazardous substances are in a body of water.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Natural Resource Damages—CERCLA and the Spill Act authorize federal and state trustees for natural resources to assess damages against persons who have discharged a hazardous substance, causing an injury to natural resources. Pursuant to the Spill Act, the NJDEP requires persons
+      conducting remediation to characterize injuries to natural resources and to address those injuries through restoration or damages. The NJDEP adopted regulations concerning site investigation and remediation that require an ecological evaluation of potential damages to natural resources in
+      connection with an environmental investigation of contaminated sites. The NJDEP also issued guidance to assist parties in calculating their natural resource damage liability for settlement purposes, but has stated that those calculations are applicable only for those parties that volunteer to
+      settle a claim for natural resource damages before a claim is asserted by the NJDEP. We are currently unable to assess the magnitude of the potential financial impact of this regulatory change.
+    
+  
+
+
+
+
+
+Fuel and Waste Disposal
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Nuclear Fuel Disposal—The federal government has entered into contracts with the operators of nuclear power plants for transportation and ultimate disposal of spent nuclear fuel. To pay for this service, nuclear plant owners are required to contribute to a Nuclear Waste Fund. The DOE has
+      announced that it does not expect a facility for such purpose to be available earlier than 2017.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Spent nuclear fuel generated in any reactor can be stored in reactor facility storage pools or in Independent Spent Fuel Storage Installations located at reactors or away-from reactor sites for at least 30 years beyond the licensed life for the reactor. We have an on-site storage facility that is
+      expected to satisfy Salem 1’s, Salem 2’s and Hope Creek’s storage needs through the end of their current licenses as well as storage needs over the units’ anticipated 20 year license extensions. Exelon Generation has advised us that it has an on-site storage facility that will satisfy Peach
+      Bottom’s storage requirements until at least 2014.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Low Level Radioactive Waste—As a by-product of their operations, nuclear generation units produce low level radioactive waste. Such waste includes paper, plastics, protective clothing, water purification materials and other materials. These waste materials are accumulated on site and
+      disposed of at licensed permanent disposal facilities. New Jersey, Connecticut and South Carolina have formed the Atlantic Compact, which gives New Jersey nuclear generators continued access to the Barnwell waste disposal facility which is owned by South Carolina. We believe that the
+      Atlantic Compact will provide for adequate low level radioactive waste disposal for Salem and Hope Creek through the end of their current licenses including full decommissioning, although no assurances can be given. There are on-site storage facilities for Salem, Hope Creek and Peach
+      Bottom, which we believe have the capacity for at least five years of temporary storage for each facility.
+    
+  
+
+
+
+
+
+Climate Change
+In response to global climate change, many states, primarily in the Northeastern U.S., have developed state-specific and regional legislative initiatives to stimulate national climate legislation through CO2 emission reductions in the electric power industry. Ten Northeastern states, including New
+  Jersey, New York and Connecticut, have signed a memorandum of understanding establishing the RGGI intended to cap and reduce 
+28
+
+
+
+CO2 emissions in the region. A model rule to reflect the memorandum of understanding was established and, in general, states adopted the elements of the model rule into state-specific rules to enable the RGGI regulatory mandate in each state.
+States’ rules require the creation of a CO2 allowance allocation and/or auction whereby generators would be expected to receive through allocation, or purchase through an auction, CO2 allowances corresponding to each facility’s emissions. The first two CO2 emissions allowance auctions under
+  RGGI were held in September and December 2008, resulting in prices of $3.07 and $3.38 per allowance, respectively. We anticipate that our 2009 generation would require purchases of approximately 16 million allowances at a total estimated cost of approximately $60 million at recent market
+  prices.
+New Jersey adopted the Global Warming Response Act in 2007, which calls for stabilizing its greenhouse gas emissions to 1990 levels by 2020, followed by a further reduction of greenhouse emissions to 80% below 2006 levels by 2050. To reach this goal, the NJDEP, the BPU, other state
+  agencies and stakeholders are required to evaluate methods to meet and exceed the emission reduction targets, taking into account their economic benefits and costs.
+In January 2008, additional legislation was enacted authorizing the NJDEP to sell, exchange, retire, assign, allocate or auction allowances from greenhouse gas emission reductions and set forth the procedural requirements to be followed by the NJDEP if allowances are auctioned. Auction proceeds
+  would be used to provide grants and other forms of assistance for the purpose of energy efficiency, renewable energy and new high efficiency generation to stimulate or reward investment in the development of innovative CO2 reduction or avoidance technologies and stewardship of New Jersey’s
+  forests and tidal marshes. The BPU allows an electric or gas public utility to offer programs for energy efficiency, conservation and Class I renewables and to recover associated costs, as well as a return on investment, in rates. The law further provides that the BPU shall adopt an emissions
+  portfolio standard or other regulatory mechanism, to mitigate “leakage” by July 1, 2009, unless New Jersey’s Attorney General determines that this will unconstitutionally burden interstate commerce or would be preempted by federal law.
+Absent the implementation of any mitigation mechanisms, the operations of plants within the RGGI region are likely to be reduced since the added costs to reduce CO2 emissions would increase operating costs making the less expensive facilities outside the RGGI region more likely to be
+  dispatched.
+On January 29, 2009, an owner of an electric generating unit in New York filed a complaint in New York state court challenging the legality of New York’s implementation of RGGI under both State and Federal law. The outcome of this litigation cannot be predicted, but could impact the
+  continued implementation of RGGI in New York and potentially the RGGI region.
+The new legislation also authorizes the BPU to require the disclosure on customer bills of the environmental characteristics of the delivered energy, to develop an interim renewable energy portfolio standard, a requirement for net metering and electric and gas energy efficiency portfolio standards.
+A federal program that would impose uniform requirements on all sources of greenhouse gas emissions has not been implemented, thereby allowing for state and regional programs that may establish requirements that impose different costs in the markets where we compete.
+In 2007, the U.S. Supreme Court issued a decision stating that the EPA has authority to regulate greenhouse gas emissions from new motor vehicles as air pollutants. This decision could have a future impact on us if the Supreme Court’s opinion or the section of the Clean Air Act relied upon by
+  the Supreme Court in its decision is found to be supportive of regulating CO2 from other sources, including generation units, and it was applied by the EPA to existing regulatory programs under the Clean Air Act applicable to air emissions from our facilities.
+The outcome of global climate change initiatives cannot be determined; however, adoption of stringent CO2 emissions reduction requirements in the Northeast, including the potential allocation of allowances to our facilities and the prices of allowances available through auction, could materially
+  impact our operations. The financial impact of a requirement to purchase allowances for emissions of CO2 would be greatest on coal-
+29
+
+
+
+fired generating units because they typically have the highest CO2 emission rate and thereby the need to purchase the most allowances. Gas-fired units would require fewer allowances and nuclear units would not need any allowances. Further, any addition of CO2 limit requirements under a
+  national program, either through existing authority under the Clean Air Act, or under other legislative authority, could impose an additional financial impact on our fossil generation activities beyond that imposed by state and regional programs, such as RGGI. It is premature to determine the
+  positive or negative financial impact of a future federal climate change program because it is difficult to determine the effect of such program on the dispatch of our electric generation units compared to the dispatch of other power generating companies, particularly those which may have a larger
+  carbon footprint.
+SEGMENT INFORMATION
+Financial information with respect to our business segments is set forth in Note 20. Financial Information by Business Segment.
+ITEM 1A. RISK FACTORS
+The following factors should be considered when reviewing our businesses. These factors could have an adverse impact on our financial position, results of operations or net cash flows and could cause results to differ materially from those expressed elsewhere in this document.
+The factors discussed in Item 7. MD&A may also adversely affect our results of operations and cash flows and affect the market prices for our publicly traded securities. While we believe that we have identified and discussed the key risk factors affecting our business, there may be additional risks
+  and uncertainties that are not presently known or that are not currently believed to be significant.
+We are subject to comprehensive regulation by federal, state and local regulatory agencies that affects, or may affect, our business.
+We are subject to regulation by federal, state and local authorities. Changes in regulation can cause significant delays in or materially affect business planning and transactions and can materially increase our costs. Regulation affects almost every aspect of our businesses, such as our ability to:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Obtain fair and timely rate relief—Our utility’s base rates for electric and gas distribution are subject to regulation by the BPU and are effective until a new base rate case is filed and concluded. In addition, limited categories of costs such as fuel are recovered through adjustment clauses
+      that are periodically reset to reflect current costs. Our transmission assets are regulated by the FERC and costs are recovered through rates set by the FERC. Inability to obtain a fair return on our investments or to recover material costs not included in rates would have a material adverse
+      effect on our business.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Obtain required regulatory approvals—The majority of our businesses operate under MBR authority granted by FERC. FERC has determined that our subsidiaries do not have market power and MBR rules have been satisfied. Failure to maintain MBR eligibility, or the effects of any severe
+      mitigation measures that may be required if market power was re-evaluated in the future, could have a material adverse effect on us.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    We may also require various other regulatory approvals to, among other things, buy or sell assets, engage in transactions between our public utility and our other subsidiaries, and, in some cases, enter into financing arrangements, issue securities and allow our subsidiaries to pay dividends.
+      Failure to obtain these approvals could materially adversely affect our results of operations and cash flows.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Comply with regulatory requirements—There are standards in place to ensure the reliability of the U. S. electric transmission and generation system and to prevent major system black-outs. These standards apply to all transmission owners and generation owners and operators. We are
+      periodically audited for compliance. FERC can impose penalties up to $1 million per day per violation. In 
+  
+
+
+
+30
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      addition, the FERC requires compliance with all of its rules and orders, including rules concerning Standards of Conduct, market behavior and anti-manipulation rules, interlocking directorate rules and cross-subsidization.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    The BPU conducts periodic combined management/competitive service audits of New Jersey utilities related to affiliate standard requirements, competitive services, cross-subsidization, cost allocation and other issues. We expect to be subject to management audits in 2009 and, while we
+      believe that we are in compliance, we cannot predict the outcome of any audit.
+    
+  
+
+
+
+
+There are two pending issues at the BPU stemming from the restructuring of the utility industry in New Jersey several years ago.
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Treatment of previously approved stranded costs—Our utility securitized $2.525 billion of generation and generation-related costs pursuant to an irrevocable, non-bypassable BPU financing order. The authority of the BPU to issue its order was upheld by the New Jersey Supreme Court in
+      2001. An action seeking injunctive relief from our continued collection of the related charges, as well as recovery of amounts previously charged and collected, was filed in 2007 in the New Jersey Supreme Court. This action was summarily dismissed by that Court, and affirmed on appeal
+      in February 2009. For additional information, see Legal Proceedings. We cannot predict the outcome of the court proceeding or of a related action pending at the BPU.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Market Transition Charge (MTC) collected during the four-year industry transition period—The BPU has raised certain questions with respect to the reconciliation method we employed in calculating the over-recovery of MTC and other charges during the four-year transition period from
+      1999 to 2003. The amount in dispute was $114 million, which if required to be refunded to customers with interest through December 2008, would be $140 million. In January 2009, the Administrative Law Judge (ALJ) issued a decision which upheld our central contention that the 2004
+      BPU order approving the Phase I settlement resolved the issues now raised by the Staff and Advocate, and that these issues should not be subject to re-litigation in respect of the first three years of the transition period. The ALJ’s decision states that the BPU could elect to convene a
+      separate proceeding to address the fourth and final year reconciliation of MTC recoveries. The amount in dispute with respect to this Phase II period is approximately $50 million.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Exceptions to the ALJ’s decision have been filed by the parties. The BPU may choose to accept, modify or reject the ALJ’s decision in reaching its final decision in the case. We do not expect a final BPU order before March 2009 and cannot predict the outcome of this proceeding.
+    
+  
+
+
+
+
+
+Certain of our leveraged lease transactions may be successfully challenged by the IRS, which would have a material adverse effect on our taxes, operating results and cash flows.
+We have received Revenue Agent’s Reports from the IRS with respect to its audit of our federal corporate income tax returns for tax years 1997 through 2003, which disallowed all deductions associated with certain leveraged lease transactions. In addition, the IRS Reports proposed a 20% penalty
+  for substantial understatement of tax liability.
+As of December 31, 2008, $1.2 billion would become currently payable if we conceded all of the deductions taken through that date. We deposited a total of $180 million to defray potential interest costs associated with this disputed tax liability and may make additional deposits in 2009. As of
+  December 31, 2008, penalties of $151 million could also become payable if the IRS is successful in its claims. If the IRS is successful in a litigated case consistent with the positions it has taken in a generic settlement offer recently proposed to us, an additional $130 million to $150 million of
+  tax would be due for tax positions through December 31, 2008.
+31
+
+
+
+We are subject to numerous federal and state environmental laws and regulations that may significantly limit or affect our business, adversely impact our business plans or expose us to significant environmental fines and liabilities.
+We are subject to extensive environmental regulation by federal, state and local authorities regarding air quality, water quality, site remediation, land use, waste disposal, aesthetics, impact on global climate, natural resources damages and other matters. These laws and regulations affect the manner
+  in which we conduct our operations and make capital expenditures. Future changes may result in increased compliance costs.
+Delay in obtaining, or failure to obtain and maintain any environmental permits or approvals, or delay or failure to satisfy any applicable environmental regulatory requirements, could:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      prevent construction of new facilities,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    prevent continued operation of existing facilities,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    prevent the sale of energy from these facilities, or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    result in significant additional costs which could materially affect our business, results of operations and cash flows.
+    
+  
+
+
+
+
+
+In obtaining required approvals and maintaining compliance with laws and regulations, we focus on several key environmental issues, including:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Concerns over global climate change could result in laws and regulations to limit CO2 emissions or other “greenhouse” gases produced by our fossil generation facilities—Federal and state legislation and regulation designed to address global climate change through the reduction of
+      greenhouse gas emissions could materially impact our fossil generation facilities. Recent legislation enacted in New Jersey establishes aggressive goals for the reduction of CO2 emissions over a 40-year period. There could be material modifications at a significant cost required for continued
+      operation of our fossil generation facilities, including the potential need to purchase CO2 emission allowances. Such expenditures could materially affect the continued economic viability of one or more such facilities. Multiple states, primarily in the Northeastern U.S., are developing or have
+      developed state-specific or regional legislative initiatives to stimulate CO2 emissions reductions in the electric power industry. The RGGI began in 2009. Member states will control emissions of greenhouse gases by issuance of allowances to emit CO2 through an auction, allocation or a
+      combination of the two methods.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    A significant portion of our fossil fuel-fired electric generation is located in states within the RGGI region and compete with electricity generators within PJM not located within a RGGI state. The costs or inability to purchase CO2 allowances for our fleet operating within a RGGI state
+      could place us at an economic disadvantage compared to our competitors not located in a RGGI state.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Potential closed-cycle cooling requirements—Our Salem nuclear generating facility has a permit from the NJDEP allowing for its continued operation with its existing cooling water system. That permit expired in July 2006. Our application to renew the permit, filed in February 2006,
+      estimated the costs associated with cooling towers for Salem to be approximately $1 billion, of which our share was approximately $575 million.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    If the NJDEP and the Connecticut Department of Environmental Protection were to require installation of closed-cycle cooling or its equivalent at our Mercer, Hudson, Bridgeport, Sewaren or New Haven generating stations, the related increased costs and impacts would be material to our
+      financial position, results of operations and net cash flows and would require further economic review to determine whether to continue operations or decommission the stations.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Remediation of environmental contamination at current or formerly owned facilities—We are subject to liability under environmental laws for the costs of remediating environmental contamination of property now or formerly owned by us and of property contaminated by hazardous
+      substances that we generated. Remediation activities associated with our former Manufactured Gas 
+  
+
+
+
+32
+
+
+
+
+
+
+  
+     
+     
+     
+     
+    
+      Plant (MGP) operations are one source of such costs. Also, we are currently involved in a number of proceedings relating to sites where other hazardous substances may have been deposited and may be subject to additional proceedings in the future, the related costs of which could have a
+      material adverse effect on our financial condition, results of operations and cash flows.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    In June 2007, the State of New Jersey filed multiple lawsuits against parties, including us, who were alleged to be responsible for injuries to natural resources in New Jersey, including a site being remediated under our MGP program. We cannot predict what further actions, if any, or the
+      costs or the timing thereof, that may be required with respect to these or other natural resource damages claims. For additional information, see Note 11. Commitments and Contingent Liabilities.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    More stringent air pollution control requirements in New Jersey—Most of our generating facilities are located in New Jersey where restrictions are generally considered to be more stringent in comparison to other states. Therefore, there may be instances where the facilities located in New
+      Jersey are subject to more restrictive and, therefore, more costly pollution control requirements and liability for damage to natural resources, than competing facilities in other states. Most of New Jersey has been classified as “nonattainment” with national ambient air quality standards for
+      one or more air contaminants. This requires New Jersey to develop programs to reduce air emissions. Such programs can impose additional costs on us by requiring that we offset any emissions increases from new electric generators we may want to build and by setting more stringent
+      emission limits on our facilities that run during the hottest days of the year.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Coal Ash Management—A by-product of the combustion of coal is coal ash. Two types of coal ash are produced at our Hudson, Mercer and Bridgeport stations: bottom ash and fly ash. We currently have a program in which we beneficially re-use ash in other processes to avoid disposal.
+      Coal ash is not currently regulated as a hazardous waste under federal and state law. Any future regulation of coal ash could result in additional costs which could be material.
+    
+  
+
+
+
+
+Our ownership and operation of nuclear power plants involve regulatory, financial, environmental, health and safety risks.
+Over half of our total generation output each year is provided by our nuclear fleet, which comprises approximately one-fourth of our total owned generation capacity. For this reason, we are exposed to risks related to the continued successful operation of our nuclear facilities and issues that may
+  adversely affect the nuclear generation industry. These include:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Storage and Disposal of Spent Nuclear Fuel—We currently use on-site storage for spent nuclear fuel and incur costs to maintain this storage. Potential increased costs of storage, handling and disposal of nuclear materials, including the availability or unavailability of a permanent repository
+      for spent nuclear fuel, could impact future operations of these stations. In addition, the availability of an off-site repository for spent nuclear fuel may affect our ability to fully decommission our nuclear units in the future.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Regulatory and Legal Risk—The NRC may modify, suspend or revoke licenses, or shut down a nuclear facility and impose substantial civil penalties for failure to comply with the Atomic Energy Act, related regulations or the terms and conditions of the licenses for nuclear generating
+      facilities. As with all of our generation facilities, as discussed above, our nuclear facilities are also subject to comprehensive, evolving environmental regulation.
+  
+  
+     
+
+  
+  
+    
+     
+     
+    
+     
+     
+    
+    Our nuclear generating facilities are currently operating under NRC licenses that expire in 2016, 2020, 2026, 2033 and 2034.While we have applied for extensions to these licenses for Peach Bottom II and III and expect to apply for extensions for Salem and Hope Creek, the extension
+      process can be expected to take three to five years from commencement until completion of NRC review. We cannot be sure that we will receive the requested extensions or be able to operate the facilities for all or any portion of any extended license.
+    
+  
+
+
+
+33
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Operational Risk—Operations at any of our nuclear generating units could degrade to the point where the affected unit needs to be shut down or operated at less than full capacity. If this were to happen, identifying and correcting the causes may require significant time and expense. Since
+      our nuclear fleet provides the majority of our generation output, any significant outage could result in reduced earnings as we would need to purchase or generate higher-priced energy to meet our contractual obligations. For additional information, see our discussion of operational
+      performance for all of our generation facilities below.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Nuclear Incident or Accident Risk—Accidents and other unforeseen problems have occurred at nuclear stations both in the U.S. and elsewhere. The consequences of an accident can be severe and may include loss of life and property damage. All our nuclear units are located at one of two
+      sites. It is possible that an accident or other incident at a nuclear generating unit could adversely affect our ability to continue to operate unaffected units located at the same site, which would further affect our financial condition, operating results and cash flows. An accident or incident at
+      a nuclear unit not owned by us could also affect our ability to operate our units. Any resulting financial impact from a nuclear accident may exceed our resources, including insurance coverages.
+    
+  
+
+
+
+
+We may be adversely affected by changes in energy deregulation policies, including market design rules and developments affecting transmission.
+The energy industry continues to experience significant change. Various rules have recently been implemented to respond to commodity pricing, reliability and other industry concerns. Our business has been impacted by established rules that create locational capacity markets in each of PJM, New
+  England and New York. Under these rules, generators located in constrained areas are paid more for their capacity so there is an incentive to locate in those areas where generation capacity is most needed. Because much of our generation is located in constrained areas in PJM and New England,
+  the existence of these rules has had a positive impact on our revenues. PJM’s locational capacity market design rules are currently being challenged in court, and FERC is currently considering changes to PJM’s rules for RPM. Any changes to these rules may have an adverse impact on our
+  financial condition, results of operations and cash flows.
+Many factors will affect the capacity pricing in PJM, including but not limited to:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      changes in load and demand,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes in the available amounts of demand response resources,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes in available generating capacity (including retirements, additions, derates, forced outage rates, etc.,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    increases in transmission capability between zones, and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    changes to the pricing mechanism, including increasing the potential number of zones to create more pricing sensitivity to changes in supply and demand, as well as other potential changes that PJM may propose over time.
+    
+  
+
+
+
+
+
+We could also be impacted by a number of other events, including regulatory or legislative actions favoring non-competitive markets and energy efficiency initiatives. Further, some of the market-based mechanisms in which we participate, including BGS auctions, are at times the subject of review
+  or discussion by some of the participants in the New Jersey and federal regulatory and political. We can provide no assurance that these mechanisms will continue to exist in their current form or not otherwise be modified by regulations.
+To the extent that additions to the transmission system relieve or reduce congestion in eastern PJM where most of our plants are located, our revenues could be adversely affected. In addition, pressures from renewable resources such as wind and solar, could increase over time, especially if
+  government incentive programs continue to grow.
+We face competition in the merchant energy markets.
+Our wholesale power and marketing businesses are subject to competition that may adversely affect our ability to make investments or sales on favorable terms and achieve our annual objectives. Increased 
+34
+
+
+
+competition could contribute to a reduction in prices offered for power and could result in lower returns. Decreased competition could negatively impact results through a decline in market liquidity. Some of the competitors include:
+
+  
+    
+      •
+     
+     
+     
+    
+      merchant generators,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    domestic and multi-national utility generators,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    energy marketers,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    banks, funds and other financial entities,
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    fuel supply companies, and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    affiliates of other industrial companies.
+    
+  
+
+
+
+
+
+Regulatory, environmental, industry and other operational issues will have a significant impact on our ability to compete in energy markets. Our ability to compete will also be impacted by:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      DSM and other efficiency efforts—DSM and other efficiency efforts aimed at changing the quantity and patterns of consumers’ usage could result in a reduction in load requirements.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Changes in technology and/or customer conservation—It is possible that advances in technology will reduce the cost of alternative methods of producing electricity, such as fuel cells, microturbines, windmills and photovoltaic (solar) cells, to a level that is competitive with that of most
+      central station electric production. It is also possible that electric customers may significantly decrease their electric consumption due to demand-side energy conservation programs. Changes in technology could also alter the channels through which retail electric customers buy electricity,
+      which could adversely affect financial results.
+    
+  
+
+
+
+
+
+If any of such issues was to occur, there could be a resultant erosion of our market share and an impairment in the value of our power plants.
+We are exposed to commodity price volatility as a result of our participation in the wholesale energy markets.
+The material risks associated with the wholesale energy markets known or currently anticipated that could adversely affect our operations include:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Price fluctuations and collateral requirements—We expect to meet our supply obligations through a combination of generation and energy purchases. We also enter into derivative and other positions related to our generation assets and supply obligations. To the extent we hedge our costs,
+      we will be subject to the risk of price fluctuations that could affect our future results and impact our liquidity needs. These include:
+    
+  
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      ¡
+     
+     
+     
+    
+      variability in costs, such as changes in the expected price of energy and capacity that we sell into the market;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    increases in the price of energy purchased to meet supply obligations or the amount of excess energy sold into the market;
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    the cost of fuel to generate electricity; and
+  
+  
+     
+
+  
+  
+    
+    ¡
+     
+    
+     
+     
+    
+    the cost of emission credits and congestion credits that we use to transmit electricity.
+    
+  
+
+
+
+
+
+As
+    market prices for energy and fuel fluctuate, our forward  energy sale and
+    forward fuel purchase contracts could require us to post substantial additional
+    collateral, thus requiring us to obtain additional sources of liquidity during
+    periods when our ability to do so may be limited. If Power were to lose its
+    investment grade credit rating, it would be required under certain agreements
+    to provide a significant amount of additional collateral in the form of letters
+    of credit or cash, which would have a material adverse effect on our liquidity
+    and cash flows. If Power had lost its investment grade credit rating as of
+    December 31, 2008, it would have been required to provide approximately $1.1
+    billion in additional collateral.
+
+35
+
+
+
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      Our cost of coal and nuclear fuel may substantially increase—Our coal and nuclear units have a diversified portfolio of contracts and inventory that will provide a substantial portion of our fuel needs over the next several years. However, it will be necessary to enter into additional
+      arrangements to acquire coal and nuclear fuel in the future. Market prices for coal and nuclear fuel have recently been volatile. Although our fuel contract portfolio provides a degree of hedging against these market risks, future increases in fuel costs cannot be predicted with certainty and
+      could materially and adversely affect liquidity, financial condition and results of operations.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    Third party credit risk—We sell generation output and buy fuel through the execution of bilateral contracts. These contracts are subject to credit risk, which relates to the ability of our counterparties to meet their contractual obligations to us. Any failure to perform by these counterparties
+      could have a material adverse impact on our results of operations, cash flows and financial position. In the spot markets, we are exposed to the risks of whatever default mechanisms exist in those markets, some of which attempt to spread the risk across all participants, which may not be
+      an effective way of lessening the severity of the risk and the amounts at stake. An increase in the duration and/or severity of the current economic recession may also increase such risk.
+    
+  
+
+
+
+
+
+Our inability to balance energy obligations with available supply could negatively impact results.
+The revenues generated by the operation of the generating stations are subject to market risks that are beyond our control. Generation output will either be used to satisfy wholesale contract requirements, other bilateral contracts or be sold into competitive power markets. Participants in the
+  competitive power markets are not guaranteed any specified rate of return on their capital investments. Generation revenues and results of operations are dependent upon prevailing market prices for energy, capacity, ancillary services and fuel supply in the markets served.
+Our business frequently involves the establishment of forward sale positions in the wholesale energy markets on long-term and short-term bases. To the extent that we have produced or purchased energy in excess of our contracted obligations, a reduction in market prices could reduce profitability.
+  Conversely, to the extent that we have contracted obligations in excess of energy we have produced or purchased, an increase in market prices could reduce profitability.
+If the strategy we utilize to hedge our exposures to these various risks is not effective, we could incur significant losses. Our market positions can also be adversely affected by the level of volatility in the energy markets that, in turn, depends on various factors, including weather in various
+  geographical areas, short-term supply and demand imbalances and pricing differentials at various geographic locations. These cannot be predicted with any certainty.
+Increases in market prices also affect our ability to hedge generation output and fuel requirements as the obligation to post margin increases with increasing prices and could require the maintenance of liquidity resources that would be prohibitively expensive.
+If we are unable to access sufficient capital at reasonable rates or maintain sufficient liquidity in the amounts and at the times needed, our ability to successfully implement our financial strategies may be adversely affected.
+Capital for projects and investments has been provided by internally-generated cash flow, equity issuances and borrowings. Continued access to debt capital from outside sources is required in order to efficiently fund the cash flow needs of our businesses. The ability to arrange financing and the
+  costs of capital depend on numerous factors including, among other things, general economic and market conditions, the availability of credit from banks and other financial institutions, investor confidence, the success of current projects and the quality of new projects.
+The ability to have continued access to the credit and capital markets at a reasonable economic cost is dependent upon our current and future capital structure, financial performance, our credit ratings and the availability of capital under reasonable terms and conditions. As a result, no assurance
+  can be given that we 
+36
+
+
+
+will be successful in obtaining re-financing for maturing debt, financing for projects and investments or funding the equity commitments required for such projects and investments in the future.
+Capital market performance directly affects the asset values of our nuclear decommissioning trust funds and defined benefit plan trust funds. Sustained decreases in asset value of trust assets could result in the need for significant additional funding.
+The performance of the capital markets will affect the value of the assets that are held in trust to satisfy our future obligations under our pension and postretirement benefit plans and to decommission our nuclear generating plants. The decline in the market value of our pension assets experienced
+  in the fourth quarter of 2008 has resulted in the need to make additional contributions in 2009 to maintain our funding at sufficient levels. Further significant declines in the market value of these assets may significantly increase our funding requirements for these obligations in the future.
+An extended economic recession would likely have a material adverse effect on our businesses. 
+Our results of operations may be negatively affected by sustained downturns or sluggishness in the economy, including low levels in the market prices of commodities. Adverse conditions in the economy affect the markets in which we operate and can negatively impact our results. Declines in
+  demand for energy will reduce overall sales and lessen cash flows, especially as customers reduce their consumption of electricity and gas. Although our utility business is subject to regulated allowable rates of return, overall declines in electricity and gas sold and/or increases in non-payment of
+  customer bills would materially adversely affect our liquidity, financial condition and results of operations.
+In the event of an accident or acts of war or terrorism, our insurance coverage may be insufficient if we are unable to obtain adequate coverage at commercially reasonable rates.
+We have insurance for all-risk property damage including boiler and machinery coverage for our nuclear and non-nuclear generating units, replacement power and business interruption coverage for our nuclear generating units, general public liability and nuclear liability, in amounts and with
+  deductibles that we consider appropriate.
+We can give no assurance that this insurance coverage will be available in the future on commercially reasonable terms or that the insurance proceeds received for any loss of or any damage to any of our facilities will be sufficient.
+Inability to successfully develop or construct generation, transmission and distribution projects within budget could adversely impact our businesses.
+Our business plan calls for extensive investment in capital improvements and additions, including the installation of required environmental upgrades and retrofits, construction and/or acquisition of additional generation units and transmission facilities and modernizing existing infrastructure.
+  Currently, we have several significant projects underway or being contemplated, including:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      the installation of pollution control equipment at our coal generating facilities;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    the construction of the new Susquehanna-Roseland transmission line;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    the investment in improving the electric and gas distribution infrastructure;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    the implementation of a new customer service system; and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    the solar initiative in New Jersey.
+    
+  
+
+
+
+
+
+Our success will depend, in part, on our ability to complete these projects within budgets, on commercially reasonable terms and conditions and, in our regulated businesses, our ability to recover the related costs. Any delays, cost escalations or otherwise unsuccessful construction and development
+  could materially affect our financial position, results of operations and cash flows.
+37
+
+
+
+We may be unable to achieve, or continue to sustain, our expected levels of generating operating performance.
+One of the key elements to achieving the results in our business plans is the ability to sustain generating operating performance and capacity factors at expected levels. This is especially important at our lower-cost nuclear and coal facilities. Operations at any of our plants could degrade to the
+  point where the plant has to shut down or operate at less than full capacity. Some issues that could impact the operation of our facilities are:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      breakdown or failure of equipment, processes or management effectiveness;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    disruptions in the transmission of electricity;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    labor disputes;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    fuel supply interruptions;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    transportation constraints;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    limitations which may be imposed by environmental or other regulatory requirements;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    permit limitations; and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    operator error or catastrophic events such as fires, earthquakes, explosions, floods, acts of terrorism or other similar occurrences.
+    
+  
+
+
+
+
+
+Identifying and correcting any of these issues may require significant time and expense. Depending on the materiality of the issue, we may choose to close a plant rather than incur the expense of restarting it or returning it to full capacity. In either event, to the extent that our operational targets
+  are not met, we could have to operate higher-cost generation facilities or meet our obligations through higher-cost open market purchases.
+ITEM 1B

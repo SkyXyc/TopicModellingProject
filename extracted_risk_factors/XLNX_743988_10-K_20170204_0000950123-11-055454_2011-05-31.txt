@@ -1,0 +1,1398 @@
+ITEM 1A.
+     
+    RISK FACTORS
+
+
+
+
+The following risk factors and other information included in this Annual Report on Form 10-K should
+be carefully considered. The risks and uncertainties described below are not the only risks to the
+Company. Additional risks and uncertainties not presently known to the Company or that the
+Company’s management currently deems immaterial also may impair its business operations. If any of
+the risks described below were to occur, our business, financial condition, operating results and
+cash flows could be materially adversely affected.
+
+
+
+Our success depends on our ability to develop and introduce new products and failure to do so would
+have a material adverse impact on our financial condition and results of operations.
+
+
+
+Our success depends in large part on our ability to develop and introduce new products that address
+customer requirements and compete effectively on the basis of price, density, functionality, power
+consumption and performance. The success of new product introductions is dependent upon several
+factors, including:
+
+
+
+
+
+
+
+     
+    •
+     
+    timely completion of new product designs;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ability to generate new design opportunities or design wins;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    availability of specialized field application engineering resources supporting demand
+creation and customer adoption of new products;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ability to utilize advanced manufacturing process technologies on circuit geometries of
+45-nm and smaller;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    achieving acceptable yields;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ability to obtain adequate production capacity from our wafer foundries and assembly and
+test subcontractors;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ability to obtain advanced packaging;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    availability of supporting software design tools;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    utilization of predefined IP of logic;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    customer acceptance of advanced features in our new products; and
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    market acceptance of our customers’ products.
+
+
+
+
+
+Our product development efforts may not be successful, our new products may not achieve industry
+acceptance and we may not achieve the necessary volume of production that would lead to further per
+unit cost reductions. Revenues relating to our mature products are expected to decline in the
+future, which is normal for our product life cycles. As a result, we may be increasingly dependent
+on revenues derived from design wins for our newer products as well as anticipated cost reductions
+in the manufacture of our current products. We rely primarily on obtaining yield improvements and
+corresponding cost reductions in the manufacture of existing products, and on introducing new
+products that incorporate advanced features and other price/performance factors that enable us to
+increase revenues while maintaining consistent margins. To the extent that such cost reductions and
+new product introductions do not occur in a timely manner, or to the extent that our products do
+not achieve market acceptance at prices with higher margins, our financial condition and results of
+operations could be materially adversely affected.
+
+
+
+We rely on independent foundries for the manufacture of all of our products and a manufacturing
+problem or insufficient foundry capacity could adversely affect our operations.
+
+
+
+Nearly all of our wafers were manufactured either in Taiwan, by UMC, or in Japan, by Toshiba. In
+addition, the wafers for our older products are manufactured in Japan by Seiko and the wafers for
+some of our newer products are manufactured in South Korea, by Samsung and in Taiwan, by TSMC.
+Terms with respect to the volume and timing of wafer production and the pricing of wafers produced
+by the semiconductor foundries are determined by periodic negotiations between Xilinx and these
+wafer foundries, which usually result in short-term agreements that do not provide for long-term
+supply or allocation commitments. We are dependent on these foundries, especially UMC, which
+supplies the substantial majority of our wafers. We rely on UMC and our other foundries to produce
+wafers with competitive performance and cost attributes. Therefore, the foundries must be able to
+transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers
+at acceptable yields and deliver them in a timely manner. We cannot guarantee that the foundries
+that supply our wafers will not experience manufacturing problems, including delays in the
+realization of advanced manufacturing process technologies or difficulties due to limitations of
+new and existing process technologies. Furthermore, we cannot guarantee the foundries will be able
+to manufacture sufficient quantities of our products or continue to manufacture a product for the
+full life of the product. In addition, unpredictable economic conditions may adversely impact the
+financial health and viability of the foundries and result in their insolvency or their inability
+to meet their commitments to us. For example, in the first quarter of fiscal 2010, we experienced
+supply shortages due to the difficulties encountered by the foundries when they had to rapidly increase their
+production capacities from low utilization levels to high utilization levels because of an
+unexpected increase in demand. In the fourth quarter of fiscal 2010 and first nine months of fiscal
+2011, we also experienced supply shortages due to very strong demand for our products and a surge
+in demand for semiconductors in general, which has led to tightening of foundry capacity across the
+industry. The insolvency of a foundry or any significant manufacturing problem or insufficient
+foundry capacity would disrupt our operations and negatively impact our financial condition and
+results of operations.
+
+
+
+We have established other sources of wafer supply for many of our products in an effort to secure a
+continued supply of wafers. However, establishing, maintaining and managing multiple foundry
+relationships require the investment of management resources as well as additional costs. If we do
+not manage these relationships effectively, it could adversely affect our results of operations.
+
+
+
+ 
+
+12
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+General economic conditions and the related deterioration in the global business environment could
+have a material adverse effect on our business, operating results and financial condition.
+
+
+
+During the past three years, global consumer confidence eroded amidst concerns over declining asset
+values, inflation, volatility in energy costs, geopolitical issues, the availability and cost of
+credit, rising unemployment, and the stability and solvency of financial institutions, financial
+markets, businesses and sovereign nations, among other concerns. These concerns slowed global
+economic
+growth and resulted in recessions in numerous countries, including many of those in North America,
+Europe and Asia. These economic conditions had a negative impact on our results of operations
+during the third and fourth quarters of fiscal 2009 and the first and second quarters of fiscal
+2010 due to reduced customer demand. While there have been recent improvements in global economic
+conditions and our results of operations improved during the second half of fiscal 2010 and fiscal
+2011, there is no guarantee that these improvements will continue in the future. Recent events have
+shown that the financial conditions of sovereign nations, particularly in Europe, are of
+continuing concern. If unpredictable economic conditions persist or worsen, a number of negative
+effects on our business could result, including customers or potential customers reducing or
+delaying orders, the insolvency of key suppliers, which could result in production delays, the
+inability of customers to obtain credit, and the insolvency of one or more customers. Any of these
+effects could impact our ability to effectively manage inventory levels and collect receivables and
+ultimately decrease our net revenues and profitability.
+
+
+
+The semiconductor industry is characterized by cyclical market patterns and a significant industry
+downturn could adversely affect our operating results.
+
+
+
+The semiconductor industry is highly cyclical and our financial performance has been affected by
+downturns in the industry. Down cycles are generally characterized by price erosion and weaker
+demand for our products. Weaker demand for our products resulting from economic conditions in the
+end markets we serve and reduced capital spending by our customers can result, and in the past has
+resulted in excess and obsolete inventories and corresponding inventory write-downs. We attempt to
+identify changes in market conditions as soon as possible; however, the dynamics of the market in
+which we operate make prediction of and timely reaction to such events difficult. Due to these and
+other factors, our past results are not reliable predictors of our future results.
+
+
+
+The nature of our business makes our revenues difficult to predict which could have an adverse
+impact on our business.
+
+
+
+In addition to the challenging market conditions we may face, we have limited visibility into the
+demand for our products, particularly new products, because demand for our products depends upon
+our products being designed into our end customers’ products and those products achieving market
+acceptance. Due to the complexity of our customers’ designs, the design to volume production
+process for our customers requires a substantial amount of time, frequently longer than a year. In
+addition, we are dependent upon “turns” (orders received and turned for shipment in the same
+quarter). These factors make it difficult for us to forecast future sales and project quarterly
+revenues. The difficulty in forecasting future sales impairs our ability to project our inventory
+requirements, which could result, and in the past has resulted, in inventory write-downs or failure
+to timely meet customer product demands. In addition, difficulty in forecasting revenues
+compromises our ability to provide forward-looking revenue and earnings guidance.
+
+
+
+If we are not able to successfully compete in our industry, our financial results and future
+prospects will be adversely affected.
+
+
+
+Our PLDs compete in the logic IC industry, an industry that is intensely competitive and
+characterized by rapid technological change, increasing levels of integration, product obsolescence
+and continuous price erosion. We expect increased competition from our primary PLD competitors,
+Altera, Lattice and Microsemi (which acquired Actel Corporation during the third quarter of fiscal
+2011), and from new market entrants. In addition, competition from the ASIC market and from the
+ASSP market continues. We believe that important competitive factors in the logic IC industry
+include:
+
+
+
+
+
+
+
+     
+    •
+     
+    product pricing;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    time-to-market;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    product performance, reliability, quality, power consumption and density;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    field upgradeability;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    adaptability of products to specific applications;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ease of use and functionality of software design tools;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    availability and functionality of predefined IP of logic;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    inventory and supply chain management;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    access to leading-edge process technology and assembly capacity; and
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ability to provide timely customer service and support.
+
+
+
+
+
+Our strategy for expansion in the logic market includes continued introduction of new product
+architectures that address high-volume, low-cost and low-power applications as well as
+high-performance, high-density applications. In addition, we anticipate continued pricing pressure from our customers to reduce prices, which may outpace
+our ability to lower the cost for established products. However, we may not be
+successful in executing these strategies.
+
+
+
+ 
+
+13
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Other competitors include manufacturers of:
+
+
+
+
+
+
+
+     
+    •
+     
+    high-density programmable logic products characterized by FPGA-type architectures;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    ASICs and ASSPs with incremental amounts of embedded programmable logic;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    high-speed, low-density complex programmable logic devices;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    high-performance DSP devices;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    products with embedded processors;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    products with embedded multi-gigabit transceivers; and
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    other new or emerging programmable logic products.
+
+
+
+
+
+Several companies have introduced products that compete with ours or have announced their intention
+to sell PLD products. To the extent that our efforts to compete are not successful, our financial
+condition and results of operations could be materially adversely affected.
+
+
+
+The benefits of programmable logic have attracted a number of competitors to this segment. We
+recognize that different applications require different programmable technologies, and we are
+developing architectures, processes and products to meet these varying customer needs. Recognizing
+the increasing importance of standard software solutions, we have developed common software design
+tools that support the full range of our IC products. We believe that automation and ease of design
+are significant competitive factors in this segment.
+
+
+
+We could also face competition from our licensees. In the past we have granted limited rights to
+other companies with respect to certain of our older technology, and we may do so in the future.
+Granting such rights may enable these companies to manufacture and market products that may be
+competitive with some of our older products.
+
+
+
+Recent events in Japan may adversely impact our business.
+
+
+
+In March 2011, the northern region of Japan experienced a severe earthquake followed by a tsunami
+and nuclear plant shutdown. These events caused significant damages in that region and have
+adversely affected Japan’s infrastructure and economy. While Japan is a resilient country, and we
+expect Japan to recover from this devastation, it is unknown when such recovery will occur.
+
+
+
+Certain of our foundries and manufacturing plants in our supply chain are located in Japan and were
+negatively impacted by the natural disasters, particularly as a result of disruptions to the
+country’s power supply. For example, certain suppliers of wafers and substrates were temporarily
+forced to halt production. While we have secured alternate sources for these materials, there can
+be no assurance that we will not experience the absence of components or supplies, delays in
+obtaining their delivery or increases in prices in the future as the impact of the natural
+disasters in Japan unfolds.
+
+
+
+In addition, a number of our customers are located in Japan, which accounted for 8% of our
+revenue in fiscal 2011. As a result of the earthquake, we were temporarily unable to ship product
+to customers located in the areas impacted by the natural disaster. Other customers not located
+near the epicenter of the earthquake may also be affected by the consequences of these natural
+disasters. If adverse conditions persist, we may experience delay or cancellation of orders from
+such customers, which would adversely affect our revenue and results of operations.
+
+
+
+In addition, a nuclear power plant in the region was damaged and released radiation into the
+atmosphere. The impact of this radiation is unknown at this time. If the consequences of the
+radiation are more severe than currently anticipated, our customers and suppliers may be affected.
+Any significant disruption of our suppliers’ and customers’ business in Japan could have an adverse
+impact on our business.
+
+
+
+Increased costs of wafers and materials, or shortages in wafers and materials, could adversely
+impact our gross margins and lead to reduced revenues.
+
+
+
+If greater demand for wafers is not offset by an increase in foundry capacity, or market demand for
+wafers or production and assembly materials increases, or if a supplier of our wafers ceases or
+suspends operations, our supply of wafers and other materials
+could become limited. Such shortages raise the likelihood of potential wafer price increases and
+wafer shortages or shortages in materials at production and test facilities and our resulting
+potential inability to address customer product demands in a timely manner. For example, as a
+result of the March 2011 earthquake in Japan, certain suppliers were forced to temporarily halt
+production, resulting in a tightening of supply for those materials. Such shortages of wafers and
+materials as well as increases in wafer prices or materials could adversely affect our gross
+margins and would adversely affect our ability to meet customer demands and lead to reduced
+revenue.
+
+
+
+ 
+
+14
+
+
+
+
+Table of Contents
+
+
+
+
+We depend on distributors, primarily Avnet, to generate a majority of our sales and complete order
+fulfillment.
+
+
+
+Resale of product through Avnet accounted for 51% of our worldwide net revenues in fiscal 2011, and
+as of April 2, 2011, Avnet accounted for 79% of our total accounts receivable. To align with our
+strategic initiative to consolidate our distribution channel, we have further strengthened our
+partnership with Avnet and recently, Avnet committed more personnel and resources to our business.
+In return for these long-term commitments, we agreed to temporarily extend payment terms for Avnet,
+which increased our trade accounts receivable balance and days sales outstanding (DSO) as of the
+end of our second and third quarter of fiscal 2011 compared to our historical level. Our trade
+accounts receivable balance and DSO levels specific to Avnet decreased in the fourth quarter of
+fiscal 2011 when Avnet returned to standard payment terms. Any adverse change to our relationship
+with Avnet or our remaining distributors could have a material impact on our business. Furthermore,
+if a key distributor materially defaults on a contract or otherwise fails to perform, our business
+and financial results would suffer. In addition, we are subject to concentrations of credit risk in
+our trade accounts receivable, which includes accounts of our distributors. A significant reduction
+of effort by a distributor to sell our products or a material change in our relationship with one
+or more distributors may reduce our access to certain end customers and adversely affect our
+ability to sell our products.
+
+
+
+
+
+In addition, the financial health of our distributors and our continuing relationships with them
+are important to our success. Unpredictable economic conditions may adversely impact the financial
+health of some of these distributors, particularly our smaller distributors. This could result in
+the insolvency of certain distributors, the inability of distributors to obtain credit to finance
+the purchase of our products, or cause distributors to delay payment of their obligations to us and
+increase our credit risk exposure. Our business could be harmed if the financial health of these
+distributors impairs their performance and we are unable to secure alternate distributors.
+
+
+
+We are dependent on independent subcontractors for most of our assembly and test services, and
+unavailability or disruption of these services could negatively impact our financial condition and
+results of operations.
+
+
+
+We are also dependent on subcontractors to provide semiconductor assembly, substrate, test and
+shipment services. Any prolonged inability to obtain wafers with competitive performance and cost
+attributes, adequate yields or timely delivery, any disruption in assembly, test or shipment
+services, or any other circumstance that would require us to seek alternative sources of supply,
+could delay shipments and have a material adverse effect on our ability to meet customer demands.
+In addition, unpredictable economic conditions may adversely impact the financial health and
+viability of these subcontractors and result in their insolvency or their inability to meet their
+commitments to us. These factors would result in reduced net revenues and could negatively impact
+our financial condition and results of operations.
+
+
+
+A number of factors, including our inventory strategy, can impact our gross margins.
+
+
+
+A number of factors, including yield, wafer pricing, product mix, market acceptance of our new
+products, competitive pricing dynamics, geographic and/or market segment pricing strategies cause
+our gross margins to fluctuate. In addition, forecasting our gross margins is difficult because a
+significant portion of our business is based on turns within the same quarter.
+
+
+
+Our current inventory levels are higher than historical norms due to our decision to build
+incremental safety stock and to build ahead of a planned closure of a particular foundry process
+line at one of our foundry partners. In the event demand does not materialize, we may be subject
+to incremental obsolescence costs. In addition, future product cost reductions could have an increased impact on our inventory
+valuation, which would then impact our operating results.
+
+
+
+Reductions in the average selling prices of our products could have a negative impact on our gross
+margins.
+
+
+
+The average selling prices of our products generally decline as the products mature. We seek to
+offset the decrease in selling prices through yield improvement, manufacturing cost reductions and
+increased unit sales. We also continue to develop higher value products or product features that
+increase, or slow the decline of, the average selling price of our products. However, there is no
+guarantee that our ongoing efforts will be successful or that they will keep pace with the decline
+in selling prices of our products, which could ultimately lead to a decline in revenues and have a
+negative effect on our gross margins.
+
+
+
+Because of our international business and operations, we are vulnerable to the economic conditions
+of the countries in which we operate and currency fluctuations could have a material adverse affect
+on our business and negatively impact our financial condition and results of operations.
+
+
+
+In addition to our U.S. operations, we also have significant international operations, including
+foreign sales offices to support our international customers and distributors, our regional
+headquarters in Ireland and Singapore and a research and development site in India. In connection
+with the restructuring we announced in April 2009, our international operations grew as we
+relocated certain operations and administrative functions outside the U.S. Sales and operations
+outside of the U.S. subject us to the risks associated with conducting business in foreign economic
+and regulatory environments. Our financial condition and results of operations could
+be adversely affected by unfavorable economic conditions in countries in which we do significant
+business or by changes in foreign currency exchange rates affecting those countries. We derive over
+one-half of our revenues from international sales, primarily in the Asia Pacific region, Europe and
+Japan. Past economic weakness in these markets adversely affected revenues. While there have been
+signs of economic recovery in the U.S. and other markets, there can be no assurance that such
+improvement will continue or is sustainable. Sales to all direct OEMs and distributors are
+denominated in U.S. dollars. While the recent movement of the Euro and Yen against the U.S. dollar
+had no material impact to our business, increased volatility could impact our European and Japanese
+customers. Currency instability and volatility and disruptions in the credit and capital markets
+may increase credit risks for some of our customers and may impair our customers’ ability to repay
+existing obligations. Increased currency volatility could also positively or negatively impact our
+foreign-currency-denominated costs, assets and liabilities. In addition, devaluation of the U.S.
+dollar relative to other foreign currencies may increase the operating expenses of our foreign
+subsidiaries adversely affecting our results of operations. Furthermore, because we are
+increasingly dependent on the global economy, instability in worldwide economic environments
+occasioned, for example, by political instability, terrorist activity or U.S. or other military
+actions could adversely impact economic activity and lead to a contraction of capital spending by
+our customers. Any or all of these factors could adversely affect our financial condition and
+results of operations in the future.
+
+
+
+ 
+
+15
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+We are subject to the risks associated with conducting business operations outside of the U.S.
+which could adversely affect our business.
+
+
+
+In addition to international sales and support operations and development activities, we purchase
+our wafers from foreign foundries and have our commercial products assembled, packaged and tested
+by subcontractors located outside the U.S. All of these activities are subject to the uncertainties
+associated with international business operations, including tax laws and regulations, trade
+barriers, economic sanctions, import and export regulations, duties and tariffs and other trade
+restrictions, changes in trade policies, foreign governmental regulations, potential vulnerability
+of and reduced protection for IP, longer receivable collection periods and disruptions or delays in
+production or shipments, any of which could have a material adverse effect on our business,
+financial condition and/or operating results. Additional factors that could adversely affect us due
+to our international operations include rising oil prices and increased costs of natural resources.
+Moreover, our financial condition and results of operations could be affected in the event of
+political conflicts or economic crises in countries where our main wafer providers, end customers
+and contract manufacturers who provide assembly and test services worldwide, are located. Adverse
+change to the circumstances or conditions of our international business operations could have a
+material adverse effect on our business.
+
+
+
+We are exposed to fluctuations in interest rates and changes in credit rating and in the market
+values of our portfolio investments which could have a material adverse impact on our financial
+condition and results of operations.
+
+
+
+Our cash, short-term and long-term investments represent significant assets that may be subject to
+fluctuating or even negative returns depending upon interest rate movements, changes in credit
+rating and financial market conditions. Since September 2007, the global credit markets have
+experienced adverse conditions that have negatively impacted the values of various types of
+investment and non-investment grade securities. During this time, the global credit and capital
+markets have experienced significant volatility and disruption due to instability in the global
+financial system, uncertainty related to global economic conditions and concerns regarding
+sovereign financial stability.
+
+
+
+While general conditions in the global credit markets have improved, there is a risk that we may
+incur other-than-temporary impairment charges for certain types of investments should credit market
+conditions deteriorate or the underlying assets fail to perform as anticipated. Our future
+investment income may fall short of expectations due to changes in interest rates or if the decline
+in fair values of our debt securities is judged to be other than temporary. Furthermore, we may
+suffer losses in principal if we are forced to sell securities that have declined in market value
+due to changes in interest rates or financial market conditions.
+
+
+
+Our failure to protect and defend our intellectual property could impair our ability to compete
+effectively.
+
+
+
+We rely upon patent, copyright, trade secret, mask work and trademark laws to protect our
+intellectual property. We cannot provide assurance that such intellectual property rights can be
+successfully asserted in the future or will not be invalidated, violated, circumvented or
+challenged. From time to time, third parties, including our competitors, have asserted against us
+patent, copyright and other intellectual property rights to technologies that are important to us.
+Third parties may attempt to misappropriate our IP through electronic or other means or assert
+infringement claims against our indemnitees or us in the future. Such assertions by third parties
+may result in costly litigation, indemnity claims or other legal actions, and we may not prevail in
+such matters or be able to license any valid and infringed patents from third parties on
+commercially reasonable terms. This could result in the loss of our ability to import and sell our
+products. Any infringement claim, indemnification claim, or impairment or loss of use of our
+intellectual property could materially adversely affect our financial condition and results of
+operations.
+
+
+
+We rely on information technology systems, and failure of these systems to function properly or
+unauthorized access to our systems could result in business disruption.
+
+
+
+We rely in part on various information technology (IT) systems to manage our operations, including
+financial reporting, and we regularly evaluate these systems and make changes to improve them as
+necessary. Consequently, we periodically implement new, or enhance existing, operational and IT
+systems, procedures and controls. For example, in the past we simplified our supply chain and were
+required to make certain changes to our IT systems. Any delay in the implementation of, or
+disruption in the transition to, new or enhanced systems, procedures or controls, could harm our
+ability to record and report financial and management information on a
+timely and accurate basis. These systems are also subject to power and telecommunication outages or
+other general system failures. Failure of our IT systems or difficulties in managing them could
+result in business disruption. We also may be subject to unauthorized access to our IT systems
+through a security breach or attack. We seek to detect and investigate any security incidents and
+prevent their recurrence, but in some cases, we might be unaware of an incident or its magnitude
+and effects. Our business could be significantly harmed and we could be subject to third party
+claims in the event of such a security breach.
+
+
+
+Earthquakes and other natural disasters could disrupt our operations and have a material adverse
+affect on our financial condition and results of operations.
+
+
+
+The independent foundries upon which we rely to manufacture our products, as well as our California
+and Singapore facilities, are located in regions that are subject to earthquakes and other natural
+disasters. UMC’s foundries in Taiwan and Toshiba’s and Seiko’s foundries in Japan as well as many
+of our operations in California are centered in areas that have been seismically active in the
+recent past and some areas have been affected by other natural disasters such as typhoons. Any
+catastrophic event in these locations will disrupt our operations, including our manufacturing
+activities and our insurance may not cover losses resulting from such disruptions of our
+operations. Furthermore, this type of disruption could result in our inability to manufacture or
+ship products, thereby materially adversely affecting our financial condition and results of
+operations. For example, as a result of the March 2011 earthquake in Japan, production at the
+Seiko foundry at Sakata was halted temporarily, impacting production of some of our older devices.
+In addition, suppliers of wafers and substrates were forced to halt production temporarily.
+Disruption of operations at these foundries for any reason, including other natural disasters such
+as typhoons, tsunamis, volcano eruptions, fires or floods, as well as disruptions in access to
+adequate supplies of electricity, natural gas or water could cause delays in shipments of our
+products, and could have a material adverse effect on our results of operations.
+
+
+ 
+
+16
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+If we are unable to maintain effective internal controls, our stock price could be adversely
+affected.
+
+
+
+We are subject to the ongoing internal control provisions of Section 404 of the Sarbanes-Oxley Act
+of 2002 (the Act). Our controls necessary for continued compliance with the Act may not operate
+effectively at all times and may result in a material weakness disclosure. The identification of
+material weaknesses in internal control, if any, could indicate a lack of proper controls to
+generate accurate financial statements and could cause investors to lose confidence and our stock
+price to drop.
+
+
+
+We compete with others to attract and retain key personnel, and any loss of, or inability to
+attract, such personnel would harm us.
+
+
+
+We depend on the efforts and abilities of certain key members of management and other technical
+personnel. Our future success depends, in part, upon our ability to retain such personnel and
+attract and retain other highly qualified personnel, particularly product engineers. Competition
+for such personnel is intense and we may not be successful in hiring or retaining new or existing
+qualified personnel. From time to time we have effected restructurings which eliminate a number of
+positions. Even if such personnel are not directly affected by the restructuring effort, such
+terminations can have a negative impact on morale and our ability to attract and hire new qualified
+personnel in the future. If we lose existing qualified personnel or are unable to hire new
+qualified personnel, as needed, our business, financial condition and results of operations could
+be seriously harmed.
+
+
+
+Unfavorable results of legal proceedings could adversely affect our financial condition and
+operating results.
+
+
+
+From time to time we are subject to various legal proceedings and claims that arise out of the
+ordinary conduct of our business. Certain claims are not yet resolved, including those that are
+discussed under Item 1. “Legal Proceedings,” included in Part II, and additional claims may arise
+in the future. Results of legal proceedings cannot be predicted with certainty. Regardless of its
+merit, litigation may be both time-consuming and disruptive to our operations and cause significant
+expense and diversion of management attention and we may enter into material settlements to avoid
+these risks. Should we fail to prevail in certain matters, or should several of these matters be
+resolved against us in the same reporting period, we may be faced with significant monetary damages
+or injunctive relief against us that would materially and adversely affect a portion of our
+business and might materially and adversely affect our financial condition and operating results.
+
+
+
+Our products could have defects which could result in reduced revenues and claims against us.
+
+
+
+We develop complex and evolving products that include both hardware and software. Despite our
+testing efforts and those of our subcontractors, defects may be found in existing or new products.
+These defects may cause us to incur significant warranty, support and repair or replacement costs,
+divert the attention of our engineering personnel from our product development efforts and harm our
+relationships with customers. Subject to certain terms and conditions, we have agreed to compensate
+certain customers for limited specified costs they actually incur in the event our hardware
+products experience epidemic failure. As a result, epidemic failure and other performance problems
+could result in claims against us, the delay or loss of market acceptance of our products and would
+likely harm our business. Our customers could also seek damages from us for their losses.
+
+
+
+In addition, we could be subject to product liability claims. A product liability claim brought
+against us, even if unsuccessful, would likely be time-consuming and costly to defend. Product
+liability risks are particularly significant with respect to aerospace, automotive and medical
+applications because of the risk of serious harm to users of these products. Any product liability
+claim, whether or not determined in our favor, could result in significant expense, divert the
+efforts of our technical and management personnel, and harm our business.
+
+
+
+In preparing our financial statements, we make good faith estimates and judgments that may change
+or turn out to be erroneous.
+
+
+
+In preparing our financial statements in conformity with accounting principles generally accepted
+in the U.S., we must make estimates and judgments in applying our most critical accounting
+policies. Those estimates and judgments have a significant impact on the results we report in our
+consolidated financial statements. The most difficult estimates and subjective judgments that we
+make concern valuation of marketable and non-marketable securities, revenue recognition,
+inventories, long-lived assets including acquisition-related intangibles, goodwill, taxes and
+stock-based compensation. We base our estimates on historical experience, input from outside
+experts and on various other assumptions that we believe to be reasonable under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and
+liabilities that are not readily apparent from other sources. We also have other key accounting
+policies that are not as subjective, and therefore, their application would not require us to make
+estimates or judgments that are as difficult, but which nevertheless could significantly affect our
+financial reporting. Actual results may differ materially from these estimates. If these estimates
+or their related assumptions change, our operating results for the periods in which we revise our
+estimates or assumptions could be adversely and perhaps materially affected.
+
+
+ 
+
+17
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Our failure to comply with the requirements of the International Traffic and Arms Regulations could
+have a material adverse effect on our financial condition and results of operations.
+
+
+
+Certain Xilinx space-grade FPGAs and related technologies are subject to the International Traffic
+in Arms Regulations (ITAR), which are administered by the U.S. Department of State. The ITAR
+governs the export and reexport of these FPGAs, the transfer of related technical data and the
+provision of defense services, as well as offshore production, test and assembly. We are required
+to maintain an internal compliance program and security infrastructure to meet ITAR requirements.
+
+
+
+An inability to obtain the required export licenses, or to predict when they will be granted,
+increases the difficulties of forecasting shipments. In addition, security or compliance program
+failures that could result in penalties or a loss of export privileges, as well as stringent ITAR
+licensing restrictions that may make our products less attractive to overseas customers, could have
+a material adverse effect on our business, financial condition and/or operating results.
+
+
+
+Considerable amounts of our common shares are available for issuance under our equity incentive
+plans and convertible debentures, and significant issuances in the future may adversely impact the
+market price of our common shares.
+
+
+
+As of April 2, 2011, we had 2.00 billion authorized common shares, of which 264.6 million shares
+were outstanding. In addition, 49.7 million common shares were reserved for issuance pursuant to
+our equity incentive plans and Employee Stock Purchase Plan, 42.7 million common shares were
+reserved for issuance upon conversion or repurchase of the convertible debentures and 19.8 million
+common shares were reserved for issuance upon exercise of warrants. The availability of substantial
+amounts of our common shares resulting from the exercise or settlement of equity awards outstanding
+under our equity incentive plans or the conversion or repurchase of convertible debentures using
+common shares, which would be dilutive to existing stockholders, could adversely affect the
+prevailing market price of our common shares and could impair our ability to raise additional
+capital through the sale of equity securities.
+
+
+
+We have indebtedness that could adversely affect our financial position and prevent us from
+fulfilling our debt obligations.
+
+
+
+The aggregate principal amount of our consolidated indebtedness as of April 2, 2011 was $1.29
+billion (principal amount). We also may incur additional indebtedness in the future. Our
+indebtedness may:
+
+
+
+
+
+
+
+     
+    •
+     
+    make it difficult for us to satisfy our financial obligations, including making
+scheduled principal and interest payments on the debentures and our other indebtedness;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    limit our ability to borrow additional funds for working capital, capital
+expenditures, acquisitions or other general corporate purposes;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    limit our ability to use our cash flow or obtain additional financing for future
+working capital, capital expenditures, acquisitions or other general business purposes;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    require us to use a portion of our cash flow from operations to make debt service
+payments;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    limit our flexibility to plan for, or react to, changes in our business and industry;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    place us at a competitive disadvantage compared to our less leveraged competitors;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    increase our vulnerability to the impact of adverse economic and industry conditions;
+and
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    require us to repatriate off-shore cash to the U.S. at unfavorable tax rates.
+
+
+
+
+
+Our ability to meet our debt service obligations will depend on our future performance, which will
+be subject to financial, business and other factors affecting our operations, many of which are
+beyond our control.
+
+
+
+The call options and warrant transactions related to our 2.625% Senior Convertible Debentures due
+June 15, 2017 (2.625% Debentures) may affect the value of the debentures and our common stock.
+
+
+
+To hedge against potential dilution upon conversion of the 2.625% Debentures, we purchased call
+options on our common stock from the hedge counterparties. We also sold warrants to the hedge
+counterparties, which could separately have a dilutive effect on our
+earnings per share to the extent that the market price per share of our common stock exceeds the
+applicable strike price of the warrants of $42.91 per share.
+
+
+
+As the hedge counterparties and their respective affiliates modify hedge positions, they may enter
+or unwind various derivatives with respect to our common stock and/or purchase or sell our common
+stock in secondary market transactions. This activity also could affect the market price of our
+common stock and/or debentures, which could affect the ability of the holders of the debentures to
+convert and the number of shares and value of the consideration that will be received by the
+holders of the debentures upon conversion.
+
+
+
+The conditional conversion features of the outstanding debentures, if triggered, may adversely
+affect our financial condition and operating results.
+
+
+
+Our outstanding debentures have conditional conversion features. In the event the conditional
+conversion features of the debentures are triggered, holders of such debentures will be entitled to
+convert the debentures at any time during specified periods at their option. If one or more holders
+elect to convert their debentures, we would be required to settle any converted principal through
+the payment of cash, which could adversely affect our liquidity. Even if holders do not elect to
+convert their debentures, we could be required under applicable accounting rules to reclassify all
+or a portion of the outstanding principal of the debentures as a current rather than long-term
+liability, which would result in a material reduction of our net working capital. In addition, we
+could be required to increase the number of shares used in our per share calculations to reflect
+the potentially dilutive impact of the conversion.
+
+
+ 
+
+18
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+Acquisitions and strategic investments present risks, and we may not realize the goals that were
+contemplated at the time of a transaction.
+
+
+
+We recently acquired technology companies whose products complement our products, and in the past
+we have made a number of strategic investments in other technology companies. We may make similar
+acquisitions and strategic investments in the future. Acquisitions and strategic investments
+present risks, including:
+
+
+
+
+
+
+
+     
+    •
+     
+    our ongoing business may be disrupted and our management’s attention may be diverted
+by investment, acquisition, transition or integration activities;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    an acquisition or strategic investment may not further our business strategy as we
+expected, and we may not integrate an acquired company or technology as successfully as
+we expected;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    our operating results or financial condition may be adversely impacted by claims or
+liabilities that we assume from an acquired company or technology or that are otherwise
+related to an acquisition;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    we may have difficulty incorporating acquired technologies or products with our
+existing product lines;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    we may have higher than anticipated costs in continuing support and development of
+acquired products, in general and administrative functions that support such products;
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    our strategic investments may not perform as expected; and
+
+
+
+
+
+
+
+
+
+     
+    •
+     
+    we may experience unexpected changes in how we are required to account for our
+acquisitions and strategic investments pursuant to U.S. generally accepted accounting
+principles.
+
+
+
+
+
+The occurrence of any of these risks could have a material adverse effect on our business, results
+of operations, financial condition or cash flows, particularly in the case of a larger acquisition
+or several concurrent acquisitions or strategic investments.
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+    ITEM 1B

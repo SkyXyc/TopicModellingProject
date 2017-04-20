@@ -1,0 +1,1390 @@
+Item 1A of Part I and to “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Forward-Looking Information” in Item 7 of Part II of this Form 10-K for a discussion of factors that could cause actual results to differ materially from any such forward-looking statements. The electronic version of this Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those forms filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of charge as soon as reasonably practicable after they are filed with the Securities and Exchange Commis
+sion, or the SEC, on our website at www.swn.com.  Our corporate governance guidelines and the charters of the Audit, Compensation, Nominating and Governance and Retirement Committees of our Board of Directors are available on our website, and are available in print free of charge to any stockholder upon request.
+
+
+2 SWN
+
+
+Table of Contents
+
+
+PART I
+
+ITEM 1.  BUSINESS  
+Southwestern Energy Company is an integrated energy company primarily engaged in exploring for and producing natural gas.  We conduct the majority of our exploration and production (E&P) operations in four general regions — the Arkoma Basin, East Texas, the Permian Basin and the onshore Gulf Coast.  We also focus on creating and capturing additional value through our drilling, gathering, marketing and natural gas distribution businesses.  
+Our operations are conducted in the following three segments:
+1.
+Exploration and Production - Our primary business is natural gas and oil exploration, development and production within the United States, with operations principally located in Arkansas, Oklahoma, Texas and New Mexico.  We engage in natural gas and oil exploration and production through our wholly-owned subsidiaries, SEECO, Inc., Southwestern Energy Production Company, or SEPCO, and Diamond “M” Production Company. SEECO operates exclusively in Arkansas, holds a large base of both developed and undeveloped gas reserves and conducts both the ongoing conventional drilling program in the Arkansas part of the Arkoma Basin and the drilling program for the Fayetteville Shale play.  SEPCO conducts development drilling and exploration programs in the Arkoma Basin, Texas and New Mexico.  Diamond “M” has interests in properties in the Permian Basin of Texas.  DeSoto Drilling, Inc., or DDI, 
+a wholly-owned subsidiary of SEPCO, operates drilling rigs in the Fayetteville Shale play and in East Texas.  
+2.
+Midstream Services - Our Midstream Services segment generates revenue through the marketing of our own gas production and some third-party natural gas and from gathering fees associated with the transportation of natural gas to market.  Our gas marketing subsidiary, Southwestern Energy Services Company, captures downstream opportunities which arise through marketing and transportation activity.  Our gathering subsidiary, DeSoto Gathering Company, L.L.C., engages in gathering activities primarily related to the development of our Fayetteville Shale play. 
+3.
+Natural Gas Distribution - We are also engaged in the distribution and transmission of natural gas.  Our wholly-owned subsidiary, Arkansas Western Gas Company, or Arkansas Western, operates integrated natural gas distribution systems in northern Arkansas serving approximately 151,000 retail customers.  
+The vast majority of our operating income and cash flow is derived from our E&P business.  In 2006, 96% of our operating income and 93% of our earnings before interest, taxes, depreciation, depletion and amortization, or EBITDA, were generated from our E&P business.  Our Midstream Services and Natural Gas Distribution segments each generated 2% of our operating income and 1% and 3%, respectively, of our EBITDA in 2006.  In 2005, our E&P, Midstream Services and Natural Gas Distribution segments generated 95%, 3% and 2% of our operating income and 94%, 3% and 3% of our EBITDA, respectively.  In 2004, our E&P, Midstream Services and Natural Gas Distribution segments generated 90%, 5%, and 5% of our operating income and 91%, 3% and 6% of our EBITDA, respectively.  We refer you to “Business — Other Items — Reconciliation of Non-GAAP Measures” in Item 1 of Part I of this Fo
+rm 10-K for a table that reconciles EBITDA with our net income as derived from our audited financial information.
+Our Business Strategy
+We are focused on providing long-term growth in the net asset value of our business.  Within the E&P segment, we prepare economic analyses for each of our drilling and acquisition opportunities and rank them based upon the expected present value added for each dollar invested, which we refer to as Present Value Index, or PVI.  The PVI of the future expected cash flows for each project is determined using a 10% discount rate. We target creating at least $1.30 of discounted pre-tax PVI for each dollar we invest in our E&P projects. Our actual PVI results are utilized to help determine the allocation of our future capital investments.  The key elements of our E&P business strategy are:
+·
+Exploit and Develop Our Existing Asset Base.  We seek to maximize the value of our existing asset base by developing properties that have production and reserve growth potential while also controlling per unit production costs.  Our primary focus is our Fayetteville Shale play, where we hold approximately 892,000 net acres.  Our large acreage position holds significant production and reserve growth potential.  We intend to aggressively develop our acreage position by accelerating our drilling program and by improving individual well results through the use of advanced technologies and detailed technical analysis of our properties.  In our other operating areas, we intend to 
+
+
+3 SWN
+
+
+Table of Contents
+
+
+increase our reserves and production by drilling infill locations, expanding known field limits and selectively recompleting existing wells.   
+·
+Grow Through New Exploration and Development Activities.  We actively seek to find and develop new conventional natural gas and oil properties with significant exploration and exploitation potential, as well as new unconventional resource plays, which we call New Ventures.  New prospects are evaluated based on repeatability, multi-well potential and land availability as well as other criteria.  Our Fayetteville Shale play began as a New Venture project in 2002. 
+·
+Maximize Efficiency Through Economies of Scale.  In our key operating areas, the concentration of our properties allows us to achieve economies of scale in our drilling and production operations that result in lower costs.  Our new drilling company, DDI, has already achieved a level of economies of scale with respect to the drilling of our wells in the Fayetteville Shale play by operating a fleet of rigs designed specifically for the play. DDI has also utilized smaller truck-mounted rigs to drill the vertical portion of the wellbore, decreasing both the number of drilling days and total well costs.
+·
+Rationalize Our Property Portfolio.  We actively pursue opportunities to reduce production costs of our properties and improve overall return, including selling marginal properties from our E&P portfolio of assets and acquiring producing properties and leasehold acreage in the regions in which we operate.  We also seek to acquire operational control of properties with significant unrealized exploration and exploitation potential.
+Recent Developments
+2007 Planned Capital
+Investments and Production Guidance.  On December 15, 2006, we announced a planned capital investment program for 2007 of $1,341 million, an increase of 42% over our 2006 capital program.  Our 2007 capital program includes $1,237 million for our E&P segment, $84 million for our Midstream Services segment, and $20 million for improvements to our utility systems and for other corporate purposes.  The increased capital program is expected to be primarily funded by internally-generated cash flow, borrowings under our revolving credit facility (discussed below) and/or funds raised in the public debt and equity markets.  We also announced our targeted 2007 oil and gas production of approximately 105.0 to 110.0 Bcfe, an increase of approximately 45% to 50% over our production in 2006.
+Amended and Restated Revolving Credit Agreement.  On February 9, 2007, we amended and restated our $500 million unsecured revolving credit facility that was due to expire in January 2010, increasing the borrowing capacity to $750 million, lowering the borrowing costs and extending the maturity date to February 2012.  The amount available under the credit agreement can be increased by up to $250 million in the future upon the agreement of the company and our existing or additional lenders.
+Sale and Leaseback of Drilling Rigs. On December 29, 2006, we entered into a sale and leaseback transaction through which we sold 13 drilling rigs and related equipment owned by us to various financial institutions and then leased such drilling rigs and equipment back, along with two additional drilling rigs and related equipment, pursuant to a Master Lease Agreement of the same date with the same institutions as lessors.  We received $127.3 million in cash for the 13 rigs and related equipment and recorded a deferred gain of $7.4 million which will be amortized over the lease term.  
+Pipeline Precedent Agreement.  On December 15, 2006, our subsidiary, Southwestern Energy Services Company, or SES, signed a precedent agreement pursuant to which SES will contract for firm gas transportation services on two newly-proposed pipeline laterals and related facilities of Texas Gas Transmission, LLC, a subsidiary of Boardwalk Pipeline Partners, L.P. SES will be a “Foundation Shipper” for the project and will use the proposed laterals and related facilities primarily to deliver gas volumes produced from our operations in the Fayetteville Shale play in central Arkansas. Depending on regulatory approvals, the expected in-service date for both laterals is January 1, 2009.  
+Sale of Interest in NOARK.  On May 2, 2006, we sold our 25% interest in NOARK Pipeline System, L.P., or NOARK, a partnership that owns a 723-mile integrated interstate pipeline system known as Ozark Gas Transmission System, to Atlas Pipeline Partners, L.P. for $69.0 million, resulting in a pre-tax gain of $10.9 million.  
+Sale of South Louisiana Properties.  During the fourth quarter of 2006, we completed the sale of our remaining South Louisiana properties to a private company for $12.7 million. These properties had proved reserves of 7.0 Bcfe and produced approximately 1.1 Bcfe for the twelve months ended prior to the sale.  As a result of this divestiture, we no longer have producing properties in the South Louisiana area.
+
+
+4 SWN
+
+
+Table of Contents
+
+
+Exploration and Production
+We operate our E&P business in four general regions — the Arkoma Basin, East Texas, the Permian Basin and the onshore Gulf Coast.  Our E&P business is organized into asset management teams based on the geographic location of our exploration and development projects.  In addition to our core areas of operations, we actively seek to develop new conventional exploration projects as well as unconventional plays with significant exploration and exploitation potential.
+
+
+Operating income from our E&P segment was $237.3 million in 2006, up from $234.8 million in 2005 and $164.6 million in 2004.  EBITDA from our E&P segment was $386.4 million in 2006, compared to $325.9 million in 2005 and $231.1 million in 2004.  The increases in both our operating income and EBITDA in 2006 and 2005 were due to increased production volumes and higher realized prices, partially offset by increases in operating costs and expenditures.  We refer you to “Business — Other Items — Reconciliation of Non-GAAP Measures” in Item 1 of Part I of this Form 10-K for a reconciliation of EBITDA with our net income.  
+Our estimated proved natural gas and oil reserves were 1,026 Bcfe at December 31, 2006, up from 827 Bcfe at year-end 2005 and 646 Bcfe at year-end 2004.  The overall increase in total reserves in the past three years is primarily due to the discovery and development of the Fayetteville Shale play in Arkansas, the accelerated development of our Overton Field in East Texas and our continued conventional drilling program in the Arkoma Basin.  Our year-end 2006 reserves had a pre-tax PV-10 value of $1,309 million, compared to $1,986 million at year-end 2005 and $1,218 million at year-end 2004.  The after-tax PV-10 was $1,043 million at year-end 2006, $1,421 million at year-end 2005 and $892 million at year-end 2004.  The decrease in the 2006 pre-tax and after-tax PV-10 values of our reserves is primarily due to a lower market price for natural gas at December 31, 2006.  At December 31, 2006, the market pric
+es for natural gas and crude oil that were used to calculate our PV-10 value were $5.64 per Mcf and $57.25 per barrel, respectively, compared to $10.08 per Mcf and $61.04 per barrel at December 31, 2005 and $6.18 per Mcf and $43.45 per barrel at December 31, 2004.  We refer you to Note 6 in the consolidated financial statements for a discussion of our standardized measure of discounted future cash flows related to our proved natural gas and oil reserves and to the risk factor “Although our estimated natural gas and oil reserve data is independently audited, our estimates may still prove to be inaccurate” in Item 1A of Part I of this Form 10-K and to “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Forward-Looking Information” in Item 7 of Part II of this Form 10-K for a discussion of the risks inherent in utilization of standardized measures and estimated reserve data.
+Approximately 95% of our year-end proved reserves were natural gas and 65% were classified as proved developed.  We operate approximately 77% of our reserves, based on our PV-10 value, and our average proved reserves-to-production ratio, or average reserve life, approximated 14.2 years at year-end 2006.  Sales of natural gas production accounted for 91% of total operating revenues for this segment in 2006 and 92% in both 2005 and 2004.  Natural gas production has generated a substantial portion of total operating revenues as a result of the natural gas focus of our capital investments in the past three years.
+Our reserve replacement ratio has exceeded 300% for the last three years including 2006, where our results were primarily driven by reserve additions associated with our Fayetteville Shale play.  In 2006, we replaced 386% of our production volumes by adding 365.5 Bcfe of proved natural gas and oil reserves at a finding and development cost of $2.75 per Mcfe, including a downward reserve revision of 86.6 Bcfe but excluding $94 million of capital invested in drilling rigs and related equipment which were subsequently sold and then leased back. In 2005 and 2004, our reserve replacement 
+
+
+5 SWN
+
+
+Table of Contents
+
+
+ratios were 399% and 365%, respectively, and our finding and development costs were $1.71 per Mcfe and $1.43 per Mcfe, respectively, including net downward reserve revisions of 31.7 Bcfe in 2005 and 12.7 Bcfe in 2004 but excluding $35 million in capital invested in drilling rigs in 2005.  The downward reserve revisions during 2006 were primarily due to a comparative decrease in year-end gas prices, combined with performance revisions in our East Texas and conventional Arkoma Basin properties, which were partially offset by an upward performance revision in our Fayetteville Shale properties.  The downward reserve revisions in 2005 and 2004 were primarily due to adjustments to the terminal decline rates for wells at our Overton Field and declines associated with our Gulf Coast properties.  The increase in our finding and development costs primarily reflects the general increase in material costs and oilf
+ield service costs to drill and complete wells in our key operating areas, and we expect this trend to continue in the future.  For the period ending December 31, 2006, our three-year average reserve replacement ratio was 384%, and our three-year average finding and development cost was $2.04 per Mcfe, including reserve revisions and excluding our investments in drilling rigs.
+Our reserve replacement ratio during 2006, excluding the effect of reserve revisions, was 505%, compared to 450% in 2005 and 388% in 2004.  Our finding and development cost, excluding revisions and our investments in drilling rigs, was $2.10 per Mcfe in 2006, compared to $1.51 per Mcfe in 2005 and $1.34 per Mcfe in 2004.  The increases in our finding and development costs during this time period were primarily due to higher costs for drilling and other field services, and we expect this trend to continue in the future.  Excluding reserve revisions and our investments in drilling rigs, our three-year average reserve replacement ratio is 454% and our three-year average finding and development cost is $1.72 per Mcfe.
+The following table provides information as of December 31, 2006, related to proved reserves, well count, net acreage, PV-10, and 2006 annual information as to production and capital investments, for each of our core operating areas, for our New Ventures and overall:
+
+  
+  Arkoma
+
+  
+  
+  
+  
+  
+
+  
+  
+  Fayetteville
+
+  East
+
+  
+  Gulf
+
+  New
+
+  
+
+  
+  Conventional
+
+  Shale Play
+
+  Texas
+
+  Permian
+
+  Coast
+
+  Ventures
+
+  Total
+
+
+  Estimated Proved Reserves:
+
+   
+   
+   
+   
+   
+   
+   
+
+  Total Reserves (Bcfe)
+
+  
+	277 
+
+  
+	300
+
+  
+	383 
+
+  
+	51 
+
+  
+	15
+
+  -
+
+  
+	1,026
+
+
+     Percent of Total 
+
+  
+	27%
+
+  
+	29%
+
+  
+	37%
+
+  
+	5%
+
+  
+	2%
+
+  -
+
+  100%
+
+
+     Percent Natural Gas
+
+  100%
+
+  100%
+
+  96%
+
+  36%
+
+  95%
+
+  
+	100%
+
+  95%
+
+
+     Percent Proved Developed
+
+  78%
+
+  
+	27%
+
+  80%
+
+  
+	89%
+
+  
+	100%
+
+  
+	100%
+
+  
+	65%
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  Production (Bcfe)
+
+  
+	20.1
+
+  11.8
+
+  
+	32.0
+
+  
+	5.8
+
+  
+	2.6
+
+  -
+
+  
+	72.3
+
+
+  Capital Investments (millions)(1)
+
+  
+	$97
+
+  
+	$388(1)
+
+  
+	$204
+
+  
+	$25
+
+  
+	$7
+
+  
+	$46(1)
+
+  
+	$767
+
+	
+  Total Gross
+  Producing Wells
+
+  
+	1,009
+
+  
+	162
+
+  
+	393
+
+  
+	411
+
+  
+	38
+
+  
+	5
+
+  
+	2,018
+
+	
+
+  
+	Total Net
+  Producing Wells
+
+  
+	493
+
+  
+	145
+
+  
+	336
+
+  
+	160
+
+  
+	16
+
+  
+	3
+
+  
+	1,153
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  Total Net Acreage
+
+  
+         461,761(2)
+
+  
+       766,654(3)
+
+  
+        94,076(4)
+
+  
+	33,193
+
+  
+	12,242
+
+  
+	99,301
+
+  
+	1,467,227
+
+
+  Net Undeveloped Acreage
+
+  
+         271,259(2)
+
+  
+       715,895(3)
+
+  
+        67,488(4)
+
+  
+	4,892
+
+  
+	5,017
+
+  
+	89,592
+
+  
+	1,154,143
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+
+  PV-10:
+
+  
+  
+  
+  
+  
+  
+  
+
+     Pre-tax (millions)
+
+  
+	$470
+
+  
+	$158
+
+  
+	$537
+
+  
+	$114
+
+  
+	$29
+
+  
+	$1
+
+  
+	$1,309
+
+
+     After-tax (millions)
+
+  
+	$375
+
+  
+	$126
+
+  
+	$428
+
+  
+	$91
+
+  
+	$23
+
+  -
+
+  
+	$1,043
+
+
+     Percent of Total
+
+  36%
+
+  
+	12%
+
+  41%
+
+  
+	9%
+
+  
+	2%
+
+  -
+
+  100%
+
+
+     Percent Operated
+
+  82%
+
+  
+	99%
+
+  
+	75%
+
+  
+	45%
+
+  57%
+
+  
+	100%
+
+  77%
+
+
+
+
+(1)  Our Fayetteville Shale play capital investments include $29 million in leasehold acquisition costs and exclude $94 million related to the purchase of drilling rigs and related equipment which was sold in December 2006 as part of a sale and leaseback transaction.  New Ventures capital investments included $3 million relating to drilling wells in the Arkoma Basin that are now part of our Arkoma Conventional program.
+(2)  Includes 123,442 net developed acres and 1,930 net undeveloped acres in our Conventional Arkoma Basin operating area that are also within our Fayetteville Shale focus area but not included in the Fayetteville Shale acreage in the table above.
+(3)  Assuming we do not drill successful wells to develop the acreage and do not extend the leases in our undeveloped acreage in the Fayetteville Shale play, leasehold expiring over the next three years will be 6,304 net acres in 2007, 19,451 net acres in 2008, and 105,593 net acres in 2009.
+(4)  Assuming we do not drill successful wells to develop the acreage and do not extend the leases in our undeveloped acreage in the Angelina River Trend in East Texas, leasehold expiring over the next three years will be 404 net acres in 2007, 20,620 net acres in 2008, and 27,300 net acres in 2009.
+ 
+Arkoma Basin.  We have traditionally operated in a portion of the Arkoma Basin that is primarily within the boundaries of our utility gathering system in Arkansas, which we refer to as the “Fairway.”  In recent years, we have expanded our activity in the Arkoma Basin to the south and east of the traditional Fairway area and west into the Oklahoma 
+
+
+6 SWN
+
+
+Table of Contents
+
+
+portion of the basin. Our drilling program in the Arkoma Basin is comprised of both conventional and unconventional activities.  We refer to our drilling program targeting stratigraphic Atokan-age objectives in Oklahoma and Arkansas as our “conventional Arkoma” drilling program. Our Fayetteville Shale play represents our unconventional drilling program in the Arkoma Basin.  At December 31, 2006, we had approximately 577 Bcf of natural gas reserves in the Arkoma Basin, representing approximately 56% of our total reserves, up from 372 Bcf at year-end 2005 and 247 Bcf at year-end 2004.  
+Conventional Arkoma Program. Our conventional Arkoma drilling program continues to provide a solid foundation for our E&P program and represents a significant source of our production and reserves.  Approximately 277 Bcf of our reserves at year-end 2006 were attributable to our conventional Arkoma wells.  During 2006, we invested $97 million and participated in 84 wells with 54 producers, four dry holes and 26 wells in progress at year-end, resulting in a 93% drilling success rate while adding 51.6 Bcf of gas reserves at a finding and development cost of $4.04 per Mcf, including a net downward reserve revision of 27.5 Bcf primarily related to lower gas prices and an increase in the terminal decline rates for some of our properties.  This compares to finding and development costs of $1.25 per Mcf in 2005 and $1.11 per Mcf in 2004, including net downward reserve revisions of 0.7 Bcf in 2005 and net upwar
+d reserve revisions of 4.5 Bcf in 2004.  Excluding revisions, finding and development costs would have been $1.89 per Mcf in 2006 and $1.23 per Mcf in both 2005 and 2004.  The increase in our finding costs during this time period was primarily due to higher costs for drilling and other oilfield services.  Our gas production from our conventional drilling program in the Arkoma Basin was 20.1 Bcf during 2006, or approximately 55.1 MMcf per day, compared to 20.2 Bcf in 2005 and 20.1 Bcf in 2004.  Production over this time period has remained fairly constant as our drilling investment is offsetting the natural production decline from existing wells.  
+Our conventional activities in the Arkoma Basin continue to generate a significant amount of our cash flow.  With three-year average finding and development costs of $1.74 per Mcf, including revisions (or $1.46 per Mcf excluding revisions), and three-year average production, or lifting, costs of $0.60 per Mcf (including production taxes), our cash margins from our conventional drilling program in the Arkoma Basin are very attractive.  Lifting costs continued to be low during 2006 at $0.64 per Mcf (including production taxes), compared to $0.68 per Mcf in 2005 and $0.48 per Mcf in 2004.    
+Our strategy in the Fairway is to continue to delineate new geologic prospects and extend previously identified trends using our extensive expertise in the area.  In recent years, we have extended our development program into the Oklahoma portion of the Arkoma Basin, and into other areas of the basin in Arkansas that had previously been less explored.  One of these newer areas is our Ranger Anticline prospect area, or Ranger, located at the southern edge of the Arkansas portion of the basin, where we have significantly increased our drilling activity over the last few years.  
+Our wells at Ranger have primarily targeted the Upper and Lower Borum tight gas sands between 5,000 and 8,000 feet in depth.  We drilled our first successful well at Ranger in 1997, and as our understanding of the geology at Ranger has grown, the potentially productive area in the field has expanded.  In 2005, we extended the field boundaries to the east approximately nine miles.  In 2006, much of our drilling at Ranger Anticline has focused on the area located between the main producing part of the field and this eastern extension where we have drilled several higher-rate wells.  Wells completed in 2006 had average estimated ultimate gross reserves of 1.9 Bcf per well. 
+From 1997 through year-end 2006, we successfully drilled 104 out of 118 wells, adding 95.7 net Bcf of reserves at a finding and development cost of $1.52 per Mcf, including reserve revisions.  During 2006, we successfully completed 27 out of 29 wells (excluding 15 wells in progress at year-end 2006), which added 28.8 Bcf of new reserves.  Net production from the field during 2006 was 5.7 Bcf, up from 5.6 Bcf in 2005 and 3.5 Bcf in 2004.  Our average working interest in the 104 successful wells drilled through December 31, 2006, is 77% and our average net revenue interest is 63%.
+We continue to increase our acreage position at Ranger and, as of December 31, 2006, we held approximately 16,000 gross developed acres and 58,240 gross undeveloped acres and had regulatory approval for well spacing at a minimum distance of 560 feet between wells. Our average working interest in our gross undeveloped acreage position at Ranger is 46%.  We believe that Ranger holds significant future development potential. 
+Late in the third quarter of 2005, we drilled the initial exploratory well on our Midway prospect, which is located eleven miles north of Ranger.  The USA #1-24 well encountered pay in the Pennsylvania-age Basham and Borum sands, which are also the producing horizons at Ranger. In 2006, we drilled five offsets to the USA #1-24 discovery.  Four of these six wells are producing while the remaining wells were waiting on pipeline connection.  Depending on the performance of the newly drilled wells, there may be significant drilling potential on our Midway acreage block. At December 31, 2006, we held approximately 28,650 gross acres in our Midway prospect area.
+Our conventional Arkoma Basin drilling program continues to be an important focus for our capital program and we intend to allocate funds to our development drilling and workover programs at a level that, at a minimum, maintains our 
+
+
+7 SWN
+
+
+Table of Contents
+
+
+production and reserve base in this area.  In 2007, we plan to invest approximately $116 million in the conventional Arkoma program and will drill approximately 100 to 110 wells, including 50 to 60 wells at the Ranger Anticline.
+Fayetteville Shale Play.  Our emerging Fayetteville Shale play, which we announced in August 2004, is now the primary focus of our E&P business.  The Fayetteville Shale is an unconventional gas reservoir located on the Arkansas side of the Arkoma Basin, ranging in thickness from 50 to 550 feet and ranging in depth from 1,500 to 6,500 feet.  The shale is a Mississippian-age shale that is the geologic equivalent of the Caney Shale found on the Oklahoma side of the Arkoma Basin and the Barnett Shale found in north Texas. Approximately 300 Bcf of our reserves at year-end 2006 were attributable to our Fayetteville Shale play, up from approximately 101 Bcf at year-end 2005.
+At December 31, 2006, we held a total of approximately 892,000 net acres in the play area (716,000 net undeveloped acres, 51,000 net developed acres held by Fayetteville Shale production and approximately 125,000 net acres held by conventional production).  Excluding our acreage held by conventional production, our acreage position had an average lease term of 7 years, an average royalty interest of 15% and was obtained at an average cost of $95 per acre.  To date, we have established production from the Fayetteville Shale in 28 separate pilot areas located in eight counties in Arkansas over an area which represents approximately 45% of our total acreage position.  During 2007, we expect to test a large portion of our remaining acreage position to determine its productivity.  During 2006, we also tested gas from both the Moorefield Shale and Chattanooga (Woodford) Shale, which are located beneath the Fayette
+ville Shale. We believe that approximately 130,000 of our net undeveloped acres also holds potential for the Moorefield Shale.  Our Chattanooga Shale test well is located on our acreage that is held by conventional production in the Fairway area of the basin.
+During the third quarter of 2006, the Arkansas Oil and Gas Commission approved statewide field rules in the Fayetteville Shale, the Moorefield Shale, and the Chattanooga Shale as “unconventional sources of supply.”  Under the statewide rules, each drilling unit would consist of a governmental section of approximately 640 acres and operators would be permitted to drill up to 16 wells per drilling unit for each unconventional source of supply.  At December 31, 2006, based on the assumptions contained in the field rule applications for these fields, we estimate that the expected drainage from our horizontal wells will be less than 80 acres per well based on existing microseismic data and reservoir simulation modeling.  We refer you to “Risk Factors — We may have difficulty drilling all of the wells that are necessary to hold our Fayetteville Shale acreage before the initial lease terms expire, wh
+ich could result in the loss of certain leasehold rights” in Item 1A of Part I of this Form 10-K. 
+Since 2004, we have increased our capital investments dramatically as we have accelerated our drilling program in the play area.  In 2006, we invested approximately $388 million in our Fayetteville Shale play, which included $316 million to spud 196 wells, $29 million for leasehold acquisition, $14 million for seismic and $29 million in capitalized costs and other expenses.  In 2005, we invested approximately $119 million, which included $67 million to spud 67 wells, $41 million for leasehold acquisition, $4 million for seismic and $7 million in capitalized costs.  In 2004, we invested approximately $28 million, which included $12 million to spud 21 wells, $14 million for leasehold acquisition, and $2 million for other capitalized costs.  
+In 2006 and 2005, we also invested $94 million and $35 million, respectively, for the fabrication of 13 new drilling rigs to be used by our subsidiary, DDI, for drilling wells in the play.  These rigs were sold in December 2006 as part of a sale and leaseback transaction pursuant to which we also leased two other newly fabricated rigs.  We have options to repurchase the rigs under the leases as discussed in “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” At December 31, 2006, DDI had 337 employees, compared to 45 employees at December 31, 2005.  We had a total of 19 rigs running in the Fayetteville Shale play at year-end 2006, including 15 rigs capable of drilling horizontal laterals and four smaller rigs which are being utilized to drill the initial vertical section of the horizontal wells.  DDI operates 13 of the 19 rigs we currently have working in t
+he play.  At year-end 2005, we had three rigs drilling in the Fayetteville Shale play area. 
+As of December 31, 2006, we had spud a total of 284 wells in the play, 270 of which were operated by us and 14 of which were outside-operated wells.  Of the wells spud, 196 were drilled in 2006, 67 were drilled in 2005, and 21 were drilled in 2004, and 226 of the total wells spud were designated as horizontal wells.  At year-end 2006, 172 wells had been drilled and completed, including 118 horizontal wells.  
+Our results to date indicate that optimal development of this large resource will primarily require horizontal wells.  Early in the project’s life, we hydraulically fractured our wells using nitrogen foam fluid systems.  In 2006, we moved away from this completion technique and began using slickwater and crosslinked gel systems to complete our wells. Wells completed using a slickwater or crosslinked gel system have demonstrated improved production performance over the nitrogen foam fractured wells. During 2007, we plan to continue to experiment with new completion techniques, fluid systems and lateral lengths to further optimize the performance of our wells. 
+
+
+8 SWN
+
+
+Table of Contents
+
+
+The average initial production test rate for the 90 horizontal wells which were fracture stimulated using either slickwater or crosslinked gel fluids and on production as of December 31, 2006, was 1.5 MMcf per day.  The well costs for our most recently completed horizontal wells have averaged approximately $2.3 million per well.  The horizontal wells drilled through December 31, 2006, have had an average vertical depth of 3,500 feet, an average lateral length of 2,300 feet, and have taken 18 days on average to drill from re-entry to re-entry, after the vertical portion of the wellbore has been drilled.  
+Gross production from our operated wells in the Fayetteville Shale play increased from approximately 9 MMcf per day at the beginning of 2006 to approximately 100 MMcf per day by year-end, and
+could reach up to 300 MMcf per day by the end of 2007.  Our net production from the Fayetteville Shale play was 11.8 Bcf in 2006, compared to 1.8 Bcf in 2005 and 0.1 Bcf in 2004.  Our production in 2007 is estimated to range between 45 and 50 Bcf.  Our total proved net gas reserves booked in the play at year-end 2006 were 300 Bcf from a total of 434 locations, of which 162 were proved developed producing, 9 were proved developed non-producing and 263 were proved undeveloped.  Of the 434 locations, 381 were horizontal. Our proved developed reserves have ranged from 0.2 Bcf to 2.8 Bcf per well and the average gross proved reserves for each of the proved undeveloped wells included in our year-end reserves was approximately 1.15 Bcf per well, up from 0.95 Bcf per well at the end of 2005.  We currently estimate that the average ultimate gross production for these wells will be 1.3 to 1.5 Bcf per horizontal well.  Total proved gas reserves booked in the play in 2005 totaled 101 Bcf fr
+om a total of 177 locations, of which 54 were proved developed producing, six were proved developed non-producing, and 117 were proved undeveloped.  Total proved gas reserves booked in the play in 2004 totaled approximately 8 Bcf from a total of 20 vertical wells.  
+In 2007, we plan to invest $875 million in our Fayetteville Shale play, which includes drilling between 400 and 450 horizontal wells and shooting 3-D seismic over a large portion of our Fayetteville Shale acreage.  We also plan to drill up to seven horizontal wells in the Moorefield Shale and one horizontal well in the Chattanooga Shale.  Our strategy going forward is to increase our production through development drilling while also determining the economic viability of the undrilled
+portion of our acreage through drilling in new pilot areas.  Our drilling
+program with respect to our Fayetteville Shale play is flexible and will be
+impacted by a number of factors, including the results of our horizontal
+drilling efforts, our ability to determine the most effective and economic
+fracture stimulation, the extent to which we can replicate the results of our
+most successful Fayetteville Shale wells on our other Fayetteville Shale acreage
+as well as the natural gas and oil commodity price environment. As we continue
+to gather data about the Fayetteville Shale, it is possible that additional
+information may cause us to alter our drilling schedule or determine that
+prospects in some portion of our acreage position should not be pursued at all.
+We refer you to "Risk Factors - Our drilling plans for the Fayetteville
+Shale play are subject to change" in Item 1A of Part I of this Form 10-K.
+East Texas.  Our East Texas operations are primarily located in the Overton Field in Smith County, Texas, and our Angelina River Trend located in southern Nacogdoches County, Texas.
+Overton Field - Our original interest in the Overton Field (which was approximately 10,800 gross acres) was acquired in April 2000 for $6 million.  At December 31, 2006, we held approximately 24,400 gross acres with an average working interest in the Overton Field of 96% and average net revenue interest of 77%.  
+The Overton Field produces from four Taylor series sands in the Cotton Valley formation at approximately 12,000 feet.  When we acquired the field in April 2000, it was primarily developed on 640-acre spacing, or one well per square mile.  Analogous Cotton Valley fields in the area have been drilled to 80-acre spacing, and in some cases to 40-acre spacing.  
+In 2006, we drilled and completed a total of 66 wells, of which 44 were 40-acre spaced wells. This compares to 80 wells drilled and completed in 2005 and 83 wells drilled and completed in 2004.  We have experienced a 100% success rate at Overton since we began our development drilling program in 2001. Daily gross production at the Overton Field has increased from approximately 2 MMcfe in March 2001 to approximately 110 MMcfe at year-end 2006 resulting in net production of 29.8 Bcfe, compared to 26.7 Bcfe during 2005 and 21.8 Bcfe in 2004.  Wells drilled in the field during 2006 averaged approximately $2.3 million to drill and complete, had average initial production rates of approximately 3.0 MMcfe per day and had average estimated ultimate gross reserves of 1.6 Bcfe per well.  Our average production costs (including production taxes) were $0.64 per Mcfe in 2006, compared to $0.56 per Mcfe in 2005 and $0.50 per M
+cfe in 2004.  The increases in our unit production costs were primarily due to higher compression costs.
+Our proved reserves in East Texas increased to 383 Bcfe at year-end 2006, or 37% of our total reserves, of which 367 Bcfe were in our Overton Field.  Our reserves at Overton were up from 353 Bcfe at year-end 2005 and 297 Bcfe at
+year-end 2004, primarily due to the acceleration of our infill drilling program
+which began in early 2003.  We invested approximately $155 million at the
+Overton Field during 2006 which resulted in proved reserve additions of 88.0
+Bcfe at a
+
+
+
+9 SWN
+
+
+Table of Contents
+
+ 
+
+finding and development cost of $3.80 per Mcfe, including a net downward reserve
+revision of 47.2 Bcfe.  The reserve revision related to comparatively lower
+year-end gas prices and performance revisions in some of our existing wells.
+ This compares to finding and development costs of $1.91 per Mcfe in 2005 and
+$1.20 per Mcfe in 2004, including net downward reserve revisions of 18.8 Bcfe
+and 19.2 Bcfe, respectively.  Excluding such revisions, our finding and
+development costs at Overton were $1.76 per Mcfe in 2006, $1.56 per Mcfe in
+2005, and $1.04 per Mcfe in 2004.  Our finding costs have increased over recent
+years due to slightly lower reserves per well combined with higher costs for
+drilling and other oilfield services.  We expect that this trend will continue
+with future development wells in the field.  Additionally, as we continue to
+drill proved undeveloped locations at Overton for which the reserves were added
+in previous years, our finding and development cost per Mcfe will increase in
+the future.  The average estimated ultimate recovery of gas and oil reserves
+from new wells completed in 2006 was approximately 1.6 gross Bcfe per well,
+compared to 1.8 gross Bcfe per well in 2005 and 2.0 gross Bcfe per well in 2004.
+ The consistent decrease in gross reserves per well is primarily due to our
+drilling of locations with the highest estimated ultimate recovery earlier in
+our development program and is expected to continue.    
+Angelina River Trend - Our Angelina River Trend is a collection of eight new development areas, located primarily in Angelina and Nacogdoches Counties, Texas.  At December 31, 2006, we held approximately 68,900 gross undeveloped acres and 6,400 gross developed acres.  Our average working interest in this area is 66% and our average net revenue interest is 51%.  Through December 31, 2006, we had drilled 28 wells in this trend primarily targeting the Travis Peak formation.  In 2006, we invested $40 million in the Angelina River Trend and drilled 16 wells, 11 of which were productive and 5 of which were in progress at year-end.  Net production from the area was 1.8 Bcfe in 2006 and 0.9 Bcfe in 2005, with gross initial production rates from wells drilled during 2006 ranging from 1.0 to 5.1 MMcfe per day and estimated proved reserves ranging from 0.2 to 2.1 Bcfe.  During 2006, a large portion of 
+our drilling activity consisted of exploratory tests of our acreage position which resulted in the completion of several marginal wells which lowered our average reserves per well.  The average estimated ultimate recovery of gas and oil reserves from the wells completed in 2006 was approximately 0.8 gross Bcfe per well with an average drilling and completion cost of $2.7 million per well.  
+In 2007, we plan to invest approximately $163 million in East Texas, drilling up to 39 wells at our Overton field and we plan on drilling up to 28 wells in our Angelina River Trend, the majority of which are planned offsets to our best existing wells.
+Permian Basin. At December 31, 2006, our proved reserves in the Permian Basin were 51 Bcfe, compared to approximately 59 Bcfe at year-end 2005 and 61 Bcfe at year-end 2004.  Our production in the basin during 2006 was 5.8 Bcfe, or approximately 15.9 MMcfe per day, compared to 6.9 Bcfe in 2005 and 7.1 Bcfe in 2004.  The decrease in reserves and production during both 2006 and 2005 was due to the natural decline in these properties, partially offset by our drilling program.  Our production costs (including production taxes) averaged $2.72 per Mcfe in 2006, compared to $1.76 per Mcfe in 2005 and $1.21 per Mcfe in 2004.  The increases in our unit production costs during 2006 were primarily due to higher service costs and increased production taxes resulting from higher oil prices, combined with the decline in our production volumes.  In 2006, we invested $25 million in the Permian Basin and drill
+ed 12 wells, all of which were successful, resulting in reserve additions of 8.5 Bcfe.  These reserve additions were more than offset by a net downward reserve revision of 10.7 Bcfe related to lower commodity prices at year-end and performance revisions.  Excluding such revisions, our finding and development costs in the Permian Basin were $2.90 per Mcfe in 2006, $2.70 per Mcfe in 2005 and $2.62 per Mcfe in 2004.  The increase in our finding and development costs in both 2006 and 2005 was due to overall higher service costs, and we expect this trend of higher costs
+to continue.  In 2007, we plan to invest approximately $18 million in our Permian Basin program to drill up to 18 exploration and exploitation wells.
+ 
+Gulf Coast.  During 2006, our Gulf Coast operations were located in the onshore areas of Texas and Louisiana.  During the fourth quarter of 2006, we completed the sale of our remaining South Louisiana properties to a private company for $12.7 million. These properties had proved reserves of 7.0 Bcfe and produced approximately 1.1 Bcfe annually.  With this divestiture, we no longer have producing properties in the South Louisiana area.  
+Proved reserves in our Gulf Coast properties totaled 15 Bcfe at December 31, 2006, compared to approximately 27 Bcfe at year-end 2005 and 39 Bcfe at year-end 2004.  The decline in reserves in 2006 was primarily due to the divestiture of our South Louisiana properties.  The decline in reserves in 2005 was primarily due to the natural decline in these properties, partially offset by new reserve additions from drilling.  Net production from this area in 2006 was 2.6 Bcfe, or approximately 7 MMcfe per day, compared to 3.9 Bcfe in 2005 and 4.6 Bcfe in 2004.  Production costs (including production taxes) averaged $2.00 per Mcfe during 2006, compared to $1.67 per Mcfe during 2005 and $1.39 per Mcfe during 2004.  The increase in our unit production costs over the last three years was primarily due to the decline in production volumes from these properties, as well as general increases in operating costs.  
+During 2006, we invested $7
+million in the Gulf Coast area including approximately $4 million associated
+with an ongoing 3-D seismic program on our Texas Gulf Coast properties. During
+2006, we added 0.2 Bcfe of reserves which were more than offset by downward 
+
+
+10 SWN
+
+
+Table of Contents
+
+
+
+reserve revisions of 2.7 Bcfe.  In 2007, we plan to invest up to $7 million in
+the Texas Gulf Coast area which includes drilling up to three wells in the area
+of our current seismic program.  
+Other Exploration and New Ventures.  We have personnel dedicated to the research and identification of active and potential plays, focusing on both conventional exploration plays and unconventional plays (including coalbed methane, shale gas and basin-centered gas) as well as the technological aspects such as horizontal drilling and fracture techniques.  New prospects are evaluated based on repeatability, multi-well potential and land availability as well as other criteria.  
+At December 31, 2006, we held 89,592 net undeveloped acres in areas of the United States outside of our core operating areas in connection with New Ventures that we are pursuing.  This compares to 116,633 net undeveloped acres held at year-end 2005 and 47,596 net undeveloped acres held at year-end 2004.  Of the 89,592 net undeveloped acres held at year-end 2006, approximately 48,956 acres are located in Culberson County, Texas, in the Barnett Shale play in the Permian Basin.    
+In 2006, we invested approximately $46 million in our New Ventures program and drilled a total of seven exploration wells, of which two were successful, two were dry, and three were in progress at year-end.  The two dry holes that we drilled in 2006 were unsuccessful conventional exploration tests in the Rocky Mountains area.  Our two successful wells were both located in our Barnett Shale play in the Permian Basin.  Additionally in 2006, we began drilling on our recently acquired Riverton coalbed methane project in Caldwell Parish, Louisiana.  We have approximately 11,000 net acres in this project area targeting the Tertiary-age lower Wilcox coals at a depth of approximately 2,800 feet.
+In 2005, we invested approximately $26 million in our New Ventures program and drilled a total of six exploration wells, of which three were successful and one was in progress at year-end.  Our three discoveries in 2005 were located in East Texas.  Two of the wells are now included in our East Texas operations as part of our Angelina River Trend development project.  The third East Texas discovery was at our Pines prospect located in Marion County.  Late in the third quarter of 2005, we spudded a deep Arbuckle test in our Midway prospect area northeast of our Ranger Anticline area in the Arkoma Basin.  Although the Arbuckle objective did test natural gas, it did not produce at economic rates.  We completed this well in the uphole Borum and Basham sands, which are producing horizons in the Ranger Anticline area.  In 2005, we drilled an exploration well to test the Jackfork objective in Perry Co
+unty, Arkansas, which was a dry hole, and a new coalbed methane test in Sweetwater County, Wyoming that was unsuccessful.  In 2004, we invested approximately $2 million in New Ventures, excluding the Fayetteville Shale play, which included drilling one exploration dry hole in another coalbed methane play.  
+In 2007, we plan to invest approximately $58 million in various other exploration and New Ventures projects, including drilling up to 10 wells in the Woodford Shale in Oklahoma and up to 30 wells in our new coalbed methane play in northern Louisiana.  
+Acquisitions and Divestitures
+In 2006, we completed the sale of our remaining South Louisiana properties to a private company for $12.7 million. These properties had proved reserves of 7.0 Bcfe and produced approximately 1.1 Bcfe annually.  With this divestiture, we no longer have producing properties in the South Louisiana area.
+In 2006, we acquired additional working interests in our Overton Field for approximately $9 million.  We also acquired interests in a new coalbed methane project located in Caldwell Parish, Louisiana for approximately $9 million.  In total, we purchased 2.9 Bcfe of proved reserves for $18 million at an average cost of $6.09 per Mcfe.  The cost per Mcfe was higher than for prior acquisitions due to the potential existence of future drilling opportunities not currently classified as proved.  
+In 2004, we purchased 5.8 Bcfe of proved reserves for $14 million at an average cost of $2.45 per Mcfe.  Almost all of this investment related to the acquisition of additional working interest in our River Ridge discovery in Lea County, New Mexico.
+Capital Investments
+During 2006, we invested a total of $767 million in our primary E&P business activities and $94 million related to the purchase of drilling rigs and related equipment which were sold in December 2006 as part of a sale and leaseback transaction.  During 2006, we participated in drilling 382 wells, 230 of which were successful, 9 were dry and 143 were
+still in progress at year-end.  Of the 143 wells in progress at year-end, 104
+were located in our Fayetteville Shale play.  Our investments focused primarily
+on our active drilling programs in our Fayetteville Shale play, East Texas, and
+the  
+
+
+11 SWN
+
+
+Table of Contents
+
+
+
+conventional Arkoma Basin.  These drilling programs accounted for 45%, 24%, and
+11% of our E&P capital investments in 2006, respectively, with approximately
+$388 million invested in our Fayetteville Shale play, $204 million in East Texas
+and $97 million in our conventional Arkoma Basin program.  In addition, we
+invested approximately $25 million in the Permian Basin, $7 million in the Gulf
+Coast and $46 million in exploration and New Ventures.
+Of the $767 million invested in 2006, approximately $196 million was invested in exploratory drilling, $421 million in development drilling and workovers, $70 million for leasehold acquisition and seismic expenditures, $18 million for producing property acquisitions and $62 million in capitalized interest and expenses and other technology-related expenditures.  During 2005, we invested a total of approximately $451 million in our E&P business and participated in 247 wells.  Our investments in 2005 included $35 million related to construction payments on the rigs which were sold in December 2006.  In 2004, we invested $282 million and participated in 204 wells.  The increases in capital investments and wells drilled over the last two years are primarily due to the acceleration of our drilling program in the Fayetteville Shale play.
+In 2007, we intend to invest approximately $1,237 million in our E&P program, an increase of approximately 44% over our capital investment level in 2006.  We continue to be focused on our strategy of adding value through the drillbit, as approximately 82% of our 2006 E&P capital is allocated to drilling.  The Fayetteville Shale play is the primary focus of our E&P business, and we plan to significantly increase our activity and investment in the play to approximately $875 million in 2007.  Our capital investments in 2007 will also be focused on our lower-risk conventional drilling programs in East Texas and the Arkoma Basin.  We plan to invest approximately $163 million and $116 million in our East Texas and conventional Arkoma Basin programs, respectively, in 2007.  The remainder of our E&P capital will be allocated to exploitation projects in the Permian Basin ($18 million), the onshor
+e Texas Gulf Coast ($7 million), and various other exploration and New Venture projects ($58 million). 
+Of the $1,237 million allocated to our 2007 E&P capital budget, approximately $937 million will be invested in development drilling, $75 million in exploratory drilling, $93 million in seismic and other geological and geophysical expenditures (including approximately $77 million in our Fayetteville Shale play), $46 million in land, and $86 million in capitalized interest and expenses and other equipment, facilities and technology-related expenditures.  We refer you to “Management's Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources — Capital
+Investments” for additional discussion of our planned capital investments in 2007.
+Other Revenues
+Other revenues and operating income for 2006, 2005 and 2004 also included pre-tax gains of $4.0 million, $3.1 million, and $4.5 million, respectively, related to the sale of gas-in-storage inventory.  
+Sales and Major Customers
+Our daily natural gas equivalent production averaged 198.1 MMcfe in 2006, up 19% from 167.1 MMcfe in 2005 and 148.2 MMcfe in 2004, and we produced a total of 72.3 Bcfe in 2006, up from 61.0 Bcfe in 2005 and 54.1 Bcfe in 2004.  Our natural gas production was 68.1 Bcf in 2006, compared to 56.8 Bcf in 2005 and 50.4 Bcf in 2004.  The increase in 2006 production resulted primarily from a 10.0 Bcf increase in production related to our Fayetteville Shale play and a 4.0 Bcfe increase in production from East Texas, partially offset by a decrease in production from our Gulf Coast and the Permian Basin properties.  The increase in production in 2005 resulted primarily from a 5.8 Bcfe increase in production from East Texas, and a 1.9 Bcf increase in our Arkoma production (including a 1.7 Bcf increase in production from the Fayetteville Shale play).  Production during 2005 was reduced by the effects of curtailment of a p
+ortion of our Overton Field production due to repairs of a transmission line that is not operated by us and by the effects of Hurricane Katrina. Combined, these events reduced our production by approximately 1.0 Bcfe.  The increase in 2004 production resulted primarily from an 8.2 Bcfe increase in production from our Overton Field, a 1.3 Bcfe increase in our Arkoma Basin production, and 3.2 Bcfe from our River Ridge discovery in New Mexico.  
+We also produced 698,000 barrels of oil in 2006, compared to 705,000 barrels of oil in 2005 and 618,000 barrels of oil in 2004.  Our oil production decreased during 2006 due to the sale of our South Louisiana properties in the fourth quarter.  Our oil production increased in 2005 due to increased oil production from East Texas and the Permian Basin.  
+For 2007, we are targeting our total natural gas and crude oil production to be approximately 105.0 Bcfe to 110.0 Bcfe, which equates to a growth rate of approximately 45% to 50% above our 2006 production volumes.
+
+The vast majority of our gas production and all of our oil production is sold to
+unaffiliated purchasers.  Unaffiliated sales of gas and oil production are
+conducted under contracts that reflect current short-term prices and are 
+
+
+12 SWN
+
+
+Table of Contents
+ 
+ 
+
+subject to seasonal price swings.  These combined gas and oil sales to
+unaffiliated purchasers accounted for 92% of total E&P revenues in 2006, 90% in
+2005, and 89% in 2004.  In 2006, the largest unaffiliated purchaser accounted
+for approximately 10% of total E&P revenues. 
+Our utility subsidiary, Arkansas Western, also purchases a portion of our gas production.  These sales are made by SEECO primarily under contracts obtained under a competitive bidding process.  We refer you to “Natural Gas Distribution — Gas Purchases and Supply” for further discussion of these contracts.  Sales to Arkansas Western accounted for approximately 7% of total E&P revenues in 2006, 9% in 2005, and 10% in 2004.  SEECO’s sales to Arkansas Western were 4.7 Bcf in 2006, compared to 5.1 Bcf in 2005 and 5.4 Bcf in 2004.  Sales to Arkansas Western are primarily driven by the utility’s changing supply requirements due to variations in the weather and SEECO’s ability to obtain gas supply contracts that are periodically placed out for competitive bids.  SEECO’s gas production provided approximately 36% of the utility’s requirements in 2006, 38% in
+ 2005, and 40% in 2004.  We also sell gas directly to industrial and commercial transportation customers located on Arkansas Western’s gas distribution systems.  SEECO also owns an unregulated natural gas storage facility that has historically been utilized to help meet its peak seasonal sales commitments.  The storage facility is connected to Arkansas Western’s distribution system.
+We expect future increases in sales of our gas production to come primarily from sales to unaffiliated purchasers.  Future sales to Arkansas Western will be dependent upon our success in obtaining gas supply contracts from them.  We are unable to predict changes in the market demand and price for natural gas, including changes that may be induced by the effects of weather on demand of both affiliated and unaffiliated customers for our production. 
+We realized an average wellhead price of $6.55 per Mcf for our natural gas production in 2006, compared to $6.51 per Mcf in 2005 and $5.21 per Mcf in 2004, including the effect of hedges.  Our hedging activities increased our average gas price $0.18 in 2006 and decreased our average gas price $1.22 per Mcf in 2005 and $0.59 per Mcf in 2004.  Our average oil price realized was $58.36 per barrel in 2006, compared to $42.62 in 2005 and $31.47 per barrel in 2004, including the effect of hedges.  Our hedging activities lowered our average oil price $4.81 per barrel in 2006, $11.75 per barrel in 2005, and $9.08 per barrel in 2004.
+We periodically enter into various hedging and other financial arrangements with respect to a portion of our projected natural gas and crude oil production in order to support certain desired levels of cash flow and to minimize the impact of price fluctuations.  Our policies prohibit speculation with derivatives and limit swap agreements to counterparties with appropriate credit standings. At December 31, 2006, we had hedges in place on 65.0 Bcf, or approximately 60% to 65% of our targeted 2007 gas production, and 35.0 Bcf of our expected 2008 gas production.  Subsequent to December 31, 2006 and prior to February 23, 2007, we hedged 12.5 Bcf of 2007, 11.0 Bcf of 2008 and 4.0 Bcf of 2009 gas production under fixed price swaps with average prices of $8.03, $7.65 and $7.29 per Mcf, respectively.  Additionally, we hedged 2.0 Bcf of 2007, 11.0 Bcf of 2008 and 4.0 Bcf of 2009 gas production using costless collars. The 
+collars relating to 2007 production have a weighted average floor and ceiling price of $8.00 and $10.00 per Mcf, respectively; the collars relating to 2008 production have a weighted average floor and ceiling price of $8.00 and $10.26 per Mcf, respectively; and the collars relating to 2009 production have a weighted average floor and ceiling price of $7.63 and $10.00 per Mcf, respectively. As of February 19, 2007, we have hedged approximately 75% of our 2007 anticipated gas production level. We refer you to Item 7A of this Form 10-K, “Quantitative and Qualitative Disclosures About Market Risks,” for further information regarding our hedge position at December 31, 2006.
+Disregarding the impact of hedges, the average price received for our gas production has historically been approximately $0.30 to $0.50 per Mcf lower than average NYMEX spot market prices.  However, during both 2006 and 2005, widening market differentials caused the difference in our average price received to be approximately $0.90 per Mcf lower than average spot market prices.  Assuming a NYMEX commodity price of $7.00 per Mcf of gas for 2007, our differential for the average price received for our gas production is expected to be approximately $0.65 to $0.70 per Mcf below the NYMEX Henry Hub index price, including the impact of our basis hedges.  Assuming a NYMEX commodity price of $60.00 per barrel of oil for 2007, we expect the average price received for our oil production during 2007 to be approximately $1.00 per barrel lower than average spot market prices, as market differentials reduce the average prices 
+received.
+Competition
+All phases of the oil and gas industry are highly competitive.  We compete in the acquisition of properties, the search for and development of reserves, the production and sale of natural gas and oil and the securing of the labor and equipment required to conduct our operations.  Our competitors include major oil and gas companies, other independent oil and gas companies and individual producers and operators.  Many of these competitors have financial and other resources that substantially exceed those available to us.  
+ 
+
+13 SWN
+
+
+Table of Contents
+
+
+Competition in Arkansas has increased in recent years due largely to the development of improved access to interstate pipelines and our discovery of the Fayetteville Shale play.  The competition for new leases in the Fayetteville Shale play has become especially intense.  Due to our significant leasehold acreage position in Arkansas and our long-time presence and reputation in the area, we believe we will continue to be successful in acquiring new leases in Arkansas.  While improved intrastate and interstate pipeline transportation in Arkansas should increase our access to markets for our gas production, these markets will also be served by a number of other suppliers.  Consequently, we will encounter competition that may affect both the price we receive and contract terms we must offer. Outside Arkansas, we are less established and face competition from a larger number of other producers.
+Commencing in 1992, the FERC issued a series of orders (collectively, “Order No. 636”), which require interstate pipelines to provide transportation separately, or “unbundled,” from the pipelines’ sales of gas.  Order No. 636 also requires pipelines to provide open-access transportation on a basis that is equal for all shippers.  Although Order No. 636 does not directly regulate our activities, the FERC has stated that it intends for Order No. 636 to foster increased competition within all phases of the natural gas industry.  Starting in 2000, the FERC issued a series of orders (collectively, “Order No. 637”), which imposed a number of additional reforms designed to enhance competition in natural gas markets.  Among other things, Order No. 637 revised the FERC pricing policy by waiving price ceilings for short-term released capacity for a two-year period, and effected chang
+es in FERC regulations relating to scheduling procedures, capacity segmentation, pipeline penalties, rights of first refusal and information reporting.  The implementation of these orders has not had a material adverse effect on our results of operations to date. 
+We cannot predict whether and to what extent any market reforms initiated by the FERC or any new energy legislation will achieve the goal of increasing competition, lessening preferential treatment and enhancing transparency in markets in which our natural gas is sold.  However, we do not believe that we will be disproportionately affected as compared to other natural gas producers and marketers by any action taken by the FERC or any other legislative body. 
+Oil Price Controls and Transportation Rates 
+Sales of crude oil, condensate and gas liquids are not regulated and are made at negotiated prices.  Effective January 1, 1995, the Federal Energy Regulatory Commission, or the FERC, implemented regulations establishing an indexing system for transportation rates for oil that allowed for an increase in the cost of transporting oil to the purchaser.  The implementation of these regulations has not had a material adverse effect on our results of operations.  
+Impact of Federal Regulation of Sales of Natural Gas 
+Historically, the sale of natural gas in interstate commerce has been regulated pursuant to the Natural Gas Act of 1938, or the NGA, the Natural Gas Policy Act of 1978, or the NGPA, and regulations promulgated thereunder by the FERC.  In 1989, Congress enacted the Natural Gas Wellhead Decontrol Act, or the Decontrol Act.  The Decontrol Act removed all NGA and NGPA price and non-price controls affecting wellhead sales of natural gas effective January 1, 1993 and sales by producers of natural gas can be made at uncontrolled market prices.  
+The natural gas industry historically has been heavily regulated and from time to time proposals are introduced by Congress and the FERC and judicial decisions are rendered that impact the conduct of business in the natural gas industry.  There can be no assurance that the less stringent regulatory approach recently pursued by the FERC and Congress will continue. 
+Midstream Services
+Our Midstream Services segment generates revenue through the marketing of our own gas production and third-party natural gas and through gathering fees associated with the transportation of natural gas to market. Our operating income from this segment was $4.1 million on revenues of $475.2 million in 2006, compared to $5.7 million on revenues of $459.9 million in 2005 and $3.2 million on revenues of $315.0 million in 2004. The increases in revenues are largely attributable to increased volumes marketed, higher purchased gas costs and increased gathering revenues.  The decrease in operating income during 2006 was due to increased operating costs and expenses that resulted from increased staffing and other costs associated with our growing gathering activities, and a decrease in the margin generated by our marketing activities caused in part by increased volatility of locational market differentials in our core operating are
+as. 
+
+
+14 SWN
+
+
+Table of Contents
+
+
+Gas Marketing
+Our gas marketing subsidiary, Southwestern Energy Services Company, was formed in 1996 to better enable us to capture downstream opportunities which arise through marketing and transportation activity. Our current marketing operations primarily relate to the marketing of our own gas production and some third-party natural gas.  We marketed 72.7 Bcf of natural gas in 2006, compared to 61.9 Bcf in 2005 and 57.0 Bcf in 2004. Of the total volumes marketed, purchases from our E&P subsidiaries accounted for 72% in 2006, 76% in 2005, and 77% in 2004.  
+Gas Gathering
+In 2004, we formed a new subsidiary, DeSoto Gathering Company, L.L.C., that engages in gathering activities related to the development of our Fayetteville Shale play.  In 2006, we invested approximately $48.7 million related to these activities and had gathering revenues of $7.9 million, compared to $15.8 million invested and revenues of $1.0 million in 2005.  Gathering revenues and expenses for this segment are expected to grow substantially over the next few years as gathering systems for our Fayetteville Shale play are expanded to support the development of this play. 
+Competition
+Our gas marketing activities compete with numerous other companies offering the same services, many of which possess larger financial and other resources than we have.  Some of these competitors are affiliates of companies with extensive pipeline systems that are used for transportation from producers to end-users. Other factors affecting competition are cost and availability of alternative fuels, level of consumer demand, and cost of and proximity to pipelines and other transportation facilities.  We believe that our ability to compete effectively within the marketing segment in the future depends upon establishing and maintaining strong relationships with producers and end-users.
+Regulation
+On March 15, 2006, the Department of Transportation, or the DOT, issued new rules pertaining to certain gathering lines. We do not expect compliance with these new rules to have a material adverse impact on our operations.
+Natural Gas Distribution
+We distribute natural gas to approximately 151,000 customers in northern Arkansas through our subsidiary, Arkansas Western Gas Company. Our utility is focused on capitalizing on the expanding economy and growth in customers in its Northwest Arkansas service territory.  Approximately 67% of Arkansas Western’s customers are located in the Fayetteville-Springdale-Rogers MSA, which the U.S. Census Bureau named as the 6th fastest growing MSA in the United States in 2001.  In 2003, the Center for Business and Economic Research at the University of Arkansas estimated that the population of the Fayetteville-Springdale-Rogers MSA should continue to grow approximately 3% per year until 2025.  In February 2006, the Milken Institute named Northwest Arkansas as the 8th “Best Performing City” in the United States, based upon job creation and local economic growth, attributable in part to th
+e presence of Wal-Mart Stores, Inc., one of the largest public corporations in the world, and other large corporations such as Tyson Foods and J.B. Hunt Transportation.  
+
+
+
+
+15 SWN
+
+
+Table of Contents
+
+
+Operating income for our natural gas distribution business was $4.5 million in 2006, compared to $4.9 million in 2005 and $8.5 million in 2004.  EBITDA generated by our utility segment was $10.5 million in 2006, compared to $11.7 million in 2005 and $15.2 million in 2004.  The decrease in 2006 and 2005 operating income and EBITDA resulted primarily from warmer than normal weather and increased operating costs and expenses, which more than offset a rate increase that became effective October 31, 2005.  In September 2006, Arkansas Western filed an application for a general rate increase.  Any increased approved is expected to take effect in July 2007.  We refer you to “Business — Other Items — Reconciliation of Non-GAAP Measures” in Item 1 of Part I of this Form 10-K for a table that reconciles EBITDA with our net income as derived from our audited fin
+ancial information.  In recent years, Arkansas Western has experienced customer growth of approximately 3% annually in its Northwest Arkansas service territory, while it has experienced no customer growth in its service territory in Northeast Arkansas.  Based on current economic conditions in our service territories, we expect this trend in customer growth to continue. 
+Gas Purchases and Supply
+Arkansas Western purchases its system gas supply through a competitive bidding process and directly at the wellhead under long-term contracts with flexible pricing provisions.  In 2006, SEECO successfully bid on gas supply packages representing approximately 53% of the requirements for Arkansas Western for 2007, compared to approximately 44% for 2005 and 55% for 2004.  The contracts awarded to SEECO expire in 2008. 
+Arkansas Western also purchases gas under its gas supply packages from unaffiliated suppliers accessed by interstate pipelines.  These purchases are under firm contracts with one-year to two-year terms.  The rates charged by most suppliers include demand components to ensure availability of gas supply and a commodity component that is based on monthly indexed market prices.  The pipeline transportation rates include demand charges to reserve pipeline capacity and commodity charges based on volumes transported.  Less than 3% of the utility’s gas purchases are under take-or-pay contracts.  Arkansas Western believes that it does not have a significant exposure to take-or-pay liabilities resulting from these contracts and expects to be able to continue to satisfactorily manage these contracts.
+Arkansas Western has a natural gas storage facility connected to its distribution system in Northwest Arkansas that it utilizes to help meet its peak seasonal demands.  The utility also owns a liquefied natural gas facility and contracts with an interstate pipeline for additional storage capacity to serve its system in the northeastern part of the state.  These contracts involve demand charges based on the maximum deliverability, capacity charges based on the maximum storage quantity, and charges for the quantities injected and withdrawn.
+The utility’s rate schedules include a cost of gas rider whereby the actual cost of purchased gas above or below the projected level included in the rates is permitted to be billed or is required to be credited to customers.  The difference between actual costs of purchased gas and gas costs recovered from customers is deferred each month and are billed or credited, as appropriate, to customers in subsequent months.
+Arkansas Western enters into hedging activities from time to time with respect to its gas purchases to protect against the inherent price risks of adverse price fluctuations.  Our gas distribution segment hedged 3.1 Bcf, 4.2 Bcf and 4.5 Bcf, respectively, in 2006, 2005, and 2004, which had the effect of increasing its total gas supply costs by $7.7 million, $2.4 million, and $1.1 million, respectively.  At December 31, 2006, Arkansas Western had 3.1 Bcf of future gas purchases hedged at an average purchase price of $8.83 per Mcf.  We
+refer you to Item 7A of this Form 10-K, “Quantitative and Qualitative Disclosures About Market Risk,” and Note 8 to the consolidated financial statements for additional information.
+Markets and Customers
+Arkansas Western provides natural gas to approximately 134,000 residential, 17,000 commercial, and 170 industrial customers, while also providing gas transportation services to approximately 113 end-use and off-system customers.  Total gas throughput in 2006 was 21.9 Bcf, compared to 23.2 Bcf in 2005 and 25.0 Bcf in 2004.  The lower volumes in both 2006 and 2005 primarily resulted from warmer weather and customer conservation brought about by high gas prices in recent years. Weather in 2006 was 17% warmer than normal and 8% warmer than in 2005.  Weather in 2005 was 9% warmer than normal and 1% colder than in 2004.
+Residential and Commercial.
+ Approximately 89% of the utility's revenues in 2006 were from residential and
+commercial markets.  Residential and commercial customers combined accounted for
+56% of total gas throughput for the gas distribution segment in 2006, compared
+to 57% in 2005 and 2004.  Gas volumes sold to residential customers were 7.5 Bcf
+in 2006, compared to 8.1 Bcf in 2005 and 8.5 Bcf in 2004.  Gas sold to
+commercial customers totaled 4.7 Bcf in 2006, compared to 5.1 Bcf in 2005 and
+5.7 Bcf in 2004.  The fluctuations in gas volumes sold to both residential and
+commercial
+
+
+16 SWN
+
+
+Table of Contents
+ 
+
+
+customers
+were driven primarily by warmer weather and customer conservation.  The gas
+heating load is one of the most significant uses of natural gas and is sensitive to outside temperatures.  Sales, therefore, vary throughout the year.  Profits, however, have become less sensitive to fluctuations in temperature as tariffs implemented contain a weather normalization clause to lessen the impact of revenue increases and decreases that might result from weather variations during the winter heating season.
+Industrial and End-use Transportation.  Deliveries to Arkansas Western’s industrial and end-use transportation customers were 9.6 Bcf in 2006, 10.0 Bcf in 2005, and 9.8 Bcf in 2004.  No industrial customer accounts for more than 10% of Arkansas Western’s total throughput.  Arkansas Western offers a transportation service that allows larger business customers to obtain their own gas supplies directly from other suppliers.  Off-system transportation volumes were 0.1 Bcf in 2006, less than 0.1 Bcf in 2005 and were 1.0 Bcf in 2004, all to the Ozark Gas Transmission System.  As of December 31, 2006, a total of 112 customers used the end-use transportation service.
+Competition
+Arkansas Western has historically maintained a price advantage over alternative fuels such as electricity, fuel oil, and propane for most applications, enabling it to achieve excellent market penetration levels. However, Arkansas Western has experienced a general trend in recent years toward lower rates of usage among its customers, largely as a result of conservation efforts, as well as increasing competition from alternative fuels that has eroded its price advantage.  Arkansas Western also has the ability to enter into special contracts with larger commercial and industrial customers that contain lower pricing provisions than the approved tariffs. These contracts can be used to meet competition from alternate fuels or threats of bypass and must be approved by the APSC.
+Regulation
+Arkansas Western’s rates and operations are regulated by the APSC and Arkansas Western must obtain the approval of the APSC in order to increase the rates it charges to its customers.  Arkansas Western operates through municipal franchises that are perpetual by virtue of state law but may not be exclusive within a geographic area.
+On September 25, 2006, Arkansas Western filed an application with the APSC for a general rate increase of approximately $13.1 million.  The filing requests a capital structure using the modified balance sheet approach inclusive of a 50/50 debt-to-equity ratio and a 10.79% return on equity (ROE).  The APSC approved an allowed ROE of 9.7% in Arkansas Western’s 2005 rate increase.  In this rate case, Arkansas Western hopes to resolve the issues associated with recovery of lost revenues resulting from energy efficiency programs and declining consumption per customer.  Any increase approved is expected to take effect in July 2007.  Arkansas Western’s last rate increase of $4.6 million annually was effective October 31, 2005.  Rate increase requests, which may be filed in the future, will depend on APSC ratemaking policies, customer growth, increases in operating expenses, and additional invest
+ment in property, plant and equipment.
+As the regulatory focus of the natural gas industry has shifted from the federal level to the state level, some utilities across the nation have been required to unbundle residential sales services from transportation services in an effort to promote greater competition.  There is no such legislation in Arkansas and no regulatory directives related to natural gas are presently pending.  In recent years, there have been efforts by the Arkansas legislature and the APSC concerning the issues of deregulation of the retail sale of electricity and a large-user access program for electric service choice.  Legislation adopted in 2001 for deregulation of the retail sale of electricity was repealed in 2003 and no legislative action has been taken regarding implementing a large-user access program. 
+In April 2002, the APSC adopted Natural Gas Procurement Plan Rules for utilities. These rules require utilities to take all reasonable and prudent steps necessary to develop a diversified gas supply portfolio. The portfolio should consist of an appropriate combination of different types of gas purchase contracts and/or financial hedging instruments that are designed to yield an optimum balance of reliability, reduced volatility and reasonable price. Utilities are also required to submit on an annual basis their gas supply plan, along with their contracting and/or hedging objectives, to the staff of the APSC for review and determination as to whether it is consistent with these policy principles. 
+On January 12, 2006, the APSC initiated a notice of inquiry regarding a rulemaking for developing and implementing energy efficiency programs.  Following a collaborative process, the APSC issued Energy Efficiency Rules on January 11, 2007.  These rules require all gas and electric utilities, excluding electric cooperatives, to file energy efficiency plans and programs with the APSC.  Quick start or pilot programs are to be implemented by late 2007, and comprehensive programs are to be implemented in 2009.  Utilities will recover the costs of energy efficiency programs from their customers.  The APSC will address lost revenues associated with these programs in the utilities’ rate cases. 
+
+
+17 SWN
+
+
+Table of Contents
+
+
+In December 2006, the APSC issued new affiliate transactions rules.  In January 2007, Arkansas Western and other utilities requested rehearing of these rules.  On February 16, 2007, the APSC issued an order granting a rehearing and staying the implementation of the affiliate transaction rules pending further review.  A public hearing on this issue is scheduled for March 27, 2007.  Arkansas Western anticipates that these rules, if not modified on rehearing, will increase its regulatory costs and overall cost of service. 
+Gas distribution revenues in future years will be impacted by APSC policies, customer growth, customer usage and rate increases allowed by the APSC.  We refer you to “Risk Factors — We incur substantial costs to comply with government regulations, especially regulations relating to environmental protection, and could incur even greater costs in the future” in Item 1A of Part I of this Form 10-K for a discussion of the impact of government regulation on our natural gas distribution business.
+Transportation and Other
+On May 2, 2006, we sold our 25% interest in NOARK Pipeline System, Limited Partnership (NOARK), a partnership that owns a 723-mile integrated interstate pipeline system known as Ozark Gas Transmission System, to Atlas Pipeline Partners, L.P. for $69.0 million, resulting in a pre-tax gain of $10.9 million.  In connection with the sale, we assumed $39.0 million of partnership debt that we had previously guaranteed.  Our share of NOARK’s results of operations was a pre-tax gain of $0.9 million in 2006 prior to the sale, compared to a pre-tax gain of $1.6 million in 2005 and a pre-tax loss of $0.4 million in 2004.  The pre-tax gain in both 2006 and 2005 was primarily due to the increase in volumes transported and higher transportation rates collected for those volumes.  The pre-tax loss in 2004 was due primarily to a $0.4 negative adjustment from the operator of the pipeline for prior period allocati
+ons of income and expenses to the partners.  
+Historically, our other operations have consisted of the activities of our wholly-owned subsidiary, A. W. Realty Company, a company with real estate development activities concentrated on tracts of land located near our offices in Fayetteville, Arkansas.  There were no sales of commercial real estate in 2006.  During 2005, we sold approximately 1.6 acres of commercial real estate for a pre-tax gain of $0.4 million.  During 2004, we sold 45.5 acres of commercial real estate for a pre-tax gain of $5.8 million.  These amounts were reflected in “Gas transportation and other” revenues in our income statement.  As of December 31, 2006, A. W. Realty Company owned an interest in approximately 15 acres of undeveloped real estate.
+Other Items
+Reconciliation of Non-GAAP Measures
+EBITDA is defined as net income plus interest, income tax expense, depreciation, depletion and amortization.  We have included information concerning EBITDA in this Form 10-K because it is used by certain investors as a measure of the ability of a company to service or incur indebtedness and because it is a financial measure commonly used in our industry.  EBITDA should not be considered in isolation or as a substitute for net income, net cash provided by operating activities or other income or cash flow data prepared in accordance with generally accepted accounting principles or as a measure of our profitability or liquidity.  EBITDA as defined above may not be comparable to similarly titled measures of other companies.
+We believe that net income is the financial measure calculated and presented in accordance with generally accepted accounting principles that is most directly comparable to EBITDA as defined.  The following table reconciles EBITDA as defined with our net income, as derived from our audited financial information for the years-ended December 31, 2006, 2005 and 2004:
+
+
+18 SWN
+
+
+Table of Contents
+
+
+
+
+2006
+
+	E&P
+ 
+	Midstream  Services
+ 
+	Natural Gas Distribution
+ 
+	Other
+ 
+	Total
+
+Net income
+$
+151,157
+ 
+	$
+2,976
+ 
+	$
+2,190
+ 
+	$
+6,313
+ 
+	$
+162,636
+
+Depreciation, depletion and amortization
+143,500
+ 
+	1,773
+ 
+	6,428
+ 
+	94
+ 
+	151,795
+
+Net interest expense
+508
+ 
+	- 
+ 
+	171
+ 
+	- 
+ 
+	679
+
+Provision for income taxes
+     91,276
+ 
+	          554
+ 
+	       1,698
+ 
+	       5,871
+ 
+	      99,399
+
+EBITDA
+$ 386,441
+ 
+	
+	$     5,303
+ 
+	
+	$   10,487
+ 
+	
+	$   12,278
+ 
+	
+	$  414,509
+
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+2005
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+Net income
+$
+144,349
+ 
+	$
+2,962
+ 
+	$
+203
+ 
+	$
+246
+ 
+	$
+147,760
+
+Depreciation, depletion and amortization
+89,229
+ 
+	303
+ 
+	7,010
+ 
+	99
+ 
+	96,641
+
+Net interest expense
+8,416
+ 
+	1,054
+ 
+	4,429
+ 
+	1,141
+ 
+	15,040
+
+Provision for income taxes
+     83,921
+ 
+	       1,668
+ 
+	            11
+ 
+	           831
+ 
+	      86,431
+
+EBITDA
+
+	$ 325,915
+ 
+	
+	$     5,987
+ 
+	
+	$   11,653
+ 
+	
+	$      2,317
+ 
+	
+	$    345,872
+
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+2004
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+Net income
+$
+96,307
+ 
+	$
+2,000
+ 
+	$
+2,617
+ 
+	$
+2,652
+ 
+	$
+103,576
+
+Depreciation, depletion and amortization
+68,065
+ 
+	 67
+ 
+	6,696
+ 
+	91
+ 
+	74,919
+
+Net interest expense
+11,537
+ 
+	- 
+ 
+	4,461
+ 
+	994
+ 
+	16,992
+
+Provision for income taxes
+     55,197
+ 
+	       1,151
+ 
+	       1,471
+ 
+	       1,959
+ 
+	     59,778
+
+EBITDA
+
+	$ 231,106
+ 
+	
+	$     3,218
+ 
+	
+	$   15,245
+ 
+	
+	$     5,696
+ 
+	
+	$ 255,265
+
+
+
+
+
+Environmental Matters
+Our operations are subject to numerous federal, state and local laws and regulations including the Comprehensive Environmental Response, Compensation and Liability Act, or CERCLA, the Clean Water Act, the Clean Air Act and similar state statutes.  These laws and regulations require permits for drilling wells and the maintenance of bonding requirements in order to drill or operate wells and also regulate the spacing and location of wells, the method of drilling and casing wells, the surface use and restoration of properties upon which wells are drilled, the plugging and abandoning of wells, the prevention and cleanup of pollutants and other matters.  We maintain insurance against costs of clean-up operations, but we are not fully insured against all such risks.  Although future environmental obligations are not expected to have a material impact on the results of our operations or financial condition, there c
+an be no assurance that future developments, such as increasingly stringent environmental laws or enforcement thereof, will not cause us to incur material environmental liabilities or costs.
+
+Failure to comply with these laws and regulations may result in the assessment
+of administrative, civil and criminal fines and penalties and the imposition of
+injunctive relief.  Changes in environmental laws and regulations occur
+frequently, and any changes that result in more stringent and costly waste
+handling, storage, transport, disposal or cleanup requirements could materially
+adversely affect our operations and financial position, as well as those in the
+natural gas and oil industry in general.  Although we believe that we are in
+substantial compliance with applicable environmental laws and regulations and
+that continued compliance with existing requirements will not have a material
+adverse impact on us, there can be no assurance that this trend will continue in
+the future.
+The Oil Pollution Act, as amended, or the OPA, and regulations thereunder impose a variety of requirements on “responsible parties” related to the prevention of oil spills and liability for damages resulting from such spills in United States’ waters.  A “responsible party” includes the owner or operator of an onshore facility, pipeline or vessel, or the lessee or permittee of the area in which an offshore facility is located.  OPA assigns liability to each responsible party for oil cleanup costs and a variety of public and private damages.  While liability limits apply in some circumstances, a party cannot take advantage of liability limits if the spill was caused by gross negligence or willful misconduct or resulted from violation of a federal safety, construction or operating regulation.  If the party fails to report a spill or to cooper
+ate fully in the cleanup, liability limits likewise do not apply.  Few defenses exist to the liability imposed by OPA.  OPA imposes ongoing requirements on a responsible party, including the preparation of oil spill response plans and proof of financial responsibility to cover environmental cleanup and restoration costs that could be incurred in connection with an oil spill.  
+CERCLA, also known as the “Superfund law,” imposes liability, without regard to fault or the legality of the original conduct, on certain classes of persons that are considered to be responsible for the release of a “hazardous substance” into the environment.  These persons include the owner or operator of the disposal site or sites where the release occurred and companies that transported or disposed or arranged for the transport or disposal of the hazardous substances 
+
+
+19 SWN
+
+
+Table of Contents
+
+
+found at the site. Persons who are or were responsible for releases of hazardous substances under CERCLA may be subject to joint and several liability for the costs of cleaning up the hazardous substances that have been released into the environment and for damages to natural resources, and it is not uncommon for neighboring landowners and other third parties to file claims for personal injury and property damage allegedly caused by the hazardous substances released into the environment.  
+The Resource Conservation and Recovery Act, as amended, or the RCRA, generally does not regulate wastes generated by the exploration and production of natural gas and oil.  The RCRA specifically excludes from the definition of hazardous waste “drilling fluids, produced waters and other wastes associated with the exploration, development or production of crude oil, natural gas or geothermal energy.”  However, legislation has been proposed in Congress from time to time that would reclassify certain natural gas and oil exploration and production wastes as “hazardous wastes,” which would make the reclassified wastes subject to much more stringent handling, disposal and clean-up requirements. If such legislation were to be enacted, it could have a significant impact on our operating costs, as well as the natural gas and oil industry in general.  Moreover, ordinary industrial wastes, such as pa
+int wastes, waste solvents, laboratory wastes and waste oils, may be regulated as hazardous waste. 
+We own or lease, and have in the past owned or leased, onshore properties that for many years have been used for or associated with the exploration and production of natural gas and oil.  Although we have utilized operating and disposal practices that were standard in the industry at the time, hydrocarbons or other wastes may have been disposed of or released on or under the properties owned or leased by us on or under other locations where such wastes have been taken for disposal. In addition, a portion of these properties have been operated by third parties whose treatment and disposal or release of wastes was not under our control.  These properties and the wastes disposed thereon may be subject to CERCLA, the Clean Water Act, the RCRA and analogous state laws.  Under such laws, we could be required to remove or remediate previously disposed wastes (including w
+aste disposed of or released by prior owners or operators) or property contamination (including groundwater contamination by prior owners or operators), or to perform remedial plugging or closure operations to prevent future contamination.   
+The Federal Water Pollution Control Act, as amended, or the FWPCA, imposes restrictions and strict controls regarding the discharge of produced waters and other natural gas and oil waste into navigable waters.  Permits must be obtained to discharge pollutants to waters and to conduct construction activities in waters and wetlands.  The FWPCA and similar state laws provide for civil, criminal and administrative penalties for any unauthorized discharges of pollutants and unauthorized discharges of reportable quantities of oil and other hazardous substances.  Many state discharge regulations and the Federal National Pollutant Discharge Elimination System general permits issued by the Environmental Protection Agency, or the EPA, prohibit the discharge of produced water and sand, drilling fluids, drill cuttings and certain other substances related to the natural gas an
+d oil industry into coastal waters.  Although the costs to comply with zero discharge mandates under federal or state law may be significant, the entire industry is expected to experience similar costs and we believe that these costs will not have a material adverse impact on our results of operations or financial position.  The EPA has adopted regulations requiring certain natural gas and oil exploration and production facilities to obtain permits for storm water discharges. Costs may be associated with the treatment of wastewater or developing and implementing storm water pollution prevention plans.
+Employees
+At December 31, 2006, we had 1,278 total employees, including 364 employed by our natural gas utility and 337 employed by our drilling company.  None of our employees were covered by a collective bargaining agreement at year-end 2006.  We believe that our relationships with our employees are good.
+
+GLOSSARY OF CERTAIN INDUSTRY TERMS
+The definitions set forth below shall apply to the indicated terms as used in this Form 10-K.  All volumes of natural gas referred to herein are stated at the legal pressure base of the state or area where the reserves exist and at 60 degrees Fahrenheit and in most instances are rounded to the nearest major multiple.
+“Bcf”  One billion cubic feet of gas.
+“Bcfe”  One billion cubic feet of gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+“Bbl”  One stock tank barrel, or 42 U.S. gallons liquid volume, used herein in reference to crude oil or other liquid hydrocarbons.
+
+
+20 SWN
+
+
+Table of Contents
+
+
+“Btu”  British thermal unit, which is the heat required to raise the temperature of a one-pound mass of water from 58.5 to 59.5 degrees Fahrenheit.
+“Dekatherm”  A thermal unit of energy equal to 1,000,000 British thermal units (Btu’s), that is, the equivalent of 1,000 cubic feet of gas having a heating content of 1,000 Btu’s per cubic foot.
+“Development drilling”  The drilling of a well within the proved area of an oil or gas reservoir to the depth of a stratigraphic horizon known to be productive.
+“Downspacing”  
+
+ 
+
+The process of drilling additional wells within a defined producing area to increase recovery of natural gas and oil from a known reservoir. 
+“EBITDA”  Represents net income attributable to common stock plus interest, income taxes, depreciation, depletion and amortization.  We refer you to “Business — Other Items — Reconciliation of Non-GAAP Measures” in Item 1 of Part I of this Form 10-K for a table that reconciles EBITDA with our net income as derived from our audited financial information.
+“Exploratory prospects or locations”  A location where a well is drilled to find and produce natural gas or oil reserves not classified as proved, to find a new reservoir in a field previously found to be productive of oil or gas in another reservoir or to extend a known reservoir.
+“Finding and development costs”  Costs associated with acquiring and developing proved natural gas and oil reserves which are capitalized pursuant to generally accepted accounting principles, including any capitalized general and administrative expenses.
+“Fracture stimulation” A process whereby fluids mixed with proppants are injected into a wellbore under pressure in order to fracture, or crack open, reservoir rock, thereby allowing oil and/or natural gas trapped in the reservoir rock to travel through the fractures and into the well for production.
+“Gross acreage or gross wells”  The total acres or wells, as the case may be, in which a working interest is owned.
+“Infill drilling”  Drilling wells in between established producing wells, see also “Downspacing.”
+“LIBOR”  Represents the London Inter-Bank Overnight Rate of interest.
+“MBbls”  One thousand barrels of crude oil or other liquid hydrocarbons.
+“Mcf”  One thousand cubic feet of natural gas.
+“Mcfe”  One thousand cubic feet of natural gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+“MMBbls”  One million barrels of crude oil or other liquid hydrocarbons.
+“MMBtu”  One million Btu’s.
+“MMcf”  One million cubic feet of natural gas.
+“MMcfe”  One million cubic feet of natural gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+“Net acres or net wells”  The sum of the fractional working interests owned in gross acres or gross wells.
+“Net revenue interest”  Economic interest remaining after deducting all royalty interests, overriding royalty interests and other burdens from the working interest ownership.
+“NYMEX”  The New York Mercantile Exchange.
+“Operating interest”  An interest in natural gas and oil that is burdened with the cost of development and operation of the property.
+
+
+21 SWN
+
+
+Table of Contents
+
+
+“Play”  A term applied to a portion of the exploration and production cycle following the identification by geologists and geophysicists of areas with potential oil and gas reserves.
+“Present Value Index” or “PVI” A measure that is computed for projects by dividing the dollars invested into the PV-10 resulting from the investment. 
+“Producing property”  A natural gas and oil property with existing production.
+“Proved developed reserves” Proved reserves that can be expected to be recovered from existing wells with existing equipment and operating methods. For additional information, see the SEC’s definition in Rule 4-10(a)(3) of Regulation S-X, which is available at the SEC’s website, http://www.sec.gov/divisions/corpfin/forms/regsx.htm#gas
+
+“Proved reserves”  The estimated quantities of crude oil, natural gas and natural gas liquids which geological and engineering data demonstrate with reasonable certainty to be recoverable in future years from known reservoirs under existing economic and operating conditions. For additional information, see the SEC’s definition in Rule 4-10(a)(2)(i) through (iii) of Regulation S-X, which is available at the SEC’s website, http://www.sec.gov/divisions/corpfin/ forms/regsx.htm#gas.
+“Proved undeveloped reserves”  Proved reserves that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion.  Reserves on undrilled acreage shall be limited to those drilling units that offset productive units and that are reasonably certain of production when drilled. For additional information, see the SEC’s definition in Rule 4-10(a)(4) of Regulation S-X, which is available at the SEC’s website, http://www.sec.gov/divisions/corpfin/forms/regsx.htm#gas.
+
+“PV-10”  When used with respect to natural gas and oil reserves, PV-10 means the estimated future gross revenue to be generated from the production of proved reserves, net of estimated production and future development costs, using prices and costs in effect as of the date of the report or estimate, without giving effect to non-property related expenses such as general and administrative expenses, debt service and future income tax expense or to depreciation, depletion and amortization, discounted using an annual discount rate of 10%.  Also referred to as “present value.” After-tax PV-10 is also referred to as “standardized measure” and is net of future income tax expense.
+ “Recomplete” This term refers to the technique of drilling a separate well-bore from all existing casing in order to reach the same reservoir, or redrilling the same well-bore to reach a new reservoir after production from the original reservoir has been abandoned.  
+“Royalty interest”  An interest in a natural gas and oil property entitling the owner to a share of oil or gas production free of production costs. 
+“Step-out well”  A well drilled adjacent to a proven well but located in an unproven area; a well located a “step out” from proven territory in an effort to determine the boundaries of a producing formation.
+“Undeveloped acreage”  Lease acreage on which wells have not been drilled or completed to a point that would permit the production of commercial quantities of natural gas and oil regardless of whether such acreage contains proved reserves.
+“Well spacing” The regulation of the number and location of wells over an oil or gas reservoir, as a conservation measure.  Well spacing is normally accomplished by order of the regulatory conservation commission.  The order may be statewide in its application (subject to change for local conditions) or it may be entered for each field after its discovery.  
+“Working interest”  An operating interest that gives the owner the right to drill, produce and conduct operating activities on the property and to receive a share of production.
+“Workovers”  Operations on a producing well to restore or increase production. 
+“WTI”  West Texas Intermediate, the benchmark crude oil in the United States.
+
+
+22 SWN
+
+
+Table of Contents
+
+
+
+ITEM 1A.  RISK FACTORS
+In addition to the other information included in this Form 10-K, the following risk factors should be considered in evaluating our business and future prospects. The risk factors described below are not necessarily exhaustive and investors are encouraged to perform their own investigation with respect to us and our business. Investors should also read the other information included in this Form 10-K, including our financial statements and the related notes and “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Forward-Looking Information.”
+Natural gas and oil prices are volatile.  Volatility in natural gas and oil prices can adversely affect our results and the price of our common stock.  This volatility also makes valuation of natural gas and oil producing properties difficult and can disrupt markets.
+Natural gas and oil prices have historically been, and are likely to continue to be, volatile.  The prices for natural gas and oil are subject to wide fluctuation in response to a number of factors, including:
+·
+
+relatively minor changes in the supply of and demand for natural gas and oil;
+·
+·
+market uncertainty;
+·
+worldwide economic conditions;
+·
+weather conditions;
+·
+import prices;
+·
+political conditions in major oil producing regions, especially the Middle East; 
+·
+actions taken by OPEC;  
+·
+competition from other sources of energy; and
+·
+economic, political and regulatory developments.
+Price volatility makes it difficult to budget and project the return on exploration and development projects involving our natural gas and oil properties and to estimate with precision the value of producing properties that we may own or propose to acquire.  In addition, unusually volatile prices often disrupt the market for natural gas and oil properties, as buyers and sellers have more difficulty agreeing on the purchase price of properties.  Our quarterly results of operations may fluctuate significantly as a result of, among other things, variations in natural gas and oil prices and production performance.  In recent years, natural gas and oil price volatility has become increasingly severe.  
+A substantial or extended decline in natural gas and oil prices would have a material adverse affect on us.
+Natural gas and oil prices have recently been at or near their highest historical levels.  A substantial or extended decline in natural gas and oil prices would have a material adverse effect on our financial position, our results of operations, our access to capital and the quantities of natural gas and oil that may be economically produced by us.  A significant decrease in price levels for an extended period would negatively affect us in several ways including:
+·
+our cash flow would be reduced, decreasing funds available for capital
+expenditures employed to replace reserves or increase production;
+·
+certain reserves would no longer be economic to produce, leading to both lower proved reserves and cash flow; and
+·
+access to other sources of capital, such as equity or long-term debt markets, could be severely limited or unavailable.
+Consequently, our revenues and profitability would suffer.
+Lower natural gas and oil prices may cause us to record ceiling test write-downs.   
+We use the full cost method of accounting for our natural gas and oil operations.  Accordingly, we capitalize the cost to acquire, explore for and develop natural gas and oil properties.  Under the full cost accounting rules of the SEC, the capitalized costs of natural gas and oil properties - net of accumulated depreciation, depletion and amortization, and deferred income taxes - may not exceed a “ceiling limit.”  This is equal to the present value of estimated future net cash 
+
+
+23 SWN
+
+
+Table of Contents
+
+
+flows from proved natural gas and oil reserves, discounted at 10 percent, plus the lower of cost or fair value of unproved properties included in the costs being amortized, net of related tax effects.
+These rules generally require pricing future natural gas and oil production at the unescalated natural gas and oil prices in effect at the end of each fiscal quarter, including the impact of derivatives qualifying as hedges.  They also require a write-down if the ceiling limit is exceeded, even if prices declined for only a relatively short period of time.  Once a write-down is taken, it cannot be reversed in future periods even if natural gas and oil prices increase. 
+If natural gas and oil prices decline below levels at December 31, 2006, a write-down may occur.  Write-downs required by these rules do not impact cash flow from operating activities but do reduce net income and stockholders' equity.
+We may have difficulty financing our planned capital expenditures which could adversely affect our growth.
+We have experienced and expect to continue to experience substantial capital expenditure and working capital needs, particularly as a result of our drilling program. Our planned capital expenditures for 2007 are expected to significantly exceed the net cash generated by our operations.  We expect to borrow under our credit facility to fund capital expenditures that are in excess of our net cash flow and cash on hand.  Our ability to borrow under our credit facility is subject to certain conditions.  At December 31, 2006, we were in compliance with the borrowing conditions of our credit facility.  If we are not in compliance with the terms of our credit facility in the future, we may not be able to borrow under it to fund our capital expenditures.  We also cannot be certain that other additional financing will be available to us on acceptable terms or at all.  In the event additional capital resou
+rces are unavailable, we may curtail our drilling, development and other activities or be forced to sell some of our assets on an untimely or unfavorable basis.  Any such curtailment or sale could have a material adverse effect on our results and future operations.
+Working interest owners of some of our properties may be unwilling or unable to cover their portion of development costs, which could change our exploration and development plans.  
+Some of our working interest owners may have difficulties obtaining the capital needed to finance their activities, or may believe that estimated drilling and completion costs are excessive. As a result, these working interest owners may be unable or unwilling to pay their share of well costs as they become due. These problems could cause us to change our development plans for these properties.
+Although our estimated natural gas and oil reserve data is independently audited, our estimates may still prove to be inaccurate.
+Our reserve data represents the estimates of our reservoir engineers made under the supervision of our management.  Our reserve estimates are audited each year by Netherland, Sewell & Associates, Inc., an independent petroleum engineering firm.  In conducting its audit, the engineers and geologists of Netherland, Sewell & Associates study our major properties in detail and independently develop reserve estimates.  The estimates of Netherland, Sewell & Associates, Inc. may differ significantly on an individual property basis from our estimates. When, in the aggregate, such differences are within 10%, Netherland, Sewell & Associates, Inc. is generally satisfied that the estimates of proved reserves are reasonable.  
+
+Reserve estimates are prepared for each of our properties annually by the reservoir engineers assigned to the asset management team in the geographic locations in which the property is located.  These estimates are reviewed by senior engineers who are not part of the asset management teams and by the president of our E&P subsidiaries.  Finally, the estimates of our proved reserves together with the audit report of Netherland, Sewell & Associates, Inc. are reviewed by our Board of Directors.  There are numerous uncertainties and risks that are inherent in estimating quantities of natural gas and oil reserves and projecting future rates of production and timing of development expenditures as many factors are beyond our control.  We incorporate many factors and assumptions into our estimates including:
+
+·
+expected reservoir characteristics based on geological, geophysical and engineering assessments;
+·
+future production rates based on historical performance and expected future operating and investment activities;
+·
+future oil and gas prices and quality and locational differentials; and
+·
+future development and operating costs.
+
+
+
+24 SWN
+
+
+Table of Contents
+
+
+Although we believe our assumptions are reasonable based on the information available to us at the time we prepare our estimates, our actual results could vary considerably from estimated quantities of proved natural gas and oil reserves (in the aggregate and for a particular geographic location), production, revenues, taxes and development and operating expenditures.  In addition, our estimates of reserves may be subject to downward or upward revision based upon production history, results of future exploration and development, prevailing natural gas and oil prices, operating and development costs and other factors.  In 2006, our reserves were revised downward by 86.6 Bcfe, primarily due to lower prevailing oil and gas prices at year-end combined with performance revisions in some of our East Texas and conventional Arkoma Basin properties, which were partially offset by an upward performance revision in our Fayettev
+ille Shale properties.  In 2005, our reserves were revised downward by 31.7 Bcfe, primarily due to unexpected declines associated with our Gulf Coast properties and minor changes to decline rates for our wells at the Overton Field.  In 2004, reserves were revised downward by 12.7 Bcfe due primarily to slightly higher decline rates related to some of the wells in our Overton Field in East Texas.  These revisions represented no greater than 8% of our total reserve estimates in each of these years, which we believe is indicative of the effectiveness of our internal controls.  Because we review our reserve projections for every property at the end of every year, any material change in a reserve estimate is included in subsequent reserve reports.
+
+Finally, recovery of undeveloped reserves generally requires significant capital expenditures and successful drilling operations.  At December 31, 2006, approximately 35% of our estimated proved reserves were undeveloped.  Our reserve data assume that we can and will make these expenditures and conduct these operations successfully, which may not occur.  Please read “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Forward-Looking Information” in Item 7 of Part II of this Form 10-K for additional information regarding the uncertainty of reserve estimates.
+Our future level of indebtedness and the terms of our financing arrangements may adversely affect operations and limit our growth.
+At December 31, 2006, we had long-term indebtedness of only $137.8 million and we had no borrowings under our revolving credit facility.  However, we have significantly increased our planned capital expenditures for 2007 and currently expect to incur significant additional indebtedness in order to fund a portion of these expenditures.  See also our risk factor headed “We may have difficulty financing our planned capital expenditures which could adversely affect our growth,” above.
+The terms of the indenture relating to our outstanding senior notes, our revolving credit facility and the master lease agreement relating to our drilling rigs, which we collectively refer to as our “financing agreements,” impose restrictions on our ability and, in some cases, the ability of our subsidiaries to take a number of actions that we may otherwise desire to take, including one or more of the following:
+·
+incurring additional debt, including guarantees of indebtedness;
+·
+redeeming stock or redeeming debt;
+·
+making investments;
+·
+creating liens on our assets; and
+·
+selling assets.
+Our level of indebtedness and off-balance sheet obligations, and the covenants contained in our financing agreements, could have important consequences for our operations, including:
+·
+requiring us to dedicate a substantial portion of our cash flow from operations to required payments, thereby reducing the availability of cash flow for working capital, capital expenditures and other general business activities;
+·
+limiting our ability to obtain additional financing in the future for working capital, capital expenditures, acquisitions and general corporate and other activities;
+·
+limiting our flexibility in planning for, or reacting to, changes in our business and the industry in which we operate; and
+·
+detracting from our ability to successfully withstand a downturn in our business or the economy generally.
+
+
+25 SWN
+
+
+Table of Contents
+
+
+Our ability to comply with the covenants and other restrictions in our financing agreements may be affected by events beyond our control, including prevailing economic and financial conditions.  If we fail to comply with the covenants and other restrictions, it could lead to an event of default and the acceleration of our obligations under those agreements, and in the case of the master lease agreement, loss of use of our drilling rigs.  We may not have sufficient funds to make such payments.  If we are unable to satisfy our obligations with cash on hand, we could attempt to refinance such debt, sell assets or repay such debt with the proceeds from an equity offering.  We cannot assure you that we will be able to generate sufficient cash flow to pay the interest on our debt, to meet our lease obligations, or that future borrowings, equity financings or proceeds from the sale of
+ assets will be available to pay or refinance such debt or obligations.  The terms of our financing agreements may also prohibit us from taking such actions.  Factors that will affect our ability to raise cash through an offering of our capital stock, a refinancing of our debt or a sale of assets include financial market conditions and our market value and operating performance at the time of such offering or other financing.  We cannot assure you that any such proposed offering, refinancing or sale of assets can be successfully completed or, if completed, that the terms will be favorable to us.
+If we fail to find or acquire additional reserves, our reserves and production will decline materially from their current levels.
+The rate of production from natural gas and oil properties generally declines as reserves are depleted.  Except to the extent that we acquire additional properties containing proved reserves, conduct successful exploration and development activities, successfully apply new technologies or, through engineering studies, identify additional behind-pipe zones or secondary recovery reserves, our proved reserves will decline materially as reserves are produced.  Future natural gas and oil production is, therefore, highly dependent upon our level of success in acquiring or finding additional reserves.
+Our drilling plans for the Fayetteville Shale play are subject to change.
+As of December 31, 2006, we had drilled and completed 172 wells relating to our Fayetteville Shale play. The majority of these wells were drilled across an area that represents approximately 45% of our large acreage position. Our drilling plans with respect to our Fayetteville Shale play are flexible and are dependent upon a number of factors, including the extent to which we can replicate the results of our most successful Fayetteville Shale wells on our other Fayetteville Shale acreage as well as the natural gas and oil commodity price environment.  The determination as to whether we continue to drill wells in the Fayetteville Shale may depend on any one or more of the following factors:
+·
+our ability to determine the most effective and economic fracture stimulation for the Fayetteville Shale formation;
+·
+material changes in natural gas prices; 
+·
+changes in the estimates of costs to drill or complete wells;
+·
+the extent of our success in drilling and completing horizontal wells;
+·
+our ability to reduce our exposure to costs and drilling risks;
+·
+the costs and availability of drilling equipment;
+·
+success or failure of wells drilled in similar formations or which would use the same production facilities;
+·
+receipt of additional seismic or other geologic data or reprocessing of existing data;
+·
+the extent to which we are able to effectively operate the drillings rigs we acquire; or
+·
+availability and cost of capital.
+We continue to gather data about our prospects in the Fayetteville Shale, and it is possible that additional information may cause us to alter our drilling schedule or determine that prospects in some portion of our acreage position should not be pursued at all.
+We may have difficulty drilling all of the wells that are necessary to hold our Fayetteville Shale acreage before the initial lease terms expire, which could result in the loss of certain leasehold rights. 
+Approximately 131,348 net acres of our Fayetteville Shale acreage will expire in the next three years if we do not drill successful wells to develop the acreage or otherwise take action to extend the leases.  As discussed above under “Our drilling plans for the Fayetteville Shale play are subject to change,” our ability to drill wells depends on a number of 
+
+
+26 SWN
+
+
+Table of Contents
+
+
+factors, including certain factors that are beyond our control.  The number of wells we will be required to drill to retain our leasehold rights will be determined by field rules established by the Arkansas Oil and Gas Commission or the AOGC.  During the third quarter of 2006, the AOGC approved statewide field rules in the Fayetteville Shale, the Moorefield Shale, and the Chattanooga Shale as “unconventional sources of supply.”  Under the statewide rules, each drilling unit will consist of a governmental section of approximately 640 acres and operators will be permitted to drill up to 16 wells per drilling unit for each unconventional source of supply.  To the extent that these field rules prevent us from successfully drilling wells in certain areas, we may not be able to drill the wells required to maintain our leasehold rights for certain of our Fayetteville Shale acreage.
+If our Fayetteville Shale drilling program fails to produce a significant supply of natural gas, our investments in our gas gathering operations could be lost and our commitments for transportation on pipelines could make the sale of our gas uneconomic, which could have an adverse effect on our results of operations, financial condition and cash flows.
+As of December 31, 2006, we had invested approximately $49 million in our gas gathering operations and we intend to invest approximately $84 million in 2007.  Our gas gathering business will largely rely on gas sourced in our Fayetteville Shale play area in Arkansas.  In addition, we have signed a precedent agreement committing us to a portion of the transportation fees related to new pipelines being built for our Fayetteville Shale play area by Texas Gas Transmission, LLC, a subsidiary of Boardwalk Pipeline Partners, LP.  We have also entered into firm transportation agreements with Ozark Gas Transmission to transport up to 220,000 MMBtu per day of gas volumes from our Fayetteville Shale play over the next three years and up to an additional 50,000 MMBtu per day over the next two years.  If our Fayetteville Shale drilling program fails to produce a significant supply of natural gas, our investments in our g
+as gathering operations could be lost, and we could be forced to pay transportation fees on pipeline capacity that we would not be using.  These events could have an adverse effect on our results of operations, financial condition and cash flows.
+Our exploration, development and drilling efforts and our operations of our wells may not be profitable or achieve our targeted returns.
+We require significant amounts of undeveloped leasehold acreage in order to further our development efforts.  Exploration, development, drilling and production activities are subject to many risks, including the risk that no commercially productive reservoirs will be discovered.  We invest in property, including undeveloped leasehold acreage that we believe will result in projects that will add value over time. However, we cannot assure you that all prospects will result in viable projects or that we will not abandon our initial investments. Additionally, there can be no assurance that leasehold acreage acquired by us will be profitably developed, that new wells drilled by us in prospects that we pursue will be productive or that we will recover all or any portion of our investment in such leasehold acreage or wells.  Drilling for natural gas and oil may involve unprofitable efforts, not only from dry wells but a
+lso from wells that are productive but do not produce sufficient net reserves to return a profit after deducting drilling, operating and other costs.  In addition, wells that are profitable may not achieve our targeted rate of return.  Our ability to achieve our target PVI results are dependent upon the current and future market prices for natural gas and crude oil, costs associated with producing natural gas and crude oil and our ability to add reserves at an acceptable cost.  We rely to a significant extent on seismic data and other advanced technologies in identifying leasehold acreage prospects and in conducting our exploration activities.  The seismic data and other technologies we use do not allow us to know conclusively prior to acquisition of leasehold acreage or drilling a well whether natural gas or oil is present or may be produced economically.  The use of seismic data and other technologies also requires greater pre-drilling expenditures than traditional drilling strateg
+ies.
+In addition, we may not be successful in implementing our business strategy of controlling and reducing our drilling and production costs in order to improve our overall return.  The cost of drilling, completing and operating a well is often uncertain, and cost factors can adversely affect the economics of a project.  Further, our drilling operations may be curtailed, delayed or canceled as a result of numerous factors, including unexpected drilling conditions, title problems, pressure or irregularities in formations, equipment failures or accidents, adverse weather conditions, environmental and other governmental requirements and the cost of, or shortages or delays in the availability of, drilling rigs, equipment and services.
+We incur substantial costs to comply with government regulations, especially regulations relating to environmental protection, and could incur even greater costs in the future.
+Our exploration, production, development and gas distribution and marketing operations are regulated extensively at the federal, state and local levels.  We have made and will continue to make large expenditures in our efforts to comply with these regulations, including environmental regulation. The natural gas and oil regulatory environment could change in ways that might substantially increase these costs.  Hydrocarbon-producing states regulate conservation practices and the 
+
+
+27 SWN
+
+
+Table of Contents
+
+
+protection of correlative rights.  These regulations affect our operations and limit the quantity of hydrocarbons we may produce and sell.  In addition, at the U.S. federal level, the Federal Energy Regulatory Commission regulates interstate transportation of natural gas under the Natural Gas Act.  Other regulated matters include marketing, pricing, transportation and valuation of royalty payments.
+As an owner or lessee and operator of natural gas and oil properties, and an owner of gas gathering, transmission and distribution systems, we are subject to various federal, state and local regulations relating to discharge of materials into, and protection of, the environment.  These regulations may, among other things, impose liability on us for the cost of pollution clean-up resulting from operations, subject us to liability for pollution damages, and require suspension or cessation of operations in affected areas.  Changes in or additions to regulations regarding the protection of the environment could significantly increase our costs of compliance, or otherwise adversely affect our business.
+One of the responsibilities of owning and operating natural gas and oil properties is paying for the cost of abandonment. Effective January 1, 2003, companies were required to reflect abandonment costs as a liability on their balance sheets. We may incur significant abandonment costs in the future which could adversely affect our financial results. 
+Natural gas and oil drilling and producing operations involve various risks.
+Our operations are subject to all the risks normally incident to the operation and development of natural gas and oil properties and the drilling of natural gas and oil wells, including encountering well blowouts, cratering and explosions, pipe failure, fires, formations with abnormal pressures, uncontrollable flows of oil, natural gas, brine or well fluids, release of contaminants into the environment and other environmental hazards and risks.
+We maintain insurance against many potential losses or liabilities arising from our operations in accordance with customary industry practices and in amounts that we believe to be prudent.  However, our insurance does not protect us against all operational risks.  For example, we do not maintain business interruption insurance.  Additionally, pollution and environmental risks generally are not fully insurable.  These risks could give rise to significant costs not covered by insurance that could have a material adverse effect upon our financial results.  
+We cannot control activities on properties we do not operate.  Failure to fund capital expenditure requirements may result in reduction or forfeiture of our interests in some of our non-operated projects.
+We do not operate some of the properties in which we have an interest and we have limited ability to exercise influence over operations for these properties or their associated costs.  Approximately 23% of our gas and oil properties, based on PV-10 value, are operated by other companies.  Our dependence on the operator and other working interest owners for these projects and our limited ability to influence operations and associated costs could materially adversely affect the realization of our targeted returns on capital in drilling or acquisition activities and our targeted production growth rate.  The success and timing of drilling, development and exploitation activities on properties operated by others depend on a number of factors that are beyond our control, including the operator's expertise and financial resources, approval of other participants for drilling wells and utilization of technology.  </P
+>
+When we are not the majority owner or operator of a particular natural gas or oil project, we may have no control over the timing or amount of capital expenditures associated with such project.  If we are not willing or able to fund our capital expenditures relating to such projects when required by the majority owner or operator, our interests in these projects may be reduced or forfeited.
+Our ability to sell our natural gas and crude oil production could be materially harmed if we fail to obtain adequate services such as transportation and processing. 
+Our ability to bring natural gas and crude oil production to market depends on a number of factors including the availability and proximity of pipelines, gathering systems and processing facilities. In some of the areas where we have operations, we deliver natural gas and crude oil through gathering systems and pipelines that we do not own.  These facilities may be temporarily unavailable due to market conditions or mechanical reasons, or may not be available to us in the future.  Any significant change affecting these facilities or our failure to obtain access to them on acceptable terms could restrict our ability to conduct normal operations.
+
+
+28 SWN
+
+
+Table of Contents
+
+
+Shortages of oilfield equipment, services and qualified personnel could adversely affect our results of operations.  
+The demand for qualified and experienced field personnel to drill wells and conduct field operations, geologists, geophysicists, engineers and other professionals in the natural gas and oil industry can fluctuate significantly, often in correlation with natural gas and oil prices, causing periodic shortages.  During the last half of 2006, we had difficulty obtaining additional well completion services due to a shortage of completion crews in our Fayetteville Shale play area, which resulted in a higher inventory of wells that had been drilled but were awaiting completion.  There have also been shortages of drilling rigs and other equipment, as demand for rigs and equipment has increased along with the number of wells being drilled.  These factors also cause significant increases in costs for equipment, services and personnel.  Higher natural gas and oil prices generally stimulate increased demand and result i
+n increased prices for drilling rigs, crews and associated supplies, equipment and services.  We cannot be certain when we will experience shortages or price increases, which could adversely affect our profit margin, cash flow and operating results or restrict our ability to drill wells and conduct ordinary operations. 
+Our business could be adversely affected by competition with other companies.  
+The natural gas and oil industry is highly competitive, and our business could be adversely affected by companies that are in a better competitive position.  As an independent natural gas and oil company, we frequently compete for reserve acquisitions, exploration leases, licenses, concessions, marketing agreements, equipment and labor against companies with financial and other resources substantially larger than we possess.  Many of our competitors may be able to pay more for exploratory prospects and productive natural gas and oil properties and may be able to define, evaluate, bid for and purchase a greater number of properties and prospects than we can.  Our ability to explore for natural gas and oil prospects and to acquire additional properties in the future will depend on our ability to conduct operations, to evaluate and select suitable properties and to consummate transactions in this highly competitive 
+environment.  In addition, many of our competitors have been operating in some of our core areas for a much longer time than we have or have established strategic long-term positions in geographic regions in which we may seek new entry.
+We have made significant investments in our drilling rig operations; however, we are still dependent on third party drilling companies.  We also lack experience in operating drilling rigs. 
+We have made significant investments in our drilling rig operations, including commitments to lease 15 drilling rigs and hiring, as of December 31, 2006, 337 employees for our drilling subsidiary, DeSoto Drilling, Inc. (DDI).  The 15 drilling rigs will not be sufficient to meet the needs of our drilling program and we will still be dependent upon third-party rig providers in order to execute our drilling program in 2007 and beyond.  There can be no assurance that the commencement of our drilling rig operations will not have an adverse effect on our relationships with our existing third-party rig providers or our ability to secure third-party rigs from other providers.  We may also compete with third-party rig providers for qualified personnel, which could adversely affect our relationships with rig providers. If our existing third-party rig providers discontinue their relationships with us, we may not be able to 
+secure alternative rigs on a timely basis, or at all.  Even if we are able to secure alternative rigs, there can be no assurance that replacement rigs will be of equivalent quality or that pricing and other terms will be favorable to us.  If we are unable to secure third-party rigs or if the terms are not favorable to us, our financial condition and results of operations could be adversely affected.
+In addition, we had no experience prior to 2006 in operating drilling rigs.  We cannot assure you that we will be able to continue to attract and retain qualified field personnel to operate our drilling rigs or to otherwise effectively conduct our drilling operations.  If we are unable to retain qualified personnel or to effectively conduct our drilling operations, our financial and operating results may be adversely affected.
+We depend upon our management team and our operations require us to attract and retain experienced technical personnel.  
+The successful implementation of our business strategy and handling of other issues integral to the fulfillment of our business strategy depends, in part, on our experienced management team, as well as certain key geoscientists, geologists, engineers and other professionals employed by us.  The loss of key members of our management team or other highly qualified technical professionals could have a material adverse effect on our business, financial condition and operating results. 
+
+
+29 SWN
+
+
+Table of Contents
+
+
+Our hedging activities may prevent us from benefiting from price increases and may expose us to other risks.
+To reduce our exposure to fluctuations in the prices of natural gas and oil, we enter into hedging arrangements with respect to a portion of our expected production.  As of December 31, 2006, we had hedges on approximately
+60% to 65% of our targeted 2007 natural gas production.  Our price risk management activities increased revenues by $8.7 million in 2006, and reduced revenues by $77.2 million in 2005 and $35.6 million in 2004.  To the extent that we engage in hedging activities, we may be prevented from realizing the benefits of price increases above the levels of the hedges.  
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which:
+·
+our production is less than expected;
+·
+there is a widening of price differentials between delivery points for our production and the delivery point assumed in the hedge arrangement;
+·
+the counterparties to our futures contracts fail to perform the contracts; or
+·
+a sudden, unexpected event materially impacts natural gas or oil prices.
+In addition, future market price volatility could create significant changes to the hedge positions recorded on our financial statements.  We refer you to “Quantitative and Qualitative Disclosures about Market Risk” in Item 7A of Part II of this Form 10-K.
+Our certificate of incorporation, bylaws, and stockholder rights plan contain provisions that could make it more difficult for someone to either acquire us or affect a change of control.
+Our stockholder rights plan, together with certain provisions of our certificate of incorporation and bylaws, could discourage an effort to acquire us, gain control of the company, or replace members of our executive management team. These provisions could potentially deprive our stockholders of opportunities to sell shares of our common stock at above-market prices.
+
+
+ITEM 1B

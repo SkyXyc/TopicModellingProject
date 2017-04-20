@@ -1,0 +1,585 @@
+ITEM 1A.      RISK FACTORS
+
+     Any of the following risk factors could have a significant or material adverse effect on our business, financial condition, results of operations and/or liquidity, in addition to the other
+information contained in this report. Additional risks not presently known to us or that we currently deem immaterial may also impair our business, financial condition and results of operations. In this Item 1A, “XL Capital”,
+“XL Group”, “we”, “our”, “ours” and “us” refer to XL Capital Ltd and its subsidiaries unless the context otherwise requires.
+Risks Related to Our Company
+
+A downgrade in our credit ratings by one or more rating agencies could materially and negatively impact our business, financial condition, results of operations and/or liquidity.
+
+     In the fourth quarter of 2005, Standard & Poor’s, a division of The McGraw-Hill Companies, Inc. (“S&P”) lowered XL Capital’s core property and casualty operating
+companies’ financial strength ratings to “A+” from “AA-” and affirmed them with a stable outlook. During this period, Moody’s Investors Service, Inc. (“Moody’s”) also lowered the insurance financial
+strength ratings of XL Capital’s leading insurance operating subsidiaries to “Aa3” from “Aa2” and confirmed the insurance financial strength ratings of XL Capital’s leading reinsurance operating subsidiaries at
+“Aa3”. In October 2005, Fitch Ratings Inc. (“Fitch”) lowered the insurance financial strength ratings of XL Capital’s lead insurance and reinsurance operating subsidiaries to “AA-” from “AA.” A.M. Best
+Company, Inc. (“A.M. Best”) affirmed XL Capital’s financial strength rating of “A+” and XL Capital’s operating subsidiaries’ issuer credit ratings of “aa-” in December 2005. As our ability to underwrite
+business is dependent upon the quality of our claims paying and financial strength ratings as evaluated by these independent rating agencies, a further downgrade by any of these institutions could cause our competitive position in the insurance and
+reinsurance industry to suffer and make it more difficult for us to market our products. A downgrade could also result in a substantial loss of business for us as ceding companies and brokers that place such business may move to other insurers and
+reinsurers with higher ratings.
+
+     A downgrade of the A.M. Best financial strength rating of XL Capital Ltd, XL Insurance (Bermuda) Ltd or XL Re Ltd below “A-”, which is two notches below our current A.M. Best rating
+of “A+”, would constitute an event of default under our letter of credit and revolving credit facilities. A similar downgrade by A.M. Best or S&P would trigger cancellation provisions in the majority of our assumed reinsurance
+contracts. See “—Risks Related to Our Company—A decline in our ratings may allow many of our clients to terminate their contracts with us,” below. Either of these events could reduce our financial flexibility and materially
+adversely affect our business, financial condition and results of operations. For further discussion, see Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”.
+
+     S&P, Moody’s and Fitch have assessed “triple-A” (outlook stable) financial strength ratings to our financial guaranty companies, XL Capital Assurance Inc. (“XLCA”)
+and XL Financial Assurance Ltd. (“XLFA”). A downgrade, rating watch or outlook change of the financial strength ratings of XLCA or XLFA by one or more rating agencies would have an adverse effect on the competitive position of XLCA and
+XLFA and reduce their future business opportunities. Such a downgrade would reduce the value of the reinsurance offered by XLFA, as financial guaranty primary insurers usually must obtain triple-A-rated reinsurance to qualify for a 100% reinsurance
+credit on the rating agencies’ capital adequacy models. Also, certain of XLFA’s reinsurance agreements contain provisions that allow the ceding primary insurer to terminate the agreement in the event of a downgrade in XLFA’s credit
+ratings or other event that would result in the reinsurance credit provided by XLFA to the ceding primary insurer being diminished. To address rating agency requirements regarding the differential between the triple-A ratings of our financial
+guaranty companies and their affiliated companies in the XL Group, we are currently exploring a number of strategies that would provide greater independence and stability to XLCA’s and XLFA’s ratings. Examples of actions identified by the
+rating agencies are, among other things, the inclusion of additional independent directors to the boards of directors of our financial guaranty companies; adding some level of outside high-quality ownership with voting and/or veto rights; and
+securing a resolution from each of the boards of directors of our financial guaranty companies that clarifies
+
+29
+
+
+
+
+
+
+
+our expectations regarding cash payments from the financial guaranty companies. S&P has stated that one or more of these actions will need to be taken by mid-year 2006.
+
+A decline in our ratings may allow many of our clients to terminate their contracts with us.
+
+     The majority of our assumed reinsurance contracts contain provisions that would allow our clients to cancel the contract in the event of a downgrade in our ratings below specified levels by one
+or more rating agencies. Based on premium value, approximately 70% of our reinsurance contracts that incepted at January 1, 2005 contained provisions allowing clients additional rights upon a decline in our ratings.
+
+     Typically, the cancellation provisions in our assumed reinsurance contracts would be triggered if S&P or A.M. Best were to downgrade our financial strength ratings below “A-”,
+which is equivalent to more than two levels below our current S&P rating of “A+” and more than two levels below our current A.M. Best rating of “A+”. Whether a client would exercise its cancellation rights after such a
+downgrade would likely depend, among other things, on the reasons for the downgrade, the extent of the downgrade, the prevailing market conditions, the degree of unexpired coverage, and the pricing and availability of replacement reinsurance
+coverage. In the event of such a downgrade, we cannot predict whether or how many of our clients would actually exercise such cancellation rights or the extent to which any such cancellations would have a material adverse effect on our financial
+condition or future prospects.
+
+Losses related to Hurricanes Katrina, Rita and Wilma and other natural catastrophes have adversely affected our fiscal year 2005 results and uncertainty regarding estimated losses may further impact our financial
+condition, results of operations and/or liquidity.
+
+     Based on current loss reports and estimates at December 31, 2005, we had pre-tax net losses arising from Hurricanes Katrina, Rita and Wilma and the combined impact of other previously announced
+natural catastrophes in 2005 of approximately $1.27 billion, $357.9 million, $247.1 million and $96.0 million, respectively. After taking into account net reinstatement premiums and tax effects, we had net losses due to these
+catastrophes of approximately $1.87 billion. However, calculating such estimates involves the exercise of considerable judgment and they are accordingly subject to revision. These losses have materially adversely affected our fiscal year 2005
+results.
+
+     Our loss estimates are based upon a review of contracts that we believe are exposed to these catastrophes, loss reports received from brokers and cedents, industry loss models and
+management’s best judgment, including as to the availability and collectibility of reinsurance. We expect that the loss adjustment processes for Hurricanes Katrina and Rita will be protracted due to the unprecedented complexity and scale of
+these events.
+
+     Actual losses may vary materially from our estimates. Such variances may be caused by a number of factors, including receipt of additional information from insureds or brokers, the attribution
+of losses to coverages that had not previously been considered as exposed and inflation in repair costs due to additional demand for labor and materials. In addition, such loss estimates include a high level of uncertainty related to, among other
+things, complex coverage issues, claims data received to date and potential legal developments that may result in ultimate losses not being known for a considerable period of time as well as the availability and collectibility of reinsurance.
+Therefore, these losses may ultimately be materially greater than currently estimated. If our actual losses exceed our estimates, our financial condition and results of operations could be further materially adversely affected.
+
+We have exhausted certain of our reinsurance and retrocessional coverage with respect to losses related to Hurricanes Katrina, Rita and Wilma leaving us exposed to further losses.
+
+     Based on our current estimates of losses related to Hurricanes Katrina, Rita and, to a lesser degree, Wilma, we believe that we have exhausted portions of our reinsurance and retrocessional
+coverage with respect to such losses, meaning that, in certain cases, we will have no further reinsurance or retrocessional coverage available should our losses related to Hurricanes Katrina, Rita and Wilma prove to be greater than current
+estimates. If losses related to Hurricanes Katrina, Rita and Wilma prove to be greater than current estimates, to the extent that such adverse development affects lines of business with respect to which we have exhausted our reinsurance or
+retrocessional coverage, such adverse development could have a further material adverse effect on our financial condition and results of opera-
+
+30
+
+
+
+
+
+
+
+tions. We cannot assure you that reinsurance or retrocessional coverage with respect to the lines of business affected by the Hurricanes Katrina, Rita and Wilma will be available to us on acceptable terms, or at all, in the
+future. Elimination of all or portions of our reinsurance or retrocessional coverage could subject us to increased, and possibly material, exposure or could cause us to underwrite less business.
+
+We may be unable to make full recovery of the reinsurance recoverables related to the Winterthur Business, either from third parties or from Winterthur Swiss Insurance Company (“WSIC”).
+
+     Under the terms of the Sale and Purchase Agreement, as amended, between XL Insurance (Bermuda) Ltd and WSIC (the “SPA”), WSIC provides us with protection with respect to third party
+reinsurance receivables and recoverables related to our acquisition of certain Winterthur International insurance operations (the “Winterthur Business”), which were approximately $1.6 billion, in the aggregate, as of December 31, 2005.
+There are two levels of protection from WSIC for these balances:
+
+
+       
+        
+1.     
+        
+At the time of the Winterthur International acquisition,
+the Seller provided to the Company a liquidity facility. At the time of the payment
+of the net reserve seasoned amount on December 12, 2005, the Company exercised
+its  right to repay up to the balances outstanding on this facility by assignment
+to WSIC of an equal amount of receivables relating to reinsurance recoverables
+selected by the Company. During December 2005, the Company assigned $265.4
+million of receivables to WSIC under this arrangement, although WSIC has disputed
+the assignment of certain of these receivables
+
+
+   
+   
+   
+
+
+   
+        
+2.
+        
+Under two retrocession agreements the Company has reinsurance
+protection on the reinsurance recoverables with respect to the SNRA determined
+as of June 30, 2004 to the extent that the Company does not receive payment of
+ such amounts from applicable reinsurers with one agreement providing a limit
+of $1.3 billion for the insurance written in the period to June 30, 2001
+and the other agreement providing a limit of $1.3 billion for the insurance
+written in the  period to December 31, 2000.
+
+
+
+     Certain reinsurers responsible for some portions of the reinsurance of the Winterthur Business have raised issues as to whether amounts claimed are due
+and discussions are currently ongoing to achieve a resolution. 
+
+     We may record a loss in future periods if any or some of the following occur and any such loss could have a material adverse effect on our financial condition and results of
+operations:
+
+
+there is deterioration of the net reserves and premium balances relating to the Winterthur Business from what was reported in our Consolidated Financial Statements; and/or
+
+
+
+we are unable to make full recovery of the reinsurance recoverables related to the Winterthur Business, either from third parties or from WSIC under the additional protections described
+above.
+
+
+Our financial condition could be adversely affected by the occurrence of disasters.
+
+     We have substantial exposure to losses resulting from natural and man-made disasters and other catastrophic events. Catastrophes can be caused by various events, including hurricanes,
+earthquakes, floods, hailstorms, explosions, severe winter weather, fires, war, acts of terrorism, political instability and other natural or man-made disasters. The incidence and severity of catastrophes are inherently unpredictable and our losses
+from catastrophes could be substantial.
+
+     The occurrence of claims from catastrophic events is likely to result in substantial volatility in our financial condition and results of operations for the fiscal quarter or year in which a
+catastrophic event occurs, as well as subsequent fiscal periods, and could have a material adverse effect on our financial condition and results of operations and our ability to write new business. This risk is exacerbated due to accounting
+principles and rules that do not permit reinsurers to reserve for such catastrophic events until they occur. We expect that increases in the values and concentrations of insured property will increase the severity of catastrophic events in the
+future. Although we attempt to manage our exposure to catastrophic events, a single catastrophic event could affect multiple geographic zones and lines of business and the frequency or severity of catastrophic events could exceed our estimates, in
+each case potentially
+
+31
+
+
+
+
+
+
+
+having a material adverse effect on our financial condition and results of operations. In addition, while we may, depending on market conditions, purchase catastrophe reinsurance and retrocessional protection, the
+occurrence of one or more major catastrophes in any given period could result in losses that exceed such reinsurance and retroces-sional protection and have a material adverse effect on our financial condition and results of operations and result in
+substantial liquidation of investments and outflows of cash as losses are paid.
+
+The failure of any of the risk management strategies that we employ could have a material adverse effect on our financial condition, results of operations and/or liquidity.
+
+     We seek to limit our loss exposure by, among other things, writing a number of our reinsurance contracts on an excess of loss basis, adhering to maximum limitations on reinsurance written in
+defined geographical zones, limiting program size for each client and prudently underwriting each program written. In addition, in the case of proportional treaties, we generally seek to use per occurrence limitations or loss ratio caps to limit the
+impact of losses from any one event. We cannot be sure that all of these loss limitation methods will have the precise risk management impact intended. For instance, although we also seek to limit our loss exposure by geographic diversification,
+geographic zone limitations involve significant underwriting judgments, including as to the determination of the area of the zones and the inclusion of a particular policy within a particular zone’s limits. Underwriting involves the exercise of
+considerable judgment and the making of important assumptions about matters that are inherently unpredictable and beyond our control, and for which historical experience and probability analysis may not provide sufficient guidance. The failure of
+any of the risk management strategies that we employ could have a material adverse effect on our financial condition and results of operations. Also, we cannot assure you that various provisions of our policies, such as limitations or exclusions
+from coverage or choice of forum, will be enforceable in the manner that we intend and disputes relating to coverage and choice of legal forum may arise, which could materially adversely affect our financial condition and results of
+operations.
+
+The failure of our initiative to reduce our net catastrophe exposed risks could have a material adverse effect on our financial condition, results of operations and/or liquidity.
+
+     Certain of our insurance accounts have the potential for significant volatility under worsening catastrophe event scenarios. In connection with our initiative to reduce our net catastrophe
+exposed risks, we intend to reduce exposure from such accounts, reduce catastrophe sublimits and eliminate insurance accounts that no longer meet our increased pricing needs. In addition, we plan to reduce our reinsurance catastrophe exposure within
+the property risk portfolio and restructure the way in which our marine excess of loss programs are written. If we are unable to carry out our initiative to reduce our net catastrophe exposed risks, or do so on a timely basis, we may not be able to
+meet rating agencies’ additional capital requirements and our financial condition and results of operations and/or liquidity could be materially adversely affected.
+
+If actual claims exceed our loss reserves, our financial results could be adversely affected.
+
+     Our results of operations and financial condition depend upon our ability to assess accurately the potential losses associated with the risks that we insure and reinsure. We establish reserves
+for unpaid losses and loss adjustment expense (“LAE”) liabilities, which are estimates of future payments of reported and unreported claims for losses and related expenses with respect to insured events that have occurred. The process of
+establishing reserves for property and casualty claims can be complex and is subject to considerable variability as it requires the use of informed estimates and judgments. Actuarial estimates of unpaid loss and LAE liabilities are subject to
+potential errors of estimation, which could be significant, due to the fact that the ultimate disposition of claims incurred prior to the date of such estimation, whether reported or not, is subject to the outcome of events that have not yet
+occurred. Examples of these events include the accuracy of the factual information on which the estimates were based, especially as this develops, jury decisions, court interpretations, legislative changes, changes in the medical condition of
+claimants, public attitudes, and economic conditions such as inflation. Any estimate of future costs is subject to the inherent limitation on the ability to predict the aggregate course of future events. It should therefore be expected that the
+actual emergence of loss and LAE liabilities will vary, perhaps materially, from any estimate. We have an actuarial staff in
+
+32
+
+
+
+
+
+
+
+each of our operating segments that regularly evaluates the levels of loss reserves, taking into consideration factors that may impact the ultimate losses incurred. Any such evaluation could result in future changes in
+estimates of losses or reinsurance recoverable and would be reflected in our results of operations in the period in which the estimates are changed. Losses and loss expenses, to the extent that they exceed the applicable reserves, are charged to
+income as incurred. The reserve for unpaid losses and loss expenses represents the estimated ultimate losses and loss expenses less paid losses and loss expenses, and comprises case reserves and incurred but not reported loss reserves
+(“IBNR”). During the loss settlement period, which can span many years in duration for casualty business, additional facts regarding individual claims and trends often will become known and case reserves may be adjusted by allocation from
+IBNR without any change in the overall reserve. In addition, application of statistical and actuarial methods may require the adjustment of the overall reserves upward or downward from time to time. Accordingly, the ultimate settlement of losses may
+be significantly greater than or less than reported loss and loss expense reserves.
+
+Operational risks, including human or systems failures, are inherent in our business.
+
+     Operational risk and losses can result from, among other things, fraud, errors, failure to document transactions properly or to obtain proper internal authorization, failure to comply with
+regulatory requirements, information technology failures, or external events.
+
+     We believe that our modeling, underwriting and information technology and application systems are critical to our business. Moreover, our information technology and application systems have
+been an important part of our underwriting process and our ability to compete successfully. We have also licensed certain systems and data from third parties. We cannot be certain that we will have access to these, or comparable, service providers,
+or that our information technology or application systems will continue to operate as intended. A major defect or failure in our internal controls or information technology and application systems could result in management distraction, harm to our
+reputation or increased expense. We believe appropriate controls and mitigation procedures are in place to prevent significant risk of defect in our internal controls, information technology and application systems, but internal controls provide
+only reasonable, not absolute, assurance as to the absence of errors or irregularities and any ineffectiveness of such controls and procedures could have a material adverse effect on our business.
+
+The effects of emerging claim and coverage issues on our business are uncertain.
+
+     As industry practices and legal, judicial, social and other environmental conditions change, unexpected issues related to claims and coverage may emerge. These issues may adversely affect our
+business by either extending coverage beyond our underwriting intent or by increasing the number or size of claims. In some instances, these changes may not become apparent until some time after we have issued the insurance or reinsurance contracts
+that are affected by the changes. For example, our actual losses in connection with the 2005 natural catastrophes may vary materially from our current estimate based on a number of factors, including receipt of additional information from insureds
+or brokers, the attribution of losses to coverages that had not previously been considered as exposed and inflation in repair costs due to additional demand for labor and materials. As a result, the full extent of liability under an insurance or
+reinsurance contract may not be known for many years after such contract is issued.
+
+We may require additional capital in the future, which may not be available to us on satisfactory terms, or at all.
+
+     Our future capital requirements depend on many factors, including our ability to write new business successfully and to establish premium rates and reserves at levels sufficient to cover our
+losses. To the extent that the funds generated by our ongoing operations are insufficient to fund future operating requirements and cover claim payments, we may need to raise additional funds through financings or curtail our growth and reduce our
+assets. Any future equity or debt financing may not be available on terms that are favorable to us, if at all. Any future equity financings could be dilutive to our existing shareholders or could result in the issuance of securities that have
+rights, preferences and privileges that are senior to those of our other securities. Our inability to obtain adequate capital could have a material adverse effect on our business, financial condition and results of operations.
+
+33
+
+
+
+
+
+
+
+We may be unable to purchase reinsurance and, even if we are able to successfully purchase reinsurance, we are subject to the possibility of uncollectability.
+
+     We purchase reinsurance for our own account in order to mitigate the volatility that losses impose on our financial condition. Our clients purchase reinsurance from us to cover part of the risk
+originally written by them. Retrocessional reinsurance
+involves a reinsurer ceding to another reinsurer, the retrocessionaire, all or
+part of the reinsurance that the first reinsurer has assumed. Reinsurance, including
+retrocessional reinsurance, does not legally discharge the ceding company from
+its liability with respect to its obligations to its insureds or reinsureds.
+A reinsurer’s or retrocessionaire’s insolvency, inability or refusal to make timely payments under the terms of its
+agreements with us, therefore, could have a material adverse effect on us because we remain liable to our insureds and reinsureds. At December 31, 2005, we had approximately $7.5 billion of reinsurance recoverables, net of reserves for
+uncollectible recoverables. For further information regarding our reinsurance exposure, see Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”.
+
+     From time to time, market conditions may limit or prevent us from obtaining the types and amounts of reinsurance that we consider adequate for our business needs such that we may not be able to
+obtain reinsurance or retroces-sional reinsurance from entities with satisfactory creditworthiness in amounts that we deem desirable or on terms that we deem appropriate or acceptable.
+
+Since we depend on a few brokers for a large portion of our revenues, loss of business provided by any one of them could adversely affect us.
+
+     We market our insurance and reinsurance products worldwide primarily through insurance and reinsurance brokers. Marsh & McLennan Companies and AON Corporation and their respective
+subsidiaries provided approximately 21% and 17%, respectively, of our gross written premiums from general operations for the year ended December 31, 2005. Loss of all or a substantial portion of the business provided by one or more of these brokers
+could have a material adverse effect on our business.
+Our reliance on brokers subjects us to credit risk.
+
+     In certain jurisdictions, when an insured or ceding insurer pays premiums for policies of insurance or contracts of reinsurance to brokers for further payment to us, such premiums might be
+considered to have been paid and the insured or ceding insurer will no longer be liable to us for such amounts, whether or not we have actually received the premiums from the broker. In addition, in accordance with industry practice, we generally
+pay amounts owed on claims under our reinsurance contracts to brokers, and these brokers, in turn, pay these amounts over to the clients that have purchased reinsurance from us. Although the law is unsettled and depends upon the facts and
+circumstances of the particular case, in some jurisdictions, if a broker fails to make such a claims payment to the insured or ceding insurer, we might remain liable to the insured or ceding insurer for that non-payment. Consequently, we assume a
+degree of credit risk associated with the brokers with whom we transact business. Due to the unsettled and fact-specific nature of the law governing these types of scenarios, we are unable to quantify our exposure to this risk. To date, we have not
+experienced any material losses related to such credit risks.
+
+Our investment performance may adversely affect our financial results and ability to conduct business.
+
+     Our funds are invested by a number of professional investment advisory management firms under the direction of our management team in accordance with detailed investment guidelines set by us.
+Although our investment policies stress diversification of risks, conservation of principal and liquidity, our investments are subject to market-wide risks and fluctuations, as well as to risks inherent in particular securities. Investment losses
+could significantly decrease our asset base, thereby adversely affecting our ability to conduct business and pay claims.
+We may be adversely affected by interest rate changes.
+
+     Our operating results are affected, in part, by the performance of our investment portfolio. Our investment portfolio contains interest rate sensitive instruments, such as fixed income
+securities, which may be adversely affected by
+
+34
+
+
+
+
+
+
+
+changes in interest rates. Changes in interest rates could also have an adverse effect on our investment income and results of operations. For example, if interest rates decline, funds reinvested will earn less than
+expected.
+
+     Interest rates are highly sensitive to many factors, including governmental monetary policies, domestic and international economic and political conditions and other factors beyond our control.
+Although we take measures to manage the economic risks of investing in a changing interest rate environment, we may not be able to mitigate the interest rate risk of our assets relative to our liabilities. Our mitigation efforts with respect to
+interest rate risk are primarily focused towards maintaining an investment portfolio with diversified maturities that has a weighted average duration that is approximately equal to the duration of estimated future paid liabilities. However, our
+estimate of future paid liabilities may be inaccurate and we may be forced to liquidate investments prior to maturity at a loss in order to cover liabilities. In addition, even if the duration of our fixed income portfolio perfectly matched future
+paid liabilities, a sharp rise in interest rates would cause the market value of our fixed income portfolio to decline and could have a material adverse effect on our book value.
+
+     For further information regarding our exposure to interest rate risk and other investment portfolio risks, see Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market
+Risk”.
+
+Our operating results may be adversely affected by currency fluctuations.
+
+     Our functional currency is the U.S. dollar and exchange rate fluctuations relative to the U.S. dollar may materially impact our financial position and results of operations. Many of our
+non-U.S. subsidiaries maintain both assets and liabilities in local currencies, which exposes us to changes in currency exchange rates to the extent that we need to convert U.S. dollars into such local currencies or vice versa. In addition,
+locally-required capital levels are invested in home currencies in order to satisfy regulatory requirements and to support local insurance operations regardless of currency fluctuations. Foreign exchange rate risk is reviewed as part of our risk
+management process. The principal currencies creating foreign exchange risk for us are the British pound sterling, the euro and the Swiss franc.
+
+     While we utilize derivative instruments such as futures, options and foreign currency forward contracts to, among other things, manage our foreign currency exposure, it is possible that these
+instruments will not effectively mitigate all or a substantial portion of our foreign exchange rate risk.
+
+Current legal and regulatory activities relating to insurance brokers and agents, contingent commissions and certain finite-risk insurance products could adversely affect our business, financial condition and results
+of operations.
+
+     Contingent commission arrangements and finite-risk reinsurance have become the focus of investigations by the U.S. Securities and Exchange Commission (the “SEC”) and U.S.
+Attorney’s Offices and state Attorneys General. Finite-risk reinsurance has been defined as a form of reinsurance in which, among other things, the time value of money is considered in the product’s design and pricing, and there is less
+risk transfer to the insurer or reinsurer in return for less premium being paid.
+
+     In May and June of 2005, we received a subpoena from the SEC and a grand jury subpoena from the U.S. Attorney’s Office for the Southern District of New York, respectively, in each case for
+documents and information relating to certain finite risk and loss mitigation insurance products. We are fully cooperating with, and responding to, these requests.
+
+     On August 1, 2005, plaintiffs in a proposed class action multi-district lawsuit (the “MDL”) filed a consolidated amended complaint, which named as new defendants in the pending action
+approximately 30 entities, including XL Capital Ltd and its subsidiaries XL Insurance America, Inc., Greenwich Insurance Company and Indian Harbor Insurance Company. In the MDL, named plaintiffs have asserted various claims, purportedly on behalf
+of a class of commercial insureds, against approximately 113 insurance companies and insurance brokers through which the named plaintiffs allegedly purchased insurance. The amended complaint alleges that the defendant insurance companies and
+insurance brokers conspired to manipulate bidding practices for insurance policies in certain insurance lines and failed to disclose certain commission arrangements. The named plaintiffs have asserted statutory claims under the
+
+35
+
+
+
+
+
+
+
+Sherman Act, various state antitrust laws and the Racketeer Influenced and Corrupt Organizations Act, as well as common law claims alleging breach of fiduciary duty, aiding and abetting a breach of fiduciary duty and unjust
+enrichment.
+
+     From time to time, we have also received and responded to additional requests from state Attorneys General and insurance regulators for information relating to our contingent commission
+arrangements with brokers and agents, and our insurance and reinsurance practices in connection with certain finite-risk and loss mitigation insurance products. Similarly, our affiliates outside the United States have, from time to time, received
+and responded to requests from regulators relating to our insurance and reinsurance practices. We are fully cooperating with these requests.
+
+     At this time, we are unable to predict the potential effects, if any, that these investigations may have upon us, the insurance and reinsurance markets in general or industry and reinsurance
+business practices or what, if any, changes may be made to laws and regulations regarding the industry and financial reporting. Any of the foregoing could adversely affect our business, financial condition and results of operations.
+
+The loss of one or more key executives or the inability to attract and retain qualified personnel could adversely affect our ability to conduct business.
+
+     Our success depends on our ability to retain the services of our existing key executives and to attract and retain additional qualified personnel in the future. The loss of the services of any
+of our key executives or the inability to hire and retain other highly qualified personnel in the future could adversely affect our ability to conduct our business. In addition, we do not maintain key man life insurance policies with respect to our
+employees.
+
+     Many of our senior executives working in Bermuda are not Bermudian and our success may depend in part on the continued services of key employees in Bermuda. Under Bermuda law, non-Bermudians
+(other than spouses of Bermudians and holders of permanent resident certificates) may not engage in any gainful occupation in Bermuda without an appropriate governmental work permit. A work permit may be granted or renewed by the Bermuda government
+for a specific period of time, upon showing that, after proper public advertisement, no Bermudian (or spouse of a Bermudian or holder of a permanent resident certificate) is available who meets the minimum standards reasonably required by an
+employer with respect to a certain position. The government of Bermuda places a six-year term limit on individuals with work permits, subject to certain exemptions for key employees. No assurances can be given that any work permit will be issued or,
+if issued, renewed upon the expiration of the relevant term.
+
+Because we are a holding company, if our subsidiaries do not make dividend and other payments to us, we may not be able to pay dividends or make payments on our debt securities and other obligations.
+
+     As a holding company with no direct operations or significant assets other than the capital stock of our subsidiaries, we rely on investment income, cash dividends and other permitted payments
+from our subsidiaries to make principal and interest payments on our debt, to pay operating expenses and common and preferred shareholder dividends and to pay other obligations of ours that may arise from time to time. We expect future investment
+income, dividends and other permitted payments from these subsidiaries to be our principal source of funds to pay such expenses, preferred and common stock dividends and obligations. The payment of dividends to us by our insurance and reinsurance
+subsidiaries is limited under Bermuda laws and certain insurance statutes of various states in the United States in which our insurance and reinsurance subsidiaries are licensed to transact business.
+
+     Our U.S. insurance and reinsurance subsidiaries are subject to state regulatory restrictions that generally require cash dividend to be paid only out of earned statutory surplus. Further, the
+amount payable without the prior approval of the applicable state insurance department is generally limited to the greater of 10% of policyholders’ surplus or statutory capital, or 100% of the subsidiary’s prior year statutory net income.
+In addition, Bermuda insurance laws and regulations (i) require our insurance and reinsurance subsidiaries to maintain certain minimum solvency margins and minimum liquidity ratios, (ii) prohibit dividends that would result in a breach of these
+requirements, and (iii) limit the amount by which we can reduce surplus without prior approval from the Bermuda Monetary Authority.
+
+36
+
+
+
+
+
+
+
+     In addition, the ability of our insurance and reinsurance subsidiaries to pay dividends could be constrained by our dependence on financial strength ratings from independent rating agencies.
+Our ratings from these agencies depend to a large extent on the capitalization levels of our insurance and reinsurance subsidiaries. Any such restriction on our insurance and reinsurance subsidiaries’ ability to pay dividends to us could have a
+material adverse effect on our financial condition and results of operations. Our insurance and reinsurance subsidiaries may not always be able to, or may not, pay preferred and common stock dividends to us sufficient to make our debt payments and
+pay our operating expenses, shareholder dividends or other obligations. 
+Risks Related to Our Industry
+
+The insurance and reinsurance industries are historically cyclical and we may experience periods with excess underwriting capacity and unfavorable premium rates.
+
+     The insurance and reinsurance industries have historically been cyclical, characterized by periods of intense price competition due to excess underwriting capacity as well as periods when
+shortages of capacity permitted favorable premium levels. An increase in premium levels is often offset by an increasing supply of insurance and reinsurance capacity, either by capital provided by new entrants or by the commitment of additional
+capital by existing insurers or reinsurers, which may cause prices to decrease. Either of these factors could lead to a significant reduction in premium rates, less favorable policy terms and conditions and fewer submissions for our underwriting
+services. In addition to these considerations, changes in the frequency and severity of losses suffered by insureds and insurers may affect the cycles of the insurance and reinsurance industries significantly.
+
+Competition in the insurance and reinsurance industries could reduce our operating margins.
+
+     The insurance and reinsurance industries are highly competitive. We compete on an international and regional basis with major U.S., Bermudian, European and other international insurers and
+reinsurers and with underwriting syndicates, some of which have greater financial and management resources than we do. We also compete with new companies that continue to be formed to enter the insurance and reinsurance markets. In addition, capital
+market participants have recently created alternative products that are intended to compete with reinsurance products. Increased competition could result in fewer submissions, lower premium rates and less favorable policy terms and conditions, which
+could reduce our margins.
+
+Unanticipated losses from terrorism and uncertainty surrounding the future of the Terrorism Risk Insurance Act of 2002 could have a material adverse effect on our financial condition and results of operations.
+
+
+     Following the September 11th terrorist attacks, the Terrorism Risk Insurance Act of 2002, as amended by the Terrorism Risk Insurance Extension Act of 2005, (“TRIA”) was enacted to
+ensure the availability of insurance coverage for “certified” acts of terrorism in the U.S and is scheduled to expire on December 31, 2007. Pursuant to TRIA, in the event of a “certified” act of terrorism, the U.S. Government may
+become liable to pay, above a specified deductible, a portion of up to 90% of our U.S. insurance operations’ losses in fiscal years 2005 and 2006 and 85% of such losses in fiscal year 2007. This deductible is based on prior year gross written
+premiums for certain commercial lines multiplied by a specified percentage, which is 15%, 17.5% and 20% for fiscal years 2005, 2006 and 2007, respectively. Given the incremental increase in the deductible percentage, the amount of our deductible for
+2007 could increase substantially, depending upon the amount of certain direct commercial earned premiums written in 2006. Insurance companies are allowed to purchase commercial reinsurance for their deductible amounts and quota share exposure,
+however to date there has not been a viable market for such reinsurance coverage in terms of capacity, price or coverage terms. Currently, there is uncertainty as to what effect the changes to TRIA will have on the insurance industry.
+
+     Our Lloyds & U.S.-based property and casualty insurers are subject to TRIA. Accordingly, TRIA does not apply to our non-U.S. and non-Lloyds insurance business, or our reinsurance
+operations.
+
+37
+
+
+
+
+
+
+
+     While we believe our risk management programs, together with the coverage provided under the TRIA are sufficient to reasonably limit our net losses relating to potential future terrorist
+attacks, we can offer no assurance in that regard. It is not possible to eliminate completely our exposure to unforecasted or unpredictable events, and to the extent that losses from such risks occur, our financial condition and results of
+operations could be materially adversely affected. In addition, despite the implementation and extension of the TRIA there remains an uncertainty regarding the future of terrorism coverage should the U.S. government not further extend the TRIA after
+its expiration on December 31, 2007, or pass subsequent terrorism legislation.
+
+     Potential government intervention in our industry as a result of recent events and instability in the marketplace for insurance products could hinder our flexibility and negatively affect
+the business opportunities that may be available to us in the market.
+
+     Government intervention and the possibility of future government intervention have created uncertainty in the insurance and reinsurance markets. Government regulators are generally concerned
+with the protection of policyhold-ers to the exclusion of other constituencies, including shareholders of insurers and reinsurers. While we cannot predict the exact nature, timing or scope of possible governmental initiatives, such proposals could
+adversely affect our business by, among other things:
+
+
+Providing insurance and reinsurance capacity in markets and to consumers that we target;
+
+Requiring our participation in industry pools and guaranty associations;
+
+Expanding the scope of coverage under existing policies, e.g., following large disasters such as Hurricanes Katrina and Rita;
+
+Regulating the terms of insurance and reinsurance policies; or
+
+Disproportionately benefiting the companies of one country over those of another.
+
+
+     The insurance industry is also affected by political, judicial and legal developments that may create new and expanded theories of liability, which may result in unexpected claims frequency
+& severity and delays or cancellations of products and services by insureds, insurers and reinsurers which could adversely affect our business.
+Risks Related to Regulation
+
+The regulatory regimes under which we operate, and potential changes thereto, could have a material adverse effect on our business.
+
+     Our insurance and reinsurance subsidiaries operate in 29 countries around the world as well as in all 50 U.S. states. Our operations in each of these jurisdictions are subject to varying
+degrees of regulation and supervision. The laws and regulations of the jurisdictions in which our insurance and reinsurance subsidiaries are domiciled require, among other things, that these subsidiaries maintain minimum levels of statutory capital,
+surplus and liquidity, meet solvency standards, submit to periodic examinations of their financial condition and restrict payments of dividends and reductions of capital. Statutes, regulations and policies that our insurance and reinsurance
+subsidiaries are subject to may also restrict the ability of these subsidiaries to write insurance and reinsurance policies, make certain investments and distribute funds.
+
+     In recent years, the U.S. insurance regulatory framework has come under increased federal scrutiny. In addition, some state legislatures have considered or enacted laws that may alter or
+increase state regulation of insurance and reinsurance companies and holding companies. Moreover, the National Association of Insurance Commissioners, which is the organization of insurance regulators from the 50 U.S. states, the District of
+Columbia and the four U.S. territories, as well as state insurance regulators regularly reexamine existing laws and regulations.
+
+     We may not be able to comply fully with, or obtain desired exemptions from, revised statutes, regulations and policies that govern the conduct of our business. Failure to comply with, or to
+obtain desired authorizations and/or exemptions under, any applicable laws could result in restrictions on our ability to do business or undertake activities that are regulated in one or more of the jurisdictions in which we operate and could
+subject us to fines and other sanc-
+
+38
+
+
+
+
+
+
+
+tions. In addition, changes in the laws or regulations to which our insurance and reinsurance subsidiaries are subject, or in the interpretations thereof by enforcement or regulatory agencies, could have a material adverse
+effect on our business.
+
+If our Bermuda operating subsidiaries become subject to insurance statutes and regulations in jurisdictions other than Bermuda or if there is a change in Bermuda law or regulations or the application of Bermuda law or
+regulations, there could be a significant and negative impact on our business.
+
+     XL Insurance (Bermuda) Ltd and XL Re Ltd, two of our wholly-owned operating subsidiaries, are registered Bermuda Class 4 insurers. As such, they are subject to regulation and supervision in
+Bermuda. Bermuda insurance statutes and the regulations and policies of the Bermuda Monetary Authority require XL Insurance (Bermuda) Ltd and XL Re Ltd to, among other things:
+
+
+maintain a minimum level of capital and surplus;
+
+maintain solvency margins and liquidity ratios;
+
+restrict dividends and distributions;
+
+obtain prior approval regarding the ownership and transfer of shares;
+
+maintain a principal office and appoint and maintain a principal representative in Bermuda;
+
+file an annual statutory financial return; and
+
+allow for the performance of certain periodic examinations of XL Insurance (Bermuda) Ltd and XL Re Ltd and their respective financial conditions.
+
+
+     These statutes and regulations may restrict our ability to write insurance and reinsurance policies, distribute funds and pursue our investment strategy.
+
+     We do not presently intend for XL Insurance (Bermuda) Ltd and XL Re Ltd to be admitted to do business in the United States, the United Kingdom or any jurisdiction other than Bermuda. However,
+we cannot assure you that insurance regulators in the United States, the United Kingdom or elsewhere will not review the activities of XL Insurance (Bermuda) Ltd or XL Re Ltd, their respective subsidiaries or their agents and claim that XL Insurance
+(Bermuda) Ltd or XL Re Ltd is subject to such jurisdiction’s licensing requirements. If any such claim is successful and XL Insurance (Bermuda) Ltd or XL Re Ltd must obtain licenses in a jurisdiction other than Bermuda, we may be subject to taxation in such jurisdiction.
+
+     In addition, XL Insurance (Bermuda) Ltd and XL Re Ltd are subject to indirect regulatory requirements imposed by jurisdictions that may limit their ability to provide insurance or reinsurance
+to that jurisdiction’s domestic insurers or reinsurers. For example, the ability of XL Insurance (Bermuda) Ltd and XL Re Ltd to write insurance or reinsurance may be subject, in certain cases, to a country’s limits on how much reinsurance
+can be purchased from non-domestic reinsurers or requirements that such non-domestic reinsurers collateralize their payment obligations to domestic ceding companies. If we are unable to collateralize or provide other credit support for these
+reinsurance clients on commercially reasonable terms, we could be limited in our ability to write business for some of our clients. Proposed legislation and regulations may have the effect of imposing additional requirements upon, or restricting the
+market for, non-domestic insurers or reinsurers with whom domestic companies place business.
+
+     Generally, Bermuda insurance statutes and regulations applicable to XL Insurance (Bermuda) Ltd and XL Re Ltd are less restrictive than those that would be applicable if they were governed by
+the laws of any state in the United States. If in the future we become subject to any insurance laws of the United States or any state thereof or of any other jurisdiction, we cannot assure you that we would be in compliance with such laws or that
+complying with such laws would not have a significant and negative effect on our business.
+
+     The process of obtaining licenses is very time consuming and costly and XL Insurance (Bermuda) Ltd and XL Re Ltd may not be able to become licensed in jurisdictions other than Bermuda should we
+choose to do so. The modification of the conduct of our business that would result if we were required or chose to become licensed in certain jurisdictions could significantly and negatively affect our financial condition and results of operations.
+In addi-
+
+39
+
+
+
+
+
+
+
+tion, our inability to comply with insurance statutes and regulations could significantly and adversely affect our financial condition and results of operations by limiting our ability to conduct business as well as
+subjecting us to penalties and fines.
+
+     Because XL Insurance (Bermuda) Ltd and XL Re Ltd are Bermuda companies, they are subject to changes in Bermuda law and regulation that may have an adverse impact on our operations, including
+through the imposition of tax liability or increased regulatory supervision. In addition, XL Insurance (Bermuda) Ltd and XL Re Ltd will be exposed to any changes in the political environment in Bermuda, including, without limitation, changes as a
+result of the independence issues currently being discussed in Bermuda. The Bermuda insurance and reinsurance regulatory framework recently has become subject to increased scrutiny in many jurisdictions, including the United Kingdom. While we cannot
+predict the future impact on our operations of changes in the laws and regulation to which we are or may become subject, any such changes could have a material adverse effect on our business, financial condition and results of operations.
+Risks Related to Taxation
+
+We and our Bermuda insurance subsidiaries may become subject to taxes in Bermuda after March 28, 2016, which may have a material adverse effect on our financial condition and results of operations.
+
+     We and our Bermuda insurance subsidiaries have received from the Ministry of Finance in Bermuda exemptions from any Bermuda taxes that might be imposed on profits, income or any capital asset,
+gain or appreciation until March 28, 2016. The exemptions are subject to the proviso that they are not construed so as to prevent the application of any tax or duty to such persons as are ordinarily resident in Bermuda (we and our Bermuda insurance
+subsidiaries are not so currently designated) and to prevent the application of any tax payable in accordance with the provisions of The Land Tax Act 1967 or otherwise payable in relation to the land leased to us and our Bermuda insurance
+subsidiaries. We, as a permit company under The Companies Act 1981 of Bermuda, have received similar exemptions, which are effective until March 28, 2016. We and our Bermuda insurance subsidiaries are required to pay certain annual Bermuda
+government fees and certain business fees as an insurer under The Insurance Act 1978 of Bermuda. Currently there is no Bermuda withholding tax on dividends paid by our Bermuda insurance subsidiaries to us. Given the limited duration of the Ministry
+of Finance’s assurance, we cannot be certain that we or our Bermuda insurance subsidiaries will not be subject to any Bermuda tax after March 28, 2016. Such taxation could have a material adverse effect on our financial condition and results of
+operations.
+
+We may become subject to taxes in the Cayman Islands after June 2, 2018, which may have a material adverse effect on our results of operations.
+
+     Under current Cayman Islands law, we are not obligated to pay any taxes in the Cayman Islands on our income or gains. We have received an undertaking from the Governor-in-Council of the Cayman
+Islands pursuant to the provisions of the Tax Concessions Law, as amended, that until June 2, 2018, (i) no subsequently enacted law imposing any tax on profits, income, gains or appreciation shall apply to us and (ii) no such tax and no tax in the
+nature of an estate duty or an inheritance tax shall be payable on any of our ordinary shares, debentures or other obligations. Under current law, no tax will be payable on the transfer or other disposition of our ordinary shares. The Cayman Islands
+currently impose stamp duties on certain categories of documents; however, our current operations do not involve the payment of stamp duties in any material amount. The Cayman Islands also currently impose an annual corporate fee upon all exempted
+companies incorporated in the Cayman Islands. Given the limited duration of the undertaking from the Governor-in-Council of the Cayman Islands, we cannot be certain that we will not be subject to any Cayman Islands tax after June 2, 2018. Such
+taxation could have a material adverse effect on our financial condition and results of operations.
+
+40
+
+
+
+
+
+
+
+We and our Bermuda insurance subsidiaries may become subject to U.S. tax, which may have a material adverse effect on our results of operations.
+
+     We take the position that neither we nor any of our Bermuda insurance subsidiaries are engaged in a U.S. trade or business through a U.S. permanent establishment. Accordingly, we take the
+position that none of our Bermuda insurance subsidiaries should be subject to U.S. tax (other than U.S. excise tax on insurance and reinsurance premium income attributable to insuring or reinsuring U.S. risks and U.S. withholding tax on some types
+of U.S. source investment income). However, because there is considerable uncertainty as to the activities that constitute being engaged in a trade or business within the United States, we cannot be certain that the U.S. Internal Revenue Service
+(the “IRS”) will not contend successfully that we or any of our Bermuda insurance subsidiaries are engaged in a trade or business in the United States. If we or any of our Bermuda insurance subsidiaries were considered to be engaged in a
+trade or business in the United States, any such entity could be subject to U.S. corporate income and additional branch profits taxes on the portion of its earnings effectively connected to such U.S. business, in which case our financial condition
+and results of operations could be materially adversely affected.
+
+The Organisation for Economic Co-operation and Development is considering measures that might change the manner in which we are taxed.
+
+     On June 27, 2005 the Organisation for Economic Co-operation and Development (“OECD”) issued a discussion draft, “Attribution of Profits to a
+Permanent Establishment—Release of Discussion Draft of Part IV (Insurance)” (the “Draft”), which constitutes the fourth and final part of the report on OECD’s project to establish a broad consensus regarding the interpretation
+and practical application of Article 7 (“Article 7”) of the OECD Model
+Tax Convention on Income and on Capital. Article 7 sets forth international tax
+principles for attributing profits to a permanent establishment and forms the
+basis of an extensive network of bilateral income tax treaties between OECD member
+countries and between many OECD member and non-member countries. Once finalized,
+the conclusions of Parts I-IV of the report will be implemented through revision
+of the Commentary on Article 7 and/or Article 7 itself. Section C of the Draft
+discusses the application of the 1995 OECD Transfer Pricing Guidelines to insurance
+business conducted between associated enterprises and, if adopted in its current
+form, might change the manner in which we are taxed and could therefore impact
+our future after-tax profitability. We cannot predict the effect of any such
+changes.
+ITEM 1B

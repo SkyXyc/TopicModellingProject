@@ -1,0 +1,889 @@
+ITEM 1A.   RISK FACTORS
+
+
+
+Fluctuations in demand for our products may adversely
+affect our financial results.
+
+
+
+If demand for our products fluctuates, our revenue and gross
+margin could be adversely affected. Important factors that could
+cause demand for our products to fluctuate include:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    changes in customer product needs;
+
+
+
+     
+    •
+    
+    changes in the level of customers’ inventory;
+
+
+
+     
+    •
+    
+    changes in business and economic conditions, including a
+    downturn in the semiconductor industry;
+
+
+
+     
+    •
+    
+    competitive pressures from companies that have competing
+    products, chip architectures and manufacturing technologies;
+
+
+
+     
+    •
+    
+    strategic actions taken by our competitors; and
+
+
+
+     
+    •
+    
+    market acceptance of our products.
+
+
+
+
+
+If demand for our products is reduced, our manufacturing and/or
+assembly and test capacity could be under-utilized, and we may
+be required to record an impairment on our long-lived assets
+including facilities and equipment, as well as intangible
+assets, which would increase our expenses. In addition, factory
+planning decisions may cause us to record accelerated
+depreciation. In the long term, if demand for our products
+increases, we may not be able to add manufacturing and/or
+assembly and test capacity fast enough to meet market demand.
+These changes in demand for our products, and changes in our
+customers’ product needs, could have a variety of negative
+effects on our competitive position and our financial results,
+and, in certain cases, may reduce our revenue, increase our
+costs, lower our gross margin percentage, or require us to
+recognize and record impairments of our assets.
+
+
+
+The semiconductor industry and our operations are
+characterized by a high percentage of costs that are fixed or
+otherwise difficult to reduce in the short term, and by product
+demand that is highly variable and is subject to significant
+downturns that may adversely affect our business, results of
+operations and financial condition.
+
+
+
+The semiconductor industry and our operations are characterized
+by high costs, such as those related to facility construction
+and equipment, research and development, and employment and
+training of a highly skilled workforce, that are either fixed or
+difficult to reduce in the short term. At the same time, demand
+for our products is highly variable and has experienced
+downturns, often in connection with maturing product cycles and
+downturns in general economic market conditions. These downturns
+have been characterized by reduced product demand, manufacturing
+overcapacity, high inventory levels and decreased average
+selling prices. The combination of these factors may cause our
+revenue, gross margin, cash flow and profitability to vary
+significantly both in the short term and over the long term.
+
+
+
+We operate in intensely competitive industries, and our
+failure to respond quickly to technological developments and
+incorporate new features into our products could have an adverse
+effect on our ability to compete.
+
+
+
+We operate in intensely competitive industries that experience
+rapid technological developments, changes in industry standards,
+changes in customer requirements, and frequent new product
+introductions and improvements. If we are unable to respond
+quickly and successfully to these developments, we may lose our
+competitive position, and our products or technologies may
+become uncompetitive or obsolete. To compete successfully, we
+must maintain a successful R&D effort, develop new products
+and production processes, and improve our existing products and
+processes at the same pace or ahead of our competitors. We may
+not be able to successfully develop and market these new
+products; the products we invest in and develop may not be well
+received by customers; and products developed and new
+technologies offered by others may affect the demand for our
+products. These types of events could have a variety of negative
+effects on our competitive position and our financial results,
+such as reducing our revenue, increasing our costs, lowering our
+gross margin percentage, and requiring us to recognize and
+record impairments of our assets.
+
+
+18
+
+
+
+Table of Contents
+
+
+Fluctuations in the mix of products sold may adversely
+affect our financial results.
+
+
+
+Because of the wide price differences among mobile, desktop and
+server microprocessors, the mix and types of performance
+capabilities of microprocessors sold affect the average selling
+price of our products and have a substantial impact on our
+revenue. Our financial results also depend in part on the mix of
+other products we sell, such as chipsets, flash memory and other
+semiconductor products. In addition, more recently introduced
+products tend to have higher associated costs because of initial
+overall development costs and higher
+start-up costs.
+Fluctuations in the mix and types of our products may also
+affect the extent to which we are able to recover our fixed
+costs and investments that are associated with a particular
+product, and as a result can negatively impact our financial
+results.
+
+
+
+Our global operations subject us to risks that may
+negatively affect our results of operations and financial
+condition.
+
+
+
+We have sales offices and research and development,
+manufacturing, and assembly and test facilities in many
+countries, and as a result, we are subject to risks associated
+with doing business globally. Our global operations may be
+subject to risks that may limit our ability to manufacture,
+assemble and test, design, develop or sell products in
+particular countries, which could in turn have an adverse effect
+on our results of operations and financial condition, including:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    health concerns;
+
+
+
+     
+    •
+    
+    natural disasters;
+
+
+
+     
+    •
+    
+    inefficient and limited infrastructure and disruptions, such as
+    large-scale outages or interruptions of service from utilities
+    or telecommunications providers and supply chain interruptions;
+
+
+
+     
+    •
+    
+    differing employment practices and labor issues;
+
+
+
+     
+    •
+    
+    local business and cultural factors that differ from our normal
+    standards and practices;
+
+
+
+     
+    •
+    
+    regulatory requirements and prohibitions that differ between
+    jurisdictions;
+
+
+
+     
+    •
+    
+    security concerns, including crime, political instability,
+    terrorist activity, armed conflict and civil or military
+    unrest; and
+
+
+
+     
+    •
+    
+    restrictions on our operations by governments seeking to support
+    local industries, nationalization of our operations and
+    restrictions on our ability to repatriate earnings.
+
+
+
+
+
+In addition, although most of our products are priced and paid
+for in U.S. dollars, a significant amount of certain types
+of expenses, such as payroll, utilities, tax and marketing
+expenses, are paid in local currencies. Fluctuations in the rate
+of exchange between the U.S. dollar and the currencies of
+other countries in which we conduct business, and changes in
+currency controls with respect to such countries, could
+negatively impact our business, operating results and financial
+condition by resulting in lower revenue or increased expenses in
+such countries. In addition, changes in tariff and import
+regulations and to U.S. and
+non-U.S. monetary
+policies may also negatively impact our revenue in those
+affected countries. Varying tax rates in different jurisdictions
+could negatively impact our overall tax rate.
+
+
+
+Failure to meet our production targets, resulting in
+undersupply or oversupply of products, may adversely impact our
+business and results of operations.
+
+
+
+Manufacturing and assembly and test of integrated circuits is a
+complex process. Disruptions in this process can result from
+difficulties in our development and implementation of new
+processes, errors and interruptions in the processes, defects in
+materials and disruptions in our supply of materials or
+resources, all of which could affect the timing of production
+ramps and yields. Furthermore, we may not be successful or
+efficient in developing or implementing new production
+processes. The occurrence of any of the foregoing may result in
+our failure to increase production as desired, resulting in
+higher costs or substantial decreases in yields, which could
+impact our ability to produce sufficient volume to meet specific
+product demand. Furthermore, the unavailability or reduced
+availability of certain products could make it more difficult to
+implement our platform strategy. We may also experience
+increases in yields. A substantial increase in yields could
+result in higher inventory levels and the possibility of
+resulting excess capacity charges as we slow production to
+reduce inventory levels. In addition, higher yields, as well as
+other factors, can decrease overall unit costs and may cause us
+to revalue our existing inventory on certain products to their
+lower replacement cost, which would impact our gross margin in
+the quarters in which this revaluation occurs. The occurrence of
+any of these events could adversely impact our business and
+results of operations.
+
+
+
+We may have difficulties obtaining the resources or
+products we need for manufacturing or assembling our products or
+operating other aspects of our business, which could adversely
+affect our ability to meet demand for our products and may
+increase our costs.
+
+
+
+We have thousands of suppliers providing various materials that
+we use in production of our products and other aspects of our
+business, and we seek, where possible, to have several sources
+of supply for all of these materials. However, we may rely on a
+single or a limited number of suppliers, or upon suppliers in a
+single country, for these materials. The inability of such
+suppliers to deliver adequate supplies of production materials
+or other supplies could disrupt our production process or could
+make it more difficult for us to implement our platform
+strategy. In addition, production could be disrupted by the
+unavailability of the resources used in production such as
+water, silicon, electricity and gases. The unavailability or
+reduced availability of the materials or resources we use in our
+business may require us to reduce production of products or may
+require us to incur additional costs in order to obtain an
+adequate supply of these materials or resources. The occurrence
+of any of these events could adversely impact our business and
+results of operations.
+
+
+19
+
+
+
+Table of Contents
+
+
+Costs related to product defects and errata may have an
+adverse impact on our results of operations and business.
+
+
+
+Costs associated with unexpected product defects and errata
+(deviations from published specifications) include, for example,
+the costs of:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    writing down the value of inventory of defective products;
+
+
+
+     
+    •
+    
+    disposing of defective products that cannot be fixed;
+
+
+
+     
+    •
+    
+    recalling defective products that have been shipped to customers;
+
+
+
+     
+    •
+    
+    providing product replacements for or modifications to defective
+    products; and
+
+
+
+     
+    •
+    
+    defending against litigation related to defective products.
+
+
+
+
+
+These costs could be substantial and may therefore increase our
+expenses and adversely affect our gross margin. In addition, our
+reputation with our customers or end users of our products could
+be damaged as a result of such product defects and errata, and
+the demand for our products could be reduced. These factors
+could negatively impact our financial results and the prospects
+for our business.
+
+
+
+We may be subject to claims of infringement of third-party
+intellectual property rights, which could adversely affect our
+business.
+
+
+
+From time to time, third parties may assert against us or our
+customers alleged patent, copyright, trademark and other
+intellectual property rights to technologies that are important
+to our business. We may be subject to intellectual property
+infringement claims from certain individuals and companies who
+have acquired patent portfolios for the sole purpose of
+asserting such claims against other companies. Any claims that
+our products or processes infringe the intellectual property
+rights of others, regardless of the merit or resolution of such
+claims, could cause us to incur significant costs in responding
+to, defending and resolving such claims, and may divert the
+efforts and attention of our management and technical personnel
+away from our business. As a result of such intellectual
+property infringement claims, we could be required to:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    pay third-party infringement claims;
+
+
+
+     
+    •
+    
+    discontinue manufacturing, using or selling the infringing
+    products;
+
+
+
+     
+    •
+    
+    discontinue using the infringing technology or processes;
+
+
+
+     
+    •
+    
+    develop non-infringing technology, which could be time-consuming
+    and costly or may not be possible; or
+
+
+
+     
+    •
+    
+    license technology from the third party claiming infringement,
+    which license may not be available on commercially reasonable
+    terms or at all.
+
+
+
+
+
+The occurrence of any of the foregoing could result in
+unexpected expenses or require us to recognize an impairment of
+our assets, which would reduce the value of our assets and
+increase expenses. In addition, if we alter or discontinue our
+production of affected items, our revenue could be negatively
+impacted.
+
+
+
+We may be subject to litigation proceedings that could
+adversely affect our business.
+
+
+
+In addition to the litigation risks mentioned above, we may be
+subject to legal claims or regulatory matters involving
+stockholder, consumer, antitrust and other issues. As described
+in “Legal Proceedings” in Part I, Item 3 of
+this Form 10-K, we are currently engaged in a number of
+litigation matters. Litigation is subject to inherent
+uncertainties, and unfavorable rulings could occur. An
+unfavorable ruling could include money damages or, in cases for
+which injunctive relief is sought, an injunction prohibiting
+Intel from manufacturing or selling one or more products. Were
+an unfavorable ruling to occur, there exists the possibility of
+a material adverse impact on business and results of operations
+for the period in which the ruling occurred or future periods.
+
+
+
+We may not be able to enforce or protect our intellectual
+property rights, which may harm our ability to compete and
+adversely affect our business.
+
+
+
+Our ability to enforce our patents, copyrights, software
+licenses and other intellectual property is subject to general
+litigation risks, as well as uncertainty as to the
+enforceability of our intellectual property rights in various
+countries. When we seek to enforce our rights, we are often
+subject to claims that the intellectual property right is
+invalid, is otherwise not enforceable or is licensed to the
+party against whom we are asserting a claim. In addition, our
+assertion of intellectual property rights often results in the
+other party seeking to assert alleged intellectual property
+rights of its own against us, which may adversely impact our
+business in the manner discussed above. If we are not ultimately
+successful in defending ourselves against these claims in
+litigation, we may not be able to sell a particular product or
+family of products, due to an injunction, or we may have to pay
+material amounts of damages, which could in turn negatively
+affect our results of operations. In addition, governments may
+adopt regulations or courts may render decisions requiring
+compulsory licensing of intellectual property to others, or
+governments may require that products meet specified standards
+that serve to favor local companies. Our inability to enforce
+our intellectual property rights under these circumstances may
+negatively impact our competitive position and our business.
+
+
+20
+
+
+
+Table of Contents
+
+
+Our licenses with other companies and our participation in
+industry initiatives may allow other companies, including
+competitors, to use our patent rights.
+
+
+
+Companies in the semiconductor industry often rely on the
+ability to license patents from each other in order to compete.
+Many of our competitors have broad licenses or cross-licenses
+with us, and under current case law, some of these licenses may
+permit these competitors to pass our patent rights on to others.
+If one of these licensees becomes a foundry, our competitors
+might be able to avoid our patent rights in manufacturing
+competing products. In addition, our participation in industry
+initiatives may require us to license our patents to other
+companies that adopt certain industry standards or
+specifications, even when such organizations do not adopt
+standards or specifications proposed by us. As a result, our
+patents implicated by our participation in industry initiatives
+might not be available for us to enforce against others who
+might otherwise be deemed to be infringing those patents, our
+costs of enforcing our licenses or protecting our patents may
+increase, and the value of our intellectual property may be
+impaired.
+
+
+
+In order to compete, we must attract, retain and motivate
+key employees, and our failure to do so could have an adverse
+effect on our results of operations.
+
+
+
+In order to compete, we must attract, retain and motivate
+executives and other key employees, including those in
+managerial, technical, sales, marketing and support positions.
+Hiring and retaining qualified executives, scientists,
+engineers, technical staff and sales representatives are
+critical to our business, and competition for experienced
+employees in the semiconductor industry can be intense. To
+attract, retain and motivate qualified employees, we rely
+heavily on stock-based incentive awards such as employee stock
+options and restricted stock. If the value of such stock awards
+does not appreciate as measured by the performance of the price
+of our common stock and/or if our other stock-based compensation
+otherwise ceases to be viewed as a valuable benefit, our ability
+to attract, retain and motivate our employees could be adversely
+impacted, which could negatively affect our results of
+operations and/or require us to increase the amount we expend on
+cash and other forms of compensation. In addition, our adoption
+of Statement of Financial Accounting Standards (SFAS)
+No. 123 (revised 2004), “Share-Based Payment,”
+during our first quarter of 2006 will result in significant
+additional compensation expense compared to prior periods.
+
+
+
+Our results of operations could vary as a result of the
+methods, estimates and judgments we use in applying our
+accounting policies.
+
+
+
+The methods, estimates and judgments we use in applying our
+accounting policies have a significant impact on our results of
+operations (see “Critical Accounting Estimates” in
+Part II, Item 7 of this
+Form 10-K). Such
+methods, estimates and judgments are, by their nature, subject
+to substantial risks, uncertainties and assumptions, and factors
+may arise over time that lead us to change our methods,
+estimates and judgments. Changes in those methods, estimates and
+judgments could significantly affect our results of operations.
+In particular, beginning in our first quarter of 2006, the
+calculation of share-based compensation expense under
+SFAS No. 123(R) will require us to use valuation
+methodologies (which were not developed for use in valuing
+employee stock options) and a number of assumptions, estimates
+and conclusions regarding matters such as expected forfeitures,
+expected volatility of our share price, the expected dividend
+rate with respect to our common stock and the exercise behavior
+of our employees. Furthermore, there are no means, under
+applicable accounting principles, to compare and adjust our
+expense if and when we learn of additional information that may
+affect the estimates that we previously made, with the exception
+of changes in expected forfeitures of share-based awards.
+Factors may arise over time that lead us to change our estimates
+and assumptions with respect to future share-based compensation
+arrangements, resulting in variability in our share-based
+compensation expense over time. Changes in forecasted
+share-based compensation expense could impact our gross margin
+percentage; research and development expenses; marketing,
+general and administrative expenses; and our tax rate.
+
+
+
+Our failure to comply with applicable environmental laws
+and regulations worldwide could adversely impact our business
+and results of operations.
+
+
+
+The manufacture, assembly and testing of our products require
+the use of hazardous materials that are subject to a broad array
+of environmental, health and safety laws and regulations. Our
+failure to comply with any of these applicable laws or
+regulations could result in:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    regulatory penalties, fines and legal liabilities;
+
+
+
+     
+    •
+    
+    suspension of production;
+
+
+
+     
+    •
+    
+    alteration of our fabrication and assembly and test
+    processes; or
+
+
+
+     
+    •
+    
+    curtailment of our operations or sales.
+
+
+
+
+
+In addition, our failure to properly manage the use,
+transportation, emission, discharge, storage, recycling or
+disposal of hazardous materials could subject us to increased
+costs or future liabilities. Existing and future environmental
+laws and regulations could also require us to acquire pollution
+abatement or remediation equipment, modify our product designs
+or incur other expenses associated with such laws and
+regulations. Many new materials that we are evaluating for use
+in our operations may be subject to regulation under existing or
+future environmental laws and regulations that may restrict our
+use of certain materials in our manufacturing, assembly and test
+processes or products. Any of these consequences could adversely
+impact our business and results of operations by increasing our
+expenses and/or requiring us to alter our manufacturing
+processes.
+
+
+21
+
+
+
+Table of Contents
+
+
+Changes in our effective tax rate may have an adverse
+effect on our results of operations.
+
+
+
+Our future effective tax rates may be adversely affected by a
+number of factors including:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    •
+    
+    the jurisdictions in which profits are determined to be earned
+    and taxed;
+
+
+
+     
+    •
+    
+    the repatriation of
+    non-U.S. earnings
+    for which we have not previously provided for U.S. taxes;
+
+
+
+     
+    •
+    
+    adjustments to estimated taxes upon finalization of various tax
+    returns;
+
+
+
+     
+    •
+    
+    increases in expenses not deductible for tax purposes, including
+    write-offs of acquired in-process research and development and
+    impairment of goodwill in connection with acquisitions;
+
+
+
+     
+    •
+    
+    changes in available tax credits;
+
+
+
+     
+    •
+    
+    changes in share-based compensation expense;
+
+
+
+     
+    •
+    
+    changes in the valuation of our deferred tax assets and
+    liabilities;
+
+
+
+     
+    •
+    
+    changes in tax laws or the interpretation of such tax
+    laws; and
+
+
+
+     
+    •
+    
+    the resolution of issues arising from tax audits with various
+    tax authorities.
+
+
+
+
+
+Any significant increase in our future effective tax rates could
+adversely impact net income for future periods.
+
+
+
+In addition, the U.S. Internal Revenue Service (IRS) and
+other tax authorities regularly examine our income tax returns.
+The IRS has issued formal assessments related to amounts
+reflected on certain of our tax returns as a tax benefit for our
+export sales (see “Note 18: Contingencies” in
+Part II, Item 8 of this
+Form 10-K). Our
+results of operations could be adversely impacted if these
+assessments or any other assessments resulting from the
+examination of our income tax returns by the IRS or other taxing
+authorities are not resolved in our favor.
+
+
+
+We invest in companies for strategic reasons and may not
+realize a return on our investments.
+
+
+
+We make investments in companies around the world to further our
+strategic objectives and support our key business initiatives.
+Such investments include investments in equity securities of
+public companies and investments in non-marketable equity
+securities of private companies, which range from early-stage
+companies that are often still defining their strategic
+direction to more mature companies whose products or
+technologies may directly support an Intel product or
+initiative. The success of these companies (or lack thereof) is
+dependent on product development, market acceptance, operational
+efficiency and other key business success factors. The private
+companies in which we invest may fail because they may not be
+able to secure additional funding, obtain favorable investment
+terms for future financings or take advantage of liquidity
+events, such as initial public offerings, mergers and private
+sales. If any of these private companies fail, we could lose all
+or part of our investment in that company. In addition, if we
+determine that an other-than-temporary decline in the fair value
+exists for the equity securities of the public and private
+companies in which we invest, we write down the investment to
+its fair value and record the related write-down as an
+investment loss. Furthermore, when the strategic objectives of
+an investment have been achieved, or if the investment or
+business diverges from our strategic objectives, we may decide
+to dispose of the investment. Our investments in non-marketable
+equity securities of private companies are not liquid, and we
+may not be able to dispose of these investments on favorable
+terms or at all. The occurrence of any of these events could
+negatively affect our net income and results of operations.
+
+
+22
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+ITEM 1B

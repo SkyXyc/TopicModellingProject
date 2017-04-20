@@ -1,0 +1,981 @@
+ITEM 1A.    RISK FACTORS        
+
+
+ Risks Related to our Business  
+
+ Current Macroeconomic Conditions—The recent downturn in the macroeconomic environment has, and may continue to, negatively impact our results of operations.  
+
+        The recent downturn in global macroeconomic conditions, particularly in Europe, has had a significant effect on the disk drive industry
+as a whole and the results of our operations. Due to the on-going uncertainty about current macroeconomic conditions, we believe our customers may postpone spending in response to tighter
+credit, increasing level of unemployment, negative financial news and/or declines in income or asset values, which could have a material adverse effect on the demand for our products. Other factors
+that could influence demand include conditions in the residential real estate and mortgage markets, labor and healthcare costs, access to credit, consumer confidence and other macroeconomic factors
+affecting consumer spending behavior. These and other economic factors could have a material adverse effect on demand for our products and on our financial condition and operating results. 
+
+        In
+addition, the capital and credit markets continue to experience some measure of volatility and disruption, resulting in a tightening in the credit markets, a low level of liquidity in
+many financial markets and reduced stability in fixed income, credit, currency and equity markets. There could be a number of follow-on effects from the credit crisis on our business,
+including the insolvency of key suppliers resulting in product delays and the inability of customers to obtain credit to finance purchases of our products. 
+
+ Competition—Our industry is highly competitive and our products have experienced and will continue to experience significant price erosion and market share
+variability.  
+
+        The disk drive industry is intensely competitive and vendors typically experience substantial price erosion over the life of a product.
+Our competitors have historically offered existing products at lower prices as part of a strategy to gain or retain market share and customers, and we expect these practices to continue. We will need
+to continually reduce our prices for existing products to retain our market share, which could adversely affect our results of operations. 
+
+        The
+pricing environment in the first nine months of our 2010 fiscal year was relatively stable owing in part to a favorable supply/demand balance, though in the June 2010 quarter price
+erosion returned to seasonal patterns typical of a June quarter. We believe price erosion and market share variability will continue, as the industry engages in aggressive pricing actions targeted to
+shift customer demand to offset lower demand due to the deterioration in business and economic conditions. 
+
+        Our
+ability to offset the effect of price erosion through new product introductions at higher average prices is diminished to the extent competitors introduce products into particular
+markets ahead of our similar, competing products. This risk is particularly pronounced in markets where we have recently
+experienced lower market share, as is the case in the market for 2.5-inch ATA products. Our ability to offset the effect of price erosion is also diminished during times when product life
+cycles for particular products are extended, allowing competitors more time to enter the market. 
+
+        The
+growth of sales to distributors that serve producers of non-branded products in the personal storage sector may also contribute to increased price erosion. These
+customers generally have limited product qualification programs, which increases the number of competing products available to satisfy their demand. As a result, purchasing decisions for these
+customers are based largely on price and terms. Any increase in our average price erosion would have an adverse effect on our results of operations. 
+
+        Additionally,
+a significant portion of our success in the past has been a result of increasing our market share at the expense of our competitors, particularly in enterprise markets.
+Market share for our products can be negatively affected by our customers' diversifying their sources of supply as our competitors enter 
+
+19
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+the
+market for particular products, as well as by our ability to ramp volume production of new product offerings. When our competitors successfully introduce product offerings that are competitive
+with our recently introduced products, our customers may quickly diversify their sources of supply. Any significant decline in our market share in any of our principal market applications would
+adversely affect our results of operations. 
+
+
+ Principal Competitors—We compete with both independent manufacturers, whose primary focus is producing technologically advanced disk drives, and captive
+manufacturers, who do not depend solely on sales of disk drives to maintain their profitability.  
+
+        We have experienced and expect to continue to experience intense competition from a number of domestic and foreign companies, including
+other independent disk drive manufacturers, and large captive manufacturers. The term "independent" in this context refers to manufacturers that primarily produce disk drives as a stand-alone product,
+such as Western Digital Corporation, and the term "captive" in this context refers to manufacturers who themselves or through affiliated entities produce complete computer or other systems that
+contain disk drives or other electronic data storage products, such as Hitachi Global Storage Technologies, Samsung Electronics Incorporated and Toshiba Corporation. 
+
+        Captive
+manufacturers are formidable competitors because they have the ability to determine pricing for complete systems without regard to the margins on individual components. As
+components other than disk drives generally contribute a greater portion of the operating margin on a complete computer system than do disk drives, captive manufacturers do not necessarily need to
+realize a profit on the disk
+drives included in a complete computer system and, as a result, may be willing to sell disk drives to third parties at very low margins. Captive manufacturers are also formidable competitors because
+they have more substantial resources than we do. Samsung and Hitachi (together with affiliated entities) also sell other products to our customers, including critical components like flash memory,
+ASICs and flat panel displays, and may be willing to sell their disk drives at a lower margin to advance their overall business strategy. To the extent we are not successful competing with captive or
+independent disk drive manufacturers, our results of operations will be adversely affected. 
+
+        In
+response to customer demand for high-quality, high-volume and low-cost disk drives, manufacturers of disk drives have had to develop large, and in
+some cases global, production facilities with highly developed technological capabilities and internal controls. The development of these large production facilities combined with industry
+consolidation can further increase the intensity of competition. 
+
+        We
+also face indirect competition from present and potential customers who evaluate from time to time whether to manufacture their own disk drives or other electronic data storage
+products. 
+
+        We
+also experience competition from other companies that produce alternative storage technologies like flash memory, where increasing capacity, decreasing cost, lower power consumption
+and improvements in performance ruggedness have resulted in competition with our lower capacity, smaller form factor disk drives. While this competition has traditionally been in the markets for
+handheld consumer electronics applications, these competitors have announced solid state drives (SSDs) for netbook, notebook and enterprise compute applications. Some of these companies, like Samsung,
+also sell disk drives. Certain customers for both notebook and enterprise compute applications are evaluating and may adopt SSDs as alternatives to hard drives in certain applications. 
+
+20
+
+
+
+
+ 
+
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+ Volatility of Quarterly Results—Our quarterly results of operations fluctuate, sometimes significantly, from period to period, and may cause our share price to
+decline.  
+
+        In the past, our quarterly revenue and results of operations have fluctuated, sometimes significantly, from period to period. These
+fluctuations, which we expect to continue, may be occasioned by a variety of factors, including: 
+
+
+
+•current uncertainty in global economic conditions may pose a risk to the overall economy;   
+•adverse changes in the level of economic activity in the major regions in which we do business, for example Europe in the
+June 2010 quarter;   
+•competitive pressures resulting in lower selling prices by our competitors targeted to encourage shifting of customer
+demand;   
+•delays or problems in our introduction of new products, particularly new disk drives with lower cost structures, the
+inability to achieve high production yields or delays in customer qualification or initial product quality issues;   
+•changes in purchasing patterns by our distributor customers;   
+•increased costs or adverse changes in availability of supplies of raw materials or components, especially in light of
+recent consolidation among component suppliers, building inflationary pressure and the relative volatility of the U.S. dollar as compared to other currencies;   
+•the impact of corporate restructuring activities that we have and may continue to engage in;   
+•changes in the demand for the computer systems, storage subsystems and consumer electronics that contain our disk drives,
+due to seasonality, economic conditions and other factors;   
+•changes in purchases from period to period by our primary customers, particularly as our competitors are able to introduce
+and produce in volume competing disk drive solutions or alternative storage technology solutions, such as flash memory or SSDs;   
+•shifting trends in customer demand which, when combined with overproduction of particular products, particularly when the
+industry is served by multiple suppliers, results in unfavorable supply/demand imbalances;   
+•our high proportion of fixed costs, including research and development expenses; and   
+•announcements of new products, services or technological innovations by us or our competitors. 
+
+
+        As
+a result, we believe that quarter-to-quarter comparisons of our revenue and results of operations may not be meaningful, and that these comparisons may not be
+an accurate indicator of our future performance. Our results of operations in one or more future quarters may fail to meet the expectations of investment research analysts or investors, which could
+cause an immediate and significant decline in the trading price of our ordinary shares. 
+
+ New Product Offerings—Market acceptance of new product introductions cannot be accurately predicted, and our results of operations will suffer if there is less
+demand for our new products than is anticipated.  
+
+        We are continually developing new products with the goal that we will be able to introduce technologically advanced and lower cost disk
+drives into the marketplace ahead of our competitors. 
+
+        The
+success of our new product introductions is dependent on a number of factors, including market acceptance, our ability to manage the risks associated with product transitions, the
+effective management of inventory levels in line with anticipated product demand and the risk that our new products will have quality problems or other defects in the early stages of introduction that
+were not anticipated in the design 
+
+21
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+of
+those products. Accordingly, we cannot accurately determine the ultimate effect that our new products will have on our results of operations. 
+
+        In
+addition, the success of our new product introductions is dependent upon our ability to qualify as a primary source of supply with our OEM customers. In order for our products to be
+considered by our customers for qualification, we must be among the leaders in time-to-market with those new products. Once a product is accepted for qualification testing, any
+failure or delay in the qualification process or a requirement that we requalify can result in our losing sales to that customer until new products are introduced. The limited number of
+high-volume OEMs magnifies the effect of missing a product qualification opportunity. These risks are further magnified because we expect competitive pressures to result in
+declining sales, eroding prices, and declining gross margins on our current generation products. We cannot assure that we will be among the leaders in time-to-market with new
+products or that we will be able to successfully qualify new products with our customers in the future. If we cannot successfully deliver competitive products, our future results of operations may be
+adversely affected. 
+
+ Smaller Form Factor Disk Drives—If we do not continue to successfully market smaller form factor disk drives, our business may suffer.  
+
+
+        The disk drive industry is experiencing significant increases in sales of smaller form factor disk drives for an expanding number of
+applications, in particular notebook computers and consumer electronic devices, but also in personal computers and enterprise storage applications. Our future success will depend on our ability to
+develop and introduce smaller form factor drives at desired price and capacity points faster than our competitors. 
+
+        We
+have experienced competition from other companies that produce alternative storage technologies like solid state or flash memory, where increased capacity, improving cost, lower power
+consumption and performance ruggedness have resulted in flash memory largely replacing disk drives in handheld applications. We believe that the demand for disk drives to store or back up related
+media content from such handheld devices, however, continues to grow. While this competition has traditionally been limited to the markets for handheld consumer electronics applications, these
+competitors have announced SSDs for netbook, notebook and enterprise compute applications. 
+
+        If
+we do not suitably adapt our product offerings to successfully introduce additional smaller form factor disk drives or alternative storage products based on flash storage technology,
+or if our competitors are successful in achieving customer acceptance of SSD products for netbook, notebook and enterprise compute applications, then our customers may decrease the amounts of our
+products that they purchase, which would adversely affect our results of operations. 
+
+ Seasonality—Because we experience seasonality in the sales of our products, our results of operations will generally be adversely impacted during the second half
+of our fiscal year.  
+
+        Sales of computer systems, storage subsystems and consumer electronics tend to be seasonal, and therefore we expect to continue to
+experience seasonality in our business as we respond to variations in our customers' demand for disk drives. In particular, we anticipate that sales of our products will continue to be lower during
+the second half of our fiscal year. In the client compute and client non-compute market applications of our business, this seasonality is partially attributable to the historical trend in
+our results derived from our customers' increased sales of desktop computers, notebook computers, and consumer electronics during the back-to-school and winter holiday season.
+In the enterprise market our sales are seasonal because of the capital budgeting and purchasing cycles of our end users. Since our working capital needs peak during periods in which we are increasing
+production in anticipation of orders that have not yet been received, our results of operations will fluctuate seasonally even if the forecasted demand for our products proves accurate. Furthermore,
+it is difficult for us to evaluate the degree to which this seasonality may affect our business in future periods because of the rate and unpredictability of product transitions 
+
+22
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+and
+new product introductions, particularly in the client non-compute market, as well as macro-economic conditions. 
+
+ Difficulty in Predicting Quarterly Demand—If we fail to predict demand accurately for our products in any quarter, we may not be able to recapture the cost of
+our investments.  
+
+        The disk drive industry operates on quarterly purchasing cycles, with much of the order flow in any given quarter typically coming at
+the end of that quarter. Our manufacturing process requires us to make significant product-specific investments in inventory in each quarter for that quarter's production. Since we typically receive
+the bulk of our orders late in a quarter after we have made our investments, there is a risk that our orders will not be sufficient to allow us to recapture the costs of our investment before the
+products resulting from that investment have become obsolete. We cannot assure you that we will be able to accurately predict demand in the future. 
+
+        The
+difficulty in forecasting demand also increases the difficulty in anticipating our inventory requirements, which may cause us to over-produce finished goods, resulting in
+inventory write-offs, or under-produce finished goods, affecting our ability to meet customer requirements. Additionally, the risk of inventory write-offs could increase if we
+were to continue to hold higher inventory levels. We cannot be certain that we will be able to recover the costs associated with increased inventory. 
+
+        Other
+factors that may negatively impact our ability to recapture the cost of investments in any given quarter include: 
+
+
+
+•the impact of variable demand and an aggressive pricing environment for disk drives;   
+•the impact of competitive product announcements and possible excess industry supply both with respect to particular disk
+drive products and with respect to competing alternative storage technology solutions such as SSDs in netbook, notebook and enterprise compute applications;   
+•our inability to reduce our fixed costs to match sales in any quarter because of our vertical manufacturing strategy,
+which means that we make more capital investments than we would if we were not vertically integrated;   
+•dependence on our ability to successfully qualify, manufacture and sell in increasing volumes on a
+cost-effective basis and with acceptable quality our disk drive products, particularly the new disk drive products with lower cost structures;   
+•variations in the cost of components for our products, especially during periods when the U.S. dollar is relatively
+volatile as compared to other currencies;   
+•uncertainty in the amount of purchases from our distributor customers who from time to time constitute a large portion of
+our total sales;   
+•our product mix and the related margins of the various products;   
+•accelerated reduction in the price of our disk drives due to technological advances and/or an oversupply of disk drives in
+the market, a condition that is exacerbated when the industry is served by multiple suppliers and shifting trends in demand which can create supply and demand imbalances;   
+•manufacturing delays or interruptions, particularly at our manufacturing facilities in China, Malaysia, Northern Ireland,
+Singapore, Thailand or the United States;   
+•limited access to components that we obtain from a single or a limited number of suppliers;   
+•the impact of changes in foreign currency exchange rates on the cost of producing our products and the effective price of
+our products to foreign consumers; and   
+•operational issues arising out of the increasingly automated nature of our manufacturing processes. 
+
+23
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+
+
+
+ Dependence on Supply of Components, Equipment and Raw Materials—If we experience shortages or delays in the receipt of, or cost increases in, critical
+components, equipment or raw materials necessary to manufacture our products, we may suffer lower operating margins, production delays and other material adverse effects.  
+
+        The cost, quality and supply of components, certain equipment and raw materials used to manufacture disk drives and key components like
+recording media and heads are critical to our success. The equipment we use to manufacture our products and components is frequently custom made and comes from a few suppliers and the lead times
+required to obtain manufacturing equipment can be significant. Particularly important components for disk drives include read/write heads, aluminum or glass substrates for recording media, ASICs,
+spindle motors, printed circuit boards, and suspension assemblies. We rely on sole suppliers or a limited number of suppliers for some of these components that we do not manufacture, including
+aluminum and glass substrates, read/write heads, ASICs, spindle motors, printed circuit boards, and suspension assemblies. If our vendors for these components are unable to meet our cost, quality, and
+supply requirements, we could experience a shortage in supply or an increase in production costs, which would adversely affect our results of operations. 
+
+
+        In
+addition, the recent increases in demand for small form factor mobile products have led to shortages in glass substrates, a component used in smaller form factor disk drives to make
+the recording media for such drives. If our vendors for glass substrates are unable to meet our demand, or are unable to invest sufficient capital to expand capacity to meet the industry's increasing
+unit growth in small form factor mobile disk drives, we could experience a shortage in the supply of this critical component, which could limit our ability to meet our customer's demand for smaller
+form factor disk drives. 
+
+        In
+the past, we have experienced increased costs and production delays when we were unable to obtain the necessary equipment or sufficient quantities of some components and/or have been
+forced to pay higher prices or make volume purchase commitments or advance deposits for some components, equipment or raw materials that were in short supply in the industry in general. 
+
+        Consolidation
+among component manufacturers may result in some component manufacturers exiting the industry or not making sufficient investments in research to develop new components. 
+
+        If
+there is a shortage of, or delay in supplying us with, critical components, equipment or raw materials, then: 
+
+
+
+•it is likely that our suppliers would raise their prices and, if we could not pass these price increases to our customers,
+our operating margin would decline;   
+•we might have to reengineer some products, which would likely cause production and shipment delays, make the reengineered
+products more costly and provide us with a lower rate of return on these products;   
+•we would likely have to allocate the components we receive to certain of our products and ship less of others, which could
+reduce our revenues and could cause us to lose sales to customers who could purchase more of their required products from manufacturers that either did not experience these shortages or delays or that
+made different allocations; and   
+•we might be late in shipping products, causing potential customers to make purchases from our competitors, thus causing
+our revenue and operating margin to decline. 
+
+
+        We
+cannot assure you that we will be able to obtain critical components in a timely and economic manner. 
+
+24
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+ Importance of Time-to-Market—Our results of operations may depend on our being among the first-to-market with new
+product offerings and achieving sufficient production volume with our new products.  
+
+        To achieve consistent success with our OEM customers, it is important that we be an early provider of new types of disk drives
+featuring leading, high-quality technology and lower per gigabyte storage cost. Historically, our results of operations have substantially depended upon our ability to be among the
+first-to-market with new product offerings. Our market share and results of operations in the future may be adversely affected if we fail to: 
+
+
+
+•consistently maintain our time-to-market performance with our new products;  
+•produce these products in sufficient volume;   
+•qualify these products with key customers on a timely basis by meeting our customers' performance and quality
+specifications; or   
+•achieve acceptable manufacturing yields, quality and costs with these products. 
+
+
+        If
+the delivery of our products is delayed, our OEM customers may use our competitors' products to meet their production requirements. If the delay of our products causes delivery of
+those OEMs' computer systems into which our products are integrated to be delayed, consumers and businesses may purchase comparable products from the OEMs' competitors. 
+
+
+        We
+face the related risk that consumers and businesses may wait to make their purchases if they want to buy a new product that has been shipped or announced but not yet released. If this
+were to occur, we may be unable to sell our existing inventory of products that may be less efficient and cost effective compared to new products. As a result, even if we are among the
+first-to-market with a given product, subsequent introductions or announcements by our competitors of new products could cause us to lose revenue and not achieve a positive
+return on our investment in existing products and inventory. 
+
+ Industry Demand—Poor global economic conditions and changes in demand for computer systems and storage subsystems may cause in the future a decline in demand for
+our products.  
+
+        Our disk drives are components in computers, computer systems, storage subsystems and consumer electronics devices. The demand for
+these products has been volatile. During times of poor global economic conditions, consumer spending tends to decline and retail demand for personal computers and consumer electronics devices tends to
+decrease, as does enterprise demand for
+computer systems and storage subsystems. Moreover, unexpected slowdowns in demand for computer systems, storage subsystems or consumer electronics devices generally cause sharp declines in demand for
+disk drive products. The decline in consumer spending could have a material adverse effect on demand for our products and services and on our financial condition and results of operations. 
+
+
+        Additional
+causes of declines in demand for our products in the past have included announcements or introductions of major new operating systems or semiconductor improvements or changes
+in consumer preferences, such as the shift from desktop to notebook computers. We believe these announcements and introductions have from time to time caused consumers to defer their purchases and
+made inventory obsolete. Whenever an oversupply of disk drives causes participants in our industry to have higher than anticipated inventory levels, we experience even more intense price competition
+from other disk drive manufacturers than usual. 
+
+ Dependence on Distributors—We are dependent on sales to distributors and retailers, which may increase price erosion and the volatility of our sales.  
+
+
+        A substantial portion of our sales has been to distributors of disk drive products. Certain of our distributors may also market other
+products that compete with our products. Product qualification programs in this distribution channel are limited, which increases the number of competing products that 
+
+25
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+are
+available to satisfy demand, particularly in times of lengthening product cycles. As a result, purchasing decisions in this channel are based largely on price, terms and product availability.
+Sales volumes through this channel are also less predictable and subject to greater volatility than sales to our OEM customers. In addition, deterioration in business and economic conditions could
+exacerbate price erosion and volatility as distributors lower prices to compensate for lower demand and higher inventory levels. Our distributors ability to access credit for purposes of funding their
+operations may also affect purchases of our products by these customers. 
+
+        If
+distributors reduce their purchases of our products or prices decline significantly in the distribution channel or if distributors experience financial difficulties or terminate their
+relationships with us, our revenues and results of operations would be adversely affected. 
+
+ Dependence on Sales of Disk Drives in Client Non-Compute Applications—Our sales of disk drives for client non-compute applications, which
+have contributed significant revenues to our results, can experience significant volatility due to seasonal and other factors, which could materially adversely impact our future results of operations.  
+
+        Sales of disk drives for client non-compute applications have contributed significant revenues to our results. Consumer
+spending on client non-compute has however, and may continue to, deteriorate significantly in many countries and regions, including the United States, due to poor global economic
+conditions and increasing levels of unemployment. This could have a material adverse effect on demand for our products and services and on our financial condition and results of operations. 
+
+        In
+addition, the demand for client non-compute products can be even more volatile and unpredictable than the demand for client compute products. In some cases, our products
+manufactured for client non-compute applications are uniquely configured for a single customer's application, which creates a risk of unwanted and unsellable inventory if the anticipated
+volumes are not realized. This potential for unpredictable volatility is increased by the possibility of competing alternative storage technologies like flash memory meeting the customers' cost and
+capacity metrics, resulting in a rapid shift in demand from our products and disk drive technology, generally, to alternative storage technologies. Unpredictable fluctuations in demand for our
+products or rapid shifts in demand from our products to alternative storage technologies in new client non-compute applications could materially adversely impact our future results of
+operations. 
+
+ Dependence on Sales of Disk Drives Directly to Consumers Through Retail Outlets—Our sales of disk drives directly to consumers through retail outlets can
+experience significant volatility due to seasonal and other factors, which could materially adversely impact our future results of operations.  
+
+        We believe that industry demand for storage products in the long-term is increasing due to the proliferation of
+media-rich digital content in consumer applications and is fuelling increased consumer demand for storage. This has led to the expansion of solutions such as external storage products to
+provide additional storage capacity and to secure data in case of disaster or system failure, or to provide independent storage solutions for multiple users in home or small business environments.
+Consumer spending on retail sales of our branded solutions has deteriorated in some markets and may continue to do so if poor global economic conditions continue and higher levels of unemployment
+persist. This could have a material adverse effect on demand for our products and services and on our financial condition and results of operations. 
+
+        In
+addition, such retail sales of our branded solutions traditionally experience seasonal variability in demand with higher levels of demand in the first half of our fiscal year driven
+by consumer spending in the back-to-school season from late summer to fall and the traditional holiday shopping season from fall to winter. Additionally, our ability to reach
+such consumers depends on our maintaining effective working relationships with major retailers and distributors. Failure to anticipate consumer demand for our branded 
+
+26
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+solutions
+as well as an inability to maintain effective working relationships with retail and online distributors may adversely impact our future results of operations. 
+
+
+ Importance of Controlling Operating Costs—If we do not control our operating expenses, we will not be able to compete effectively in our industry.  
+
+        Our strategy involves, to a substantial degree, increasing revenue and product volume while at the same time controlling operating
+expenses. If we do not control our operating expenses, our ability to compete in the marketplace may be impaired. In the past, activities to reduce operating costs have included closures and transfers
+of facilities, significant personnel reductions and efforts to increase automation. The reduction of personnel and closure of facilities may adversely affect our ability to manufacture our products in
+required volumes to meet customer demand and may result in other disruptions that affect our products and customer service. In addition, the transfer of manufacturing capacity of a product to a
+different facility frequently requires qualification of the new facility by some of our OEM customers. We cannot assure you that these activities and transfers will be implemented on a
+cost-effective basis without delays or disruption in our production and without adversely affecting our customer relationships and results of operations. 
+
+ Impairment Charges—We may be required to record additional impairment charges for other long-lived assets.  
+
+
+        We are required to test other long-lived assets, including acquired intangible assets and property, equipment and leasehold
+improvements, for recoverability and impairment whenever there are indicators of impairment, such as an adverse change in business climate. 
+
+        Adverse
+changes in business conditions could materially impact our estimates of future operations and result in impairment charges to our long lived assets. If our long-lived
+assets were to become further impaired, our results of operations could be materially and adversely affected. 
+
+ Dependence on Key Customers—We may be adversely affected by the loss of, or reduced, delayed or cancelled purchases by, one or more of our larger customers.  
+
+
+        Some of our key customers, including Hewlett-Packard Company, Dell Inc. and EMC Corporation, account for a large portion of our
+disk drive revenue. While we have longstanding relationships with many of our customers, if any of our key customers were to significantly reduce their purchases from us, our results of operations
+would be adversely affected. While sales to major customers may vary from period to period, a major customer that permanently discontinues or significantly reduces its relationship with us could be
+difficult to replace. In line with industry practice, new customers usually require that we pass a lengthy and rigorous qualification process at the customer's cost. Accordingly, it may be difficult
+or costly for us to attract new major customers. Additionally, mergers, acquisitions, consolidations or other significant transactions involving our customers generally entail risks to our business.
+If a significant transaction involving any of our key customers results in the loss of or reduction in purchases by these key customers, it could have a materially adverse effect on our business,
+results of operations, financial condition and prospects. 
+
+ Impact of Technological Change—Increases in the areal density of disk drives may outpace customers' demand for storage capacity.  
+
+        The rate of increase in areal density, or storage capacity per square inch on a disk, may be greater than the increase in our
+customers' demand for aggregate storage capacity, particularly in certain market applications like client compute. As a result, our customers' storage capacity needs may be satisfied with lower
+priced, low capacity disk drives. These factors could decrease our sales, especially when combined with continued price erosion, which could adversely affect our results of operations. 
+
+27
+
+
+
+
+
+
+<A
+NAME="page_dg77201_1_28">   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+ Changes in Electronic Data Storage Products—Future changes in the nature of electronic data storage products may reduce demand for traditional disk drive
+products.  
+
+        We expect that in the future, new personal computing devices and products will be developed, some of which, such as Internet
+appliances, iPad-like tablet computing devices, netbooks or mobile phones with advanced capabilities, or "smartphones", may not contain a disk drive. While we are investing development
+resources in designing disk drives for these new applications, it is too early to assess the impact of these new applications on future demand for disk drive products. Products using alternative
+technologies, such as flash memory, optical storage and other storage technologies, are becoming increasingly common and could become a significant source of competition to particular applications of
+our products, which could adversely affect our results of operations. 
+
+ New Product Development and Technological Change—If we do not develop products in time to keep pace with technological changes, our results of operations will be
+adversely affected.  
+
+        Our customers have demanded new generations of disk drive products as advances in computer hardware and software have created the need
+for improved storage products, with features such as increased storage capacity, improved performance and reliability and lower cost. We, and our competitors, have developed improved products, and we
+will need to continue to do so in the future. Such product development requires significant investments in research and development. We cannot assure you that we will be able to successfully complete
+the design or introduction of new products in a timely manner, that we will be able to manufacture new products in sufficient volumes with acceptable manufacturing yields, that we will be able to
+successfully market these new products or that these products will perform to specifications on a long-term basis. In addition, the impact of slowing areal density growth may adversely
+impact our ability to be successful. 
+
+        When
+we develop new products with higher capacity and more advanced technology, our results of operations may decline because the increased difficulty and complexity associated with
+producing these products increases the likelihood of reliability, quality or operability problems. If our products suffer increases in failures, are of low quality or are not reliable, customers may
+reduce their purchases of our products and our manufacturing rework and scrap costs and service and warranty costs may increase. In addition, a decline in the reliability of our products may make us
+less competitive as compared with other disk drive manufacturers or competing technologies. 
+
+ Substantial Leverage—Our substantial leverage may place us at a competitive disadvantage in our industry.  
+
+        We are leveraged and have significant debt service obligations. Our significant debt and debt service requirements could adversely
+affect our ability to operate our business and may limit our ability to take advantage of potential business opportunities. For example, our high level of debt presents the following
+risks: 
+
+
+
+•we are required to use a substantial portion of our cash flow from operations to pay principal and interest on our debt,
+thereby reducing the availability of our cash flow to fund working capital, capital expenditures, product development efforts, strategic acquisitions, investments and alliances, and other general
+corporate requirements;   
+•our substantial leverage increases our vulnerability to economic downturns and adverse competitive and industry conditions
+and could place us at a competitive disadvantage compared to those of our competitors that are less leveraged;   
+•our debt service obligations could limit our flexibility in planning for, or reacting to, changes in our business and our
+industry and could limit our ability to pursue other business opportunities, borrow more money for operations or capital in the future and implement our business strategies; 
+
+28
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+•our level of debt may restrict us from raising additional financing on satisfactory terms to fund working capital, capital
+expenditures, product development efforts, strategic acquisitions, investments and alliances, and other general corporate requirements; and   
+•covenants in our debt instruments limit our ability to pay future dividends or make other restricted payments and
+investments. 
+
+
+        In
+the event that we need to refinance all or a portion of our outstanding debt as it matures, we may not be able to obtain terms as favorable as the terms of our existing debt or
+refinance our existing debt at all. If prevailing interest rates or other factors existing at the time of refinancing result in higher interest rates upon refinancing, then the interest expense
+relating to the refinanced debt would increase. Furthermore, if any rating agency changes our credit rating or outlook, our debt and equity securities could be negatively affected, which could
+adversely affect our ability to refinance existing debt or raise additional capital. 
+
+ Significant Debt Service Requirements—Servicing our debt requires a significant amount of cash and our ability to generate cash may be affected by factors beyond
+our control.  
+
+        Our business may not generate cash flow in an amount sufficient to enable us to pay the principal of, or interest on, our indebtedness
+or to fund our other liquidity needs, including working capital, capital expenditures, product development efforts, strategic acquisitions, investments and alliances and other general corporate
+requirements. 
+
+        Our
+ability to generate cash is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. We cannot assure you
+that: 
+
+
+
+•our business will generate sufficient cash flow from operations;   
+•we will continue to realize the cost savings, revenue growth and operating improvements that result from the execution of
+our long-term strategic plan; or   
+•future sources of funding will be available to us in amounts sufficient to enable us to fund our liquidity needs. 
+
+
+        If
+we cannot fund our liquidity needs, we will have to take actions such as reducing or delaying capital expenditures; product development efforts, strategic acquisitions, investments
+and alliances, and other general corporate requirements. We cannot assure you that any of these remedies could, if necessary, be effected on commercially reasonable terms, or at all, or that they
+would permit us to meet our scheduled debt service obligations. In addition if we incur additional debt, the risks associated with our substantial leverage, including the risk that we will be unable
+to service our debt or generate enough cash flow to fund our liquidity needs, could intensify. 
+
+ Restrictions Imposed by Debt Covenants—Restrictions imposed by the indenture governing our 10% Senior Secured Second-Priority Notes due 2014 may limit our
+ability to finance future operations or capital needs or engage in other business activities that may be in our interest.  
+
+
+        The indenture governing our 10% Senior Secured Second-Priority Notes due 2014 (the "10% Notes") impose, and the terms of any future
+debt may impose, operating and other restrictions on us. The indenture limits, among other things, our ability to: 
+
+
+
+•incur additional indebtedness and issue certain preferred stock;   
+•create liens;   
+•pay dividends or make distributions in respect of our capital stock;   
+•redeem or repurchase capital stock or debt; 
+
+29
+
+
+
+
+ 
+
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+•make certain investments or other restricted payments;   
+•sell assets;   
+•issue or sell capital stock of subsidiaries;   
+•enter into transactions with affiliates;   
+•engage to any material extent in business other than our current business; and   
+•effect a consolidation or merger. 
+
+
+ Substantially all of our Assets are Pledged as Collateral to Secure Certain Indebtedness—Since substantially all of our assets are used to secure portions of our
+existing debt obligations, we may be limited in our ability to incur additional indebtedness or to provide additional credit support, and if we fail to meet our payment or other obligations under
+certain of our existing debt obligations, the lenders thereunder could foreclose on, and acquire control of, substantially all of our assets.  
+
+
+        Substantially all our assets and the assets of our significant subsidiaries organized in the United States, the Cayman Islands, the
+Netherlands, Northern Ireland and Singapore, as well as certain assets located in the United States, the Cayman Islands, the Netherlands, Northern Ireland and Singapore owned by other significant
+subsidiaries, and all proceeds therefrom, are pledged as security for borrowings under our 10% Notes, as well as obligations under our hedging agreements, cash management arrangements and certain
+metal leasing arrangements. Since substantially all of our assets are used to secure portions of our existing debt obligations, we have a limited amount of collateral that is available for future
+secured debt or credit support. As a result, we may be limited in our ability to incur additional indebtedness or to provide additional credit support for our existing indebtedness. In addition, our
+failure to comply with the terms of the indenture governing our 10% Notes would entitle the lenders thereunder to declare all funds borrowed thereunder to be immediately due and payable. If we were
+unable to meet these payment obligations, the lenders could foreclose on, and acquire control of, substantially all our assets that serve as collateral. 
+
+ Volatile Public Markets—The price of our ordinary shares may be volatile and could decline significantly.  
+
+        The stock market, in general, and the market for technology stocks in particular, has recently experienced volatility that has often
+been unrelated to the operating performance of companies. If these market or industry-based fluctuations continue, the trading price of our ordinary shares could decline significantly independent of
+our actual operating performance, and you could lose all or a substantial part of your investment. The market price of our ordinary shares could fluctuate significantly in response to several factors,
+including among others: 
+
+
+
+•general uncertainty in stock market conditions occasioned by global economic conditions, negative financial news and the
+continued instability of several large financial institutions;   
+•actual or anticipated variations in our results of operations;   
+•announcements of innovations, new products or significant price reductions by us or our competitors, including those
+competitors who offer alternative storage technology solutions;   
+•our failure to meet the performance estimates of investment research analysts;   
+•the timing of announcements by us or our competitors of significant contracts or acquisitions;   
+•general stock market conditions;   
+•the occurrence of major catastrophic events;   
+•changes in financial estimates by investment research analysts;   
+•changes in the credit ratings of our indebtedness by rating agencies; and   
+•the sale of our ordinary shares held by certain equity investors or members of management. 
+
+30
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+
+
+
+ Purchase Commitments to Certain Suppliers—If revenues fall or customer demand decreases significantly, we may not meet all of our purchase commitments to certain
+suppliers.  
+
+        From time to time, we enter into long-term, non-cancelable purchase commitments with certain suppliers in order
+to secure certain components for the production of our products or to supplement our internal manufacturing capacity for certain components. If our actual revenues in the future are lower than our
+projections or if customer demand decreases significantly below our projections, we may not meet all of our purchase commitments with these suppliers. As a result, it is possible that we will have to
+shift output from our internal manufacturing facilities to these suppliers or make penalty-type payments under these contracts. 
+
+ Perpendicular Recording Technology—Products based on perpendicular technology require increased quantities of precious metals and scarce alloys like platinum and
+ruthenium, which increase the risks of higher costs and production delays that could adversely impact our results of operations.  
+
+
+        Perpendicular recording technology requires recording media with more layers, which requires the use of more precious metals and scarce
+alloys like platinum and ruthenium to create such layers. These precious metals and scarce alloys could become increasingly expensive and, at times, difficult to acquire. Accordingly, we will be
+exposed to the increased risk that higher costs or reduced availability of these precious metals and scarce alloys could adversely impact our results of operations. 
+
+ Risks Associated with Future Strategic Alliances, Joint Ventures or Investments—We may not be able to identify suitable strategic alliances, acquisitions, joint
+ventures or investment opportunities, or successfully acquire and integrate companies that provide complementary products or technologies.  
+
+
+        Our growth strategy may involve pursuing strategic alliances with, making acquisitions of, forming joint ventures with or making
+investments in other companies that are complementary to our business. There is substantial competition for attractive strategic alliance, acquisition, joint venture and investment candidates.
+Accordingly, we may not be able to identify suitable strategic alliances, acquisition, joint venture, or investment candidates. Even if we can identify them, we cannot assure you that we will be able
+to partner with, acquire or invest in suitable candidates, or integrate acquired technologies or operations successfully into our existing technologies and operations. Moreover, our ability to finance
+potential strategic alliances, acquisitions, joint ventures or investments will be limited by our high degree of leverage, the covenants contained in the indentures that govern our outstanding
+indebtedness, and any agreements governing any other debt we may incur. 
+
+        If
+we are successful in forming strategic alliances or acquiring, forming joint ventures or making investments in other companies, any of these transactions may have an adverse effect on
+our results of operations, particularly while the operations of an acquired business are being integrated. It is also likely that integration of acquired companies would lead to the loss of key
+employees from those companies or the loss of customers of those companies. In addition, the integration of any acquired companies would require substantial attention from our senior management, which
+may limit the amount of time available to be devoted to our day-to-day operations or to the execution of our strategy. Growth by strategic alliance, acquisition, joint venture
+or investment involves an even higher degree of risk to the extent we combine new product offerings and enter new markets in which we have limited experience, and no assurance can be given that
+acquisitions of entities with new or alternative business models will be successfully integrated or achieve their stated objectives. 
+
+        Furthermore,
+the expansion of our business involves the risk that we might not manage our growth effectively, that we would incur additional debt to finance these acquisitions or
+investments, that we may have impairment of goodwill or acquired intangible assets associated with these acquisitions and that we would incur substantial charges relating to the write-off
+of in-process research and development, similar to 
+
+31
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+that
+which we incurred in connection with several of our prior acquisitions. Each of these items could have a material adverse effect on our financial condition and results of operations. 
+
+
+        In
+addition, we could issue additional ordinary shares in connection with future strategic alliances, acquisitions, joint ventures or investments. Issuing shares in connection with such
+transactions would have the effect of diluting your ownership percentage of the ordinary shares and could cause the price of our ordinary shares to decline. 
+
+ Risk of Intellectual Property Litigation—Our products may infringe the intellectual property rights of others, which may cause us to incur unexpected costs or
+prevent us from selling our products.  
+
+        We cannot be certain that our products do not and will not infringe issued patents or other intellectual property rights of others. We
+may not be aware of currently filed patent applications that relate to our products or technology. If patents are later issued on these applications, we may be liable for infringement. We may be
+subject to legal proceedings and claims, including claims of alleged infringement of the patents, trademarks and other intellectual property rights of third parties by us, or our customers, in
+connection with their use of our products. 
+
+ We are currently subject to lawsuits involving intellectual property claims which could cause us to incur significant additional costs or prevent us from selling our
+products, and which could adversely affect our results of operations and financial condition: actions brought in the United States by Convolve, Inc. and the Massachusetts Institute of
+Technology and by Qimonda AG; and an action brought in Northern Ireland by Siemens AG.  
+
+        Intellectual property litigation is expensive and time-consuming, regardless of the merits of any claim, and could divert
+our management's attention from operating our business. In addition, intellectual property lawsuits are subject to inherent uncertainties due to the complexity of the technical issues involved, and we
+cannot assure you that we will be successful in defending ourselves against intellectual property claims. Patent litigation has increased due to the current uncertainty of the law and the increasing
+competition and overlap of product functionality in the field. If we were to discover that our products infringe the
+intellectual property rights of others, we would need to obtain licenses from these parties or substantially reengineer our products in order to avoid infringement. We might not be able to obtain the
+necessary licenses on acceptable terms, or at all, or be able to reengineer our products successfully. Moreover, if we are sued for patent infringement and lose the suit, we could be required to pay
+substantial damages and/or be enjoined from using or selling the infringing products or technology. Any of the foregoing could cause us to incur significant costs and prevent us from selling our
+products, which could adversely affect our results of operations and financial condition. See Part II, Item 8. Financial Statements and Supplementary Data—Note 13,
+Legal, Environmental, and Other Contingencies of this Annual Report on Form 10-K for a description of pending intellectual property proceedings. 
+
+ System Failures—System failures caused by events beyond our control could adversely affect computer equipment and electronic data on which our operations depend.  
+
+
+        Our operations are dependent upon our ability to protect our computer equipment and the electronic data stored in our databases from
+damage by, among other things, earthquake, fire, natural disaster, power loss, telecommunications failures, unauthorized intrusion and other catastrophic events. As our operations become more
+automated and increasingly interdependent, our exposure to the risks posed by these types of events will increase. While we continue to improve our disaster recovery processes, system failures and
+other interruptions in our operations could have a material adverse effect on our business, results of operations and financial condition. 
+
+32
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+ Economic Risks Associated with International Operations—Our international operations subject us to risks related to currency exchange fluctuations, longer
+payment cycles for sales in foreign countries, seasonality and disruptions in foreign markets, tariffs and duties, price controls, potential adverse tax consequences, increased costs, our customers'
+credit and access to capital and health-related risks.  
+
+        We have significant operations in foreign countries, including manufacturing facilities, sales personnel and customer support
+operations. We have manufacturing facilities in China, Malaysia, Northern Ireland, Singapore and Thailand, in addition to those in the United States. A substantial portion of our client compute disk
+drive assembly occurs in our facility in China. 
+
+        Our
+international operations are subject to economic risks inherent in doing business in foreign countries, including the following: 
+
+
+
+•Disruptions in Foreign Markets.  Disruptions in financial
+markets and the deterioration of the underlying economic conditions in the past in some countries, including those in Asia, have had an impact on our sales to customers located in, or whose
+end-user customers are located in, these countries.   
+•Fluctuations in Currency Exchange Rates.  Prices for our
+products are denominated predominately in U.S. dollars, even when sold to customers that are located outside the United States. Currency instability in Asia and other geographic markets may make our
+products more expensive than products sold by other manufacturers that are priced in the local currency. Moreover, many of the costs associated with our operations located outside the United States
+are denominated in local currencies. As a consequence, the increased strength of local currencies against the U.S. dollar in countries where we have foreign operations would result in higher effective
+operating costs and, potentially, reduced earnings. From time to time, fluctuations in foreign exchange rates have negatively affected our operations and profitability and there can be no assurance
+that these fluctuations will not adversely affect our operations and profitability in the future.   
+•Longer Payment Cycles.  Our customers outside of the United
+States are often allowed longer time periods for payment than our U.S. customers. This increases the risk of nonpayment due to the possibility that the financial condition of particular customers may
+worsen during the course of the payment period.   
+•Seasonality.  Seasonal reductions in the business
+activities of our customers during the summer months, particularly in Europe, typically result in lower earnings during those periods.   
+•Tariffs, Duties, Limitations on Trade and Price
+Controls.  Our international operations are affected by limitations on imports, currency exchange control regulations, transfer pricing
+regulations, price controls and other restraints on trade. In addition, the governments of many countries, including China, Malaysia, Northern Ireland, Singapore and Thailand, in which we have
+significant operating assets, have exercised and continue to exercise significant influence over many aspects of their domestic economies and international trade.   
+•Potential Adverse Tax Consequences.  Our international
+operations create a risk of potential adverse tax consequences, including imposition of withholding or other taxes on payments by subsidiaries.   
+•Increased Costs.  The shipping and transportation costs
+associated with our international operations are typically higher than those associated with our U.S. operations, resulting in decreased operating margins in some foreign countries.  
+•Credit and Access to Capital Risks.  Our international
+customers could have reduced access to working capital due to higher interest rates, reduced bank lending resulting from contractions in the money supply or the deterioration in the customer's or its
+bank's financial condition, or the inability to access other financing. 
+
+33
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+•Global Health Outbreaks.  The occurrence of a pandemic
+disease may adversely impact our operations, and some of our key customers. Such diseases could also potentially disrupt the timeliness and reliability of the distribution network we rely on. 
+
+
+ Political Risks Associated with International Operations—Our international operations subject us to risks related to political unrest and terrorism.  
+
+        We have manufacturing facilities in parts of the world that periodically experience political unrest, with Thailand being a recent
+example. This could disrupt our ability to manufacture important components as well as cause interruptions and/or delays in our ability to ship components to other locations for continued manufacture
+and assembly. Any such delays or interruptions could result in delays in our ability to fill orders and have an adverse effect on our results of operations and financial condition. U.S. and
+international responses to the ongoing hostilities in
+Afghanistan and Iraq and the risk of terrorist attacks or hostilities elsewhere in the world could exacerbate these risks. 
+
+ Legal and Operational Risks Associated with International Operations—Our international operations subject us to risks related to staffing and management, legal
+and regulatory requirements and the protection of intellectual property.  
+
+        Operating outside of the United States creates difficulties associated with staffing and managing our international manufacturing
+facilities, complying with local legal and regulatory requirements and protecting our intellectual property. We cannot assure you that we will continue to be found to be operating in compliance with
+applicable customs, currency exchange control regulations, transfer pricing regulations or any other laws or regulations to which we may be subject. We also cannot assure you that these laws will not
+be modified. 
+
+ SOX 404 Compliance—While we believe that we currently have adequate internal control procedures in place, we are still exposed to future risks of
+non-compliance and will continue to incur costs associated with Section 404 of the Sarbanes-Oxley Act of 2002.  
+
+        Annually we complete an evaluation of our internal control over financial reporting as required by Section 404 of the
+Sarbanes-Oxley Act of 2002. Although our assessment, testing, and evaluation resulted in our conclusion that as of July 2, 2010, our internal control over financial reporting was effective, we
+cannot predict the outcome of our testing in future periods. If our internal controls are ineffective in future periods, our financial results or the market price of our shares could be adversely
+affected. We will incur additional expenses and commitment of management's time in connection with further evaluations. 
+
+ Dependence on Key Personnel—The loss of key executive officers and employees could negatively impact our business prospects.  
+
+        Our future performance depends to a significant degree upon the continued service of key members of management as well as marketing,
+sales and product development personnel. The loss of one or more of our key personnel may have a material adverse effect on our business, results of operations and financial condition. We believe our
+future success will also depend in large part upon our ability to attract, retain and further motivate highly skilled management, marketing, sales and product development personnel. We have
+experienced intense competition for personnel, and we cannot assure you that we will be able to retain our key employees or that we will be successful in attracting, assimilating and retaining
+personnel in the future. 
+
+34
+
+
+
+
+ 
+
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+ Suspension of Paying Quarterly Dividends—Our policy of not paying dividends could result in a persistently low market valuation of our ordinary shares.  
+
+        On April 13, 2009, we announced that we had adopted a policy of no longer paying a quarterly dividend to our ordinary
+shareholders to enhance liquidity. Our policy of not paying a quarterly dividend could result in a persistently low market valuation of our ordinary shares. 
+
+        Our
+ability to pay quarterly dividends in the future will be subject to, among other things, general business conditions within the disk drive industry, our financial results, the impact
+of paying dividends on our credit ratings and legal and contractual restrictions on the payment of dividends by our subsidiaries to us or by us to our ordinary shareholders. 
+
+ Potential Governmental Action—Governmental action against companies located in offshore jurisdictions may lead to a reduction in the demand for our ordinary
+shares.  
+
+        Recent U.S. federal and state legislation has been proposed, and additional legislation may be proposed in the future which, if
+enacted, could have an adverse tax impact on either Seagate or its shareholders. 
+
+ Securities Litigation—Significant fluctuations in the market price of our ordinary shares could result in securities class action claims against us.  
+
+        Significant price and value fluctuations have occurred with respect to the publicly traded securities of disk drive companies and
+technology companies generally. The price of our ordinary shares is likely to be volatile in the future. In the past, following periods of decline in the market price of a company's securities, class
+action lawsuits have often been pursued against that company. If similar litigation were pursued against us, it could result in substantial costs and a diversion of management's attention and
+resources, which could materially adversely affect our results of operations, financial condition and liquidity. 
+
+ Current Global Credit and Financial Market Conditions—Current global credit and financial market conditions could negatively impact the value of our current
+portfolio of cash equivalents, short-term investments or auction rate securities and our ability to meet our financing objectives.  
+
+        Our cash and cash equivalents are maintained in highly liquid investments with remaining maturities of 90 days or less at the
+time of purchase. Our short-term investments consist primarily of readily marketable debt securities with remaining maturities of more than 90 days at the time of purchase. Our
+investment policy has as its principal objectives the preservation of principal and maintenance of liquidity. We mitigate default risk by investing in high-quality investment grade
+securities, limiting the time to maturity and by monitoring the counter-parties and underlying obligors closely. 
+
+        As
+of July 2, 2010, we continued to hold auction rate securities with a par value of approximately $19 million, all of which are collateralized by student loans guaranteed
+by the Federal Family Education Loan Program. Beginning in the March 2008 quarter, these securities have continuously failed to settle at auction. As of July 2, 2010, the estimated fair value
+of these auction rate securities was $17 million. We believe that the impairments totaling $2 million are temporary as we do not intend to sell these securities and have concluded it is
+not more likely than not that we will be required to sell the securities before the recovery of the amortized cost basis. 
+
+        While
+as of the date of this filing, we are not aware of any other material downgrades, losses, or other significant deterioration in the fair value of our cash equivalents or
+short-term investments or auction rate securities since July 2, 2010, no assurance can be given that further deterioration in conditions of the global credit and financial markets
+would not negatively impact our current portfolio of cash equivalents, short-term investments or auction rate securities or our ability to meet our financing objectives. 
+
+35
+
+
+
+
+ 
+
+<A
+HREF="#bg77201a_main_toc">Table of Contents
+
+
+
+ Environmental Regulations—Failure to comply with applicable environmental laws and regulations could have a material adverse effect on our business, results of
+operations and financial condition.  
+
+        The sale and manufacturing of products in certain states and countries may subject us to environmental and other regulations including,
+in some instances, the responsibility for environmentally safe disposal or recycling. For example, the EU has enacted the Restriction of the Use of Certain Hazardous Substances in Electrical and
+Electronic Equipment directive, which prohibits the use of certain substances in electronic equipment, and the Waste Electrical and Electronic Equipment directive, which obligates parties that place
+electrical and electronic equipment onto the market in the EU to put a clearly identifiable mark on the equipment, register with and report to EU member countries regarding distribution of the
+equipment, and provide a mechanism to take-back and properly dispose of the equipment. Similar legislation may be enacted in other locations where we manufacture or sell our products.
+Although we do not anticipate any material adverse effects based on the nature of our operations and the focus of such legislation, we will need to ensure that we comply with these laws and
+regulations as they are enacted and that our suppliers also comply with these laws and regulations. If we fail to timely comply with the legislation, our customers may refuse to purchase our products,
+which would have a material adverse effect on our business, results of operations and financial condition. In addition, if we were found to be in violation of these laws or noncompliance with these
+initiatives or standards of conduct, we could be subject to governmental fines, liability to our customers and damage to our reputation, which would also have a material adverse effect on our
+business, results of operations and financial condition.  
+
+<A
+NAME="dg77201_item_1b._unresolved_staff_comments"> 
+    ITEM 1B

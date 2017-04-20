@@ -1,0 +1,5026 @@
+Item 1A: Risk Factors” we discuss some of the
+    risk factors that could cause actual results to differ
+    materially from those stated in the forward-looking
+    statements.
+
+
+ 
+
+
+    “Motorola” (which may be referred to as the
+    “Company,” “we,” “us,” or
+    “our”) means Motorola, Inc. or Motorola, Inc. and its
+    subsidiaries, or one of our segments, as the context requires.
+    “Motorola” is a registered trademark of Motorola,
+    Inc.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1: 
+
+    
+    Business
+
+
+
+
+
+ 
+
+
+
+    General
+
+
+ 
+
+
+    We provide technologies, products and services that make a broad
+    range of mobile experiences possible. Our portfolio includes
+    wireless handsets, wireless accessories, digital entertainment
+    devices, wireless access systems, voice and data communications
+    systems, and enterprise mobility products. With the rapid
+    convergence of fixed and mobile broadband Internet and the
+    growing demand for next-generation mobile communications
+    products by people, businesses and governments, we are focused
+    on high-quality, innovative products that meet the expanding
+    needs of our customers around the world.
+
+
+ 
+
+
+    We operate in the following businesses:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The Mobile Devices business designs, manufactures, sells
+    and services wireless handsets with integrated software and
+    accessory products, and licenses intellectual property.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The Home and Networks Mobility business designs,
+    manufactures, sells, installs and services: (i) digital
+    video, Internet Protocol video and broadcast network interactive
+    set-tops, end-to-end video delivery systems, broadband access
+    infrastructure platforms, and associated data and voice customer
+    premise equipment to cable television and telecom service
+    providers, and (ii) wireless access systems, including
+    cellular infrastructure systems and wireless broadband systems,
+    to wireless service providers.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The Enterprise Mobility Solutions business designs,
+    manufactures, sells, installs and services analog and digital
+    two-way radio, voice and data communications products and
+    systems for private networks, wireless broadband systems and
+    end-to-end enterprise mobility solutions to a wide range of
+    enterprise markets, including government and public safety
+    agencies, as well as retail, energy and utilities,
+    transportation, manufacturing, healthcare and other commercial
+    customers.
+
+
+
+
+
+ 
+
+
+    Motorola is a corporation organized under the laws of the State
+    of Delaware as the successor to an Illinois corporation
+    organized in 1928. Motorola’s principal executive offices
+    are located at 1303 East Algonquin Road, Schaumburg, Illinois
+    60196.
+
+
+ 
+
+
+
+    Business
+    Segments
+
+
+ 
+
+
+    We report financial results for the following three operating
+    business segments:
+
+
+ 
+
+
+
+    Mobile
+    Devices Segment
+
+
+ 
+
+
+    The Mobile Devices segment (“Mobile Devices” or the
+    “segment”) designs, manufactures, sells and services
+    wireless handsets with integrated software and accessory
+    products, and licenses intellectual property. In 2008, the
+    segment’s net sales represented 40% of the Company’s
+    consolidated net sales.
+
+
+ 
+
+
+
+    Principal
+    Products and Services
+
+
+ 
+
+
+    Our wireless subscriber products include wireless handsets and
+    related software and accessory products. We also sell and
+    license our intellectual property. We market our products
+    globally to carriers and consumers through direct sales,
+    distributors, retailers and, in certain markets, through
+    licensees.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    2
+
+
+
+ 
+
+
+
+    Our
+    Industry
+
+
+ 
+
+
+    Total industry shipments of wireless handsets (also referred to
+    as industry “sell-in”) increased to approximately
+    1.2 billion units in 2008, a 5% increase compared to 2007.
+    Demand from new subscribers was strong in emerging markets, led
+    by India and China. During the second half of 2008, a global
+    economic downturn impacted the wireless handset industry,
+    resulting in the slowing of end-user demand.
+
+
+ 
+
+
+    The ongoing downturn in the global economy has many industry
+    forecasters predicting a challenging 2009 for the wireless
+    handset industry, with many predicting industry handset unit
+    shipments to decline approximately 10% for the full year 2009
+    compared to 2008. This would be the first decline in annual
+    industry handset unit shipments since 2001. The expected decline
+    would be a result of both slowing growth in the emerging markets
+    and lower replacement sales in highly-penetrated markets.
+
+
+ 
+
+
+    Beyond 2009, we expect growth to return to the wireless handset
+    industry. We believe growth rates will be in the mid single
+    digits for the years 2010 and 2011, compared to the 15% CAGR
+    experienced by the industry from 2004 through 2008. Although
+    slowing, growth is expected to continue to be driven primarily
+    by demand from new subscribers in emerging markets and
+    replacement sales from the current subscriber base. As growth in
+    the overall industry for mobile wireless handsets slows, we
+    expect smartphones (devices that primarily have an open
+    operating system and provide the opportunity to develop and run
+    native applications) to be the fastest growing market segment.
+
+
+ 
+
+
+
+    Our
+    Strategy
+
+
+ 
+
+
+    Motorola seeks to be a leading supplier of wireless handsets and
+    mobile experiences to customers globally. To accomplish this
+    objective, our strategy is focused on simplifying product
+    platforms, enhancing our mid- and
+    high-tier
+    product portfolio, and strengthening our position in priority
+    markets. We have taken significant actions in 2008 to simplify
+    our wireless handset platforms and enhance our product
+    portfolio, while reducing the size and cost structure of the
+    Mobile Devices business. These actions will accelerate our speed
+    to market with new products, allow us to offer richer consumer
+    experiences and improve our financial performance.
+
+
+ 
+
+
+    Simplifying product platforms is an essential component of our
+    overall strategy. We have reduced the number of product
+    platforms that we support, increasing our emphasis on 3G and
+    smartphone devices and maintaining our focus on CDMA and iDEN.
+    We are implementing aggressive plans to rationalize both
+    hardware and software platforms in order to reduce the
+    complexity of our product platforms and system architectures.
+    Our hardware platforms will leverage fewer chipset suppliers for
+    our handsets. In addition, our software platforms will focus on
+    Android (a Google-developed, royalty-free platform), Windows
+    Mobile (a Microsoft platform) and P2K (a Motorola internal,
+    proprietary platform). We will also continue to focus on our
+    proprietary iDEN technology and the CDMA software platforms.
+    CDMA and iDEN are technologies in which our segment has
+    traditionally maintained a strong market share position. Success
+    in these technologies also aligns with our focus on priority
+    markets. These steps will provide Mobile Devices with the
+    ability to streamline our portfolio, emphasizing product
+    development and innovation, while also addressing the changing
+    marketplace.
+
+
+ 
+
+
+    As the market evolves to reflect the emergence of converged
+    wireless devices, mobile internet, social networking, navigation
+    and messaging, the shift from “voice-centric” devices
+    to “data-centric” devices is expected to continue.
+    These devices, which include smartphones, deliver unique
+    consumer experiences and require complete “end-to-end”
+    solutions that incorporate various applications and services. By
+    utilizing the smartphone platforms, we will provide a broad
+    array of devices, targeted at delivering computer-like
+    functionality, such as web browsing and email, in both our mid-
+    and high-tier offerings. Over the next 12 to 18 months our
+    primary smartphone development will be based on the Android
+    operating system. As new generations of Windows Mobile enter the
+    market, we intend to increase our focus on this platform as
+    well. We will also leverage relationships with partners and
+    developers in order to provide the necessary applications and
+    services to support the “end-to-end” solutions desired
+    by our consumers. We intend to utilize our experience with the
+    Linux / Java platform and leverage our assets from
+    previous Linux/Java investments, to deliver compelling
+    applications and user experiences, such as more highly
+    integrated social networking experiences.
+
+
+ 
+
+
+    In addition to our portfolio streamlining and enhancement
+    efforts, over the next year we will also increase our focus in
+    priority markets. These markets will include North America,
+    Latin America and parts of Asia, including China. Historically,
+    these are regions in which we have experienced strong market
+    share and brand position. Additionally, these regions have
+    represented a significant portion of the segment’s overall
+    business. We will also continue to leverage our brand position
+    in these markets. In other geographies, we will prioritize and
+    make
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    3
+
+
+
+
+    investments commensurate with the competitiveness of our
+    portfolio. Longer term, we plan to compete in all major markets.
+
+
+ 
+
+
+    Along with our mobile handset initiatives, we have also
+    increased focus in our accessories portfolio to deliver complete
+    mobile experiences and to complement the features and
+    functionalities of wireless handsets. Expanding our accessory
+    compatibility across all brands of wireless handsets and
+    Bluetooth-enabled devices, as well as into spaces such as
+    navigation, will provide greater opportunities for growth.
+
+
+ 
+
+
+    We continue to invest in next-generation technologies for
+    wireless devices based on WiMAX, High-Speed Downlink Packet
+    Access (“HSDPA”) and Long-Term Evolution
+    (“LTE”). We believe a strong intellectual property
+    portfolio is critical to our long-term success and to ensuring
+    that we maintain a favorable strategic position that demonstrate
+    unique experiences and value for consumers. In application
+    services, we continue to work with third parties to improve upon
+    and develop our services and applications, which will deliver
+    rich experiences to the customer. Motorola is committed to
+    investing in evolving technologies to ensure that we continue to
+    deliver enhanced and differentiated wireless handset experiences
+    to consumers.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    The segment has several large customers located throughout the
+    world. In 2008, aggregate net sales to the segment’s five
+    largest customers represented approximately 41% of the
+    segment’s net sales. The loss of one or more of these
+    customers could have a material adverse effect on the
+    segment’s business. In addition to selling directly to
+    carriers and operators, our Mobile Devices business also sells
+    products through a variety of third-party distributors and
+    retailers, which account for approximately 24% of the
+    segment’s net sales.
+
+
+ 
+
+
+    Uncertainty about current and future global economic conditions
+    may cause, and in some cases has caused, our customers to
+    maintain tighter inventory management. We experienced this
+    beginning in the fourth quarter of 2008 and expect this trend to
+    continue into 2009, which could impact the timing of future
+    sales.
+
+
+ 
+
+
+    The U.S. market continued to be the segment’s largest
+    individual market, accounting for approximately 44% of the
+    segment’s net sales in 2008, compared to approximately 46%
+    of the segment’s net sales in 2007. Approximately 56% of
+    the segment’s net sales in 2008 were to markets outside the
+    U.S., the largest of which were Brazil, China and Mexico.
+    Compared to 2007, the segment experienced sales declines in each
+    of its four major sales regions: North America, the Europe,
+    Middle East and Africa (“EMEA”) region, Asia and Latin
+    America.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The segment believes its overall market share for the full year
+    2008 was approximately 8%, making it the fourth-largest
+    worldwide supplier of wireless handsets on a full-year basis.
+    For full year 2007, the segment’s overall market share was
+    approximately 14%. We estimate our market share in the fourth
+    quarter of 2008 to be approximately 6%, a decrease of
+    approximately 6 percentage points versus the fourth quarter
+    of 2007. The significant decrease was primarily driven by the
+    segment’s limited product offerings in critical market
+    segments, particularly 3G products, including smartphones,
+    and very low-tier products.
+
+
+ 
+
+
+    The segment experiences intense competition in worldwide markets
+    from numerous global competitors, such as Nokia, Samsung, LG and
+    Sony-Ericsson. In 2008, the five largest handset manufacturers
+    together held an aggregate market share of approximately 80%,
+    compared to 83% at the end of 2007.
+
+
+ 
+
+
+    Smartphones emerged as a major product in the wireless handset
+    market during 2008. Manufacturers with strong smartphone
+    portfolios have benefited from this. Motorola is committed to
+    enhancing its smartphone portfolio to compete more effectively
+    and will focus on Android and Windows Mobile software platforms
+    for these products, while also continuing to focus on our
+    proprietary iDEN technology and the CDMA software platforms.
+
+
+ 
+
+
+    General competitive factors in the market for the segment’s
+    products include: overall quality of user experience; design;
+    time-to-market; brand awareness; technology offered; price;
+    product features, performance, quality, delivery and warranty;
+    the quality and availability of service; and relationships with
+    key customers.
+
+
+ 
+
+
+
+    Payment
+    Terms
+
+
+ 
+
+
+    The segment’s customers and distributors buy from us
+    regularly with payment terms that are competitive with current
+    industry practices. These terms vary globally and generally
+    range from cash-with-order to 60 days.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    4
+
+
+
+
+    Extended payment terms beyond 60 days are provided to
+    certain customers on a limited basis. A customer’s
+    outstanding credit at any point in time is limited to a
+    predetermined amount as established by the Company.
+
+
+ 
+
+
+
+    Regulatory
+    Matters
+
+
+ 
+
+
+    Radio frequencies are required to provide wireless services. The
+    allocation of frequencies is regulated in the U.S. and
+    other countries, and limited spectrum space is allocated to
+    wireless services. The growth of the wireless and personal
+    communications industry may be affected if adequate frequencies
+    are not allocated or, alternatively, if new technologies are not
+    developed to better utilize the frequencies currently allocated
+    for such use. Industry growth may also be affected by the cost
+    of the new licenses required to use frequencies and any related
+    frequency relocation costs.
+
+
+ 
+
+
+    The U.S. leads the world in spectrum deregulation, allowing
+    new wireless communications technologies to be developed and
+    offered for sale. Examples include wireless local area network
+    systems, such as WiFi, and wide area network systems, such as
+    WiMAX and LTE. Other countries have also deregulated portions of
+    their available spectrum to allow deployment of these and other
+    new technologies. In addition, Mobile WiMAX was approved in 2007
+    as a global IMT (International Mobile Telecommunications)
+    standard. This action lays the foundation to further expand
+    mobile WiMAX in key bands, making additional spectrum available
+    globally. Deregulation may introduce new competition and new
+    opportunities for Motorola and our customers.
+
+
+ 
+
+
+    In 2008, the Federal Communications Commission (“FCC”)
+    conducted its auction of 700 MHz band spectrum licenses in
+    the United States. This spectrum can carry large amounts of data
+    across long distances and penetrate walls easier than higher
+    frequencies, enhancing in-building coverage. The spectrum is
+    being recovered from television broadcast use as a result of the
+    transition from analog to digital television. The spectrum was
+    expected to be fully available for mobile operations as of
+    February 17, 2009, however the date of the transition from
+    analog to digital has been moved to June 12, 2009. This
+    delay is not expected to significantly delay the deployment of
+    services. However, any additional delays may have a greater
+    impact on service deployment. The FCC has imposed open-access
+    conditions that prevent the licensee from blocking devices or
+    applications that are compatible with the network on
+    approximately one-third of the 700 MHz spectrum that was
+    auctioned. These conditions are intended to help foster
+    innovation in handsets and applications. However, the actual
+    impact of the new licenses remains unclear.
+
+
+
+
+
+
+ 
+
+
+    In January 2009, China’s Ministry of Industry and
+    Information Technology issued licenses for its 3G mobile
+    data network to the three key operators in China. With the
+    Company’s focus on 3G products and smartphones and its
+    focus on China as a high-priority market, we believe that we
+    will benefit from the 3G transition in China.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    The segment’s backlog was $290 million at
+    December 31, 2008, compared to $647 million at
+    December 31, 2007. This decrease in backlog is primarily
+    due to a decline in customer demand, driven by the
+    segment’s limited product portfolio, as well as the global
+    economic downturn. The 2008 backlog is believed to be generally
+    firm and 100% of that amount is expected to be recognized as
+    revenue in 2009. The forward-looking estimate of the firmness of
+    such orders is subject to future events that may cause the
+    amount recognized to change.
+
+
+ 
+
+
+
+    Intellectual
+    Property Matters
+
+
+ 
+
+
+    Patent protection is extremely important to the segment’s
+    operations. The segment has an extensive portfolio of patents
+    relating to its products, technologies and manufacturing
+    processes. The segment licenses certain of its patents to third
+    parties and generates revenue from these licenses. Motorola is
+    also licensed to use certain patents owned by others. Royalty
+    and licensing fees vary from year to year and are subject to the
+    terms of the agreements and sales volumes of the products
+    subject to licenses. The protection of these licenses is also
+    important to the segment’s operations. Reference is made to
+    the material under the heading “Other Information” for
+    additional information relating to patents and trademarks and
+    research and development activities with respect to this segment.
+
+
+ 
+
+
+
+    Inventory,
+    Raw Materials, Right of Return and Seasonality
+
+
+ 
+
+
+    The segment’s practice is to carry reasonable amounts of
+    inventory in manufacturing and distribution centers in order to
+    meet customer delivery requirements in a manner consistent with
+    industry standards. At the end of
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    5
+
+
+
+
+    2008, the segment had a lower inventory balance than at the end
+    of 2007. The decrease reflects the continued decline in sales
+    volumes during 2008.
+
+
+ 
+
+
+    Availability of materials and components required by the segment
+    is relatively dependable, but fluctuations in supply and market
+    demand could cause selective shortages and affect results. We
+    currently source certain materials and components from single
+    vendors. Any material disruption from a single-source vendor may
+    have a material adverse impact on our results of operations. If
+    certain key suppliers were to become capacity constrained or
+    insolvent as a result of the ongoing global financial crisis, it
+    could result in a reduction or interruption in supplies or an
+    increase in the price of supplies and adversely impact the
+    segment’s financial results.
+
+
+ 
+
+
+    Natural gas, electricity, and, to a lesser extent, oil are the
+    primary sources of energy required for the segment’s
+    manufacturing operations. Each of these resources are currently
+    in generally adequate supply for the segment’s operations.
+    In addition, the cost to operate our facilities and freight
+    costs are dependent on world oil prices, which fluctuated
+    significantly during 2008 and impacted our manufacturing and
+    shipping costs. Labor is generally available in reasonable
+    proximity to the segment’s manufacturing facilities.
+    However, difficulties in obtaining any of the aforementioned
+    items or a significant cost increase could affect the
+    segment’s results.
+
+
+ 
+
+
+    The segment permits returns under limited circumstances to
+    remain competitive with current industry practices.
+
+
+ 
+
+
+    The segment typically experiences higher sales in the fourth
+    calendar quarter and lower sales in the first calendar quarter
+    of each year due to seasonal trends in the wireless handset
+    industry.
+
+
+ 
+
+
+
+    Our
+    Facilities/Manufacturing
+
+
+ 
+
+
+    Our headquarters are located in Libertyville, Illinois. Our
+    other major facilities are located in Plantation, Florida;
+    Beijing, Hangzhou, Nanjing and Tianjin, China; Seoul, South
+    Korea; Chennai, India; and Jaguariuna, Brazil.
+
+
+ 
+
+
+    We also use several electronics manufacturing suppliers
+    (“EMS”) and original design manufacturers
+    (“ODM”) to enhance our ability to lower our costs
+    and/or
+    deliver products that meet consumer demands in the
+    rapidly-changing technological environment. A significant
+    portion of our handsets are manufactured either completely or
+    substantially by non-affiliated EMS and ODM manufacturers,
+    primarily by two third-party manufacturers in China.
+
+
+ 
+
+
+    In 2008, our handsets were primarily manufactured in Asia and
+    Brazil, and we expect this to continue in 2009. Our largest
+    manufacturing facilities are located in China and Brazil. Each
+    of these facilities serves multiple countries and regions of the
+    world.
+
+
+ 
+
+
+
+    Home
+    and Networks Mobility Segment
+
+
+ 
+
+
+    The Home and Networks Mobility segment (“Home and Networks
+    Mobility” or the “segment”) designs,
+    manufactures, sells, installs and services: (i) digital
+    video, Internet Protocol (“IP”) video and broadcast
+    network interactive set-tops (“digital entertainment
+    devices”), end-to-end video delivery systems, broadband
+    access infrastructure platforms, and associated data and voice
+    customer premise equipment (“broadband gateways”) to
+    cable television and telecom service providers (collectively,
+    referred to as the “home business”), and
+    (ii) wireless access systems (“wireless
+    networks”), including cellular infrastructure systems and
+    wireless broadband systems, to wireless service providers
+    (collectively, referred to as the “networks
+    business”). In 2008, the segment’s net sales
+    represented 33% of the Company’s consolidated net sales.
+
+
+ 
+
+
+
+    Principal
+    Products and Services
+
+
+ 
+
+
+    In the home business, the segment is a leading provider of
+    end-to-end networks used for the delivery of video, data and
+    voice services over hybrid fiber coaxial (“HFC”)
+    networks, digital subscriber line (“DSL”) networks and
+    passive optical networks (“PON”). Our portfolio
+    includes: MPEG video encoding equipment for standard-definition
+    and high-definition television (“HDTV” or
+    “HD”); video processing and multiplexing systems; and
+    video-on-demand,
+    switched digital video and conditional access systems used by
+    network operators and programmers to deliver video programming.
+    We provide a broad array of digital entertainment devices
+    supporting analog, digital and IP video delivery, including HD
+    and digital video recording (“DVR”) (together,
+    “HD/DVR”) applications. We support the delivery of
+    high-speed data and voice services with head-end and central
+    office
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    6
+
+
+
+
+    equipment, along with data and voice modems and gateways for HFC
+    and DSL networks and optical line and optical node terminals for
+    PON networks.
+
+
+ 
+
+
+    In the networks business, the segment provides end-to-end
+    cellular networks, including radio base stations, base station
+    controllers, associated software and services, application
+    platforms and third-party switching for CDMA, GSM,
+    iDEN®
+
+    and UMTS technologies. The segment also offers a portfolio of
+    WiMAX products and is in trials with customers to provide our
+    LTE technology to enable next-generation mobile IP broadband
+    access. WiMAX and LTE will make mobile bandwidth more affordable
+    and accessible for mainstream consumer adoption.
+
+
+ 
+
+
+    Our products are marketed primarily to cable television
+    operators, telecom operators, wireless service providers,
+    television programmers and other communications providers
+    worldwide and are sold primarily by our internal sales force.
+
+
+ 
+
+
+
+    Our
+    Industry
+
+
+ 
+
+
+    The home market is evolving rapidly as cable and telecom network
+    operators expand their video, data and voice services (commonly
+    known as the “triple play”) to grow their subscriber
+    base. The competition between cable and telecom service
+    providers continues to increase. Telecom operators are expanding
+    their broadband networks and beginning to offer advanced video
+    and data services using IPTV and PON technologies. Cable
+    operators are responding by expanding their investment in HD
+    programming, bundling voice-over-IP services, expanding their
+    broadband data service through Data Over Cable Service Interface
+    Specifications (“DOCSIS”) 3.0 channel bonding, and
+    maximizing utilization of network bandwidth using switched
+    digital video technology.
+
+
+ 
+
+
+    Our home business is subject to regulation by the FCC in the
+    United States and other governmental communication regulators
+    throughout the world. FCC regulations requiring separation of
+    security functionality from cable set-tops became effective in
+    2007. This has resulted in increased competition for sales of
+    set-top boxes to cable operators and has enabled a retail
+    distribution of devices capable of accessing encrypted cable
+    programming. Our home business offers a cablecard that allows
+    third-party consumer electronic devices to be deployed on a
+    network using the Motorola conditional access system. Motorola
+    also offers a portfolio of cable card host set-tops that allows
+    our digital video set-tops to be deployed in service provider
+    networks using third-party encryption technology.
+
+
+ 
+
+
+    In the wireless networks market, the majority of installed
+    cellular infrastructure systems are based on CDMA, GSM, UMTS and
+    iDEN technologies. We supply systems based on each of these
+    technologies and are the sole supplier of proprietary iDEN
+    networks. Advanced infrastructure systems based on these
+    technologies include GPRS, CDMA-1X and EDGE. In addition, some
+    segments of the cellular infrastructure industry have installed,
+    or are in the process of migrating to, 3G networks, which are
+    high-capacity radio access wireless networks providing enhanced
+    data services, improved Internet access and increased voice
+    capacity. The primary 3G technologies are
+    W-CDMA
+    (based on either UMTS or Freedom of Mobile Multimedia Access
+    (“FOMA”) technologies) and CDMA 2000 1xEVDO. We
+    supply 3G systems based on UMTS and CDMA 2000 1xEVDO
+    technologies. An additional 3G technology standard, TD-SCDMA,
+    has been driven primarily by the Chinese government and local
+    Chinese vendors. China’s Ministry of Industry and
+    Information Technology awarded 3G licenses in early 2009, which
+    is driving regional network upgrades.
+
+
+ 
+
+
+    Industry standards bodies are in the process of defining the
+    next generation of wireless broadband systems after 3G. The
+    Institute of Electrical and Electronics Engineers
+    (“IEEE”) has developed fixed and mobile broadband
+    standards (802.16d and 802.16e) based on orthogonal frequency
+    division multiplexing (“OFDM”) technology, which will
+    utilize wider channels and enable triple play services (voice,
+    data, video). These standards are the basis for WiMAX, a market
+    that experienced strong growth in 2008. Motorola has been
+    awarded a number of WiMAX contracts and customers in various
+    markets have started to offer commercial WiMAX services
+    utilizing Motorola infrastructure equipment. We are an early
+    leader in WiMAX technology.
+
+
+ 
+
+
+    The International Telecommunications Union (“ITU”) has
+    also adopted next-generation cellular wireless access standards
+    (“4G”) for the cellular infrastructure industry, also
+    based on OFDM technology and known commonly as LTE. LTE has
+    widespread industry support, not only from current GSM and UMTS
+    operators, but also from CDMA/EV-DO based carriers.
+
+
+ 
+
+
+    Licensing bodies of governments around the world are making
+    spectrum available for advanced wireless technologies, including
+    4G, in recognition of growing demand for wireless broadband
+    services. Currently, Motorola estimates that there are over
+    1,200 licenses available worldwide for advanced wireless
+    technologies with over 800 licenses outside of North America.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    7
+
+
+
+ 
+
+
+    Demand for our products depends primarily on capital spending by
+    providers of cellular and broadband services for constructing,
+    rebuilding or upgrading their communications systems, as well as
+    the marketing of advanced communications services by those
+    providers. The amount of spending by these providers, and
+    therefore a majority of our sales and profitability, are
+    affected by a variety of factors, including: (i) the
+    continuing trend of consolidation within the cable, wireline and
+    wireless industries, (ii) the financial condition of
+    operators and alternative providers, including their access to
+    financing, (iii) technological developments,
+    (iv) standardization efforts that impact the deployment of
+    new equipment, (v) new legislation and regulations
+    affecting the equipment sold by the segment, and
+    (vi) general economic conditions.
+
+
+ 
+
+
+    During 2008, wireless operators’ expenditures globally for
+    2G technology and related services, such as GSM, GPRS and EDGE,
+    were comparable to 2007, while similar expenditures for iDEN
+    technology were down. Global expenditures for 3G technology and
+    related services, such as UMTS, increased in 2008, while similar
+    expenditures for CDMA/EV-DO technology were comparable to 2007.
+    Global expenditures for next-generation technologies, such as
+    WiMAX, and related services increased in 2008.
+
+
+ 
+
+
+    Forecasted industry trends point to an overall decline in
+    operator expenditures globally in 2009, as growth in UMTS and
+    WiMAX are not expected to offset the decline in expenditures for
+    legacy technologies, such as GSM and CDMA. Motorola expects the
+    overall wireless network market to be down in 2009 compared to
+    2008.
+
+
+ 
+
+
+    In 2008, the home business benefited from continued spending by
+    operators on our products due to the increase in the number of
+    video and data subscribers and the deployment of advanced video
+    platforms by cable operators for
+    HD/DVR
+    applications, as well as from spending by telecom operators
+    upgrading their networks and adding video services. The growth
+    of broadband connectivity is expected to continue as cable
+    operators upgrade to DOCSIS 3.0 and telecom service providers
+    continue to deploy very high speed digital subscriber line
+    (“VDSL”) and PON data services. While continued growth
+    is expected in these video and data markets, industry analysts
+    have been reducing their outlooks for capital spending due to
+    the ongoing uncertainty in the global economy.
+
+
+ 
+
+
+
+    Our
+    Strategy
+
+
+ 
+
+
+    The Home and Networks Mobility segment is focused on leadership
+    in next-generation broadband solutions to accelerate the
+    delivery of personal media experiences. Key elements in the
+    segment’s strategy include: (i) providing for seamless
+    convergence of services and applications across delivery
+    platforms within the home and across wireline and wireless
+    networks, (ii) innovating and optimizing our end-to-end
+    network portfolio, and (iii) developing new services that
+    leverage our platforms to provide revenue generating
+    applications and services to our operator customers while
+    enabling consumers to experience media mobility. As part of our
+    strategy, we have made and will continue to make strategic
+    acquisitions.
+
+
+ 
+
+
+    In the home business, we are focused on accelerating the rate of
+    digital penetration by broadband operators in North America
+    through an enhanced suite of digital entertainment devices.
+    These products include basic models supporting the industry
+    movement to all-digital delivery and advanced units supporting
+    HD/DVR functions, as well as whole home video networking. We
+    continue to invest to differentiate our products and services
+    and add value for our customers in areas of software and
+    applications, content on-demand and targeted advertising.
+
+
+ 
+
+
+    We are capitalizing on telecom operators decisions to offer IPTV
+    to their subscribers globally, with products that support
+    delivery of video content using both copper-outside-plant and
+    fiber-to-the-premises (“FTTP”) networks. The segment
+    continues to provide video infrastructure, FTTP access network
+    equipment, advanced digital entertainment devices and IP
+    interactive set-tops to leading telecommunication companies
+    around the world. During 2008, we completed the acquisition of
+    the set-top box and associated chipset assets of Zhejung Dahua
+    Digital Technology Co., LTD and Hangzhou Image Silicon, known
+    collectively as Dahua Digital to increase our position in the
+    rapidly growing cable market in China. We are also an industry
+    leader in broadband data and voice products. We are delivering
+    DOCSIS 3.0 channel bonding on our cable modem termination
+    systems (“CMTS”) and cable modems, and commercially
+    deploying our Gigabit PON platform.
+
+
+ 
+
+
+    In the networks business, the segment provides equipment and
+    services to over 125 GSM, CDMA, and iDEN networks globally. The
+    segment is investing to be a leader in next-generation wireless
+    broadband technologies with its WiMAX and LTE systems. WiMAX and
+    LTE are evolved wireless broadband technologies that enable
+    operators to provide improved data performance at lower
+    operating cost. These technologies offer similar advantages for
+    existing operators and emerging broadband service providers and
+    vary in selection depending on the desired application and
+    available spectrum. In 2008, the segment delivered WiMAX network
+    equipment to over 25 WiMAX networks throughout the world. In
+    addition, at the end of 2008, the segment was participating in
+    over
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    8
+
+
+
+
+    20 WiMAX trials globally, representing new business
+    opportunities in 2009. As a leader in the baseline OFDM
+    technology used for WiMAX, the segment is leveraging this
+    expertise to accelerate our LTE product offering which will
+    support both frequency division duplex (“FDD”) and
+    time division duplex (“TDD”) modes. The LTE standard
+    was ratified in December 2008, enabling operators and vendors to
+    accelerate testing and deployment. The segment is participating
+    in the LTE system architecture evolution trial initiative.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    In 2008, aggregate net sales to the segment’s five largest
+    customers, primarily large cable operators and telecommunication
+    companies located throughout the world, represented
+    approximately 45% of the segment’s net sales. The loss of
+    any of the segment’s large customers could have a material
+    adverse effect on the segment’s business. Further, because
+    many of the segment’s contracts are long-term, the loss of
+    a major customer could impact revenue and earnings over several
+    quarters. The segment’s proportion of sales outside of
+    North America increased to 50% in 2008, compared to 48% in 2007.
+    This reflected 5% aggregate growth in net sales outside of North
+    America and a 3% decline in net sales in North America.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The businesses in which the segment operates are highly
+    competitive. The rapid technological changes occurring in each
+    of the markets in which the segment competes are expected to
+    lead to the entry of many new competitors. Competitive factors
+    in the market for the segment’s products and systems
+    include: technology offered; product and system performance;
+    price; product features; quality; delivery and availability. We
+    believe that we are competitively positioned because of our
+    solid relationships with major communication system operators
+    worldwide, our technological leadership and our new product
+    development capabilities. Price is a major area of competition
+    and often impacts margins for initial system bids, particularly
+    in emerging markets. Time-to-market has also been an important
+    competitive factor, especially for new systems and technologies.
+    We compete with many equipment suppliers and several consumer
+    electronics companies located throughout the world.
+
+
+ 
+
+
+    In our home business, we compete worldwide in the market for
+    digital entertainment devices and cable and wireline
+    infrastructure equipment for broadband networks. Our largest
+    competitor is Cisco. Based on 2008 annual sales, we are the
+    leading provider of digital cable and IPTV set-tops worldwide.
+    Our digital entertainment devices and infrastructure equipment
+    compete with products from a number of different companies,
+    including: (i) those that develop and sell products that
+    are distributed by direct broadcast satellite service providers
+    through retail channels, (ii) those that develop,
+    manufacture and sell products of their own design, and
+    (iii) those that license technology from us or other
+    competitors.
+
+
+ 
+
+
+    Traditionally, cable service providers have leased
+    set-tops to
+    their customers. FCC regulations requiring separation of
+    security functionality from set-tops became effective in 2007.
+    To meet this requirement, we provide security modules to cable
+    operators for use with both our own and third-party set-tops, as
+    well as in consumer products designed to accept them. The
+    initial implementation limited consumer products to
+    broadcast-delivered channels including premium services. A full
+    two-way security interface specification that allows retail
+    customers access to all programming available on the
+    operator’s network without the need for a set-top box has
+    been adopted by a few television manufacturers. They began
+    shipping television sets that incorporate this capability in
+    2008.
+
+
+ 
+
+
+    We also compete worldwide in the market for broadband data and
+    voice products. We believe that we are a leading provider of
+    cable modems worldwide, competing with several consumer
+    electronic companies and original design manufacturers worldwide.
+
+
+ 
+
+
+    In the wireless networks market, there is widespread competition
+    from numerous competitors, ranging from some of the world’s
+    largest diversified companies to foreign telecommunications
+    companies to many small, specialized firms. Ericsson is the
+    market leader, followed by the Nokia-Siemens joint venture,
+    Alcatel-Lucent, Huawei and Motorola, along with other vendors
+    with similar market share. We believe we are a leading provider
+    of WiMAX technologies. Many of the major competitors who compete
+    across various wireless technologies also compete in WiMAX.
+
+
+ 
+
+
+    The segment’s networks business is confronting several
+    factors that could impact its business, including price
+    competition, continuing consolidation among competitor
+    telecommunications equipment providers, consolidation among
+    customers, the potential impact of global economic conditions,
+    and vendor financing by competitors as customers continue to
+    look to vendors as an additional source of financing.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    9
+
+
+
+ 
+
+
+
+    Payment
+    Terms
+
+
+ 
+
+
+    Payment terms vary worldwide, depending on the arrangement. In
+    North America, payment is generally due 30 to 60 days from
+    the invoice date. In regions outside of North America, terms
+    vary widely but are typically limited to no more than 90 days.
+    Contracts for wireless networks typically include implementation
+    milestones, such as delivery, installation and system
+    acceptance, which generally take 30 to 180 days to
+    complete. Invoicing the customer is dependent on the completion
+    of the milestone.
+
+
+ 
+
+
+    As required for competitive reasons, extended payment terms are
+    provided to customers from time-to-time on a limited basis. The
+    segment’s payment terms are consistent with industry
+    practice, as many of our contracts are awarded through a
+    competitive bid process. When required for competitive reasons,
+    we may provide long-term financing in connection with equipment
+    purchases. Financing may cover all or a portion of the purchase
+    price.
+
+
+ 
+
+
+
+    Regulatory
+    Matters
+
+
+ 
+
+
+    Many of our products are subject to regulation by the FCC in the
+    United States and other communications regulatory agencies
+    around the world. In addition, our customers, and their networks
+    into which our products are incorporated, are subject to
+    government regulation. Government regulatory policies affecting
+    either the willingness or the ability of cable and telecom
+    operators, wireless operators and wireline operators to offer
+    certain services, or the terms on which these operators offer
+    the services and conduct their business, may have a material
+    adverse effect on the segment’s results. Motorola has
+    developed products using trunking and data communications
+    technologies to enhance spectral efficiencies. The growth and
+    results of the wireless communications industry may be affected
+    by regulations impacting access to allocated spectrum for
+    wireless communications users, especially in urban areas where
+    the spectrum is heavily used.
+
+
+ 
+
+
+    Historically, reception of digital television programming from a
+    cable broadband network has required a set-top with security
+    technology. This security technology has limited the
+    availability of set-tops to those manufactured by a few cable
+    network manufacturers, including Motorola. FCC regulations
+    requiring separation of security functionality from set-tops
+    that are aimed at increasing competition and encouraging the
+    sale of set-tops in the retail market became effective for most
+    customers in 2007. Traditionally, cable service providers sold
+    or leased their set-top to their customer. As the retail market
+    develops for set-tops and televisions capable of accepting the
+    security modules, sales of our set-tops which are sold to cable
+    providers may be negatively impacted.
+
+
+ 
+
+
+    The U.S. leads the world in spectrum deregulation, allowing
+    new wireless communications technologies to be developed and
+    offered for sale. Examples include wireless local area network
+    systems, such as WiFi, and wide area network systems, such as
+    WiMAX and LTE. Other countries have also deregulated portions of
+    their available spectrum to allow deployment of these and other
+    technologies. Deregulation may introduce new competition and new
+    opportunities for Motorola and our customers.
+
+
+ 
+
+
+    As more fully described under “Enterprise Mobility
+    Solutions — Regulatory Matters”, as television
+    transmission and reception technology transitions from analog to
+    more efficient digital modes, various countries around the world
+    are examining, and in some cases already pursuing, the
+    redevelopment of portions of the television spectrum. Certain
+    segments of the spectrum that have historically been utilized
+    for analog television have now been designated to support new
+    commercial communications systems and, therefore, are expected
+    to generate new business opportunities for Motorola in wireless
+    and video technologies. In the U.S., the FCC conducted an
+    auction of spectrum for the 700 MHz band that is expected
+    to be reclaimed by the government on June 12, 2009. License
+    for this spectrum may be used for flexible fixed, mobile and
+    broadcast applications. Although the auction winners will
+    determine the best utilization of the acquired spectrum, both
+    LTE and WiMAX are candidates for technology selection. In
+    addition, a contiguous portion of this spectrum has generated
+    interest for mobile TV applications.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    The segment’s backlog was $2.3 billion at
+    December 31, 2008, compared to $2.6 billion at
+    December 31, 2007. The 2008 order backlog is believed to be
+    generally firm and 100% of that amount is expected to be
+    recognized as revenue during 2009. The forward-looking estimate
+    of the firmness of such orders is subject to future events that
+    may cause the amount recognized to change.
+
+
+ 
+
+
+
+    Intellectual
+    Property Matters
+
+
+ 
+
+
+    Patent protection is extremely important to the segment’s
+    operations. The segment has an extensive portfolio of patents
+    relating to its products, systems, technologies and
+    manufacturing processes.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    10
+
+
+
+ 
+
+
+    The segment seeks to build upon our core enabling technologies,
+    such as digital compression, encryption and conditional access
+    systems, and wireless air-interface technology in order to lead
+    worldwide growth in the market for wired and wireless
+    communications networks. Our policy is to protect our
+    proprietary position by, among other methods, filing
+    U.S. and foreign patent applications to protect technology
+    and improvements that we consider important to the development
+    of our business. We also rely on our proprietary knowledge and
+    ongoing technological innovation to develop and maintain our
+    competitive position and will periodically seek to include our
+    proprietary technologies in certain patent pools that support
+    the implementation of standards. We are a founder of MPEG LA,
+    the patent licensing authority established to foster broad
+    deployment of MPEG-2-compliant systems, and we have recently
+    joined the MPEG4-Visual patent pool as a licensor. In addition,
+    we have licensed our digital conditional access technology,
+    DigiCipher®
+
+    II, to other equipment suppliers and continue our joint ventures
+    with Comcast for development and licensing of conditional access
+    technology.
+
+
+ 
+
+
+    We also enter into other license agreements, both as licensor
+    and licensee, covering certain products and processes with
+    various companies. These license agreements require the payment
+    of certain royalties that are not expected to be material to the
+    segment’s financial results. Royalty and licensing fees
+    vary from year to year and are subject to the terms of the
+    agreements and sales volumes of the products subject to
+    licenses. Reference is made to the material under the heading
+    “Other Information” for information relating to
+    patents, trademarks and research and development activities with
+    respect to this segment.
+
+
+ 
+
+
+
+    Inventory,
+    Raw Materials, Right of Return and Seasonality
+
+
+ 
+
+
+    The segment’s practice is to carry reasonable amounts of
+    inventory in order to meet customer delivery requirements in a
+    manner consistent with industry standards. At the end of 2008,
+    the segment had higher inventory balances than at the end of
+    2007, primarily due to a change in manufacturing strategy to
+    increase in-house manufacturing and reduce outsourced
+    manufacturing by third-party providers.
+
+
+ 
+
+
+    Availability of materials and components required by the segment
+    is relatively dependable, but fluctuations in supply and market
+    demand could cause selective shortages and affect results. We
+    currently procure certain materials and components from
+    single-source
+    vendors. Any material disruption from a single-source vendor may
+    have a material adverse impact on our results of operations. If
+    certain key suppliers were to become capacity constrained or
+    insolvent as a result of the ongoing global financial crisis, it
+    could result in a reduction or interruption in supplies or an
+    increase in the price of supplies and adversely impact the
+    segment’s financial results.
+
+
+ 
+
+
+    Natural gas, electricity, and, to a lesser extent, oil are the
+    primary sources of energy required for our manufacturing
+    operations. Each of these resources are currently in generally
+    adequate supply for the segment’s operations. In addition,
+    the cost to operate our facilities and freight costs are
+    dependent on world oil prices, which fluctuated significantly
+    during 2008 and impacted our manufacturing and shipping costs.
+    Labor is generally available in reasonable proximity to the
+    segment’s manufacturing facilities. However, difficulties
+    in obtaining any of the aforementioned items or a significant
+    cost increase could affect the segment’s results.
+
+
+ 
+
+
+    Generally, we do not permit customers to return products, other
+    than under standard warranty provisions. The segment has not
+    experienced seasonal buying patterns for its products.
+
+
+ 
+
+
+
+    Our
+    Facilities/Manufacturing
+
+
+ 
+
+
+    Our headquarters are located in Horsham, Pennsylvania. Our other
+    major facilities are located in: Arlington Heights, Illinois;
+    San Diego, California; Taipei, Taiwan; Bangalore, India; Beijing
+    and Tianjin, China; and Reynosa, Mexico. In addition to our own
+    manufacturing, we utilize non-affiliated electronics
+    manufacturing suppliers and original design manufacturers,
+    primarily in Asia, in order to enhance our ability to lower
+    costs and/or
+    deliver products that meet consumer demands.
+
+
+ 
+
+
+
+    Enterprise
+    Mobility Solutions Segment
+
+
+ 
+
+
+    The Enterprise Mobility Solutions segment (“Enterprise
+    Mobility Solutions” or the “segment”) designs,
+    manufactures, sells, installs and services analog and digital
+    two-way radio, voice and data communications products and
+    systems for private networks, wireless broadband systems and
+    end-to-end enterprise mobility systems for a wide range of
+    enterprise markets, including government and public safety
+    agencies (which, together with all sales to distributors of
+    two-way communication products, is referred to as the
+    “government and public safety market”), as well as
+    retail, energy and utilities, transportation,
+    manufacturing, healthcare and other commercial
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    11
+
+
+
+
+    customers (which, collectively, are referred to as the
+    “commercial enterprise market”). In 2008, the
+    segment’s net sales represented 27% of the Company’s
+    consolidated net sales.
+
+
+ 
+
+
+
+    Principal
+    Products and Services
+
+
+ 
+
+
+    We are the world’s leading provider of advanced
+    mission-critical and commercial enterprise mobility networks,
+    services, applications and devices. In the government and public
+    safety market, Motorola offers an extensive portfolio of
+    standard products and services that meet evolving public safety
+    and security needs, including products based on both TETRA
+    (terrestrial trunked radio) and APCO 25 (Association for Public
+    Safety Communications Officials) standards, with nearly
+    80 years of experience in this space. In the commercial
+    enterprise market, our products and systems provide better
+    information at the point of business activity, connect
+    seamlessly, and present tools to control the mobile experience.
+    Our products include: two-way radios, mobile computing products,
+    advanced data capture products including barcode scanners and
+    imagers, radio frequency identification (“RFID”)
+    infrastructure, software management, security tools and wireless
+    infrastructure.
+
+
+ 
+
+
+    The segment’s products and services are sold stand-alone or
+    as an integrated solution through Motorola’s direct sales
+    force and through independent and authorized distributors,
+    dealers and value-added resellers, independent software vendors,
+    original equipment manufacturers and service operators.
+    Distributors and value-added resellers may provide a service or
+    add components in order to resell our product to end users. The
+    segment provides systems engineering, installation and other
+    technical and systems management services to meet its customers
+    particular needs. The customer may also choose to install and
+    maintain the equipment with its own employees, or may obtain
+    installation, service and parts from a network of the
+    segment’s authorized service centers or from other
+    non-Motorola service centers.
+
+
+ 
+
+
+
+    Our
+    Industry
+
+
+ 
+
+
+    We compete in the mobile segment of the communications industry,
+    providing wireless products and services to public safety,
+    government and enterprise customers.
+
+
+ 
+
+
+    Within our government and public safety market, interoperability
+    and natural disaster preparedness continue to be important
+    issues for our customers worldwide. Our extensive portfolio of
+    products includes integration services, equipment and support
+    packages for both of the major standards-based private network
+    technologies, APCO 25 and TETRA, as well as wireless broadband
+    applications. As new and better spectrum utilization evolves, we
+    expect to see more demand and greater potential for broadband
+    solutions and data applications, such as video surveillance and
+    other data-based products, in 2009 and beyond. While
+    mission-critical communications and homeland security remain
+    high priorities for our customers, we have seen reduced spending
+    in the construction and manufacturing markets due to the global
+    market conditions, and expect this to continue in 2009.
+
+
+ 
+
+
+    Within our commercial enterprise market, we believe there
+    continues to be long-term opportunity for growth as the global
+    workforce continues to become more mobile and the industries and
+    markets that purchase our products continue to expand. The
+    markets in which Motorola competes include mobile computing
+    products and services, enterprise wireless infrastructure, bar
+    code scanning, RFID products and services, and mobile network
+    management platforms. Organizations looking to increase
+    productivity and derive benefits from mobilizing their
+    applications and workforces are driving adoption in this market.
+    In 2009, given the current global economic conditions and
+    customer capital expenditure constraints, we expect reduced
+    spending in the commercial enterprise market.
+
+
+ 
+
+
+
+    Our
+    Strategy
+
+
+ 
+
+
+    The segment’s strategy is to maintain our global leadership
+    positions in the government and public safety and commercial
+    enterprise markets through the continued delivery of mobile
+    products and services and systems that meet our customers’
+    demand for real-time information everywhere.
+
+
+ 
+
+
+    Our strategy in the government and public safety market is to
+    enable our customers to focus on their missions, not the
+    technology. This is accomplished by providing mission-critical
+    systems, seamless connectivity through highly reliable voice and
+    data networks and a suite of advanced applications that provide
+    real-time information to end users. Key objectives in
+    maintaining our leadership position include: (i) continuing
+    investment in our analog radio portfolio while leading the
+    ongoing migration to digital products, (ii) leveraging our
+    wireless broadband portfolio to drive growth and enter new
+    markets, (iii) managing the potential public/private
+    convergence of
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    12
+
+
+
+
+    700MHz public safety systems in the U.S. and digital
+    dividend spectrum worldwide, and (iv) continuing to lead
+    the market in APCO 25 and TETRA standards-based voice and data
+    networking systems around the world. We continue to actively
+    manage our portfolio, investing to expand into attractive,
+    complementary markets, and divesting non-strategic businesses.
+
+
+ 
+
+
+    In the commercial enterprise market, our approach is to deliver
+    products and services that are designed to empower the mobile
+    workforce to increase productivity, drive cost effectiveness,
+    and promote faster execution of critical business processes. Our
+    solutions architecture focuses on three areas:
+    (i) portfolio of devices and applications that provide real
+    time information at the point of business activity,
+    (ii) enterprise wireless networks that allocate seamless
+    connectivity inside and outside the enterprise, and (iii) a
+    set of management, security and mobility tools that provide a
+    controlled deployment of the enterprise mobility applications.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    Our products and services are sold worldwide to a diverse set of
+    customers, including government and public safety agencies
+    (police, fire, and emergency management services) and
+    militaries, as well as retail, utility, transportation and
+    logistics, manufacturing, wholesale and distribution, healthcare
+    and other commercial customers. Our sales model emphasizes both
+    direct sales by our in-house sales force and indirect sales
+    through our channel of value-added resellers and distributors.
+    We believe this dual sales approach allows us to meet customer
+    needs effectively, build strong, lasting relationships and
+    broaden our penetration across various markets. Our channel
+    sales force extends the reach of our products and services to
+    meet demand in market segments where our direct sales force does
+    not sell. Resellers and distributors each have their own sales
+    organizations which complement and extend our sales
+    organization. With deep expertise about specific customers’
+    operations, resellers are very effective in promoting sales of
+    the Company’s products. Our independent software vendor and
+    value-added resale channels offer customized applications that
+    meet specific needs in each market segment we serve.
+
+
+ 
+
+
+    Our largest customer is the U.S. Government, which
+    represented approximately 8% of the segment’s net sales.
+    The loss of this customer could have a material adverse effect
+    on the segment’s revenue and earnings over several
+    quarters, because some of our contracts with the U.S. Government
+    are long-term. Net sales to customers in North America
+    represented 57% of the segment’s net sales in 2008.
+
+
+ 
+
+
+    A majority of our sales are made directly by our in-house sales
+    force, and the remainder of our sales are made through global
+    resellers and distributors. Given the current global economic
+    conditions, we expect reduced spending by certain customers,
+    particularly retail, transportation and logistics, construction
+    and manufacturing, to continue into 2009.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The businesses in which we operate are highly competitive.
+    Continued evolution in the industry, as well as technological
+    migration, is opening up the market to increased competition.
+    Other key competitive factors include: technology offered;
+    price; availability of vendor financing; product and system
+    performance; product features, quality, availability and
+    warranty; the quality and availability of service; company
+    reputation; relationship with key customers; and time-to-market.
+    We believe we are uniquely positioned in the industry due to our
+    strong customer relationships, our technological leadership and
+    capabilities, and our comprehensive range of offerings.
+
+
+ 
+
+
+    The segment experiences widespread competition in the government
+    and public safety market from a growing number of new and
+    existing competitors, including large system integrators. In
+    this market, the segment provides communications and information
+    systems compliant with both APCO 25 and TETRA industry digital
+    standards. Major competitors include: M/A-Com, EADS, Kenwood, EF
+    Johnson and Cisco.
+
+
+ 
+
+
+    Large system integrators are seeking to move further into the
+    public safety area, specifically in the federal government
+    market. Competitors in this segment, including the Company, may
+    also serve as subcontractors to large system integrators and are
+    selected based on a number of competitive factors and customer
+    requirements. Where favorable to the Company, we may partner
+    with large system integrators to make available our portfolio of
+    advanced mission-critical services, applications and devices.
+
+
+ 
+
+
+    Several other competitive factors may have an impact on the
+    business, including: the consolidation among telecommunications
+    equipment providers, evolving developments in the 700 MHz
+    band, and increasing encroachment by broadband and IP solution
+    providers and new low-tier entrants. As demand for
+    fully-integrated
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    13
+
+
+
+
+    voice, data, and broadband systems continues, the segment may
+    face additional competition from public telecommunications
+    carriers.
+
+
+ 
+
+
+    Within the commercial enterprise market, many firms are engaged
+    in the manufacturing and marketing of mobile computing devices,
+    products in bar code reading equipment and wireless networks.
+    Numerous companies, including present manufacturers of scanners,
+    lasers, optical instruments, microprocessors, wireless networks,
+    notebook computers, handheld devices and telephonic and other
+    communication devices, have the technical potential to compete
+    with the business. Competitors such as Intermec, Honeywell and
+    Cisco deliver products in certain parts of the commercial
+    enterprise market.
+
+
+ 
+
+
+
+    Payment
+    Terms
+
+
+ 
+
+
+    Payment terms vary worldwide, depending on the arrangement.
+    Generally, contract payment terms range from 30 to 45 days
+    from the invoice date within North America and are typically
+    limited to 90 days in regions outside of North America. A
+    portion of the contracts in the government and public safety
+    market include implementation milestones, such as delivery,
+    installation and system acceptance, which generally take 30 to
+    180 days to complete. Invoicing the customer is dependent
+    on completion of the milestone.
+
+
+ 
+
+
+    We generally do not grant extended payment terms. As required
+    for competitive reasons, we may provide long-term financing in
+    connection with equipment purchases. Financing may cover all or
+    a portion of the purchase price.
+
+
+ 
+
+
+
+    Regulatory
+    Matters
+
+
+ 
+
+
+    The use of wireless voice, data and video communications systems
+    requires radio spectrum, which is regulated by governmental
+    agencies throughout the world. In the U.S., the FCC and the
+    National Telecommunications and Information Administration
+    (“NTIA”) regulate spectrum use by non-federal entities
+    and federal entities, respectively. Similarly, countries around
+    the world have one or more regulatory bodies that define and
+    implement the rules for use of the radio spectrum, pursuant to
+    their respective national laws and international coordination
+    under the International Telecommunications Union
+    (“ITU”). Consequently, the business and results of
+    this segment could be affected by the rules and regulations
+    adopted by the FCC, NTIA or regulatory agencies in other
+    countries from time to time. The availability of additional
+    radio spectrum may provide new business opportunities.
+    Regulatory changes in current spectrum bands may also provide
+    opportunities or may require modifications to some of our
+    products so they can continue to be manufactured and marketed.
+
+
+ 
+
+
+    The segment manufactures and markets products in spectrum bands
+    already made available by regulatory bodies. These include voice
+    and data infrastructure, mobile radios and portable or handheld
+    units. Our products span the public safety, enterprise,
+    commercial and consumer markets and operate both on licensed and
+    unlicensed spectrum. In addition, new spectrum bands and
+    modified regulations provide possible opportunities for new
+    business.
+
+
+ 
+
+
+    As television transmission and reception technology transitions
+    from analog to more efficient digital modes, various countries
+    around the world are examining, and in some cases already
+    pursuing, the redevelopment of portions of the television
+    spectrum. In the U.S., pursuant to federal legislation, analog
+    television stations must cease operation in the broadcast
+    television spectrum by June 12, 2009. As a result of this
+    transition, 108 MHz of spectrum historically used for
+    broadcast television is being redeveloped for new uses (the
+    so-called “digital dividend” spectrum), including
+    broadband and narrowband wireless communications. This
+    soon-to-be available spectrum can provide new opportunities for
+    Motorola and for our competitors. Under rules adopted by the
+    FCC, this portion of the spectrum under redevelopment (the
+    700 MHz band) will support new commercial and public safety
+    communications systems. Licenses for the majority of this
+    spectrum have already been issued and as of February 2009, over
+    40 public safety customers are already implementing narrowband
+    700 MHz systems in areas where television incumbency is not
+    an issue. Additional agencies are expected to begin deploying
+    systems once broadcast television is cleared from the
+    700 MHz band in mid-2009. The FCC is also making provisions
+    for a 700 MHz band nationwide public safety broadband
+    network that may be built over the next
+    10-15 years.
+    Canada also released a consultation requesting industry input on
+    making additional spectrum available for public safety use in
+    the 700 MHz band. Segments of the spectrum have been
+    auctioned for commercial use and Motorola could see new business
+    opportunities as auction winners implement broadband systems on
+    that spectrum. However, since many analog television operations
+    will continue transmitting in this spectrum until June 12,
+    2009, it is premature for auction winners to deploy in most
+    markets. This delay may temporarily delay opportunities for the
+    Company.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    14
+
+
+
+ 
+
+
+    In addition to reallocating TV spectrum at 700 MHz for
+    public safety and commercial use, in November 2008 the FCC
+    issued a decision to open unused portions of the television
+    spectrum below 700 MHz for unlicensed uses, including
+    broadband. The amount and specific location in the TV band of
+    this “whitespace” spectrum available varies by
+    geographic location. Also, its use is governed by technical
+    rules adopted to protect incumbent operations from interference.
+    For example, the FCC decision relies on geolocation, a
+    technology recommended by Motorola, to protect incumbent
+    television stations. This decision to open the TV whitespace
+    spectrum provides additional potential opportunities for
+    wireless broadband systems. The FCC decision also advised that
+    these initial TV whitespace rules are conservative with regard
+    to protection of broadcast incumbents and that relaxation to
+    provide greater TV whitespace opportunities may be possible once
+    additional experience is gained.
+
+
+ 
+
+
+    Internationally, the ITU World Radio Conference held in Geneva
+    in November 2007 identified spectrum that could be made
+    available as part of a “digital dividend” as
+    television transitions from analog to digital technology
+    globally. Countries around the world are studying the potential
+    size, timing and use of this potentially available spectrum. In
+    November 2007, the European Commission issued a statement
+    promoting a common European approach to its use. The United
+    Kingdom has already decided to redevelop spectrum as a result of
+    the digital transition and is making available 112 MHz of
+    spectrum through auctions. Canada has released a consultation
+    requesting industry input on making additional spectrum
+    available for public safety use in the 700 MHz band. A
+    number of other countries around the world have also indicated
+    their intention to pursue the availability of digital dividend
+    spectrum.
+
+
+ 
+
+
+    In addition, some of our operations use substances regulated
+    under various federal, state, local and international laws
+    governing the environment and worker health and safety,
+    including those governing the discharge of pollutants into the
+    ground, air and water, the management and disposal of hazardous
+    substances and wastes and the cleanup of contaminated sites.
+    Certain of our products are subject to various federal, state,
+    local and international laws governing chemical substances in
+    electronic products.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    The segment’s backlog was $2.4 billion as of
+    December 31, 2008, compared to $2.3 billion as of
+    December 31, 2007. The 2008 order backlog is believed to be
+    generally firm and approximately 70% of that amount is expected
+    to be recognized as revenue during 2009. The forward-looking
+    estimate of the firmness of such orders is subject to future
+    events that may cause the amount recognized to change.
+
+
+ 
+
+
+
+    Intellectual
+    Property Matters
+
+
+ 
+
+
+    Patent protection is extremely important to the segment’s
+    operations. The segment has an extensive U.S. and
+    international portfolio of patents relating to its products,
+    systems, technologies and manufacturing processes, including
+    recent research developments in scanning, information
+    collection, network communications and network management. We
+    have also filed additional patent applications in the
+    U.S. Patent and Trademark Office as well as in foreign
+    patent offices.
+
+
+ 
+
+
+    The segment licenses some of its patents to third parties and
+    this revenue is not significant. Motorola is also licensed to
+    use certain patents owned by others. Royalty and licensing fees
+    vary from year to year and are subject to the terms of the
+    agreements and sales volumes of the products subject to licenses.
+
+
+ 
+
+
+    We actively participate in the development of open standards for
+    interoperable, mission-critical digital two-way radio systems.
+    We have published our technology and licensed patents to
+    signatories of the industry’s two primary memorandums of
+    understanding defined by the Telecommunications Industry
+    Association (“TIA”), Project 25, and European
+    Telecommunications Standards Institute (“ETSI”), TETRA.
+
+
+ 
+
+
+    Notwithstanding the expiration of certain patents and the
+    resulting potential for increased competition for some of our
+    products in the future, we believe that our extensive patent
+    portfolio will continue to provide us with a competitive
+    advantage. Furthermore, we believe we are not dependent upon a
+    single patent, or a few patents. Our success depends more upon
+    our proprietary know-how, innovative skills, technical
+    competence and marketing abilities. In addition, because of
+    changing technology, our present intention is not to rely
+    primarily on patents or other intellectual property rights to
+    protect or establish our market position. However, the segment
+    continues to litigate against competitors to enforce its
+    intellectual property rights in certain technologies and is
+    currently involved in several such lawsuits. Reference is made
+    to the material under the heading “Other Information”
+    for information relating to patents, trademarks and research and
+    development activities with respect to this segment.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    15
+
+
+
+ 
+
+
+
+    Inventory,
+    Raw Materials, Right of Return and Seasonality
+
+
+ 
+
+
+    The segment’s practice is to carry reasonable amounts of
+    inventory to meet customers’ delivery requirements in a
+    manner consistent with industry standards. The segment provides
+    custom products which requires the stocking of inventories and
+    large varieties of piece parts and replacement parts in order to
+    meet delivery and warranty requirements. To the extent
+    suppliers’ product life cycles are shorter than the
+    segment’s, stocking of lifetime buy inventories is required
+    to meet long-term warranty and contractual requirements. In
+    addition, replacement parts are stocked for delivery on customer
+    demand within a short delivery cycle. At the end of 2008, the
+    segment had a higher inventory balance than at the end of 2007,
+    primarily as a result of the Company acquiring a controlling
+    interest in Vertex Standard Co, Ltd., in January 2008.
+
+
+ 
+
+
+    Availability of materials and components required by the segment
+    is relatively dependable, but fluctuations in supply and market
+    demand could cause selective shortages and affect results. We
+    currently procure certain materials and components from
+    single-source vendors. A material disruption from a
+    single-source vendor may have a material adverse impact on our
+    results of operations. If certain key suppliers were to become
+    capacity constrained or insolvent as a result of the ongoing
+    global financial crisis, it could result in a reduction or
+    interruption in supplies or an increase in the price of supplies
+    and adversely impact the segment’s financial results.
+
+
+ 
+
+
+    Natural gas, electricity and, to a lesser extent, oil are the
+    primary sources of energy for our manufacturing operations,
+    which are currently in adequate supply. In addition, the cost to
+    operate our facilities and freight costs are dependent on world
+    oil prices, which fluctuated significantly during 2008 and
+    impacted our manufacturing and shipping costs. Labor is
+    generally available in reasonable proximity to the
+    segment’s manufacturing facilities. However, difficulties
+    in obtaining any of these items or a significant cost increase
+    could affect the segment’s results.
+
+
+ 
+
+
+    Generally, the segment’s contracts do not include a right
+    of return, other than for standard warranty provisions. For new
+    product introductions in our government and public safety
+    market, we may enter into milestone contracts providing that the
+    product could be returned if we do not achieve the milestones.
+    Due to buying patterns in the markets we serve, sales tend to be
+    somewhat higher in the fourth quarter.
+
+
+ 
+
+
+
+    Our
+    Facilities/Manufacturing
+
+
+ 
+
+
+    Our primary offices are located in Schaumburg, Illinois and
+    Holtsville, New York. Our other major facilities are located in:
+    Penang, Malaysia; Reynosa, Mexico; Krakow, Poland; Berlin,
+    Germany; and Arad, Israel. In addition to our own manufacturing,
+    we utilize non-affiliated electronics manufacturing suppliers
+    and distribution and logistics services providers in order to
+    enhance our ability to lower costs and deliver products that
+    meet consumer demands.
+
+
+ 
+
+
+
+    Other
+    Information
+
+
+ 
+
+
+    Financial Information About
+    Segments.  The response to this section of
+    Item 1 incorporates by reference Note 12,
+    “Information by Segment and Geographic Region,” of
+    Part II, Item 8: Financial Statements and
+    Supplementary Data of this document.
+
+
+ 
+
+
+    Customers.  Motorola has
+    several large customers, the loss of one or more of which could
+    have a material adverse effect on the Company. In 2008,
+    aggregate net sales to the Company’s five largest customers
+    represented approximately 25% of the Company’s sales. No
+    single customer accounted for more than 10% of the
+    Company’s net sales in 2008.
+
+
+ 
+
+
+    Approximately 2% of Motorola’s net sales in 2008 were to
+    various branches and agencies, including the armed services, of
+    the U.S. Government. All contracts with the
+    U.S. Government are subject to cancellation at the
+    convenience of the Government.
+
+
+ 
+
+
+    Government contractors, including Motorola, are routinely
+    subjected to numerous audits and investigations, which may be
+    either civil or criminal in nature. The consequences of these
+    audits and investigations may include administrative action to
+    suspend business dealings with the contractor and to exclude it
+    from receiving new business. In addition, Motorola, like other
+    contractors, reviews aspects of its government contracting
+    operations, and, where appropriate, takes corrective actions and
+    makes voluntary disclosures to the U.S. Government. These
+    audits and investigations could adversely affect Motorola’s
+    ability to obtain new business from the U.S. Government.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    16
+
+
+
+ 
+
+
+    Backlog.  Motorola’s
+    aggregate backlog position for all Motorola segments, as of the
+    end of the last two fiscal years was approximately as follows:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    December 31, 2008
+
+
+
+ 
+
+
+    $
+
+
+    5.0 billion
+
+
+ 
+
+
+
+
+
+    December 31, 2007
+
+
+
+ 
+
+
+    $
+
+
+    5.5 billion
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+    Except as previously discussed in this Item 1, the orders
+    supporting the 2008 backlog amounts shown in the foregoing table
+    are believed to be generally firm, and approximately 90% of the
+    backlog on hand at December 31, 2008 is expected to be
+    recognized as revenue in 2009. The forward-looking estimate of
+    the firmness of such orders is subject to future events that may
+    cause the amount recognized to change.
+
+
+ 
+
+
+    Research and
+    Development.  Motorola’s business
+    segments participate in very competitive industries with
+    constant changes in technology. Throughout its history, Motorola
+    has relied, and continues to rely, primarily on its research and
+    development (“R&D”) programs for the development
+    of new products, and on its production engineering capabilities
+    for the improvement of existing products. Technical data and
+    product application ideas are exchanged among Motorola’s
+    business segments on a regular basis. Management believes,
+    looking forward, that Motorola’s commitment to R&D
+    programs should allow each of its segments to remain competitive.
+
+
+ 
+
+
+    R&D expenditures relating to new product development or
+    product improvement were $4.1 billion in 2008, compared to
+    $4.4 billion in 2007 and $4.1 billion in 2006.
+    R&D expenditures decreased 7% in 2008 as compared to 2007,
+    after increasing 8% in 2007 as compared to 2006. Motorola
+    continues to believe that a strong commitment to research and
+    development is required to drive long-term growth. As of
+    December 31, 2008, approximately 27,000 professional
+    employees were engaged in such R&D activities.
+
+
+ 
+
+
+    Patents and
+    Trademarks.  Motorola seeks to obtain patents
+    and trademarks to protect our proprietary position whenever
+    possible and practical. As of December 31, 2008, Motorola,
+    Inc. and its wholly owned subsidiaries owned approximately 9,907
+    utility and design patents in the U.S. and 12,793 patents in
+    foreign countries. These foreign patents are mostly counterparts
+    of Motorola’s U.S. patents, but a number result from
+    research conducted outside the U.S. and are originally filed in
+    the country of origin. During 2008, Motorola, Inc. and its
+    wholly owned subsidiaries were granted 644 U.S. utility and
+    design patents. Many of the patents owned by Motorola are used
+    in its operations or licensed for use by others, and Motorola is
+    licensed to use certain patents owned by others. Royalty and
+    licensing fees vary from year to year and are subject to the
+    terms of the agreements and sales volumes of the products
+    subject to licenses.
+
+
+ 
+
+
+    Environmental
+    Quality.  During 2008, compliance with
+    federal, state and local laws regulating the discharge of
+    materials into the environment, or otherwise relating to the
+    protection of the environment, did not have a material effect on
+    capital expenditures, earnings or the competitive position of
+    Motorola.
+
+
+ 
+
+
+    Employees.  At
+    December 31, 2008, there were approximately 64,000
+    employees of Motorola and its subsidiaries, compared to
+    66,000 employees of Motorola and its subsidiaries at
+    December 31, 2007.
+
+
+ 
+
+
+    Financial Information About Geographic
+    Areas.  The response to this section of
+    Item 1 incorporates by reference Note 11,
+    “Commitments and Contingencies” and Note 12,
+    “Information by Segment and Geographic Region” of
+    Part II, Item 8: Financial Statements and
+    Supplementary Data of this document, the “Results of
+    Operations—2008 Compared to 2007” and “Results of
+    Operations — 2007 Compared to 2006” sections of
+    Part II, “Item 7: Management’s Discussion
+    and Analysis of Financial Condition and Results of
+    Operations” and “Item A: Risk Factors” of
+    this document.
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    We make available free of charge through our website,
+    www.motorola.com/investor, our annual reports on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    proxy statements, other reports filed under the Securities
+    Exchange Act of 1934 (“Exchange Act”) and all
+    amendments to those reports simultaneously or as soon as
+    reasonably practicable after such material is electronically
+    filed with, or furnished to, the Securities and Exchange
+    Commission (“SEC”). Our reports are also available
+    free of charge on the SEC’s website, www.sec.gov.
+    Also available free of charge on our website are the
+    following corporate governance documents:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Motorola, Inc. Restated Certificate of Incorporation
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Motorola, Inc. Amended and Restated Bylaws
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Motorola, Inc. Board Governance Guidelines
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Motorola, Inc. Director Independence Guidelines
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    17
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Principles of Conduct for Members of the Motorola, Inc. Board of
+    Directors
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Motorola Code of Business Conduct, which is applicable to all
+    Motorola employees, including the principal executive officers,
+    the principal financial officer and the controller (principal
+    accounting officer)
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Audit and Legal Committee Charter
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Compensation and Leadership Committee Charter
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Governance and Nominating Committee Charter
+
+
+
+
+
+ 
+
+
+    All of our reports and corporate governance documents may also
+    be obtained without charge by contacting Investor Relations,
+    Motorola, Inc., Corporate Offices, 1303 East Algonquin Road,
+    Schaumburg, Illinois 60196,
+    E-mail:
+    investors@motorola.com. Our Annual Report on
+    Form 10-K
+    and Definitive Proxy Statement may also be requested in hardcopy
+    by clicking on “Printed Materials” at
+    www.motorola.com/investor. Our Internet website and the
+    information contained therein or incorporated therein are not
+    intended to be incorporated into this Annual Report on
+    Form 10-K.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    18
+
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A: 
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    We wish to caution the reader that the following important
+    risk factors, and those risk factors described elsewhere in this
+    report or our other Securities and Exchange Commission filings,
+    could cause our actual results to differ materially from those
+    stated in forward-looking statements contained in this document
+    and elsewhere. These risks are not presented in order of
+    importance or probability of occurrence.
+
+
+ 
+
+
+    We have had substantial operating losses in 2008 and 2007 and
+    may continue to incur losses as we reposition our Mobile Devices
+    business.
+
+
+ 
+
+
+    In 2008 and 2007, Motorola had substantial operating losses as a
+    result of the financial performance of our Mobile Devices
+    business. While we have plans in place intended to improve the
+    performance of this business, we cannot be certain that we will
+    be successful or that we will be profitable in 2009.
+
+
+ 
+
+
+    The wireless mobile handset market experienced slowing growth
+    in 2008 and the market is expected to decline in 2009 which
+    could negatively impact transition plans for our Mobile Devices
+    business.
+
+
+ 
+
+
+    In 2009, worldwide wireless handset industry unit shipments are
+    expected to decline by approximately 10%. This would be the
+    first annual decline in industry handset unit shipments since
+    2001. A declining mobile handset market may make it more
+    difficult to improve our business, due to excess manufacturing
+    capacity, increased price competition and other market factors.
+
+
+ 
+
+
+    We have lost significant market share in our Mobile Devices
+    businesses and such loss has negatively impacted our performance
+    and may continue to negatively impact our financial results.
+
+
+ 
+
+
+    Our share of the worldwide wireless handset market has declined
+    significantly in the last two years, from approximately 22% in
+    2006, to 14% in 2007, to 8% in 2008. While we reduced our costs
+    during this period of time, these market share declines and
+    resulting volume reductions have had an adverse effect on our
+    results of operations. If market share in our Mobile Devices
+    business continues to decline, it will adversely impact our
+    financial results.
+
+
+ 
+
+
+    The uncertainty of current economic and political conditions
+    makes budgeting and forecasting difficult and may reduce demand
+    for our products.
+
+
+ 
+
+
+    Current conditions in the domestic and world economies are very
+    uncertain. The global financial crisis, as well as ongoing
+    political conflicts in the Middle East and elsewhere, have
+    created many economic and political uncertainties that have
+    impacted worldwide markets. As a result, it is difficult to
+    estimate changes in various parts of the world economy,
+    including the markets in which we participate. Because all
+    components of our budgeting and forecasting are dependent upon
+    estimates in the markets we serve and demand for our products,
+    the prevailing economic uncertainties render estimates of future
+    income and expenditures difficult.
+
+
+ 
+
+
+    We have manufacturing operations and engineering resources in
+    Israel that could be disrupted as a result of hostilities in the
+    region. We also sell our products and services throughout the
+    Middle East and demand for our products and services could be
+    adversely impacted by hostilities in this region.
+
+
+ 
+
+
+    The potential for future terrorist attacks, increased global
+    conflicts and the escalation of existing conflicts and public
+    health issues has created worldwide uncertainties that have
+    negatively impacted, and may continue to negatively impact,
+    demand for certain of our products.
+
+
+ 
+
+
+    We operate in highly competitive markets and our financial
+    results will be affected if we are not able to compete
+    effectively.
+
+
+ 
+
+
+    The markets for our products are highly competitive with respect
+    to, among other factors: pricing, product features, product and
+    service quality, and the time required to introduce new products
+    and services. We are constantly exposed to the risk that our
+    competitors may implement new technologies before we do, or may
+    offer lower prices, additional products or services or other
+    incentives that we cannot or will not offer. We can give no
+    assurances that we will be able to compete successfully against
+    existing or future competitors.
+
+
+ 
+
+
+    Our success depends in part on our timely introduction of new
+    products and technologies and our results can be impacted by the
+    effectiveness of our significant investments in new products and
+    technologies.
+
+
+ 
+
+
+    The markets for our products are characterized by rapidly
+    changing technologies, frequent new product introductions, short
+    product life cycles and evolving industry standards. We face
+    intense competition in these
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    19
+
+
+
+
+    markets from both established companies and new entrants.
+    Product life cycles can be short and new products are expensive
+    to develop and bring to market. Our success depends, in
+    substantial part, on the timely and successful introduction of
+    new products and upgrades of current products to comply with
+    emerging industry standards and to address competing
+    technological and product developments carried out by our
+    competitors. The research and development of new,
+    technologically-advanced products is a complex and uncertain
+    process requiring high levels of innovation and investment, as
+    well as the accurate anticipation of technology and market
+    trends. We may focus our resources on technologies that do not
+    become widely accepted or are not commercially viable. In
+    addition, our products may contain defects or errors that are
+    detected only after deployment. If our products are not
+    competitive or do not work properly, our business will suffer.
+
+
+ 
+
+
+    Our results are subject to risks related to our significant
+    investment in developing and introducing new products, such as:
+    advanced wireless handsets, including smartphones; WiMAX, LTE
+    and other advanced technologies for wireless broadband networks;
+    products for transmission of telephony and high-speed data over
+    hybrid fiber coaxial cable systems; integrated digital radios;
+    and integrated public safety systems. These risks include:
+    (i) difficulties and delays in the development, production,
+    testing and marketing of products; (ii) customer acceptance
+    of products; (iii) the development of, approval and
+    compliance with industry standards; (iv) the significant
+    amount of resources we must devote to the development of new
+    technology; and (v) the ability to differentiate our
+    products and compete with other companies in the same markets.
+
+
+ 
+
+
+    We face a number of risks related to the ongoing financial
+    crisis and severe tightening in the global credit markets.
+
+
+ 
+
+
+    The ongoing global financial crisis affecting the banking system
+    and financial markets has resulted in a severe tightening in the
+    worldwide credit markets, a low level of liquidity in many
+    financial markets and extreme volatility in credit and equity
+    markets. This financial crisis has impacted, and could continue
+    to impact, Motorola’s business in a number of ways,
+    including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Potential Deferment or Cancellation of Purchases and Orders
+    by Customers:  Uncertainty about current and
+    future global economic conditions may cause, and in some cases
+    has caused, consumers, businesses and governments to defer or
+    cancel purchases in response to tighter credit, decreased cash
+    availability and declining consumer confidence. If future demand
+    for our products declines, it will adversely impact our
+    financial results.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Customers’ Inability to Obtain Financing to Make
+    Purchases from Motorola
+    and/or
+    Maintain Their Business:  Some of our customers
+    require substantial financing in order to fund their operations
+    and make purchases from Motorola. The inability of these
+    customers to obtain sufficient credit to finance purchases of
+    our products
+    and/or meet
+    their payment obligations to us could have, and in some cases
+    has had, an adverse impact on our financial results. In
+    addition, if the financial crisis results in insolvencies for
+    our customers, it will adversely impact our financial results.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Increased Requests by Customers for Vendor Financing by
+    Motorola:  Certain of the Company’s
+    customers, particularly, but not limited to, those who purchase
+    large infrastructure systems, request that their suppliers
+    provide financing in connection with equipment purchases. In
+    response to the recent tightening in the credit markets, these
+    types of requests continue to increase in volume and scope.
+    Motorola has increased its commitments to provide financing in
+    light of these requests and a continuation of the current credit
+    crisis could force Motorola to choose between further increasing
+    its level of vendor financing or potentially losing sales to
+    these customers.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Negative Impact from Increased Financial Pressures on
+    Third-Party Dealers, Distributors and
+    Retailers:  A number of our businesses make sales
+    in certain regions through third-party dealers, distributors and
+    retailers. Although many of these third parties have significant
+    operations and maintain access to available credit, others are
+    smaller and more likely to be impacted by the significant
+    decrease in available credit that has resulted from the current
+    financial crisis. If credit pressures or other financial
+    difficulties result in insolvency for important third parties
+    and Motorola is unable to successfully transition
+    end-customers
+    to purchase our products from other third parties or from us
+    directly, it will adversely impact our financial results.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Negative Impact from Increased Financial Pressures on Key
+    Suppliers:  Our ability to meet customers’
+    demands depends, in part, on our ability to obtain timely and
+    adequate delivery of quality materials, parts and components
+    from our suppliers. Certain of our components are available only
+    from a single source or limited sources. If certain key
+    suppliers were to become capacity constrained or insolvent as a
+    result of the financial crisis, it could result in a reduction
+    or interruption in supplies or an increase in the price of
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    20
+
+
+
+
+    supplies and adversely impact our financial results. In
+    addition, credit constraints at key suppliers have resulted in
+    accelerated payment of accounts payable by Motorola, impacting
+    our cash flow. This trend could continue and may even
+    accelerate, impacting our cash flow.
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Increased Risk of Losses or Impairment Charges Related to
+    Debt Securities and Equity and Other Investments Held by
+    Motorola:  The current volatility in the financial
+    markets and overall economic uncertainty increases the risk that
+    the actual amounts realized in the future on our debt and equity
+    investments will differ significantly from the fair values
+    currently assigned to them. In 2008, Motorola has recognized
+    $186 million of impairment charges and $101 million of
+    temporary unrealized losses on debt securities held in its Sigma
+    Fund, a broadly diversified portfolio of highly rated,
+    short-duration debt securities. There can be no assurance that
+    the value of Sigma Fund investments will not decline further in
+    the future.
+
+
+
+
+
+ 
+
+
+    Also, many of the Company’s equity investments are in
+    early-stage technology companies and, therefore, may be
+    particularly subject to substantial price volatility and
+    heightened risk from the tightening in the credit markets.
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Increased Risk of Financial Counterparty Failures Could
+    Negatively Impact our Financial Position:  The
+    Company uses financial instruments to reduce its overall
+    exposure to the effects of currency fluctuations on cash flows.
+    The Company is exposed to credit loss in the event of
+    nonperformance by the counterparties to these financial
+    instruments. In order to minimize this risk, the contracts are
+    distributed among several leading financial institutions, all of
+    whom presently have investment grade credit ratings. Although
+    the Company has not experienced and does not anticipate
+    nonperformance by its counterparties, in light of the ongoing
+    threats to financial institutions from the global financial
+    crisis, there can be no assurance of performance by the
+    counterparties to these financial instruments.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Returns on Pension and Retirement Plan Assets and Interest
+    Rate Changes Could Affect Our Earnings in Future
+    Periods:  The funding position of our pension
+    plans is impacted by the performance of the financial markets,
+    particularly the equity markets, and the discount rates used to
+    calculate our pension obligations for funding and expense
+    purposes. Recent significant declines in the financial markets
+    have negatively impacted the value of the assets in the
+    Company’s pension plans. In addition, lower bond yields may
+    reduce our discount rates resulting in increased pension
+    contributions and expense.
+
+
+
+
+
+ 
+
+
+    Funding obligations are determined under government regulations
+    and are measured each year based on the value of assets and
+    liabilities on a specific date. If the financial markets do not
+    provide the long-term returns that are expected under the
+    governmental funding calculations, we could be required to make
+    larger contributions. The equity markets can be, and recently
+    have been, very volatile, and therefore our estimate of future
+    contribution requirements can change dramatically in relatively
+    short periods of time. Similarly, changes in interest rates can
+    impact our contribution requirements. In a low interest rate
+    environment, the likelihood of higher contributions in the
+    future increases.
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Impact on Ability to Sell Receivables:  The
+    Company sells accounts receivable and long-term receivables to
+    third parties. Sales are made both on a one-time, non-recourse
+    basis and under committed facilities that involve contractual
+    commitments from third parties to purchase qualifying
+    receivables up to monetary limits. These sales of receivables
+    provide the Company the ability to accelerate cash flow when it
+    is prudent to do so. The ability to sell (or “factor”)
+    receivables, particularly under committed facilities, is often
+    subject to the credit quality of the obligor and the
+    Company’s ability to obtain sufficient levels of credit
+    insurance from independent insurance companies. In early 2009, a
+    $400 million committed facility expired and was not
+    renewed. Although the Company is negotiating replacement
+    facilities, there is no assurance that the Company will be able
+    to implement these facilities. Reduction in the volume of
+    committed receivable purchasing facilities could limit the
+    Company’s ability to sell receivables in the future.
+    Further, the severe tightening in the credit markets due to the
+    ongoing global financial crisis could limit the Company’s
+    ability to sell receivables in the future, particularly if the
+    creditworthiness of our customers declines.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Impact on Ability to Purchase Sufficient Credit
+    Insurance:  We purchase a large amount of credit
+    insurance to mitigate some of our credit risks. In particular,
+    our ability to sell receivables, particularly under committed
+    receivables facilities, is often subject to obtaining sufficient
+    levels of credit insurance from independent insurance companies.
+    Accordingly, our ability to sell certain of our receivables, and
+    therefore our cash flows, could be negatively impacted if we are
+    not able to continue to purchase credit insurance in certain
+    countries and in sufficient quantities. Although credit
+    insurance remains generally available to the Company, it has
+    become more expensive to obtain and often requires higher
+    deductibles than in the past.
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    21
+
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    
+
+    
+    There can be no assurances that the Company will be able to
+    obtain sufficient quantities of credit insurance in the
+    necessary locations in the future.
+
+
+
+
+
+ 
+
+
+    We face a number of risks related to the recent downgrade of
+    the Company’s long-term debt to non-investment grade by one
+    credit rating agency:
+
+
+ 
+
+
+    In December, Standard and Poor’s downgraded the
+    Company’s long-term debt to BB+ (one level below investment
+    grade) from BBB and removed the short-term rating. In February
+    2009, Fitch Ratings downgraded the Company’s long-term debt
+    to BBB- from BBB and downgraded the short-term debt rating to
+    F-3 from F-2. Also in February 2009, Moody’s Investor
+    Service downgraded the Company’s long-term debt to Baa3
+    from Baa2 and downgraded the short-term debt rating to P-3 from
+    P-2. Since the Company has a non-investment grade rating from
+    one rating agency, it is referred to as a “split rated
+    credit”.
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Our access to short-term borrowing in the commercial paper
+    market is very limited:  While the Company did not
+    issue commercial paper in 2008, if the Company needs access to
+    very short-term borrowing, it may no longer be able to access
+    the unsecured commercial paper market because of its
+    P-3/F-3
+    short-term
+    ratings. Other sources of short-term borrowing may be more
+    limited, if available at all, and will have higher cost to
+    borrow than the commercial paper market.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our access to the long-term debt market may be
+    limited:  As a split rated credit, our ability to
+    issue long-term debt is more limited and the market into which
+    split rated debt is offered can be very volatile and can be
+    unavailable for periods of time. As a result, it may be more
+    difficult for us to quickly issue long-term debt and any debt
+    issued may be more costly. These factors may impact our
+    operating flexibility.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to provide performance bonds, bid bonds, standby
+    letters of credit and surety bonds could be severely
+    limited:  Commercial contracts with
+    Motorola’s customers often require performance bonds, bid
+    bonds, standby letters of credit and surety bonds (collectively,
+    referred to as “Performance Bonds”) to be issued on
+    behalf of the Company by banks and insurance companies. As a
+    split rated credit, issuers of these Performance Bonds may be
+    less likely to provide Performance Bonds on the Company’s
+    behalf in the future, unless the Company provides collateral.
+    These limitations on issuance may apply to the renewal and
+    extension of existing Performance Bonds, as well as the issuance
+    of new Performance Bonds. Such collateral requirements could
+    result in less liquidity for other operational needs. Also, as a
+    result of the Company’s current credit ratings, there has
+    been an increase in the cost of issuance of Performance Bonds.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to hedge foreign exchange risk could be severely
+    limited:  As a split rated credit, counterparties
+    may be unwilling to provide trading and derivative lines for the
+    Company without cash collateral. This would severely limit our
+    ability to reduce volatility in earnings and cash flow. Should
+    cash collateral be provided, less liquidity would be available
+    for operational needs.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to fund our foreign affiliates could be
+    limited:  The Company relies on uncommitted lines
+    of credit from banks to provide daylight overdraft, short-term
+    loans and other sources of liquidity for foreign affiliates. As
+    a split rated credit, lenders may be unwilling to provide credit
+    to our foreign affiliates. This could result in the Company
+    using U.S. cash to make loans to these affiliates or
+    provide permanent equity where loans are not possible.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Trade terms with suppliers could become less
+    favorable:  Given the Company’s split rating,
+    suppliers may require letters of credit, cash collateral or
+    other forms of security as part of standard payment conditions.
+    This could result in reduced liquidity and less leverage in
+    pricing negotiations.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to sell receivables could be
+    impacted:  As a split rated credit, the conditions
+    placed on us by the parties that we sell our receivables to will
+    become more stringent. If we are unable, or choose not to, meet
+    these new conditions, our ability to sell the receivables will
+    be negatively impacted.
+
+
+
+
+
+ 
+
+
+    We may not be able to borrow funds under our credit facility
+    if we are not able to meet the conditions for borrowing required
+    by our facility.
+
+
+ 
+
+
+    Our existing $2 billion five-year domestic syndicated
+    revolving credit facility contains various conditions, covenants
+    and representations with which we must be in compliance in order
+    to borrow funds. Although there are no borrowings outstanding
+    under the facility, if we wish to borrow under this facility in
+    the future, there can be no assurance that we will be in
+    compliance with these conditions, covenants and representations.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    22
+
+
+
+ 
+
+
+    We may not generate sufficient future taxable income, which
+    may require additional deferred tax asset valuation
+    allowances.
+
+
+ 
+
+
+    If the Company is unable to generate sufficient future taxable
+    income in the U.S. and certain other jurisdictions, or if there
+    is a significant change in the actual effective tax rates or the
+    time period within which the underlying temporary differences
+    become taxable or deductible, the Company could be required to
+    increase its valuation allowances against its deferred tax
+    assets resulting in an increase in its effective tax rate and an
+    adverse impact on future operating results.
+
+
+ 
+
+
+    We may be required to record additional goodwill or
+    amortizable intangible assets impairment charges, which could
+    result in an additional significant charge to earnings.
+
+
+ 
+
+
+    Under generally accepted accounting principles, we review our
+    amortizable intangible assets for impairment when events or
+    changes in circumstances indicate the carrying value may not be
+    recoverable. Goodwill is tested for impairment at least
+    annually. Factors that may be considered in assessing whether
+    goodwill or intangible assets may not be recoverable include a
+    decline in the Company’s stock price or market
+    capitalization, reduced estimates of future cash flows, and
+    slower growth rates in our industry. During 2008, the Company
+    recorded goodwill impairment charges of $1.6 billion and
+    intangible assets impairment charges of $129 million. The
+    goodwill impairment charges resulted from lower asset values in
+    the overall market and the impact of the macroenvironment on the
+    Company’s near-term forecasts. The intangible asset
+    impairments resulted from a change in a technology platform
+    strategy. Further declines in the Company’s stock price,
+    the markets or reductions in the Company’s future cash flow
+    estimates and future operating results may require the Company
+    to record significant additional goodwill or intangible asset
+    impairment charges in our financial statements in future
+    periods, negatively impacting our financial results.
+
+
+ 
+
+
+    Our strategy to separate our businesses into two
+    publicly-traded companies may have an adverse effect on business
+    operations and our assets.
+
+
+ 
+
+
+    The Company has announced a strategy to separate into two
+    publicly-traded companies in the future, if and when market and
+    businesses conditions support a separation. There are various
+    uncertainties and risks relating to the proposed separation of
+    our businesses into two publicly-traded companies, which are
+    enhanced because we have not announced a target date for the
+    separation or determined the structure that will best serve the
+    strategic realignment. The uncertainties and risks that could
+    have an adverse effect on our business operations or assets
+    include: (i) the distraction of management and disruption
+    of operations, which could have a material adverse effect on our
+    operating results; (ii) perceived uncertainties as to our
+    future direction may result in increased difficulties in
+    recruiting and retaining employees, particularly highly
+    qualified employees; (iii) perceived uncertainties as to
+    our future direction may have a negative impact on our
+    relationships with our customers, suppliers, vendors and
+    partners and may result in the loss of business opportunities;
+    (iv) the process of exploring strategic alternatives may be
+    time consuming and expensive and may result in the loss of
+    business opportunities; and (v) we may not be able to
+    successfully achieve the benefits of any strategic alternative
+    undertaken by us.
+
+
+ 
+
+
+    Our future financial results may be negatively impacted if we
+    do not execute on our hardware and software strategy for our
+    Mobile Devices business.
+
+
+ 
+
+
+    As part of our ongoing effort to improve the product portfolio
+    of our Mobile Devices business, we are in the process of
+    rationalizing our hardware and software platforms to reduce the
+    complexity of our product platforms and system architecture to
+    lower our cost to produce devices and to enable richer consumer
+    experiences. Failure to execute these rationalization plans in a
+    timely and effective manner may cause us to be competitively
+    disadvantaged in many areas, including but not limited to, cost,
+    time to market and the ability to
+    ramp-up
+    production in a timely fashion with acceptable quality and
+    improved/additional features.
+
+
+ 
+
+
+    If our operating system strategy is not successful, our
+    Mobile Devices business could be negatively impacted.
+
+
+ 
+
+
+    We have made a strategic decision to use third-party
+    and/or open
+    source operating systems, such as Google’s Android
+    operating system and Microsoft’s Windows Mobile operating
+    system in our wireless products. As a result of this, we are at
+    risk due to our dependency on third parties continued
+    development of operating systems and third parties’
+    software application ecosystem infrastructures. With respect to
+    Google’s Android operating system which is a newer
+    operating system for wireless handsets, in the event that
+    Google’s Android team no longer develops the Android code
+    base and this development is not taken up by the open source
+    community, this would increase the burden of development on
+    Motorola. From an overall risk perspective, the industry is
+    currently engaged in an extremely competitive phase with respect
+    to operating system platforms and software generally.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    23
+
+
+
+
+    Android is viewed as a competitive platform in the Linux and
+    smartphone categories. If Android fails to gain operator
+    and/or
+    developer adoption, the Company’s financial results could
+    be negatively impacted.
+
+
+ 
+
+
+    We have taken, and continue to take, cost-reduction actions.
+    Our ability to complete these actions and the impact of such
+    actions on our business may be limited by a variety of factors.
+    The cost-reduction actions, in turn, may expose us to additional
+    production risk and have an adverse effect on our sales,
+    profitability and ability to attract and retain employees.
+
+
+ 
+
+
+    We have been reducing costs and simplifying our product
+    portfolios in all of our businesses, with sizable reductions in
+    our Mobile Devices business. We have discontinued product lines,
+    exited businesses, consolidated manufacturing operations,
+    increased manufacturing with third parties, reduced our employee
+    population and changed our compensation and benefit programs.
+
+
+ 
+
+
+    The impact of these cost-reduction actions on our sales and
+    profitability may be influenced by many factors including, but
+    not limited to: (i) our ability to successfully complete
+    these ongoing efforts; (ii) our ability to generate the
+    level of cost savings we expect or that are necessary to enable
+    us to effectively compete; (iii) delays in implementation
+    of anticipated workforce reductions in highly-regulated
+    locations outside the United States, particularly in Europe and
+    Asia; (iv) decline in employee morale and the potential
+    inability to meet operational targets due to the loss of
+    employees; (v) our ability to retain or recruit key
+    employees, particularly as a result of recent actions to suspend
+    the Company’s 401(k) contributions to employee accounts,
+    permanently freeze all future benefit accruals under
+    U.S. pension plans and eliminate merit increase programs in
+    the U.S. and many other markets; (vi) the adequacy of our
+    manufacturing capacity, including capacity provided by third
+    parties; and (vii) the performance of other parties under
+    contract manufacturing arrangements on which we rely for the
+    manufacture of certain products, parts and components.
+
+
+ 
+
+
+    All of our businesses have consolidated or exited certain
+    facilities and our products are manufactured in fewer facilities
+    than in the past. While we have business continuity and risk
+    management plans in place in case capacity is significantly
+    reduced or eliminated at a given facility, the reduced number of
+    alternative facilities could cause the duration of any
+    manufacturing disruption to be longer. As a result, we could
+    have difficulties fulfilling our orders and our sales and
+    profits could decline.
+
+
+ 
+
+
+    The demand for our products depends, in part, on the
+    continued growth of the industries in which we participate. A
+    market decline in any one of these industries could have an
+    adverse effect on our business.
+
+
+ 
+
+
+    The rate at which the portions of the telecommunications
+    industry in which we participate continue to grow is critical to
+    our ability to improve our overall financial performance and we
+    could be negatively impacted by a slowdown. Our business was
+    very negatively impacted by the economic slowdown and the
+    corresponding reduction in capital spending by the
+    telecommunications industry from 2001 to 2003, and we are
+    forecasting declines and slower growth in 2009 for the
+    industries we compete in.
+
+
+ 
+
+
+    Our customers and suppliers are located throughout the world
+    and, as a result, we face risks that other companies that are
+    not global may not face.
+
+
+ 
+
+
+    Our customers and suppliers are located throughout the world and
+    more than half of our net sales are made to customers outside
+    the U.S. In addition, we have many manufacturing,
+    administrative and sales facilities outside the U.S. and
+    more than half of our employees are employed outside the
+    U.S. Most of our suppliers’ operations are outside the
+    U.S., and most of our products are manufactured outside the
+    U.S.
+
+
+ 
+
+
+    As with all companies that have sizeable sales and operations
+    outside the U.S., we are exposed to risks that could negatively
+    impact sales or profitability, including but not limited to:
+    (i) tariffs, trade barriers and trade disputes, customs
+    classifications and certifications, including but not limited to
+    changes in classifications or errors or omissions related to
+    such classifications and certifications; (ii) changes in
+    U.S. and
+    non-U.S. rules
+    related to trade, environmental, health and safety, technical
+    standards & consumer protection; (iii) longer
+    payment cycles; (iv) tax issues, such as tax law changes,
+    variations in tax laws from country to country and as compared
+    to the U.S., obligations under tax incentive agreements, and
+    difficulties in repatriating cash generated or held abroad in a
+    tax-efficient manner; (v) currency fluctuations,
+    particularly in the Chinese renminbi, Euro, Brazilian real,
+    Taiwan dollar and Japanese yen; (vi) foreign exchange
+    regulations, which may limit the Company’s ability to
+    convert or repatriate foreign currency; (vii) challenges in
+    collecting accounts receivable; (viii) cultural and
+    language differences; (ix) employment regulations and local
+    labor conditions; (x) difficulties protecting IP in foreign
+    countries; (xi) instability in economic or political
+    conditions, including inflation, recession and actual or
+    anticipated military or political conflicts; (xii) natural
+    disasters; (xiii) public health issues or outbreaks;
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    24
+
+
+
+
+    (xiv) changes in laws or regulations that adversely impact
+    benefits being received by the Company; and (xv) the impact
+    of each of the foregoing on our outsourcing and procurement
+    arrangements.
+
+
+ 
+
+
+    Many of our products that are manufactured outside the
+    U.S. are manufactured in Asia and Mexico. If manufacturing
+    in these regions is disrupted, our overall capacity could be
+    significantly reduced and sales or profitability could be
+    negatively impacted. Furthermore, the legal system in China is
+    still developing and is subject to change. Accordingly, our
+    operations and orders for products in China could be adversely
+    impacted by changes to, or interpretation of, Chinese law.
+
+
+ 
+
+
+    We also have presence in emerging markets such as India and
+    Russia. We face challenges in emerging markets, including
+    creating demand for our products and the negative impact of
+    changes in the laws, or the interpretation of the laws, in those
+    countries.
+
+
+ 
+
+
+    Changes in our operations or sales outside the
+    U.S. markets could result in lost benefits in impacted
+    countries and increase our cost of doing business.
+
+
+ 
+
+
+    The Company has entered into various agreements with
+    non-U.S. governments,
+    agencies, or similar organizations under which the Company
+    receives certain benefits relating to its operations
+    and/or sales
+    in the jurisdiction. If the Company’s circumstances change
+    and operations or sales are not at levels originally
+    anticipated, the Company may be at risk of losing some or all of
+    these benefits and increasing our cost of doing business.
+
+
+ 
+
+
+    If the quality of our products does not meet our
+    customers’ expectations, then our sales and operating
+    earnings, and ultimately our reputation, could be adversely
+    affected.
+
+
+ 
+
+
+    Some of the products we sell have quality issues resulting from
+    the design or manufacture of the product, or from the software
+    used in the product. Sometimes, these issues may be caused by
+    components we purchase from other manufacturers or suppliers.
+    Often these issues are identified prior to the shipment of the
+    products and may cause delays in shipping products to customers,
+    or even the cancellation of orders by customers. Sometimes, we
+    discover quality issues in the products after they have been
+    shipped to our customers, distributors or end-users, requiring
+    us to resolve such issues in a timely manner that is the least
+    disruptive to our customers. Such pre-shipment and post-shipment
+    quality issues can have legal and financial ramifications,
+    including: delays in the recognition of revenue, loss of revenue
+    or future orders, customer-imposed penalties on Motorola for
+    failure to meet contractual requirements, increased costs
+    associated with repairing or replacing products, and a negative
+    impact on our goodwill and brand name reputation.
+
+
+ 
+
+
+    In some cases, if the quality issue affects the product’s
+    safety or regulatory compliance, then such a
+    “defective” product may need to be recalled. Depending
+    on the nature of the defect and the number of products in the
+    field, it could cause the Company to incur substantial recall
+    costs, in addition to the costs associated with the potential
+    loss of future orders, and the damage to the Company’s
+    goodwill or brand/reputation. In addition, the Company may be
+    required, under certain customer contracts, to pay damages for
+    failed performance that might exceed the revenue that the
+    Company receives from the contracts. Recalls involving
+    regulatory agencies could also result in fines and additional
+    costs. Finally, recalls could result in third-party litigation,
+    including class action litigation by persons alleging common
+    harm resulting from the purchase of the products.
+
+
+ 
+
+
+    If the volume of our sales decrease or do not reach projected
+    targets, we could face increased materials and manufacturing
+    costs that may make our products less competitive.
+
+
+ 
+
+
+    We have negotiated favorable pricing terms with many of our
+    suppliers, some of which have volume-based pricing. In the case
+    of volume-based pricing arrangements, we may experience higher
+    than anticipated costs if current volume-based purchase
+    projections are not met. Some contracts have minimum purchase
+    commitments and we may incur large financial penalties if these
+    commitments are not met. We also may have unused production
+    capacity if our current volume projections are not met,
+    increasing our production cost per unit. In the future, as we
+    establish new pricing terms, our volume demand could adversely
+    impact future pricing from suppliers. All of these outcomes may
+    result in our products being more costly to manufacture and less
+    competitive.
+
+
+ 
+
+
+    Our future operating results depend on our ability to
+    purchase a sufficient amount of materials, parts and components
+    to meet the demands of our customers.
+
+
+ 
+
+
+    Our ability to meet customers’ demands depends, in part, on
+    our ability to obtain timely and adequate delivery of quality
+    materials, parts and components from our suppliers. We have
+    experienced shortages in the past that have adversely affected
+    our operations. Although we work closely with our suppliers to
+    avoid these types of shortages, there can be no assurances that
+    we will not encounter these problems in the future. Furthermore,
+    certain
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    25
+
+
+
+
+    of our components are available only from a single source or
+    limited sources. We may not be able to diversify sources in a
+    timely manner. A reduction or interruption in supplies or a
+    significant increase in the price of supplies could have a
+    material adverse effect on our businesses.
+
+
+ 
+
+
+    Our success is dependent, in part, upon our ability to form
+    successful strategic alliances. If these arrangements do not
+    develop as expected, our business may be adversely impacted.
+
+
+ 
+
+
+    We currently partner with industry leaders to meet customer
+    product and service requirements and to develop innovative
+    advances in design and technology. Some of our partnerships
+    allow us to supplement internal manufacturing capacity and share
+    the cost of developing next-generation technologies. Other
+    partnerships allow us to offer more services and features to our
+    customers. If such arrangements do not develop as expected, our
+    business could be adversely impacted.
+
+
+ 
+
+
+    We rely on third-party distributors, representatives and
+    retailers to sell certain of our products.
+
+
+ 
+
+
+    In addition to our own sales force, we offer our products
+    through a variety of third-party distributors, representatives
+    and retailers. Certain of our distributors or representatives
+    may also market other products that compete with our products.
+    The loss, termination or failure of one or more of our
+    distributors or representatives to effectively promote our
+    products, or changes in the financial or business condition of
+    these distributors, representatives or retailers, could affect
+    our ability to bring products to market.
+
+
+ 
+
+
+    We face many risks relating to intellectual property
+    rights.
+
+
+ 
+
+
+    Our business will be harmed if: (i) we, our customers
+    and/or our
+    suppliers are found to have infringed intellectual property
+    rights of third parties, (ii) if the intellectual property
+    indemnities in our supplier agreements are inadequate to cover
+    damages and losses due to infringement of third-party
+    intellectual property rights by supplier products, (iii) if
+    we are required to provide broad intellectual property
+    indemnities to our customers, or (iv) if our intellectual
+    property protection is inadequate to protect our proprietary
+    rights. We may be harmed if we are forced to make publicly
+    available, under the relevant
+    open-source
+    licenses, certain internally developed
+    software-related
+    intellectual property as a result of either our use of
+    open-source
+    software code or the use of
+    third-party
+    software that contains
+    open-source
+    code.
+
+
+ 
+
+
+    Because our products are comprised of complex technology, much
+    of which we acquire from suppliers through the purchase of
+    components or licensing of software, we are often involved in or
+    impacted by litigation regarding patent and other intellectual
+    property rights. Third parties have asserted, and in the future
+    may assert, intellectual property infringement claims against us
+    and against our customers and suppliers. Defending claims may be
+    expensive and divert the time and efforts of our management and
+    employees. Increasingly, third parties have sought broad
+    injunctive relief which could limit our ability to sell our
+    products in the U.S. or elsewhere with intellectual
+    property subject to the claims. If we do not succeed in any such
+    litigation, we could be required to expend significant resources
+    to pay damages, develop non-infringing intellectual property or
+    to obtain licenses to the intellectual property that is the
+    subject of such litigation. However, we cannot be certain that
+    any such licenses, if available at all, will be available to us
+    on commercially reasonable terms. In some cases, we might be
+    forced to stop delivering certain products if we or our customer
+    or supplier are subject to a final injunction.
+
+
+ 
+
+
+    We attempt to negotiate favorable intellectual property
+    indemnities with our suppliers for infringement of third-party
+    intellectual property rights, but there is no assurance that we
+    will be successful in our negotiations or that a supplier’s
+    indemnity will cover all damages and losses suffered by Motorola
+    and our customers due to the infringing products or that a
+    supplier may choose to accept a license or modify or replace its
+    products with non-infringing products which would otherwise
+    mitigate such damages and losses. Further, Motorola may not be
+    able to participate in intellectual property litigation
+    involving a supplier and may not be able to influence any
+    ultimate resolution or outcome that may adversely impact
+    Motorola’s sales if a court enters an injunction that
+    enjoins the supplier’s products or if the International
+    Trade Commission issues an exclusionary order that blocks
+    Motorola products from importation into the U.S.
+
+
+ 
+
+
+    In addition, our customers increasingly demand that we indemnify
+    them broadly from all damages and losses resulting from
+    intellectual property litigation against them. Because our
+    customers often derive much larger revenue streams by reselling
+    or leasing our products than we generate from the same products,
+    these indemnity claims by our customers have the potential to
+    expose us to damages that are much higher than we would be
+    exposed to if we were sued directly.
+
+
+ 
+
+
+    Our patent and other intellectual property rights are important
+    competitive tools and may generate income under license
+    agreements. We regard our intellectual property rights as
+    proprietary and attempt to protect them
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    26
+
+
+
+
+    with patents, copyrights, trademarks, trade secret laws,
+    confidentiality agreements and other methods. We also generally
+    restrict access to and distribution of our proprietary
+    information. Despite these precautions, it may be possible for a
+    third party to obtain and use our proprietary information or
+    develop similar technology independently. In addition, effective
+    patent, copyright, trademark and trade secret protection may be
+    unavailable or limited in certain foreign countries.
+    Unauthorized use of our intellectual property rights by third
+    parties and the cost of any litigation necessary to enforce our
+    intellectual property rights could have an adverse impact on our
+    business.
+
+
+ 
+
+
+    As we expand our business, including through acquisitions, and
+    compete with new competitors in new markets, the breadth and
+    strength of our intellectual property portfolio in those new
+    areas may not be as developed as in our longer-standing
+    businesses. This may expose us to a heightened risk of
+    litigation and other challenges from competitors in these new
+    markets.
+
+
+ 
+
+
+    We face risks related to ongoing patent-related disputes
+    between Qualcomm and Broadcom.
+
+
+ 
+
+
+    Motorola is a purchaser of CDMA EV-DO baseband processor chips
+    and chipsets from Qualcomm Incorporated (“Qualcomm”),
+    and we previously announced an intention to design certain of
+    Qualcomm’s W-CDMA chipsets into certain of our 3G handsets.
+    Qualcomm and Broadcom Corporation (“Broadcom”) are
+    engaged in several patent-related legal actions. In certain of
+    these actions, Broadcom is seeking orders to ban the importation
+    into the U.S. of Qualcomm’s infringing EV-DO and
+    W-CDMA baseband processor chipsets and certain
+    “downstream” products that contain them (including
+    Motorola handsets)
+    and/or limit
+    Qualcomm’s ability to provide certain services and products
+    in the U.S. relating to such infringing chipsets. A final
+    outcome adverse to Qualcomm in any of the patent-related legal
+    actions could have a material adverse impact on Motorola’s
+    performance by making it difficult, more expensive or impossible
+    for Motorola to make
+    and/or
+    import products destined for the U.S. market that use
+    certain infringing Qualcomm chipsets. While we continue to work
+    with Qualcomm and others on contingency plans relating to these
+    cases, there is no guarantee that such plans will prove
+    successful or avoid further legal challenge.
+
+
+ 
+
+
+    Our future financial results may be negatively impacted if we
+    are not successful in licensing our intellectual property.
+
+
+ 
+
+
+    As part of the business strategy of some of our business
+    segments, primarily our Mobile Devices business, we generate
+    revenue through the licensing of intellectual property rights.
+    The licensed rights include those that are essential to
+    telecommunications standards, such as the GSM standard.
+    Previously
+    agreed-upon
+    terms of some of our long-standing license agreements and the
+    aging of our essential patent portfolio have reduced our royalty
+    revenue over the past several years and are likely to continue
+    to reduce that revenue. Uncertainty in the legal environment
+    makes it difficult to assure that we will be able to enter into
+    new license agreements that will be sufficient to offset that
+    reduction in our revenue.
+
+
+ 
+
+
+    Many of our components and products are designed or
+    manufactured by third parties and if third-party manufacturers
+    lack sufficient quality control or if there are significant
+    changes in the financial or business condition of such
+    third-party manufacturers, it may have a material adverse effect
+    on our business.
+
+
+ 
+
+
+    We rely on third-party suppliers for many of the components used
+    in our products and we rely on third-party manufacturers to
+    manufacture many of our assemblies and finished products. If we
+    are not able to engage such manufacturers with the capabilities
+    or capacities required by our business, or if such third parties
+    lack sufficient quality control or if there are significant
+    changes in the financial or business condition of such third
+    parties, it could have a material adverse effect on our business.
+
+
+ 
+
+
+    We also have third-party arrangements for the design or
+    manufacture of certain products, parts and components. If we are
+    not able to engage such parties with the capabilities or
+    capacities required by our business, or if these third parties
+    fail to deliver quality products, parts and components on time
+    and at reasonable prices, we could have difficulties fulfilling
+    our orders and our sales and profits could decline.
+
+
+ 
+
+
+    We may continue to make strategic acquisitions of other
+    companies or businesses and these acquisitions introduce
+    significant risks and uncertainties, including risks related to
+    integrating the acquired businesses and achieving benefits from
+    the acquisitions.
+
+
+ 
+
+
+    In order to position ourselves to take advantage of growth
+    opportunities, we have made, and may continue to make, strategic
+    acquisitions that involve significant risks and uncertainties.
+    These risks and uncertainties include: (i) the difficulty
+    in integrating newly-acquired businesses and operations in an
+    efficient and effective manner; (ii) the challenges in
+    achieving strategic objectives, cost savings and other benefits
+    from acquisitions; (iii) the risk
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    27
+
+
+
+
+    that our markets do not evolve as anticipated and that the
+    technologies acquired do not prove to be those needed to be
+    successful in those markets; (iv) the potential loss of key
+    employees of the acquired businesses; (v) the risk of
+    diverting the attention of senior management from our
+    operations; (vi) the risks of entering new markets in which
+    we have limited experience; (vii) risks associated with
+    integrating financial reporting and internal control systems;
+    (viii) difficulties in expanding information technology
+    systems and other business processes to accommodate the acquired
+    businesses; and (ix) future impairments of goodwill of an
+    acquired business.
+
+
+ 
+
+
+    Acquisition candidates in the industries in which we participate
+    may carry higher relative valuations (based on their earnings)
+    than we do. This is particularly evident in software and
+    services businesses. Acquiring a business that has a higher
+    valuation than Motorola may be dilutive to our earnings,
+    especially when the acquired business has little or no revenue.
+    In addition, we may not pursue opportunities that are highly
+    dilutive to near-term earnings and have, in the past, foregone
+    certain of these acquisitions.
+
+
+ 
+
+
+    Key employees of acquired businesses may receive substantial
+    value in connection with a transaction in the form of
+    change-in-control
+    agreements, acceleration of stock options and the lifting of
+    restrictions on other equity- based compensation rights. To
+    retain such employees and integrate the acquired business, we
+    may offer additional retention incentives, but it may still be
+    difficult to retain certain key employees.
+
+
+ 
+
+
+    The value of our investments in the securities of various
+    companies fluctuates and it may be difficult for us to realize
+    the value of these investments.
+
+
+ 
+
+
+    We hold a portfolio of investments in various companies. Since
+    the majority of these securities represent investments in
+    technology companies, the fair market values of these securities
+    are subject to significant price volatility. In addition, the
+    realizable value of these securities is subject to market and
+    other conditions.
+
+
+ 
+
+
+    We also have invested in numerous privately-held companies, many
+    of which can still be considered in startup or developmental
+    stages. These investments are inherently risky as the market for
+    the technologies or products they have under development are
+    typically in the early stages and may never materialize. We
+    could lose all or substantially all of the value of our
+    investments in these companies, and in some cases have.
+
+
+ 
+
+
+    The Sigma Fund holds U.S. Dollar-denominated debt
+    obligations which include, among other securities, corporate
+    bonds, asset- and mortgage-backed securities. As issuers of
+    these securities continue to be negatively impacted by the
+    weakened global economic environment and dislocation in the
+    financial markets, the total fair value of the Sigma Fund
+    holdings is less than its total original cost. The fair value of
+    these holdings may experience further declines due to the
+    widening credit spreads in several debt market segments or if
+    the underlying debtors should default on their obligations. Such
+    events could result in additional temporary unrealized losses or
+    impairment charges in the Sigma Fund investments.
+
+
+ 
+
+
+    It may be difficult for us to recruit and retain the types of
+    highly-skilled employees that are necessary to remain
+    competitive.
+
+
+ 
+
+
+    Competition for key technical personnel in high-technology
+    industries is intense. We believe that our future success
+    depends in large part on our continued ability to hire,
+    assimilate, retain and leverage the skills of qualified
+    engineers and other highly-skilled personnel needed to compete
+    and develop successful new products. We may not be as successful
+    as our competitors at recruiting, assimilating, retaining and
+    utilizing these highly-skilled personnel. In particular, we may
+    have more difficulty attracting or retaining highly-skilled
+    personnel during periods of poor operating performance, and as a
+    result of recent actions to suspend the Company’s 401(k)
+    contributions to employee accounts, permanently freeze all
+    future benefit accruals under U.S. pension plans and
+    eliminate merit increase programs in the U.S. and many other
+    markets.
+
+
+ 
+
+
+    The unfavorable outcome of litigation pending or future
+    litigation could materially impact the Company.
+
+
+ 
+
+
+    Our financial results could be materially adversely impacted by
+    unfavorable outcomes to any pending or future litigation. See
+    “Item 3—Legal Proceedings.” There can be no
+    assurances as to the favorable outcome of any litigation. In
+    addition, it can be very costly to defend litigation and these
+    costs could negatively impact our financial results.
+
+
+ 
+
+
+    We are subject to a wide range of product regulatory and
+    safety, consumer, worker safety and environmental laws.
+
+
+ 
+
+
+    Our operations and the products we manufacture
+    and/or sell
+    are subject to a wide range of global laws. Compliance with
+    existing or future laws could subject us to future costs or
+    liabilities, impact our production capabilities, constrict our
+    ability to sell, expand or acquire facilities, and generally
+    impact our financial
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    28
+
+
+
+
+    performance. Some of these laws relate to the use, disposal,
+    clean up of, and exposure to hazardous substances. In the United
+    States, laws often require parties to fund remedial studies or
+    action regardless of fault. Motorola continues to incur disposal
+    costs and has ongoing remediation obligations. Changes to
+    U.S. environmental laws or our discovery of additional
+    obligations under these laws could have a negative impact on
+    Motorola.
+
+
+ 
+
+
+    Over the last several years, laws focused on: the energy
+    efficiency of electronic products and accessories; recycling of
+    both electronic products and packaging; and reducing or
+    eliminating certain hazardous substances in electronic products
+    have expanded significantly. Laws pertaining to accessibility
+    features of electronic products, standardization of connectors
+    and power supplies, sound levels of music playing devices, and
+    other aspects are also proliferating.
+
+
+ 
+
+
+    These laws impact our products and make it more expensive to
+    manufacture and sell product. It may also be difficult to comply
+    with the laws in a timely way and we may not have compliant
+    products available in the quantities requested by our customers,
+    thereby impacting our sales and profitability.
+
+
+ 
+
+
+    We expect these trends to continue. In addition, we anticipate
+    increased demand to meet voluntary criteria related to reduction
+    or elimination of certain hazardous constituents from products,
+    increasing energy efficiency, and providing additional
+    accessibility.
+
+
+ 
+
+
+    We are exposed to risks under large multi-year system
+    contracts that may negatively impact our business.
+
+
+ 
+
+
+    We enter into large multi-year system contracts with large
+    customers. This exposes us to risks, including: (i) the
+    technological risks of such contracts, especially when the
+    contracts involve new technology, and (ii) financial risks
+    under these contracts, including the estimates inherent in
+    projecting costs associated with large contracts and the related
+    impact on operating results. We are also facing increasing
+    competition from traditional system integrators and the defense
+    industry as system contracts become larger and more complicated.
+    Political developments also can impact the nature and timing of
+    these large contracts.
+
+
+ 
+
+
+    It is important that we are able to obtain many different
+    types of insurance, and if we are not able to obtain insurance
+    we are forced to retain the risk.
+
+
+ 
+
+
+    The Company has many types of insurance coverage and also
+    self-insures for some risks and obligations. The insurance
+    market was disrupted after the events of September 11, 2001
+    and the 2005 hurricanes. While the cost and availability of most
+    insurance has stabilized, there are still certain types and
+    levels of insurance that remain unavailable. Natural disasters
+    and certain risks arising from securities claims and public
+    liability are potential self-insured events that could
+    negatively impact our financial results.
+
+
+ 
+
+
+    Government regulation of radio frequencies may limit the
+    growth of the wireless communications industry or reduce
+    barriers to entry for new competitors.
+
+
+ 
+
+
+    Radio frequencies are required to provide wireless services. The
+    allocation of frequencies is regulated in the U.S. and
+    other countries and limited spectrum space is allocated to
+    wireless services. The growth of the wireless and personal
+    communications industry may be affected: (i) by regulations
+    relating to the access to allocated spectrum for wireless
+    communication users, especially in urban areas, (ii) if
+    adequate frequencies are not allocated, or (iii) if new
+    technologies are not developed to better utilize the frequencies
+    currently allocated for such use. Industry growth has been and
+    may continue to be affected by the cost of new licenses required
+    to use frequencies and any related frequency relocation costs.
+
+
+ 
+
+
+    The U.S. leads the world in spectrum deregulation, allowing
+    new wireless communications technologies to be developed and
+    offered for sale. Examples include wireless local area network
+    systems, such as WiFi, mesh technologies and wide area network
+    systems, such as WiMAX and LTE. Other countries have also
+    deregulated portions of their available spectrum to allow
+    deployment of these and other technologies. Deregulation may
+    introduce new competition and new opportunities for Motorola and
+    our customers.
+
+
+ 
+
+
+    Changes in government policies and laws or economic
+    conditions may adversely affect our financial results.
+
+
+ 
+
+
+    Our results may be affected by changes in trade, monetary and
+    fiscal policies, laws and regulations, or other activities of
+    U.S. and
+    non-U.S. governments,
+    agencies and similar organizations. Our results may also be
+    affected by social and economic conditions, which impact our
+    operations, including in emerging markets in Asia, India, Latin
+    America and Eastern Europe, and in markets subject to ongoing
+    political hostilities and war, including the Middle East.
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    29
+
+
+
+ 
+
+
+    In addition, the laws and regulations that apply directly to
+    access to, or commerce on, the Internet are still evolving. We
+    could be adversely affected by any such regulation in any
+    country where we operate, including under the new presidential
+    administration in the U.S. The adoption of such measures
+    could decrease demand for our products and at the same time
+    increase the cost of selling such products.
+
+
+ 
+
+
+    Consolidations in both the cable and telecommunication
+    industries may adversely impact our business.
+
+
+ 
+
+
+    The cable and telecommunication industries have experienced
+    consolidation and this trend is expected to continue according
+    to industry estimates. Industry consolidation could result in
+    delays of purchases or in the selection of new suppliers by the
+    merged companies. This could adversely impact equipment
+    suppliers like Motorola and our competitors. Due to continuing
+    consolidation within the cable and telecommunications industries
+    worldwide, a small number of operators own a majority of cable
+    television systems and account for a significant portion of the
+    capital spending made by cable telecommunications systems
+    operators.
+
+
+ 
+
+
+    The effects of FCC regulations requiring separation of
+    security functionality from set-tops could negatively impact our
+    sales of set-tops to cable providers.
+
+
+ 
+
+
+    Historically, reception of digital television programming from a
+    cable broadband network has required a set-top with security
+    technology. Traditionally, cable service providers sold or
+    leased their set-top to their customer. This security technology
+    has limited the availability of set-tops to those manufactured
+    by a few cable network manufacturers, including Motorola. FCC
+    regulations requiring separation of security functionality from
+    set-tops that are aimed at increasing competition and
+    encouraging the sale of set-tops in the retail market became
+    effective for most customers in 2007. As the retail market
+    develops for set-tops and televisions capable of accepting the
+    security modules, sales of our set-tops to cable providers may
+    be negatively impacted. In addition, a full two-way security
+    interface specification that allows retail customers access to
+    all programming available on a cable operator’s network
+    without the need for a set-top box has been adopted by a few
+    television manufacturers. They began shipping television sets
+    that incorporate this capability in 2008.
+
+
+ 
+
+
+    We rely on complex information technology systems and
+    networks to operate our business. Any significant system or
+    network disruption could have a material adverse impact on our
+    operations, sales and operating results.
+
+
+ 
+
+
+    We rely on the efficient and uninterrupted operation of complex
+    information technology systems and networks, some of which are
+    within Motorola and some are outsourced. All information
+    technology systems are potentially vulnerable to damage or
+    interruption from a variety of sources, including but not
+    limited to computer viruses, security breach, energy blackouts,
+    natural disasters, terrorism, war and telecommunication
+    failures. There also may be system or network disruptions if new
+    or upgraded business management systems are defective or are not
+    installed properly. We have implemented various measures to
+    manage our risks related to system and network disruptions, but
+    a system failure or security breach could negatively impact our
+    operations and financial results. In addition, we may incur
+    additional costs to remedy the damages caused by these
+    disruptions or security breaches.
+
+
+ 
+
+
+    Our share price has been and may continue to be volatile.
+
+
+ 
+
+
+    Our share price has been volatile due, in part, to generally
+    volatile securities markets, and the volatility in the
+    telecommunications and technology companies’ securities
+    markets in particular. Factors other than our financial results
+    that may affect our share price include, but are not limited to,
+    market expectations of our performance, spending plans of our
+    customers, and the level of perceived growth in the industries
+    in which we participate.
+
+
+ 
+
+
+    The outcome of currently ongoing and future examinations of
+    our income tax returns by the IRS could impact our financial
+    results.
+
+
+ 
+
+
+    We are subject to continued examination of our income tax
+    returns by the Internal Revenue Service and other tax
+    authorities. We regularly assess the likelihood of adverse
+    outcomes resulting from these examinations to determine the
+    adequacy of our provision for income taxes. There can be no
+    assurance that the outcomes from these continuing examinations
+    will not have an adverse effect on future operating results.
+
+
+ 
+
+
+    Failure of our suppliers to use acceptable ethical business
+    practices could negatively impact our business.
+
+
+ 
+
+
+    It is our policy to require our suppliers to operate in
+    compliance with applicable laws, rules and regulations regarding
+    working conditions, employment practices, environmental
+    compliance and trademark and copyright licensing. However, we do
+    not control their labor and other business practices. If one of
+    our suppliers violates labor or other laws or implements labor
+    or other business practices that are regarded as unethical, the
+    shipment of finished products to us could be interrupted, orders
+    could be canceled, relationships could be terminated and our
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+    30
+
+
+
+
+    reputation could be damaged. If one of our suppliers fails to
+    procure necessary license rights to trademarks, copyrights or
+    patents, legal action could be taken against us that could
+    impact the salability of our inventory and expose us to
+    financial obligations to a third party. Any of these events
+    could have a material adverse effect on our sales and results of
+    operations.
+
+
+ 
+
+
+    Copyright levies in numerous countries for the sale of
+    products may adversely impact our business.
+
+
+ 
+
+
+    Motorola faces the possibility of substantial copyright levies
+    from collecting societies in numerous countries for the sale of
+    products that might be used for the private copying of copyright
+    protected works such as mobile phones, memory cards, and set top
+    boxes. The collecting societies argue that such levies should
+    apply to such products because they include audio/video
+    recording functionality, such as an MP3 player or DVR or storage
+    capability, despite the fact that such products are not
+    primarily intended to act as a recording device. As of this
+    date, to our knowledge, no copyright levies have been paid to
+    any collecting societies anywhere by any manufacturer. Motorola
+    is currently working with other major mobile communications
+    companies to challenge the applicability of these levies to
+    mobile phones, and is also engaged in aggressive lobbying
+    efforts against the levies in general at the European Union
+    level. However, if these levies are imposed, our financial
+    results will be negatively impacted.
+
+
+ 
+
+
+
+    Item 1B

@@ -1,0 +1,3314 @@
+Item 1A. “Risk Factors.” When used in this
+    report, the words “expects,” “anticipates,”
+    “intends,” “plans,” “believes,”
+    “seeks,” “estimates” and similar expressions
+    are generally intended to identify forward-looking statements.
+    You should not place undue reliance on these forward-looking
+    statements, which reflect our opinions only as of the date of
+    this Annual Report. We undertake no obligation to publicly
+    release any revisions to the forward-looking statements after
+    the date of this document. You should carefully review the risk
+    factors described in other documents we file from time to time
+    with the Securities and Exchange Commission, including the
+    Quarterly Reports on
+    Form 10-Q
+    to be filed by us in our 2008 fiscal year, which runs from
+    June 1, 2007 to May 31, 2008.
+
+
+ 
+
+
+
+    PART I
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1.  
+
+    
+    Business
+
+
+
+
+
+ 
+
+
+
+    General
+
+
+ 
+
+
+    We are the world’s largest enterprise software company. We
+    develop, manufacture, market, distribute and service database
+    and middleware software as well as applications software
+    designed to help our customers manage and grow their business
+    operations. We also provide support for the Linux open source
+    operating system through our Oracle Unbreakable Linux Support
+    program, which provides our customers with our industry-leading
+    global support programs for Linux.
+
+
+ 
+
+
+    Our goal is to offer customers scalable, reliable, secure and
+    integrated software systems that provide transactional
+    efficiencies, adapt to an organization’s unique needs and
+    allow better ways to access and manage information at a lower
+    total cost of ownership. We seek to be an industry leader in
+    each of the specific product categories in which we compete and
+    to expand into new and emerging markets. In fiscal 2007, we
+    focused on strengthening our competitive position and enhancing
+    our existing portfolio of products and services as well as
+    acquiring and integrating businesses.
+
+
+ 
+
+
+    An active acquisition program is an important element of our
+    corporate strategy. In the last three fiscal years, we have
+    invested over $25 billion, in the aggregate, to acquire a
+    number of companies, products, services and technologies,
+    including the acquisition of PeopleSoft, Inc., Siebel Systems,
+    Inc. and Hyperion Solutions Corporation. Typically, the
+    significant majority of our integration activities related to an
+    acquisition are substantially complete in the United States
+    within three to six months after the closing of the acquisition.
+    We believe our acquisition program supports our long-term
+    strategic direction, strengthens our competitive position,
+    expands our customer base and provides greater scale to
+    accelerate innovation, grow our earnings and increase
+    stockholder value. We expect to continue to acquire companies,
+    products, services and technologies.
+
+
+ 
+
+
+    Oracle Corporation was incorporated in 2005 as a Delaware
+    corporation and is the successor to operations originally begun
+    in June 1977.
+
+
+ 
+
+
+
+    Software
+    and Services
+
+
+ 
+
+
+    We are organized into two businesses, software and services,
+    which are further divided into five operating segments. Our
+    software business is comprised of two operating segments:
+    (1) new software licenses and (2) software license
+    updates and product support. Our services business is comprised
+    of three operating segments: (1) consulting, (2) On
+    Demand and (3) education. Our software and services
+    businesses represented 79% and 21% of our total revenues,
+    respectively, in fiscal 2007 and 80% and 20% of our total
+    revenues, respectively, in both fiscal 2006 and fiscal 2005. See
+    Note 15 of Notes to Consolidated Financial Statements for
+    additional information related to our operating segments.
+
+
+
+    
+    1
+
+
+
+Table of Contents
+
+
+
+
+
+    Software
+    Business 
+
+
+ 
+
+
+
+    New
+    Software Licenses
+
+
+ 
+
+
+    New software licenses include the licensing of database and
+    middleware software, which consists of Oracle Database and
+    Oracle Fusion Middleware, as well as applications software. Our
+    technology and business solutions are based on an internet model
+    comprised of interconnected database servers, application
+    servers, web servers and computers as well as mobile devices
+    running web browsers. This architecture enables users to access
+    business data and applications through a universally adopted web
+    browser interface, while providing enterprises the most
+    efficient and cost effective method of managing business
+    information and applications.
+
+
+ 
+
+
+    In an internet model, database servers manage and protect the
+    underlying business information, while application servers run
+    the business applications that automate a myriad of business
+    functions. We have focused on concepts such as global single
+    instance application deployment that involve fewer, high quality
+    databases of important business information, rather than dozens
+    or hundreds of disparate databases that are difficult to
+    synchronize and coordinate. Our integrated architecture provides
+    high quality business information and can be adapted to the
+    specific needs of any industry or application. Oracle technology
+    operates on single server or clustered server configurations,
+    and supports a choice of operating systems including Linux, UNIX
+    and Windows. In fiscal 2007, we introduced a program to support
+    the Linux open source operating system for our customers’
+    information technology (IT) platforms.
+
+
+ 
+
+
+    New software license revenues include fees earned from granting
+    customers licenses to use our software products and exclude
+    revenues derived from software license updates and product
+    support. The standard end user software license agreement for
+    our products provides for an initial fee to use the product in
+    perpetuity based on a maximum number of processors, named users
+    or other metrics. We also have other types of software license
+    agreements restricted by the number of employees or the license
+    term. New software license revenues represented 33%, 34% and 35%
+    of total revenues in fiscal 2007, 2006 and 2005, respectively.
+
+
+ 
+
+
+
+    Database
+    and Middleware Software
+
+
+ 
+
+
+    Our grid software provides a cost-effective, high-performance
+    platform for running and managing business applications for
+    small and mid-size businesses and large global enterprises. With
+    an increasing focus by enterprises on reducing their total cost
+    of IT infrastructure, Oracle’s grid software is designed to
+    accommodate demanding, non-stop business environments, using
+    clusters of low cost servers and storage that can incrementally
+    scale as required. The unique ability to assign computing
+    resources as required simplifies our customers’ computing
+    capacity, planning and procurement in order to support all of
+    their business applications. With an Oracle grid infrastructure,
+    our customers can lower their investment in IT hardware, reduce
+    their risk of IT infrastructure downtime and easily cope with
+    sudden increases in demand on their IT environments during high
+    traffic periods. New software license revenues from database and
+    middleware products represented 71%, 73% and 81% of new software
+    license revenues in fiscal 2007, 2006 and 2005, respectively.
+
+
+ 
+
+
+
+    Database
+
+
+ 
+
+
+    As the world’s most popular database, Oracle’s
+    relational database enables the secure storage, manipulation and
+    retrieval of all forms of data including structured data that
+    resides in business applications, XML data, analytics data,
+    spatial data and other unstructured data such as documents,
+    spreadsheets and images. Designed for enterprise grid computing,
+    the Oracle Database is available in four editions: Express
+    Edition, Standard Edition One, Standard Edition and Enterprise
+    Edition. All editions are built using the same underlying code,
+    which means that database applications can easily scale from
+    small, single processor servers to clusters of multi-processor
+    servers.
+
+
+ 
+
+
+    Options to Oracle Database Enterprise Edition are available to
+    meet specific requirements in the areas of performance and
+    scalability, high availability, security and compliance, data
+    warehousing, unstructured data integration and systems
+    management. Examples of these options include: Oracle Real
+    Application Clusters, which consolidates a single, scalable and
+    fault tolerant database that is shared across an interconnected
+    cluster of servers (also available on our other database
+    editions); Oracle Partitioning, which supports large transaction
+    processing and business intelligence database systems and cost
+    effectively manages data throughout its lifecycle; and Oracle
+
+
+
+    
+    2
+
+
+
+Table of Contents
+
+
+
+
+    Warehouse Builder connectors, which design, build and populate
+    data warehouses from a variety of legacy repositories.
+
+
+ 
+
+
+
+    Enterprise
+    Manager
+    
+
+
+ 
+
+
+    Oracle Enterprise Manager is designed to deliver top-down
+    applications management. Our customers use Oracle Enterprise
+    Manager to monitor and manage their applications and underlying
+    software infrastructure, including both Oracle and non-Oracle
+    infrastructure products. Oracle Enterprise Manager can be used
+    to manage packaged applications, such as Siebel, PeopleSoft,
+    Oracle
+    E-Business
+    Suite or custom applications including service-oriented
+    applications. In addition to managing Oracle software
+    infrastructure products including the Oracle Database and Oracle
+    Fusion Middleware, Oracle Enterprise Manager also supports
+    third-party infrastructure products.
+
+
+ 
+
+
+    Oracle Enterprise Manager is designed to monitor service levels
+    and performance, automate tasks, manage configuration
+    information, and provide change management in a unified way
+    across groups of computers or grids. Oracle Enterprise
+    Manager’s provisioning automates the discovery, tracking
+    and scheduling of software patches and allows IT administrators
+    to apply patches without taking their system down. Additionally,
+    IT administrators can manage systems from anywhere through an
+    HTML browser or through wireless PDAs.
+
+
+ 
+
+
+
+    Secure
+    Enterprise Search
+    
+
+
+ 
+
+
+    Oracle Secure Enterprise Search provides an internet-like search
+    experience to users searching secure content inside the
+    enterprise. Oracle Secure Enterprise Search indexes and searches
+    public, private and shared content across internal and external
+    web sites, databases, file servers, document repositories,
+    enterprise content management systems, applications and portals.
+    Oracle Secure Enterprise Search has built-in functionality that
+    permits users to see only search results leading to information
+    for which they have authorized access. The product features a
+    simple web interface allowing for efficient administration and
+    management. Additionally, users can access the search engine
+    through web-based user interfaces and perform traditional
+    keyword searches that provide results in a format similar to
+    conventional web searches.
+
+
+ 
+
+
+
+    Middleware
+
+
+ 
+
+
+    Oracle Fusion Middleware is a broad product family that forms a
+    reliable and scalable foundation on which customers can build,
+    deploy and integrate business applications and automate their
+    business processes. Oracle Fusion Middleware includes Oracle
+    Application Server, Oracle Identity and Access Management Suite,
+    Oracle Webcenter Suite, Oracle Business Intelligence Suite,
+    Oracle Developer Suite, Oracle Service Oriented Architecture
+    Suite, Oracle Enterprise Content Management Suite and Oracle
+    Business Process Analysis Suite, among others. Oracle Fusion
+    Middleware is designed to protect our customers’ IT
+    investments and work with both Oracle and non-Oracle Database,
+    Applications and Middleware products through its hot-pluggable
+    architecture and adherence to industry standards such as J2EE
+    and Business Process Execution Language (BPEL).
+
+
+ 
+
+
+    By using Oracle Fusion Middleware, our customers increase their
+    capacity to adapt to business changes rapidly, reduce their
+    risks related to security and compliance, increase user
+    productivity, and drive better business decisions. Specifically,
+    Oracle Fusion Middleware enables customers to easily integrate
+    heterogeneous business applications, automate business
+    processes, simplify security and compliance, manage lifecycle of
+    documents and get actionable, targeted business intelligence,
+    while continuing to utilize their existing IT systems. In
+    addition, Oracle Fusion Middleware supports multiple development
+    languages and tools, which allows developers to build and deploy
+    web services, web sites, portals and web-based applications.
+    Oracle’s Fusion Middleware is used to support Oracle
+    applications, as well as other enterprise applications and
+    independent software vendors that build their own custom
+    applications.
+
+
+ 
+
+
+
+    Application
+    Server
+    
+
+
+ 
+
+
+    The foundation of Oracle Fusion Middleware is Oracle Application
+    Server. Designed for grid computing, Oracle Application Server
+    incorporates clustering and caching technology, which increases
+    application reliability, performance, security and scalability.
+    Oracle Application Server also provides a complete integration
+    platform that is designed to simplify and accelerate business,
+    application and data integration projects.
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+    Identity and
+    Access Management Suite
+    
+
+
+ 
+
+
+    The Oracle Identity and Access Management suite makes it easier
+    for our customers to manage multiple user identities, provision
+    users in multiple enterprise applications and systems and manage
+    access privileges for customers, employees and partners. Our
+    customers use Oracle Identity and Access Management Suite to
+    secure their information from potential threats. In addition,
+    our customers also use Oracle Identity and Access Management
+    Suite to increase compliance levels, while lowering the total
+    cost of their compliance efforts.
+
+
+ 
+
+
+
+    Webcenter
+    Suite
+    
+
+
+ 
+
+
+    Oracle Webcenter Suite enables personalized, task oriented web
+    applications and portal sites to be rapidly developed and
+    deployed, all with single sign-on access and security. Our
+    customers can assemble portal sites using page regions or
+    portlets, which are reusable interface components that provide
+    access to web-based resources such as applications, business
+    intelligence reports, syndicated content feeds and outsourced
+    software services. With the Oracle Communications and Mobility
+    Server option, such web and portal applications support mobile
+    and Voice-over-IP (VoIP) clients.
+
+
+ 
+
+
+
+    Business
+    Intelligence Suite
+    
+
+
+ 
+
+
+    Oracle Business Intelligence Suite is a family of enterprise
+    business intelligence products that unites Oracle’s
+    business intelligence and middleware technology with Siebel
+    Business Analytics to offer our customers enterprise-wide
+    business intelligence infrastructure and tools. Based on
+    Oracle’s hot-pluggable business intelligence
+    infrastructure, these products deliver to our customers a full
+    spectrum of business intelligence requirements, including
+    interactive dashboards, ad hoc query and analysis, proactive
+    intelligence and alerts, enterprise reporting, real-time
+    predictive intelligence and mobile analytics. In April 2007, we
+    acquired Hyperion, a market leader in enterprise performance
+    management and business intelligence products. As a result of
+    the Hyperion acquisition, we now offer our customers the most
+    comprehensive, integrated, end-to-end enterprise performance
+    management system available, spanning consolidation, planning,
+    operational analytic applications, business intelligence tools,
+    reporting, and data integration, all on a unified business
+    intelligence platform.
+
+
+ 
+
+
+    Current editions of the Oracle Business Intelligence Suite
+    include the Oracle Business Intelligence Suite Enterprise
+    Edition and Oracle Business Intelligence Suite Standard
+    Edition. Oracle Business Intelligence Suite Enterprise
+    Edition is open to any enterprise data source and optimized for
+    Oracle or non-Oracle databases, allowing customers to integrate
+    data from all their enterprise applications, including third
+    party and customer applications. Oracle Business Intelligence
+    Suite Standard Edition is optimized to work with Oracle
+    data and applications.
+
+
+ 
+
+
+
+    Developer
+    Suite
+    
+
+
+ 
+
+
+    Oracle Developer Suite is an integrated suite of development
+    tools designed to facilitate rapid development of internet
+    database applications and web services. The Oracle Developer
+    Suite contains application development and business intelligence
+    tools and is built on internet standards such as Java, J2EE, XML
+    and HTML.
+
+
+ 
+
+
+    The Oracle Developer Suite includes Oracle JDeveloper, a Java
+    development environment for modeling, building, debugging and
+    testing enterprise-class J2EE applications and web
+    services. In addition, the suite contains Oracle Designer, a
+    tool that allows developers to model business processes and
+    automatically generate enterprise database applications, and
+    Oracle Forms Developer, a development tool for building
+    database applications that can be deployed unchanged in both
+    internet and client/server based environments.
+
+
+ 
+
+
+    The Oracle Developer Suite also includes Oracle Warehouse
+    Builder software that consolidates fragmented data and metadata
+    pulled from packaged applications, custom applications and
+    legacy applications. Oracle Warehouse Builder enables developers
+    to graphically design the multidimensional database schema and
+    to automatically generate and load data into the data warehouse.
+
+
+ 
+
+
+
+    Service-Oriented
+    Architecture Suite
+    
+
+
+ 
+
+
+    Oracle Service-Oriented Architecture (SOA) Suite is a complete
+    set of service infrastructure components for creating,
+    deploying, and managing SOAs, including Oracle Developer, Oracle
+    BPEL Process Manager, Oracle Web
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+    Services Manager, Oracle Business Rules Engine, Oracle
+    Business Activity Monitoring, and Oracle Enterprise Service Bus.
+    Oracle SOA Suite enables services to be created, managed and
+    orchestrated into composite applications and reconfigurable
+    business processes, reducing development time and costs and
+    increasing flexibility and response time. Oracle SOA Suite is
+    hot-pluggable, enabling customers to easily extend and evolve
+    their architectures instead of replacing existing investments.
+
+
+ 
+
+
+
+    Enterprise
+    Content Management Suite
+    
+
+
+ 
+
+
+    Oracle Enterprise Content Management suite provides a
+    comprehensive set of capabilities to create, publish, share,
+    archive and retain documents, manage business process flows
+    involving these documents as well as manage information access
+    rights to these documents. It supports an extensive set of
+    document and image formats.
+
+
+ 
+
+
+
+    Applications
+    Software 
+
+
+ 
+
+
+    Our applications strategy is designed to provide customers with
+    a complete industry business process automation footprint,
+    supported by a robust, standards-based technology platform.
+    Central to that strategy is our commitment to offer our
+    customers that purchase software license updates and support
+    contracts a choice as to when they wish to upgrade to any of our
+    existing or future technology offerings. Until our customers
+    upgrade, we protect their investments in their applications by
+    providing them lifetime support, product enhancements and
+    upgrades. New technologies such as Oracle Fusion Middleware,
+    Oracle Business Intelligence Suite, and Oracle WebCenter Suite
+    are designed to help our customers extend the benefits of their
+    investment in Oracle Applications, to reduce their investment
+    risk, and to support their evolution to the next generation of
+    enterprise software that best fits their needs.
+
+
+ 
+
+
+    Our applications combine business functionality with innovative
+    technologies such as role-based analytics, secure search,
+    identity management, self-service, and workflow to deliver
+    business intelligence and insights, adaptive industry processes,
+    and a superior ownership experience. Our applications enable
+    efficient management of all core business functions, including
+    customer relationship management (CRM), enterprise performance
+    management (EPM), enterprise resource planning (ERP) and
+    industry-specific applications. Oracle applications are offered
+    as integrated suites or available on a component basis, and all
+    are built on open architectures and are designed for flexible
+    configuration and open, multi-vendor integration. Our
+    applications are available in multiple languages, and support a
+    broad range of location specific requirements, enabling
+    companies to support both global and local business practices
+    and legal requirements.
+
+
+ 
+
+
+
+    Customer
+    Relationship Management (CRM)
+    
+
+
+ 
+
+
+    We offer a complete set of CRM applications that manage all of
+    the business processes and associated systems that touch a
+    customer, including: billing and delivery; sales solutions that
+    provide a single repository for customer and supply chain
+    information; and service solutions that increase customer
+    satisfaction by providing visibility into customer billing and
+    order information.
+
+
+ 
+
+
+
+    Enterprise
+    Performance Management (EPM)
+    
+
+
+ 
+
+
+    We offer a full spectrum of open, industry-specific analytic
+    applications with capabilities such as enterprise performance
+    management, interactive dashboarding, and embedded analytic
+    functionality for delivering insight across the enterprise. Our
+    Siebel business analytics solution is tailored to 20 industries,
+    giving customers the ability to monitor, analyze, and act upon
+    intelligence while providing end-to-end visibility into company
+    operations and financial performance. With our acquisition of
+    Hyperion in April 2007, we added complementary products to
+    Oracle’s business intelligence offerings, including a
+    leading open enterprise planning system, financial consolidation
+    products, and a multi-source OLAP server. Our acquisition of
+    Hyperion enables us to offer our customers an integrated,
+    end-to-end EPM system that spans planning, consolidation,
+    operational analytic applications, business intelligence tools,
+    reporting, and data integration, all on a unified business
+    intelligence platform.
+
+
+ 
+
+
+
+    Enterprise
+    Resource Planning (ERP)
+    
+
+
+ 
+
+
+    Companies use our ERP applications to automate and integrate a
+    variety of their key global business processes including
+    manufacturing, order entry, accounts receivable and payable,
+    general ledger, purchasing, warehousing,
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+    transportation and human resources. Our ERP applications combine
+    business functionality with innovative technologies, such as
+    workflow and self-service applications, to enable companies to
+    lower the cost of their business operations by providing their
+    customers, suppliers and employees with self-service internet
+    access to both transaction processing and critical business
+    information. Our ERP applications are available in multiple
+    languages and currencies, enabling companies to support both
+    global and local business practices and legal requirements.
+
+
+ 
+
+
+
+    Industry
+    Applications
+    
+
+
+ 
+
+
+    Our applications can be tailored to offer customers a variety of
+    industry-specific solutions. As part of our strategy, we strive
+    to ensure that our applications portfolio addresses the major
+    industry-influenced technology challenges of customers in key
+    industries. With our acquisition of Siebel, we gained expertise
+    in the vertical markets in which Siebel offered industry
+    solutions. We have also expanded our offerings in a number of
+    other key industries we view as strategic to our future growth,
+    most notably in retail with our acquisitions of Retek, Inc. and
+    several other companies; in banking and financial institutions
+    with our acquisition of i-flex solutions limited; and in
+    telecommunications with our acquisitions of Portal Software,
+    Inc. and MetaSolv, Inc. These acquired industry applications are
+    in addition to industry applications we developed for
+    healthcare, life sciences, manufacturing, education,
+    professional services, public sector and utilities.
+
+
+ 
+
+
+    New software license revenues from applications software
+    represented 29%, 27% and 19% of new software license revenues in
+    fiscal 2007, 2006 and 2005, respectively.
+
+
+ 
+
+
+
+    Applications
+    Unlimited
+    
+
+
+ 
+
+
+    In fiscal 2006, we announced we would continue to invest in
+    enhancements to our current Oracle
+    E-Business
+    Suite, PeopleSoft Enterprise, JD Edwards EnterpriseOne, JD
+    Edwards World and Siebel applications products beyond the
+    delivery of Oracle Fusion Applications (described below). In
+    January 2007, we delivered five new releases of these existing
+    product lines, incorporating new products and customer-driven
+    enhancements in areas such as global support, localization,
+    middleware, and analytics. With the Applications Unlimited
+    program, customers will not be required to migrate to Oracle
+    Fusion Applications and may choose to stay with their current
+    product lines with dedicated development and support teams.
+
+
+ 
+
+
+
+    Fusion
+    Applications
+    
+
+
+ 
+
+
+    Oracle Fusion Applications, currently in development, represent
+    the next generation of Oracle Applications, based on a
+    service-oriented platform, built on open industry standards,
+    extendable by customers and partners and interoperable with
+    third party and existing installations. Fusion applications are
+    being designed to leverage the best functionality and combine
+    the best features, flows and usability traits of our legacy and
+    acquired application products into one product line. We believe
+    the resulting suite of applications will deliver a superior
+    ownership experience through improved usability, adaptive
+    business process automation, built-in business intelligence and
+    industry-specific capabilities.
+
+
+ 
+
+
+
+    Software
+    License Updates and Product Support
+
+
+ 
+
+
+    We seek to protect and enhance our customers’ current
+    investments in Oracle technology and applications by offering
+    lifetime support, product enhancements and upgrades. Software
+    license updates provide customers with rights to unspecified
+    software product upgrades and maintenance releases and patches
+    released during the term of the support period. Product support
+    includes internet and telephone access to technical support
+    personnel located in our global support centers, as well as
+    internet access to technical content. Software license updates
+    and product support are generally priced as a percentage of the
+    new software license fees. Substantially all of our customers
+    purchase software license updates and product support when they
+    acquire new software licenses. In addition, substantially all of
+    our customers renew their software license updates and product
+    support contracts annually.
+
+
+ 
+
+
+
+    Unbreakable
+    Linux Support
+
+
+ 
+
+
+    During fiscal 2007, we introduced a program to support the Linux
+    open source operating system for our customers’ IT
+    platforms. Oracle Unbreakable Linux, a support program that
+    provides enterprises with industry-leading global
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+    support for Linux, addresses customer demand for true
+    enterprise-quality Linux support. The Oracle Unbreakable Linux
+    support program delivers fully tested, high-quality,
+    comprehensive and integrated support solutions to our customers
+    using the Linux operating system. With Oracle solutions on
+    Linux, our customers benefit from high performance, reliability
+    and data security at a fraction of the cost of proprietary
+    platforms. Oracle Unbreakable Linux also allows us to offer
+    end-to-end support for our customers’ entire software
+    “stack,” including enterprise applications,
+    middleware, database and operating system.
+
+
+ 
+
+
+    Our software license updates and product support revenues
+    represented 46% of total revenues in both fiscal 2007 and 2006
+    and 45% of total revenues in fiscal 2005.
+
+
+ 
+
+
+
+    Services
+    Business
+
+
+ 
+
+
+
+    Consulting
+
+
+ 
+
+
+    Oracle Consulting assists our customers in successfully
+    deploying our applications and technology products. Our
+    consulting services include business strategy and analysis;
+    business process optimization; product implementation,
+    enhancement, and upgrades; and ongoing managed services. These
+    services help our customers to achieve measurable business
+    results, manage their total cost of ownership, and reduce their
+    deployment risk.
+
+
+ 
+
+
+    Oracle Consulting deploys professionals globally utilizing our
+    blended delivery capabilities, including use of onsite
+    consultants and personnel from our offshore delivery centers and
+    applications solutions centers to leverage economies of scale
+    for our customers. Consulting revenues represented 16% of total
+    revenues in fiscal 2007 and 15% of total revenues in both fiscal
+    2006 and fiscal 2005.
+
+
+ 
+
+
+
+    On
+    Demand
+
+
+ 
+
+
+    On Demand includes Oracle On Demand, CRM On Demand and Advanced
+    Customer Services. Oracle On Demand provides multi-featured
+    software and hardware management, and maintenance services for
+    customers that deploy our database, middleware and applications
+    software at our data center facilities or at a site of our
+    customer’s choosing. We recently expanded our Oracle On
+    Demand offerings to include our PeopleSoft, Siebel Business
+    Intelligence and retail applications. CRM On Demand is a service
+    offering that provides our customers with our Siebel CRM
+    Software functionality delivered via a hosted solution that we
+    manage. Advanced Customer Services consists of solution support
+    centers, business critical assistance, technical account
+    management, expert services, configuration and performance
+    analysis, personalized support and annual
+    on-site
+    technical services. On Demand revenues represented 3% of total
+    revenues in fiscal 2007, 2006 and 2005.
+
+
+ 
+
+
+
+    Education
+
+
+ 
+
+
+    We provide training to customers, partners and employees as part
+    of our mission of accelerating the adoption of our technology
+    around the world. We currently offer thousands of courses
+    covering all of Oracle’s product offerings. Our training is
+    provided primarily through public and private instructor-led
+    classroom events, but is also made available through a variety
+    of online courses and self paced media training on CD-ROMs. In
+    addition, we also offer a certification program certifying
+    database administrators, developers and implementers. Oracle
+    University also offers User Adoption Services designed to
+    provide comprehensive training services to help customers get
+    the most out of their investment in Oracle. Education revenues
+    represented 2% of total revenues in fiscal 2007, 2006 and 2005.
+
+
+ 
+
+
+
+    Marketing
+    and Sales
+
+
+ 
+
+
+
+    Sales
+    Distribution Channels
+
+
+ 
+
+
+    We directly market and sell our products and services primarily
+    through our subsidiary sales and service organizations. In the
+    United States our sales and service employees are based in our
+    headquarters and in field offices throughout the United States.
+    Outside the United States, our international subsidiaries
+    license and support our products in their local countries as
+    well as within other foreign countries where we do not operate
+    through a direct sales subsidiary.
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+    We also market our products worldwide through indirect channels.
+    The companies that comprise our indirect channel network are
+    members of the Oracle PartnerNetwork. The Oracle PartnerNetwork
+    is a global program that manages our business relationships with
+    a large, broad- based network of companies, including
+    independent software vendors, system integrators and resellers
+    who deliver innovative solutions and services based upon our
+    products. By offering our partners’ access to our premier
+    products, educational information, technical services, marketing
+    and sales support, the OPN program extends our market reach by
+    providing our partners with the resources they need to be
+    successful in delivering solutions to customers globally.
+
+
+ 
+
+
+
+    International
+    Markets
+
+
+ 
+
+
+    We sell our products and provide services worldwide. Our
+    geographic coverage allows us to draw on business and technical
+    expertise from a worldwide workforce, provides stability to our
+    operations and revenue streams to offset geography-specific
+    economic trends and offers us an opportunity to take advantage
+    of new markets for products. A summary of our domestic and
+    international revenues and long-lived assets is set forth in
+    Note 15 of Notes to Consolidated Financial Statements.
+
+
+ 
+
+
+
+    Cyclicality
+    and Seasonality
+
+
+ 
+
+
+    General economic conditions have an impact on our business and
+    financial results. The markets in which we sell our products and
+    services have, at times, experienced weak economic conditions
+    that have negatively affected revenues. Our quarterly results
+    reflect distinct seasonality in the sale of our products and
+    services, as our revenues are typically highest in our fourth
+    fiscal quarter and lowest in our first fiscal quarter. See
+    “Quarterly Results of Operations” in Item 7 for a
+    more complete description of the cyclicality and seasonality of
+    our revenues and expenses.
+
+
+ 
+
+
+
+    Customers
+
+
+ 
+
+
+    Our customer base consists of a significant number of businesses
+    of many sizes and industries, government agencies, educational
+    institutions and resellers. No single customer accounted for 10%
+    or more of revenues in fiscal 2007, 2006 or 2005.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    The enterprise software industry is intensely competitive and
+    evolving rapidly. We compete in various segments of this
+    industry including database software, middleware (business
+    intelligence, application integration, portal server, J2EE
+    application server, development tools and identity management),
+    collaboration, development tools, enterprise applications,
+    consulting/systems integration and operating systems, among
+    others. Total cost of ownership, performance, functionality,
+    ease of use, standards-compliance, product reliability, security
+    and quality of technical support are key competitive factors
+    that face us in each of the areas in which we compete. Our
+    customers are also demanding less complexity and lower cost in
+    the implementation, sourcing, integration and ongoing
+    maintenance of their enterprise software, which has led
+    increasingly to our product offerings (database, middleware and
+    applications) being viewed as a “stack” of software
+    designed to work together. Our product sales (and the relative
+    strength of our products versus our competitors) are also
+    affected by the broader “platform” competition between
+    industry standard Java (J2EE) and Microsoft Corporation’s
+    .NET programming environments and by operating system
+    competition between Windows Server, Unix (Sun Solaris, HP-UX and
+    IBM AIX) and Linux. Open source alternatives to commercial
+    software, such as MySQL AB in database, Red Hat, Inc. (JBoss) in
+    middleware, and SugarCRM Inc. in applications, are also
+    impacting the competitive environment. These products are
+    typically offered free of charge and are readily available over
+    the internet. Finally, “on demand” offerings, such as
+    those from salesforce.com, continue to alter the competitive
+    landscape.
+
+
+ 
+
+
+    In the sale of database software and related tools, scalability,
+    reliability, availability and security are key competitive
+    differentiators for us. Our competitors include International
+    Business Machines Corporation (IBM), Microsoft, Sybase, Inc.,
+    NCR Corporation’s Teradata division, SAS Institute, Inc.,
+    Informatica Corporation, and the open source databases, MySQL
+    and PostgreSQL, among others. Our ability to continually
+    innovate and differentiate our database offering has enabled us
+    to maintain our leading position in database software over our
+    competitors.
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+    In the sale of middleware products, our offerings include
+    business intelligence, application integration, business process
+    management (BPM), service oriented architecture, portal, J2EE
+    application server, development tools and identity management
+    software. Our ability to offer a full range of rich
+    functionality in a standards-based, open architecture has been a
+    key competitive differentiator. Our competitors include IBM,
+    Microsoft, BEA Systems, Inc., SAP AG, Sun Microsystems Inc.,
+    Sybase and open source vendors such as Red Hat (JBoss), Apache
+    Geronimo and ObjectWeb, as well as other competitors in each
+    element of our packaged functions. Business intelligence
+    competitors include Actuate Corporation, Business Objects S.A.,
+    Cognos Incorporated, MicroStrategy, Inc., SAS Institute, TIBCO
+    Software, Inc. (Spotfire), open source vendors Netezza
+    Corporation, and others. Application server competitors include
+    Borland Software Corporation, Fujitsu Software Corporation,
+    Hitachi Software Engineering Co., Ltd., Adobe Systems
+    Incorporated and others. Enterprise Application Integration
+    competitors include Software AG (webMethods), TIBCO, IONA
+    Technologies PLC, Sonic Software Corporation, Sun Microsystems
+    and others. BPM competitors include Lombardi Software, Inc.,
+    Savvion, Inc., Pegasystems Inc. and others. Enterprise portal
+    vendors include Vignette Corporation, Novell, Inc., Fujitsu, and
+    others. Identity management vendors include IBM, CA, Inc., Sun
+    Microsystems and Hewlett-Packard Company, among others. Open
+    source vendors Red Hat and Novell are also increasingly bundling
+    middleware functionality with their respective Linux
+    distributions. Our middleware solutions have experienced rapid
+    growth in recent years relative to our competitors. In the sale
+    of collaboration products, we compete primarily with Microsoft
+    (Exchange/Outlook), IBM (Domino/Notes), Novell (Groupwise) and
+    Cisco Systems, Inc. (WebEx). In addition, we compete in the
+    related content management markets with EMC Corporation
+    (Documentum), IBM (FileNet), Percussion Software, Inc. and
+    Vignette, among others.
+
+
+ 
+
+
+    In the sale of development tools, ease of use,
+    standards-compliance and the level of abstraction (automated
+    code generation) are key competitive differentiators. We compete
+    against IBM (WebSphere Studio), Microsoft 8 (VisualStudio.NET),
+    Sun Microsystems (Sun Studio), Sybase (PowerBuilder) and others,
+    including Eclipse Foundation, Inc. (Eclipse), an open source
+    vendor. The success of our development tools is closely related
+    to the relative popularity of our platform (database and
+    middleware) compared to our competitors, as well as the larger
+    competition between Java and Microsoft’s .NET.
+
+
+ 
+
+
+    The sale of applications software, in particular, is changing
+    rapidly due to the development and deployment of service
+    oriented architectures and web services, application integration
+    middleware as well as “software as a service”
+    offerings, such as those from salesforce.com and RightNow
+    Technologies Inc. in CRM applications. As a result of our
+    acquisitions of PeopleSoft and Siebel, we presently offer
+    several product lines, which are suited for different needs of
+    customers in different industries. We compete against SAP,
+    Lawson Software, Inc., Infor Global Solutions GmbH (SSA Global
+    Technologies, Extensity), Microsoft Dynamics (Great Plains,
+    Solomon, Axapta, Navision), Sage, Inc. and many other
+    application providers. These include numerous point solution
+    providers such as Epicor Software Corporation (accounting),
+    SunGard Data Systems Inc. (treasury), Kronos Incorporated (time
+    and attendance), Taleo Corporation (recruitment), Callidus
+    Software Inc. (compensation), Automatic Data Processing, Inc.
+    (HR, payroll and business process outsourcing), Ariba, Inc.
+    (procurement), i2 Technologies, Inc. (supply chain
+    management), IBM (MRO Software) (enterprise asset management),
+    DSCI Corporation (logistics), Broadvision, Inc. (marketing),
+    Kana Software, Inc. (analytics), salesforce.com (sales force
+    automation) and Amdocs Limited (customer service). In addition,
+    we compete with numerous specialized applications providers
+    focused in specific vertical industries, such as financial
+    services, retail and telecommunications. SAP is a major
+    competitor in every industry vertical. Specialized industry
+    vertical solutions such as retail and banking are also
+    influenced heavily by the presence of customized solutions and
+    in-house development.
+
+
+ 
+
+
+    With SOA, our packaged applications also compete with custom
+    solutions either developed in-house or by large systems
+    integrators such as Accenture Ltd. or IBM Global Services. Our
+    pre-packaged applications also compete against business process
+    outsourcers including ADP, Fidelity Investments, Ceridian
+    Corporation, Hewitt-Cyborg Limited and others. Our application
+    products are architected around a single database model, which
+    we believe is a key differentiator between our most significant
+    competitors and us.
+
+
+ 
+
+
+    In the sale of operating systems, we introduced a support and
+    service offering for Red Hat’s open source Linux operating
+    system in fiscal 2007. This puts us in direct competition with
+    Red Hat, Novell, Canonical Ltd. (Ubuntu) and others in the sale
+    of support for the Linux operating system; with IBM, Sun, H-P
+    and others in the sale of Unix operating systems; and with
+    Microsoft in the sale of Windows server operating systems.
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+    In the sale of consulting and systems integration services, we
+    both partner with and compete against Accenture, Electronic Data
+    Systems Corporation, IBM Global Services, Bearing Point, Inc.,
+    CapGemini Group and many others.
+
+
+ 
+
+
+
+    Research
+    and Development
+
+
+ 
+
+
+    We develop the majority of our products internally. In addition,
+    we have acquired technology through business acquisitions. We
+    also purchase or license intellectual property rights in certain
+    circumstances. Internal development allows us to maintain
+    technical control over the design and development of our
+    products. We have a number of United States and foreign patents
+    and pending applications that relate to various aspects of our
+    products and technology. While we believe that our patents have
+    value, no single patent is essential to us or to any of our
+    principal business segments.
+
+
+ 
+
+
+    Research and development expenditures were $2.2 billion,
+    $1.9 billion and $1.5 billion, or 12%, 13% and 13% of
+    total revenues, in fiscal 2007, 2006 and 2005, respectively. As
+    a percentage of new software license revenues, research and
+    development expenditures were 37%, 38% and 37% in fiscal 2007,
+    2006 and 2005, respectively. Rapid technological advances in
+    hardware and software development, evolving standards in
+    computer hardware and software technology, changing customer
+    needs and frequent new product introductions and enhancements
+    characterize the software markets in which we compete. We plan
+    on continuing to dedicate a significant amount of resources to
+    research and development efforts to maintain and improve our
+    current product offerings including our database, middleware and
+    applications software.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    As of May 31, 2007, we employed 74,674 full-time
+    employees, including 16,902 in sales and marketing, 6,775 in
+    license updates and product support, 25,068 in services, 18,130
+    in research and development and 7,799 in general and
+    administrative positions. Of these employees, 25,990 were
+    located in the United States and 48,684 were employed
+    internationally. None of our employees in the United States is
+    represented by a labor union; however, in certain international
+    subsidiaries workers councils represent our employees.
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    Our Annual Report on
+    Form 10-K,
+    Quarterly Reports on
+    Form 10-Q,
+    Current Reports on
+    Form 8-K
+    and amendments to reports filed pursuant to Sections 13(a)
+    and 15(d) of the Securities Exchange Act of 1934, as amended,
+    are available, free of charge, on our Investor Relations web
+    site at www.oracle.com/investor as soon as reasonably
+    practicable after we electronically file such material with, or
+    furnish it to, the Securities and Exchange Commission. The
+    information posted on our web site is not incorporated into this
+    Annual Report.
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+
+    Executive
+    Officers and Significant Employees of the Registrant
+
+
+ 
+
+
+    Our executive officers and significant employees are listed
+    below.
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+
+
+
+
+    Name
+
+
+
+ 
+
+
+
+    Office(s)
+
+
+
+
+ 
+
+
+
+
+
+    Lawrence J. Ellison
+    
+
+
+
+ 
+
+
+    Chief Executive Officer and
+    Director
+    
+
+
+
+
+
+    Jeffrey O. Henley
+    
+
+
+
+ 
+
+
+    Chairman of the Board of Directors
+    
+
+
+
+
+
+    Safra A. Catz
+    
+
+
+
+ 
+
+
+    President, Chief Financial Officer
+    and Director
+    
+
+
+
+
+
+    Charles E. Phillips, Jr. 
+    
+
+
+
+ 
+
+
+    President and Director
+    
+
+
+
+
+
+    Keith G. Block
+    
+
+
+
+ 
+
+
+    Executive Vice President, North
+    America Sales and Consulting
+    
+
+
+
+
+
+    Sergio Giacoletto
+    
+
+
+
+ 
+
+
+    Executive Vice President, Europe,
+    Middle East and Africa Sales and Consulting
+    
+
+
+
+
+
+    Juergen Rottler
+    
+
+
+
+ 
+
+
+    Executive Vice President, Oracle
+    Support and Oracle On Demand
+    
+
+
+
+
+
+    Charles A. Rozwat
+    
+
+
+
+ 
+
+
+    Executive Vice President, Server
+    Technologies
+    
+
+
+
+
+
+    Derek H. Williams
+    
+
+
+
+ 
+
+
+    Executive Vice President, Asia
+    Pacific Sales and Consulting
+    
+
+
+
+
+
+    John Wookey
+    
+
+
+
+ 
+
+
+    Senior Vice President,
+    Applications Development
+    
+
+
+
+
+
+    Daniel Cooperman
+    
+
+
+
+ 
+
+
+    Senior Vice President, General
+    Counsel and Secretary
+    
+
+
+
+
+
+    William Corey West
+    
+
+
+
+ 
+
+
+    Vice President, Corporate
+    Controller and Chief Accounting Officer
+    
+
+
+
+
+
+
+
+
+ 
+
+
+    Mr. Ellison, 62, has been Chief Executive Officer and a
+    Director since he founded Oracle in June 1977. He served as
+    Chairman of the Board from May 1995 to January 2004.
+
+
+ 
+
+
+    Mr. Henley, 62, has served as the Chairman of the Board
+    since January 2004 and as a director since June 1995. He served
+    as an Executive Vice President and Chief Financial Officer from
+    March 1991 to July 2004. He also serves as a director of
+    CallWave, Inc.
+
+
+ 
+
+
+    Ms. Catz, 45, has been Chief Financial Officer since
+    November 2005 and a President since January 2004. She has served
+    as a Director since October 2001. She was Interim Chief
+    Financial Officer from April 2005 until July 2005. She served as
+    an Executive Vice President from November 1999 to January 2004
+    and Senior Vice President from April 1999 to October 1999.
+
+
+ 
+
+
+    Mr. Phillips, 48, has been a President and has served as a
+    Director since January 2004. He served as Executive Vice
+    President, Strategy, Partnerships, and Business Development,
+    from May 2003 to January 2004. Prior to joining us,
+    Mr. Phillips was with Morgan Stanley & Co.
+    Incorporated, a global investment bank, where he was a Managing
+    Director from November 1995 to May 2003 and a Principal from
+    December 1994 to November 1995. From 1986 to 1994,
+    Mr. Phillips worked at various investment banking firms on
+    Wall Street. Prior to that, Mr. Phillips served as a
+    Captain in the United States Marine Corps as an information
+    technology officer. Mr. Phillips also serves as a director
+    of Morgan Stanley and Viacom Inc.
+
+
+ 
+
+
+    Mr. Block, 46, has been Executive Vice President, North
+    America Sales and Consulting since September 2002 and Executive
+    Vice President, North America Consulting since February 2002. He
+    served as Senior Vice President of North America Commercial
+    Consulting and Global Service Lines from June 1999 until January
+    2002. He served as Senior Vice President of the Commercial
+    Consulting Practice from April 1999 until May 1999.
+    Mr. Block was Group Vice President, East Consulting from
+    June 1997 until March 1999. Prior to joining us in 1986,
+    Mr. Block was a Senior Consultant at Booz, Allen and
+    Hamilton. Mr. Giacoletto, 57, has been Executive Vice
+    President, Europe, Middle East and Africa Sales and Consulting
+    since June 2000 and Senior Vice President, Business Solutions
+    since November 1998. He was Vice President, Alliances and
+    Technology from March 1997 to November 1998. Before joining us,
+    he had been President of AT&T Solutions for Europe since
+    August 1994. Previously, he spent 20 years with Digital
+    Equipment Corporation in various positions in European marketing
+    and services.
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+    Mr. Rottler, 40, has been Executive Vice President, Oracle
+    Support and Oracle On Demand since September 2004. Prior to
+    joining us, he served as Senior Vice President, Public Sector,
+    Customer Solutions Group at Hewlett-Packard Company (HP), from
+    December 2003 to September 2004, where he was responsible for
+    HP’s worldwide Public Sector, Health and Education
+    business. Mr. Rottler was Vice President, HP Services
+    Worldwide Sales and Marketing from May 2003 to December 2003,
+    Vice President, HP Services Worldwide Marketing, Strategy and
+    Alliances from May 2002 to May 2003 and Vice President and
+    General Manager, HP Services North America from April 2000 to
+    May 2002.
+
+
+ 
+
+
+    Mr. Rozwat, 59, has been Executive Vice President, Server
+    Technologies since November 1999 and served as Senior Vice
+    President, Database Server from December 1996 to October 1999.
+    He served as Vice President of Development from December 1994 to
+    November 1996. Prior to joining us, he spent 17 years in
+    various positions at Digital Equipment Corporation.
+
+
+ 
+
+
+    Mr. Williams, 62, has been Executive Vice President, Asia
+    Pacific Sales and Consulting since October 2000 and Senior Vice
+    President, Asia Pacific from July 1993 to October 2000. He
+    served as Vice President, Asia Pacific from April 1991 to July
+    1993. Mr. Williams joined Oracle United Kingdom in October
+    1988 and served as Regional Director, Strategic Accounts from
+    October 1988 to April 1991.
+
+
+ 
+
+
+    Mr. Wookey, 48, has been Senior Vice President,
+    Applications Development since April 2000. Mr. Wookey
+    served as Senior Vice President, Financial Applications Products
+    from April 1999 to January 2000 and Vice President, Financial
+    Applications Products from June 1995 to April 1999. Prior to
+    joining us, he spent eight years as Vice President of
+    Development at Ross Systems, Inc.
+
+
+ 
+
+
+    Mr. Cooperman, 56, has been Senior Vice President, General
+    Counsel and Secretary since February 1997. Prior to joining us,
+    he had been associated with the law firm of McCutchen, Doyle,
+    Brown & Enersen (which is now Bingham McCutchen LLP)
+    since October 1977, and had served as a partner since June 1983.
+    From September 1995 until February 1997, Mr. Cooperman was
+    Chair of the law firm’s Business and Transactions Group and
+    from April 1989 through September 1995, he served as the
+    Managing Partner of the law firm’s San Jose office.
+
+
+ 
+
+
+    Mr. West, 45, has been Vice President, Corporate Controller
+    and Chief Accounting Officer since April 2007. He served as
+    Intuit Inc.’s Director of Accounting from August 2005 to
+    March 2007, as The Gap, Inc.’s Assistant Controller from
+    April 2005 to August 2005, and as Vice President, Finance, at
+    Cadence Design Systems, Inc.’s product business from June
+    2001 to April 2005. From January 2001 to June 2001, he was Vice
+    President, Finance and Corporate Controller at Adecco, Inc. and
+    from October 1998 to November 2000 he served in various
+    positions with Resource Phoenix.com, most recently as its
+    President and Chief Operating Officer. Mr. West spent
+    14 years, from December 1984 to October 1998, with Arthur
+    Andersen LLP, most recently as a partner.
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A.  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    We operate in a rapidly changing economic and technological
+    environment that presents numerous risks, many of which are
+    driven by factors that we cannot control or predict. The
+    following discussion, as well as our “Critical Accounting
+    Policies and Estimates” discussion in Item 7,
+    highlights some of these risks.
+
+
+ 
+
+
+    Economic, political and market conditions can adversely
+    affect our revenue growth and
+    profitability.  Our business is influenced by
+    a range of factors that are beyond our control and that we have
+    no comparative advantage in forecasting. These include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    general economic and business conditions;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the overall demand for enterprise software and services;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    governmental budgetary constraints or shifts in government
+    spending priorities; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    general political developments.
+
+
+
+
+
+ 
+
+
+    A general weakening of the global economy, or a curtailment in
+    government or corporate spending, could delay and decrease
+    customer purchases. In addition, the war on terrorism, the war
+    in Iraq and the potential for other hostilities in various parts
+    of the world, potential public health crises, as well as natural
+    disasters, continue to contribute to a climate of economic and
+    political uncertainty that could adversely affect our revenue
+    growth and results of operations. These factors generally have
+    the strongest effect on our sales of software licenses, and to a
+    lesser extent, also affect our renewal rates for software
+    license updates and product support.
+
+
+ 
+
+
+    We may fail to achieve our financial forecasts due to
+    inaccurate sales forecasts or other
+    factors.  Our revenues, and particularly our
+    new software license revenues, are difficult to forecast, and as
+    a result our quarterly operating results can fluctuate
+    substantially. We use a “pipeline” system, a common
+    industry practice, to forecast sales and trends in our business.
+    Our sales personnel monitor the status of all proposals and
+    estimate when a customer will make a purchase decision and the
+    dollar amount of the sale. These estimates are aggregated
+    periodically to generate a sales pipeline. Our pipeline
+    estimates can prove to be unreliable both in a particular
+    quarter and over a longer period of time, in part because the
+    “conversion rate” of the pipeline into contracts can
+    be very difficult to estimate. A contraction in the conversion
+    rate, or in the pipeline itself, could cause us to plan or
+    budget incorrectly and adversely affect our business or results
+    of operations. In particular, a slowdown in information
+    technology spending or economic conditions generally can reduce
+    the conversion rate in particular periods as purchasing
+    decisions are delayed, reduced in amount or cancelled. The
+    conversion rate can also be affected by the tendency of some of
+    our customers to wait until the end of a fiscal period in the
+    hope of obtaining more favorable terms, which can also impede
+    our ability to negotiate and execute these contracts in a timely
+    manner. In addition, for newly acquired companies, we have
+    limited ability to predict how their pipelines will convert into
+    sales or revenues for one or two quarters following the
+    acquisition and their conversion rate post-acquisition may be
+    quite different from their historical conversion rate. Because a
+    substantial portion of our new software license revenue
+    contracts is completed in the latter part of a quarter, and our
+    cost structure is largely fixed in the short term, revenue
+    shortfalls tend to have a disproportionately negative impact on
+    our profitability. A delay in even a small number of large new
+    software license transactions could cause our quarterly new
+    software licenses revenues to fall significantly short of our
+    predictions.
+
+
+ 
+
+
+    Our success depends upon our ability to develop new
+    products and services, integrate acquired products and services
+    and enhance our existing products and
+    services.  Rapid technological advances and
+    evolving standards in computer hardware, software development
+    and communications infrastructure, changing and increasingly
+    sophisticated customer needs and frequent new product
+    introductions and enhancements characterize the enterprise
+    software market in which we compete. If we are unable to develop
+    new products and services, or to enhance and improve our
+    products and support services in a timely manner or to position
+    and/or price
+    our products and services to meet market demand, customers may
+    not buy new software licenses or renew software license updates
+    and product support. In addition, information technology
+    standards from both consortia and formal standards-setting
+    forums as well as de facto marketplace standards are rapidly
+    evolving. We cannot provide any assurance that the standards on
+    which we choose to develop new products will allow us to compete
+    effectively for business opportunities in emerging areas.
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+    We are developing a next generation applications platform that
+    is planned to combine the best features, flows and usability
+    traits of our legacy and acquired applications. We have also
+    announced that we intend to extend the life of many of our
+    acquired applications and will continue to provide long-term
+    support for our acquired products, both of which require us to
+    dedicate resources. If we do not develop and release these new
+    or enhanced products and services within the anticipated time
+    frames, if there is a delay in market acceptance of a new,
+    enhanced or acquired product line or service, if we do not
+    timely optimize complementary product lines and services or if
+    we fail to adequately integrate, support or enhance acquired
+    application lines or services, our business may be adversely
+    affected.
+
+
+ 
+
+
+    Acquisitions present many risks, and we may not realize
+    the financial and strategic goals that were contemplated at the
+    time of any transaction.  In the past three
+    fiscal years, we have invested over $25 billion, in the
+    aggregate, to acquire a number of companies, products, services
+    and technologies. An active acquisition program is an important
+    element of our overall corporate strategy and we expect to
+    continue to make similar acquisitions in the future. Risks we
+    may face in connection with our acquisition program include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    our ongoing business may be disrupted and our management’s
+    attention may be diverted by acquisition, transition or
+    integration activities;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    an acquisition may not further our business strategy as we
+    expected, or we may pay more than the acquired company or assets
+    are worth;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our due diligence process may fail to identify all of the
+    problems, liabilities or other shortcomings or challenges of an
+    acquired company or technology, including issues with the
+    company’s intellectual property, product quality or product
+    architecture, revenue recognition or other accounting practices
+    or employee, customer or partner issues;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may not realize the anticipated increase in our revenues if a
+    larger than predicted number of customers decline to renew
+    software license updates and product support, if we are unable
+    to sell the acquired products to our customer base or if
+    contract models of an acquired company do not allow us to
+    recognize revenues on a timely basis;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may assume pre-existing contractual relationships of acquired
+    companies that we would not have otherwise entered into, and
+    exiting or modifying such relationships may be costly to us or
+    disruptive to customers;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may face litigation or other claims in connection with, or
+    may inherit claims or litigation risk as a result of, an
+    acquisition, including claims from terminated employees,
+    customers or other third parties;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our relationship with current and new employees, customers,
+    partners and distributors could be impaired;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may have difficulty incorporating acquired technologies or
+    products with our existing product lines and maintaining uniform
+    standards, controls, procedures and policies;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may have multiple and overlapping product lines as a result
+    of our acquisitions that are offered, priced and supported
+    differently, which could cause customer confusion and delays;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may have higher than anticipated costs in continuing support
+    and development of acquired products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may assume pre-existing liabilities, whether known or
+    unknown, of acquired companies which could be material;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may be unable to obtain required approvals from governmental
+    authorities under competition and antitrust laws on a timely
+    basis, if it all, which could, among other things, prevent us
+    from completing a transaction;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may have to delay or not proceed with a substantial
+    acquisition if we cannot obtain the necessary funding to
+    complete the acquisition in a timely manner;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our use of cash to pay for acquisitions may limit other
+    potential uses of our cash, including stock repurchases and
+    retirement of outstanding indebtedness;
+
+
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    we may significantly increase our interest expense, leverage and
+    debt service requirements if we incur additional debt to pay for
+    an acquisition; result of unforeseen difficulties in our
+    integration activities;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may have legal and tax exposures or lose anticipated tax
+    benefits as a result of unforeseen difficulties in our
+    integration activities;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may be unable to obtain timely approvals from, or may
+    otherwise have certain limitations, restrictions, penalties or
+    other sanctions imposed on us by, worker councils or similar
+    bodies under applicable employment laws as a result of an
+    acquisition, which could adversely affect our integration plans
+    in certain jurisdictions; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    to the extent that we issue a significant amount of equity
+    securities in connection with future acquisitions, existing
+    stockholders may be diluted and earnings per share may decrease.
+
+
+
+
+
+ 
+
+
+    The occurrence of any of these risks could have a material
+    adverse effect on our business, results of operations, financial
+    condition or cash flows, particularly in the case of a larger
+    acquisition or several concurrent acquisitions.
+
+
+ 
+
+
+    We may not be able to protect our intellectual property
+    rights.  We rely on copyright, trademark,
+    patent and trade secret laws, confidentiality procedures,
+    controls and contractual commitments to protect our intellectual
+    property rights. Despite our efforts, these protections may be
+    limited. Unauthorized third parties may try to copy or reverse
+    engineer portions of our products or otherwise obtain and use
+    our intellectual property. Any patents owned by us may be
+    invalidated, circumvented or challenged. Any of our pending or
+    future patent applications, whether or not being currently
+    challenged, may not be issued with the scope of the claims we
+    seek, if at all. In addition, the laws of some countries do not
+    provide the same level of protection of our intellectual
+    property rights as do the laws and courts of the United States.
+    If we cannot protect our intellectual property rights against
+    unauthorized copying or use, or other misappropriation, we may
+    not remain competitive.
+
+
+ 
+
+
+    Third parties may claim infringement or misuse of
+    intellectual property rights and/ or breach of license agreement
+    provisions.  We periodically receive notices
+    from others claiming infringement, or other misuse of their
+    intellectual property rights
+    and/or
+    breach of our agreements with them. We expect the number of such
+    claims will increase as the number of products and competitors
+    in our industry segments grows, the functionality of products
+    overlap, the use and support of third-party code (including open
+    source code) becomes more prevalent in the software industry,
+    and the volume of issued software patents continues to increase.
+    Responding to any such claim, regardless of its validity, could:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    be time-consuming, costly
+    and/or
+    result in litigation;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    divert management’s time and attention from developing our
+    business;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    require us to pay monetary damages or enter into royalty and
+    licensing agreements that we would not normally find acceptable;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    require us to stop selling or to redesign certain of our
+    products;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    require us to release source code to third parties, possibly
+    under open source license terms;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    require us to satisfy indemnification obligations to our
+    customers; or
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    otherwise adversely affect our business, results of operations,
+    financial condition or cash flows.
+
+
+
+
+
+ 
+
+
+    A patent infringement case is discussed under Note 21 in
+    our Notes to Consolidated Financial Statements.
+
+
+ 
+
+
+    We may need to change our pricing models to compete
+    successfully.  The intensely competitive
+    markets in which we compete can put pressure on us to reduce our
+    prices. If our competitors offer deep discounts on certain
+    products or services, we may need to lower prices or offer other
+    favorable terms in order to compete successfully. Any such
+    changes would likely reduce margins and could adversely affect
+    operating results. Our software license updates and product
+    support fees are generally priced as a percentage of our new
+    license fees. Our competitors may offer a lower percentage
+    pricing on product updates and support, which could put pressure
+    on us to further discount our new license prices. Any
+    broad-based change to our prices and pricing policies could
+    cause new software license and services revenues to decline or
+    be delayed as our sales force implements and our customers
+    adjust to the new pricing
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+    policies. Some of our competitors may bundle software products
+    for promotional purposes or as a long-term pricing strategy or
+    provide guarantees of prices and product implementations. These
+    practices could, over time, significantly constrain the prices
+    that we can charge for our products. If we do not adapt our
+    pricing models to reflect changes in customer use of our
+    products, our new software license revenues could decrease.
+    Additionally, increased distribution of applications through
+    application service providers may reduce the average price for
+    our products or adversely affect other sales of our products,
+    reducing new software license revenues unless we can offset
+    price reductions with volume increases or lower spending. The
+    increase in open source software distribution may also cause us
+    to change our pricing models.
+
+
+ 
+
+
+    We may be unable to compete effectively in a range of
+    markets within the highly competitive software industry.
+    Many vendors develop and market databases, internet
+    application server products, application development tools,
+    business applications, collaboration products and business
+    intelligence products that compete with our offerings. In
+    addition, several companies offer business process outsourcing
+    (BPO) as a competitive alternative to buying software and
+    customer interest in BPO solutions is increasing. Some of these
+    competitors have greater financial or technical resources than
+    we do. Our competitors that offer business applications and
+    application server products may influence a customer’s
+    purchasing decision for the underlying database in an effort to
+    persuade potential customers not to acquire our products. We
+    could lose market share if our competitors introduce new
+    competitive products, add new functionality, acquire competitive
+    products, reduce prices or form strategic alliances with other
+    companies. Vendors that offer BPO solutions may persuade our
+    customers not to purchase our products. We may also face
+    increasing competition from open source software initiatives, in
+    which competitors may provide software and intellectual property
+    free. Existing or new competitors could gain market share in any
+    of our markets at our expense.
+
+
+ 
+
+
+    Our periodic sales force restructurings can be
+    disruptive.  We continue to rely heavily on
+    our direct sales force. We have in the past restructured or made
+    other adjustments to our sales force in response to management
+    changes, product changes, performance issues, acquisitions and
+    other internal and external considerations. In the past, sales
+    force restructurings have generally resulted in a temporary lack
+    of focus and reduced productivity; these effects could recur in
+    connection with future acquisitions and other restructurings and
+    our revenues could be negatively affected.
+
+
+ 
+
+
+    Disruptions of our indirect sales channel could affect our
+    future operating results.  Our indirect
+    channel network is comprised primarily of resellers, system
+    integrators/implementers, consultants, education providers,
+    internet service providers, network integrators and independent
+    software vendors. Our relationships with these channel
+    participants are important elements of our marketing and sales
+    efforts. Our financial results could be adversely affected if
+    our contracts with channel participants were terminated, if our
+    relationships with channel participants were to deteriorate, if
+    any of our competitors enter into strategic relationships with
+    or acquire a significant channel participant or if the financial
+    condition of our channel participants were to weaken. There can
+    be no assurance that we will be successful in maintaining,
+    expanding or developing our relationships with channel
+    participants. If we are not successful, we may lose sales
+    opportunities, customers and market share.
+
+
+ 
+
+
+    Charges to earnings resulting from past acquisitions may
+    adversely affect our operating results.  Under
+    purchase accounting, we allocate the total purchase price to an
+    acquired company’s net tangible assets, intangible assets
+    and in-process research and development based on their fair
+    values as of the date of the acquisition and record the excess
+    of the purchase price over those fair values as goodwill.
+    Management’s estimates of fair value are based upon
+    assumptions believed to be reasonable but which are inherently
+    uncertain. Going forward, the following factors could result in
+    material charges that would adversely affect our results:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    impairment of goodwill or intangible assets;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    identification of assumed contingent liabilities subsequent to
+    the finalization of the purchase price allocation; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    charges to income to eliminate certain Oracle pre-merger
+    activities that duplicate those of the acquired company or to
+    reduce our cost structure.
+
+
+
+
+
+ 
+
+
+    Charges to earnings associated with acquisitions include
+    amortization of intangible assets, in-process research and
+    development as well as other acquisition related charges,
+    restructuring and stock-based compensation associated
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+    with assumed stock awards. Charges to earnings in any given
+    period could differ substantially from other periods based on
+    the timing and size of our future acquisitions and the extent of
+    integration activities. See Item 7, “Management’s
+    Discussion and Analysis of Financial Condition and Results of
+    Operations—Supplemental Disclosure Related to Acquisition
+    Accounting and Stock-Based Compensation” for additional
+    information about charges to earnings associated with our recent
+    acquisitions.
+
+
+ 
+
+
+    We expect to continue to incur additional costs associated with
+    combining the operations of our previously acquired companies,
+    which may be substantial. Additional costs may include costs of
+    employee redeployment, relocation and retention, including
+    salary increases or bonuses, accelerated amortization of
+    deferred equity compensation and severance payments,
+    reorganization or closure of facilities, taxes and termination
+    of contracts that provide redundant or conflicting services.
+    Some of these costs may have to be accounted for as expenses
+    that would decrease our net income and earnings per share for
+    the periods in which those adjustments are made.
+
+
+ 
+
+
+    Our international sales and operations subject us to
+    additional risks that can adversely affect our operating
+    results.  We derive a substantial portion of
+    our revenues, and have significant operations, outside of the
+    United States. Our international operations include software
+    development, sales, customer support and shared administrative
+    service centers. We are subject to a variety of risks, including
+    those related to general economic conditions in each country or
+    region, regulatory changes, political unrest, terrorism and the
+    potential for other hostilities and public health risks,
+    particularly in areas in which we have significant operations.
+    We face challenges in managing an organization operating in
+    various countries, which can entail longer payment cycles and
+    difficulties in collecting accounts receivable, overlapping tax
+    regimes, fluctuations in currency exchange rates, difficulties
+    in transferring funds from certain countries and reduced
+    protection for intellectual property rights in some countries.
+    We must comply with a variety of international laws and
+    regulations, including trade restrictions, local labor
+    ordinances, changes in tariff rates and import and export
+    licensing requirements. Our success depends, in part, on our
+    ability to anticipate these risks and manage these difficulties.
+
+
+ 
+
+
+    We are a majority shareholder of i-flex solutions limited, a
+    publicly traded Indian software company focused on the banking
+    industry. As the majority shareholder of an international
+    entity, we are faced with several additional risks, including
+    being subject to local securities regulations and being unable
+    to exert full control or obtain financial and other information
+    on a timely basis.
+
+
+ 
+
+
+    We may experience foreign currency gains and
+    losses.  We conduct a portion of our business
+    in currencies other than the United States dollar. Our revenues
+    and operating results are adversely affected when the dollar
+    strengthens relative to other currencies and are positively
+    affected when the dollar weakens. Changes in the value of major
+    foreign currencies, particularly the Euro, Japanese Yen and
+    British Pound relative to the United States dollar can
+    significantly affect revenues and our operating results.
+
+
+ 
+
+
+    Our foreign currency transaction gains and losses, primarily
+    related to sublicense fees and other agreements among us and our
+    subsidiaries and distributors, are charged against earnings in
+    the period incurred. We enter into foreign exchange forward
+    contracts to hedge certain transaction and translation exposures
+    in major currencies, but we will continue to experience foreign
+    currency gains and losses in certain instances where it is not
+    possible or cost effective to hedge foreign currencies.
+
+
+ 
+
+
+    Oracle On Demand and CRM On Demand may not be
+    successful.  We offer Oracle On Demand
+    outsourcing services for our applications and database
+    technology, delivered either at our data center facilities or at
+    a site of our customer’s choosing. We also offer CRM On
+    Demand, which is a service offering that provides our customers
+    with our Siebel CRM software functionality delivered via a
+    hosted solution that we manage. These business models continue
+    to evolve and we may not be able to compete effectively,
+    generate significant revenues or develop them into profitable
+    businesses. We incur expenses associated with the
+    infrastructures and marketing of our Oracle On Demand and CRM On
+    Demand businesses in advance of our ability to recognize the
+    revenues associated with our subscription-based contracts. These
+    businesses are subject to a variety of risks including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    demand for these services may not meet our expectations;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may not be able to operate these businesses at an acceptable
+    profit level;
+
+
+
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    we manage critical customer applications, data and other
+    confidential information through Oracle On Demand and CRM On
+    Demand; accordingly, we face increased exposure to significant
+    damage claims and risk to future business prospects in the event
+    of system failures or inadequate disaster recovery or
+    misappropriation of customer confidential information;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    we may face regulatory exposure in certain areas such as data
+    privacy, data security and export compliance, as well as
+    workforce reduction claims as a result of customers transferring
+    their information technology functions to us;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    the laws and regulations applicable to hosted service providers
+    are unsettled, particularly in the areas of privacy and security
+    and use of offshore resources; changes in these laws could
+    affect our ability to provide services from or to some locations
+    and could increase both the costs and risks associated with
+    providing the services;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    demand for these services may be affected by customer and media
+    concerns about security risks
+    and/or use
+    of outsourced services providers more generally; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    our offerings may require large fixed costs such as for data
+    centers, computers, network infrastructure and security and we
+    may not be able to generate sufficient revenues to offset these
+    costs and generate acceptable operating margins from these
+    offerings.
+
+
+
+
+
+ 
+
+
+    We may be unable to hire enough qualified employees or we
+    may lose key employees.  We rely on the
+    continued service of our senior management, including our Chief
+    Executive Officer, members of our executive team and other key
+    employees and the hiring of new qualified employees. In the
+    software industry, there is substantial and continuous
+    competition for highly skilled business, product development,
+    technical and other personnel. In addition, acquisitions could
+    cause us to lose key personnel of the acquired companies or at
+    Oracle. We may experience increased compensation costs that are
+    not offset by either improved productivity or higher prices. We
+    may not be successful in recruiting new personnel and in
+    retaining and motivating existing personnel. With rare
+    exceptions, we do not have long-term employment or
+    non-competition agreements with our employees. Members of our
+    senior management team have left Oracle over the years for a
+    variety of reasons, and we cannot assure you that there will not
+    be additional departures, which may be disruptive to our
+    operations.
+
+
+ 
+
+
+    We continually focus on improving our cost structure by hiring
+    personnel in countries where advanced technical expertise is
+    available at lower costs. When we make adjustments to our
+    workforce, we may incur expenses associated with workforce
+    reductions that delay the benefit of a more efficient workforce
+    structure. We may also experience increased competition for
+    employees in these countries as the trend toward globalization
+    continues which may affect our employee retention efforts
+    and/or
+    increase our expenses in an effort to offer a competitive
+    compensation program.
+
+
+ 
+
+
+    Part of our total compensation program includes stock options.
+    Stock options are an important tool in attracting and retaining
+    employees in our industry. If our stock price performs poorly it
+    may adversely affect our ability to retain or attract employees.
+    In addition, because we now expense all stock-based
+    compensation, we may in the future change our stock-based and
+    other compensation practices. Some of the changes we are
+    considering include the reduction in the number of employees
+    granted options, a reduction in the number of options granted
+    and a change to alternative forms of stock-based compensation.
+    Any changes in our compensation practices or changes made by
+    competitors could affect our ability to retain and motivate
+    existing personnel and recruit new personnel.
+
+
+ 
+
+
+    We might experience significant errors or security flaws
+    in our products and services.  Despite testing
+    prior to their release, software products frequently contain
+    errors or security flaws, especially when first introduced or
+    when new versions are released. The detection and correction of
+    any security flaws can be time consuming and costly. Errors in
+    our software products could affect the ability of our products
+    to work with other hardware or software products, could delay
+    the development or release of new products or new versions of
+    products and could adversely affect market acceptance of our
+    products. If we experience errors or delays in releasing new
+    products or new versions of products, we could lose revenues. In
+    addition, we run our own business operations, Oracle On Demand,
+    and other outsourcing, support and consulting services, on our
+    products and networks and any security flaws, if exploited,
+    could affect our ability to conduct business operations. End
+    users, who rely on our products and services for applications
+    that are critical to their businesses, may have a greater
+    sensitivity to product errors and security
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+    vulnerabilities than customers for software products generally.
+    Software product errors and security flaws in our products or
+    services could expose us to product liability, performance
+    and/or
+    warranty claims as well as harm our reputation, which could
+    impact our future sales of products and services. In addition,
+    we may be legally required to publicly report security breaches
+    of our services, which could adversely impact future business
+    prospects for those services.
+
+
+ 
+
+
+    We may not receive significant revenues from our current
+    research and development efforts for several years, if at
+    all.  Developing and localizing software is
+    expensive and the investment in product development often
+    involves a long payback cycle. We have made and expect to
+    continue to make significant investments in software research
+    and development and related product opportunities. Accelerated
+    product introductions and short product life cycles require high
+    levels of expenditures for research and development that could
+    adversely affect our operating results if not offset by revenue
+    increases. We believe that we must continue to dedicate a
+    significant amount of resources to our research and development
+    efforts to maintain our competitive position. However, we do not
+    expect to receive significant revenues from these investments
+    for several years if at all.
+
+
+ 
+
+
+    Our sales to government clients subject us to risks
+    including early termination, audits, investigations, sanctions
+    and penalties.  We derive revenues from
+    contracts with the United States government, state and local
+    governments and their respective agencies, which may terminate
+    most of these contracts at any time, without cause.
+
+
+ 
+
+
+    There is increased pressure for governments and their agencies,
+    both domestically and internationally, to reduce spending. Our
+    federal government contracts are subject to the approval of
+    appropriations being made by the United States Congress to fund
+    the expenditures under these contracts. Similarly, our contracts
+    at the state and local levels are subject to government funding
+    authorizations.
+
+
+ 
+
+
+    Additionally, government contracts are generally subject to
+    audits and investigations which could result in various civil
+    and criminal penalties and administrative sanctions, including
+    termination of contracts, refund of a portion of fees received,
+    forfeiture of profits, suspension of payments, fines and
+    suspensions or debarment from future government business.
+
+
+ 
+
+
+    Business disruptions could affect our operating
+    results.  A significant portion of our
+    research and development activities and certain other critical
+    business operations is concentrated in a few geographic areas.
+    We are a highly automated business and a disruption or failure
+    of our systems could cause delays in completing sales and
+    providing services, including some of our On Demand offerings. A
+    major earthquake, fire or other catastrophic event that results
+    in the destruction or disruption of any of our critical business
+    or information technology systems could severely affect our
+    ability to conduct normal business operations and as a result
+    our future operating results could be materially and adversely
+    affected.
+
+
+ 
+
+
+    Adverse litigation results could affect our
+    business.  We are subject to various legal
+    proceedings. Litigation can be lengthy, expensive, and
+    disruptive to our operations and results cannot be predicted
+    with certainty. An adverse decision could result in monetary
+    damages or injunctive relief that could affect our business,
+    operating results or financial condition. Additional information
+    regarding certain of the lawsuits we are involved in is
+    discussed under Note 21 in our Notes to Consolidated
+    Financial Statements.
+
+
+ 
+
+
+    PeopleSoft’s Customer Assurance Program may expose us
+    to substantial liabilities if triggered.  In
+    June 2003, in response to our tender offer, PeopleSoft
+    implemented what it referred to as the “customer assurance
+    program” or “CAP”. The CAP incorporated a
+    provision in PeopleSoft’s standard licensing arrangement
+    that purports to contractually burden Oracle, as a result of its
+    acquisition of PeopleSoft, with a contingent obligation to make
+    payments to PeopleSoft customers should Oracle fail to take
+    certain business actions for a fixed period of time subsequent
+    to the acquisition. The payment obligation, which typically
+    expires four years from the date of the contract, is fixed at an
+    amount generally between two and five times the license and
+    first year support fees paid to PeopleSoft in the applicable
+    license transaction. This purported obligation was not reflected
+    as a liability on PeopleSoft’s balance sheet as PeopleSoft
+    concluded that it could be triggered only following the
+    consummation of an acquisition. PeopleSoft used six different
+    standard versions of the CAP over the
+    18-month
+    period commencing June 2003. PeopleSoft ceased using the CAP on
+    December 29, 2004, the date on which we acquired a
+    controlling interest in PeopleSoft. We have concluded that, as
+    of the date of the PeopleSoft acquisition, the penalty
+    provisions under the CAP represented a contingent liability of
+    Oracle. The aggregate potential CAP obligation as of
+    May 31,
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+    2007 was $3.2 billion. Unless the CAP provisions are
+    removed from these licensing arrangements, we do not expect the
+    aggregate potential CAP obligation to decline substantially
+    until fiscal year 2008 when a significant number of these
+    provisions begin to expire. The last CAP obligation will expire
+    on December 31, 2008. We have not recorded a liability
+    related to the CAP, as we do not believe it is probable that our
+    post-acquisition activities related to the PeopleSoft product
+    line will trigger an obligation to make any payment pursuant to
+    the CAP.
+
+
+ 
+
+
+    In addition, while no assurance can be given as to the ultimate
+    outcome of litigation, we believe we would also have substantial
+    defenses with respect to the legality and enforceability of the
+    CAP contract provisions in response to any claims seeking
+    payment from Oracle under the CAP terms. While we have taken
+    extensive steps to assure customers that we intend to continue
+    developing and supporting the PeopleSoft and JD Edwards product
+    lines and as of May 31, 2007 we have not received any
+    claims for CAP payments, PeopleSoft customers may assert claims
+    for CAP payments.
+
+
+ 
+
+
+    We may have exposure to additional tax
+    liabilities.  As a multinational corporation,
+    we are subject to income taxes as well as non-income based
+    taxes, in both the United States and various foreign
+    jurisdictions. Significant judgment is required in determining
+    our worldwide provision for income taxes and other tax
+    liabilities.
+
+
+ 
+
+
+    In the ordinary course of a global business, there are many
+    intercompany transactions and calculations where the ultimate
+    tax determination is uncertain. We are regularly under audit by
+    tax authorities. Our intercompany transfer pricing is currently
+    being reviewed by the IRS and by foreign tax jurisdictions and
+    will likely be subject to additional audits in the future. We
+    previously negotiated three unilateral Advance Pricing
+    Agreements with the IRS that cover many of our intercompany
+    transfer pricing issues and preclude the IRS from making a
+    transfer pricing adjustment within the scope of these
+    agreements. However, these agreements, which are effective for
+    fiscal years through May 31, 2006, do not cover all
+    elements of our transfer pricing and do not bind tax authorities
+    outside the United States. We have finalized one bilateral
+    Advance Pricing Agreement and currently are negotiating an
+    additional bilateral agreement to cover the period from
+    June 1, 2001 through May 31, 2008. There can be no
+    guarantee that such negotiations will result in an agreement.
+
+
+ 
+
+
+    Although we believe that our tax estimates are reasonable, we
+    cannot assure you that the final determination of tax audits or
+    tax disputes will not be different from what is reflected in our
+    historical income tax provisions and accruals.
+
+
+ 
+
+
+    We are also subject to non-income taxes, such as payroll, sales,
+    use, value-added, net worth, property and goods and services
+    taxes, in both the United States and various foreign
+    jurisdictions. We are regularly under audit by tax authorities
+    with respect to these non-income taxes and may have exposure to
+    additional non-income tax liabilities. Our acquisition
+    activities have increased our non-income tax exposures.
+
+
+ 
+
+
+    There are risks associated with our outstanding
+    indebtedness.  As of May 31, 2007, we had
+    an aggregate of $6.3 billion of outstanding indebtedness
+    that will mature between 2009 and 2016 and we may incur
+    additional indebtedness in the future. Our ability to pay
+    interest and repay the principal for our indebtedness is
+    dependent upon our ability to manage our business operations and
+    the other factors discussed in this section. There can be no
+    assurance that we will be able to manage any of these risks
+    successfully. In addition, changes by any rating agency to our
+    outlook or credit rating could negatively affect the value and
+    liquidity of both our debt and equity securities.
+
+
+ 
+
+
+    Our stock price could become more volatile and your
+    investment could lose value.  All of the
+    factors discussed in this section could affect our stock price.
+    The timing of announcements in the public market regarding new
+    products, product enhancements or technological advances by our
+    competitors or us, and any announcements by us of acquisitions,
+    major transactions, or management changes could also affect our
+    stock price. Our stock price is subject to speculation in the
+    press and the analyst community, changes in recommendations or
+    earnings estimates by financial analysts, changes in
+    investors’ or analysts’ valuation measures for our
+    stock, our credit ratings and market trends unrelated to our
+    performance. A significant drop in our stock price could also
+    expose us to the risk of securities class actions lawsuits,
+    which could result in substantial costs and divert
+    management’s attention and resources, which could adversely
+    affect our business.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

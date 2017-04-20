@@ -1,0 +1,1333 @@
+Item 1A, “Risk Factors,” for a discussion of such risks). From time to time, these risks may exhibit greater levels of correlation than might be expected over the longer term due to the presence of, to a greater or lesser degree, some common risk drivers (internal or
+  external to the Company) embedded in the Company’s businesses that may manifest themselves simultaneously. An enterprise view of risk is required to identify and manage the consequences of these common risks and risk drivers on the Company’s profitability, capital strength and liquidity.
+The Company’s ERM initiatives are led by the Chief Enterprise Risk Officer (“CERO”), who is a member of the Company’s senior management team, and who reports to the Company’s Chief Executive Officer. The CERO also acts as a liaison between the Company’s Enterprise Risk Committee (see below) and the
+  Special Committee on Enterprise Risk Management (see below) and the Board (or other of its committees) with respect to risk matters. All of the Company’s employees are expected to assist in the appropriate and timely identification and management of risks and to enhance the quality and effectiveness of ERM.
+The Company’s ERM framework is designed to allow management to identify and understand material risk concentrations, including concentrations that have unattractive risk/reward dynamics so that prompt, appropriate, corrective or mitigating actions can be taken. To do this, the Company has risk management
+  committees and processes to serve as points of managerial dialogue and convergence across its businesses and functional areas, creates risk aggregation methodologies and develops specific risk appetites to coordinate the identification, vetting and discussion of risk topics and metrics. As part of its ERM activities, the
+  Company applies a suite of stress tests, tools, risk indicators, metrics and reporting processes that examine the consequences of low probability/high severity events (including those related to emerging risks) in order to drive mitigating actions where required.
+Risk Governance
+Risk Governance relates to the processes by which oversight and decision-making authorities with respect to risks are granted to individuals within the enterprise. The Company’s governance framework establishes accountabilities for tasks and outcomes as well as escalation criteria. Governance processes are designed to
+  ensure that transactions and activities, individually and in the aggregate, are carried out in accordance with the Company’s risk policies, philosophies, appetites, limits and risk concentrations, and in a manner consistent with expectations of excellence of integrity, accountability and client service.
+In order to enhance governance over its ERM activities, the Company established in 2009 the Special Committee on Enterprise Risk Management (the “Special Committee”) as a new Board Committee to oversee the Board’s responsibilities relating to enterprise-wide management of the Company’s key risks. The Special
+  Committee reviews, among other things, the methodology for establishing the Company’s risk capacity, the overall risk appetite for the Company, and policies for the establishment of risk limit frameworks and adherence to such limits and recommends risk limits to the full Board, based on management’s recommendations and
+  in consultation with the Finance Committee. The Special Committee also assesses the integrity and adequacy of the risk management function of the Company and evaluates the risk impact of any strategies under consideration to determine whether they are consistent with the Company’s risk profile.
+The Company’s oversight of ERM is performed, in part, via a centralized Enterprise Risk Committee (“ERC”) which is chaired by the CERO. The ERC is comprised of the Company’s most senior management from its businesses and functions and is charged with developing and monitoring enterprise risk policies, risk
+  appetites, risk limits and compliance with such limits, and risk aggregations, and identifying key emerging risks and ways to mitigate such risks.
+In addition to the ERC, the Company has established a framework of separate yet complementary ERM subcommittees, each focusing on particular aspects of ERM, These subcommittees include:
+
+  
+     
+
+  
+  
+    
+      1.
+     
+     
+     
+    
+      Economic Capital Model Subcommittee: This subcommittee oversees the development of economic capital models that support ERM activities, and helps set priorities and manage resources related to such models. It reviews assumptions and related methodologies used within the Company’s economic capital model,
+      including assessments of model validation, model control and model risk.
+    
+  
+
+
+22
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+    2.
+     
+    
+     
+     
+    
+    Liability Subcommittee: This subcommittee supports and assists the ERC’s identification, measurement, management, monitoring and reporting of key underwriting liability and emerging risks.
+  
+  
+     
+
+  
+  
+    
+    3.
+     
+    
+     
+     
+    
+    Asset Subcommittee: This subcommittee assists the ERC in its responsibilities in relation to governance and oversight of asset-related risks across the Company, including its Investment Portfolio. Among the activities under the responsibility of this subcommittee are (a) involvement in policy decisions on modeling and
+      quantification of risk measurements; and (b) providing an interpretation and assessment of asset-related risks, with a particular focus on market-related risks. Further, the subcommittee is responsible for coordinating on a regular basis with the Credit Subcommittee of the ERC on asset-related credit risks.
+  
+  
+     
+
+  
+  
+    
+    4.
+     
+    
+     
+     
+    
+    Credit Subcommittee: This subcommittee develops and implements the metrics and supporting framework for allocation of credit risk capacity across major business units, including the amount and types of credit exposure.
+  
+  
+     
+
+  
+  
+    
+    5.
+     
+    
+     
+     
+    
+    Operational Risk Subcommittee: This subcommittee supports the ERC’s identification, measurement, management and oversight of key operational risks through its oversight over key operational risk management processes and through its review of related operational risk indicators, trends and metrics.
+    
+  
+
+
+
+In addition to the above, risk management subcommittees within each of the Company’s businesses function to ensure that risk is managed in accordance with the risk limits, guidelines and tolerances that have been allocated to them by the Company.
+Risk Appetite Management
+The Company believes that the management of risk appetite is fundamental to strong governance and necessary in order to produce, among other things, a high-quality earnings process. The Company’s risk appetite framework establishes the risk preferences and risk agenda of the organization, which helps set a context
+  for where risk/capital should be deployed in pursuit of value, and hence, from which returns should arise. The Company’s risk appetite standards are integrated into its overall business and strategic planning process.
+The Company’s risk appetites, tolerances and related limits are designed to take account of and balance the expectations of the Company’s stakeholders by helping to reinforce the Company’s risk and return culture and by helping to set a context in which its risk preferences can be associated with decision-making across
+  the organization.
+The Company’s risk appetite framework guides its strategies relating to, among other things, capital preservation, earnings volatility, net worth at risk, operational loss, liquidity standards, capital rating and capital structure. This framework also addresses the Company’s tolerance to risks from material individual events
+  (e.g., natural or man made catastrophes such as terrorism), the Company’s investment portfolio, realistic disaster scenarios that cross multiple lines of business and from risks related to some or all of the above that may actualize concurrently, with the objective of preserving the Company’s capital base. For example, in relation
+  to catastrophe risk management, the Company considers the loss of capital due to a single large event and the loss of capital that would occur from multiple (but potentially smaller) events in any given year. The Company imposes a limit on ‘catastrophe risk from any single loss in a given region/peril at a 1% exceedance
+  probability. Tier 1 limits, which include natural catastrophes and other realistic disaster scenarios, are targeted at a level not to exceed 15% of beginning of year tangible shareholders’ equity, and Tier 2 limits, which include pandemic, longevity and country risk, are established at no more than half of Tier 1 limits. These
+  target limits are established by a combination of commercially available models, internally developed probable maximum loss estimates and the judgment of management, as overseen by the Board.
+Impact of ERM Processes
+The Company believes that its ERM processes improve the quality and timeliness of strategic decisions, enhance the integration of strategic initiatives with the risks related to such initiatives and act as catalysts to improve risk awareness and informed action by and across the Company. The Company 
+23
+
+
+
+believes that the integration of ERM with existing business processes and controls improves the quality of strategic decisions, optimizes the risk/reward characteristics of business strategies, and enhances the Company’s overall risk management culture.
+In addition, the Company’s ERM processes complements the Company’s overall internal control framework by helping to manage the complexity that is inherent within an organization of the Company’s size, the variety of its businesses and investment activities, and geographical reach. However, internal controls and
+  ERM can provide only reasonable, not absolute, assurance that control objectives will be met. As a result, the possibility of material financial loss remains in spite of the Company’s ERM activities. An investor should carefully consider the risks and all information set forth in this report including the discussion included in
+  Item 1A “Risk factors, Item 7A – Quantitative and Qualitative Disclosure About Market Risk”, and Item 8 “Financial Statements and Supplementary Data”.
+Ratings
+The Company’s ability to underwrite business is dependent upon the quality of its claims paying and financial strength ratings as evaluated by independent rating agencies. As a result, in the event that the Company is downgraded, its ability to write business as well as its financial condition and/or results of operations,
+  could be materially adversely effected.
+A downgrade below “A–” of the Company’s principal insurance and reinsurance subsidiaries by either Standard & Poor’s (“S&P”) or A.M. Best Company, Inc. (“A.M. Best”), which is two notches below the current S&P financial strength rating of “A” (Negative) and the A.M. Best financial strength rating of “A” (Stable) of
+  these subsidiaries, may trigger termination provisions in a significant amount of the Company’s assumed reinsurance agreements and may potentially require the Company to return unearned premiums to cedants. In addition, due to collateral posting requirements under the Company’s letter of credit and revolving credit
+  facilities, such a downgrade may require the posting of cash collateral in support of certain “in use” portions of these facilities (see Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Liquidity and Capital Resources,” below). Specifically, a downgrade below “A–” by A.M. Best
+  would trigger such collateral requirements for the Company’s two largest credit facilities. In certain limited instances, such downgrades may require the Company to return cash or assets to counterparties or to settle derivative and/or other transactions with the respective counterparties. See Item 1A, Risk Factors, “A downgrade
+  or potential downgrade in our financial strength and credit ratings by one or more rating agencies could materially and negatively impact our business, financial condition, results of operations, and/or liquidity.”
+During 2009, there was no change in financial strength rating from any of the rating agencies, however, the following changes in outlook occurred:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      In August 2009, Fitch Ratings (“Fitch”) revised the outlook of the financial strength rating of the Company’s principal insurance and reinsurance subsidiaries to “Negative” from “Rating Watch Negative”. Also in this announcement Fitch affirmed the financial strength rating as “A”. In its public announcement, Fitch
+      noted that the removal of the “Rating Watch Negative” outlook was contingent upon the successful execution of the Company’s plans to de-risk its investment portfolio, stabilization of investment performance and completion of its strategic review of life operations.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    In December 2009, Moody’s Investor Services, Inc. (“Moody’s”) revised the outlook of the financial strength rating of the Company’s principal insurance and reinsurance subsidiaries to “Stable” from “Negative”. Also in this announcement Moody’s affirmed the financial strength rating as “A2”. In its public
+      announcement, Moody’s noted that the change in the outlook reflects the Company’s improved capitalization and financial flexibility, as well as the stabilization of the business franchise.
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    In September 2009, A.M. Best affirmed the financial strength rating and outlook of the Company’s principal insurance and reinsurance subsidiaries at “A” (Stable) and left the financial strength rating of XL Life Ltd unchanged at “A-” (Stable). In addition, in December 2009 S&P left the financial strength rating and
+      outlook of the Company’s operating insurance and reinsurance subsidiaries unchanged at “A” (Negative).
+    
+  
+
+
+
+
+24
+
+
+
+The following table summarizes the financial strength and claims paying ratings, as noted above, from internationally recognized rating agencies in relation to the Company’s principal insurance and reinsurance subsidiaries and pools as at February 26, 2010:
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+  
+    
+      Rating
+      agency
+     
+    
+      Agency’s descriptionof rating
+     
+    
+      Rating
+     
+    
+      Agency’s ratingdefinition
+     
+    
+      Ranking of Rating
+  
+
+
+  
+    
+      A.M.
+      Best
+     
+    
+      “An opinion of an insurer’s
+      financial strength and ability to
+      meet ongoing obligations to
+      policyholders.”
+     
+    
+      “A” (Stable)
+     
+    
+      “Excellent” ability to meet
+      its ongoing obligations to
+      policyholders.
+     
+    
+      The “A” grouping is the third highest ratings category out of fifteen. It is assigned to companies that have, in A.M. Best’s opinion, an excellent ability to meet their ongoing obligations to policyholders.
+  
+  
+    
+      S&P
+     
+    
+      “A current opinion of the
+      financial security characteristics
+      of an insurance organization
+      with respect to its ability to
+      pay under its insurance policies
+      and contracts in accordance
+      with their terms.”
+     
+    
+      “A”
+      (Negative)
+     
+    
+      “Strong” financial security
+      characteristics.
+     
+    
+      The “A” grouping is the third highest out of nine main ratings. Main ratings from “AA” to “CCC” are subdivided into three subcategories: “+” indicating the high end of the main rating; no modifier, indicating the mid range of the main rating; and “–” indicating the lower
+      end of the main rating.
+  
+  
+    
+      Moody’s
+     
+    
+      An opinion of “the ability of
+      insurance companies to repay
+      punctually senior policyholder
+      claims and obligations.”
+     
+    
+      “A2” (Stable)
+     
+    
+      “Good” financial security.
+     
+    
+      The “A” grouping is the third highest out of nine rating categories. Each rating category is subdivided into three subcategories. Moody’s appends numerical modifiers 1, 2, and 3 to each generic rating classification from “Aa” through “Caa”. Numeric modifiers are used to
+      refer to the ranking within a group – with 1 being the highest and 3 being the lowest.
+  
+  
+    
+      Fitch
+     
+    
+      “An assessment of the financial
+      strength of an insurance
+      organization, and its capacity
+      to meet senior obligations to
+      policyholders and contract
+      holders on a timely basis.”
+     
+    
+      “A”
+      (Negative)
+     
+    
+      “Strong” capacity to meet
+      policyholder and contract
+      obligations.
+     
+    
+      The “A” rating is the third highest out of twelve ratings categories. “A” rated insurers are viewed as possessing strong capacity to meet policyholder and contract obligations. “+” or “–” may be appended to a rating to indicate the relative position of a credit within the rating
+      category.
+  
+
+
+
+In addition, as at February 26, 2010, XL Capital Ltd currently had the following long-term debt ratings: ‘bbb’ (Stable) from A.M. Best, ‘BBB+’(Negative) from S&P, ‘Baa2’ (Stable) from Moody’s and ‘BBB+’ (Negative) from Fitch.
+The Company believes that the primary users of ratings include commercial and investment banks, policyholders, brokers, ceding companies and investors.
+Tax Matters
+See Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Item 8, Note 25 to the Consolidated Financial Statements, “Taxation.”
+Regulation
+The Company’s operations are subject to regulation and supervision in each of the jurisdictions where they are domiciled and licensed to conduct business. Generally, regulatory authorities can have broad supervisory and administrative powers over such matters as licenses, fitness of management, standards of 
+25
+
+
+
+solvency, material transactions between affiliates, premium rates, policy forms, investments, security deposits, methods of accounting, form and content of financial statements, reserves for unpaid losses and loss adjustment expenses, reinsurance, minimum capital and surplus requirements and/or risk based capital standards,
+  dividends and other distributions to shareholders, periodic examinations and annual and other report filings. In general, such regulation is for the protection of policyholders rather than shareholders.
+Bermuda Operations
+The Insurance Act 1978 of Bermuda and related regulations, as amended (the “Act”), regulates the Company’s (re)insurance operating subsidiaries in Bermuda, and it provides that no person may carry on any insurance business in or from within Bermuda unless registered as an insurer by the Bermuda Monetary Authority
+  (the “BMA”) under the Act. Insurance as well as reinsurance is regulated under the Act.
+The Act imposes on Bermuda insurance companies, solvency and liquidity standards, certain restrictions on the declaration and payment of dividends and distributions, certain restrictions on the reduction of statutory capital, auditing and reporting requirements, and grants the Authority powers to supervise, investigate and
+  intervene in the affairs of insurance companies. Significant requirements include the appointment of an independent auditor, the appointment of a loss reserve specialist and the filing of the Annual Statutory Financial Return with the BMA. The Supervisor of Insurance is the chief administrative officer under the Act.
+In early July 2008, the Insurance Amendment Act of 2008 was passed, which introduced a number of changes to the Act, such as allowing the BMA to prescribe standards for an enhanced capital requirement and a capital and solvency return that insurers and reinsurers must comply with. The Bermuda Solvency Capital
+  Requirement (“BSCR”) employs a standard mathematical model that can relate more accurately the risks taken on by (re)insurers to the capital that is dedicated to their business. (Re)insurers may adopt the BSCR model or, where an insurer or reinsurer believes that its own internal model better reflects the inherent risk of its
+  business, an in-house model approved by the BMA. Class 4 (re)insurers, such as the Company, were required to implement the new capital requirements under the BSCR model beginning with fiscal years ending on or after December 31, 2008.
+Under the Bermuda Companies Act 1981, as amended, a Bermuda company may not declare or pay a dividend or make a distribution out of contributed surplus if there are reasonable grounds for believing that: (a) the company is, or would after the payment be, unable to pay its liabilities as they become due; or (b) the
+  realizable value of the company’s assets would thereby be less than the aggregate of its liabilities and its issued share capital and share premium accounts. For further information see Item 8, Note 26 to the Consolidated Financial Statements, “Statutory Financial Data.”
+United States
+Within the United States, the Company’s insurance and reinsurance subsidiaries are subject to regulation and supervision by their respective states of incorporation and by other jurisdictions in which they do business. The methods of regulation vary, but in general have their source in statutes that delegate regulatory and
+  supervisory powers to an insurance official. The regulation and supervision relate primarily to approval of policy forms and rates, the standards of solvency that must be met and maintained, including risk-based capital standards, material transactions between an insurer and its affiliates, the licensing of insurers, agents and
+  brokers, restrictions on insurance policy terminations, the nature of and limitations on the amount of certain investments, limitations on the net amount of insurance of a single risk compared to the insurer’s surplus, deposits of securities for the benefit of policyholders, methods of accounting, periodic examinations of the
+  financial condition and market conduct of insurance companies, the form and content of reports of financial condition required to be filed, and reserves for unearned premiums, losses, expenses and other obligations. All transactions between or among the insurance and reinsurance company subsidiaries must be fair and
+  equitable. In general, such regulation is for the protection of policyholders rather than shareholders.
+Regulations generally require insurance and reinsurance companies to furnish information to their domestic state insurance department concerning activities that may materially affect the operations, management or financial condition and solvency of the company. Regulations vary from state to state but generally require
+  that each primary insurance company obtain a license from the department of insurance of a state to conduct business in that state. A reinsurance company is not generally required to have an 
+26
+
+
+
+insurance license to reinsure a U.S. ceding company from outside the U.S. However, for a U.S. ceding company to obtain financial statement credit for reinsurance ceded, the reinsurer must obtain an insurance license or accredited status from the cedant’s state of domicile or another U.S. state with equivalent insurance
+  regulation or must post collateral to support the liabilities ceded. In addition, regulations for reinsurers vary somewhat from primary insurers in that the form and rate of reinsurance contracts and the market conduct of reinsurers are not subject to regulator approval.
+The Company’s U.S. insurance and reinsurance subsidiaries are required to file detailed annual and, in most states, quarterly reports with state insurance regulators in each of the states in which they are licensed. Such annual and quarterly reports are required to be prepared on a calendar year basis. In addition, the U.S.
+  insurance subsidiaries’ operations and accounts are subject to financial condition and market conduct examination at regular intervals by state regulators. Effective January 1, 2010, the Company’s US insurance subsidiaries will also be required to comply with expanded state model audit laws which will require the filing of a
+  Management’s Report of Internal Control over Financial Reporting. The report will provide management’s assertion that it has responsibility for establishing and maintaining a system of adequate internal controls over financial reporting, and will provide management’s assessment that the system is effective. In addition, these
+  new laws also expand the governance requirements of the insurance subsidiaries’ audit committees.
+Statutory surplus is an important measure utilized by the regulators and rating agencies to assess the Company’s U.S. insurance subsidiaries’ ability to support business operations and provide dividend capacity. The Company’s U.S. insurance subsidiaries are subject to various state statutory and regulatory restrictions that
+  limit the amount of dividends that may be paid, within any twelve month period, from earned surplus without prior approval from regulatory authorities. These restrictions differ by state, but are generally based on a calculation of the lesser of 10% of statutory surplus or 100% of ‘adjusted net investment income’ to the extent
+  that it has not previously been distributed.
+The National Association of Insurance Commissioners (the “NAIC”) promulgated, and all states have adopted, Risk-Based Capital (“RBC”) standards for property and casualty companies and life insurance companies as a means of monitoring certain aspects affecting the overall financial condition of insurance companies.
+  RBC is designed to measure the adequacy of an insurer’s statutory surplus in relation to the risks inherent in its business. The NAIC’s RBC Model Law provides for four incremental levels of regulatory attention for insurers whose surplus is below the calculated RBC target. These levels of attention range in severity from
+  requiring the insurer to submit a plan for corrective action to actually placing the insurer under regulatory control. The Company’s current RBC ratios for its U.S. subsidiaries are satisfactory and such ratios are not expected to result in any adverse regulatory action. The Company is not aware of any such actions relative to it.
+While the federal government does not directly regulate the insurance business in the U.S. (other than for flood, nuclear and reinsurance of losses from terrorism), federal legislation and administrative policies can affect the insurance industry. The federal government has also undertaken initiatives in several areas that may
+  impact the insurance industry including tort reform, corporate governance and the taxation of insurance companies. In addition, legislation has been introduced from time to time in recent years that, if enacted, could result in the federal government assuming a more direct role in the regulation of the insurance industry,
+  primarily as respects federal licensing in lieu of state licensing.
+International Operations
+A substantial portion of the Company’s property and casualty insurance business and a majority of its life reinsurance business is carried on in countries other than Bermuda and the U.S. The degree of regulation in foreign jurisdictions can vary. Generally, the Company’s subsidiaries must satisfy local regulatory
+  requirements. Licenses issued by foreign authorities to subsidiaries of the Company are subject to modification or revocation for cause by such authorities. The Company’s subsidiaries could be prevented, for cause, from conducting business in certain of the jurisdictions where they currently operate. While each country
+  imposes licensing, solvency, auditing and financial reporting requirements, the type and extent of the requirements differ substantially. Key areas where countries may differ include: (i) the type of financial reports to be filed; (ii) a requirement to use local intermediaries; (iii) the amount of reinsurance permissible; (iv) the
+  scope of any regulation of policy forms and rates; and (v) the type and frequency of regulatory examinations.
+27
+
+
+
+In addition to these requirements, the Company’s foreign operations are also regulated in various jurisdictions with respect to currency, amount and type of security deposits, amount and type of reserves, amount and type of local investment and limitations on the share of profits to be returned to policyholders on
+  participating policies. For further information see Item 8, Note 26 to the Consolidated Financial Statements, “Statutory Financial Data.”
+European Union
+Financial services including insurance, reinsurance, securities and Lloyd’s in the United Kingdom are regulated by the Financial Services Authority (“FSA”). The FSA’s Handbook of Rules and Guidance (the “FSA Rules”) covers all aspects of regulation including capital adequacy, financial and non-financial reporting and
+  certain activities of U.K.-regulated firms. The Company’s subsidiaries carrying out regulated activities in the U.K. comply with the FSA Rules. The Company’s Lloyd’s managing agency, its managed syndicates and its associated corporate capital vehicles are subject to additional Lloyd’s requirements.
+FSA regulations also impact the Company as “controller” (an FSA defined term) of its U.K.-regulated subsidiaries. Through the FSA’s Approved Persons regime, certain employees and Directors are subject to regulation by the FSA of their fitness and certain employees are individually registered at Lloyd’s.
+The Company’s network of offices in the European Union consists mainly of branches of U.K. as well as Irish (regulated by the Irish Financial Services Regulatory Authority “IFSRA”) companies that are principally regulated under European Directives from their home states, the U.K. and Ireland, rather than by each
+  individual jurisdiction.
+Employees
+At December 31, 2009, the Company had 3,565 employees. At that date, 239 of the Company’s employees were represented by workers’ councils and 410 of the Company’s employees were subject to industry-wide collective bargaining agreements in several countries outside the United States.
+Available Information
+The public can read and copy any materials the Company files with the U.S. Securities and Exchange Commission (“SEC”) at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public can obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-
+  SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers, including the Company, that file electronically with the SEC. The address of the SEC’s website is http://www.sec.gov.
+The Company’s Internet website address is http://www.xlcapital.com. The information contained on the Company’s website is not incorporated by reference into this Annual Report on Form 10-K or any other of the Company’s documents filed with or furnished to the SEC.
+The Company makes available free of charge, including through the Company’s Internet website, the Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange
+  Act of 1934, as amended, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC.
+The Company adopted Corporate Governance Guidelines, as well as written charters for each of the Audit Committee, the Management Development and Compensation Committee, the Finance Committee, the Nominating, Governance and External Affairs Committee and the Special Committee on Enterprise Risk
+  Management, as well as a Code of Ethics for Senior Financial Officers, a Code of Business Conduct & Ethics for employees and a related Compliance Program. Each of these documents is posted on the Company’s web-site at http://www.xlcapital.com, and each is available in print to any shareholder who requests it by writing
+  to the Company at Investor Relations Department, XL Capital Ltd, XL House, One Bermudiana Road, Hamilton HM 08, Bermuda.
+The Company intends to post on its website at http://www.xlcapital.com any amendment to, or waiver of, a provision of its Code of Business Conduct & Ethics that applies to its Chief Executive Officer, Chief Financial Officer and Controller or persons performing similar functions and that relates to any element of the
+  code of ethics definition set forth in Item 406 of Regulation S-K of the Securities Act of 1933, as amended.
+28
+
+
+
+
+
+
+     
+     
+     
+  
+
+
+  
+     
+     
+     
+  
+  
+    
+      ITEM 1A.
+     
+    
+      RISK FACTORS
+  
+  
+     
+     
+     
+  
+
+
+Any of the following risk factors could have a significant or material adverse effect on our business, financial condition, results of operations and/or liquidity, in addition to the other information contained in this report. Additional risks not presently known to us or that we currently deem immaterial may also impair our
+  business, financial condition and results of operations.
+Risks Related to the Company
+A downgrade or potential downgrade in our financial strength and credit ratings by one or more rating agencies could materially and negatively impact our business, financial condition, results of operations and/or cash flows.
+As our ability to underwrite business is dependent upon the quality of our claims paying and financial strength ratings as evaluated by independent rating agencies, a further downgrade by any of these institutions could cause our competitive position in the insurance and reinsurance industry to suffer and make it more
+  difficult for us to market our products.
+A downgrade below “A–” of our principal insurance and reinsurance subsidiaries by either Standard & Poor’s (“S&P”) or A.M. Best Company (“A.M. Best”), which is two notches below the current S&P financial strength rating of “A” (Negative) and two notches below the current A.M. Best financial strength rating of “A”
+  (Stable) of these subsidiaries, may trigger termination provisions in a significant amount of our assumed reinsurance agreements and may potentially require us to return unearned premium to cedants. Whether a client would exercise its termination rights after such a downgrade would likely depend on, among other things, the
+  reasons for the downgrade, the extent of the downgrade, prevailing market conditions, the degree of unexpired coverage, and the pricing and availability of replacement reinsurance coverage. Based on premium value, approximately 54% of our reinsurance contracts that incepted at January 1, 2009 contained provisions allowing
+  clients to terminate those contracts upon a decline in our ratings. In the event of such a downgrade, we cannot predict whether or how many of our clients would actually exercise such termination rights or the extent to which any such terminations would have a material adverse effect on our financial condition, results of
+  operations, cash flows or future prospects and could have a significant adverse effect on the market price for our securities. A downgrade could also result in a substantial loss of business for us as ceding companies and brokers that place such business may move to other insurers and reinsurers with higher ratings and the loss
+  of key employees. In addition, due to collateral posting requirements under our letter of credit and revolving credit facility agreements, such a downgrade may require the posting of cash collateral in support of certain “in use” portions of these facilities (see “Management’s Discussion and Analysis of Financial Condition and
+  Results of Operations – Liquidity and Capital Resources” under Part II, Item 7 of this report). Specifically, a downgrade below “A–” by A.M. Best would trigger such collateral requirements for the Company’s two largest credit facilities. In certain limited instances, such downgrades may require us to return cash or assets to
+  counterparties or to settle derivative and/or other transactions with the respective counterparties.
+In addition to the financial strength ratings of our principal insurance and reinsurance subsidiaries, various rating agencies also publish credit ratings for XL Capital Ltd. Credit ratings are indicators of a debt issuer’s ability to meet the terms of debt obligations in a timely manner are part of our overall funding profile and
+  affect our ability to access certain types of liquidity. Downgrades in our credit ratings could have a material adverse effect on our financial condition and results of operations and cash flows in a number of ways, including adversely limiting our access to capital markets, potentially increasing the cost of debt or requiring us to
+  post collateral.
+We may require additional capital in the future, which may not be available to us on satisfactory terms, on a timely basis or at all.
+Our future capital requirements depend on many factors, including our ability to write new business successfully and to establish premium rates and reserves at levels sufficient to cover our losses. To the extent that the funds generated by our ongoing operations are insufficient to fund future operating requirements and
+  cover claim payments, or that our capital position is adversely impacted by mark-to-market changes on the investment portfolio, catastrophe events or otherwise, we may need to raise 
+29
+
+
+
+additional funds through financings or curtail our growth and reduce our assets. As a result of the current severe economic conditions that persist in the capital markets, any future financing may not be available on terms that are favorable to us, if at all. In addition, any future equity financings could be dilutive to our existing
+  shareholders or could result in the issuance of securities that have rights, preferences and privileges that are senior to those of our other securities. Our inability to obtain adequate capital could have a material adverse effect on our business, financial condition and results of operations.
+Our holding company structure and certain regulatory and other constraints affect our ability to pay dividends, make payments on our debt securities and make other payments.
+As a holding company with no direct operations or significant assets other than the capital stock of our subsidiaries, we rely on investment income, cash dividends, loans and other permitted payments from our subsidiaries to make principal and interest payments on our debt, to pay operating expenses and common and
+  preferred shareholder dividends, to make capital investments in our subsidiaries and to pay certain of our other obligations that may arise from time to time. We expect future investment income, dividends and other permitted payments from these subsidiaries to be our principal source of funds to pay such expenses, preferred
+  and common stock dividends and obligations. The payment of dividends to us by our insurance and reinsurance subsidiaries is regulated under the laws of various jurisdictions including Bermuda, the U.K., Ireland, and Switzerland and certain insurance statutes of various states in the United States in which our insurance and
+  reinsurance subsidiaries are licensed to transact business and the other jurisdictions where we have regulated subsidiaries. For further information regarding regulatory restrictions governing the payment of dividends by the Company’s significant property and casualty subsidiaries in Bermuda and the U.S., see Note 26 to the
+  Consolidated Financial Statements “Statutory Financial Data.”
+XL Capital Ltd is subject to certain regulatory constraints that affect its ability to pay dividends on its ordinary shares and preferred shares. Under Cayman Islands law, XL Capital Ltd may not declare or pay a dividend if there are reasonable grounds for believing that XL Capital Ltd is, or would after the payment be,
+  unable to pay its liabilities as they become due in the ordinary course of business. Also, the terms of our preferred shares prohibit declaring or paying dividends on our ordinary shares unless full dividends have been declared and paid on our outstanding preferred shares. In addition, our ability to declare and pay dividends
+  may be restricted by covenants in our letters of credit and revolving credit facilities.
+For a description of constraints under Irish law that may affect our ability to pay dividends as a result of the proposed redomestication, see the risk factor entitled “If the redomestication becomes effective but our ordinary shareholders do not approve the Distributable Reserves Proposal, or if the Irish High Court does not
+  approve the creation of distributable reserves in XL-Ireland, XL-Ireland will not be able to pay dividends or redeem or buy back shares following the Transaction unless and until we generate earnings after the Effective Time, and only to the extent of such earnings” below.
+We are exposed to significant capital markets risk related to changes in interest rates, credit spreads, equity prices and foreign exchange rates as well as other investment risks, which may adversely affect our results of operations, financial condition or cash flows.
+Our assets are invested by a number of investment management service providers under the direction of the Company’s management within the Investment Group in accordance, in general, with detailed investment guidelines set by us under the oversight of our Board of Directors, and established in accordance with our
+  SAA framework for our P&C operations, and in accordance with asset-liability benchmarks for our Life operations. Although our investment policies stress diversification of risks, conservation of principal and liquidity, our investments are subject to market-wide risks, as noted below, and fluctuations, as well as to risks inherent
+  in particular securities. We are exposed to significant capital markets risks related to changes in interest rates, credit spreads and defaults, market liquidity, equity prices and foreign currency exchange rates. If significant, continued market volatility, changes in interest rates, changes in credit spreads and defaults, a lack of
+  pricing transparency, a reduction in market liquidity, declines in equity prices, and the strengthening or weakening of foreign currencies against the U.S. dollar, individually or in tandem, this could have a material adverse effect on our consolidated results of operations, financial condition or cash flows through realized losses,
+  impairments, and changes in unrealized positions. Levels of write-down or impairment are impacted by our assessment of the intent to sell securities which have declined in value as well as actual losses as a result of defaults or deterioration in 
+30
+
+
+
+estimates of cash flows. We periodically review our investment portfolio structure and strategy. If, as a result of such review, we determine to reposition or realign portions of the investment portfolio and where we determine we will sell securities in an unrealized loss position, then we will incur an other than temporary
+  impairment charge. Any such charge may have a material adverse effect on our results of operations and business.
+For the year ended December 31, 2009, as a result of the prolonged and continued volatility and disruptions in the public debt and equity markets, we incurred realized and unrealized investment losses, as described in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” under Part
+  II, Item 7 of this report. We continue to closely monitor current market conditions and evaluate the long term impact of this recent market volatility on all of our investment holdings. Depending on market conditions, we could incur additional realized and unrealized losses in future periods, which could have a material
+  adverse effect on the Company’s results of operations, financial condition and business.
+Our exposure to interest rate risk relates primarily to the market price and cash flow variability associated with changes in interest rates. Our investment portfolio contains interest rate sensitive instruments, such as fixed income securities, which have been and may continue to be adversely affected by changes in interest
+  rates from central bank monetary policies, domestic and international economic and political conditions and other factors beyond our control. A rise in interest rates would increase the net unrealized loss position of our investment portfolio, offset by our ability to earn higher rates of return on funds reinvested. Conversely, a
+  decline in interest rates would decrease the net unrealized loss position of our investment portfolio, offset by lower rates of return on funds reinvested. We maintain a P&C investment portfolio with diversified maturities that has a weighted average duration that is determined in accordance with its SAA Benchmark based on a
+  dynamic financial analysis of investment assets and liabilities, and maximizing the Company’s enterprise value subject to accounting, regulatory, capital and risk tolerances. However, our estimates of the time and size of the liability cash flow profile may be inaccurate and we may be forced to liquidate investments prior to
+  maturity at a loss in order to cover liabilities. We are exposed to interest rate risk relative to our liabilities.
+Our exposure to credit spread risk relates primarily to the market price associated with changes in prevailing market credit spreads and the impact on our holdings of spread products such as corporate and structured credit. A portion of our aggregate fixed income portfolio consists of below investment-grade high yield
+  fixed income securities. These securities have a higher degree of credit or default risk. Certain sectors within the investment and below investment grade fixed income market, such as structured and corporate credit, may be less liquid in times of economic weakness or market disruptions. While we have put in place
+  procedures to monitor the credit risk and liquidity of our invested assets, in general and those impacted by recent credit market issues specifically, it is possible that, in periods of economic weakness or periods of turmoil in capital markets, we may experience default losses in both our investment-grade and below investment-
+  grade corporate and structured credit holdings. This may result in a material reduction of net income, capital and cash flows.
+We invest a portion of our investment portfolio in common stock or equity-related securities, including in hedge funds and private equity funds. The value of these assets fluctuates, along with other factors, due to changes in the equity and credit markets. In times of economic weakness, the market value and liquidity of
+  these assets may decline, and may impact net income, capital and cash flows. In addition, certain of the products offered by our Life Operations segment offer fixed guaranteed returns while debt and equity yields may continue to decline. In addition, the amount of earnings from alternative funds and private investment funds
+  are not earned evenly across the year, or even from year to year. As a result, the amount of earnings that that we record from these investments may vary substantially from quarter to quarter. The timing of distributions from such private investment funds depends on particular events relating to the underlying investments.
+  The ability of an alternative fund to satisfy any redemption request from its investors depends on the underlying liquidity of the alternative fund’s investments. As a result, earnings, distributions and redemptions from these two asset classes may be more difficult to predict.
+The functional currencies of our principal insurance and reinsurance subsidiaries include the U.S. dollar, U.K. sterling, the Euro, the Swiss Franc, and the Canadian dollar. Exchange rate fluctuations relative to the functional currencies may materially impact our financial position, results of operations and cash 
+31
+
+
+
+flows. Many of our non-U.S. subsidiaries maintain both assets and liabilities in currencies different than their functional currency, which exposes us to changes in currency exchange rates.
+In addition, locally-required capital levels are invested in local currencies in order to satisfy regulatory requirements and to support local insurance operations regardless of currency fluctuations. Foreign exchange rate risk is reviewed as part of our risk management process. While we utilize derivative instruments such as
+  futures, options and foreign currency forward contracts to, among other things, manage our foreign currency exposure, it is possible that these instruments will not effectively mitigate all or a substantial portion of our foreign exchange rate risk.
+Certain of our investments may be illiquid and are in asset classes that have been experiencing significant market valuation fluctuations.
+We hold certain investments that may lack liquidity or for which the observability of prices or inputs may be reduced in periods of market dislocation, such as non-agency residential mortgage-backed and collateralized debt obligations securities. Even some of our high quality assets have been more illiquid as a result of
+  the recent challenging market conditions. Generally, securities classified as Level 3 pursuant to the fair value hierarchy set forth in authoritative accounting guidance over fair value measurements may be less liquid, more difficult to value and require significant judgment, and more likely to result in sales materially different
+  than fair values determined by management.
+If we require significant amounts of cash on short notice in excess of normal cash requirements or are required to post or return collateral in connection with certain of our reinsurance contracts, credit agreements, derivative transactions or our invested portfolio, we may have difficulty selling these investments in a timely
+  manner, be forced to sell them for less than we otherwise would have been able to realize, or both.
+The reported value of our relatively illiquid types of investments and, in certain circumstances, our high quality, generally liquid asset classes, do not necessarily reflect the lowest current market bid price for the asset. If we were forced to sell certain of our assets in the current market, there can be no assurance that we
+  will be able to sell them for the prices at which we have recorded them and we may be forced to sell them at significantly lower prices, particularly at times of extreme market illiquidity.
+There can be no assurance as to the effect that governmental and regulatory actions will have on financial markets generally or on us in particular.
+In response to the financial crises affecting the banking system and financial markets and going concern threats to financial institutions, there have been numerous regulatory and governmental actions. Within the United States, the Federal Reserve has taken action through reduced federal funds rates and expansion of
+  acceptable collateral to provide additional liquidity. Fannie Mae and Freddie Mac have been placed under conservatorship along with having received capital injections and enhanced liquidity, and numerous financial institutions have received capital both in the form of emergency loans and the Emergency Economic
+  Stabilization Act of 2008 which made available $700 billion of capital through direct Treasury equity investments, In early 2009, the American Recovery and Reinvestment Act of 2009 was enacted to provide further stimulus to institutions that have received or will receive financial assistance under the Troubled Asset Relief
+  Program. Certain of our competitors, such as companies that engage in both life and property insurance lines of business, are participating, or may in the future, in some or all of these government programs.
+There is the potential for initiatives, including but not limited to, “cram-down” legislation specifically relating to mortgage-backed securities. In certain residential mortgage backed securities (“RMBS”), the losses from such a cramdown may be shared across all tranches of the security on a prorated basis. The Company
+  may absorb additional losses should any such investments that it holds become subject to any such cram-down provisions. At the present time, there is no clarity on how the rating agencies will react to such a development, and we may experience significant numbers of downgrades on our non-Agency RMBS holdings.
+Within the United Kingdom and Euro-zone, similar actions including interest rate cuts and nationalization of certain financial institutions have been undertaken.
+32
+
+
+
+We own a number of Tier 1 and Upper Tier 2 hybrid securities issued by financial institutions including those based in the U.S. and U.K. There is a risk that if the capital positions of financial institutions deteriorates further government intervention, particularly nationalization of such institutions, could occur. There is
+  also a risk of regulatory imposed deferral of coupons or decisions by bank management not to call the capital or defer the coupon payments. This may result in losses on the hybrid securities we hold. There is also the risk of further downgrades of these securities as rating agencies re-evaluate their rating methodologies, which
+  would negatively impact the regulatory capital of the Life operations.
+The purpose of these legislative and regulatory actions is to stabilize the U.S. and international banking systems, improve the flow of credit and foster an economic recovery. However, there can be no assurance as to the success of such actions or the effect that any such governmental actions or future regulatory
+  initiatives may have on certain investment instruments in our investment portfolio, or on our competitive position, business and financial position.
+Particularly within the Euro-zone, there is increasing market concern as to the potential default of government issuers. Should governments default on their obligations, there will be a negative impact on both the Company’s direct holdings, as well as non-government issues held within the country of default.
+If actual claims exceed our loss reserves, our financial results and cash flows could be adversely affected.
+Our results of operations and financial condition depend upon our ability to assess accurately the potential losses associated with the risks that we insure and reinsure. We establish reserves for unpaid losses and loss adjustment expense (“LAE”) liabilities, which are estimates of future payments of reported and unreported
+  claims for losses and related expenses with respect to insured events that have occurred. The process of establishing reserves for property and casualty claims can be complex and is subject to considerable variability as it requires the use of informed estimates and judgments. Actuarial estimates of unpaid loss and LAE
+  liabilities are subject to potential errors of estimation, which could be significant, due to the fact that the ultimate disposition of claims incurred prior to the date of such estimation, whether reported or not, is subject to the outcome of events that have not yet occurred. Examples of these events include the accuracy of the
+  factual information on which the estimates were based, especially as this develops, jury decisions, court interpretations, legislative changes, changes in the medical condition of claimants, public attitudes, and economic conditions such as inflation. Recent deficit spending by governments in the Company’s major markets
+  exposes the Company to heightened risk of inflation. Inflation in relation to medical costs, construction costs and tort issues in particular impact the property and casualty industry, however, broader market inflation also poses a risk to overall loss costs.
+Similarly, the actual emergence of claims for life business may vary from the assumptions underlying the policy benefit reserves, in particular, the future assumed mortality improvements on the blocks of in-payment annuities.
+In relation to previously written financial guarantee business and related exposures, we establish reserves for losses and LAE on such business based on management’s best estimate of the ultimate expected incurred losses. Establishment of such reserves requires the use and exercise of significant judgment by management,
+  including with respect to estimates regarding the occurrence and amount of a loss on an insured or reinsured obligation. Estimates of losses may differ from actual results and such difference may be material, due to the fact that the ultimate dispositions of claims are subject to the outcome of events that have not yet occurred.
+  Examples of these events include changes in the level of interest rates, credit deterioration of insured and reinsured obligations, and changes in the value of specific assets supporting insured and reinsured obligations. In general, guarantees on previously written credit default swaps are exposed to the same risks as noted above,
+  except in events of default by the guarantor. Credit default swaps, however, do not qualify for the financial guarantee scope exception under authoritative accounting guidance over derivative instruments and hedging activities, and, therefore are reported at fair value with changes in the fair value included in earnings. Fair
+  value for such swaps are determined based on methodologies further described in “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies and Estimates” under Item II, Part 7 of this report. Any estimate of future costs is subject to the inherent limitation on our
+  ability to 
+33
+
+
+
+predict the aggregate course of future events. It should therefore be expected that the actual emergence of losses and LAE will vary, perhaps materially, from any estimate.
+We have an actuarial staff in each of our operating segments and a Chief Actuary who regularly evaluates the levels of loss reserves, taking into consideration factors that may impact the ultimate losses incurred. Any such evaluation could result in future changes in estimates of losses or reinsurance recoverable and
+  would be reflected in our results of operations in the period in which the estimates are changed. Losses and LAE, to the extent that they exceed the applicable reserves, are charged to income as incurred. The reserve for unpaid losses and LAE represents the estimated ultimate losses and LAE less paid losses and LAE, and
+  comprises case reserves and incurred but not reported loss reserves (“IBNR”). During the loss settlement period, which can span many years in duration for casualty business, additional facts regarding individual claims and trends often will become known and case reserves may be adjusted by allocation from IBNR without
+  any change in the overall reserve. In addition, application of statistical and actuarial methods may require the adjustment of the overall reserves upward or downward from time to time. Accordingly, the ultimate settlement of losses may be significantly greater than or less than reported loss and loss expense reserves.
+The effects of emerging claim and coverage issues on our business are uncertain.
+As industry practices and legal, judicial, social and other environmental conditions change, unexpected issues related to claims and coverage may emerge. These issues may adversely affect our business by either extending coverage beyond our underwriting intent or by increasing the number or size of claims, such as the
+  effects that recent disruptions in the credit markets could have on the number and size of reported claims under directors and officers liability insurance (“D&O”) and professional liability insurance lines of business. In some instances, these changes may not become apparent until some time after we have issued the insurance or
+  reinsurance contracts that are affected by the changes. Historically such claims and coverage issues have occurred at heightened levels during periods of very soft market conditions which often reflect an inflection point in the typical cycle of insurance industry market conditions. In addition, our actual losses may vary
+  materially from our current estimate of the loss based on a number of factors, including receipt of additional information from insureds or brokers, the attribution of losses to coverages that had not previously been considered as exposed and inflation in repair costs due to additional demand for labor and materials. As a result,
+  the full extent of liability under an insurance or reinsurance contract may not be known for many years after such contract is issued and a loss occurs.
+The occurrence of disasters could adversely affect our financial condition.
+We have substantial exposure to losses resulting from natural and man-made disasters and other catastrophic events. Catastrophes can be caused by various events, including hurricanes, earthquakes, floods, hailstorms, explosions, severe weather, fires, war and acts of terrorism. Changing climate conditions may add to the
+  unpredictability and frequency of natural disasters in certain parts of the world and create additional uncertainty as to future trends and exposures. The incidence and severity of catastrophes are inherently unpredictable, and it is difficult to predict the timing of such events with statistical certainty or estimate the amount of loss
+  any given occurrence will generate.
+The occurrence of claims from catastrophic events is likely to result in substantial volatility in our financial condition, results of operations and cash flows for the fiscal quarter or year in which a catastrophic event occurs, as well as subsequent fiscal periods, and could have a material adverse effect on our financial
+  condition and results of operations and our ability to write new business. This risk is exacerbated due to accounting principles and rules that do not permit (re)insurers to reserve for such catastrophic events until they occur. We expect that future possible increases in the values and concentrations of insured property, the
+  effects of inflation and changes in cyclical weather patterns may increase the severity of catastrophic events in the future. Although we attempt to manage our exposure to catastrophic events, a single catastrophic event could affect multiple geographic zones and lines of business and the frequency or severity of catastrophic
+  events could exceed our estimates, in each case potentially having a material adverse effect on our financial condition, results of operations and cash flows. In addition, while we may, depending on market conditions, purchase catastrophe reinsurance and retrocessional protection, the occurrence of one or more major
+  catastrophes in any given period could result in losses that exceed such reinsurance and retrocessional protection. This could have a material adverse 
+34
+
+
+
+effect on our financial condition and results of operations and may result in substantial liquidation of investments, possibly at a loss, and outflows of cash as losses are paid.
+The failure of any of the underwriting risk management strategies that we employ could have a material adverse effect on our financial condition, results of operations and/or liquidity.
+We seek to limit our loss exposure by, among other things, writing a number of our reinsurance or retrocession contracts on an excess of loss basis, adhering to maximum limitations on reinsurance written in defined geographical zones, limiting program size for each client and prudently underwriting each program
+  written. In addition, in the case of proportional treaties, we generally seek to use per occurrence limitations or loss ratio caps to limit the impact of losses from any one event. We cannot be sure that all of these loss limitation methods will have the precise risk management impact intended. For instance, although we also seek
+  to limit our loss exposure by geographic diversification, geographic zone limitations involve significant underwriting judgments, including the determination of the area of the zones and the inclusion of a particular policy within a particular zone’s limits. Underwriting involves the exercise of considerable judgment and the
+  making of important assumptions about matters that are inherently unpredictable and beyond our control, and for which historical experience and probability analysis may not provide sufficient guidance. The failure of any of the underwriting risk management strategies that we employ could have a material adverse effect on
+  our financial condition, results of operations and cash flows. Also, we cannot provide assurance that various provisions of our policies, such as limitations or exclusions from coverage or choice of forum, will be enforceable in the manner that we intend and disputes relating to coverage and choice of legal forum may arise,
+  which could materially adversely affect our financial condition and results of operations.
+The loss of one or more key executives or the inability to attract, motivate and retain qualified personnel could adversely affect our ability to conduct business.
+Our success depends on our ability to attract new, highly skilled individuals and to motivate and retain our existing key executives and qualified personnel. The loss of the services of any of our key executives or the inability to attract, motivate and retain other highly skilled individuals in the future could adversely affect
+  our ability to conduct our business. In addition, we do not maintain key man life insurance policies with respect to our employees.
+Although the market price of our Class A ordinary shares gained 395% during fiscal 2009 as compared to the market price as at December 31, 2008, it has not fully recovered from the very significant decline in market price during fiscal 2008. A substantial portion of our annual compensation paid to our senior
+  employees has, in recent years, been paid in the form of equity-based awards. In addition, we reduced the number of employees across nearly all of our locations in August 2008 as well as in the period between February and July 2009. The combination of these events could adversely affect our ability to hire, motivate and
+  retain qualified employees.
+In addition, certain of our senior executives who work in our Bermuda operations are not Bermudian and our success in such operations may depend in part on the continued services of key employees working in Bermuda. Under Bermuda law, non-Bermudians (other than spouses of Bermudians and holders of permanent
+  resident certificates) may not engage in any gainful occupation in Bermuda without an appropriate governmental work permit. A work permit may be granted or renewed by the Bermuda government for a specific period of time, upon showing that, after proper public advertisement, no Bermudian (or spouse of a Bermudian or
+  holder of a permanent resident certificate) is available who meets the minimum standards reasonably required by an employer with respect to a certain position. The government of Bermuda places a six-year term limit on individuals with work permits, subject to certain exemptions for key employees. No assurances can be
+  given that any work permit will be issued or, if issued, renewed upon the expiration of the relevant term or that key employee status will be granted or revoked.
+A decrease in the fair values of our reporting units may result in future goodwill impairments.
+Our goodwill balance at December 31, 2009 was $826.0 million. When we acquire an entity, the excess of the purchase price over the net identifiable assets acquired is allocated to goodwill. We conduct impairment tests on our reported goodwill at least annually or more frequently if impairment indicators 
+35
+
+
+
+exist. In performing a goodwill impairment test, we use various methods and make various assumptions to determine the fair value of our reporting units, including the determination of expected future cash flows and/or profitability of such reporting units, and we take into account market value multiples and/or cash flows of
+  entities that we deem to be comparable in nature, scope or size to our reporting units. However, expected future cash flows and/or profitability may be materially and negatively impacted as a result of, among other things, a decrease in renewal activity and new business opportunities, a decrease in retention or our underwriting
+  teams, lower-than-expected yields and/or cash flows from our investment portfolio, higher-than-expected claims activity and magnitude of incurred losses and general economic factors that impact the reporting unit. In addition, previously determined market value multiples and/or cash flows may no longer be relevant as a
+  result of these potential factors. As a result of these potential changes, the estimated fair value of one or more of our reporting units may decrease, causing the carrying value of the net assets assigned to the reporting unit to exceed the fair value of such net assets. If we determine an impairment exists, we adjust the carrying
+  value of goodwill to its implied fair value. The impairment charge is recorded in our income statement in the period in which the impairment is determined. If we are required in the future to write down additional goodwill, our financial condition and results of operations would be negatively affected. In connection with fair
+  value measurements and the accounting for goodwill, the use of generally accepted accounting principles requires management to make certain estimates and assumptions. Significant judgment is required in making these estimates and assumptions, and actual results may ultimately be materially different from such estimates
+  and assumptions.
+Lawsuits, including putative class action lawsuits, have been filed against us by policyholders and security holders the ultimate outcome of which could have a material adverse effect on our consolidated financial condition, future operating results and/or liquidity
+We are subject to lawsuits and arbitrations in the regular course of our business. See Item 3, “Legal Proceedings”. In addition, lawsuits have been filed against us as detailed in Item 8, Note 20(g) to the Consolidated Financial Statements, “Commitments and Contingencies – Claims and Other Litigation.” We believe that
+  we have substantial defenses to all outstanding litigation and intend to pursue our defenses vigorously, although an adverse resolution of one or more of these items could have a material adverse effect on our results of operations in a particular fiscal quarter or year.
+There is a possibility that the Master Agreement and the related commutations and releases could be challenged or that we could be subject to litigation as a result of the Master Agreement. Any such challenge could have a material adverse effect on our financial condition, results of operations, liquidity or the market
+  price of our securities.
+We provided certain reinsurance protections (the “Reinsurance Agreements”) with respect to adverse development on certain transactions as well as indemnification under specific facultative and excess of loss coverages for subsidiaries of Syncora: Syncora Guarantee Re and Syncora Guarantee. As at June 30, 2008, our
+  total net exposure under facultative agreements with Syncora subsidiaries was approximately $6.4 billion of net par value outstanding. Pursuant to the closing of the Master Agreement, all of these Reinsurance Agreements were commuted.
+In addition, through one or more of our subsidiaries, we entered into certain agreements with subsidiaries of Syncora pursuant to which we guaranteed certain obligations of Syncora Guarantee Re and Syncora Guarantee under specific agreements (the “Guarantee Agreements”). As at June 30, 2008, the total net par value
+  outstanding of business written by subsidiaries of Syncora which fell under the Guarantee Agreements was approximately $60 billion. Pursuant to the terms of, and required conditions under, the Master Agreement, Syncora Guarantee Re’s facultative quota share reinsurance agreement with Syncora Guarantee, and all individual
+  risk cessions thereunder, and the Financial Security Master Facultative Agreement, and all individual risk cessions thereunder, were commuted, thereby rendering the Syncora Guarantee Re guarantee and Financial Security guarantee of no further force and effect.
+Following the closing of the Master Agreement, Syncora and its applicable subsidiaries are required to use commercially reasonable efforts to commute the underlying financial guarantees that are the subject of the EIB Guarantees. There can be no assurances that such commutation will ultimately occur and that our
+  $920.5 million exposure (as of December 31, 2009) under the EIB Guarantees will be eliminated.
+36
+
+
+
+As further described in Note 4 to the Consolidated Financial Statements, “Syncora Holdings Ltd. (“Syncora”)”, while the New York Insurance Department (“NYID”) and the BMA approved the Master Agreement and related agreements and transactions, including the commutation of the agreements described above, and
+  the Delaware Insurance Department (“DID”) approved the Master Agreement and the commutation of the Syncora Guarantee Re/Syncora Guarantee Quota Share, and although we believe the effect of the Master Agreement relieved us of all of our obligations under the Reinsurance Agreements and the Guarantee Agreements
+  (other than as noted above with respect to the EIB Guarantee), no assurance can be given that the enforceability of the Master Agreement, the agreements relating thereto and the transactions contemplated thereunder will not be challenged, including under applicable fraudulent transfer laws (described in the following
+  paragraph) and/or by asserting any number of other theories for recovery, including third-party beneficiary rights, or that other litigation will not be commenced against us as a result of the Master Agreement and such related agreements and transactions. We believe that we would have significant defenses to any such
+  challenges and would vigorously defend against any such claims. However, we cannot assure you that any such claims would not be made or, that any such claims would not ultimately be successful.
+Under federal bankruptcy law and comparable provisions of state fraudulent transfer laws (including those applicable in any state insurance insolvency proceeding) Syncora’s commutation and release of our obligations pursuant to the Master Agreement and related agreements would constitute a voidable fraudulent transfer
+  if it was determined that Syncora or any applicable subsidiary thereto, at the time it entered into the Master Agreement or such related agreement:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      intended to hinder, delay or defraud its creditors; or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    received less than “reasonably equivalent value” or “fair value consideration” for such release; and either
+    
+  
+
+
+
+
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      was insolvent or rendered insolvent by reason of such occurrence; or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    was engaged in a business or transaction for which its remaining assets constituted unreasonably small capital; or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    intended to incur, or believed that it would incur, debts beyond its ability to pay such debts as they mature.
+    
+  
+
+
+
+
+Among other regulatory approvals obtained in connection with the Master Agreement, the NYID issued an approval letter to Syncora Guarantee under Section 1505 of the New York Insurance Law and the DID issued an approval letter to Syncora Guarantee Re under Section 5005(a) of the Delaware Insurance Code
+  (effective upon Syncora Guarantee Re’s redomestication to Delaware) (both of which require that the terms of a transaction between an issuer and one or more of its affiliates be fair and equitable) stating, in the case of NYID, that the terms of the Master Agreement and each of the commutations are fair and equitable to
+  Syncora Guarantee and do not adversely affect policyholders of Syncora Guarantee and, in the case of the DID, stating that the terms of the Master Agreement and the commutation of the Syncora Guarantee Re/Syncora Guarantee Quota Share were fair and equitable to Syncora Guarantee. The BMA (the domiciliary regulator
+  of Syncora Guarantee Re) also issued an approval letter approving the Master Agreement and each commutation to which Syncora Guarantee Re is a party, including the Syncora Guarantee Re/Syncora Guarantee Quota Share. There can be no assurance that a court would agree with our, the NYID’s, the DID’s, the BMA’s or
+  Syncora’s conclusions, or as to what law or standard a court would ultimately apply in making any such determination or as to how such court would ultimately rule. Additionally, in the event of any liquidation or rehabilitation or similar proceeding of any insurance subsidiary of Syncora, there can be no assurance that any
+  insurance regulator or regulators responsible for such proceedings, in their capacity as liquidator or rehabilitator, would respect the insurance regulatory approvals obtained in connection with the Master Agreement.
+If any such challenge were successful, we could be required to honor our original obligations under the Reinsurance Agreements and Guarantee Agreements or be subject to other remedies. Any challenge could have a material adverse effect on the market price for our securities and on our business and, if successful,
+  could also have a material adverse effect on our financial condition, results of operations and liquidity.
+37
+
+
+
+We may be unable to purchase reinsurance and, even if we are able to successfully purchase reinsurance, we are subject to the possibility of uncollectability. The impairment of other financial institutions also could adversely affect us.
+We purchase reinsurance for our own account in order to mitigate the volatility that losses impose on our financial condition. Our clients purchase reinsurance from us to cover part of the risk originally written by them. Retrocessional reinsurance involves a reinsurer ceding to another reinsurer, the retrocessionaire, all or
+  part of the reinsurance that the first reinsurer has assumed. Reinsurance, including retrocessional reinsurance, does not legally discharge the ceding company from its liability with respect to its obligations to its insureds or reinsureds. A reinsurer’s or retrocessionaire’s insolvency, inability or refusal to make timely payments
+  under the terms of its agreements with us, therefore, could have a material adverse effect on us because we remain liable to our insureds and reinsureds. At December 31, 2009, we had approximately $4.0 billion of reinsurance recoverables and reinsurance balances receivable, net of reserves for uncollectible recoverables. For
+  further information regarding our reinsurance exposure, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, under Part II, Item 7 of this report.
+From time to time, market conditions may limit or prevent us from obtaining the types and amounts of reinsurance that we consider adequate for our business needs such that we may not be able to obtain reinsurance or retrocessional reinsurance from entities with satisfactory creditworthiness in amounts that we deem
+  desirable or on terms that we deem appropriate or acceptable.
+We also have exposure to counterparties in various industries, including banks, hedge funds and other investment vehicles, and in transactions in addition to reinsurance agreements, including derivative transactions. Many of these transactions expose us to credit risk in the event our counterparty fails to perform its
+  obligations. Even if we are entitled to collateral when a counterparty defaults, such collateral may be illiquid or proceeds from such collateral when liquidated may not be sufficient to recover the full amount of the obligation. We also have exposure to financial institutions in the form of secured and unsecured debt
+  instruments and equity securities.
+Operational risks, including human or systems failures, are inherent in our business.
+Operational risk and losses can result from, among other things, fraud, errors, failure to document transactions properly or to obtain proper internal authorization, failure to comply with regulatory requirements, information technology failures, or external events. Areas of operational risk can be heightened in discontinued
+  or exited business as a result of reduced overall resource allocation and the loss of relevant knowledge and expertise by departing management. The Company has exited a number of businesses in recent years potentially increasing operational risk in such businesses.
+We believe that our modeling, underwriting and information technology and application systems are critical to our business. Moreover, our information technology and application systems have been an important part of our underwriting process and our ability to compete successfully. We have also licensed certain systems
+  and data from third parties. We cannot be certain that we will have access to these, or comparable, service providers, or that our information technology or application systems will continue to operate as intended. A major defect or failure in our internal controls or information technology and application systems could result
+  in management distraction, harm to our reputation or increased expense.
+In particular, we have outsourced the day-to-day management, custody and record-keeping of our investment portfolio to third-party managers and custodians that we believe to be reputable. A major defect in those investment managers’ investment management strategy, information and technology systems, internal
+  controls or decision-making could result in management distraction and/or significant financial loss. A major defect in custodian internal controls or information and technology systems could result in management distraction or significant financial loss.
+We believe appropriate controls and mitigation procedures are in place to prevent significant risk of defect in our internal controls, information technology, application systems, investment management and custody and record-keeping, but internal controls provide only reasonable, not absolute, assurance as to the absence
+  of errors or irregularities and any ineffectiveness of such controls and procedures could have a material adverse effect on our business.
+38
+
+
+
+Since we depend on a few brokers for a large portion of our revenues, loss of business provided by any one of them could adversely affect us.
+We market our insurance and reinsurance products worldwide primarily through insurance and reinsurance brokers. Marsh & McLennan Companies and AON Corporation and their respective subsidiaries each provided approximately 18% and 20% respectively, of our gross written premiums for property and casualty
+  operations for the year ended December 31, 2009. Loss of all or a substantial portion of the business provided by one or more of these brokers could have a material adverse effect on our business.
+Our reliance on brokers subjects us to credit risk.
+In certain jurisdictions, when an insured or ceding insurer pays premiums for policies of insurance or contracts of reinsurance to brokers for further payment to us, such premiums might be considered to have been paid and the insured or ceding insurer will no longer be liable to us for such amounts, whether or not we
+  have actually received the premiums from the broker. In addition, in accordance with industry practice, we generally pay amounts owed on claims under our reinsurance contracts to brokers, and these brokers, in turn, pay these amounts over to the clients that have purchased reinsurance from us. Although the law is unsettled
+  and depends upon the facts and circumstances of the particular case, in some jurisdictions, if a broker fails to make such a claims payment to the insured or ceding insurer, we might remain liable to the insured or ceding insurer for that non-payment. Consequently, we assume a degree of credit risk associated with the brokers
+  with whom we transact business. Due to the unsettled and fact-specific nature of the law governing these types of scenarios and our lack of historical experience with such risks, we are unable to quantify our exposure to this risk.
+Risks Related to the Insurance and Reinsurance Industries
+The insurance and reinsurance industries are historically cyclical and we may experience periods with excess underwriting capacity and unfavorable premium rates.
+The insurance and reinsurance industries have historically been cyclical, characterized by periods of intense price competition due to excess underwriting capacity as well as periods when shortages of capacity permitted favorable premium levels. An increase in premium levels is often followed by an increasing supply of
+  insurance and reinsurance capacity, either by capital provided by new entrants or by the commitment of additional capital by existing insurers or reinsurers, which may cause prices to decrease. Either of these factors could lead to a significant reduction in premium rates, less favorable policy terms and conditions and fewer
+  submissions for our underwriting services. In addition to these considerations, changes in the frequency and severity of losses suffered by insureds and insurers may affect the cycles of the insurance and reinsurance industries significantly.
+Competition in the insurance and reinsurance industries could reduce our operating margins.
+The insurance and reinsurance industries are highly competitive. We compete on an international and regional basis with major U.S., Bermudian, European and other international insurers and reinsurers and with underwriting syndicates, some of which have greater financial and management resources and higher ratings
+  than we do. We also compete with new companies that continue to be formed to enter the insurance and reinsurance markets. In addition, capital market participants have created alternative products that are intended to compete with reinsurance products. Increased competition could result in fewer submissions, lower premium
+  rates and less favorable policy terms and conditions, which could reduce our margins.
+Unanticipated losses from terrorism and uncertainty surrounding the future of the TRIPRA could have a material adverse effect on our financial condition, results of operations and cash flows.
+In response to the tightening of supply in certain insurance and reinsurance markets resulting from, among other things, the September 11 event, the TRIP was created upon the enactment of the TRIA of 2002 to ensure the availability of commercial insurance coverage for certain terrorist acts in the U.S. This law
+  established a federal assistance program through the end of 2005 to help the commercial property and casualty insurance industry cover claims related to future terrorism-related losses and required that coverage for terrorist acts be offered by insurers. TRIA was originally scheduled to expire at the end of 2005, but was
+  extended in December 2005 for an additional two years. On December 26, 2007, President George W. 
+39
+
+
+
+Bush approved the TRIPRA, extending TRIP through December 31, 2014 and also eliminating the distinction between foreign and domestic acts of terrorism.
+TRIA voided in force terrorism exclusions as of November 26, 2002 for certified terrorism on all TRIA specified property and casualty business. TRIA required covered insurers to make coverage available for certified acts of terrorism on all new and renewal policies issued after TRIA was enacted. TRIA along with
+  further extensions to TRIP, as noted above, allows us to assess a premium charge for terrorism coverage and, if the policyholder declines the coverage or fails to pay the buy-back premium, certified acts of terrorism may then be excluded from the policy, subject, however, to state specific requirements. Terrorism coverage
+  cannot be excluded from workers’ compensation policies. Subject to a premium-based deductible and provided that we have otherwise complied with all the requirements as specified under TRIPRA, we are eligible for reimbursement by the Federal Government for up to 85% of our covered terrorism-related losses arising from
+  a certified terrorist attack. Such payment by the government will, in effect, provide reinsurance protection on a quota share basis. The maximum liability during a program year, including both the Federal Government’s and insurers’ shares, is capped on an aggregated basis at $100 billion. While regulations have been
+  promulgated by the Department of the Treasury (“Treasury”) requiring that Treasury advise participating insurers, such as the Company, in advance of reaching the $100 billion aggregate limit that such aggregate limit could be reached during the program year, there is a risk that the Company will not be given adequate notice
+  of the potential exhaustion of that aggregate limit. Accordingly, the Company could overpay with regard to such losses, and it is unlikely Treasury would reimburse the Company for such losses; moreover, it is unclear whether the Company, in the event of an overpayment, would be able to recover the amount of any such
+  overpayment.
+We believe that TRIP and the related legislation has been an effective mechanism to assist policyholders and industry participants with the extreme contingent losses that might be caused by acts of terrorism. Nevertheless, we cannot assure you that TRIPRA will be extended beyond 2014, and its expiration or a significant
+  change in terms could have an adverse effect on us, our clients or the insurance industry.
+Potential government intervention in our industry as a result of recent events and instability in the marketplace for insurance products could hinder our flexibility and negatively affect the business opportunities that may be available to us in the market.
+Government intervention and the possibility of future government intervention have created uncertainty in the insurance and reinsurance markets. Government regulators are generally concerned with the protection of policyholders to the exclusion of other constituencies, including shareholders of insurers and reinsurers.
+  While we cannot predict the exact nature, timing or scope of possible governmental initiatives, such proposals could adversely affect our business by, among other things:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      providing insurance and reinsurance capacity in markets and to consumers that we target, e.g., the creation or expansion of a state or federal catastrophe funds such as those in Florida;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    requiring our participation in industry pools and guarantee associations;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    expanding the scope of coverage under existing policies;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    regulating the terms of insurance and reinsurance policies; or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    disproportionately benefiting the companies of one country over those of another.
+    
+  
+
+
+
+
+Government intervention has recently taken the form of financial support of certain companies in our industry. Governmental support of individual competitors can lead to increased pricing pressure, a distortion of market dynamics, and ultimately prolonging the current period of soft market conditions. The insurance
+  industry is also affected by political, judicial and legal developments that may create new and expanded theories of liability, which may result in unexpected claims frequency and severity and delays or cancellations of products and services by insureds, insurers and reinsurers which could adversely affect our business.
+For further information regarding government regulation and/or intervention in response to the financial and credit crises, see risk factor entitled “There can be no assurance as to the effect that governmental actions will have on such markets generally or on us in particular,” above.
+40
+
+
+
+Consolidation in the insurance industry could adversely impact us.
+Insurance industry participants may seek to consolidate through mergers and acquisitions. Continued consolidation within the insurance industry will further enhance the already competitive underwriting environment as we would likely experience more robust competition from larger, better capitalized competitors. These
+  consolidated entities may use their enhanced market power and broader capital base to negotiate price reductions for our products and services, and reduce their use of reinsurance, and as such, we may experience rate declines and possibly write less business.
+Risks Related to Regulation
+The regulatory regimes under which we operate, and potential changes thereto, could have a material adverse effect on our business.
+Our insurance and reinsurance subsidiaries operate in 24 countries around the world as well as in all 50 U.S. states. Our operations in each of these jurisdictions are subject to varying degrees of regulation and supervision. The laws and regulations of the jurisdictions in which our insurance and reinsurance subsidiaries are
+  domiciled require, among other things, that these subsidiaries maintain minimum levels of statutory capital, surplus and liquidity, meet solvency standards, submit to periodic examinations of their financial condition and restrict payments of dividends and reductions of capital. Statutes, regulations and policies that our insurance
+  and reinsurance subsidiaries are subject to may also restrict the ability of these subsidiaries to write insurance and reinsurance policies, make certain investments and distribute funds.
+In recent years, the U.S. insurance regulatory framework has come under increased federal scrutiny. In addition, some state legislatures have considered or enacted laws that may alter or increase state regulation of insurance and reinsurance companies and holding companies. Moreover, the National Association of
+  Insurance Commissioners, which is the organization of insurance regulators from the 50 U.S. states, the District of Columbia and the four U.S. territories, as well as state insurance regulators regularly reexamine existing laws and regulations.
+The European Commission is in the process of implementing changes to the prudential regulation of European insurers with a timeline to achieve full compliance by 2012. There remains significant uncertainty as to the impact of these efforts however such impacts could include the requirement for additional capital or
+  security to be provided in certain jurisdictions which may impact profitability.
+We may not be able to comply fully with, or obtain desired exemptions from, revised statutes, regulations and policies that govern the conduct of our business. Failure to comply with, or to obtain desired authorizations and/or exemptions under, any applicable laws could result in restrictions on our ability to do business
+  or undertake activities that are regulated in one or more of the jurisdictions in which we operate and could subject us to fines and other sanctions. In addition, changes in the laws or regulations to which our insurance and reinsurance subsidiaries are subject, or in the interpretations thereof by enforcement or regulatory
+  agencies, could have a material adverse effect on our business. In addition, if the proposed redomestication to Ireland discussed below is effected, we will be an Irish Company and will be required to comply with numerous Irish and European Union laws and regulations as from time to time in effect, which may have a
+  material adverse effect on XL’s financial condition and results of operations.
+If our Bermuda operating subsidiaries become subject to insurance statutes and regulations in jurisdictions other than Bermuda or if there is a change in Bermuda law or regulations or the application of Bermuda law or regulations, there could be a significant and negative impact on our business.
+XL Insurance (Bermuda) Ltd and XL Re Ltd, two of our wholly-owned operating subsidiaries, are registered Bermuda Class 4 insurers. As such, they are subject to regulation and supervision in Bermuda. Bermuda insurance statutes and the regulations and policies of the Bermuda Monetary Authority require XL Insurance
+  (Bermuda) Ltd and XL Re Ltd to, among other things:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      maintain a minimum level of capital and surplus;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    maintain solvency margins and liquidity ratios;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    restrict dividends and distributions;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    obtain prior approval regarding the ownership and transfer of shares;
+    
+  
+
+
+41
+
+
+
+
+
+
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    maintain a principal office and appoint and maintain a principal representative in Bermuda;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    file an annual statutory financial return;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    file annual audited financial statements in accordance with applicable GAAP or International Financial Reporting Standards;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    file annual Bermuda Solvency Capital Requirement (“BSCR”), a risk-based capital adequacy model, and capital and solvency return;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    allow for the performance of certain periodic examinations of XL Insurance (Bermuda) Ltd and XL Re Ltd and their respective financial conditions.
+    
+  
+
+
+
+These statutes and regulations may restrict our ability to write insurance and reinsurance policies, distribute funds and pursue our investment strategy.
+In 2008, the Bermuda Monetary Authority (“BMA”) introduced new risk-based capital standards for insurance companies as a tool to assist the BMA both in measuring risk and in determining appropriate levels of capitalization. The amended Bermuda insurance statutes or regulations pursuant to the new risk-based
+  supervisory approach required additional filings by insurers to be made to the BMA for the year ended December 31, 2009. The required statutory capital and surplus of our Bermuda-based operating subsidiaries increased under the BSCR. While our Bermuda-based operating subsidiaries currently have excess capital and
+  surplus under these new requirements, there can be no assurance that such requirement or similar regulations, in their current form or as may be amended in the future, will not have a material adverse effect on our business, financial condition or results of operations.
+The process of obtaining licenses is very time consuming and costly and XL Insurance (Bermuda) Ltd and XL Re Ltd may not be able to become licensed in jurisdictions other than Bermuda should we choose to do so. The modification of the conduct of our business that would result if we were required or chose to
+  become licensed in certain jurisdictions could significantly and negatively affect our financial condition and results of operations. In addition, our inability to comply with insurance statutes and regulations could significantly and adversely affect our financial condition and results of operations by limiting our ability to conduct
+  business as well as subjecting us to penalties and fines.
+Because XL Insurance (Bermuda) Ltd and XL Re Ltd are Bermuda companies, they are subject to changes in Bermuda law and regulation that may have an adverse impact on our operations, including through the imposition of tax liability or increased regulatory supervision. In addition, XL Insurance (Bermuda) Ltd and
+  XL Re Ltd will be exposed to any changes in the political environment in Bermuda, including, without limitation, changes as a result of the independence issues which have been discussed in Bermuda in recent years. While we cannot predict the future impact on our operations of changes in the laws and regulation to which
+  we are or may become subject, any such changes could have a material adverse effect on our business, financial condition and results of operations.
+Changes in current accounting practices and future pronouncements may materially impact our reported financial results.
+Unanticipated developments in accounting practices may require us to incur considerable additional expenses to comply with such developments, particularly if we are required to prepare information relating to prior periods for comparative purposes or to apply the new requirements retroactively. The impact of changes in
+  current accounting practices and future pronouncements cannot be predicted but may affect the calculation of net income, net equity and other relevant financial statement line items and the timing of when impairments and other charges are tested or taken. In particular, recent guidance and ongoing projects put in place by
+  standard setters globally have indicated a possible move away from the current insurance accounting models toward more “fair value” based models which could introduce significant volatility in the earnings of insurance industry participants.
+Risks Related to Taxation
+We and our non-U.S. insurance subsidiaries may become subject to U.S. tax, which may have a material adverse effect on our results of operations and your investment.
+We take the position that neither we nor any of our non-U.S. insurance subsidiaries are engaged in a U.S. trade or business through a U.S. permanent establishment. Accordingly, we take the position that none 
+42
+
+
+
+of our non-U.S. insurance subsidiaries should be subject to U.S. tax (other than U.S. excise tax on insurance and reinsurance premium income attributable to insuring or reinsuring U.S. risks and U.S. withholding tax on some types of U.S. source investment income). However, because there is considerable uncertainty as to the
+  activities that constitute being engaged in a trade or business within the United States, we cannot be certain that the U.S. Internal Revenue Service (the “IRS”) will not contend successfully that we or any of our non-U.S. insurance subsidiaries are engaged in a trade or business in the United States. If we or any of our non-
+  U.S. insurance subsidiaries were considered to be engaged in a trade or business in the United States, any such entity could be subject to U.S. corporate income and additional branch profits taxes on the portion of its earnings effectively connected to such U.S. business, in which case our financial condition and results of
+  operations could be materially adversely affected.
+Changes in U.S. tax law might adversely affect an investment in our shares.
+The tax treatment of non-U.S. companies and their U.S. and non-U.S. insurance subsidiaries has been the subject of Congressional discussion and legislative proposals. For example, one legislative proposal would impose additional limits on the deductibility of interest by foreign-owned U.S. corporations. Another
+  legislative proposal would modify the standards which indicate when a non-U.S. corporation might be treated as a U.S. corporation for U.S. federal income tax purposes if it were considered to be primarily managed and controlled in the U.S. In addition, in 2009, legislation was proposed in the U.S. that would severely restrict
+  the ability of a company to utilize affiliate reinsurance to manage its U.S. risks and capital position. In general, the legislation as proposed in the House of Representatives (a virtually identical Senate Finance Draft release was issued in 2008), would permanently disallow the deduction for premiums ceded to affiliates, to the
+  extent the reinsurance exceeded industry aggregate levels of unrelated party reinsurance, calculated on a statutory line of business basis. The U.S. 2011 Fiscal Year Budget, issued on February 1, 2010, includes a provision that would disallow tax deductions for affiliate reinsurance premiums paid (net of ceding commissions) in
+  excess of 50% of written premium, determined on a statutory line of business basis. If any of these proposals is enacted, the associated impact could have an adverse impact on us or our shareholders. It is possible that other legislative proposals could emerge in the future that could also have an adverse impact on us or our
+  shareholders. We cannot assure you that future legislative action will not increase the amount of U.S. tax payable by us. If this happens, our financial condition and results of operations could be materially adversely affected.
+Additionally, the U.S. federal income tax laws and interpretations, including those regarding whether a company is engaged in a trade or business (or has a permanent establishment) within the United States or is a PFIC, or whether U.S. holders would be required to include in their gross income “subpart F income” or the
+  RPII of a CFC, are subject to change, possibly on a retroactive basis. There are currently no regulations regarding the application of the PFIC rules to insurance companies and the regulations regarding RPII are still in proposed form. New regulations or pronouncements interpreting or clarifying such rules may be forthcoming.
+  We cannot be certain if, when or in what form such regulations or pronouncements may be provided and whether such guidance will have a retroactive effect.
+There is U.S. income tax risk associated with reinsurance between U.S. insurance companies and their Bermuda affiliates.
+As discussed above, Congress has periodically considered legislation intended to eliminate certain perceived tax advantages of non-U.S. insurance companies and U.S. insurance companies with non-U.S. affiliates, including perceived tax benefits resulting principally from reinsurance between or among U.S. insurance
+  companies and their non-U.S. affiliates. In this regard, section 845 of the Code was amended in 2004 to permit the IRS to reallocate, recharacterize or adjust items of income, deduction or certain other items related to a reinsurance agreement between related parties to reflect the proper “amount, source or character” for each
+  item (in contrast to prior law, which only covered “source and character”). If the IRS were to successfully challenge our reinsurance arrangements under section 845, our financial condition and results of operations could be materially adversely affected and the price of our ordinary shares could be adversely affected.
+43
+
+
+
+The Organisation for Economic Co-operation and Development is considering measures that might change the manner in which we are taxed.
+On July 17, 2008, the Organisation for Economic Co-operation and Development (the “OECD”) issued the final version of its “Report on the Attribution of Profits to Permanent Establishments” (the “Report”). The Report is the final report on the OECD’s project to establish a broad consensus regarding the interpretation
+  and practical application of Article 7 of the OECD Model Tax Convention on Income and on Capital (“Article 7”). Article 7 sets forth international tax principles for attributing profits to a permanent establishment and forms the basis of an extensive network of bilateral income tax treaties between OECD member countries
+  and between many OECD member and non-member countries. Part IV of the Report addresses the attribution of profits to a permanent establishment of an enterprise that conducts insurance activities.
+The OECD has undertaken to implement the conclusions of the Report in two phases. First, to provide improved certainty for the interpretation of existing treaties based on the current text of Article 7, the OECD has revised the commentary to the current version of Article 7 to take into account the conclusions of the
+  Report that do not conflict with the existing interpretation of Article 7 reflected in the previous commentary. Second, to reflect the full conclusions of the Report, the OECD intends to issue a new version of Article 7 and related commentary to be used in the negotiation of new treaties and amendments to existing treaties. A
+  discussion draft of the new Article 7 and related commentary was released on July 7, 2008. A revised draft was released on November 24, 2009 and the final version of this new Article 7 and related commentary is expected to be released at a later date. The final version of new Article 7 and related commentary might
+  include provisions that could change the manner in which we are taxed.
+If an investor acquires 10% or more of our ordinary shares, it may be subject to taxation under the “controlled foreign corporation” (the “CFC”) rules.
+Under certain circumstances, a U.S. person who owns 10% or more of the voting power of a foreign corporation that is a CFC (a foreign corporation in which 10% U.S. shareholders own more than 50% of the voting power of the foreign corporation or more than 25% of a foreign insurance company) for an
+  uninterrupted period of 30 days or more during a taxable year must include in gross income for U.S. federal income tax purposes such “10% U.S. Shareholder’s” pro rata share of the CFC’s “subpart F income,” even if the subpart F income is not distributed to such 10% U.S. Shareholder, if such 10% U.S. Shareholder owns
+  (directly or indirectly through foreign entities) any shares of the foreign corporation on the last day of the corporation’s taxable year. “Subpart F income” of a foreign insurance corporation typically includes foreign personal holding company income (such as interest, dividends and other types of passive income), as well as
+  insurance and reinsurance income (including underwriting and investment income) attributable to the insurance of risks situated outside the CFC’s country of incorporation. Ownership of our equity security units by a U.S. person may cause such person to be treated for U.S. federal income tax purposes as the owner of our
+  ordinary shares prior to the purchase contract settlement date. For purposes of interpreting the voting restrictions in our Articles of Association, we intend to treat the ordinary shares issuable upon settlement of a purchase contract underlying a unit as currently owned by the holder of that unit.
+We believe that because of the dispersion of our share ownership, provisions in our organizational documents that limit voting power and other factors, no U.S. person or U.S. partnership that acquires our shares directly or indirectly through one or more foreign entities should be required to include its “subpart F income”
+  in income under the CFC rules of the Internal Revenue Code of 1986, as amended (the “Code”). It is possible, however, that the IRS could challenge the effectiveness of these provisions and that a court could sustain such a challenge, in which case an investor’s investment could be materially adversely affected, if the
+  investor is considered to own 10% or more of our shares.
+U.S. Persons who hold shares will be subject to adverse tax consequences if we are considered to be a Passive Foreign Investment Company (a “PFIC”) for U.S. federal income tax purposes.
+If we are considered a PFIC for U.S. federal income tax purposes, a U.S. person who owns any of our shares will be subject to adverse tax consequences, including a greater tax liability than might otherwise apply and tax on amounts in advance of when tax would otherwise be imposed, in which case an investor’s
+  investment could be materially adversely affected. In addition, if we were considered a PFIC, upon the 
+44
+
+
+
+death of any U.S. individual owning shares, such individual’s heirs or estate would not be entitled to a “step-up” in the basis of the shares which might otherwise be available under U.S. federal income tax laws. We believe that we are not, have not been, and currently do not expect to become, a PFIC for U.S. federal income
+  tax purposes. We cannot provide absolute assurance, however, that we will not be deemed a PFIC by the IRS. If we were considered a PFIC, it could have material adverse tax consequences for an investor that is subject to U.S. federal income taxation. There are currently no regulations regarding the application of the PFIC
+  provisions to an insurance company. New regulations or pronouncements interpreting or clarifying these rules may be forthcoming. We cannot predict what impact, if any, such guidance would have on an investor that is subject to U.S. federal income taxation.
+There are U.S. income tax risks associated with the related person insurance income of our non-U.S. insurance subsidiaries.
+If (i) the related person insurance income, which we refer to as “RPII,” of any one of our non-U.S. insurance subsidiaries were to equal or exceed 20% of that subsidiary’s gross insurance income in any taxable year and (ii) U.S. persons were treated as owning 25% or more of the subsidiary’s stock (by vote or value), a
+  U.S. person who owns any ordinary shares, directly or indirectly, on the last day of such taxable year on which the 25% threshold is met would be required to include in its income for U.S. federal income tax purposes that person’s ratable share of that subsidiary’s RPII for the taxable year, determined as if that RPII were
+  distributed proportionately only to U.S. holders at that date, regardless of whether that income is distributed. The amount of RPII earned by a subsidiary (generally premium and related investment income from the direct or indirect insurance or reinsurance of any direct or indirect U.S. holder of shares of that subsidiary or any
+  person related to that holder) would depend on a number of factors, including the identity of persons directly or indirectly insured or reinsured by that subsidiary. Although we do not believe that the 20% threshold will be met in respect of any of our non-U.S. insurance subsidiaries, some of the factors that may affect the
+  result in any period may be beyond our control. Consequently, we cannot provide absolute assurance that we will not exceed the RPII threshold in any taxable year.
+The RPII rules provide that if a holder who is a U.S. person disposes of shares in a non-U.S. insurance corporation that had RPII (even if the 20% gross income threshold was not met) and met the 25% ownership threshold at any time during the five-year period ending on the date of disposition, and the holder owned
+  any stock at such time, any gain from the disposition will generally be treated as a dividend to the extent of the holder’s share (taking into account certain rules for determining a U.S. holder’s share of RPII) of the corporation’s undistributed earnings and profits that were accumulated during the period that the holder owned
+  the shares (possibly whether or not those earnings and profits are attributable to RPII). In addition, such a shareholder will be required to comply with specified reporting requirements, regardless of the amount of shares owned. We believe that these rules should not apply to dispositions of our ordinary shares because XL
+  Capital is not itself directly engaged in the insurance business. We cannot provide absolute assurance, however, that the IRS will not successfully assert that these rules apply to dispositions of our ordinary shares.
+We and our Bermuda insurance subsidiaries may become subject to taxes in Bermuda after March 28, 2016, which may have a material adverse effect on our financial condition, results of operations and your investment.
+We and our Bermuda insurance subsidiaries have received from the Ministry of Finance in Bermuda exemptions from any Bermuda taxes that might be imposed on profits, income or any capital asset, gain or appreciation until March 28, 2016. The exemptions are subject to the proviso that they are not construed so as to
+  prevent the application of any tax or duty to such persons as are ordinarily resident in Bermuda (we and our Bermuda insurance subsidiaries are not so currently designated) and to prevent the application of any tax payable in accordance with the provisions of The Land Tax Act 1967 or otherwise payable in relation to the
+  land leased to us and our Bermuda insurance subsidiaries. We, as a permit company under The Companies Act 1981 of Bermuda, have received similar exemptions, which are effective until March 28, 2016. Our Bermuda insurance subsidiaries are required to pay certain annual Bermuda government fees and certain business
+  fees as an insurer under The Insurance Act 1978 of Bermuda. Currently there is no Bermuda withholding tax on dividends paid by our Bermuda insurance subsidiaries to us. Given the limited duration of the Ministry of Finance’s assurance, we cannot be certain that we or our Bermuda insurance 
+45
+
+
+
+subsidiaries will not be subject to any Bermuda tax after March 28, 2016. Such taxation could have a material adverse effect on our financial condition, results of operations and the price of our ordinary shares.
+We may become subject to taxes in the Cayman Islands after June 2, 2018, which may have a material adverse effect on our results of operations and your investment.
+Under current Cayman Islands law, we are not obligated to pay any taxes in the Cayman Islands on our income or gains. We have received an undertaking from the Governor-in-Council of the Cayman Islands pursuant to the provisions of the Tax Concessions Law, as amended, that until June 2, 2018, (i) no subsequently
+  enacted law imposing any tax on profits, income, gains or appreciation shall apply to us and (ii) no such tax and no tax in the nature of an estate duty or an inheritance tax shall be payable on any of our ordinary shares, debentures or other obligations. Under current law, no tax will be payable on the transfer or other
+  disposition of our ordinary shares. The Cayman Islands currently impose stamp duties on certain categories of documents; however, our current operations do not involve the payment of stamp duties in any material amount. The Cayman Islands also currently impose an annual corporate fee upon all exempted companies
+  incorporated in the Cayman Islands. Given the limited duration of the undertaking from the Governor-in-Council of the Cayman Islands, we cannot be certain that we will not be subject to any Cayman Islands tax after June 2, 2018. Such taxation could have a material adverse effect on our financial condition, results of
+  operations and your investment. As outlined in the Redomestication Proxy Statement it is proposed that XL Capital Ltd will become tax resident in Ireland with effect from July 1, 2010.
+Risks Related to our Ordinary Shares
+Provisions in our Articles of Association may reduce the voting rights of our ordinary shares.
+Our Articles of Association generally provide that shareholders have one vote for each ordinary share held by them and are entitled to vote, on a non-cumulative basis, at all meetings of shareholders. However, the voting power that may be exercised by certain persons or groups may not equal or exceed 10% or more of
+  the voting power conferred by our shares.
+In particular, our Articles of Association provide that if, and for so long as, the votes conferred by the Controlled Shares (as defined below) of any person constitute 10% or more of the votes conferred by all our issued shares, the voting rights with respect to the Controlled Shares of such person shall be limited, in the
+  aggregate, to a voting power equal to approximately (but slightly less than) 10%, pursuant to a formula set forth in the our Articles of Association. “Controlled Shares” of a person (as defined in our Articles of Association) include (1) all of our shares owned directly, indirectly or constructively by that person (within the
+  meaning of Section 958 of the U.S. Internal Revenue Code of 1986, as amended), and (2) all of our shares owned directly, indirectly or constructively by that person or any “group” of which that person is a part, within the meaning of Section 13(d)(3) of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange
+  Act”). If the redomestication is completed, the Articles of Association of XL- Ireland will contain the same provision.
+Provisions in our Articles of Association may restrict the ownership and transfer of our ordinary shares.
+Our Articles of Association provide that our Board of Directors shall decline to register a transfer of shares if it appears to our Board of Directors, whether before or after such transfer, that the effect of such transfer would be to increase the number of Controlled Shares of any person to 10% or more of any class of our
+  voting shares, of our total issued shares, or of the total voting power of our total issued shares. If the redomestication transaction is completed, the Articles of Association of XL- Ireland will contain the same provision.
+Certain provisions in our charter documents could, among other things, impede an attempt to replace our directors or to effect a change of control, which could diminish the value of our ordinary shares.
+Our Articles of Association contain provisions that may make it more difficult for shareholders to replace directors and could delay or prevent a change of control that a shareholder may consider favorable. These provisions include a staggered board of directors, limitations on the ability of shareholders to remove
+  directors, limitations on voting rights and certain transfer restrictions on our ordinary shares. See “Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities,” 
+46
+
+
+
+under Part II, Item 5 of this report. In addition, insurance regulations in certain jurisdictions may also delay or prevent a change of control or limit the ability of a shareholder to acquire in excess of specified amounts of our ordinary shares. For additional information regarding impediments to a change of control of the
+  Company as a result of the proposed redomestication, see the risk factor entitled “After the Redomestication, attempted takeovers of XL will be subject to the Irish Takeover Rules and subject to review by the Irish Takeover Panel” below.
+It may be difficult to enforce judgments against XL Capital Ltd or its directors and executive officers.
+XL Capital Ltd is incorporated pursuant to the laws of the Cayman Islands and our principal executive offices are in Bermuda. Similarly, following the proposed redomestication, XL-Ireland will be incorporated pursuant to the laws of Ireland. In addition, certain of our directors and officers reside outside the United States
+  and a substantial portion of our assets and the assets of such directors and officers are located outside the United States. As such, it may be difficult or impossible to effect service of process within the United States upon those persons or to recover on judgments of U.S. courts against us or our directors and officers,
+  including judgments predicated upon civil liability provisions of U.S. federal securities laws. We have been advised by our Cayman counsel that there is doubt as to whether the courts of the Cayman Islands would enforce:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      judgments of U.S. courts based upon the civil liability provisions of U.S. federal securities laws obtained in actions against XL Capital Ltd or its directors and officers who reside outside the United States; or
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    original actions brought in the Cayman Islands against these persons or XL Capital Ltd predicated solely upon U.S. federal securities laws.
+    
+  
+
+
+
+
+We have also been advised that there is no treaty in effect between the United States and the Cayman Islands providing for such enforcement and there are grounds upon which Cayman Islands courts may not enforce judgments of United States courts. Some remedies available under the laws of U.S. jurisdictions,
+  including some remedies available under U.S. federal securities laws, may not be allowed in Cayman Islands courts as contrary to public policy.
+In connection with the proposed redomestication, we have been advised that there is no treaty between Ireland and the United States providing for the reciprocal enforcement of foreign judgments. The following requirements must be met before the foreign judgment will be deemed to be enforceable in Ireland:
+
+  
+     
+
+  
+  
+    
+      •
+     
+     
+     
+    
+      The judgment must be for a definite sum;
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    The judgment must be final and conclusive; and
+  
+  
+     
+
+  
+  
+    
+    •
+     
+    
+     
+     
+    
+    The judgment must be provided by a court of competent jurisdiction.
+    
+  
+
+
+
+
+An Irish court will also exercise its right to refuse judgment if the foreign judgment was obtained by fraud, if the judgment violated Irish public policy, if the judgment is in breach of natural justice or if it is irreconcilable with an earlier foreign judgment.
+U.S. persons who own our ordinary shares may have more difficulty protecting their interests than U.S. persons who are shareholders of a U.S. corporation.
+The law applicable to companies established in the Cayman Islands, under which we are governed, differs in certain material respects from laws generally applicable to U.S. corporations and their shareholders. These differences include the manner in which directors must disclose transactions in which they have an interest
+  and their ability to vote notwithstanding a conflict of interest, the rights of shareholders to bring class action and derivative lawsuits and the scope of indemnification available to directors and officers. In addition, the law applicable to companies established in Ireland, under which we have proposed to be governed pursuant to
+  the redomestication, also differs in certain material respects from laws currently applicable to us as a Cayman Islands corporation. For additional information, see “Risk Factors Related to the Redomestication” below.
+Risks Related to the Redomestication
+For purposes of the following risk factors, “Redomestication” refers collectively to the proposed redomestication transaction. As described in greater detail in the Redomestication Proxy Statement, 
+47
+
+
+
+whereby, if the necessary approval of our ordinary shareholders and the Grand Court of the Cayman Islands have been obtained and the other conditions have been satisfied, then the ordinary shares of XL-Cayman will be cancelled and shareholders will receive, on a one-for-one basis, new ordinary shares of XL-
+  Ireland (the “Ordinary Share Exchange”), and, if the requisite approvals of the Series C and Series E preference shareholders and the Cayman Court have been obtained and the other applicable conditions satisfied, the cancellation of the preference shares of XL-Cayman in exchange for new preference shares of XL-
+  Ireland on a one-for-one basis. “Effective Time” refers to the date on which the Ordinary Share Exchange becomes effective, which is currently expected to be July 1, 2010, but could be later.
+Your rights as an ordinary shareholder will change as a result of the Ordinary Share Exchange due to differences between Irish law and Cayman Islands law.
+Because of differences between Irish law and Cayman Islands law, we will become subject to new legal requirements if the Ordinary Share Exchange is consummated. In addition, your rights as an ordinary shareholder will change if the Ordinary Share Exchange is consummated.
+Among other differences, under Irish law there will be additional limitations on the payment of dividends and the repurchase of shares, the authority of the Board to issue new shares must be approved by the ordinary shareholders at least every five years, and certain shareholder resolutions will require the affirmative vote
+  of a higher or lower percentage of the ordinary shares voting. We discuss these and other differences in detail in the Redomestication Proxy Statement under the headings “Description of XL Group plc Share Capital” and “Comparison of Rights of Shareholders and Powers of the Board of Directors.”
+Legislative or regulatory action could materially and adversely affect us after the Redomestication or eliminate or reduce some of the anticipated benefits of the Redomestication.
+Our tax position could be adversely impacted by changes in tax laws, tax treaties or tax regulations or the interpretation or enforcement thereof by the tax authorities in Ireland, the United States and other jurisdictions following the Transaction, and such changes may be more likely or become more likely in view of
+  recent economic trends in such jurisdictions, particularly if such trends continue. For example, Ireland has suffered from the consequences of worldwide adverse economic conditions and the credit ratings on its debt have been downgraded. Such changes could cause a material and adverse change in our worldwide effective tax
+  rate and we may have to take further action, at potentially significant expense, to seek to mitigate the effect of such changes. Any future amendments to the current income tax treaties between Ireland and other jurisdictions, including the United States, could subject us to increased taxation and/or potentially significant
+  expense. We cannot assure you that the Transaction will eliminate the risk that these changes, if made, will apply to us.
+The Transaction may not allow us to maintain a competitive worldwide effective corporate tax rate.
+We believe the Transaction should permit us to maintain a competitive worldwide effective tax rate. However, we cannot provide any assurance as to what our worldwide effective tax rate will be after the Transaction because of, among other things, uncertainty regarding the amount of business activities in any particular
+  jurisdiction in the future and the tax laws of such jurisdictions. Our actual worldwide effective tax rate may vary from our expectation and that variation may be material.
+If the Redomestication becomes effective but our ordinary shareholders do not approve the Distributable Reserves Proposal, or if the Irish High Court does not approve the creation of distributable reserves in XL-Ireland, XL-Ireland will not be able to pay dividends or redeem or buy back shares following the
+  Redomestication unless and until we generate earnings after the Effective Time, and only to the extent of such earnings.
+Under Irish law, dividends must be paid and share redemptions and buy backs generally must be funded out of “distributable reserves,” which XL-Ireland will not have immediately following the Effective Time. If the Ordinary Share Exchange is approved, the XL-Cayman ordinary shareholders will also be asked at the
+  extraordinary general meeting to approve the creation of distributable reserves in XL-Ireland (the “Distributable Reserves Proposal”). Creation of distributable reserves in XL-Ireland is being sought in connection with the Redomestication so that we would continue to be able to pay dividends and redeem and buy back shares,
+  before we generate sufficient post-Redomestication earnings as would otherwise be necessary under Irish law.
+48
+
+
+
+If our ordinary shareholders approve such proposal and the Ordinary Share Exchange is consummated, we will seek to obtain the approval of the Irish High Court, as required for the creation of distributable reserves through a reduction of XL-Ireland’s share premium account. Although we are not aware of any reason
+  why the Irish High Court would not approve the creation of distributable reserves, the issuance of the required order is a matter for the discretion of the Irish High Court and there can be no assurance if or when such approval will be obtained. Even if the Irish High Court does approve the creation of distributable reserves, it
+  may take substantially longer than we anticipate and the Irish High Court may not approve the reduction of the share premium account in the entire amount sought by XL.
+Approval of the Distributable Reserves Proposal by our ordinary shareholders is not a condition to the scheme of arrangement becoming effective, but in the absence of Irish High Court approval of the creation of distributable reserves, we would not continue to be able to pay dividends and redeem and buy back shares
+  before we generate sufficient post-Redomestication earnings, as would otherwise be necessary under Irish law. Further, we are seeking the approval of at least 75% of all ordinary shares present and voting, in person or by proxy, to increase the likelihood of obtaining Irish High Court approval with respect to the creation of
+  distributable reserves in XL-Ireland because such higher approval threshold would be required if the vote on the Distributable Reserves Proposal were being conducted under Irish law.
+If the XL-Cayman ordinary shareholders approve the proposal to effect the Ordinary Share Exchange but do not approve the Distributable Reserves Proposal and the Redomestication is consummated, or if the Irish High Court does not approve the creation of distributable reserves, XL-Ireland will not have sufficient
+  distributable reserves to pay dividends or to buy back or redeem shares unless and until we generate earnings after the Effective Time, and only to the extent of such earnings. In addition, the Board may determine not to proceed with the Redomestication for any reason, including because the Distributable Reserves Proposal is
+  not approved or is approved by holders of fewer than 75% of all ordinary shares present and voting, in person or by proxy.
+As a result of different shareholder voting requirements in Ireland relative to the Cayman Islands, we will have less flexibility with respect to certain aspects of capital management.
+Under Cayman Islands law, our Board may issue, without shareholder approval, any shares authorized in our memorandum of association that are not already issued. Irish law allows shareholders to authorize a Board of Directors to subsequently issue shares without shareholder approval, but this authorization must be
+  renewed after five years. Additionally, subject to specified exceptions, Irish law grants statutory pre-emption rights to existing ordinary shareholders to subscribe for new issuances of shares for cash, but allows such shareholders to authorize the waiver of such statutory pre-emption rights for five years. Prior to the Effective
+  Time, the articles of association of XL-Ireland will provide such authority to the Board of Directors of XL-Ireland to issue shares without further shareholder approval and a waiver of these statutory pre-emption rights for a period of five years in each such case. These authorizations expire after five years, unless renewed by
+  XL-Ireland’s shareholders, and we can provide no assurance that these authorizations and waivers will always be renewed, which could limit our ability to issue equity in the future. While we do not believe that the differences between Cayman Islands law and Irish law relating to our capital management will have a material
+  and adverse effect on us, situations may arise where the flexibility we now have in the Cayman Islands would have provided benefits to our shareholders that will not be available in Ireland.
+As a result of different shareholder voting requirements in Ireland relative to the Cayman Islands, we will have less flexibility with respect to our ability to amend our constituent documents and to take other actions requiring a special resolution of our shareholders than we now have.
+Under Cayman Islands law and our current articles of association, our memorandum and articles of association may be amended by a special resolution of our ordinary shareholders, which requires approval by not less than 2/3 of the votes cast by XL-Cayman’s ordinary shareholders at a general meeting of such
+  shareholders at which holders of at least 2/3 of all ordinary shares are present. Under Irish law and the XL-Ireland articles of association, the special resolution required to amend XL-Ireland’s memorandum and articles of association will require the approval of not less than 75% of the votes cast by XL-Ireland’s ordinary
+  shareholders at a general meeting of such shareholders at which holders of at least 2/3 of all XL-Ireland ordinary shares are present. Additional corporate actions that require approval by special resolution in both the Cayman Islands and Ireland include, but are not limited to, approval of a name change, 
+49
+
+
+
+approval of a reduction in share capital and approval of the winding-up of a company. As a result of the increased approval requirement for passage of a special resolution in Ireland, situations may arise where the flexibility we now have in the Cayman Islands would have provided benefits to our shareholders that will not be
+  available in Ireland.
+We may be required to pay additional amounts in respect of dividends on our preference shares or interest payments on our debt after completion of the Redomestication.
+After the Redomestication, XL-Ireland and/or its subsidiaries may have an obligation to pay additional amounts to our preference shareholders and holders of our debt under certain circumstances. Specifically, under Irish tax law, and subject to exceptions, dividends and interest are generally subject to a withholding tax
+  (currently at 20%), which could trigger an obligation to pay additional amounts with respect to our preference shares and debt obligations. We do not expect such obligations to be material, as we believe our current preference shareholders and the holders of our debt generally should qualify for dividend and interest
+  withholding tax exceptions, respectively. However, we are unable to predict the costs of such obligations or exclude as a possibility that the obligations to pay additional amounts could be material at some time in the future.
+If the Cayman Court does not sanction the scheme of arrangement, XL-Cayman will not have the ability to effect the Redomestication.
+We cannot proceed with the Transaction unless the Cayman Court sanctions the scheme of arrangement after conducting a hearing. Assuming that the scheme of arrangement meetings are conducted in accordance with the Cayman Court’s order and that the ordinary shareholders approve the proposal to effect the Ordinary
+  Share Exchange by the majority required by the Cayman Companies Law, we are not aware of any reason why the Cayman Court would not sanction the scheme of arrangement. Nevertheless, the Cayman Court’s sanction is a matter for its discretion and there can be no assurance if or when such sanction will be obtained.
+If the Cayman Court does not sanction the scheme of arrangement, XL-Cayman will be unable to effect the Redomestication, even if the requisite ordinary shareholders have approved the scheme of arrangement. In addition, the Cayman Court may impose such conditions, modifications or amendments as it deems
+  appropriate in relation to the scheme of arrangement, but may not impose any material changes without the joint consent of XL-Cayman and XL-Ireland. If such conditions, modifications or amendments are imposed, XL will be unable to effect the Redomestication without amending the scheme of arrangement, which,
+  depending on the nature of such conditions, modifications or amendments, might require new shareholder approvals.
+After the Redomestication, attempted takeovers of XL will be subject to the Irish Takeover Rules and subject to review by the Irish Takeover Panel.
+After the Redomestication, we will become subject to the Irish Takeover Rules, under which the Board of Directors of XL-Ireland will not be permitted to take any action which might “frustrate” an offer for the XL-Ireland shares once the Board of Directors has received an offer or has reason to believe an offer is or
+  may be imminent without the approval of more than 50% of shareholders entitled to vote at a general meeting of XL-Ireland’s shareholders and/or the consent of the Irish Takeover Panel. This could limit the ability of the Board of Directors of XL-Ireland to take defensive actions even if the Board of Directors believes that
+  such defensive actions would be in the best interests of XL and its shareholders.
+The Irish Takeover Rules also could discourage an investor from acquiring 30% or more of the outstanding ordinary shares of XL-Ireland unless such investor were prepared to make a bid to acquire all outstanding ordinary shares. Further, it could be more difficult for XL-Ireland to obtain shareholder approval for a
+  merger or negotiated transaction after the Redomestication because the shareholder approval requirements for certain types of transactions differ, and in some cases are greater, under Irish law than under Cayman Islands law.
+After the Redomestication, a future transfer of your XL-Ireland ordinary shares, other than one effected by means of the transfer of book entry interests in DTC, may be subject to Irish stamp duty.
+Transfers of XL-Ireland ordinary shares effected by means of the transfer of book entry interests in DTC will not be subject to Irish stamp duty. It is anticipated that the majority of XL-Ireland ordinary 
+50
+
+
+
+shares will be traded through DTC, either directly or through brokers who hold such ordinary shares on behalf of customers through DTC. However, if you hold your XL-Ireland ordinary shares directly rather than beneficially through DTC (or through a broker that holds your ordinary shares through DTC), any transfer of
+  your XL-Ireland ordinary shares could be subject to Irish stamp duty (currently at the rate of 1% of the higher of the price paid or the market value of the ordinary shares acquired). Payment of Irish stamp duty is generally a legal obligation of the transferee. The potential for stamp duty could adversely affect the price of our
+  ordinary shares.
+After the Redomestication, dividends you receive may be subject to Irish dividend withholding tax and Irish income tax.
+Dividend withholding tax (currently at a rate of 20%) may arise in respect of dividends paid on XL-Ireland ordinary shares. However, a number of exemptions from dividend withholding tax exist such that ordinary shareholders resident in the U.S. and ordinary shareholders resident in the countries listed in Annex F
+  attached to the Redomestication Proxy Statement may be entitled to exemptions from dividend withholding tax if they complete and file certain dividend withholding tax forms. Ordinary shareholders resident in the U.S. that hold their ordinary shares through DTC will not be subject to dividend withholding tax provided the
+  addresses of the beneficial owners of such ordinary shares in the records of the brokers holding such ordinary shares are in the U.S. (so that such brokers can further transmit the relevant information to a qualifying intermediary appointed by XL-Ireland). Similarly, ordinary shareholders resident in the U.S. that hold their
+  ordinary shares outside of DTC will not be subject to dividend withholding tax if such ordinary shareholders held ordinary shares in XL-Cayman on January 12, 2010 and they have provided a valid Form W-9 showing a U.S. address to XL-Ireland’s transfer agent. However, other ordinary shareholders may be subject to
+  dividend withholding tax, which could adversely affect the price of our ordinary shares.
+In addition, ordinary shareholders entitled to an exemption from Irish dividend withholding tax on dividends received from XL-Ireland should not be subject to Irish income tax in respect of those dividends, unless they have some connection with Ireland other than their ordinary shareholding in XL- Ireland. Ordinary
+  shareholders who receive dividends subject to Irish dividend withholding tax will generally have no further liability to Irish income tax on those dividends unless they have some connection with Ireland other than their ordinary shareholding in XL-Ireland.
+The Redomestication will result in additional direct and indirect costs, even if it is not consummated.
+We will incur additional costs and expenses in connection with and as a result of the Redomestication. These costs and expenses include professional fees to comply with Irish corporate and tax laws and financial reporting requirements (including the need to provide annual financial statements complying with Irish
+  requirements commencing with respect to XL-Ireland’s 2014 fiscal year), costs and expenses incurred in connection with holding a majority of the meetings of the XL-Ireland Board of Directors and certain executive management meetings in Ireland, as well as any additional costs we may incur going forward as a result of
+  our new corporate structure. In addition, we have incurred and expect to incur further legal fees, accounting fees, filing fees, mailing expenses and financial printing expenses in connection with the Redomestication, even if the proposal to effect the Ordinary Share Exchange is not approved or the Redomestication is not
+  consummated.
+The market for the XL-Ireland ordinary shares may differ from the market for the XL-Cayman ordinary shares.
+We will continue to list our ordinary shares on the NYSE under the symbol “XL”, the same trading symbol as the XL-Cayman ordinary shares. The market price, trading volume or volatility of the XL-Ireland ordinary shares could be different from those of the XL-Cayman ordinary shares.
+Based on the recent experience of other companies, the change in our place of incorporation will likely result in XL being removed from the S&P 500 index and certain other indices, which could result in a negative impact on our ordinary share price if index-modeled shareholders are required to sell our ordinary shares.
+
+
+     
+     
+     
+  
+
+
+  
+     
+     
+     
+  
+  
+    
+      ITEM 1B

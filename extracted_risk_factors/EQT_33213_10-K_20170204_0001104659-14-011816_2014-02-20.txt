@@ -1,0 +1,1037 @@
+Item 1A, “Risk Factors,” and elsewhere in this Annual Report on Form 10-K.
+ 
+Any forward-looking statement speaks only as of the date on which such statement is made and the Company does not intend to correct or update any forward-looking statement, whether as a result of new information, future events or otherwise.
+ 
+In reviewing any agreements incorporated by reference in or filed with this Annual Report on Form 10-K, please remember such agreements are included to provide information regarding the terms of such agreements and are not intended to provide any other factual or disclosure information about the Company. The agreements may contain representations and warranties by the Company, which should not in all instances be treated as categorical statements of fact, but rather as a way of allocating the risk to one of the parties to such agreements should those statements prove to be inaccurate. The representations and warranties were made only as of the date of the relevant agreement or such other date or dates as may be specified in such agreement and are subject to more recent developments.  Accordingly, these representations and warranties alone may not describe the actual state of affairs of the Company or its affiliates as of the date they were made or at any other time.
+ 
+6
+
+
+
+
+
+
+
+Table of Contents
+ 
+PART I
+ 
+Item 1.       Business
+ 
+General
+ 
+EQT Corporation (EQT or the Company) conducts its business through two business segments: EQT Production and EQT Midstream. EQT Production is one of the largest natural gas producers in the Appalachian Basin with 8.3 Tcfe of proved natural gas, NGLs and crude oil reserves across approximately 3.6 million gross acres, including approximately 580,000 gross acres in the Marcellus play, as of December 31, 2013. EQT Midstream provides gathering, transmission and storage services for the Company’s produced gas, as well as for independent third parties across the Appalachian Basin.
+ 
+Key Events in 2013
+ 
+During 2013, EQT achieved record annual production sales volumes, including a 43% increase in total sales volumes and an 82% increase in Marcellus sales volumes.  The Midstream business delivered record gathered volumes that were 39% higher than the previous year.  The Company also completed the following transactions that were instrumental in contributing to a successful 2013:
+ 
+·                  On July 22, 2013, Sunrise Pipeline, LLC (Sunrise), a subsidiary of the Company, merged with and into Equitrans, L.P. (Equitrans), a subsidiary of EQT Midstream Partners, LP (the Partnership), with Equitrans continuing as the surviving company (the Sunrise Merger). Sunrise continues to be consolidated by the Company as it is still under common control.
+ 
+·                  On July 22, 2013, the Partnership completed an underwritten public offering of 12,650,000 common units representing Partnership limited partner interests. Following the offering and the closing of the Sunrise Merger, the Company holds a 44.6% equity interest in the Partnership, including a 2% general partner interest. The Partnership received net proceeds of $529.4 million from the offering, after deducting the underwriters’ discount and offering expenses of $20.9 million.
+ 
+·                  On December 17, 2013, the Company and its wholly-owned subsidiary, Distribution Holdco, LLC (Holdco), completed a previously announced transaction relating to the Company, Holdco, and PNG Companies LLC (PNG Companies), the parent company of Peoples Natural Gas Company LLC.  As part of the transaction, the Company and Holdco transferred 100% of their ownership interests in Equitable Gas Company, LLC (Equitable Gas) and Equitable Homeworks, LLC (Homeworks) to PNG Companies.  As consideration for this transaction, the Company received a $740.6 million cash payment, based on initial post-closing adjustments, select midstream assets, including an approximately 200-mile FERC-regulated natural gas transmission pipeline that interconnects with the Partnership’s transmission and storage system (the AVC facilities), and new commercial arrangements with PNG Companies and its affiliates. These events are collectively referred to in this Annual Report on Form 10-K as the Equitable Gas Transaction.
+ 
+Equitable Gas and Homeworks comprised substantially all of the Company’s previously reported Distribution segment.  The financial information of Equitable Gas and Homeworks is reflected as discontinued operations in this Annual Report on Form 10-K with all prior periods recast to reflect the presentation of discontinued operations.
+ 
+EQT Production Business Segment
+ 
+EQT believes that it is a technology leader in extended lateral horizontal and completion drilling in the Appalachian Basin and continues to improve its operations through the use of new technology.  EQT Production’s strategy is to maximize shareholder value by maintaining an industry leading cost structure to profitably develop its reserves.  EQT’s proved reserves increased 39% in 2013, to a total of 8.3 Tcfe primarily across the Marcellus and Huron shale plays, and also including CBM and other vertical wells.  The Company’s Marcellus assets, including Upper Devonian assets, contribute approximately 6.2 Tcfe in total proved reserves.
+ 
+7
+
+
+
+
+
+
+Table of Contents
+ 
+The following illustration depicts EQT’s acreage position within the Marcellus play:
+ 
+ 
+ 
+
+ 
+8
+
+
+
+
+
+
+Table of Contents
+ 
+As of December 31, 2013, the Company’s proved reserves were as follows:
+ 
+ 
+
+
+
+(Bcfe)    
+
+     
+
+Marcellus    
+
+     
+
+Huron *    
+
+     
+
+Upper   Devonian    
+
+     
+
+CBM/Utica/   Other    
+
+     
+
+Total       
+
+
+Proved   Developed    
+
+     
+
+1,899    
+
+     
+
+1,118    
+
+     
+
+109    
+
+     
+
+860    
+
+     
+
+3,986       
+
+
+Proved   Undeveloped    
+
+     
+
+4,057    
+
+     
+
+198    
+
+     
+
+106    
+
+     
+
+1    
+
+     
+
+4,362       
+
+
+Total   Proved Reserves     
+
+     
+
+5,956    
+
+     
+
+1,316    
+
+     
+
+215    
+
+     
+
+861    
+
+     
+
+8,348         
+ 
+* Includes the Lower Huron, Cleveland, Berea sandstone and other Devonian age formations.
+ 
+The Company’s natural gas wells are generally low-risk, having a long reserve life with relatively low development and production costs on a per unit basis.  Assuming that future annual production from these reserves is consistent with 2013, the remaining reserve life of the Company’s total proved reserves, as calculated by dividing total proved reserves by 2013 produced volumes, is 23 years.
+ 
+The Company invested approximately $1,237 million on well development during 2013, with total production sales volumes hitting a record high of 378.2 Bcfe, an increase of 43% over the previous year.  Capital spending for EQT Production is expected to be approximately $1.9 billion in 2014 (excluding land acquisitions), the majority of which will be used to support the drilling of approximately 357 gross wells, including 186 Marcellus wells, 120 Huron wells, 30 Upper Devonian wells and 21 wells in the Utica Shale of Ohio. During the past three years, the Company’s number of wells drilled (spud) and related capital expenditures for well development were:
+ 
+
+
+
+     
+
+     
+
+Years Ended December 31,    
+
+        
+
+
+     
+
+     
+
+     
+
+        
+
+
+Gross wells spud:     
+
+     
+
+2013    
+
+     
+
+2012    
+
+     
+
+2011    
+
+        
+
+
+Horizontal Marcellus*     
+
+     
+
+168    
+
+     
+
+127    
+
+     
+
+105    
+
+        
+
+
+Horizontal Huron    
+
+     
+
+50    
+
+     
+
+7    
+
+     
+
+115    
+
+        
+
+
+Horizontal Utica    
+
+     
+
+7    
+
+     
+
+1    
+
+     
+
+–    
+
+        
+
+
+Total horizontal    
+
+     
+
+225    
+
+     
+
+135    
+
+     
+
+220    
+
+        
+
+
+Other    
+
+     
+
+–    
+
+     
+
+–    
+
+     
+
+2    
+
+        
+
+
+Total     
+
+     
+
+225    
+
+     
+
+135    
+
+     
+
+222    
+
+          
+ 
+ 
+
+
+
+Capital expenditures for well development:       
+
+
+ (in millions):    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Horizontal Marcellus*     
+
+     
+
+  $    
+
+1,103    
+
+     
+
+  $    
+
+810    
+
+     
+
+  $    
+
+686    
+
+        
+
+
+Horizontal Huron    
+
+     
+
+79    
+
+     
+
+22    
+
+     
+
+226    
+
+        
+
+
+Horizontal Utica    
+
+     
+
+46    
+
+     
+
+4    
+
+     
+
+–    
+
+        
+
+
+Total horizontal    
+
+     
+
+1,228    
+
+     
+
+836    
+
+     
+
+912    
+
+        
+
+
+Other    
+
+     
+
+9    
+
+     
+
+21    
+
+     
+
+26    
+
+        
+
+
+Total     
+
+     
+
+  $    
+
+1,237    
+
+     
+
+  $    
+
+857    
+
+     
+
+  $    
+
+938    
+
+          
+ 
+* Includes Upper Devonian formations
+ 
+EQT Midstream Business Segment
+ 
+The Appalachian Basin has been an area of significant natural gas production growth in recent years.  The Company believes that the current footprint of its midstream assets, which spans a wide area of the Marcellus Shale in southwestern Pennsylvania and northern West Virginia, is a competitive advantage that uniquely positions it for growth.  In conjunction with the continued growth of EQT Production and other producers in the Marcellus, EQT Midstream is strategically positioned to capitalize on the rapidly increasing need for gathering and
+ 
+9
+
+
+
+
+
+
+Table of Contents
+ 
+transmission infrastructure in the region.  In particular, there is a need for midstream header connectivity to interstate pipelines in Pennsylvania and West Virginia.
+ 
+In 2012, the Company formed the Partnership to own, operate, acquire and develop midstream assets in the Appalachian Basin.  The Partnership provides midstream services to the Company and other third parties through its two primary assets: the Partnership’s transmission and storage system and the Partnership’s gathering system.  As of December 31, 2013, the Company held a 42.6% limited partner interest and a 2% general partner interest in the Partnership, whose results are consolidated in the Company’s financial statements.  Unless otherwise noted, discussions of EQT Midstream’s business, operations and results in this Annual Report on Form 10-K include the Partnership’s business, operations and results. The Company records the noncontrolling interest of the public limited partners in its financial statements.
+ 
+The Company’s gathering system includes approximately 9,450 miles of gathering lines, 1,600 miles of which are FERC-regulated, low-pressure gathering lines owned by the Partnership.  The left-hand map on page 11 depicts the Company’s gathering lines and compressor stations in relationship to the Marcellus Shale formation. During 2013, the Company completed various gathering line expansion projects that added approximately 385 MMcf per day of incremental gathering capacity and resulted in year-end Marcellus gathering capacity of 1,500 MMcf per day, 1,150 MMcf per day in Pennsylvania and 350 MMcf per day in West Virginia.  To support the ongoing production of natural gas throughout the Marcellus region, the Company plans to add approximately 440 MMcf per day of incremental gathering capacity in 2014, 120 MMcf per day in Pennsylvania and 320 MMcf per day in West Virginia.
+ 
+EQT Midstream’s transmission and storage system includes approximately 900 miles of FERC-regulated interstate pipeline that connects to seven interstate pipelines and multiple distribution companies.  The interstate pipeline system includes approximately 700 miles of pipe owned by Equitrans and referred to as the Equitrans transmission and storage system. Equitrans is owned by the Partnership. EQT Midstream’s transmission and storage system also includes an approximately 200 mile pipeline referred to as the Allegheny Valley Connector (AVC), which was acquired by the Company in connection with the Equitable Gas Transaction.
+ 
+The transmission and storage system is supported by eighteen natural gas storage reservoirs with approximately 660 MMcf per day of peak delivery capability and 47 Bcf of working gas capacity. Fourteen of these reservoirs, representing 400 MMcf per day of peak delivery capability and 32 Bcf of working gas capacity, are owned by the Partnership. The storage reservoirs are clustered in two geographic areas connected to the Partnership’s transmission and storage system, with ten in southwestern Pennsylvania and eight in northern West Virginia.   The AVC facilities include four storage reservoirs owned by the Company and are operated by the Partnership under a lease between the Partnership and an affiliate of the Company.
+ 
+The right-hand map on page 11 depicts the Company’s transmission lines, storage pools and compressor stations in relationship to the Marcellus Shale formation. The Company completed a number of midstream expansion projects in 2013 to take advantage of rapid production development in the Marcellus play.  During 2013, the Company added approximately 450 MMcf per day of incremental transmission capacity in Pennsylvania through the Morris III interconnect expansion and the Low Pressure East Pipeline uprate projects.  As a result of these expansion projects and the AVC acquisition, EQT Midstream year-end total transmission capacity was 2,700 MMcf per day. During 2014, the Company expects to complete the fully subscribed Jefferson compression expansion project, which is expected to add an additional 650 BBtu per day of transmission capacity in Pennsylvania, as well as an expansion of the west-side of its northern West Virginia transmission system, referred to as the West-Side Expansion Project, that is expected to add 100 BBtu per day of capacity.
+ 
+10
+
+
+
+
+
+
+Table of Contents
+ 
+
+ 
+ 
+EQT Midstream also has a gas marketing subsidiary, EQT Energy, LLC (EQT Energy), that provides optimization of capacity and storage assets through its NGL and natural gas sales to commercial and industrial customers within its operational footprint. EQT Energy also provides marketing services and manages approximately 1,000,000 Dth per day of third-party contractual pipeline capacity for the benefit of EQT Production; and has committed to an additional 750,000 Dth per day of contractual capacity to come online in future periods. EQT Energy currently leases 3.2 Bcf of storage-related assets from third parties.
+ 
+Strategy
+ 
+EQT’s strategy is to maximize shareholder value by maintaining an industry leading cost structure, profitably developing its undeveloped reserves, and effectively and efficiently utilizing its extensive gathering and
+ 
+11
+
+
+
+
+
+
+Table of Contents
+ 
+transmission assets that are uniquely positioned across the Marcellus Shale and in close proximity to the northeastern United States markets.
+ 
+EQT believes that it is a technology leader in extended-lateral horizontal drilling and completion in the Appalachian Basin and continues to improve its operations through the use of new technology.  Substantially all of the Company’s acreage is held by production or in fee; therefore, EQT Production is able to develop its acreage in the most economical manner through the use of longer laterals and multi-well pads, as opposed to being required to drill less-economical wells in order to retain acreage. The use of multi-well pads, in conjunction with a completion technique known as reduced cluster spacing, has the additional benefit of reducing the overall environmental surface footprint of the Company’s drilling operations.
+ 
+EQT also believes that its midstream assets are strategically located in the Marcellus Shale region – spanning a large, prolific area of southwestern Pennsylvania and northern West Virginia – providing a competitive advantage that uniquely positions the Company for continued growth.  EQT Midstream intends to capitalize on the rapidly growing need for gathering and transmission infrastructure in this region, and in particular the need for midstream header connectivity to interstate pipelines in Pennsylvania and West Virginia.
+ 
+The ongoing efforts of the Partnership are also an important support mechanism for EQT’s overall business strategy. Through pursuing accretive acquisitions from the Company, capitalizing on economically attractive organic growth opportunities, and attracting additional third-party volumes, the Partnership is expected to provide an ongoing source of capital to the Company.
+ 
+The Company is also helping to build additional demand for natural gas. In mid-2011, with the assistance of a $700,000 grant received from the Pennsylvania Department of Environmental Protection, EQT opened a public-access natural gas fueling station in Pittsburgh, Pennsylvania.  With the growing popularity and importance of this station to numerous fleets throughout the region, the station underwent an expansion in 2013 – adding two more service bays.  In conjunction with this project, the Company is promoting the use of natural gas fleet vehicles, including its own, and plans to operate 15% of its light-duty vehicle fleet, more than 180 vehicles, on natural gas by the end of 2014.  In addition, the Company is operating four drilling rigs that utilize natural gas and one hydraulic fracturing unit, with an additional unit expected in 2014.
+ 
+See “Capital Resources and Liquidity” in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K for details regarding the Company’s capital expenditures.
+ 
+Markets and Customers
+ 
+Natural Gas Sales:  The Company’s produced natural gas is sold to marketers, utilities and industrial customers located mainly in the Appalachian Basin and a gas processor in Kentucky and West Virginia.  Natural gas is a commodity and therefore the Company receives market-based pricing.  The market price for natural gas can be volatile as demonstrated by significant declines in late 2011 and early 2012.  In addition, the market price for natural gas in the Appalachian Basin experienced a decline relative to the price at Henry Hub, which is the location for pricing NYMEX and natural gas futures, in the second half of 2013 as a result of the increased supply of natural gas in the Northeast region.  Changes in the market price for natural gas, including basis, impact the Company’s revenues, earnings and liquidity.  The Company is unable to predict potential future movements in the market price for natural gas, including Appalachian basis, and thus cannot predict the ultimate impact of prices on its operations; however, the Company monitors the market for natural gas and adjusts strategy and operations as deemed to be appropriate.  In order to protect cash flow from undue exposure to the risk of changing commodity prices, the Company hedges a portion of its forecasted natural gas production, most of which is hedged at NYMEX natural gas prices.  The Company’s hedging strategy and information regarding its derivative instruments is set forth in “Commodity Risk Management” in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk,” and in Notes 1 and 5 to the Consolidated Financial Statements.
+ 
+NGL Sales:  The Company sells NGLs from its own production through the EQT Production segment and from gas marketed for third parties by EQT Midstream.  Until February 2011, when the Company sold its Langley natural gas processing complex (Langley), the Company processed natural gas in order to extract heavier liquid
+ 
+12
+
+
+
+
+
+
+
+Table of Contents
+ 
+hydrocarbons (propane, iso-butane, normal butane and natural gasoline) from the natural gas stream, primarily from EQT Production’s produced gas.  NGLs were recovered at Langley and transported to a fractionation plant owned by a third party for separation into commercial components.  The third party marketed these components for a fee. The Company also had contractual processing arrangements whereby the Company sold gas to a third-party processor at a weighted average liquids component price. Subsequent to the closing of the sale of Langley to MarkWest Energy Partners, L.P. in February 2011, the processing of the Company’s produced natural gas has been performed by a third-party vendor.
+ 
+The following table presents the effective sales price on an average Mcfe basis to EQT Corporation for sales of produced natural gas, NGLs and oil, with and without hedges, for the years ended December 31:
+ 
+
+
+
+     
+
+     
+
+2013    
+
+     
+
+2012    
+
+     
+
+2011    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Average effective sales price per Mcfe sold   (including hedges)     
+
+     
+
+$    
+
+4.13    
+
+     
+
+$    
+
+4.17    
+
+     
+
+$    
+
+5.23    
+
+        
+
+
+Average effective sales price per Mcfe sold   (excluding hedges)     
+
+     
+
+$    
+
+3.77    
+
+     
+
+$    
+
+3.07    
+
+     
+
+$    
+
+4.72    
+
+          
+ 
+In addition, realized price information for all products is included in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” under the caption “Consolidated Operational Data,” and incorporated herein by reference.
+ 
+Natural Gas Gathering:  EQT Midstream derives gathering revenues from charges to customers for use of its gathering system in the Appalachian Basin.  The gathering system volumes are transported to four major interstate pipelines: Columbia Gas Transmission, East Tennessee Natural Gas Company, Dominion Transmission and Tennessee Gas Pipeline Company.  The gathering system also maintains interconnections with the Partnership’s transmission and storage system.
+ 
+Gathering system transportation volumes for 2013 totaled 466.4 BBtu, of which approximately 79% related to gathering for EQT Production, 9% related to third-party volumes and 12% related to volumes for other affiliates of the Company.  Revenues from EQT Production and other affiliates accounted for approximately 88% of 2013 gathering revenues.
+ 
+Natural Gas Transmission, Storage and Marketing: Natural gas transmission and storage operations are executed using transmission and underground storage facilities owned and/or operated by the Company or the Partnership.  EQT Energy provides marketing services and third-party contractual pipeline capacity management for the benefit of EQT Production and leases storage capacity in order to take advantage of seasonal spreads where available.   EQT Energy also engages in risk management and energy trading activities, the objective of which is to limit the Company’s exposure to shifts in market prices and to optimize the use of the Company’s assets.
+ 
+Customers of EQT Midstream’s gas transportation, storage, risk management and related services are affiliates and third parties in the northeastern United States, including, but not limited to, Dominion Resources, Inc., Keyspan Corporation, NiSource Inc., PECO Energy Company and UGI Energy Services, Inc.
+ 
+As of December 31, 2013, the weighted average remaining contract life based on total projected contracted revenues for the Partnership’s firm transmission and storage contracts was approximately 15 years.  The Company anticipates that the capacity associated with expiring contracts will be remarketed or used by affiliates such that the capacity will remain fully subscribed.  In 2013, approximately 80% of transportation volumes and revenues were from affiliates.
+ 
+The Company had one customer within the EQT Production segment account for approximately 11% of its revenues in 2013. The Company does not believe that the loss of this customer would have a material adverse effect on its business because alternative customers for the Company’s natural gas are available.  No single customer accounted for more than 10% of revenues in 2012 or 2011.
+ 
+13
+
+
+
+
+
+
+Table of Contents
+ 
+Competition
+ 
+Natural gas producers compete in the acquisition of properties, the search for and development of reserves, the production and sale of natural gas and the securing of labor and equipment required to conduct operations. Competitors include independent oil and gas companies, major oil and gas companies and individual producers and operators.  Competition for natural gas gathering, transmission and storage volumes is primarily based on rates and other commercial terms, customer commitment levels, timing, performance, reliability, service levels, location, reputation and fuel efficiencies.  Key competitors in the natural gas transmission and storage market include companies that own major natural gas pipelines. Key competitors for gathering systems include independent gas gatherers and integrated energy companies. EQT competes with numerous companies when marketing natural gas and NGLs. Some of these competitors are affiliates of companies with extensive pipeline systems that are used for transportation from producers to end-users.
+ 
+Regulation
+ 
+Regulation of the Company’s Operations
+ 
+EQT Production’s exploration and production operations are subject to various types of federal, state and local laws and regulations, including regulations related to the location of wells; the method of drilling, well construction and casing design; water withdrawal and procurement for well stimulation purposes; well production; spill prevention plans; the use, transportation, storage and disposal of fluids and materials incidental to oil and gas operations; surface usage and the reclamation of properties upon which wells or other facilities have been located; the plugging and abandoning of wells; the calculation, reporting and disbursement of royalties and taxes; and the gathering of production in certain circumstances.  These regulations may affect the costs and timing of developing the Company’s natural gas resources.
+ 
+EQT Production’s operations are also subject to conservation and correlative rights regulations, including the regulation of the size of drilling and spacing units or field rule units; the number of wells that may be drilled in a unit or in close proximity to other wells; drilling in the vicinity of coal mining operations and certain other structures; and the unitization or pooling of natural gas properties.  Both Kentucky and Virginia allow the statutory pooling or integration of tracts to facilitate development and exploration. In 2013, the Pennsylvania legislature enacted lease integration legislation, which authorizes joint development of existing leases. In West Virginia, it is necessary to rely on voluntary pooling of lands and leases.  In addition, state conservation and oil and gas laws generally limit the venting or flaring of natural gas.
+ 
+EQT Midstream’s transmission and gathering operations are subject to various types of federal and state environmental laws and local zoning ordinances, including air permitting requirements for compressor station and dehydration units; erosion and sediment control requirements for compressor station and pipeline construction projects; waste management requirements and spill prevention plans for compressor stations; various recordkeeping and reporting requirements for air permits and waste management practices; compliance with safety regulations; and siting and noise regulations for compressor stations. These regulations may increase the costs of operating existing pipelines and compressor stations and increase the costs of, and the time to develop, new or expanded pipelines and compressor stations.
+ 
+The interstate natural gas transmission systems and storage operations of EQT Midstream are regulated by the FERC, and certain gathering lines are also subject to rate regulation by the FERC. For instance, the FERC approves tariffs that establish the Partnership’s rates, cost recovery mechanisms and other terms and conditions of service to the Partnership’s customers. The fees or rates established under the Partnership’s tariffs are a function of its costs of providing services to customers, including a reasonable return on invested capital. The FERC’s authority over transmission operations also extends to: storage and related services; certification and construction of new interstate transmission and storage facilities; extension or abandonment of interstate transmission and storage services and facilities; maintenance of accounts and records; relationships between pipelines and certain affiliates; terms and conditions of service; depreciation and amortization policies; acquisition and disposition of facilities; the safety of pipelines; and initiation and discontinuation of services.
+ 
+14
+
+
+
+
+
+
+Table of Contents
+ 
+In July 2010, the U.S. Congress adopted comprehensive financial reform legislation that establishes federal oversight and regulation of the over-the-counter derivative market and entities, such as the Company, that participate in that market. The new legislation, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act), required the CFTC and the SEC to promulgate rules and regulations implementing the new legislation. As of the filing date of this Annual Report, the CFTC had adopted and implemented many final rules that impose regulatory obligations on all market participants, including the Company, such as recordkeeping and certain reporting obligations.  Other CFTC rules that may be relevant to the Company have yet to be proposed or finalized and, in some cases, finalized rules have yet to be implemented.  Because significant CFTC rules relevant to natural gas hedging activities are still at the proposal stage, it is not possible at this time to predict the extent of the impact of the new regulations on the Company’s hedging program or regulatory compliance obligations.  The Company anticipates, however, increased compliance costs and changes to current market practices as participants continue to adapt to a changing regulatory environment.
+ 
+Regulators periodically audit the Company’s compliance with applicable regulatory requirements.  The Company anticipates that compliance with existing laws and regulations governing current operations will not have a material adverse effect upon its capital expenditures, earnings or competitive position.  Additional proposals that affect the oil and gas industry are regularly considered by the U.S. Congress, the states, regulatory agencies and the courts. The Company cannot predict when or whether any such proposals may become effective.
+ 
+Environmental, Health and Safety Regulation
+ 
+The business operations of the Company are also subject to various federal, state and local environmental, health and safety laws and regulations pertaining to, among other things, the release, emission or discharge of materials into the environment; the generation, storage, transportation, handling and disposal of materials (including solid and hazardous wastes); the safety of employees and the general public; pollution; site remediation; and preservation or protection of human health and safety, natural resources, wildlife and the environment. The Company must take into account environmental, health and safety regulations in, among other things, planning, designing, constructing (including drilling), operating and abandoning wells, pipelines and related facilities.
+ 
+The Company has established procedures for ongoing evaluation of its operations to identify potential environmental exposures and to assure compliance with regulatory policies and procedures.  Ongoing expenditures for compliance with environmental laws and regulations, including investments in plant and facilities to meet environmental requirements, have not been material to the Company’s financial position, results of operations or liquidity.
+ 
+Vast quantities of natural gas deposits exist in shale and other formations. It is customary in the Company’s industry to recover natural gas from these shale formations through the use of hydraulic fracturing, combined with sophisticated horizontal drilling. Hydraulic fracturing is the process of creating or expanding cracks, or fractures, in formations underground where water, sand and other additives are pumped under high pressure into a shale gas formation. These deeper formations are geologically separated and isolated from fresh ground water supplies by overlying rock layers. The Company’s well construction practices include installation of multiple layers of protective steel casing surrounded by cement that are specifically designed and installed to protect freshwater aquifers.  To assess water sources near our drilling locations, the Company conducts baseline and, as appropriate, post-drilling water testing at all water wells within at least 2,500 feet of our drilling pads.  Legislative and regulatory efforts at the federal level and in some states have sought to render more stringent permitting and compliance requirements for hydraulic fracturing. If passed into law, the additional permitting requirements for hydraulic fracturing may increase the cost to or limit the Company’s ability to obtain permits to construct wells.
+ 
+Climate Change
+ 
+Legislative and regulatory measures to address climate change and greenhouse gas emissions are in various phases of discussion or implementation. Effective January 1, 2011, the EPA began regulating greenhouse gas emissions by subjecting new facilities and major modifications to existing facilities that emit large amounts of greenhouse gases to the permitting requirements of the federal Clean Air Act.  In addition, the U.S. Congress has been considering bills that would establish a cap-and-trade program to reduce emissions of greenhouse gases. Legislation or regulation that restricts carbon emissions could increase the Company’s cost of environmental
+ 
+15
+
+
+
+
+
+
+Table of Contents
+ 
+compliance by requiring the Company to install new equipment to reduce emissions from larger facilities and/or purchase emission allowances. Climate change and greenhouse gas legislation or regulation could also delay or otherwise negatively affect efforts to obtain permits and other regulatory approvals with regard to existing and new facilities, or impose additional monitoring and reporting requirements. Conversely, legislation or regulation that sets a price on or otherwise restricts carbon emissions could also benefit the Company by increasing demand for natural gas, because the combustion of natural gas results in substantially fewer carbon emissions per Btu of heat generated than other fossil fuels, such as coal. The effect on the Company of any new legislative or regulatory measures will depend on the particular provisions that are ultimately adopted.
+ 
+Employees
+ 
+The Company and its subsidiaries had 1,621 employees at the end of 2013, and none are subject to a collective bargaining agreement.
+ 
+Availability of Reports
+ 
+The Company makes certain filings with the SEC, including its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments and exhibits to those reports, available free of charge through its website, http://www.eqt.com, as soon as reasonably practicable after the date they are filed with, or furnished to, the SEC.  The filings are also available at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or by calling 1-800-SEC-0330. These filings are also available on the internet at http://www.sec.gov.
+ 
+Composition of Segment Operating Revenues
+ 
+Presented below are operating revenues as a percentage of total operating revenues for each class of products and services representing greater than 10% of total operating revenues.
+ 
+
+
+
+     
+
+     
+
+For the Years Ended   December 31,    
+
+        
+
+
+     
+
+     
+
+     
+
+2013    
+
+     
+
+     
+
+2012    
+
+     
+
+     
+
+2011    
+
+        
+
+
+EQT Production:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Natural gas sales     
+
+     
+
+61%    
+
+     
+
+55%    
+
+     
+
+51%    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+EQT Midstream:    
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Gathering revenue    
+
+     
+
+18%    
+
+     
+
+20%    
+
+     
+
+17%    
+
+        
+
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+        
+
+
+Natural   gas liquids sales (a)    
+
+     
+
+6%    
+
+     
+
+8%    
+
+     
+
+10%    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+ 
+(a)         NGL sales are included in the operations of both EQT Production and EQT Midstream.
+ 
+Financial Information about Segments
+ 
+See Note 4 to the Consolidated Financial Statements for financial information by business segment including, but not limited to, revenues from external customers, operating income and total assets.
+ 
+Jurisdiction and Year of Formation
+ 
+The Company is a Pennsylvania corporation formed in 2008 in connection with a holding company reorganization of the former Equitable Resources, Inc.
+ 
+Financial Information about Geographic Areas
+ 
+Substantially all of the Company’s assets and operations are located in the continental United States.
+ 
+16
+
+
+
+
+
+
+Table of Contents
+ 
+Environmental
+ 
+See Note 18 to the Consolidated Financial Statements for information regarding environmental matters.
+ 
+Item 1A.  Risk Factors
+ 
+Risks Relating to Our Business
+ 
+In addition to the other information contained in this Form 10-K, the following risk factors should be considered in evaluating our business and future prospects.  Please note that additional risks not presently known to us or that are currently considered immaterial may also have a negative impact on our business and operations.  If any of the events or circumstances described below actually occur, our business, financial condition or results of operations could suffer and the trading price of our common stock could decline.
+ 
+Natural gas price volatility may have an adverse effect upon our revenue, profitability, future rate of growth and liquidity.
+ 
+Our revenue, profitability, future rate of growth and liquidity depend upon the price for natural gas.  The markets for natural gas are volatile and fluctuations in prices will affect our financial results.  Natural gas prices are affected by a number of factors beyond our control, which include: weather conditions; the supply of and demand for natural gas; regional basis differentials; national and worldwide economic and political conditions; the price and availability of alternative fuels; the availability, proximity and capacity of pipelines, other transportation facilities, and gathering, processing and storage facilities; and government regulations, such as regulation of natural gas transportation and price controls.
+ 
+Lower natural gas prices may result in decreases in the revenue, operating income and cash flow for each of our businesses, a reduction in drilling activity and the construction of new transportation capacity and downward adjustments to the value of oil and gas properties which may cause us to incur non-cash charges to earnings.  Moreover, if we fail to control our operating costs during periods of lower natural gas prices, we could further reduce our operating income. A reduction in operating income or cash flow will reduce our funds available for capital expenditures and, correspondingly, our opportunities for growth.  We are also exposed to the risk of non-performance by our hedge counterparties in the event that changes, positive or negative, in natural gas prices result in derivative contracts with a positive fair value.
+ 
+Increases in natural gas prices may be accompanied by or result in increased well drilling costs, increased production taxes, increased lease operating expenses, increased volatility in seasonal gas price spreads for our storage assets and increased end-user conservation or conversion to alternative fuels.  Significant price increases may subject us to margin calls on our commodity price derivative contracts (hedging arrangements, including futures contracts, swap, collar and option agreements and exchange-traded instruments) which would potentially require us to post significant amounts of cash collateral with our hedge counterparties. The cash collateral, which is interest-bearing, provided to our hedge counterparties, is returned to us in whole or in part upon a reduction in forward market prices, depending on the amount of such reduction, or in whole upon settlement of the related hedged transaction.  In addition, to the extent we have hedged our current production at prices below the current market price, we are unable to benefit fully from an increase in the price of natural gas.
+ 
+We are subject to risks associated with the operation of our wells, pipelines and facilities.
+ 
+Our business operations are subject to all of the inherent hazards and risks normally incidental to the production, transportation and storage of natural gas and NGLs, such as well site blowouts, cratering and explosions, pipe and other equipment and system failures, uncontrolled flows of natural gas or well fluids, fires, formations with abnormal pressures, pollution and environmental risks and natural disasters.  We also face various security risks, including cyber security threats to gain unauthorized access to sensitive information, render data or systems unusable or otherwise disrupt our business operations, and threats to the security of our or third parties’ facilities and infrastructure, such as processing plants and pipelines.  These risks could result in substantial losses due to personal injury and/or loss of life, severe damage to and destruction of property and equipment, pollution or other environmental damage, disruptions to our operations and loss of sensitive confidential information.  Moreover, in
+ 
+17
+
+
+
+
+
+
+Table of Contents
+ 
+the event that one or more of these hazards occur, there can be no assurance that a response will be adequate to limit or reduce damage.  As a result of these risks, we are also sometimes a defendant in legal proceedings and litigation arising in the ordinary course of business.  There can be no assurance that the insurance policies we maintain to limit our liability for such losses will be adequate to protect us from all material expenses related to potential future claims for personal injury and property damage or that such levels of insurance will be available in the future at economical prices or to cover all risks.
+ 
+Our failure to develop, obtain or maintain the necessary infrastructure to successfully deliver gas to market may adversely affect our earnings, cash flows and results of operations.
+ 
+Our delivery of gas depends upon the availability, proximity and capacity of pipelines, other transportation facilities and gathering and processing facilities. The capacity of transportation, gathering and processing facilities may be insufficient to accommodate potential production from existing and new wells.  Competition for pipeline infrastructure within the region is intense, and many of our competitors have substantially greater financial resources than we do, which could affect our competitive position. The Company’s investment in midstream infrastructure is intended to address a lack of capacity on, and access to, existing gathering and transportation pipelines as well as curtailments on such pipelines. Our infrastructure development and maintenance programs can involve significant risks, including those related to timing, cost overruns and operational efficiency, and these risks can be affected by the availability of capital, materials and qualified contractors and work force, as well as weather conditions, gas price volatility, government approvals, title and property access problems, geology, compliance by third parties with their contractual obligations to us and other factors.  We also deliver to and are served by third-party gas transportation, gathering, processing and storage facilities which are limited in number, geographically concentrated and subject to the same risks identified above with respect to our infrastructure development and maintenance programs.  Because we do not own these third-party pipelines or facilities, their continuing operation is not within our control. An extended interruption of access to or service from our or third-party pipelines and facilities for any reason, including cyber-attacks on such pipelines and facilities, could result in adverse consequences to us, such as delays in producing and selling our natural gas.  In such event, we might have to shut in our wells awaiting a pipeline connection or capacity and/or sell natural gas production at significantly lower prices than those quoted on NYMEX or than we currently project.  In addition, some of our third-party contracts may involve significant long-term financial commitments on our part.  Moreover, our usage of third parties for transportation, gathering and processing services subjects us to the credit and performance risk of such third parties and may make us dependent upon those third parties to get our produced natural gas to market.
+ 
+Also, our producing properties and operations are limited to the Appalachian Basin, making us vulnerable to risks associated with operating in limited geographic areas. As a result, we may be disproportionately exposed to the impact of delays or interruptions of production caused by transportation capacity constraints, curtailment of production, availability of equipment, facilities, personnel or services, significant governmental regulation, natural disasters, adverse weather conditions, plant closures for scheduled maintenance or interruption of transportation of gas produced from this area.
+ 
+Strategic determinations, including the allocation of capital and other resources to strategic opportunities, are challenging, and our failure to appropriately allocate capital and resources among our strategic opportunities may adversely affect our financial condition and reduce our growth rate.
+ 
+Our future growth prospects are dependent upon our ability to identify optimal strategies for our business. In developing our 2014 business plan, we considered allocating capital and other resources to various aspects of our businesses, including well development (primarily drilling), reserve acquisitions, exploratory activities, midstream infrastructure, corporate items and other alternatives.  We also considered our likely sources of capital and evaluated opportunities outside of the Appalachian Basin.  Notwithstanding the determinations made in the development of our 2014 plan, business opportunities not previously identified periodically come to our attention, including possible acquisitions and dispositions. If we fail to identify optimal business strategies, including the appropriate rate of reserve development, or fail to optimize our capital investment and capital raising opportunities and the use of our other resources in furtherance of our business strategies, our financial condition and growth rate may be adversely affected.  Moreover economic or other circumstances may change from those contemplated by our 2014 plan, and our failure to recognize or respond to those changes may limit our ability to achieve our objectives.
+ 
+18
+
+
+
+
+
+
+Table of Contents
+ 
+We periodically engage in acquisitions, dispositions and other strategic transactions.  These transactions involve various inherent risks, such as our ability to obtain the necessary regulatory approvals; the timing of and conditions imposed upon us by regulators in connection with such approvals; and our ability to achieve benefits anticipated to result from acquisition or disposition of the assets.  In addition, various factors including prevailing market conditions could negatively impact the benefits we receive from transactions.  Our inability to complete a transaction or to achieve our strategic or financial goals in any transaction could have significant adverse effects on our earnings, cash flows and financial position.
+ 
+Our need to comply with comprehensive, complex and sometimes unpredictable government regulations may increase our costs and limit our revenue growth, which may result in reduced earnings.
+ 
+Our operations are regulated extensively at the federal, state and local levels.  Laws, regulations and other legal requirements have increased the cost to plan, design, drill, install, operate and abandon wells, gathering and transmission systems and pipelines.  Environmental, health and safety legal requirements govern discharges of substances into the air and water; the management and disposal of hazardous substances and wastes; the clean-up of contaminated sites; groundwater quality and availability; plant and wildlife protection; locations available for drilling and pipeline construction; environmental impact studies and assessments prior to permitting; restoration of drilling properties after drilling is completed; pipeline safety (including replacement requirements); and work practices related to employee health and safety.  Compliance with the laws, regulations and other legal requirements applicable to our businesses may increase our cost of doing business or result in delays due to the need to obtain additional or more detailed governmental approvals and permits.  These requirements could also subject us to claims for personal injuries, property damage and other damages.  Our failure to comply with the laws, regulations and other legal requirements applicable to our businesses, even if as a result of factors beyond our control, could result in the suspension or termination of our operations and subject us to administrative, civil and criminal penalties and damages.
+ 
+The rates charged to customers by our gathering, transportation and storage businesses are, in many cases, subject to federal regulation by the FERC, which may prohibit us from realizing a level of return which we believe is appropriate. These restrictions may take the form of imputed revenue credits, cost disallowances and/or expense deferrals.
+ 
+Laws, regulations and other legal requirements are constantly changing, and implementation of compliant processes in response to such changes could be costly and time consuming.  In addition to periodic changes to air, water and waste laws, as well as recent EPA initiatives to impose climate change-based air regulations on the industry, the U.S. Congress and various states have been evaluating climate-related legislation and other regulatory initiatives that would further restrict emissions of greenhouse gases, including methane (a primary component of natural gas) and carbon dioxide (a byproduct of burning natural gas). Such restrictions may result in additional compliance obligations with respect to, or taxes on the release, capture and use of, greenhouse gases that could have an adverse effect on our operations.
+ 
+Another area of potential regulation is hydraulic fracturing, which we utilize to complete most of our natural gas wells. Certain environmental and other groups have suggested that additional laws and regulations may be needed to more closely regulate the hydraulic fracturing process, and legislation has been proposed or is under discussion at the federal and state levels.  We cannot predict whether any such federal or state legislation or regulation will be enacted and, if enacted, how it may affect our operations, but enactment of additional laws or regulations could increase our operating costs.
+ 
+Recent discussions regarding the federal budget have included proposals which could potentially increase and accelerate the payment of federal and collaterally state income taxes of independent producers with the potential repeal of the ability to expense intangible drilling costs having the most significant potential future impact to us. These changes, if enacted, will make it more costly for us to explore for and develop our natural gas resources.
+ 
+The rates of federal, state and local taxes applicable to the industries in which we operate, including production taxes paid by EQT Production, which often fluctuate, could be increased by the various taxing
+ 
+19
+
+
+
+
+
+
+Table of Contents
+ 
+authorities.  In addition, the tax laws, rules and regulations that affect our business, such as the imposition of a new severance tax (a tax on the extraction of natural resources) in states in which we produce gas, could change. Any such increase or change could adversely impact our earnings, cash flows and financial position.
+ 
+In July 2010, the U.S. Congress adopted comprehensive financial reform legislation that establishes federal oversight and regulation of the over-the-counter derivative market and entities, such as the Company, that participate in that market. The new legislation, known as the Dodd-Frank Act, required the CFTC, the SEC and other regulatory agencies to promulgate rules and regulations implementing the new legislation. As of the filing date of this Annual Report, the CFTC had adopted and implemented many final rules that impose regulatory obligations on all market participants, including the Company, such as recordkeeping and certain reporting obligations.  Other rules that may be relevant to the Company or its counterparties have yet to be proposed or finalized and, in some cases, finalized rules have yet to be implemented.  Because significant rules relevant to natural gas hedging activities are still at the proposal stage, it is not possible at this time to predict the extent of the impact of the new regulations on the Company’s hedging program, including available counterparties, or regulatory compliance obligations.  The Company anticipates, however, increased compliance costs and changes to current market practices as participants continue to adapt to a changing regulatory environment.
+ 
+We have substantial capital requirements, and we may not be able to obtain needed financing on satisfactory terms, if at all.
+ 
+We rely upon access to both short-term bank and money markets and longer-term capital markets as sources of liquidity for any capital requirements not satisfied by the cash flows from operations or other sources.  Future challenges in the global financial system, including the capital markets, may adversely affect our business and our financial condition.  Our ability to access the capital markets may be restricted at a time when we desire, or need, to raise capital, which could have an impact on our flexibility to react to changing economic and business conditions. Adverse economic and market conditions could adversely affect the collectability of our trade receivables and cause our commodity hedging counterparties to be unable to perform their obligations or to seek bankruptcy protection.  Future challenges in the economy could also lead to reduced demand for natural gas which could have a negative impact on our revenues and our credit ratings.
+ 
+Any downgrade of our credit ratings may increase the cost of borrowing or adversely affect our ability to raise capital through the issuance of debt or equity securities or other borrowing arrangements, which could adversely affect our business, results of operations and liquidity.  We cannot be sure that our current ratings will remain in effect for any given period of time or that our rating will not be lowered or withdrawn entirely by a rating agency.  An increase in the level of our indebtedness in the future may result in a downgrade in the ratings that are assigned to our debt.  Any downgrade in our ratings could result in an increase in our borrowing costs, which would diminish financial results.
+ 
+Our failure to assess production opportunities based on market conditions could negatively impact our long-term growth prospects for our production business.
+ 
+Our goal of sustaining long-term growth for our production business is contingent upon our ability to identify production opportunities based on market conditions.  Our decision to drill a well is subject to a number of factors which may alter our drilling schedule or our plans to drill at all. We may have difficulty drilling all of the wells before the lease term expires which could result in the loss of certain leasehold rights, or we could drill wells in locations where we do not have the necessary infrastructure to deliver the gas to market.  Successfully identifying production opportunities involves a high degree of business experience, knowledge and careful evaluation of potential opportunities, along with subjective judgments and assumptions which may prove to be incorrect.  In addition, any exploration projects increase the risks inherent in our natural gas activities.  Specifically, seismic data is subject to interpretation and may not accurately identify the presence of natural gas or other hydrocarbons, which could adversely affect the results of our operations. Because we have a limited operating history in certain areas, our future operating results may be difficult to forecast, and our failure to sustain high growth rates in the future could adversely affect the market price of our common stock.
+ 
+20
+
+
+
+
+
+
+Table of Contents
+ 
+The amount and timing of actual future gas production is difficult to predict and may vary significantly from our estimates, which may reduce our earnings.
+ 
+Our future success depends upon our ability to develop additional gas reserves that are economically recoverable and to optimize existing well production, and our failure to do so may reduce our earnings.  Our drilling and subsequent maintenance of wells can involve significant risks, including those related to timing, cost overruns and operational efficiency, and these risks can be affected by the availability of capital, leases, rigs, equipment, a qualified work force, and adequate capacity for the treatment and recycling or disposal of waste water generated in our operations, as well as weather conditions, gas price volatility, government approvals, title and property access problems, geology, equipment failure or accidents and other factors.  Drilling for natural gas can be unprofitable, not only from dry wells, but from productive wells that do not produce sufficient revenues to return a profit.  Additionally, a failure to effectively and efficiently operate existing wells may cause production volumes to fall short of our projections.  Without continued successful development or acquisition activities, together with effective operation of existing wells, our reserves and revenues will decline as a result of our current reserves being depleted by production.
+ 
+We also rely on third parties for certain construction, drilling and completion services, materials and supplies.  Delays or failures to perform by such third parties could adversely impact our earnings, cash flows and financial position.
+ 
+The loss of key personnel could adversely affect our ability to execute our strategic, operational and financial plans.
+ 
+Our operations are dependent upon key management and technical personnel, and one or more of these individuals could leave our employment. The unexpected loss of the services of one or more of these individuals could have a detrimental effect on us. In addition, the success of our operations will depend, in part, on our ability to attract, develop and retain experienced personnel. There is competition within our industry for experienced technical personnel and certain other professionals, which could increase the costs associated with attracting and retaining such personnel. If we cannot attract, develop and retain our technical and professional personnel or attract additional experienced technical and professional personnel, our ability to compete could be harmed.
+ 
+Negative public perception regarding us and/or our industry could have an adverse effect on our operations.
+ 
+Negative public perception regarding us and/or our industry resulting from, among other things, oil spills, the explosion of natural gas transmission lines and concerns raised by advocacy groups about hydraulic fracturing, may lead to increased regulatory scrutiny which may, in turn, lead to new local, state and federal safety and environmental laws, regulations, guidelines and enforcement interpretations.  These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and increased risk of litigation.  Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. Negative public perception could cause the permits we need to conduct our operations to be withheld, delayed or burdened by requirements that restrict our ability to profitably conduct our business.
+ 
+The standardized measure of discounted future net cash flows from our proved reserves will not be the same as the current market value of our estimated natural gas and oil reserves.
+ 
+You should not assume that the standardized measure of discounted future net cash flows from our proved reserves is the current market value of our estimated natural gas and oil reserves.  In accordance with SEC requirements, we based the discounted future net cash flows from our proved reserves on the twelve month unweighted arithmetic average of the first-day-of-the-month price for the preceding twelve months without giving effect to derivative transactions. Actual future net cash flows from our properties will be affected by factors such as the actual prices we receive for natural gas, NGLs and oil and the amount, timing and cost of actual production.  In addition, the 10% discount factor we use when calculating standardized measure may not be the most appropriate discount factor based on interest rates in effect from time to time and risks associated with us or the natural gas, NGL and oil industry in general.
+ 
+21
+
+
+
+
+
+
+Table of Contents
+ 
+Our proved reserves are estimates that are based upon many assumptions that may prove to be inaccurate.  Any significant change in these underlying assumptions will greatly affect the quantities and present value of our reserves.
+ 
+Reserve engineering is a subjective process involving estimates of underground accumulations of natural gas, NGLs and oil and assumptions concerning future prices, production levels and operating and development costs.   These estimates and assumptions are inherently imprecise.  As a result, estimated quantities of proved reserves and projections of future production rates and the timing of development expenditures may prove to be inaccurate.   Any significant variance from our assumptions could greatly affect our estimates of reserves, the economically recoverable quantities of natural gas, NGLs and oil, the classifications of reserves based on risk of recovery and estimates of the future net cash flows.  Numerous changes over time to the assumptions on which our reserve estimates are based, as described above, often result in the actual quantities of natural gas, NGLs and oil we ultimately recover being different from our reserve estimates.
+ 
+See Item 7A, “Quantitative and Qualitative Disclosures About Market Risk,” for further discussion regarding the Company’s exposure to market risks, including the risks associated with our use of derivative contracts to hedge commodity prices.
+ 
+Item 1B

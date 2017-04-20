@@ -1,0 +1,2667 @@
+ITEM 1A.  RISK FACTORS
+      
+       In evaluating NVIDIA and our
+business, the following factors should be considered in addition to the other
+information in this Annual Report on Form 10-K.  Before you buy our
+common stock, you should know that making such an investment involves some risks
+including, but not limited to, the risks described below. Additionally, any one
+of the following risks could seriously harm our business, financial condition
+and results of operations, which could cause our stock price to decline.
+Additional risks and uncertainties not presently known to us or that we
+currently deem immaterial may also impair our business operations.
+      
+      Risks
+Related to Our Business, Industry and Partners
+      
+      We
+depend on foundries to manufacture our products and these third parties may not
+be able to satisfy our manufacturing requirements, which would harm our
+business.
+       
+              We do
+not manufacture the silicon wafers used for our products and do not own or
+operate a wafer fabrication facility. Instead, we are dependent on
+industry-leading foundries, such as Taiwan Semiconductor Manufacturing
+Corporation, or TSMC, to manufacture our semiconductor wafers using their
+fabrication equipment and techniques. A substantial portion of our wafers are
+supplied by TSMC. The foundries, which have limited capacity, also manufacture
+products for other semiconductor companies, including some of our
+competitors.  Since we do not have long-term commitment contracts with
+any of these foundries, they do not have an obligation to provide us with any
+minimum quantity of product at any time or at any set price, except as may be
+provided in a specific purchase order.   Most of our products are
+only manufactured by one foundry at a time.  In times of high demand,
+the foundries could choose to prioritize their capacity for other companies,
+reduce or eliminate deliveries to us, or increase the prices that they charge
+us.  If we are unable to meet customer demand due to reduced or
+eliminated deliveries or have to increase the prices of our products, we could
+lose sales to customers, which would negatively impact our revenue and our
+reputation.  For example, revenue during the fourth quarter of fiscal
+year 2010 was somewhat limited by supply constraints related to 40nm products.
+These supply constraints were driven by limited 40nm wafer foundry capacity as
+well as challenges related to 40nm process manufacturing yields.  As a
+result, we have been forced to allocate our available 40nm product supply among
+our customers.  We expect such supply constraints could have a further
+limiting impact on our revenue for the first quarter of fiscal year
+2011.
+       
+      Because
+the lead-time needed to establish a strategic relationship with a new
+manufacturing partner and achieve initial production could be over a year, we do
+not have an alternative source of supply for our products. In addition, the time
+and effort to qualify a new foundry would result in additional expense,
+diversion of resources, and could result in lost sales, any of which would
+negatively impact our financial results. We believe that long-term market
+acceptance for our products will depend on reliable relationships with the
+third-party manufacturers we use to ensure adequate product supply and
+competitive pricing to respond to customer demand.
+      
+       If our
+Third-Party Foundries are not able to transition to new manufacturing process
+technologies or develop, obtain or successfully implement high quality,
+leading-edge process technologies our operating results and gross margin could
+be adversely affected.
+       
+      We use
+the most advanced manufacturing process technology appropriate for our products
+that is available from our third-party foundries. As a result, we continuously
+evaluate the benefits of migrating our products to smaller geometry process
+technologies in order to improve performance and reduce costs. We believe this
+strategy will help us remain competitive.  Our current product
+families are manufactured using 0.15 micron, 0.14 micron, 0.13 micron, 0.11
+micron, 90 nanometer, 65 nanometer, 55 nanometer and 40 nanometer process
+technologies.   Manufacturing process technologies are subject to
+rapid change and require significant expenditures for research and development,
+which could negatively impact our operating expenses and gross
+margin.
+       
+       We
+have experienced difficulty in migrating to new manufacturing processes in the
+past and, consequently, have suffered reduced yields, delays in product
+deliveries and increased expense levels. We may face similar difficulties,
+delays and expenses as we continue to transition our new products to smaller
+geometry processes. Moreover, we are dependent on our third-party manufacturers
+to invest sufficient funds in new manufacturing processes in order to have ample
+capacity for all of their customers and to develop the processes in a timely
+manner. Our product cycles may also depend on our third-party manufacturers
+migrating to smaller geometry processes successfully and in time for us to meet
+our customer demands.  Some of our competitors own their manufacturing
+facilities and may be able to move to a new state of the art manufacturing
+process more quickly or more successfully than our manufacturing
+partners.   If our suppliers fall behind our competitors in
+manufacturing processes, the development and customer demand for our products
+and the use of our products could be negatively impacted.  If we are
+forced to use larger geometric processes in manufacturing a product than our
+competition, our gross margin may be reduced.  The inability by us or
+our third-party manufacturers to effectively and efficiently transition to new
+manufacturing process technologies may adversely affect our operating results
+and our gross margin.
+       
+      
+        
+          
+          
+        
+        
+          12
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      We cannot
+be certain that our third-party foundries will be able to develop, obtain or
+successfully implement high quality, leading-edge process technologies needed to
+manufacturer our products profitably or on a timely basis or that our
+competitors (including those that own their own manufacturing facilities) will
+not develop such high quality, leading-edge process technologies earlier. If our
+third party-foundries experience manufacturing inefficiencies, we may fail to
+achieve acceptable yields or experience product delivery delays. If our
+third-party foundries fall behind our competitors (including those that own
+their own manufacturing facilities), the development and customer demand for our
+products and the use of our products could be negatively
+impacted.  Additionally, we cannot be certain that our third-party
+foundries will manufacturer our products at a price that is competitive to what
+our competitors pay.  If our third-party foundries do not charge us a
+competitive price, our operating results and gross margin will be negatively
+impacted.
+       
+      Failure
+to achieve expected manufacturing yields for our products could negatively
+impact our financial results and damage our reputation.
+       
+      Manufacturing
+yields for our products are a function of product design, which is developed
+largely by us, and process technology, which typically is proprietary to the
+manufacturer. Low yields may result from either product design or process
+technology failure.  We do not know a yield problem exists until our
+design is manufactured.  When a yield issue is identified, the product
+is analyzed and tested to determine the cause. As a result, yield problems may
+not be identified until well into the production process. Resolution of yield
+problems requires cooperation by, and communication between, us and the
+manufacturer. Because of our potentially limited access to wafer foundry
+capacity, decreases in manufacturing yields could result in an increase in our
+costs and force us to allocate our available product supply among our customers.
+Lower than expected yields could potentially harm customer relationships, our
+reputation and our financial results.
+       
+      Global
+economic conditions may adversely affect our business and financial
+results.
+      
+      Our
+operations and performance depend significantly on worldwide economic
+conditions. Uncertainty about current global economic conditions poses a
+continuing risk to our business as consumers and businesses have postponed
+spending in response to tighter credit, negative financial news and/or declines
+in income or asset values, which have reduced the demand for our products. Other
+factors that could depress demand for our products in the future include
+conditions in the residential real estate and mortgage markets, expectations for
+inflation, labor and healthcare costs, access to credit, consumer confidence,
+and other macroeconomic factors affecting consumer and business spending
+behavior. These and other economic factors have reduced demand for our products
+and could further harm our business, financial condition and operating
+results.
+       
+      The
+financial turmoil that affected the banking system and financial markets and the
+increased possibility that financial institutions may consolidate or go out of
+business resulted in a tightening in the credit markets, a low level of
+liquidity in many financial markets, and extreme volatility in fixed income,
+credit, currency and equity markets. There could be a number of follow-on
+effects from the credit crisis on our business, including insolvency of key
+suppliers resulting in product delays; inability of customers, including channel
+partners, to obtain credit to finance purchases of our products and/or customer,
+including channel partner, insolvencies; and failure of financial institutions,
+which may negatively impact our treasury operations. Other income and expense
+could also vary materially from expectations depending on gains or losses
+realized on the sale or exchange of financial instruments; impairment charges
+related to debt securities as well as equity and other investments; interest
+rates; and cash, cash equivalent and marketable securities balances. Volatility
+in the financial markets and overall economic uncertainty increases the risk
+that the actual amounts realized in the future on our financial instruments
+could differ significantly from the fair values currently assigned to
+them.
+      
+      Our
+business is cyclical in nature and has experienced severe downturns that have,
+and may in the future, materially adversely affect our business and financial
+results.
+       
+      Our
+business is directly affected by market conditions in the highly cyclical
+semiconductor industry. The semiconductor industry has been adversely affected
+by many factors, including the recent global downturn, ongoing efforts by our
+customers to reduce their spending, diminished product demand, increased
+inventory levels, lower average selling prices, uncertainty regarding long-term
+growth rates and underlying financial health and increased competition. These
+factors, could, among other things, limit our ability to maintain or increase
+our sales or recognize revenue and in turn adversely affect our business,
+operating results and financial condition.  If our actions to reduce
+our operating expenses to sufficiently offset these factors during this downturn
+are unsuccessful, our operating results will suffer.
+       
+       
+      
+        
+          
+          
+        
+        
+          13
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Our
+failure to estimate customer demand properly could adversely affect our
+financial results.
+       
+       We
+manufacture our products based on forecasts of customer demand in order to have
+shorter shipment lead times and quicker delivery schedules for our
+customers.  As a result, we may build inventories for anticipated
+periods of growth which do not occur or may build inventory anticipating demand
+for a product that does not materialize. In forecasting demand, we make multiple
+assumptions any of which may prove to be incorrect. Situations that may result
+in excess or obsolete inventory include:
+       
+      
+        
+
+              
+                ·  
+              
+              
+                changes
+      in business and economic conditions, including downturns in the
+      semiconductor industry and/or overall
+economy;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                changes
+      in consumer confidence caused by changes in market conditions, including
+      changes in the credit market, expectations for inflation, and energy
+      prices;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                if
+      there were a sudden and significant decrease in demand for our
+      products;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                if
+      there were a higher incidence of inventory obsolescence because of rapidly
+      changing technology and customer
+requirements;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                if
+      we fail to estimate customer demand properly for our older products as our
+      newer products are introduced; or
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                if
+      our competition were to take unexpected competitive pricing
+      actions.
+              
+            
+      
+      
+      Any
+inability to sell products to which we have devoted resources could harm our
+business. In addition, cancellation or deferral of customer purchase orders
+could result in our holding excess inventory, which could adversely affect our
+gross margin and restrict our ability to fund operations. Additionally, because
+we often sell a substantial portion of our products in the last month of each
+quarter, we may not be able to reduce our inventory purchase commitments in a
+timely manner in response to customer cancellations or deferrals. We could be
+subject to excess or obsolete inventories and be required to take corresponding
+inventory write-downs and/or a reduction in average selling prices if growth
+slows or does not materialize, or if we incorrectly forecast product demand,
+which could negatively impact our financial results.
+       
+      Conversely,
+if we underestimate our customers’ demand for our products, our third party
+manufacturing partners may not have adequate lead-time or capacity to increase
+production for us meaning that we may not be able to obtain sufficient inventory
+to fill our customers’ orders on a timely basis. Even if we are able to increase
+production levels to meet customer demand, we may not be able to do so in a cost
+effective or timely manner. Inability to fulfill our customers’ orders on a
+timely basis, or at all, could damage our customer relationships, result in lost
+revenue, cause a loss in market share, impact our customer relationships or
+damage our reputation, any of which could adversely impact our
+business.
+      
+      Because
+our gross margin for any period depends on a number of factors, our failure to
+forecast changes in any of these factors could adversely affect our gross
+margin.
+       
+      We are
+focused on improving our gross margin. Our gross margin for any period depends
+on a number of factors, including:
+       
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      mix of our products sold;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                average
+      selling prices;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                introduction
+      of new products;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                product
+      transitions;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                sales
+      discounts;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                unexpected
+      pricing actions by our competitors;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      cost of product components; and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      yield of wafers produced by the foundries that manufacture our
+      products.
+              
+            
+      
+        
+      If we do
+not correctly forecast the impact of any of the relevant factors on our
+business, there may not be any actions we can take or we may not be able to take
+any possible actions in time to counteract any negative impact on our gross
+margin.   In addition, if we are unable to meet our gross margin
+target for any period or the target set by analysts, the trading price of our
+common stock may decline. 
+       
+      
+        
+          
+          
+        
+        
+          14
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Our
+revenue may fluctuate while our operating expenses are relatively fixed, which
+makes our results difficult to predict and could cause our results to fall short
+of expectations.
+       
+      Demand
+for many of our revenue components fluctuates and is difficult to predict, and
+our operating expenses are relatively fixed and largely independent of revenue.
+Therefore, it is difficult for us to accurately forecast revenue and profits or
+losses in any particular period.  Our operating expenses, which are
+comprised of research and development expenses, sales, general and
+administrative expenses and restructuring charges represented 38%, 36% and
+25% of our total revenue for fiscal years 2010, 2009 and 2008, respectively.
+ Since we often recognize a substantial portion of our revenue in the last
+month of each quarter, we may not be able to adjust our operating expenses in a
+timely manner in response to any unanticipated revenue shortfalls in any
+quarter. Further, some of our operating expenses, like stock-based
+compensation expense can only be adjusted over a longer period of time and
+cannot be reduced during a quarter.  If we are unable to reduce operating
+expenses quickly in response to any revenue shortfalls, our financial results
+will be negatively impacted.
+       
+      Any one
+or more of the risks discussed in this Annual Report on Form 10-K or other
+factors could prevent us from achieving our expected future revenue or net
+income. Accordingly, we believe that period-to-period comparisons of our results
+of operations should not be relied upon as an indication of future performance.
+Similarly, the results of any quarterly or full fiscal year period are not
+necessarily indicative of results to be expected for a subsequent quarter or a
+full fiscal year. As a result, it is possible that in some quarters our
+operating results could be below the expectations of securities analysts or
+investors, which could cause the trading price of our common stock to decline.
+We believe that our quarterly and annual results of operations may continue to
+be affected by a variety of factors that could harm our revenue, gross profit
+and results of operations.
+      
+       If
+we are unable to sell our MCP products for use with certain Intel processors, we
+may not be able to successfully compete and our business would be negatively
+impacted.
+      
+      Our MCP
+products are currently used with both Intel and AMD
+processors.   Our revenue from MCP products represented 26% of
+our total revenue for fiscal year 2010.  In February 2009, Intel filed
+suit against us related to a patent license agreement that we signed with Intel
+in 2004. Intel seeks an order from the court declaring that the license does not
+extend to a new Intel processor architecture and enjoining us from stating that
+we have licensing rights for this architecture.  If Intel successfully
+obtains such a court order, we could be unable to sell our MCP products for use
+with these Intel processors and our competitive position and financial results
+would be adversely impacted.  In addition, in order to continue to
+sell MCP products for use with these Intel processors we could be required to
+negotiate a new license agreement with Intel and we may not be able to do so on
+reasonable terms, if at all.  
+      
+       In
+March 2009, we asserted counterclaims against Intel pursuant to which we seek an
+order declaring that we have the right to sell certain chipset products with
+Intel’s processors under the chipset license agreement, and enjoining Intel from
+interfering with our licensing rights.  We are also seeking a finding
+that Intel has materially breached its obligations under the chipset license
+agreement, and are requesting various remedies for that breach, including
+termination of Intel’s cross licensing rights.  Notwithstanding our
+belief that the chipset license agreement extends to a component of the new
+Intel processor architecture referred to as Direct Media Interface, or DMI, we
+currently have no intentions of building a DMI-based chipset while this dispute
+remains unresolved.
+       
+      If
+we are unable to compete in the markets for our products, our financial results
+could be adversely impacted.
+       
+      The
+market for our products is characterized by rapid technological change, new
+product introductions, evolving industry standards and declining average selling
+prices.  We believe that the principal competitive factors in this
+market are performance, breadth of product offerings, access to customers and
+distribution channels, software support, conformity to industry standard
+Application Programming Interface, or APIs, manufacturing capabilities, price of
+processors, and total system costs. We believe that our ability to remain
+competitive will depend on how well we are able to anticipate the features and
+functions that customers will demand and whether we are able to deliver
+consistent volumes of our products at acceptable levels of quality and at
+competitive prices. We expect competition to increase from both existing
+competitors and new market entrants with products that may be less costly than
+ours, or may provide better performance or additional features not provided by
+our products. In addition, it is possible that new competitors or alliances
+among competitors could emerge and acquire significant market share.  We
+believe other factors impacting our ability to compete are: 
+      
+      
+        
+
+              
+                ·  
+              
+              
+                product
+      performance;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                product
+      bundling by competitors with multiple product
+  lines;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                breadth
+      and frequency of product offerings;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                access
+      to customers and distribution
+channels;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                backward-forward
+      software support;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                conformity
+      to industry standard application programming interfaces;
+    and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                manufacturing
+      capabilities.
+              
+            
+      
+      
+          A significant
+source of competition is from companies that provide or intend to provide GPUs
+and mobile and consumer products.  Some of our competitors may have
+greater marketing, financial, distribution and manufacturing resources than we
+do and may be more able to adapt to customer or technological
+changes.
+        
+      
+        
+          
+          
+        
+        
+          15
+          
+            
+          
+        
+        
+          
+          
+        
+      
+                 
+           Our
+current competitors include the following:
+       
+      
+        
+
+              
+                ·  
+              
+              
+                suppliers
+      of GPUs, including MCPs that incorporate 3D graphics functionality as part
+      of their existing solutions, such as AMD, Intel, Matrox Electronics
+      Systems Ltd., SIS, and VIA;
+and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                suppliers
+      of system-on-a-chip products that support netbooks, PNDs, PMPs, PDAs,
+      cellular phones, handheld devices or embedded devices such as AMD,
+      Broadcom, Freescale Semiconductor Inc., Fujitsu Limited, Imagination
+      Technologies Ltd., ARM Holdings plc, Marvell Technology Group Ltd, or
+      Marvell, NEC Corporation, Qualcomm Incorporated, Renesas Technology,
+      Samsung, Seiko-Epson, ST Microelectronics, Texas Instruments Incorporated,
+      and Toshiba America, Inc.;
+              
+            
+      
+       
+       If
+and to the extent we offer products in new markets, we may face competition from
+some of our existing competitors as well as from companies with which we
+currently do not compete. For example, in the case of our CPB, our Tegra
+products primarily compete in tablets, smartbooks, smartphones and other
+handheld consumer devices.  We cannot accurately predict if we will
+compete successfully in any of the new markets we may enter. If we are unable to
+compete in our current or new markets, demand for our products could decrease
+which could cause our revenue to decline and our financial results to
+suffer.
+       
+      We
+are dependent on the personal computer market and its rate of growth in the
+future may have a negative impact on our business.
+       
+      We derive
+and expect to continue to derive the majority of our revenue from the sale
+or license of products for use in the desktop personal computer, or PC, and
+notebook PC markets, including professional workstations. A reduction in sales
+of PCs, or a reduction in the growth rate of PC sales, may reduce demand for our
+products. These changes in demand could be large and sudden. During fiscal year
+2010, sales of our desktop GPU products increased by approximately 1% compared
+to fiscal year 2009.  The increase in the sale of desktop GPU products
+was primarily driven by unit volume growth in the high-end and mainstream
+segments as market demand appeared to begin to recover from recessionary
+conditions that began in the prior year. However, sales of our notebook GPU
+products decreased by approximately 31% compared to fiscal year 2009. This
+decline was driven primarily by a combination of the decline in unit demand and
+in average selling prices, or ASPs, due to increased competition in the
+marketplace.  Since PC manufacturers often build inventories during periods
+of anticipated growth, they may be left with excess inventories if growth slows
+or if they incorrectly forecast product transitions. In these cases, PC
+manufacturers may abruptly suspend substantially all purchases of additional
+inventory from suppliers like us until their excess inventory has been absorbed,
+which would have a negative impact on our financial results.
+      
+       As
+Intel and AMD continue to pursue platform solutions, we may not be able to
+successfully compete and our business would be negatively impacted.
+       
+       We
+expect substantial competition from both Intel’s and AMD’s strategy of selling
+platform solutions, such as the success Intel achieved with its Centrino
+platform solution.  AMD has also announced a platform
+solution.  Additionally, Intel and AMD have each announced its
+intention to integrate a central processing unit, or CPU, and a GPU on the same
+chip or same package, as evidenced by AMD’s announcement of its Fusion processor
+project and Intel’s announcement of its multichip packaged solution codenamed
+Arrandale.  If AMD and Intel continue to pursue platform solutions, we
+may not be able to successfully compete and our business would be negatively
+impacted.
+        
+      Our
+business results could be adversely affected if the identification and
+development of new products or entry into or development of a new market is
+delayed or unsuccessful.
+       
+      In order
+to maintain or improve our financial results, we will need to continue to
+identify and develop new products as well as identify and enter new
+markets.  As our GPUs and other processors develop and competition
+increases, we anticipate that product life cycles at the high end will remain
+short and average selling prices will decline. In particular, average selling
+prices and gross margins for our GPUs and other processors could decline as each
+product matures and as unit volume increases. As a result, we will need to
+introduce new products and enhancements to existing products to maintain or
+improve overall average selling prices, our gross margin and our financial
+results. We believe the success of our new product introductions will
+depend on many factors outlined elsewhere in these risk factors as well as the
+following:
+      
+      
+        
+
+              
+                ·  
+              
+              
+                market
+      demand for new products and enhancements to existing
+    products;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                timely
+      completion and introduction of new product designs and new opportunities
+      for existing products;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                seamless
+      transitions from an older product to a new
+  product;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                differentiation
+      of our new products from those of our
+  competitors;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                delays
+      in volume shipments of our
+products;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                market
+      acceptance of our products instead of our customers' products;
+      and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                availability
+      of adequate quantity and configurations of various types of memory
+      products.
+              
+            
+      
+      
+        In
+the past, we have experienced delays in the development and adoption of new
+products and have been unable to successfully manage product transitions from
+older to newer products resulting in obsolete inventory.
+       
+      
+        
+          
+          
+        
+        
+          16
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      To be
+successful, we must also enter new markets or develop new uses for our future or
+existing products. We cannot accurately predict if our current or existing
+products or technologies will be successful in the new opportunities or markets
+that we identify for them or that we will compete successfully in any new
+markets we may enter. For example, we have developed products and other
+technology in order for certain general-purpose computing operations to be
+performed on a GPU rather than a CPU.  This general purpose computing,
+which is often referred to as GP computing, was a new use for the GPU which had
+been entirely used for graphics rendering.  During fiscal year 2008,
+we introduced our NVIDIA Tesla family of products, which was our entry into the
+high-performance computing industry, a new market for us.  During
+fiscal year 2010, we introduced our next generation CUDA GPU architecture,
+codenamed “Fermi,” which we expect to be the foundation for computational GPUs
+and  enable breakthroughs in both graphics and parallel
+computing.  Some of our competitors, including Intel, are now developing
+their own solutions for the discrete graphics and computing markets. Our failure
+to successfully develop, introduce or achieve market acceptance for new GPUs,
+other products or other technologies or to enter into new markets or identify
+new uses for existing or future products, could result in rapidly declining
+average selling prices, reduced demand for our products or loss of market share
+any of which could cause our revenue, gross margin and overall financial results
+to suffer.
+       
+       If
+we are unable to achieve design wins, our products may not be adopted by our
+target markets or customers either of which could negatively impact our
+financial results.
+       
+      The
+success of our business depends to a significant extent on our ability to
+develop new competitive products for our target markets and customers. We
+believe achieving design wins, which entails having our existing and future
+products chosen for hardware components or subassemblies designed by OEMs, ODMs,
+add-in board and motherboard manufacturers, is an integral part of our future
+success. Our OEM, ODM, and add-in board and motherboard manufacturers’ customers
+typically introduce new system configurations as often as twice per year,
+typically based on spring and fall design cycles or in connection with trade
+shows. Accordingly, when our customers are making their design decisions, our
+existing products must have competitive performance levels or we must timely
+introduce new products in order to be included in our customers’ new system
+configurations. This requires that we:
+       
+      
+        
+
+              
+                ·  
+              
+              
+                anticipate
+      the features and functionality that customers and consumers will
+      demand;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                incorporate
+      those features and functionalities into products that meet the exacting
+      design requirements
+  of  our  customers;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                price
+      our products competitively; and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                introduce
+      products to the market within our customers’ limited design
+      cycles.
+              
+            
+      
+       
+      If OEMs,
+ODMs, and add-in board and motherboard manufacturers do not include our products
+in their systems, they will typically not use our products in their systems
+until at least the next design configuration. Therefore, we endeavor to develop
+close relationships with our OEMs and ODMs, in an attempt to better anticipate
+and address customer needs in new products so that we will achieve design
+wins.
+      
+      Our
+ability to achieve design wins also depends in part on our ability to identify
+and be compliant with evolving industry standards. Unanticipated changes in
+industry standards could render our products incompatible with products
+developed by major hardware manufacturers and software developers like AMD,
+Intel and Microsoft Corporation, or Microsoft.  If our products
+are not in compliance with prevailing industry standards, we may not be designed
+into our customers’ product designs.  However, to be compliant with
+changes to industry standards, we may have to invest significant time and
+resources to redesign our products which could negatively impact our gross
+margin or operating results. If we are unable to achieve new design wins for
+existing or new customers, we may lose market share and our operating results
+would be negatively impacted.
+      
+      If
+our products do not continue to be adopted by our target markets or if the
+demand for new and innovative products in our target markets decreases, our
+business and operating results would suffer.
+       
+       Our
+success depends in part upon continued broad adoption of our processors for 3D
+graphics and multimedia in desktop PC, notebook PC, workstation,
+high-performance computing, netbooks, smartbooks, tablets, smartphones, and
+video game console applications. The market for processors has been
+characterized by unpredictable and sometimes rapid shifts in the popularity of
+products, often caused by the publication of competitive industry benchmark
+results, changes in pricing of dynamic random-access memory devices and other
+changes in the total system cost of add-in boards, as well as by severe price
+competition and by frequent new technology and product introductions. Broad
+market acceptance is difficult to achieve and such market acceptance, if
+achieved, is difficult to sustain due to intense competition and frequent new
+technology and product introductions. Our GPU and MCP businesses together
+comprised approximately 79%, 75% and 79% of our revenue for fiscal years 2010,
+2009 and 2008, respectively.  As such, our financial results would
+suffer if for any reason our current or future GPUs or MCPs do not continue to
+achieve widespread adoption by the PC market. If we are unable to complete the
+timely development of new products or if we were unable to successfully and
+cost-effectively manufacture and deliver products that meet the requirements of
+the desktop PC, notebook PC, workstation, high-performance computing, netbook,
+smartbooks, tablets, smartphones, and video game console markets, we may
+experience a decrease in revenue which could negatively impact our operating
+results.
+       
+       Additionally,
+there can be no assurance that the industry will continue to demand new products
+with improved standards, features or performance. If our customers, OEMs, ODMs,
+add-in-card and motherboard manufacturers, system builders and consumer
+electronics companies, do not continue to design products that require more
+advanced or efficient processors and/or the market does not continue to demand
+new products with increased performance, features, functionality or standards,
+sales of our products could decline and the markets for our products could
+shrink. Decreased sales of our products for these markets could negatively
+impact our revenue and our financial results.
+       
+      
+        
+          
+          
+        
+        
+          17
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      If
+our products contain significant defects our financial results could be
+negatively impacted, our reputation could be damaged and we could lose market
+share.
+      
+      Our
+products are complex and may contain defects or experience failures due to any
+number of issues in design, fabrication, packaging, materials and/or use within
+a system. If any of our products or technologies contains a defect,
+compatibility issue or other error, we may have to invest additional research
+and development efforts to find and correct the issue.  Such efforts
+could divert our engineers’ attention from the development of new products and
+technologies and could increase our operating costs and reduce our gross margin.
+In addition, an error or defect in new products or releases or related software
+drivers after commencement of commercial shipments could result in failure to
+achieve market acceptance or loss of design wins. Also, we may be required to
+reimburse customers, including our customers’ costs to repair or replace
+products in the field. A product recall or a significant number of product
+returns could be expensive, damage our reputation, could result in the shifting
+of business to our competitors and could result in litigation against us. Costs
+associated with correcting defects, errors, bugs or other issues could be
+significant and could materially harm our financial results.   For
+example, during fiscal year 2010, we recorded an additional net warranty charge
+of $95.8 million against cost of revenue to cover anticipated customer warranty,
+repair, return, replacement and other costs arising from a weak die/packaging
+material set in certain versions of our previous generation MCP and GPU products
+used in notebook systems. This charge included an additional accrual of $164.4
+million for related estimated costs, offset by reimbursements from insurance
+carriers of $68.6 million that we recorded against cost of revenue during fiscal
+year 2010. During fiscal year 2009, we recorded a net warranty charge of $189.3
+million charge against cost of revenue for the purpose of supporting the product
+repair costs of our affected customers around the world.  This charge
+included an accrual of $196.0 million for related estimated costs, offset by
+reimbursements from insurance carriers of $6.7 million that we recorded against
+cost of revenue during fiscal year 2009. In September, October and November
+2008, several putative class action lawsuits were filed against us, asserting
+various claims related to the impacted MCP and GPU products.  Please
+refer to the risk entitled “We
+are subject to litigation arising from alleged defects in our previous
+generation MCP and GPU products, which if determined adversely to us, could harm
+our business” for the risk associated with this litigation.
+      
+      We
+may have to invest more resources in research and development than anticipated,
+which could increase our operating expenses and negatively impact our operating
+results.
+      
+      If new
+competitors, technological advances by existing competitors, our entry into new
+markets, or other competitive factors require us to invest significantly greater
+resources than anticipated in our research and development efforts, our
+operating expenses would increase.  Our engineering and technical
+resources include 3,940 full-time employees as of January 31, 2010 and 3,772
+employees as of January 25, 2009, respectively.  Research and
+development expenditures were $908.9 million, $855.9 million and $691.6 million,
+for fiscal years 2010, 2009 and 2008, respectively.  Research and
+development expenses included stock-based compensation expense of $151.8
+million, $98.0 million and $76.6 million for fiscal years 2010, 2009 and 2008,
+respectively.  If we are required to invest significantly greater
+resources than anticipated in research and development efforts without a
+corresponding increase in revenue, our operating results could decline. Research
+and development expenses are likely to fluctuate from time to time to the extent
+we make periodic incremental investments in research and development and these
+investments may be independent of our level of revenue which could negatively
+impact our financial results. In order to remain competitive, we anticipate that
+we will continue to devote substantial resources to research and development,
+and we expect these expenses to increase in absolute dollars in the foreseeable
+future due to the increased complexity and the greater number of products under
+development.
+       
+       We
+are dependent on third parties for assembly, testing and packaging of our
+products, which reduces our control over the delivery schedule, product quantity
+or product quality.
+       
+      Our
+products are assembled, tested and packaged by independent subcontractors, such
+as Advanced Semiconductor Engineering, Inc., Amkor Technology, JSI Logistics,
+Ltd., King Yuan Electronics Co., Siliconware Precision Industries Co. Ltd., and
+ChipPAC. As a result, we do not directly control our product delivery schedules,
+product quantity, or product quality.  All of these subcontractors
+assemble, test and package products for other companies, including some of our
+competitors.  Since we do not have long-term agreements with our
+subcontractors, when demand for subcontractors to assemble, test or package
+products is high, our subcontractors may decide to prioritize the orders of
+other customers over our orders.  Since the time required to qualify a
+different subcontractor to assemble, test or package our products can be
+lengthy, if we have to find a replacement subcontractor we could experience
+significant delays in shipments of our products, product shortages, a decrease
+in the quality of our products, or an increase in product cost. Any product
+shortages or quality assurance problems could increase the costs of manufacture,
+assembly or testing of our products, which could cause our gross margin and
+revenue to decline. 
+        
+       We
+rely on third-party vendors to supply software development tools to us for the
+development of our new products and we may be unable to obtain the tools
+necessary to develop or enhance new or existing products.
+       
+       We
+rely on third-party software development tools to assist us in the design,
+simulation and verification of new products or product enhancements. To bring
+new products or product enhancements to market in a timely manner, or at all, we
+need software development tools that are sophisticated enough or technologically
+advanced enough to complete our design, simulations and
+verifications.  In the past, we have experienced delays in the
+introduction of products as a result of the inability of then available software
+development tools to fully simulate the complex features and functionalities of
+our products. In the future, the design requirements necessary to meet consumer
+demands for more features and greater functionality from our products may exceed
+the capabilities of available software development
+tools.  Unavailability of software development tools may result in our
+missing design cycles or losing design wins, either of which could result in a
+loss of market share or negatively impact our operating results.
+       
+      Because
+of the importance of software development tools to the development and
+enhancement of our products, a critical component of our product development
+efforts is our partnerships with leaders in the computer-aided design industry,
+including Cadence Design Systems, Inc. and Synopsys, Inc. We have invested
+significant resources to develop relationships with these industry leaders and
+have often assisted them in the definition of their new products. We believe
+that forming these relationships and utilizing next-generation development tools
+to design, simulate and verify our products will help us remain at the forefront
+of the 3D graphics, communications and networking segments and develop products
+that utilize leading-edge technology on a rapid basis. If these relationships
+are not successful, we may be unable to develop new products or product
+enhancements in a timely manner, which could result in a loss of market share, a
+decrease in revenue or negatively impact our operating results.
+       
+      
+        
+          
+          
+        
+        
+          18
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      We
+sell our products to a small number of customers and our business could suffer
+if we lose any of these customers.
+       
+       We
+have a limited number of customers and our sales are highly
+concentrated.   We recorded approximately 12% of total revenue
+from one customer, approximately 11% of total revenue from one customer and
+approximately 10% of our total revenue from another customer for fiscal year
+2010, 2009 and 2008, respectively.  Although a small number of our
+other customers represent the majority of our revenue, their end customers
+include a large number of OEMs, and system integrators throughout the world who,
+in many cases, specify the graphics supplier. Our sales process involves
+achieving key design wins with leading PC, OEMs and major system builders and
+supporting the product design into high volume production with key contract
+equipment manufacturers, or CEMs, ODMs, add-in board and motherboard
+manufacturers. These design wins in turn influence the retail and system builder
+channel that is serviced by CEMs, ODMs, add-in board and motherboard
+manufacturers. Our distribution strategy is to work with a small number of
+leading independent CEMs, ODMs, add-in board and motherboard manufacturers, and
+distributors, each of which has relationships with a broad range of system
+builders and leading PC OEMs. If we were to lose sales to our PC OEMs, CEMs,
+ODMs, add-in board manufacturers and motherboard manufacturers and were unable
+to replace the lost sales with sales to different customers, if they were to
+significantly reduce the number of products they order from us, or if we were
+unable to collect accounts receivable from them, our revenue may not reach or
+exceed the expected level in any period, which could harm our financial
+condition and our results of operations.
+       
+             
+Any difficulties in collecting accounts receivable, including from foreign
+customers, could harm our operating results and financial
+condition.
+       
+             Our
+accounts receivable are highly concentrated and make us vulnerable to adverse
+changes in our customers’ businesses, and to downturns in the industry and the
+worldwide economy.  We recorded approximately 20% of our accounts
+receivable balance from two customers at January 31, 2010 and approximately 38%
+of our accounts receivable balance from three customers at January 25,
+2009.
+       
+             Difficulties
+in collecting accounts receivable could materially and adversely affect our
+financial condition and results of operations. These difficulties are heightened
+during periods when economic conditions worsen. We continue to work directly
+with more foreign customers and it may be difficult to collect accounts
+receivable from them. We maintain an allowance for doubtful accounts for
+estimated losses resulting from the inability of our customers to make required
+payments. This allowance consists of an amount identified for specific customers
+and an amount based on overall estimated exposure. If the financial condition of
+our customers were to deteriorate, resulting in an impairment in their ability
+to make payments, additional allowances may be required, we may be required to
+defer revenue recognition on sales to affected customers, and we may be required
+to pay higher credit insurance premiums, any of which could adversely affect our
+operating results. In the future, we may have to record additional reserves or
+write-offs and/or defer revenue on certain sales transactions which could
+negatively impact our financial results.
+      
+             We
+obtain credit insurance over the purchasing credit extended to certain
+customers. As a result of the tightening of the credit markets, we may not be
+able to acquire credit insurance on the credit we extend to these customers or
+in amounts that we deem sufficient. While we have procedures to monitor and
+limit exposure to credit risk on our accounts receivable, there can be no
+assurance such procedures will effectively limit our credit risk or avoid
+losses, which could harm our financial condition or operating
+results.
+      
+      We
+are subject to risks associated with international operations which may harm our
+business.
+       
+      We
+conduct our business worldwide.  Our semiconductor wafers are
+manufactured, assembled, tested and packaged by third-parties located outside of
+the United States and other Americas.  We generated 84%, 87% and 89%
+of our revenue for fiscal years 2010, 2009 and 2008, respectively, from sales to
+customers outside the United States and other Americas.  As of January
+31, 2010, we had offices in fifteen countries outside of the United
+States.  The manufacture, assembly, test and packaging of our products
+outside of the United States, operation of offices outside of the United States,
+and sales to customers internationally subjects us to a number of risks,
+including:
+      
+      
+        
+
+              
+                ·  
+              
+              
+                international
+      economic and political conditions, such as political tensions between
+      countries in which we do business;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                unexpected
+      changes in, or impositions of, legislative or regulatory requirements;
+       
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                complying
+      with a variety of foreign laws;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                differing
+      legal standards with respect to protection of intellectual property and
+      employment practices;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                cultural
+      differences in the conduct of
+business; 
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                inadequate
+      local infrastructure that could result in business
+      disruptions; 
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                exporting
+      or importing issues related to export or import restrictions, tariffs,
+      quotas and other trade barriers and
+  restrictions; 
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                financial
+      risks such as longer payment cycles, difficulty in collecting accounts
+      receivable and fluctuations in currency exchange
+  rates;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                imposition
+      of additional taxes and
+penalties; and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                other
+      factors beyond our control such as terrorism, civil unrest, war and
+      diseases such as severe acute respiratory syndrome and the Avian flu.
+       
+              
+            
+      
+       
+       
+      
+        
+          
+          
+        
+        
+          19
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      If sales
+to any of our customers outside of the United States and other Americas are
+delayed or cancelled because of any of the above factors, our revenue may be
+negatively impacted.
+       
+      Our
+international operations in Australia, China, Finland, France, Germany, Hong
+Kong, India, Japan, Korea, Russia, Singapore, Sweden, Switzerland, Taiwan, and
+the United Kingdom are subject to many of the above listed risks. Difficulties
+with our international operations, including finding appropriate staffing and
+office space, may divert management’s attention and other resources any of which
+could negatively impact our operating results.
+       
+      The
+economic conditions in our primary overseas markets, particularly in Asia, may
+negatively impact the demand for our products abroad. All of our international
+sales to date have been denominated in United States dollars. Accordingly,
+an increase in the value of the United States dollar relative to foreign
+currencies could make our products less competitive in international markets or
+require us to assume the risk of denominating certain sales in foreign
+currencies. We anticipate that these factors will impact our business to a
+greater degree as we further expand our international business
+activities.
+       
+      Conditions
+outside the control of our independent subcontractors and manufacturers may
+impact their business operations and thereby adversely interrupt our
+manufacturing and sales processes.
+      
+      The
+economic, market, social, and political situations in countries where certain
+independent subcontractors and manufacturers are located are unpredictable, can
+be volatile, and can have a significant impact on our business because we may be
+unable to obtain or distribute product in a timely manner. Market and political
+conditions, including currency fluctuation, terrorism, political strife, war,
+labor disruption, and other factors, including natural or man-made disasters,
+adverse changes in tax laws, tariff, import or export quotas, power and water
+shortages, or interruption in air transportation, in areas where our independent
+subcontractors and manufacturers are located could also have a severe negative
+impact on our operating capabilities. For example, because we rely heavily on
+TSMC to produce a significant portion of our silicon wafers, earthquakes,
+typhoons or other natural disasters in Taiwan and Asia could limit our wafer
+supply and thereby harm our business, financial condition, and operational
+results.
+      
+      We
+are dependent on key employees and the loss of any of these employees could
+negatively impact our business.
+       
+      Our
+future success and ability to compete is substantially dependent on our ability
+to identify, hire, train and retain highly qualified key
+personnel.  The market for key employees in the technology industry
+can be competitive.  None of our key employees is bound by an
+employment agreement, meaning our relationships with all of our key employees
+are at will.  The loss of the services of any of our other key employees
+without an adequate replacement or our inability to hire new employees as needed
+could delay our product development efforts, harm our ability to sell our
+products or otherwise negatively impact our business.
+       
+       In
+addition, we rely on stock-based awards as one means for recruiting, motivating
+and retaining highly skilled talent.  If the value of such stock
+awards does not appreciate as measured by the performance of the price of our
+common stock or if our share-based compensation otherwise ceases to be viewed as
+a valuable benefit, our ability to attract, retain, and motivate employees could
+be weakened, which could harm our results of
+operations.  
+       
+      We
+may not be able to realize the potential financial or strategic benefits of
+business acquisitions or strategic investments, which could hurt our ability to
+grow our business, develop new products or sell our products.
+       
+      We have
+acquired and invested in other businesses that offered products, services and
+technologies that we believe will help expand or enhance our existing products
+and business. We may enter into future acquisitions of, or investments in,
+businesses, in order to complement or expand our current businesses or enter
+into a new business market. Negotiations associated with an acquisition or
+strategic investment could divert management’s attention and other company
+resources. Any of the following risks associated with past or future
+acquisitions or investments could impair our ability to grow our business,
+develop new products, our ability to sell our products, and ultimately could
+have a negative impact on our growth or our financial results:
+      
+      
+        
+
+              
+                ·  
+              
+              
+                difficulty
+      in combining the technology, products, operations or workforce of the
+      acquired business with our
+business;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                difficulty
+      in operating in a new or multiple new
+locations;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                disruption
+      of our ongoing businesses or the ongoing business of the company we invest
+      in or acquire;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                difficulty
+      in realizing the potential financial or strategic benefits of the
+      transaction;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                difficulty
+      in maintaining uniform standards, controls, procedures and
+      policies;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                disruption
+      of or delays in ongoing research and development
+  efforts;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                diversion
+      of capital and other resources;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                assumption
+      of liabilities;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                diversion
+      of resources and unanticipated expenses resulting from litigation
+      arising from potential or actual business acquisitions or
+      investments;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                difficulties
+      in entering into new markets in which we have limited or no experience and
+      where competitors in such markets have stronger positions;
+    and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                impairment
+      of relationships with employees and customers, or the loss of any of our
+      key employees or customers our target’s key employees or customers, as a
+      result of our acquisition or
+investment.
+              
+            
+      
+        
+       
+      
+        
+          
+          
+        
+        
+          20
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      In
+addition, the consideration for any future acquisition could be paid in cash,
+shares of our common stock, the issuance of convertible debt securities or a
+combination of cash, convertible debt and common stock. If we make an investment
+in cash or use cash to pay for all or a portion of an acquisition, our cash
+reserves would be reduced which could negatively impact the growth of our
+business or our ability to develop new products. However, if we pay the
+consideration with shares of common stock, or convertible debentures, the
+holdings of our existing stockholders would be diluted. The significant decline
+in the trading price of our common stock would make the dilution to our
+stockholders more extreme and could negatively impact our ability to pay the
+consideration with shares of common stock or convertible debentures. We cannot
+forecast the number, timing or size of future strategic investments or
+acquisitions, or the effect that any such investments or acquisitions might have
+on our operations or financial results.
+      
+       
+We are exposed to credit risk, fluctuations in the market values of our
+portfolio investments and in interest rates.
+       
+       All
+of our cash equivalents and marketable securities are treated as
+“available-for-sale” securities. Investments in both fixed rate instruments and
+floating rate interest earning instruments carry a degree of interest rate risk.
+Fixed rate securities may have their market value adversely impacted due to a
+rise in interest rates, while floating rate securities may produce less income
+than expected if interest rates fall. Due in part to these factors, our future
+investment income may fall short of expectations due to changes in interest
+rates or if the decline in fair value of our publicly traded debt or equity
+investments is judged to be other-than-temporary. We may suffer losses in
+principal if we are forced to sell securities that decline in securities market
+value due to changes in interest rates. Future declines in the market values of
+our cash, cash equivalents and marketable securities could have a material
+adverse effect on our financial condition and operating
+results.  
+       
+      At
+January 31, 2010 and January 25, 2009, we had $1.73 billion and $1.26 billion,
+respectively, in cash, cash equivalents and marketable
+securities.  Given the global nature of our business, we have invested
+both domestically and internationally.  All of our investments are
+denominated in United States dollars. We invest in a variety of financial
+instruments, consisting principally of cash and cash equivalents, asset-backed
+securities, commercial paper, mortgage-backed securities issued by
+Government-sponsored enterprises, equity securities, money market funds and debt
+securities of corporations, municipalities and the United States government
+and its agencies. As of January 31, 2010, we did not have any investments in
+auction-rate preferred securities.  As of January 31, 2010, our
+investments in government agencies and government sponsored enterprises
+represented approximately 62% of our total cash equivalents and marketable
+securities, while the financial sector accounted for approximately 22% of our
+total cash equivalents and marketable securities.
+      
+      The financial turmoil that affected the
+banking system and financial markets and the increased possibility that
+financial institutions might consolidate or go out of business resulted in a
+tightening in the credit markets, a low level of liquidity in many financial
+markets, and extreme volatility in fixed income, credit, currency and equity
+markets. There could be a number of follow-on effects from the credit crisis on
+our business, including insolvency of key suppliers resulting in product delays;
+inability of customers, including channel partners, to obtain credit to finance
+purchases of our products and/or customer, including channel partner,
+insolvencies; and failure of financial institutions, which may negatively impact
+our treasury operations. Other income and expense could also vary materially
+from expectations depending on gains or losses realized on the sale or exchange
+of financial instruments; impairment charges related to debt securities as well
+as equity and other investments; interest rates; and cash, cash equivalent and
+marketable securities balances. Volatility in the financial markets and economic
+uncertainty increases the risk that the actual amounts realized in the future on
+our financial instruments could differ significantly from the fair values
+currently assigned to them. As of January 31, 2010, our investments in
+government agencies and government sponsored enterprises represented
+approximately 62% of our total investment portfolio, while the financial sector
+accounted for approximately 22% of our total investment portfolio.  Of
+the financial sector investments, over half are guaranteed by the U.S.
+government.  Substantially all of our investments are with A/A2 or
+better rated securities.  If the fair value of our investments in
+these sectors was to decline by 2%-5%, fair market values for these investments
+would decrease by approximately $27-$67 million. 
+       
+      
+        
+          
+          
+        
+        
+          21
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+       Risks
+Related to Regulatory, Legal, Our Common Stock and Other Matters
+       
+      We
+are subject to litigation arising from alleged defects in our previous
+generation MCP and GPU products, which if determined adversely to us, could harm
+our business.
+       
+      During
+fiscal year 2010, we recorded an additional net warranty charge of $95.8 million
+against cost of revenue to cover anticipated customer warranty, repair, return,
+replacement and other costs arising from a weak die/packaging material set in
+certain versions of our previous generation MCP and GPU products used in
+notebook systems. This charge included an additional accrual of $164.4 million
+for related estimated costs, offset by reimbursements from insurance carriers of
+$68.6 million that we recorded against cost of revenue during fiscal year
+2010.    During fiscal year 2009, we recorded a net warranty
+charge of $189.3 million against cost of revenue for the purpose of supporting
+the product repair costs of our affected customers around the world. This charge
+included an accrual of $196.0 million for related estimated costs, offset by
+reimbursements from insurance carriers of $6.7 million that we recorded against
+cost of revenue during fiscal year 2009. Although the number of units that we
+estimate will be impacted by this issue remains consistent with our initial
+estimates in July 2008, the overall cost of remediation and repair of impacted
+systems has been higher than originally anticipated.  The weak
+die/packaging material combination is not used in any of our products that are
+currently in production.
+       
+      The
+previous generation MCP and GPU products that are impacted were included in a
+number of notebook products that were shipped and sold in significant
+quantities. Certain notebook configurations of these MCP and GPU products are
+failing in the field at higher than normal rates.  While we have not
+been able to determine with certainty a root cause for these failures, testing
+suggests a weak material set of die/package combination, system thermal
+management designs, and customer use patterns are contributing
+factors.  We have worked with our customers to develop and have made
+available for download a software driver to cause the system fan to begin
+operation at the powering up of the system and reduce the thermal stress on
+these chips. We have also recommended to our customers that they consider
+changing the thermal management of the products in their notebook system
+designs. We intend to fully support our customers in their repair and
+replacement of these impacted products that fail, and their other efforts to
+mitigate the consequences of these failures.
+       
+      We
+continue to seek access to our insurance coverage regarding reimbursement
+to us for some or all of the costs we have incurred and may incur in the future
+relating to the weak material set.  We received $70.5 million and $8.0
+million in reimbursements from insurance providers during fiscal years 2010 and
+2009, respectively.   However, there can be no assurance that we
+will recover any additional reimbursement. We continue to not see any abnormal
+failure rates in any systems using NVIDIA products other than certain notebook
+configurations. However, we are continuing to test and otherwise investigate
+other products. There can be no assurance that we will not discover defects in
+other products.
+       
+      In September,
+October and November 2008, several putative class action lawsuits were
+filed against us, asserting various claims related to the impacted MCP and GPU
+products.  Such lawsuits could result in the diversion of management’s
+time and attention away from business operations, which could harm our business.
+In addition, the costs of defense and any damages resulting from this
+litigation, a ruling against us, or a settlement of the litigation could
+adversely affect our cash flow and financial results.
+        
+      We
+are a party to other litigation, including patent litigation, which, if
+determined adversely to us, could adversely affect our cash flow and financial
+results.
+       
+      We are a
+party to other litigation as both a defendant and as a plaintiff.  For
+example, we are engaged in litigation with Intel Corporation, Rambus Corporation
+and with various parties related to our acquisition of 3dfx in 2001. Please
+refer to Note 13 of the Notes to the Consolidated Financial Statements for
+further detail on these lawsuits. There can be no assurance that any litigation
+to which we are a party will be resolved in our favor. Any claim that is
+successfully decided against us may cause us to pay substantial damages,
+including punitive damages, and other related fees. Regardless of whether
+lawsuits are resolved in our favor or if we are the plaintiff or the defendant
+in the litigation, any lawsuits to which we are a party will likely be expensive
+and time consuming to defend or resolve. Such lawsuits could also harm our
+relationships with existing customers and result in the diversion of
+management’s time and attention away from business operations, which could harm
+our business. Costs of defense and any damages resulting from litigation, a
+ruling against us, or a settlement of the litigation could adversely affect our
+cash flow and financial results.
+       
+      
+        
+          
+          
+        
+        
+          22
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Changes
+in U.S. tax legislation regarding our foreign earnings could materially impact
+our business.
+      
+      Currently,
+a majority of our revenue is generated from customers located outside the United
+States, and a significant portion of our assets, including employees, are
+located outside the United States.  United States income taxes and
+foreign withholding taxes have not been provided on undistributed earnings for
+certain non-United States subsidiaries, because such earnings are intended to be
+indefinitely reinvested in the operations of those subsidiaries. In May 2009,
+President Obama’s administration provided details of previously announced
+international tax proposals that if enacted into law would have substantially
+reduced our ability to defer U.S. taxes on such indefinitely reinvested non-US
+earnings including repealing the deferral of U.S. taxation of foreign earnings,
+eliminating utilization of or substantially reducing our ability to claim
+foreign tax credits, and eliminating various tax deductions until foreign
+earnings are repatriated to the United States.  In October 2009, the
+Obama administration announced it no longer intended to pursue such proposals
+outside of a broader initiative to overhaul the corporate tax system, expected
+in 2010.  However, in February 2010, the Obama administration released
+its fiscal year 2011 budget with proposed modifications to international tax
+laws that would again substantially reduce our ability to defer U.S. taxes on
+indefinitely reinvested non-U.S. earnings, eliminate or substantially reduce our
+ability to claim foreign tax credits, and eliminate certain tax deductions until
+foreign earnings are repatriated to the United States. If any of these or
+similar proposals are constituted into legislation in the current or future
+year(s), they could have a negative impact on our financial position and results
+of operations.
+         
+      Litigation
+to defend against alleged infringement of intellectual property rights or to
+enforce our intellectual property rights and the outcome of such litigation
+could result in substantial costs to us.
+       
+       We
+expect that as the number of issued hardware and software patents increases and
+as competition intensifies, the volume of intellectual property infringement
+claims and lawsuits may increase. We may in the future become involved in
+lawsuits or other legal proceedings alleging patent infringement or other
+intellectual property rights violations by us or by our customers that we have
+agreed to indemnify them for certain claims of infringement.
+       
+       An
+unfavorable ruling in any such intellectual property related litigation could
+include significant damages, invalidation of a patent or family of patents,
+indemnification of customers, payment of lost profits, or, when it has been
+sought, injunctive relief.
+       
+      In
+addition, in the future, we may need to commence litigation or other legal
+proceedings in order to: 
+      
+      
+        
+
+              
+                ·  
+              
+              
+                assert
+      claims of infringement of our intellectual
+  property;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                enforce
+      our patents;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                protect
+      our trade secrets or know-how; or
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                determine
+      the enforceability, scope and validity of the propriety rights of
+      others.
+              
+            
+      
+        
+      If we
+have to initiate litigation in order to protect our intellectual property, our
+operating expenses may increase which could negatively impact our operating
+results. Our failure to effectively protect our intellectual property could harm
+our business.
+       
+      If
+infringement claims are made against us or our products are found to
+infringe a third parties’ patent or intellectual property, we or one of our
+indemnified customers may have to seek a license to the third parties’ patent or
+other intellectual property rights. However, we may not be able to obtain
+licenses at all or on terms acceptable to us particularly from our competitors.
+If we or one of our indemnified customers is unable to obtain a license from a
+third party for technology that we use or that is used in one of our products,
+we could be subject to substantial liabilities or have to suspend or discontinue
+the manufacture and sale of one or more of our products.  We may also
+have to make royalty or other payments, or cross license our technology. If
+these arrangements are not concluded on commercially reasonable terms, our
+business could be negatively impacted. Furthermore, the indemnification of a
+customer may increase our operating expenses which could negatively impact our
+operating results.
+       
+      
+        
+          
+          
+        
+        
+          23
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Our
+ability to compete will be harmed if we are unable to adequately protect our
+intellectual property.
+       
+       We
+rely primarily on a combination of patents, trademarks, trade secrets, employee
+and third-party nondisclosure agreements, and licensing arrangements to protect
+our intellectual property in the United States and internationally. We have
+numerous patents issued, allowed and pending in the United States and in foreign
+jurisdictions. Our patents and pending patent applications primarily relate to
+our products and the technology used in connection with our products. We also
+rely on international treaties, organizations and foreign laws to protect our
+intellectual property. The laws of certain foreign countries in which our
+products are or may be manufactured or sold, including various countries in
+Asia, may not protect our products or intellectual property rights to the same
+extent as the laws of the United States. This makes the possibility of piracy of
+our technology and products more likely. We continuously assess whether and
+where to seek formal protection for particular innovations and technologies
+based on such factors as: 
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      commercial significance of our operations and our competitors’ operations
+      in particular countries and
+regions;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      location in which our products are
+manufactured;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                our
+      strategic technology or product directions in different countries;
+      and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      degree to which intellectual property laws exist and are meaningfully
+      enforced in different
+jurisdictions.
+              
+            
+      
+      
+      Our
+pending patent applications and any future applications may not be approved. In
+addition, any issued patents may not provide us with competitive advantages or
+may be challenged by third parties. The enforcement of patents by others may
+harm our ability to conduct our business. Others may independently develop
+substantially equivalent intellectual property or otherwise gain access to our
+trade secrets or intellectual property. Our failure to effectively protect our
+intellectual property could harm our business.
+        
+      Government
+investigations and inquiries from regulatory agencies could lead to enforcement
+actions, fines or other penalties and could result in litigation against
+us.
+       
+      In the
+past, we have been subject to government investigations and inquiries from
+regulatory agencies such as the Department of Justice and the SEC.  We
+may be subject to government investigations and receive additional inquiries
+from regulatory agencies in the future, which may lead to enforcement actions,
+fines or other penalties.
+       
+      In
+addition, litigation has often been brought against a company in connection with
+the announcement of a government investigation or inquiry from a regulatory
+agency.  Such lawsuits could result in the diversion of management’s
+time and attention away from business operations, which could harm our business.
+In addition, the costs of defense and any damages resulting from litigation, a
+ruling against us, or a settlement of the litigation could adversely affect our
+cash flow and financial results.
+       
+      We
+are subject to the risks of owning real property.
+       
+      During
+fiscal year 2009, we purchased real property in Santa Clara, California that
+includes approximately 25 acres of land and ten commercial
+buildings.  We also own real property in China and
+India.  We have limited experience in the ownership and management of
+real property and are subject to the risks of owning real property,
+including:
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      possibility of environmental contamination and the costs associated with
+      mitigating any environmental
+problems;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                adverse
+      changes in the value of these properties, due to interest rate changes,
+      changes in the market in which the property is located, or other
+      factors;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      risk of loss if we decide to sell and are not able to recover all
+      capitalized costs;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                increased
+      cash commitments for the possible construction of a
+  campus;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      possible need for structural improvements in order to comply with zoning,
+      seismic and other legal or regulatory
+  requirements;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                increased
+      operating expenses for the buildings or the property or
+    both;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                possible
+      disputes with third parties, such as neighboring owners or others, related
+      to the buildings or the  property or both;
+  and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      risk of financial loss in excess of amounts covered by insurance, or
+      uninsured risks, such as the loss caused   by damage to the
+      buildings as a result of earthquakes, floods and or other natural
+      disasters.
+              
+            
+      
+       
+      
+        
+          
+          
+        
+        
+          24
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Expensing
+employee equity compensation adversely affects our operating results and could
+also adversely affect our competitive position.
+       
+      Since
+inception, we have used equity through our equity incentive plans and our
+employee stock purchase program as a fundamental component of our compensation
+packages. We believe that these programs directly motivate our employees and,
+through the use of vesting, encourage our employees to remain with
+us. 
+       
+      We record
+compensation expense for stock options, restricted stock units and our employee
+stock purchase plan using the fair value of those awards in accordance with
+generally accepted accounting principles in United States of America, or U.S.
+GAAP.  Stock-based compensation expense was $107.1 million, $162.7 million,
+$133.4 million for fiscal years 2010, 2009 and 2008, respectively, related to
+on-going vesting of equity awards, which negatively impacted our operating
+results.  Additionally, in March 2009, we completed a cash tender
+offer  to purchase certain employee stock options. A total of 28.5
+million options were tendered under the offer for an aggregate cash purchase
+price of $78.1 million, in exchange for the cancellation of the eligible
+options.  As a result of the tender offer, we incurred a charge of
+$140.2 million consisting of the remaining unamortized stock based compensation
+expense associated with the unvested portion of the options tendered in the
+offer, stock-based compensation expense resulting from amounts paid in excess of
+the fair value of the underlying options, plus associated payroll taxes and
+professional fees.  We believe that expensing employee equity
+compensation will continue to negatively impact our operating
+results.
+       
+       To
+the extent that expensing employee equity compensation makes it more expensive
+to grant stock options and restricted stock units or to continue to have an
+employee stock purchase program, we may decide to incur increased cash
+compensation costs. In addition, actions that we may take to reduce stock-based
+compensation expense that may be more severe than any actions our competitors
+may implement and may make it difficult to attract retain and motivate
+employees, which could adversely affect our competitive position as well as our
+business and operating results.
+        
+       We
+may be required to record a charge to earnings if our goodwill or amortizable
+intangible assets become impaired, which could negatively impact our operating
+results.
+       
+       Under
+U.S. GAAP, we review our amortizable intangible assets and goodwill for
+impairment when events or changes in circumstances indicate the carrying value
+may not be recoverable. Goodwill is tested for impairment at least annually. The
+carrying value of our goodwill or amortizable assets from acquisitions may not
+be recoverable due to factors such as a decline in stock price and market
+capitalization, reduced estimates of future cash flows and slower growth rates
+in our industry or in any of our business units. Estimates of future cash flows
+are based on an updated long-term financial outlook of our operations. However,
+actual performance in the near-term or long-term could be materially different
+from these forecasts, which could impact future estimates. For example, if one
+of our business units does not meet its near-term and longer-term forecasts, the
+goodwill assigned to the business unit could be impaired. We may be required to
+record a charge to earnings in our financial statements during a period in which
+an impairment of our goodwill or amortizable intangible assets is determined to
+exist, which may negatively impact our results of operations.
+       
+       Our
+stock price continues to be volatile and investors may suffer
+losses.
+       
+       Our
+stock has at times experienced substantial price volatility as a result of
+variations between our actual and anticipated financial results, announcements
+by us and our competitors, or uncertainty about current global economic
+conditions. The stock market as a whole also has experienced extreme price and
+volume fluctuations that have affected the market price of many technology
+companies in ways that may have been unrelated to these companies’ operating
+performance.
+       
+       In
+the past, securities class action litigation has often been brought against a
+company following periods of volatility in the market price of its securities.
+For example, following our announcement in July 2008 that we would take a charge
+against cost of revenue to cover anticipated costs and expenses arising from a
+weak die/packaging material set in certain versions of our previous generation
+MCP and GPU products and that we were revising financial guidance for our second
+fiscal quarter of 2009, the trading price of our common stock
+declined.  In September, October and November 2008, several putative
+class action lawsuits were filed against us relating to this
+announcement.  Please refer to Note 13 of the Notes to Consolidated
+Financial Statements for further information regarding these lawsuits. Due
+to changes in the potential volatility of our stock price, we may be the target
+of securities litigation in the future. Such lawsuits could result in the
+diversion of management’s time and attention away from business operations,
+which could harm our business. In addition, the costs of defense and any damages
+resulting from litigation, a ruling against us, or a settlement of the
+litigation could adversely affect our cash flow and financial results. 
+      
+      
+        
+          
+          
+        
+        
+          25
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Our
+operating results may be adversely affected if we are subject to unexpected tax
+liabilities.
+      
+      We are
+subject to taxation by a number of taxing authorities both in the United States
+and throughout the world. Tax rates vary among the jurisdictions in which we
+operate. Significant judgment is required in determining our provision for our
+income taxes as there are many transactions and calculations where the ultimate
+tax determination is uncertain. Although we believe our tax estimates are
+reasonable, any of the below could cause our effective tax rate to be materially
+different than that which is reflected in historical income tax provisions and
+accruals:
+      
+      
+        
+
+              
+                        
+      · 
+              
+              
+                the
+      jurisdictions in which profits are determined to be earned and
+      taxed;
+              
+            
+              
+                        
+      ·
+              
+              
+                adjustments
+      to estimated taxes upon finalization of various tax
+    returns;
+              
+            
+      
+      
+        
+
+              
+                        
+      ·
+              
+              
+                changes
+      in available tax credits;
+              
+            
+              
+                         ·
+              
+              
+                changes
+      in share-based compensation
+expense;
+              
+            
+      
+      
+        
+
+              
+                        
+      ·
+              
+              
+                changes
+      in tax laws, the interpretation of tax laws either in the United States or
+      abroad or the issuance of new interpretative accounting guidance related
+      to uncertain transactions and calculations where the tax treatment was
+      previously uncertain; and
+              
+            
+              
+                        
+      ·
+              
+              
+                the
+      resolution of issues arising from tax audits with various tax
+      authorities.
+              
+            
+      
+      
+       Should
+additional taxes be assessed as a result of any of the above, our operating
+results could be adversely affected. In addition, our future effective tax rate
+could be adversely affected by changes in the mix of earnings in countries with
+differing statutory tax rates, changes in tax laws or changes in the
+interpretation of tax laws.
+        
+      Our
+failure to comply with any applicable environmental regulations could result in
+a range of consequences, including fines, suspension of production, excess
+inventory, sales limitations, and criminal and civil liabilities.
+       
+       We
+are subject to various state, federal and international laws and regulations
+governing the environment, including restricting the presence of certain
+substances in electronic products and making producers of those products
+financially responsible for the collection, treatment, recycling and disposal of
+those products. For example, we are subject to the European Union Directive on
+Restriction of Hazardous Substances Directive, or RoHS Directive, that restricts
+the use of a number of substances, including lead, and other hazardous
+substances in electrical and electronic equipment in the market in the European
+Union.   We could face significant costs and liabilities in
+connection with the European Union Directive on Waste Electrical and Electronic
+Equipment, or WEEE. The WEEE directs members of the European Union to enact
+laws, regulations, and administrative provisions to ensure that producers of
+electric and electronic equipment are financially responsible for the
+collection, recycling, treatment and environmentally responsible disposal of
+certain products sold into the market after August 15, 2005.
+       
+      It is
+possible that unanticipated supply shortages, delays or excess non-compliant
+inventory may occur as a result of the RoHS Directive, WEEE, and other
+domestic or international environmental regulations. Failure to comply with any
+applicable environmental regulations could result in a range of consequences
+including costs, fines, suspension of production, excess inventory, sales
+limitations, criminal and civil liabilities and could impact our ability to
+conduct business in the countries or states that have adopted these types of
+regulations.
+       
+      While
+we believe that we have adequate internal control over financial reporting, if
+we or our independent registered public accounting firm determines that we do
+not, our reputation may be adversely affected and our stock price may
+decline.
+       
+      Section 404
+of the Sarbanes-Oxley Act of 2002 requires our management to report on, and our
+independent registered public accounting firm to audit, the effectiveness of our
+internal control structure and procedures for financial reporting. We have an
+ongoing program to perform the system and process evaluation and testing
+necessary to comply with these requirements. However, the manner in which
+companies and their independent public accounting firms apply these requirements
+and test companies’ internal controls remains subject to some judgment. To date,
+we have incurred, and we expect to continue to incur, increased expense and to
+devote additional management resources to Section 404 compliance. Despite
+our efforts, if we identify a material weakness in our internal controls, there
+can be no assurance that we will be able to remediate that material weakness in
+a timely manner, or that we will be able to maintain all of the controls
+necessary to determine that our internal control over financial reporting is
+effective. In the event that our chief executive officer, chief financial
+officer or our independent registered public accounting firm determine that our
+internal control over financial reporting is not effective as defined under
+Section 404, investor perceptions of us may be adversely affected and could
+cause a decline in the market price of our stock.
+      
+      Changes in financial accounting
+standards or interpretations of existing standards could affect our reported
+results of operations.
+       
+       We
+prepare our consolidated financial statements in conformity with
+U.S.GAAP.  These principles are constantly subject to review and
+interpretation by the SEC and various bodies formed to interpret and create
+appropriate accounting principles. A change in these principles can have a
+significant effect on our reported results and may even retroactively affect
+previously reported transactions.
+       
+      
+        
+          
+          
+        
+        
+          26
+          
+            
+          
+        
+        
+          
+          
+        
+      
+       
+      Provisions
+in our certificate of incorporation, our bylaws and our agreement with Microsoft
+could delay or prevent a change in control. 
+       
+      Our
+certificate of incorporation and bylaws contain provisions that could make it
+more difficult for a third party to acquire a majority of our outstanding voting
+stock. These provisions include the following:
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      ability of our Board to create and issue preferred stock without prior
+      stockholder approval;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                the
+      prohibition of stockholder action by written
+  consent;
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                a
+      classified Board; and
+              
+            
+      
+      
+        
+
+              
+                ·  
+              
+              
+                advance
+      notice requirements for director nominations and stockholder
+      proposals.
+              
+            
+      
+       
+             
+On March 5, 2000, we entered into an agreement with Microsoft in which we agreed
+to develop and sell graphics chips and to license certain technology to
+Microsoft and its licensees for use in the Xbox. Under the agreement, if an
+individual or corporation makes an offer to purchase shares equal to or greater
+than 30% of the outstanding shares of our common stock, Microsoft may have first
+and last rights of refusal to purchase the stock. The Microsoft provision and
+the other factors listed above could also delay or prevent a change in control
+of NVIDIA.
+      
+      ITEM 1B

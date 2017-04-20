@@ -1,0 +1,6301 @@
+Item 1A of this Annual Report on
+    Form 10-K,
+    and any of those made in our other reports filed with the
+    Securities and Exchange Commission (the “SEC”). You
+    are cautioned not to place undue reliance on these
+    forward-looking statements, which speak only as of the date of
+    this document. We do not intend, and undertake no obligation, to
+    publish revised forward-looking statements to reflect events or
+    circumstances after the date of this document or to reflect the
+    occurrence of unanticipated events.
+
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+ 
+
+
+
+    PART I
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1.  
+
+    
+    Business
+
+
+
+
+
+ 
+
+
+
+    General
+
+
+ 
+
+
+    We design, develop, manufacture and sell hard drives. A hard
+    drive is a device that uses one or more rotating magnetic disks
+    (“magnetic media”) to store and allow fast access to
+    data. Hard drives are key components of computers, including
+    desktop and notebook computers (“PCs”), data storage
+    subsystems and many consumer electronic (“CE”) devices.
+
+
+ 
+
+
+    We sell our products worldwide to original equipment
+    manufacturers (“OEMs”) and original design
+    manufacturers (“ODMs”) for use in computer systems,
+    subsystems or CE devices, and to distributors, resellers and
+    retailers. Our hard drives are used in desktop computers,
+    notebook computers, and enterprise applications such as servers,
+    workstations, network attached storage, storage area networks
+    and video surveillance equipment. Additionally, our hard drives
+    are used in CE applications, such as digital video recorders
+    (“DVRs”), and satellite and cable set-top boxes
+    (“STBs”). We also sell our hard drives as stand-alone
+    storage products by integrating them into finished enclosures,
+    embedding application software and offering the products as
+    WD®-branded
+
+    external storage appliances for personal data backup and
+    portable or expanded storage of digital music, photographs,
+    video and other digital data.
+
+
+ 
+
+
+    Hard drives provide non-volatile data storage, which means that
+    the data remains present when power is no longer applied to the
+    device. Our hard drives currently include 3.5-inch and 2.5-inch
+    form factor drives, having capacities ranging from 80 gigabytes
+    (“GB”) to 2 terabytes (“TB”), nominal
+    rotation speeds up to 10,000 revolutions per minute
+    (“RPM”), and offer interfaces including Enhanced
+    Integrated Drive Electronics (“EIDE”), Serial Advanced
+    Technology Attachment (“SATA”) and Serial Attached
+    SCSI (Small Computer System Interface) (“SAS”). We
+    also embed our hard drives into
+    WD®-branded
+
+    external storage appliances using interfaces such as Universal
+    Serial Bus (“USB”) 2.0, USB 3.0, external SATA,
+    FireWiretm
+
+    and Ethernet network connections with capacities of 160 GB up to
+    8 TB. In addition, we offer a family of hard drives specifically
+    designed to consume substantially less power than standard
+    drives, utilizing our WD GreenPower
+    Technologytm.
+
+
+
+ 
+
+
+    We also design, develop, manufacture and sell solid-state drives
+    and media players. A solid-state drive is a storage device that
+    uses semiconductor, non-volatile media, rather than magnetic
+    media and magnetic heads, to store and allow fast access to
+    data. We sell our solid-state drives worldwide to OEMs and
+    distributors for use in the embedded systems and client PC
+    markets. A media player is a device that connects to a
+    user’s television, the Internet
+    and/or home
+    theater system and plays digital movies, music and photos from
+    any of our
+    WD®-branded
+
+    external hard drives, other USB mass storage devices or content
+    services accessed over the Internet. We sell our media players
+    worldwide to resellers and retailers under the
+    WD®
+
+    brand.
+
+
+ 
+
+
+    In November 2009, we entered the traditional enterprise market
+    with our WD S25, which is a 2.5-inch, SAS interface hard drive.
+    The WD S25 drive provides up to 300 GB of storage suitable for
+    both mission-critical enterprise server and enterprise storage
+    applications, as well as data centers and large data arrays.
+
+
+ 
+
+
+
+    Business
+    Strategy
+
+
+ 
+
+
+    Our business strategy is to provide a broad selection of
+    reliable, high quality hard drives at a low total cost of
+    ownership and with high efficiency and speed. We believe this
+    strategy helps accomplish the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    distinguishes us in the dynamic and competitive hard drive
+    industry;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    provides great value to our customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    allows us to better achieve consistent financial performance,
+    including strong returns on invested capital; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    provides continued diversification of our hard drive product set
+    and entry into additional markets such as solid-state drives and
+    media players.
+
+
+
+
+
+ 
+
+
+    We have designed our business strategy to accommodate
+    significant unit and revenue growth with relatively small
+    increases in operating expenses and to consistently achieve high
+    asset utilization.
+
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Industry
+
+
+ 
+
+
+    We design, develop and manufacture hard drives for the desktop
+    and mobile PC, enterprise, CE and external hard drive markets.
+    We believe that growth in the sales of hard drives has continued
+    to outpace the growth in the sales of all PCs as there were
+    approximately 86% more hard drives sold in the market than PCs
+    in calendar 2009, based on industry data. We believe the
+    following factors continue to drive the growth of hard drive
+    sales in addition to PC applications:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    consumer use of hard drives for the playing, retention and
+    creation of digital content for personal use in the rapidly
+    growing CE market;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    growth of the external hard drive market, permitting the easy
+    storage, portability and backup of digital data such as music,
+    photographs or video;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    increased use of multiple hard drives in PCs for data backup and
+    expanded storage capacity; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    increased use of multiple cost-optimized high performance hard
+    drives in data-intensive applications such as Internet-based
+    search engines and social media, as well as in hard drive
+    intensive hosts for handheld computing devices.
+
+
+
+
+
+ 
+
+
+    Additionally, we believe that the demand for 2.5-inch hard
+    drives has grown from approximately 16% of the overall hard
+    drive market in calendar 2003 to 48% of the overall hard drive
+    market in calendar 2009, driven by the growing markets for
+    notebook and netbook computers, game consoles and external
+    storage.
+
+
+ 
+
+
+    We design, develop and manufacture solid-state drives for the
+    embedded systems market. We also develop products with
+    solid-state drive technology for emerging consumer and
+    commercial computing markets.
+
+
+ 
+
+
+    We also design, develop and manufacture
+    WD®-branded
+
+    media players for the retail channel. We believe there is a
+    growing need for consumers to play their personal stored digital
+    content and premium content from the Internet on their
+    television and home theater system in connection with the
+    growing trend in the digitization of rich content and data.
+
+
+ 
+
+
+    These factors and our product expansion strategy have gradually
+    increased our percentage of net revenue derived from non-desktop
+    sources. In 2010, 64% of our net revenue was from non-desktop
+    sources compared to 62% in 2009 and 56% in 2008.
+
+
+ 
+
+
+    For an additional discussion of risks relating to the hard drive
+    industry, please see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Desktop
+    PC Market
+
+
+ 
+
+
+    The desktop PC market consists of personal computers in a form
+    intended for regular use at a single location. Individuals use
+    desktop computers in homes, businesses and multi-user networks.
+    Desktop computers use software applications for word processing,
+    spreadsheet, desktop publishing, database management,
+    multimedia, entertainment and for other needs. Hard drives store
+    the desktop computer operating system and application software,
+    as well as the data used by the applications.
+
+
+ 
+
+
+    We believe that the demand for hard drives in the desktop PC
+    market has grown in part due to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    growth in emerging markets;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    recovery in the commercial market;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the overall growth of desktop computer sales;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing needs of businesses and individuals for increased
+    storage capacity on their desktop computers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the continuing development of software applications to manage
+    and create multimedia content; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing use of broadband Internet, including content
+    downloaded from the Internet onto desktop computer hard drives.
+
+
+
+
+
+ 
+
+
+    We believe several other factors affect the rate of desktop
+    computer unit growth, including growth of notebook and netbook
+    computers, an increase in first-time buyers of desktop computers
+    in Asia, Eastern Europe and Latin America,
+
+
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+
+    maturing desktop PC markets in North America and Western Europe,
+    and the lengthening of desktop computer replacement cycles.
+
+
+ 
+
+
+
+    Mobile PC
+    Market
+
+
+ 
+
+
+    The mobile PC market consists primarily of notebook and netbook
+    computers. Individuals use mobile computers both in and away
+    from homes and businesses. Like desktop computers, mobile
+    computers use software applications for various needs. Hard
+    drives store the mobile computer operating system and
+    application software, as well as the data used by the
+    applications.
+
+
+ 
+
+
+    We believe that the demand for hard drives in the mobile PC
+    market has grown in part due to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the overall growth of mobile sales, including increased
+    transition from desktop computers to mobile computers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increased mobility of the workforce;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing needs of businesses and individuals for increased
+    storage capacity on their mobile computers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the continuing development of software applications to manage
+    multimedia content; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing use of broadband Internet, including content
+    downloaded from the Internet onto mobile hard drives.
+
+
+
+
+
+ 
+
+
+    We expect the mobile PC market to continue to grow faster than
+    the desktop or enterprise markets in the next five years. As the
+    mobile PC market continues to evolve to a higher volume market,
+    we believe customers are placing increased emphasis on
+    attributes such as quality, availability, reliability,
+    execution, flexibility, capacity, performance, power and the
+    competitive cost structures of their hard drive suppliers. These
+    are the same attributes that have been emphasized for many years
+    by customers in the high-volume desktop PC market.
+
+
+ 
+
+
+
+    Enterprise
+    Market
+
+
+ 
+
+
+    The enterprise market for hard drives includes workstations,
+    servers, network attached storage, storage area networks, other
+    computing systems or subsystems, network-communications and
+    video surveillance. Hard drives for this market utilize three
+    principal interfaces; Fibre Channel Arbitrated Loop
+    (“FC-AL”); SAS interface technology; or SATA. SATA
+    hard drives typically cost customers less than SAS or FC-AL hard
+    drives while offering higher capacities and maintaining similar
+    reliability, scalability and performance.
+
+
+ 
+
+
+    We believe that enterprise uses of SATA hard drives will
+    continue to increase. During the past few years, a new
+    application has emerged with high-capacity SATA hard drives
+    augmenting FC-AL and SAS hard drives, tape and optical media.
+    This application, popularly referred to as “near-line”
+    storage, has created a growth market because SATA hard drives
+    access data more quickly than tape or optical solutions, quickly
+    retrieve critical
+    back-up or
+    near-line data and are more cost effective than FC-AL and SAS
+    hard drives. The low price per capacity of SATA drives has
+    stimulated applications such as video surveillance, video
+    editing/broadcasting and medical imaging. These applications
+    represent segments of a growing market for high capacity storage
+    in non-computing imaging and multimedia professions.
+
+
+ 
+
+
+    Enterprise-class SATA drives are becoming commonplace for
+    IT infrastructure applications such as databases, scientific
+    computing, surveillance, web content, web caching, web search
+    engines and electronic mail. These applications have become an
+    important market for high-capacity SATA hard drives. We believe
+    that this market will consume a growing portion of the highest
+    capacity hard drives in the next three years.
+
+
+ 
+
+
+    SATA technology is compatible with SAS technology, enabling
+    customers the flexibility of incorporating SATA hard drives in
+    SAS storage systems. We believe the units shipped in the
+    enterprise-class SATA market was approximately 36% of the
+    enterprise hard drive market in calendar 2009.
+
+
+ 
+
+
+    High-performance server applications, including blade servers,
+    are increasingly using 2.5-inch form factor hard drives,
+    supplanting traditional 3.5-inch drives. Smaller form factors
+    enable more drives per physical space for increased performance,
+    higher capacity per square foot and lower power consumption.
+    This trend demonstrates the fragmentation of the enterprise hard
+    drive market and the need for application-specific
+    enterprise-class hard drives.
+
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+
+    There is a trend towards centralization of information storage
+    and delivery of Internet-based services through cloud computing.
+    Cloud computing delivers shared resources, software and
+    information to users on demand on a multitude of devices, such
+    as client PCs and handheld computing devices. Most cloud
+    computing models consist of services delivered through common
+    data centers that utilize servers and hard drives designed for
+    the enterprise market. The infrastructure to support cloud
+    computing storage needs is driving the demand for both SAS and
+    SATA enterprise-class hard drives.
+
+
+ 
+
+
+
+    Consumer
+    Electronics Market
+
+
+ 
+
+
+    The use of hard drives in CE products has been a major growth
+    area in recent years. Currently, the two largest segments of
+    this market are:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    video content in applications such as DVRs; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    hard drives in game consoles.
+
+
+
+
+
+ 
+
+
+    DVRs are available for use in home entertainment systems and
+    offer enhanced capabilities such as pausing live television,
+    simplifying the process of recording and cataloging recorded
+    television programs and quickly forwarding or returning to any
+    section of a recorded television program. Additionally, digital
+    video disk (“DVD”) recorders increasingly incorporate
+    hard drives to allow for DVR functionality and faster recording
+    of content onto removable DVDs. The market for these products
+    favors larger capacity hard drives and continues to grow
+    globally. We believe growth in this market will continue to
+    build demand for higher capacity hard drives.
+
+
+ 
+
+
+    Game consoles are increasingly incorporating hard drives to
+    improve the user experience. Hard drive technology enables users
+    to save games, movies, music, pictures and other user generated
+    content.
+
+
+ 
+
+
+    The proliferation in the CE market of more sophisticated mobile
+    devices, including smartphones, portable media players and
+    tablet computers, is driving the delivery of diverse content
+    from hard drive intensive hosts. We believe this is one of the
+    factors influencing increased sales of
+    enterprise-class SATA drives. We also believe that
+    multimedia handheld devices, such as video cameras and
+    high-resolution still cameras, are enabling consumer production
+    of expansive digital content that requires increasing amounts of
+    small form-factor hard drive storage, as well as high-capacity
+    desktop-class hard drives for editing, manipulation and
+    long-term storage of such content.
+
+
+ 
+
+
+
+    External
+    Hard Drive Market
+
+
+ 
+
+
+    Most new PC systems include high-speed external interfaces, such
+    as USB 2.0, USB 3.0, external SATA,
+    FireWiretm
+
+    or Ethernet network connections, that permit users to supplement
+    the storage space of their PC systems or home and small office
+    networks with the use of external hard drives. Users store
+    additional programs or multimedia content, and back up internal
+    hard drives with external hard drives, as well as use mobile
+    external hard drives for portability and security. External
+    storage can often be the easiest, quickest or only way of adding
+    additional storage capacity to either a desktop or notebook
+    computer. We believe there is an increasing consumer awareness
+    of the need and value of securely storing personal digital
+    content through backup applications and devices. We believe
+    there is a growing need for external storage as a way of
+    expanding storage capacity in CE devices such as DVRs. We also
+    believe there is a growing need for media players that enable
+    consumers to play digital movies and music, view photos, and
+    access the Internet, otherwise limited to being viewed on
+    computer screens, from USB mass storage devices on their
+    television or home theater system.
+
+
+ 
+
+
+
+    Solid-State
+    Drive Market
+
+
+ 
+
+
+    The solid-state drive market consists primarily of solid-state
+    drives which use semiconductor, non-volatile media that retains
+    data even when power is not applied using either single-level
+    cell or multilevel cell NAND media.
+
+
+ 
+
+
+    We believe that the demand for solid-state drives in certain
+    markets has grown in part due to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the increasing performance, measured by input/output per second,
+    in enterprise applications;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing premium performance applications in the desktop
+    and notebook markets; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the increasing requirements of the embedded systems market for
+    high durability and long life cycles.
+
+
+
+
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+    We expect the solid-state drive market to grow faster on a
+    compounded annual growth rate basis than the hard drive market
+    over the next four years, but will still remain a small portion
+    of the total storage market on a unit basis.
+
+
+ 
+
+
+
+    Other
+    Market Opportunities
+
+
+ 
+
+
+    We regularly review opportunities to apply our knowledge of data
+    storage technology to markets that we do not currently serve.
+    Based on significant investments we made over the last six
+    years, we believe we have the technology building blocks to
+    increase our overall market penetration and be a full-line hard
+    drive supplier. Consistent with our measured and deliberate
+    approach to new market entries in the recent past, our approach
+    to additional new markets will be based on a careful assessment
+    of the risks, rewards, requirements and profit potential of such
+    actions.
+
+
+ 
+
+
+
+    Products
+
+
+ 
+
+
+    We offer a broad line of hard drives designed for various
+    markets. We market our hard drives under brand names including
+    WD
+    Caviar®,
+
+    WD RE, WD
+    VelociRaptor®,
+
+    WD
+    Scorpio®,
+
+    WD
+    Elementstm,
+
+    WD AV, WD
+    ShareSpacetm,
+
+    WD S25, My
+    Passport®,
+
+    My
+    Book®,
+
+    and My DVR
+    Expandertm.
+
+    These hard drives service the desktop PC, mobile PC, enterprise,
+    CE and external hard drive markets, and can be found in products
+    including desktop computers, notebook computers, enterprise
+    storage, server, workstations, video surveillance equipment,
+    networking products, DVRs, STBs and external storage appliances.
+    We also offer a line of
+    WD®-branded
+
+    media players under the WD
+    TVtm
+
+    brand name, as well as a line of solid-state drives under the
+    SiliconDrive®
+
+    and
+    SiliconEdge®
+
+    brand names.
+
+
+ 
+
+
+
+    Desktop
+    Hard Drive Products
+
+
+ 
+
+
+    The hard drives we design for the desktop PC market currently
+    consist of 3.5-inch form factor products with capacities ranging
+    from 80 GB to 2 TB. These products utilize either the EIDE or
+    SATA interfaces, providing high performance while retaining ease
+    of use and overall low cost of connection. The type of EIDE
+    interface currently used in our hard drives is ATA/100, which
+    signifies a burst data transfer rate of 100 megabytes per
+    second, which is the maximum specified data transition that can
+    be sustained under ideal conditions. The SATA interface
+    available in the majority of our hard drives enables burst
+    transfer rates of up to 6 gigabits (Gb) per second.
+
+
+ 
+
+
+
+    Mobile
+    Hard Drive Products
+
+
+ 
+
+
+    Our hard drives used in mobile products typically include
+    2.5-inch form factor products with capacities ranging from 80 GB
+    to 1 TB. Unit shipments into the mobile PC market currently
+    represents the largest market for hard drives. Our product
+    expansion, including a high-performance hard drive spinning at
+    7,200 RPM and producing ultra-high capacities for specific
+    applications with a three platter platform, has enabled us to
+    provide customers with a full-line of 2.5-inch mobile drives and
+    helped us enhance our market position in this fast-growing
+    market.
+
+
+ 
+
+
+
+    Enterprise
+    Hard Drive Products
+
+
+ 
+
+
+    We offer multiple product lines to address enterprise market
+    needs, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the WD S25 drive, which provides up to 300 GB of storage
+    suitable for both mission-critical enterprise server and
+    enterprise storage applications, as well as data centers and
+    large data arrays;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the WD
+    VelociRaptor®
+
+    drive, which is a 600 GB, 10,000 RPM, 2.5-inch enterprise-class
+    drive with the SATA interface for enterprise applications
+    requiring high performance and high reliability;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the
+    WD®
+
+    RE family of drives, with capacities ranging from 160 GB to 2
+    TB. The
+    WD®
+
+    RE family serves the SATA market and has enhanced reliability
+    features and ratings when contrasted to our desktop
+    products; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    low-power versions of the
+    WD®
+
+    RE family of drives featuring WD GreenPower
+    Technologytm,
+
+    which reduces power consumption as much as 40 percent
+    compared with standard hard drives. Lower power consumption
+    reduces total cost of ownership for our customers by cutting
+    energy costs and lowering operating temperatures, which
+    contributes to longer reliability.
+
+
+
+
+
+ 
+
+
+    WD S25, WD
+    VelociRaptortm
+
+    and
+    WD®
+
+    RE drives may be used in, but are not limited to, applications
+    such as databases,
+    e-commerce
+    and super computing in life science, oil and gas and similar
+    industries, business records
+
+
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+
+    management,
+    e-mail, file
+    serving, web serving, near-line storage, medical records,
+    engineering data management, video broadcasting and video
+    security. The WD
+    VelociRaptortm
+
+    also has been popular for use in the high-end desktop PC market
+    for applications including gaming, servers and advanced CAD/CAM
+    (computer-aided design/computer-aided manufacturing) systems.
+
+
+ 
+
+
+
+    Consumer
+    Electronics Products
+
+
+ 
+
+
+    We offer a line of hard drives under the
+    WD®
+
+    AV brand that are designed for use in products such as DVRs,
+    STBs, karaoke systems, multi-function printers and gaming
+    systems.
+    WD®
+
+    AV drives deliver the characteristics CE manufacturers seek
+    most, which are quiet operation, low operating temperature, low
+    power consumption specifications, high reliability and optimized
+    streaming capabilities. We also offer low-power
+    WD®
+
+    AV drive models that feature the WD GreenPower
+    Technologytm.
+
+    Lower power consumption in our
+    WD®
+
+    AV drives results in cooler operation, which enhances long-term
+    reliability. Our WD GreenPower
+    Technologytm
+
+    also quiets drive operation, which is an important attribute for
+    our CE customers.
+
+
+ 
+
+
+
+    Branded
+    Products
+
+
+ 
+
+
+    We sell a broad line of
+    WD®-branded
+
+    hard drive-based storage appliances, which are internal drives
+    embedded into PC peripheral-style enclosures that have USB 2.0,
+    USB 3.0, external SATA,
+    FireWiretm
+
+    and Ethernet network connections and include software that
+    assists customers with back up, remote access and management of
+    digital content. We sell these branded storage appliances, as
+    well as related adapters and accessories, through retail store
+    fronts, online stores and distributors. These include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the 3.5-inch hard drive-based My
+    Book®
+
+    family of storage appliances, which are designed to reside on
+    desktops as PC peripherals, as well as be connected to networks,
+    and to simplify storage for mainstream consumers, and offer from
+    500 GB to 4 TB of capacity;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the 3.5-inch My DVR
+    Expandertm
+
+    series of external SATA (“eSATA”) and USB 2.0 storage
+    appliances, which adds recording time to STBs with DVR
+    capability. In addition, My
+    Book®
+
+    AV DVR Expander also allows for the transfer and storage of
+    videos from certain camcorders;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the WD
+    ShareSpacetm
+
+    network-attached storage system, which offers capacities as high
+    as 8 TB for home office or small office applications;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the 2.5-inch hard drive-based My
+    Passporttm
+
+    and WD
+    Elementstm
+
+    Portable series of USB 2.0 and
+    FireWiretm
+
+    storage devices, which, weighing less than one-half of a pound,
+    offer from 250 GB to 1 TB of portable storage capacity. In
+    addition, My
+    Passporttm
+
+    AV also allows for the transfer and storage of videos from
+    certain camcorders; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    3.5-inch and 2.5-inch internal hard drives packaged with PC
+    installation kits under the
+    WD®
+
+    brand for retail store sales.
+
+
+
+
+
+ 
+
+
+    We also sell a line of
+    WD®-branded
+
+    media players which are devices that enable users to play
+    digital movies, music and photos from any of our
+    WD®-branded
+
+    external hard drives, other USB mass storage devices or the
+    Internet, on a television or home theater system, independent of
+    the PC. Our media players provide rich, high-definition playback
+    and navigation up to 1080p, multiple ports to connect to
+    multiple mass storage devices and access them simultaneously,
+    high-definition multimedia interface ports to connect to the
+    highest quality HDTV or home theater system and composite
+    outputs to ensure compatibility with virtually all television
+    sets.
+
+
+ 
+
+
+
+    Solid-State
+    Drive Products
+
+
+ 
+
+
+    We offer a line of solid-state drives under the
+    SiliconDrive®
+
+    and WD
+    SiliconEdge®
+
+    brands that provide advanced storage technologies for the
+    embedded systems and client PC markets. Our
+    SiliconDrive®
+
+    product family consists of 2.5-inch, Compact Flash
+    (“CF”) and other small form factors with capacities
+    ranging from 32 megabytes (“MB”) to 120 GB,
+    interfaces that include SATA and Parallel Advanced Technology
+    Attachment (“PATA”)/EIDE/CF and read/write speeds of
+    up to 100/80 MB per second. Our
+    SiliconDrive®
+
+    products address the stringent embedded systems market
+    requirements and ensure data integrity, eliminate unscheduled
+    downtime, protect application data and software and provide for
+    data
+
+
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+
+    security and protection through our patented and patent-pending
+    PowerArmor®,
+
+    SiSMART®,
+
+    SolidStor®,
+
+    SiSecuretm
+
+    and
+    LifeESTtm
+
+    technologies. Our WD
+    SiliconEdge®
+
+    product family consists of 2.5-inch form factors, with
+    capacities ranging from 64 GB to 256 GB, SATA interfaces, and
+    read/write speeds of up to 250/170 MB per second. Our WD
+    SiliconEdge®
+
+    products are designed for both read-intensive client and
+    consumer applications and write-intensive OEM applications. They
+    also feature both multi-level cell and single-level cell
+    semiconductor media as well as patented and patent-pending
+    technologies, such as advanced wear-leveling, error correction
+    control, and industry standard performance optimization commands
+    such as TRIM and Native Command Queuing to ensure maximum drive
+    performance and endurance with easy plug and play compatibility.
+
+
+ 
+
+
+
+    Research
+    and Development
+
+
+ 
+
+
+    We devote substantial resources to development of new products
+    and improvement of existing products. We focus our engineering
+    efforts on coordinating our product design and manufacturing
+    processes to bring our products to market in a cost-effective
+    and timely manner. Research and development expenses totaled
+    $611 million, $509 million and $464 million in
+    2010, 2009 and 2008, respectively.
+
+
+ 
+
+
+    Fiscal 2010 represented the ninth consecutive year of
+    substantial growth in our research and development spending to
+    support the significant broadening of our product and technology
+    portfolios. Consistently over that nine-year period, we grew our
+    research and development spending 441% from $113 million in
+    fiscal 2001 to $611 million in fiscal 2010. As a result of
+    this investment activity, we continue to expand our business
+    beyond the desktop PC market into newer markets or markets in
+    which we have not previously participated. Such investments have
+    allowed us to execute against our strategic objective of revenue
+    diversification to address the growth of new applications for
+    hard drives and fast-growing new market opportunities.
+
+
+ 
+
+
+    For an additional discussion of risks related to our development
+    of new products, see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Technology
+    and Product Development
+
+
+ 
+
+
+    Hard drives record, store and retrieve digital data. Performance
+    attributes of hard drives, such as their ability to access and
+    transmit data and storage capacity, are currently better than
+    removable disks, optical hard drives and tapes, and they are
+    more cost-effective than semiconductor technology. The primary
+    measures of hard drive performance include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    “Acoustics” — which is the sound power
+    emitted during hard drive operation, commonly expressed in
+    decibels, and perceived loudness due to sound pressure, commonly
+    expressed in sones.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    “Data transfer rate” — which is the
+    sustained rate of data transfer to and from the disk, commonly
+    expressed in gigabits per second. One gigabit equals one billion
+    bits.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    “Seek time” — which is the time needed to
+    position the heads over a selected track on the disk surface,
+    commonly expressed in milliseconds.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    “Spindle rotation speed” — which is the
+    nominal rotation speed of the disks inside the hard drive,
+    commonly expressed in RPM or latency. Spindle rotation speeds
+    commonly stated as 5,400, 7,200 and 10,000 RPM are sometimes
+    approximations.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    “Storage capacity” — which is the amount of
+    data that can be stored on the hard drive, commonly expressed in
+    GB or TB. As defined in the hard drive industry, one GB equals
+    one billion bytes and one TB equals one trillion bytes. A byte
+    is a digital character, typically comprised of eight bits. A bit
+    is a binary digit, the smallest unit of information in a digital
+    system.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    “Power Consumption” — which is the amount of
+    electricity required to operate the drive, measured in watts.
+
+
+
+
+
+ 
+
+
+    All of our hard drive products employ similar technology. The
+    main components of the hard drive are a Head-Disk-Assembly
+    (“HDA”) and a Printed Circuit Board Assembly
+    (“PCBA”).
+
+
+ 
+
+
+    HDA: The HDA includes heads, magnetic media, head positioning
+    mechanism (“actuator”) and spindle motor. A rigid base
+    and top cover contain these components in a
+    contamination-controlled environment. One or more disks
+    positioned around a motor-driven spindle hub that rotates the
+    disks comprise the disk-pack assembly. The disk is made
+
+
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+
+    up of a smooth substrate on which thin layers of magnetic
+    materials are deposited. The head stack assembly
+    (“HSA”) is comprised of a magnetic positioner, a
+    pivot-arm module, on which the individual heads are mounted.
+    Each disk has a head suspended directly above it, which can read
+    data from or write data to the spinning disk.
+
+
+ 
+
+
+    PCBA: The PCBA includes both standard and custom integrated
+    circuits, an interface connector to the host computer and a
+    power connector. The integrated circuits on the printed circuit
+    board typically include a drive interface and a controller. The
+    drive interface receives instructions from the host computer,
+    while the controller directs the flow of data to or from the
+    disks and controls the heads. The location of data on each disk
+    is logically maintained in concentric tracks divided into
+    sectors. The host computer sends instructions to the controller
+    to read data from or write data to the disks, based on logical
+    track and sector locations. Guided by instructions from the
+    controller, the HSA pivots in an arc across the disk until it
+    reaches the selected track of a disk, where the data is recorded
+    or retrieved.
+
+
+ 
+
+
+    Industry-standard interfaces allow the hard drive to communicate
+    with the computer. Currently, the primary interfaces for PCs are
+    PATA and SATA. The primary interfaces for enterprise systems are
+    SATA, and the following, which we refer to as traditional
+    enterprise: SCSI, SAS and FC-AL. As computer performance
+    continues to improve, the hard drive will need to deliver
+    information faster. We believe this will continue to drive the
+    transition of the PC industry to higher speed interfaces, such
+    as SATA and SAS, to facilitate the higher data transfer rates.
+    We currently offer the SATA interface on our WD
+    Caviar®,
+
+    WD
+    Scorpio®,
+
+    WD®
+
+    RE, WD
+    VelociRaptor®
+
+    and
+    WD®
+
+    AV hard drive families; the PATA interface on WD
+    Caviar®,
+
+    WD
+    Scorpio®
+
+    and
+    WD®AV
+
+    hard drive families; and the SAS interface on the WD S25 hard
+    drive family.
+
+
+ 
+
+
+    The number of disks and each disk’s areal density (track
+    density multiplied by bit density), which is a measure of the
+    amount of data that can be stored on the recording surface of
+    the disk per unit area, determines storage capacity of the hard
+    drive. The higher the areal density, the more information can be
+    stored on a single platter. Achieving a given drive capacity
+    requires fewer disks and heads as the areal density increases,
+    potentially reducing product costs over time through reduced
+    component requirements. In September 2009, we began shipping our
+    WD
+    Caviar®
+
+    Blacktm
+
+    3.5-inch 2 TB drives at 500 GB per platter areal density. In
+    March 2010, we began shipping our WD
+    Scorpio®
+
+    Bluetm
+
+    2.5-inch 750 GB drives at 375 GB per platter areal density.
+
+
+ 
+
+
+    Head technology is one of the key components affecting areal
+    density. The hard drive industry has transitioned from the use
+    of longitudinal magnetic recording (“LMR”) head
+    technology for the head writer function to perpendicular
+    magnetic recording (“PMR”) technology, which allows
+    for significantly higher storage capacities. In addition, the
+    industry has made the transition to tunnel-junction magneto
+    resistive (“TMR”) technology for the head reader
+    function. We have completed the transition to PMR and TMR across
+    all of our product platforms.
+
+
+ 
+
+
+    With the transition to PMR, magnetic media plays a much more
+    important role in achieving higher areal density. PMR demands a
+    much tighter interaction and matching between head and magnetic
+    media designs. We are vertically integrated in the two most
+    important technology components of hard drives (heads and
+    magnetic media), which has enabled us to achieve a more optimum
+    design and utilization of these components.
+
+
+ 
+
+
+    We invest considerable resources in research and development,
+    manufacturing infrastructure and capital equipment of head and
+    magnetic media components, in order to secure our competitive
+    position and cost structure.
+
+
+ 
+
+
+    Solid-state drives record, store and retrieve digital data
+    without any moving parts. Attributes, such as fast read/write
+    speeds, low power consumption and robust durability offer
+    greater performance than hard drives in some storage
+    applications but are currently much more costly per GB and are
+    available in much lower capacity points than hard drives. The
+    main components of a solid-state drive are the
+    system-on-chip
+    and semiconductor media. The capacity of a solid-state drive is
+    based on the total number of MB or GB of semiconductor media in
+    the solid-state drive. Industry-standard storage interface
+    protocols, such as SATA, PATA/CF and USB 2.0, allow the
+    solid-state drive to communicate with the host system.
+
+
+ 
+
+
+    The
+    WD®
+
+    product lines generally leverage a common platform for various
+    products within product families with different capacities to
+    serve differing market needs. This platform strategy results in
+    commonality of components across different products within
+    product families and, in some cases, across product families,
+    which reduces exposure to changes in demand, facilitates
+    inventory management and allows us to achieve lower costs
+    through purchasing economies. This platform strategy also
+    enables our customers to leverage their qualification efforts
+    onto successive product models.
+
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+
+    For an additional discussion of risks related to technological
+    innovations, see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Sales and
+    Distribution
+
+
+ 
+
+
+    We sell our products globally to OEMs, ODMs, distributors and
+    retailers. OEMs purchase our products, either directly or
+    through a contract manufacturer such as an ODM, and assemble
+    them into the computer or CE systems they build. Distributors
+    typically sell our products to non-direct customers such as
+    small computer and CE manufacturers, dealers, systems
+    integrators, online retailers and other resellers. Retailers
+    typically sell our products directly to end-users through their
+    storefront or online facilities.
+
+
+ 
+
+
+
+    Original
+    Equipment Manufacturers
+
+
+ 
+
+
+    Sales to OEMs, which include sales through ODMs, accounted for
+    51%, 54% and 51% of our net revenue in 2010, 2009 and 2008,
+    respectively. For 2010 and 2008, no single customer accounted
+    for 10% or more of our net revenue. For 2009, sales to Dell Inc.
+    accounted for 10% of our net revenue. We believe that our
+    success depends on our ability to maintain and improve our
+    strong relationships with the leading OEMs.
+
+
+ 
+
+
+    OEMs evaluate and select their hard drive and solid-state drive
+    suppliers based on a number of factors, including quality and
+    reliability, storage capacities, performance characteristics,
+    price, service and support, ease of doing business and the
+    supplier’s long-term financial stability. OEMs typically
+    seek to qualify two or more providers for each generation of
+    products, and once an OEM has chosen its qualified vendors for a
+    given product, it generally will purchase products from those
+    vendors for the life of that product. To achieve success with
+    OEM qualifications, a supplier must consistently offer products
+    featuring leading technology, quality and reliability at
+    acceptable capacity. Suppliers must quickly achieve volume
+    production of each new generation of high quality and reliable
+    hard drives or solid-state drives, requiring access to flexible,
+    high-capacity, high-quality manufacturing capabilities.
+
+
+ 
+
+
+    Many of our OEM customers utilize
+    just-in-time
+    inventory management processes or supply chain business models
+    that combine
+    “build-to-order,”
+    in which they do not build until there is a firm order, and
+    “contract manufacturing,” in which the OEM contracts
+    assembly work to a contract manufacturer, such as an ODM, who
+    purchases components and assembles the computer based on the
+    OEM’s instructions. For certain OEMs, we maintain a base
+    stock of finished goods inventory in facilities located near or
+    adjacent to the OEM’s operations.
+
+
+ 
+
+
+    For an additional discussion of risks related to our need to
+    adapt to our customers’ business models and maintain
+    customer satisfaction, refer to Item 1A of this Annual
+    Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Distributors
+
+
+ 
+
+
+    We use a broad group of distributors to sell our products to
+    non-direct customers such as small computer and CE
+    manufacturers, dealers, systems integrators, online retailers
+    and other resellers. Distributors accounted for approximately
+    31%, 26% and 31% of our net revenue for 2010, 2009 and 2008,
+    respectively. Distributors generally enter into non-exclusive
+    agreements for specific territories with us for the purchase and
+    redistribution of our products in those territories. We grant
+    our distributors limited price protection.
+
+
+ 
+
+
+
+    Retailers
+
+
+ 
+
+
+    We sell our branded products directly to a select group of major
+    retailers such as computer superstores, warehouse clubs, online
+    retailers, and computer electronics stores, and authorize sales
+    through distributors to smaller retailers. Retailers accounted
+    for approximately 18%, 20% and 18% of our net revenue for 2010,
+    2009 and 2008, respectively. The retail channel complements our
+    other sales channels while helping to build brand awareness for
+    WD and our products. Retailers supply end-users with our
+    products to upgrade their computers, externally store their data
+    for backup or mobility purposes and play their stored digital
+    content or content accessed over the Internet on their
+    television or home theater systems. We grant our retailers
+    limited price protection. We also sell our branded products
+    through our Web site.
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Sales and
+    Marketing
+
+
+ 
+
+
+    We maintain sales offices in selected parts of the world
+    including the major geographies of the Americas, Asia Pacific,
+    Europe and the Middle East. Our international sales, which
+    include sales to foreign subsidiaries of United States
+    (“U.S.”) companies but do not include sales to
+    U.S. subsidiaries of foreign companies, represented 81%,
+    80% and 76% of our net revenue for 2010, 2009 and 2008,
+    respectively. Sales to international customers may be subject to
+    certain risks not normally encountered in domestic operations,
+    including exposure to tariffs and various trade regulations. For
+    an additional discussion regarding the risks related to sales to
+    international customers, see Item 1A of this Annual Report
+    on
+    Form 10-K.
+
+
+ 
+
+
+    For additional information concerning revenue recognition, sales
+    by geographic region and major customer information, see
+    Part II, Item 8, Notes 1 and 6 in the Notes to
+    Consolidated Financial Statements, included in this Annual
+    Report on
+    Form 10-K.
+
+
+ 
+
+
+    We perform our marketing and advertising functions internally
+    and through outside firms. We target advertising, worldwide
+    packaging and marketing materials to various reseller and
+    end-user categories. We utilize both consumer media and trade
+    publications. We have programs under which we reimburse
+    qualified distributors and retailers for certain marketing
+    expenditures. We also maintain customer relationships by
+    communicating with our resellers and providing end-users with
+    information and support through our Web site.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    We compete primarily with manufacturers of hard drives for use
+    in desktop, notebook, enterprise, CE and external storage
+    products. Our competitors in the hard drive market include
+    companies such as Hitachi Global Storage Technologies, Samsung
+    Electronics Co. Ltd., Seagate Technology and Toshiba Corporation.
+
+
+ 
+
+
+    The hard drive industry is intensely competitive, with hard
+    drive suppliers competing for sales to a limited number of major
+    customers. Hard drives manufactured by different competitors are
+    highly substitutable due to the industry mandate of technical
+    form, fit and function standards. Hard drive manufacturers
+    compete on the basis of product quality and reliability, storage
+    capacity, unit price, product performance, production volume
+    capabilities, delivery capability, leadership in
+    time-to-market,
+    time-to-volume
+    and
+    time-to-quality,
+    service and support and ease of doing business. The relative
+    importance of these factors varies by customer and market. We
+    believe that we are generally competitive in all of these
+    factors.
+
+
+ 
+
+
+    We believe that there are no substantial barriers for existing
+    competitors to offer competing products. Therefore, we believe
+    that we cannot differentiate
+    WD®
+
+    hard drive products solely on attributes such as storage
+    capacity, buffer size or
+    time-to-market.
+    Accordingly, we differentiate WD by focusing on operational
+    excellence, high product quality and reliability, and designing
+    and incorporating into our hard drives desirable product
+    performance attributes. Such performance attributes include seek
+    times, data transfer rates, intelligent caching, failure
+    prediction, remote diagnostics, acoustics, error recovery, low
+    operating temperature, low power consumption and optimized
+    streaming capabilities.
+
+
+ 
+
+
+    In addition, we differentiate WD by emphasizing non-product
+    related attributes, including rapid response to our customers.
+    Rapid response requires accelerated design cycles, customer
+    delivery, production flexibility and timely service and support,
+    which contribute to customer satisfaction. We also rely on the
+    strength of the WD brand name with value-added resellers,
+    retailers and solution providers to whom we sell our hard drive
+    products directly and indirectly. We believe that trust in a
+    manufacturer’s reputation, its execution track record and
+    the establishment of strategic relationships have become
+    important factors in the selection of a hard drive, particularly
+    in a rapidly changing technology environment.
+
+
+ 
+
+
+    Advances in magnetic, optical or other data storage technologies
+    could result in competitive products with better performance or
+    lower cost per unit of capacity than our products. We monitor
+    the advantages, disadvantages and advances of the full array of
+    storage technologies on an ongoing basis.
+
+
+ 
+
+
+    High-speed semiconductor media competes with hard drive products
+    in some applications, such as consumer handheld devices and
+    portable external storage. Semiconductor media is much faster in
+    some applications than magnetic hard drives, but currently is
+    not competitive in most applications using 3.5-inch and 2.5-inch
+    form factor hard drives from a cost standpoint. Flash memory, a
+    non-volatile semiconductor media, is currently much more costly
+    and, while it
+
+
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+
+    has higher “read” performance attributes than hard
+    drives, it has lower “write” performance attributes.
+    Flash memory could become more competitive in the near future
+    for additional applications requiring less storage capacity than
+    that provided by hard drives. However, we believe that the
+    traditional high-volume computing markets will remain the domain
+    of 3.5-inch and 2.5-inch hard drives based on the hard drive
+    industry’s attributes of reliability, availability, storage
+    capacity and cost.
+
+
+ 
+
+
+    Our competitors in the external hard drive market include
+    companies such as EMC Corporation, Hitachi Global Storage
+    Technologies, LaCie S.A., Melco Holdings Inc. and Seagate
+    Technology. Our competitors in the solid-state drive market
+    include companies such as Intel Corporation, Micron Technology,
+    Inc., Samsung Electronics Co. Ltd., Smart Modular Technologies,
+    Inc. and STEC, Inc. Our competitors in the media player retail
+    market include companies such as Apple Inc., EMC Corporation,
+    LaCie S.A., Roku, Inc. and Seagate Technology.
+
+
+ 
+
+
+    For an additional discussion of risks related to competition,
+    see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Seasonality
+
+
+ 
+
+
+    We have historically experienced seasonal fluctuations in our
+    business with higher levels of demand in the first and second
+    quarters of our fiscal year. This seasonality is a result of
+    consumer spending at the beginning of the school year and during
+    the holiday season.
+
+
+ 
+
+
+
+    Service
+    and Warranty
+
+
+ 
+
+
+    We generally warrant our newly manufactured products against
+    defects in materials and workmanship from one to five years from
+    the date of manufacture depending on the type of product. Our
+    warranty obligation is generally limited to repair or
+    replacement. We have engaged third parties in various countries
+    in multiple regions, including Africa, Asia Pacific, Australia,
+    Europe, India, Latin America, the Middle East and North America,
+    to provide various levels of testing, processing
+    and/or
+    recertification of returned products for our customers.
+
+
+ 
+
+
+
+    Manufacturing
+
+
+ 
+
+
+    We believe that we have significant know-how, unique product
+    manufacturing processes, execution skills and human resources to
+    continue to be successful and have the ability to grow, as
+    necessary, our manufacturing operations. To be competitive, we
+    must manufacture high quality hard drives with industry leading
+    time-to-volume
+    production at competitive unit costs. We strive to maintain
+    manufacturing flexibility, high manufacturing yields, reliable
+    products, and high-quality components that we manufacture
+    ourselves, while insisting that our suppliers provide
+    high-quality components at competitive prices. The critical
+    elements of our hard drive production are high volume and
+    utilization, low cost assembly and testing, and establishment
+    and maintenance of key supplier relationships. By establishing
+    close relationships with our strategic component suppliers, we
+    believe we access
+    best-of-class
+    technology and manufacturing quality. In addition, we believe
+    that our sourcing strategy currently enables us to have the
+    business flexibility needed to select the highest quality, low
+    cost of ownership suppliers as product designs and technologies
+    evolve.
+
+
+ 
+
+
+    Hard drive manufacturing is a complex process involving the
+    assembly of precision components with narrow tolerances and
+    thorough testing. The assembly process occurs in a “clean
+    room” environment that demands skill in process engineering
+    and efficient space utilization to control the operating costs
+    of this manufacturing environment. Our clean room manufacturing
+    process consists of modular production units, each of which
+    contains a number of work cells.
+
+
+ 
+
+
+    We manufacture hard drives in Malaysia and Thailand. We
+    continually evaluate our manufacturing processes in an effort to
+    increase productivity, sustain and improve quality and decrease
+    manufacturing costs. We continually evaluate which steps in the
+    manufacturing process would benefit from automation and how
+    automated manufacturing processes can improve productivity and
+    reduce manufacturing costs.
+
+
+ 
+
+
+    We use our wafer fabrication facilities in Fremont, California
+    and our slider fabrication facility in Bang Pa-In, Thailand, to
+    design and manufacture a substantial portion of the heads and
+    head gimbal assemblies (“HGAs”) we include in the hard
+    drives we manufacture.
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+
+    We have magnetic media and substrate design and manufacturing
+    facilities in Malaysia. We also have a magnetic media design and
+    manufacturing facility in Singapore. We use these facilities to
+    design and manufacture most of the magnetic media and substrates
+    that we use in our products.
+
+
+ 
+
+
+    We leverage the efficiencies of contract manufacturers when
+    strategically advantageous.
+
+
+ 
+
+
+    For an additional discussion of risks related to manufacturing,
+    see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Materials
+    and Supplies
+
+
+ 
+
+
+    The following products are the major components currently used
+    in the manufacture of our hard drives:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    magnetic heads and magnetic media;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    suspensions with related HGAs and HSAs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    spindle motors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    custom and standard electronics such as
+    system-on-chip,
+    magnetic media, motor controllers,
+    pre-amps and
+    printed circuit boards;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    base and top covers; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    magnets and related voice coil motors.
+
+
+
+
+
+ 
+
+
+    We also use several other components in our hard drives such as
+    seals, filters, plastic molded parts, capacitors, resistors,
+    connectors and cables.
+
+
+ 
+
+
+    We design and manufacture a substantial portion of the heads and
+    magnetic media required for the hard drives we manufacture. We
+    purchase a portion of these components from third party
+    suppliers. We acquire all of the remaining components for our
+    products from third party suppliers.
+
+
+ 
+
+
+    The major components used in the manufacture of our solid-state
+    drives (the semiconductor media and
+    system-on-chip)
+    and in our media player (the controller) are acquired from third
+    party suppliers.
+
+
+ 
+
+
+    We generally retain multiple suppliers for each of our component
+    requirements but in some instances use sole sources for business
+    reasons. We believe that components are generally available.
+
+
+ 
+
+
+    For an additional discussion of risks related to our component
+    supplies, see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    A substantial portion of our orders are generally for shipments
+    within 30 to 60 days of the placement of the order. We
+    generally negotiate pricing, order lead times, product support
+    requirements and other terms and conditions before receiving a
+    customer’s first purchase order for a product.
+    Customers’ purchase orders typically may be canceled with
+    relatively short notice to us, with little or no cost to the
+    customer, or modified by customers to provide for delivery at a
+    later date. In addition, we make many of our sales to OEMs under
+    just-in-time
+    delivery contracts that do not generally require firm order
+    commitments by the customer until the time of sale. Instead, we
+    receive a periodic forecast of requirements from the customer
+    and invoice the customer upon shipment of the product from the
+    just-in-time
+    warehouse. Therefore, backlog information as of the end of a
+    particular period is not necessarily indicative of future levels
+    of our revenue and profit and may not be comparable to earlier
+    periods.
+
+
+ 
+
+
+
+    Patents,
+    Licenses and Proprietary Information
+
+
+ 
+
+
+    We own numerous patents and have many patent applications in
+    process. We believe that, although our patents and patent
+    applications have considerable value, the successful
+    manufacturing and marketing of our products depends primarily
+    upon the technical and managerial competence of our staff.
+    Accordingly, the patents held and applied for do not ensure our
+    future success.
+
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+
+    In addition to patent protection of certain intellectual
+    property rights, we consider elements of our product designs and
+    processes to be proprietary and confidential. We believe that
+    our non-patented intellectual property, particularly some of our
+    process technology, is an important factor in our success. We
+    rely upon non-disclosure agreements and contractual provisions
+    and a system of internal safeguards to protect our proprietary
+    information. Despite these safeguards, there is a risk that
+    competitors may obtain and use such information. The laws of
+    foreign jurisdictions in which we conduct business may provide
+    less protection for confidential information than the U.S.
+
+
+ 
+
+
+    We rely on certain technology that we license from other parties
+    to manufacture and sell WD products. We believe that we have
+    adequate cross-licenses and other agreements in place in
+    addition to our own intellectual property portfolio to compete
+    successfully in the hard drive industry. For additional
+    discussion of risks related to our ownership and use of
+    intellectual property, see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Environmental
+    Regulation
+
+
+ 
+
+
+    We are subject to a variety of regulations in connection with
+    our operations. We believe that we have obtained or are in the
+    process of obtaining all necessary environmental permits for our
+    operations. For additional discussion of risks related to
+    environmental regulation, see Item 1A of this Annual Report
+    on
+    Form 10-K.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    As of July 2, 2010, we employed a total of approximately
+    62,500 employees worldwide. This represents an increase in
+    headcount of approximately 36% since July 3, 2009 and an
+    increase of approximately 25% since June 27, 2008. Many of
+    our employees are highly skilled, and our continued success
+    depends in part upon our ability to attract and retain such
+    employees. Accordingly, we offer employee benefit programs,
+    which we believe are, in the aggregate, competitive with those
+    offered by our competitors. We and most of our competitors
+    nevertheless have difficulty at times hiring and retaining
+    certain skilled employees. We have engaged consultants and
+    contract personnel to fill these needs until full-time employees
+    could be recruited. We consider our employee relations to be
+    good. For additional discussion of risks related to our skilled
+    employees, see Item 1A of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    We maintain an Internet Web site at www.westerndigital.com. Our
+    Annual Report on
+    Form 10-K,
+    Quarterly Reports on
+    Form 10-Q,
+    Current Reports on
+    Form 8-K
+    and amendments to reports filed or furnished pursuant to
+    Sections 13(a) and 15(d) of the Securities Exchange Act of
+    1934, as amended, are available on our Web site at
+    www.westerndigital.com, free of charge, as soon as reasonably
+    practicable after the electronic filing of these reports with,
+    or furnishing of these reports to, the SEC. Any materials we
+    file with the SEC are available at the SEC’s Public
+    Reference Room at 100 F Street, NE, Washington, DC
+    20549. Additional information about the operation of the Public
+    Reference Room can also be obtained by calling the SEC at
+    1-800-SEC-0330.
+    In addition, the SEC maintains a Web site at www.sec.gov that
+    contains reports, proxy and information statements, and other
+    information regarding issuers that file electronically with the
+    SEC, including us.
+
+
+ 
+
+
+
+    Executive
+    Officers of the Registrant
+
+
+ 
+
+
+    Listed below are all of our executive officers as of
+    July 2, 2010, followed by a brief account of their business
+    experience during the past five years. Executive officers are
+    normally appointed annually by the Board of Directors at a
+    meeting of the directors immediately following the Annual
+    Meeting of Stockholders. There are no family relationships among
+    these officers nor any arrangements or understandings between
+    any officer and any other person pursuant to which an officer
+    was selected.
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Name
+
+
+ 
+
+
+    Age
+
+
+ 
+
+
+    Position
+
+
+
+ 
+
+
+
+
+
+
+    John F. Coyne
+
+
+
+ 
+
+ 
+
+
+    60
+
+ 
+
+
+ 
+
+
+    President and Chief Executive Officer
+
+
+
+
+
+    Timothy M. Leyden
+
+
+
+ 
+
+ 
+
+
+    58
+
+ 
+
+
+ 
+
+
+    Executive Vice President and Chief Financial Officer
+
+
+
+
+
+    Martin W. Finkbeiner
+
+
+
+ 
+
+ 
+
+
+    51
+
+ 
+
+
+ 
+
+
+    Executive Vice President, Operations
+
+
+
+
+
+    Raymond M. Bukaty
+
+
+
+ 
+
+ 
+
+
+    52
+
+ 
+
+
+ 
+
+
+    Senior Vice President, Administration, General Counsel and
+    Secretary
+
+
+
+
+
+
+
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+
+
+ 
+
+
+
+
+    Mr. Coyne, 60, has been a director since October 2006. He
+    joined us in 1983 and has served in various executive
+    capacities. From November 2002 until June 2005, Mr. Coyne
+    served as Senior Vice President, Worldwide Operations, from June
+    2005 until September 2005, he served as Executive Vice
+    President, Worldwide Operations and from November 2005 until
+    June 2006, he served as Executive Vice President and Chief
+    Operations Officer. Effective June 2006, he was named President
+    and Chief Operating Officer. In January 2007, he became
+    President and Chief Executive Officer. Mr. Coyne is a
+    director of Jacobs Engineering Group Inc.
+
+
+ 
+
+
+    Mr. Leyden, 58, re-joined us in May 2007 as Executive Vice
+    President, Finance, and was promoted to Executive Vice President
+    and Chief Financial Officer in September 2007. From December
+    2001 to May 2007, Mr. Leyden served in senior finance
+    capacities at Sage Software Inc. and Sage Software of
+    California, subsidiaries of Sage Group PLC, a U.K. public
+    company that supplies accounting and business management
+    software to small and medium-sized businesses, including as Vice
+    President, Finance and Chief Financial Officer from December
+    2001 to May 2004 and as Senior Vice President, Finance and Chief
+    Financial Officer from May 2004 to May 2007. Mr. Leyden
+    previously served in various worldwide finance, manufacturing
+    and information technology capacities with us from 1983 to
+    December 2000.
+
+
+ 
+
+
+    Mr. Finkbeiner, 51, joined us in 1992 and has served in
+    various positions in program management, operations,
+    engineering, and customer satisfaction. From October 2005
+    through November 2009, Mr. Finkbeiner served as Senior Vice
+    President, Hard Drive Development. In November 2009 he was
+    appointed to the position of Executive Vice President,
+    Operations.
+
+
+ 
+
+
+    Mr. Bukaty, 52, joined us in 1999 as Vice President,
+    Corporate Law. He was appointed to Vice President, General
+    Counsel and Secretary in March 2002, and to Senior Vice
+    President in January 2004, and assumed his current position as
+    Senior Vice President, Administration, General Counsel and
+    Secretary in October 2004. In July 2010, Mr. Bukaty
+    announced his intention to retire from the Company, effective
+    October 1, 2010.
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A.  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+
+    Negative
+    or uncertain global economic conditions could result in a
+    decrease in our sales and revenue and an increase in our
+    operating costs, which could adversely affect our business and
+    operating results.
+
+
+ 
+
+
+    Negative or uncertain global economic conditions could cause
+    many of our direct and indirect customers to delay or reduce
+    their purchases of our products and systems containing our
+    products. In addition, many of our customers in each of the OEM,
+    distribution and retail channels rely on credit financing in
+    order to purchase our products. If negative conditions in the
+    global credit markets prevent our customers’ access to
+    credit, product orders in these channels may decrease, which
+    could result in lower revenue. Likewise, if our suppliers face
+    challenges in obtaining credit, in selling their products or
+    otherwise in operating their businesses, they may be unable to
+    offer the materials we use to manufacture our products. These
+    actions could result in reductions in our revenue, increased
+    price competition and increased operating costs, which could
+    adversely affect our business, results of operations and
+    financial condition.
+
+
+ 
+
+
+
+    If
+    industry demand slows significantly as a result of negative or
+    uncertain global economic conditions or otherwise, we may have
+    to take steps to align our cost structure with demand, which
+    could result in impairment charges and have a negative impact on
+    our operating results.
+
+
+ 
+
+
+    If demand slows significantly as a result of a deterioration in
+    economic conditions or otherwise, we may need to execute
+    restructuring activities to realign our cost structure with
+    softening demand. The occurrence of restructuring activities
+    could result in impairment charges and other expenses, which
+    could adversely impact our results of operations or financial
+    condition.
+
+
+ 
+
+
+
+    Negative
+    or uncertain global economic conditions increase the risk that
+    we could suffer unrecoverable losses on our customers’
+    accounts receivable, which would adversely affect our financial
+    results.
+
+
+ 
+
+
+    We extend credit and payment terms to some of our customers. In
+    addition to ongoing credit evaluations of our customers’
+    financial condition, we traditionally seek to mitigate our
+    credit risk by purchasing credit insurance on certain of our
+    accounts receivable balances; however, as a result of the recent
+    uncertainty and volatility in global economic conditions, we may
+    find it increasingly difficult to be able to insure these
+    accounts receivable. We could suffer significant losses if a
+    customer whose accounts receivable we have not insured, or have
+    underinsured, fails and is unable to pay us.
+
+
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+
+    Additionally, negative or uncertain global economic conditions
+    increase the risk that if a customer whose accounts receivable
+    we have insured fails, the financial condition of the insurance
+    carrier for such customer account may have also deteriorated
+    such that it cannot cover our loss. A significant loss of an
+    accounts receivable that we cannot recover through credit
+    insurance would have a negative impact on our financial results.
+
+
+ 
+
+
+
+    If our
+    long-lived assets or goodwill become impaired, it may adversely
+    affect our operating results.
+
+
+ 
+
+
+    Negative or uncertain global economic conditions could result in
+    circumstances, such as a sustained decline in our stock price
+    and market capitalization or a decrease in our forecasted cash
+    flows such that they are insufficient, indicating that the
+    carrying value of our long-lived assets or goodwill may be
+    impaired. If we are required to record a significant charge to
+    earnings in our consolidated financial statements because an
+    impairment of our long-lived assets or goodwill is determined,
+    our results of operations will be adversely affected.
+
+
+ 
+
+
+
+    Declines
+    in average selling prices (“ASPs”) in the hard drive
+    industry could adversely affect our operating results.
+
+
+ 
+
+
+    Historically, the hard drive industry has experienced declining
+    ASPs. Our ASPs tend to decline when competitors lower prices as
+    a result of decreased costs or to absorb excess capacity,
+    liquidate excess inventories, restructure or attempt to gain
+    market share. Our ASPs also decline when there is a shift in the
+    mix of product sales, and sales of lower priced products
+    increase relative to those of higher priced products. When ASPs
+    in the hard drive industry decline, our ASPs are also likely to
+    decline, which adversely affects our operating results.
+
+
+ 
+
+
+
+    If we
+    fail to anticipate or timely respond to changes in the markets
+    for hard drives, our operating results could be adversely
+    affected.
+
+
+ 
+
+
+    The PC industry, which comprises a substantial portion of our
+    revenue, is experiencing a shift in demand from 3.5-inch to
+    2.5-inch form factor disk drives. As a result, the market for
+    2.5-inch form factor drives is becoming increasingly dominated
+    by large brand OEM customers. These OEM customers may be able to
+    command increased leverage in negotiating prices and other terms
+    of sale. If we are not successful in responding to these changes
+    in the market for smaller form factor drives, our business may
+    suffer.
+
+
+ 
+
+
+    In addition, during past economic downturns, as well as over the
+    past few years, the consumer market for computers has shifted
+    significantly towards lower priced systems, and we therefore
+    expect this trend to continue in light of current global
+    economic conditions. If we are not able to continue to offer a
+    competitively priced hard drive for the low-cost PC market, our
+    share of that market will likely fall, which could harm our
+    operating results.
+
+
+ 
+
+
+    The market for hard drives is also fragmenting into a variety of
+    devices and products. Many industry analysts expect, as do we,
+    that as content increasingly converts to digital technology from
+    the older analog technology, the technology of computers and
+    consumer electronics will continue to converge, and hard drives
+    may be found in many products other than computers, such as
+    various CE devices. However, there has also been a recent rapid
+    growth in CE devices that do not contain a hard drive (such as
+    tablet computers and smartphones). If device-makers are
+    successful in achieving customer acceptance of these devices as
+    a replacement for traditional computing applications that
+    contain hard drives, or if we are not successful in adapting our
+    product offerings to include alternative storage solutions that
+    address these devices, then demand for our products may
+    decrease, which could adversely affect our operating results.
+
+
+ 
+
+
+    Moreover, some devices such as personal video recorders and
+    digital video recorders, or some new PC operating systems which
+    allow greater consumer choice in levels of functionality and
+    therefore greater market differentiation, may require attributes
+    not currently offered in our products, resulting in a need to
+    develop new interfaces, form factors, technical specifications
+    or product features, increasing our overall operational expense
+    without corresponding incremental revenue at this stage. If we
+    are not successful in continuing to deploy our hard drive
+    technology and expertise to develop new products for emerging
+    markets such as the CE market, or if we are required to incur
+    significant costs in developing such products, it may harm our
+    operating results.
+
+
+ 
+
+
+
+    Our
+    prices and margins are subject to declines due to unpredictable
+    end-user demand and oversupply of hard drives.
+
+
+ 
+
+
+    Demand for our hard drives depends on the demand for systems
+    manufactured by our customers and on storage upgrades to
+    existing systems. The demand for systems has been volatile in
+    the past and often has had an exaggerated effect
+
+
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+
+    on the demand for hard drives in any given period. As a result,
+    the hard drive market has experienced periods of excess capacity
+    which can lead to liquidation of excess inventories and intense
+    price competition. If intense price competition occurs, we may
+    be forced to lower prices sooner and more than expected, which
+    could result in lower revenue and gross margins.
+
+
+ 
+
+
+
+    Our
+    failure to accurately forecast market and customer demand for
+    our products could adversely affect our business and financial
+    results or operating efficiencies.
+
+
+ 
+
+
+    The data storage industry faces difficulties in accurately
+    forecasting market and customer demand for its products.
+    Accurately forecasting demand has become increasingly difficult
+    for us, our customers and our suppliers in light of the
+    volatility in global economic conditions. The variety and volume
+    of products we manufacture is based in part on these forecasts.
+    If our forecasts exceed actual market demand, or if market
+    demand decreases significantly from our forecasts, then we could
+    experience periods of product oversupply and price decreases,
+    which could impact our financial performance. If our forecasts
+    do not meet actual market demand, or if market demand increases
+    significantly beyond our forecasts or beyond our ability to add
+    manufacturing capacity, then we may not be able to satisfy
+    customer product needs, which could result in a loss of market
+    share if our competitors are able to meet customer demands.
+
+
+ 
+
+
+    Although we receive forecasts from our customers, they are not
+    generally obligated to purchase the forecasted amounts. Sales
+    volumes in the distribution and retail channels are volatile and
+    harder to predict than sales to our OEM or ODM customers. We
+    consider these forecasts in determining our component needs and
+    our inventory requirements. If we fail to accurately forecast
+    our customers’ product demands, we may have inadequate or
+    excess inventory of our products or components, which could
+    adversely affect our operating results.
+
+
+ 
+
+
+    In order to efficiently and timely meet the demands of many of
+    our OEM customers, we position our products in multiple
+    strategic locations based on the amounts forecasted by such
+    customers. If an OEM customer’s actual product demands
+    decrease significantly from its forecast, then we may incur
+    additional costs in relocating the products that have not been
+    purchased by the OEM. This could result in a delay in our
+    product sales and an increase in our operating costs, which may
+    negatively impact our operating results.
+
+
+ 
+
+
+
+    Our entry
+    into additional storage markets increases the complexity of our
+    business, and if we are unable to successfully adapt our
+    business processes as required by these new markets, we will be
+    at a competitive disadvantage and our ability to grow will be
+    adversely affected.
+
+
+ 
+
+
+    As we expand our product line to sell into additional storage
+    markets, the overall complexity of our business increases at an
+    accelerated rate and we must make necessary adaptations to our
+    business model to address these complexities. For example, as we
+    have previously disclosed, we entered the traditional enterprise
+    market in November 2009. In addition to requiring significant
+    capital expenditures, our entry into the traditional enterprise
+    market adds complexity to our business that requires us to
+    effectively adapt our business and management processes to
+    address the unique challenges and different requirements of the
+    traditional enterprise market, while maintaining a competitive
+    operating cost model. If we fail to gain market acceptance in
+    the traditional enterprise storage market, we will remain at a
+    competitive disadvantage to the companies that succeed in this
+    market and our ability to continue our growth will be negatively
+    affected.
+
+
+ 
+
+
+
+    Our
+    customers’ demand for storage capacity may not continue to
+    grow at current industry estimates, which may lower the prices
+    our customers are willing to pay for new products or put us at a
+    disadvantage to competing technologies.
+
+
+ 
+
+
+    Our customers’ demand for storage capacity may not continue
+    to grow at current industry estimates as a result of
+    developments in the regulation and enforcement of digital rights
+    management, the emergence of processes such as cloud computing,
+    data deduplication and storage virtualization, or otherwise.
+    These factors could lead to our customers’ storage capacity
+    needs being satisfied at lower prices with lower capacity hard
+    drives or solid-state storage products that we do not offer,
+    thereby decreasing our revenue or putting us at a disadvantage
+    to competing storage technologies. As a result, even with
+    increasing aggregate demand for storage capacity, our ASPs could
+    decline, which could adversely affect our operating results.
+
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Expansion
+    into new hard drive markets may cause our capital expenditures
+    to increase, and if we do not successfully expand into new
+    markets, our business may suffer.
+
+
+ 
+
+
+    To remain a significant supplier of hard drives, we will need to
+    offer a broad range of hard drive products to our customers. We
+    currently offer a variety of 3.5-inch or 2.5-inch hard drives
+    for the desktop, mobile, enterprise, CE and external storage
+    markets. However, demand for hard drives may shift to products
+    in form factors or with interfaces that our competitors offer
+    but which we do not. Expansion into other hard drive markets and
+    resulting increases in manufacturing capacity requirements may
+    require us to make substantial additional investments in part
+    because our operations are largely vertically integrated now
+    that we manufacture heads and magnetic media for use in many of
+    the hard drives we manufacture. If we fail to successfully
+    expand into new hard drive markets with products that we do not
+    currently offer, we may lose business to our competitors who
+    offer these products.
+
+
+ 
+
+
+
+    If we
+    fail to successfully manage our new product development or new
+    market expansion, or if we fail to anticipate the issues
+    associated with such development or expansion, our business may
+    suffer.
+
+
+ 
+
+
+    While we continue to develop new products and look to expand
+    into new markets, the success of our new product introductions
+    depends on a number of factors, including our ability to
+    anticipate and manage a variety of issues associated with these
+    new products and new markets, such as:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    difficulties faced in manufacturing ramp;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    market acceptance;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    effective management of inventory levels in line with
+    anticipated product demand; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    quality problems or other defects in the early stages of new
+    product introduction that were not anticipated in the design of
+    those products.
+
+
+
+
+
+ 
+
+
+    Further, we need to identify how any of the new markets into
+    which we are expanding may have different characteristics from
+    the markets in which we currently exist and properly address
+    these differences. These characteristics may include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    demand volume requirements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    demand seasonality;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    product generation development rates;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    customer concentrations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    warranty expectations and product return policies; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    cost, performance and compatibility requirements.
+
+
+
+
+
+ 
+
+
+    Our business may suffer if we fail to successfully anticipate
+    and manage these issues associated with our product development
+    and market expansion. For example, our branded products are
+    designed to attach to and interoperate with a wide variety of PC
+    and CE devices, and therefore their functionality relies on the
+    manufacturer of such devices, or the associated operating
+    systems, enabling the manufacturer’s devices to operate
+    with our branded products. If our branded products are not
+    compatible with a wide variety of devices, or if device
+    manufacturers design their devices so that our branded products
+    cannot operate with them, and we cannot quickly and efficiently
+    adapt our branded products to address these compatibility
+    issues, our business could suffer.
+
+
+ 
+
+
+
+    Expanding
+    into new markets exposes our business to different seasonal
+    demand cycles, which in turn could adversely affect our
+    operating results.
+
+
+ 
+
+
+    The CE and retail markets have different seasonal pricing and
+    volume demand cycles as compared to the PC market. By expanding
+    into these markets, we became exposed to seasonal fluctuations
+    that are different from, and in addition to, those of the PC
+    market. For example, because the primary customer for our
+    branded products are individual consumers, this market has
+    historically experienced a dramatic increase in demand during
+    the winter holiday season. If we do not
+
+
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+
+    properly adjust our supply to these new demand cycles, we risk
+    having excess inventory during periods of low demand and
+    insufficient inventory during periods of high demand, which
+    could adversely affect our operating results.
+
+
+ 
+
+
+
+    Selling
+    to the retail market is an important part of our business, and
+    if consumer spending decreases, or if we fail to maintain and
+    grow our market share or gain market acceptance of our branded
+    products, our operating results could suffer.
+
+
+ 
+
+
+    Selling branded products is an important part of our business,
+    and as our branded products revenue increases as a portion of
+    our overall revenue, our success in the retail market becomes
+    increasingly important to our operating results. If consumer
+    spending decreases as a result of the recent uncertainty and
+    volatility in global economic conditions, our operating results
+    could suffer because of the increased importance of our branded
+    products business.
+
+
+ 
+
+
+    We sell our branded products directly to a select group of major
+    retailers, such as computer superstores and CE stores, and
+    authorize sales through distributors to other retailers and
+    online resellers. Our current retail customer base is primarily
+    in the U.S., Canada and Europe. We are facing increased
+    competition from other companies for shelf space at a small
+    number of major retailers that have strong buying power and
+    pricing leverage. If we are unable to maintain effective working
+    relationships with major retailers and online resellers, or if
+    we fail to successfully expand into multiple channels, our
+    competitive position in the branded product market may suffer
+    and our operating results may be adversely affected.
+
+
+ 
+
+
+    Our success in the retail market also depends on our ability to
+    maintain our brand image and corporate reputation. Adverse
+    publicity, whether or not justified, or allegations of product
+    quality issues, even if false or unfounded, could tarnish our
+    reputation and cause our customers to choose products offered by
+    our competitors. In addition, the proliferation of new methods
+    of mass communication facilitated by the Internet makes it
+    easier for false or unfounded allegations to adversely affect
+    our brand image and reputation. If customers no longer maintain
+    a preference for
+    WD®-brand
+
+    products, our operating results may be adversely affected.
+
+
+ 
+
+
+    Additionally, we face strong competition in maintaining and
+    trying to grow our market share in the retail market,
+    particularly because of the relatively low barriers to entry in
+    this market. For example, several additional hard drive
+    manufacturers have recently disclosed plans to expand into the
+    external storage market. As these companies attempt to gain
+    market share, we may have difficulty in maintaining or growing
+    our market share and there may be increased downward pressure on
+    pricing. There can be no assurance that any new products we
+    introduce into the retail market will gain market acceptance,
+    and if they do not, our operating results could suffer.
+
+
+ 
+
+
+
+    Loss of
+    market share with or by a key customer, or consolidation among
+    our customer base, could harm our operating results.
+
+
+ 
+
+
+    During the year ended July 2, 2010, a large percentage of
+    our revenue, 53%, came from sales to our top 10 customers. These
+    customers have a variety of suppliers to choose from and
+    therefore can make substantial demands on us, including demands
+    on product pricing and on contractual terms, which often results
+    in the allocation of risk to us as the supplier. Even if we
+    successfully qualify a product with a customer, the customer is
+    not generally obligated to purchase any minimum volume of
+    products from us and may be able to cancel an order or terminate
+    its relationship with us at any time. Our ability to maintain
+    strong relationships with our principal customers is essential
+    to our future performance. If we lose a key customer, if any of
+    our key customers reduce their orders of our products or require
+    us to reduce our prices before we are able to reduce costs, if a
+    customer is acquired by one of our competitors or if a key
+    customer suffers financial hardship, our operating results would
+    likely be harmed.
+
+
+ 
+
+
+    Additionally, if there is consolidation among our customer base,
+    our customers may be able to command increased leverage in
+    negotiating prices and other terms of sale, which could
+    adversely affect our profitability. In addition, if, as a result
+    of increased leverage, customer pressures require us to reduce
+    our pricing such that our gross margins are diminished, we could
+    decide not to sell our products to a particular customer, which
+    could result in a decrease in our revenue. Consolidation among
+    our customer base may also lead to reduced demand for our
+    products, replacement of our products by the combined entity
+    with those of our competitors and cancellations of orders, each
+    of which could harm our operating results.
+
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Current
+    or future competitors may gain a technology advantage or develop
+    an advantageous cost structure that we cannot match.
+
+
+ 
+
+
+    It may be possible for our current or future competitors to gain
+    an advantage in product technology, manufacturing technology, or
+    process technology, which may allow them to offer products or
+    services that have a significant advantage over the products and
+    services that we offer. Advantages could be in capacity,
+    performance, reliability, serviceability, or other attributes.
+    We may be at a competitive disadvantage to any companies that
+    are able to gain these advantages.
+
+
+ 
+
+
+
+    Further
+    industry consolidation could provide competitive advantages to
+    our competitors.
+
+
+ 
+
+
+    The hard drive industry has experienced consolidation over the
+    past several years. Consolidation by our competitors may enhance
+    their capacity, abilities and resources and lower their cost
+    structure, causing us to be at a competitive disadvantage.
+    Additionally, continued industry consolidation may lead to
+    uncertainty in areas such as component availability, which could
+    negatively impact our cost structure.
+
+
+ 
+
+
+
+    Sales in
+    the distribution channel are important to our business, and if
+    we fail to maintain brand preference with our distributors or if
+    distribution markets for hard drives weaken, our operating
+    results could suffer.
+
+
+ 
+
+
+    Our distribution customers typically sell to small computer
+    manufacturers, dealers, systems integrators and other resellers.
+    We face significant competition in this channel as a result of
+    limited product qualification programs and a significant focus
+    on price and availability of product. If we fail to remain
+    competitive in terms of our technology, quality, service and
+    support, our distribution customers may favor our competitors,
+    and our operating results could suffer. Additionally, if the
+    distribution market weakens as a result of a slowing PC growth
+    rate, technology transitions or a significant change in consumer
+    buying preference, or if we experience significant price
+    declines due to oversupply in the distribution channel, then our
+    operating results would be adversely affected.
+
+
+ 
+
+
+
+    The hard
+    drive industry is highly competitive and can be characterized by
+    significant shifts in market share among the major
+    competitors.
+
+
+ 
+
+
+    The price of hard drives has fallen over time due to increases
+    in supply, cost reductions, technological advances and price
+    reductions by competitors seeking to liquidate excess
+    inventories or attempting to gain market share. In addition,
+    rapid technological changes often reduce the volume and
+    profitability of sales of existing products and increase the
+    risk of inventory obsolescence. These factors, taken together,
+    may result in significant shifts in market share among the
+    industry’s major participants. In addition, product recalls
+    can lead to a loss of market share, which could adversely affect
+    our operating results.
+
+
+ 
+
+
+
+    Some of
+    our competitors with diversified business units outside the hard
+    drive industry may over extended periods of time sell hard
+    drives at prices that we cannot profitably match.
+
+
+ 
+
+
+    Some of our competitors earn a significant portion of their
+    revenue from business units outside the hard drive industry.
+    Because they do not depend solely on sales of hard drives to
+    achieve profitability, they may sell hard drives at lower prices
+    and operate their hard drive business unit at a loss over an
+    extended period of time while still remaining profitable
+    overall. In addition, if these competitors can increase sales of
+    non-hard drive products to the same customers, they may benefit
+    from selling their hard drives at lower prices. Our operating
+    results may be adversely affected if we cannot successfully
+    compete with the pricing by these companies.
+
+
+ 
+
+
+
+    If we
+    fail to qualify our products with our customers or if product
+    life cycles lengthen, it may have a significant adverse impact
+    on our sales and margins.
+
+
+ 
+
+
+    We regularly engage in new product qualification with our
+    customers. Once a product is accepted for qualification testing,
+    failures or delays in the qualification process can result in
+    delayed or reduced product sales, reduced product margins caused
+    by having to continue to offer a more costly current generation
+    product, or lost sales to that customer until the next
+    generation of products is introduced. The effect of missing a
+    product qualification opportunity is magnified by the limited
+    number of high volume OEMs, which continue to consolidate their
+    share of the storage markets. Likewise, if product life cycles
+    lengthen, we may have a significantly longer period to wait
+    before we have an
+
+
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+
+    opportunity to qualify a new product with a customer, which
+    could reduce our profits because we expect declining gross
+    margins on our current generation products as a result of
+    competitive pressures.
+
+
+ 
+
+
+
+    We are
+    subject to risks related to product defects, which could result
+    in product recalls or epidemic failures and could subject us to
+    warranty claims in excess of our warranty provisions or which
+    are greater than anticipated.
+
+
+ 
+
+
+    We warrant the majority of our products for periods of one to
+    five years. We test our hard drives in our manufacturing
+    facilities through a variety of means. However, there can be no
+    assurance that our testing will reveal defects in our products,
+    which may not become apparent until after the products have been
+    sold into the market. Accordingly, there is a risk that product
+    defects will occur, which could require a product recall.
+    Product recalls can be expensive to implement and, if a product
+    recall occurs during the product’s warranty period, we may
+    be required to replace the defective product. Moreover, there is
+    a risk that product defects may trigger an epidemic failure
+    clause in a customer agreement. If an epidemic failure occurs,
+    we may be required to replace or refund the value of the
+    defective product and to cover certain other costs associated
+    with the consequences of the epidemic failure. In addition, a
+    product recall or epidemic failure may damage our reputation or
+    customer relationships, and may cause us to lose market share
+    with our customers, including our OEM and ODM customers.
+
+
+ 
+
+
+    Our standard warranties contain limits on damages and exclusions
+    of liability for consequential damages and for misuse, improper
+    installation, alteration, accident or mishandling while in the
+    possession of someone other than us. We record an accrual for
+    estimated warranty costs at the time revenue is recognized. We
+    may incur additional operating expenses if our warranty
+    provision does not reflect the actual cost of resolving issues
+    related to defects in our products, whether as a result of a
+    product recall, epidemic failure or otherwise. If these
+    additional expenses are significant, it could adversely affect
+    our business, financial condition and operating results.
+
+
+ 
+
+
+
+    A
+    competitive cost structure is critical to our operating results,
+    and increased costs may adversely affect our operating
+    margin.
+
+
+ 
+
+
+    A competitive cost structure for our products, including
+    critical components, labor and overhead, is critical to the
+    success of our business, and our operating results depend on our
+    ability to maintain competitive cost structures on new and
+    established products. If our competitors are able to achieve a
+    lower cost structure that we are unable to match, we could be at
+    a competitive disadvantage to those competitors.
+
+
+ 
+
+
+
+    Shortages
+    of commodity materials or commodity components, price
+    volatility, or use by other industries of materials and
+    components used in the hard drive industry, may negatively
+    impact our operating results.
+
+
+ 
+
+
+    Increases in the cost for certain commodity materials or
+    commodity components may increase our costs of manufacturing and
+    transporting hard drives and key components. Shortages of
+    commodity components such as DRAM and NAND flash, or commodity
+    materials such as glass substrates, stainless steel, aluminum,
+    nickel, neodymium, ruthenium or platinum, may increase our costs
+    and may result in lower operating margins if we are unable to
+    find ways to mitigate these increased costs. Furthermore, if
+    other high volume industries increase their demand for materials
+    or components such as these, our costs may further increase,
+    which could have an adverse effect on our operating margins. In
+    addition, shortages in other commodity components and materials
+    used in our customers’ products could result in a decrease
+    in demand for our products, which would negatively impact our
+    operating results. The volatility in the cost of oil also
+    affects our transportation costs and may result in lower
+    operating margins if we are unable to pass these increased costs
+    through to our customers.
+
+
+ 
+
+
+
+    If we
+    fail to maintain effective relationships with our major
+    component suppliers, our supply of critical components may be at
+    risk and our profitability could suffer.
+
+
+ 
+
+
+    While we make most of our own heads and magnetic media for some
+    of our product families, we do, according to our sourcing
+    strategy, purchase some percentage of our required heads and
+    magnetic media from our external supply base. In addition, we
+    purchase a majority of our other components, including all
+    mechanical and electronic components, from our external supply
+    base. For certain components, we use multiple suppliers that
+    deploy different technology or processes, and we must
+    successfully integrate components from these suppliers in our
+    products. Accordingly, we must maintain effective relationships
+    with our supply base to source our component needs, develop
+    compatible technology, and maintain continuity of supply at
+    reasonable costs. If we fail to maintain effective relationships
+    with our supply base, or if we fail to
+
+
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+
+    integrate components from our suppliers effectively, this may
+    adversely affect our ability to develop and deliver the best
+    products to our customers and our profitability could suffer.
+    For example, in August 2003, we settled litigation with a
+    supplier who previously was the sole source of read channel
+    devices for our hard drives. As a result of the disputes that
+    gave rise to the litigation, our profitability was at risk until
+    another supplier’s read channel devices could be designed
+    into our products. Similar disputes with other strategic
+    component suppliers could adversely affect our operating results.
+
+
+ 
+
+
+
+    Violation
+    of applicable laws, including labor or environmental laws, and
+    certain other practices by our suppliers could harm our
+    business.
+
+
+ 
+
+
+    We expect our suppliers,
+    sub-suppliers
+    and
+    sub-contractors
+    (collectively referred to as “suppliers”) to operate
+    in compliance with applicable laws and regulations, including
+    labor and environmental laws, and to otherwise meet our required
+    supplier standards of conduct. While our internal operating
+    guidelines promote ethical business practices, we do not control
+    our suppliers or their labor or environmental practices. The
+    violation of labor, environmental or other laws by any of our
+    suppliers, or divergence of a supplier’s business practices
+    from those generally accepted as ethical in the U.S., could harm
+    our business by:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    interrupting or otherwise disrupting the shipment of our product
+    components;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    damaging our reputation;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    forcing us to find alternate component sources;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    reducing demand for our products (for example, through a
+    consumer boycott); or
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    exposing us to potential liability for our supplier’s
+    wrongdoings.
+
+
+
+
+
+ 
+
+
+
+    Dependence
+    on a limited number of qualified suppliers of components and
+    manufacturing equipment could lead to delays, lost revenue or
+    increased costs.
+
+
+ 
+
+
+    Our future operating results may depend substantially on our
+    suppliers’ ability to timely qualify their components in
+    our programs, and their ability to supply us with these
+    components in sufficient volumes to meet our production
+    requirements. A number of the components that we use are
+    available from only a single or limited number of qualified
+    suppliers, and may be used across multiple product lines. In
+    addition, some of the components (or component types) used in
+    our products are used in other devices, such as mobile
+    telephones and digital cameras. If there is a significant
+    simultaneous upswing in demand for such a component (or
+    component type) from several high volume industries resulting in
+    a supply reduction, if a component is otherwise in short supply,
+    or if a supplier fails to qualify or has a quality issue with a
+    component, we may experience delays or increased costs in
+    obtaining that component. If we are unable to obtain sufficient
+    quantities of materials used in the manufacture of magnetic
+    components, or other necessary components, we may experience
+    production delays which could cause us loss of revenue. If a
+    component becomes unavailable, we could suffer significant loss
+    of revenue.
+
+
+ 
+
+
+    In addition, certain equipment and consumables we use in our
+    manufacturing or testing processes are available only from a
+    limited number of suppliers. Some of this equipment and
+    consumables use materials that at times could be in short
+    supply. If these materials are not available, or are not
+    available in the quantities we require for our manufacturing and
+    testing processes, our ability to manufacture our products could
+    be impacted, and we could suffer significant loss of revenue.
+
+
+ 
+
+
+    Each of the following could also significantly harm our
+    operating results:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    an unwillingness of a supplier to supply such components or
+    equipment to us;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    consolidation of key suppliers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    failure of a key supplier’s business process;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    a key supplier’s or
+    sub-supplier’s
+    inability to access credit necessary to operate its
+    business; or
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    failure of a key supplier to remain in business, to remain an
+    independent merchant supplier, or to adjust to market conditions.
+
+
+
+
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+    Contractual
+    commitments with component suppliers may result in us paying
+    increased charges and cash advances for such components or may
+    cause us to have inadequate or excess component
+    inventory.
+
+
+ 
+
+
+    To reduce the risk of component shortages, we attempt to provide
+    significant lead times when buying components, which may subject
+    us to cancellation charges if we cancel orders as a result of
+    technology transitions or changes in our component needs. In
+    addition, we may from time to time enter into contractual
+    commitments with component suppliers in an effort to increase
+    and stabilize the supply of those components and enable us to
+    purchase such components at favorable prices. Some of these
+    commitments may require us to buy a substantial number of
+    components from the supplier or make significant cash advances
+    to the supplier; however, these commitments may not result in a
+    satisfactory increase or stabilization of the supply of such
+    components. Furthermore, as a result of the current global
+    economic conditions, our ability to forecast our requirements
+    for these components has become increasingly difficult,
+    therefore increasing the risk that our contractual commitments
+    may not meet our actual supply requirements, which could cause
+    us to have inadequate or excess component inventory and
+    adversely affect our operating results and increase our
+    operating costs.
+
+
+ 
+
+
+
+    Failure
+    by certain suppliers to effectively and efficiently develop and
+    manufacture components, technology or production equipment for
+    our products may adversely affect our operations.
+
+
+ 
+
+
+    We rely on suppliers for various component parts that we
+    integrate into our hard drives but do not manufacture ourselves,
+    such as semiconductors, motors, flex circuits and suspensions.
+    Likewise, we rely on suppliers for certain technology and
+    equipment necessary for advanced development technology for
+    future products. Some of these components, and most of this
+    technology and production equipment, must be specifically
+    designed to be compatible for use in our products or for
+    developing and manufacturing our future products, and are only
+    available from a limited number of suppliers, some of with whom
+    we are sole sourced. We are therefore dependent on these
+    suppliers to be able and willing to dedicate adequate
+    engineering resources to develop components that can be
+    successfully integrated with our products, and technology and
+    production equipment that can be used to develop and manufacture
+    our next-generation products efficiently. The failure of these
+    suppliers to effectively and efficiently develop and manufacture
+    components that can be integrated into our products or
+    technology and production equipment that can be used to develop
+    or manufacture next generation products may cause us to
+    experience inability or delay in our manufacturing and shipment
+    of hard drive products, our expansion into new technology and
+    markets, or our ability to remain competitive with alternative
+    storage technologies, therefore adversely affecting our business
+    and financial results.
+
+
+ 
+
+
+
+    There are
+    certain additional capital expenditure costs and asset
+    utilization risks to our business associated with our strategy
+    to vertically integrate our operations.
+
+
+ 
+
+
+    Our vertical integration of head and magnetic media
+    manufacturing resulted in a fundamental change in our operating
+    structure, as we now manufacture heads and magnetic media for
+    use in many of the hard drives we manufacture. Consequently, we
+    make more capital investments and carry a higher percentage of
+    fixed costs than we would if we were not vertically integrated.
+    If the overall level of production decreases for any reason, and
+    we are unable to reduce our fixed costs to match sales, our head
+    or magnetic media manufacturing assets may face
+    under-utilization that may impact our operating results. We are
+    therefore subject to additional risks related to overall asset
+    utilization, including the need to operate at high levels of
+    utilization to drive competitive costs and the need for assured
+    supply of components that we do not manufacture ourselves.
+
+
+ 
+
+
+    In addition, we may incur additional risks, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    failure to continue to leverage the integration of our magnetic
+    media technology with our head technology;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    insufficient third party sources to satisfy our needs if we are
+    unable to manufacture a sufficient supply of heads or magnetic
+    media;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    third party head or magnetic media suppliers may not continue to
+    do business with us or may not do business with us on the same
+    terms and conditions we have previously enjoyed;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    claims that our manufacturing of heads or magnetic media may
+    infringe certain intellectual property rights of other
+    companies; and
+
+
+
+
+
+
+
+    
+    25
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    difficulties locating in a timely manner suitable manufacturing
+    equipment for our head or magnetic media manufacturing processes
+    and replacement parts for such equipment.
+
+
+
+
+
+ 
+
+
+    If we do not adequately address the challenges related to our
+    head or magnetic media manufacturing operations, our ongoing
+    operations could be disrupted, resulting in a decrease in our
+    revenue or profit margins and negatively impacting our operating
+    results.
+
+
+ 
+
+
+
+    If we are
+    unable to timely and cost-effectively develop heads and magnetic
+    media with leading technology and overall quality, our ability
+    to sell our products may be significantly diminished, which
+    could materially and adversely affect our business and financial
+    results.
+
+
+ 
+
+
+    Under our business plan, we are developing and manufacturing a
+    substantial portion of the heads and magnetic media used in the
+    hard drive products we manufacture. Consequently, we are more
+    dependent upon our own development and execution efforts and
+    less able to take advantage of head and magnetic media
+    technologies developed by other manufacturers. Technology
+    transition for head and magnetic media designs is critical to
+    increasing our volume production of heads and magnetic media.
+    There can be no assurance, however, that we will be successful
+    in timely and cost-effectively developing and manufacturing
+    heads or magnetic media for products using future technologies.
+    We also may not effectively transition our head or magnetic
+    media design and technology to achieve acceptable manufacturing
+    yields using the technologies necessary to satisfy our
+    customers’ product needs, or we may encounter quality
+    problems with the heads or magnetic media we manufacture. In
+    addition, we may not have access to external sources of supply
+    without incurring substantial costs which would negatively
+    impact our business and financial results.
+
+
+ 
+
+
+
+    Changes
+    in product life cycles could adversely affect our financial
+    results.
+
+
+ 
+
+
+    If product life cycles lengthen, we may need to develop new
+    technologies or programs to reduce our costs on any particular
+    product to maintain competitive pricing for that product. If
+    product life cycles shorten, it may result in an increase in our
+    overall expenses and a decrease in our gross margins, both of
+    which could adversely affect our operating results. In addition,
+    shortening of product life cycles also makes it more difficult
+    to recover the cost of product development before the product
+    becomes obsolete. Our failure to recover the cost of product
+    development in the future could adversely affect our operating
+    results.
+
+
+ 
+
+
+
+    If we
+    fail to make the technical innovations necessary to continue to
+    increase areal density, we may fail to remain
+    competitive.
+
+
+ 
+
+
+    New products in the hard drive market typically require higher
+    areal densities than previous product generations, posing
+    formidable technical and manufacturing challenges. Higher areal
+    densities require existing head and magnetic media technology to
+    be improved or new technologies developed to accommodate more
+    data on a single disk. In addition, our introduction of new
+    products during a technology transition increases the likelihood
+    of unexpected quality concerns. Our failure to bring high
+    quality new products to market on time and at acceptable costs
+    may put us at a competitive disadvantage to companies that
+    achieve these results.
+
+
+ 
+
+
+
+    We make
+    significant investments in research and development, and
+    unsuccessful investments could materially adversely affect our
+    business, financial condition and results of
+    operations.
+
+
+ 
+
+
+    Over the past several years, our business strategy has been to
+    derive a competitive advantage by moving from being a follower
+    of new technologies to being a leader in the innovation and
+    development of new technologies. This strategy requires us to
+    make significant investments in research and development. There
+    can be no assurance that these investments will result in viable
+    technologies or products, or if these investments do result in
+    viable technologies or products, that they will be profitable or
+    accepted by the market. Significant investments in unsuccessful
+    research and development efforts could materially adversely
+    affect our business, financial condition and results of
+    operations.
+
+
+ 
+
+
+
+    A
+    fundamental change in recording technology could result in
+    significant increases in our operating expenses and could put us
+    at a competitive disadvantage.
+
+
+ 
+
+
+    Historically, when the industry experiences a fundamental change
+    in technology, any manufacturer that fails to successfully and
+    timely adjust its designs and processes to accommodate the new
+    technology fails to remain competitive. There are some
+    technologies, such as current-perpendicular-to-plane giant
+    magnetoresistance, shingle magnetic
+
+
+
+
+
+    
+    26
+
+
+
+Table of Contents
+
+
+
+
+
+    recording, energy assisted magnetic recording, patterned
+    magnetic media, advanced signal processing, advanced format
+    technology and other similar potentially breakthrough
+    technologies, that will represent revolutionary recording
+    technologies if they can be implemented by a competitor on a
+    commercially viable basis ahead of the industry, which could put
+    us at a competitive disadvantage. As a result of these
+    technology shifts, we could incur substantial costs in
+    developing new technologies, such as heads, magnetic media, and
+    tools to remain competitive. If we fail to successfully
+    implement these new technologies, or if we are significantly
+    slower than our competitors at implementing new technologies, we
+    may not be able to offer products with capacities that our
+    customers desire. For example, new recording technology requires
+    changes in the manufacturing process of heads and magnetic
+    media, which may cause longer production times and reduce the
+    overall availability of magnetic media in the industry.
+    Additionally, the new technology requires a greater degree of
+    integration between heads and magnetic media which may lengthen
+    our time of development of hard drives using this technology.
+
+
+ 
+
+
+    Furthermore, as we attempt to develop and implement new
+    technologies, we may become more dependent on suppliers to
+    ensure our access to components, technology and production
+    equipment that accommodate the new technology. For example,
+    advanced wafer and magnetic media manufacturing technologies
+    have historically been developed for use in the semiconductor
+    industry prior to the hard drive industry. However, successful
+    implementation of the use of patterned magnetic media with hard
+    drive magnetic media currently presents a significant technical
+    challenge facing the hard drive industry but not the
+    semiconductor industry. Therefore, our suppliers may not be
+    willing to dedicate adequate engineering resources to develop
+    manufacturing equipment for patterned magnetic media prior to a
+    need for the equipment in the semiconductor industry. We believe
+    that if new technologies, such as energy assisted magnetic
+    recording, are not successfully implemented in the hard drive
+    industry, then alternative storage technologies like solid-state
+    storage may more rapidly overtake hard drives as the preferred
+    storage solution for higher capacity storage needs. This result
+    would put us at a competitive disadvantage and negatively impact
+    our operating results.
+
+
+ 
+
+
+
+    The
+    difficulty of introducing hard drives with higher levels of
+    areal density and the challenges of reducing other costs may
+    impact our ability to achieve historical levels of cost
+    reduction.
+
+
+ 
+
+
+    Storage capacity of the hard drive, as manufactured by us, is
+    determined by the number of disks and each disk’s areal
+    density. Areal density is a measure of the amount of magnetic
+    bits that can be stored on the recording surface of the disk.
+    Generally, the higher the areal density, the more information
+    can be stored on a single platter. Historically, we have been
+    able to achieve a large percentage of cost reduction through
+    increases in areal density. Increases in areal density mean that
+    the average drive we sell has fewer heads and disks for the same
+    capacity and, therefore, may result in a lower component cost.
+    However, because increasing areal density has become more
+    difficult in the hard drive industry, such increases may require
+    increases in component costs, and other opportunities to reduce
+    costs may not continue at historical rates. Additionally,
+    increases in areal density may require us to make further
+    capital expenditures on items such as new testing equipment
+    needed as a result of an increased number of GB per platter. Our
+    inability to achieve cost reductions could adversely affect our
+    operating results.
+
+
+ 
+
+
+
+    If we do
+    not properly manage the technology transitions of our products,
+    our competitiveness and operating results may be negatively
+    affected.
+
+
+ 
+
+
+    The storage markets in which we offer our products continuously
+    undergo technology transitions which we must anticipate and
+    adapt our products to address in a timely manner. For example,
+    serial interfaces normally go through cycles in which their
+    maximum speeds double. We must effectively manage the transition
+    of the features of our products to address these faster
+    interface speeds in a timely manner in order to remain
+    competitive and cost effective. If we fail to successfully and
+    timely manage the transition to faster interface speeds, we may
+    be at a competitive disadvantage to other companies that have
+    successfully adapted their products in a timely manner and our
+    operating results may suffer.
+
+
+ 
+
+
+
+    If we
+    fail to develop and introduce new hard drives that are
+    competitive against alternative storage technologies, our
+    business may suffer.
+
+
+ 
+
+
+    Our success depends in part on our ability to develop and
+    introduce new products in a timely manner in order to keep pace
+    with competing technologies. Alternative storage technologies
+    like solid-state storage and flash memory technology have
+    successfully served digital entertainment markets for products
+    such as digital cameras, MP3 players, USB flash drives and
+    mobile phones that require a relatively low amount of storage
+    capacity that cannot be economically
+
+
+
+
+
+    
+    27
+
+
+
+Table of Contents
+
+
+
+
+
+    serviced using hard drive technology. Typically, storage needs
+    for higher capacity and performance, with lower
+    cost-per-gigabyte,
+    have been better served by hard drives. However, advances in
+    semiconductor technology have resulted in solid-state storage
+    emerging as a technology that is competitive with hard drives
+    for niche high performance needs in advanced digital computing
+    markets such as enterprise servers and storage, in spite of the
+    associated challenges in the attributes of cost, capacity and
+    reliability. Solid-state storage, which incorporates
+    semiconductor media, is produced by large semiconductor
+    companies who can then sell their storage products at lower
+    prices while still remaining profitable overall. This can help
+    them improve their market share at the expense of the
+    competition. In addition, these semiconductor companies may
+    choose to supply companies like us with semiconductor media at
+    prices that make it difficult, if not impossible, for us to
+    compete with them on a profitable basis. As a result, there can
+    be no assurance that we will be successful in anticipating and
+    developing new products for the desktop, mobile, enterprise, CE
+    and external storage markets in response to solid-state storage,
+    as well as other competing technologies. If our hard drive
+    technology fails to offer higher capacity, performance and
+    reliability with lower
+    cost-per-gigabyte
+    than solid-state storage for the desktop, mobile, enterprise, CE
+    and external storage markets, we will be at a competitive
+    disadvantage to companies using semiconductor technology to
+    serve these markets and our business will suffer.
+
+
+ 
+
+
+
+    Spending
+    to improve our technology and develop new technology to remain
+    competitive may negatively impact our financial
+    results.
+
+
+ 
+
+
+    In attempting to remain competitive, we may need to increase our
+    capital expenditures and expenses above our historical run-rate
+    model in order to attempt to improve our existing technology and
+    develop new technology. Increased investments in technology
+    could cause our cost structure to fall out of alignment with
+    demand for our products which would have a negative impact on
+    our financial results.
+
+
+ 
+
+
+
+    Our
+    manufacturing operations are concentrated in a small number of
+    large, purpose-built facilities, which subjects us to
+    substantial risk of damage or loss if operations at any of these
+    facilities are disrupted.
+
+
+ 
+
+
+    As a result of our cost structure and strategy of vertical
+    integration, we conduct our manufacturing operations at large,
+    high volume, purpose-built facilities. For example,
+    approximately 80% of our requirement for heads is satisfied by
+    wafers fabricated in our Fremont, California facility. Also, we
+    manufacture the majority of our substrates for magnetic media in
+    our Johor, Malaysia facility, and we finish a majority of our
+    magnetic media in our facilities in Penang, Malaysia and Tuas,
+    Singapore. A majority of our high volume hard drive
+    manufacturing operations are conducted in two facilities in
+    Thailand, with the balance conducted in our Kuala Lumpur,
+    Malaysia facility. The manufacturing facilities of many of our
+    suppliers are also in Asia near our facilities. A fire, flood,
+    earthquake, tsunami or other disaster, condition or event such
+    as political instability, civil unrest or a power outage that
+    adversely affects any of these facilities would significantly
+    affect our ability to manufacture hard drives, which would
+    result in a substantial loss of sales and revenue and a
+    substantial harm to our operating results. Similarly, a
+    localized health risk affecting our employees at these
+    facilities or the staff of our suppliers, such as the spread of
+    the Influenza A (H1N1) or a new pandemic influenza, could impair
+    the total volume of hard drives that we are able to manufacture,
+    which would result in substantial harm to our operating results.
+
+
+ 
+
+
+
+    Our
+    operating results will be adversely affected if we fail to
+    optimize the overall quality,
+    time-to-market
+    and
+    time-to-volume
+    of new and established products.
+
+
+ 
+
+
+    To achieve consistent success with our customers, we must
+    balance several key attributes such as
+    time-to-market,
+    time-to-volume,
+    quality, cost, service, price and a broad product portfolio. Our
+    operating results will be adversely affected if we fail to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    maintain overall quality of products in new and established
+    programs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    produce sufficient quantities of products at the capacities our
+    customers demand while managing the integration of new and
+    established technologies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    develop and qualify new products that have changes in overall
+    specifications or features that our customers may require for
+    their business needs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    obtain commitments from our customers to qualify new products,
+    redesigns of current products, or new components in our existing
+    products;
+
+
+
+
+
+
+
+    
+    28
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    obtain customer qualification of these products on a timely
+    basis by meeting all of our customers’ needs for
+    performance, quality and features;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    maintain an adequate supply of components required to
+    manufacture our products; or
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    maintain the manufacturing capability to quickly change our
+    product mix between different capacities, form factors and spin
+    speeds in response to changes in customers’ product demands.
+
+
+
+
+
+ 
+
+
+
+    Manufacturing
+    outside the U.S. and marketing our products globally subjects us
+    to numerous risks.
+
+
+ 
+
+
+    We are subject to risks associated with our global manufacturing
+    operations and global marketing efforts, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    obtaining requisite U.S. and foreign governmental permits
+    and approvals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    currency exchange rate fluctuations or restrictions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    political instability and civil unrest;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    limited transportation availability, delays, and extended time
+    required for shipping, which risks may be compounded in periods
+    of price declines;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    higher freight rates;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    labor problems;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    trade restrictions or higher tariffs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    copyright levies or similar fees or taxes imposed in European
+    and other countries;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    exchange, currency and tax controls and reallocations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    increasing labor and overhead costs; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    loss or non-renewal of favorable tax treatment under agreements
+    or treaties with foreign tax authorities.
+
+
+
+
+
+ 
+
+
+
+    Terrorist
+    attacks may adversely affect our business and operating
+    results.
+
+
+ 
+
+
+    The continued threat of terrorist activity and other acts of war
+    or hostility have created uncertainty in the financial and
+    insurance markets and have significantly increased the
+    political, economic and social instability in some of the
+    geographic areas in which we operate. Additionally, it is
+    uncertain what impact the reactions to such acts by various
+    governmental agencies and security regulators worldwide will
+    have on shipping costs. Acts of terrorism, either domestically
+    or abroad, could create further uncertainties and instability.
+    To the extent this results in disruption or delays of our
+    manufacturing capabilities or shipments of our products, our
+    business, operating results and financial condition could be
+    adversely affected.
+
+
+ 
+
+
+
+    Sudden
+    disruptions to the availability of freight lanes could have an
+    impact on our operations.
+
+
+ 
+
+
+    We generally ship our products to our customers, and receive
+    shipments from our suppliers, via air or ocean freight. The
+    sudden unavailability or disruption of cargo operations or
+    freight lanes, such as due to labor difficulties or disputes,
+    severe weather patterns or other natural disasters, or political
+    instability or civil unrest, could impact our operating results
+    by impairing our ability to timely and efficiently deliver our
+    products.
+
+
+ 
+
+
+
+    We are
+    vulnerable to system failures or attacks, which could harm our
+    business.
+
+
+ 
+
+
+    We are heavily dependent on our technology infrastructure, among
+    other functions, to operate our factories, sell our products,
+    fulfill orders, manage inventory and bill, collect and make
+    payments. Our systems are vulnerable to damage or interruption
+    from natural disasters, power loss, telecommunication failures,
+    computer viruses, computer
+    denial-of-service
+    attacks and other events. Our business is also subject to
+    break-ins, sabotage and intentional acts of vandalism by third
+    parties as well as employees. Despite any precautions we may
+    take, such problems could result in, among other consequences,
+    interruptions in our business, which could harm our reputation
+    and financial condition.
+
+
+
+
+    
+    29
+
+
+
+Table of Contents
+
+
+
+
+
+
+    If we
+    fail to identify, manage, complete and integrate acquisitions,
+    investment opportunities or other significant transactions, it
+    may adversely affect our future results.
+
+
+ 
+
+
+    As part of our growth strategy, we may pursue acquisitions of,
+    investment opportunities in or other significant transactions
+    with companies that are complementary to our business. In order
+    to pursue this strategy successfully, we must identify
+    attractive acquisition or investment opportunities, successfully
+    complete the transaction, some of which may be large and
+    complex, and manage post-closing issues such as integration of
+    the acquired company or employees. We may not be able to
+    identify or complete appealing acquisition or investment
+    opportunities given the intense competition for these
+    transactions. Even if we identify and complete suitable
+    corporate transactions, we may not be able to successfully
+    address any integration challenges in a timely manner, or at
+    all. If we fail to successfully integrate an acquisition, we may
+    not realize all or any of the anticipated benefits of the
+    acquisition, and our future results of operations could be
+    adversely affected.
+
+
+ 
+
+
+
+    If we are
+    unable to retain or hire key staff and skilled employees our
+    business results may suffer.
+
+
+ 
+
+
+    Our success depends upon the continued contributions of our key
+    staff and skilled employees, many of whom would be extremely
+    difficult to replace. Global competition for skilled employees
+    in the data storage industry is intense and, as we attempt to
+    move to a position of technology leadership in the storage
+    industry, our business success becomes increasingly dependent on
+    our ability to retain our key staff and skilled employees as
+    well as attract, integrate and retain new skilled employees.
+    Volatility or lack of positive performance in our stock price
+    and the overall markets may adversely affect our ability to
+    retain key staff or skilled employees who have received equity
+    compensation. Additionally, because a substantial portion of our
+    key employees’ compensation is placed “at risk”
+    and linked to the performance of our business, when our
+    operating results are negatively impacted by global economic
+    conditions, we are at a competitive disadvantage for retaining
+    and hiring key staff and skilled employees versus other
+    companies that pay a relatively higher fixed salary. If we are
+    unable to retain our existing key staff or skilled employees, or
+    hire and integrate new key staff or skilled employees, or if we
+    fail to implement succession plans for our key staff, our
+    operating results would likely be harmed.
+
+
+ 
+
+
+
+    The
+    nature of our business and our reliance on intellectual property
+    and other proprietary information subjects us to the risk of
+    significant litigation.
+
+
+ 
+
+
+    The data storage industry has been characterized by significant
+    litigation. This includes litigation relating to patent and
+    other intellectual property rights, product liability claims and
+    other types of litigation. Litigation can be expensive, lengthy
+    and disruptive to normal business operations. Moreover, the
+    results of litigation are inherently uncertain and may result in
+    adverse rulings or decisions. We may enter into settlements or
+    be subject to judgments that may, individually or in the
+    aggregate, have a material adverse effect on our business,
+    financial condition or operating results.
+
+
+ 
+
+
+    We evaluate notices of alleged patent infringement and notices
+    of patents from patent holders that we receive from time to
+    time. If claims or actions are asserted against us, we may be
+    required to obtain a license or cross-license, modify our
+    existing technology or design a new non-infringing technology.
+    Such licenses or design modifications can be extremely costly.
+    In addition, we may decide to settle a claim or action against
+    us, which settlement could be costly. We may also be liable for
+    any past infringement. If there is an adverse ruling against us
+    in an infringement lawsuit, an injunction could be issued
+    barring production or sale of any infringing product. It could
+    also result in a damage award equal to a reasonable royalty or
+    lost profits or, if there is a finding of willful infringement,
+    treble damages. Any of these results would increase our costs
+    and harm our operating results.
+
+
+ 
+
+
+
+    Our
+    reliance on intellectual property and other proprietary
+    information subjects us to the risk that these key ingredients
+    of our business could be copied by competitors.
+
+
+ 
+
+
+    Our success depends, in significant part, on the proprietary
+    nature of our technology, including non-patentable intellectual
+    property such as our process technology. If a competitor is able
+    to reproduce or otherwise capitalize on our technology despite
+    the safeguards we have in place, it may be difficult, expensive
+    or impossible for us to obtain necessary legal protection. Also,
+    the laws of some foreign countries may not protect our
+    intellectual property to the same extent as do U.S. laws.
+    In addition to patent protection of intellectual property
+    rights, we consider elements of our product designs and
+    processes to be proprietary and confidential. We rely upon
+    employee, consultant and vendor non-disclosure agreements and
+    contractual provisions and a system of internal safeguards to
+    protect our proprietary information.
+
+
+
+
+
+    
+    30
+
+
+
+Table of Contents
+
+
+
+
+
+    However, any of our registered or unregistered intellectual
+    property rights may be challenged or exploited by others in the
+    industry, which might harm our operating results.
+
+
+ 
+
+
+
+    The costs
+    of compliance with state, federal and international legal and
+    regulatory requirements, such as environmental, labor, trade and
+    tax regulations, and customers’ standards of corporate
+    citizenship could cause an increase in our operating
+    costs.
+
+
+ 
+
+
+    We may be or become subject to various state, federal and
+    international laws and regulations governing our environmental,
+    labor, trade and tax practices. These laws and regulations,
+    particularly those applicable to our international operations,
+    are or may be complex, extensive and subject to change. We will
+    need to ensure that we and our component suppliers timely comply
+    with such laws and regulations, which may result in an increase
+    in our operating costs. For example, the European Union
+    (“EU”) has enacted the Restriction of the Use of
+    Certain Hazardous Substances in Electrical and Electronic
+    Equipment (“RoHS”) directive, which prohibits the use
+    of certain substances in electronic equipment, and the Waste
+    Electrical and Electronic Equipment (“WEEE”)
+    directive, which obligates parties that place electrical and
+    electronic equipment onto the market in the EU to put a clearly
+    identifiable mark on the equipment, register with and report to
+    EU member countries regarding distribution of the equipment, and
+    provide a mechanism to take back and properly dispose of the
+    equipment. Similar legislation may be enacted in other locations
+    where we manufacture or sell our products. In addition, climate
+    change legislation in the U.S. is a significant topic of
+    discussion and may generate federal or other regulatory
+    responses in the near future. If we or our component suppliers
+    fail to timely comply with applicable legislation, our customers
+    may refuse to purchase our products or we may face increased
+    operating costs as a result of taxes, fines or penalties, which
+    would have a materially adverse effect on our business,
+    financial condition and operating results.
+
+
+ 
+
+
+    In connection with our compliance with such environmental laws
+    and regulations, as well as our compliance with industry
+    environmental initiatives, the standards of business conduct
+    required by some of our customers, and our commitment to sound
+    corporate citizenship in all aspects of our business, we could
+    incur substantial compliance and operating costs and be subject
+    to disruptions to our operations and logistics. In addition, if
+    we were found to be in violation of these laws or noncompliant
+    with these initiatives or standards of conduct, we could be
+    subject to governmental fines, liability to our customers and
+    damage to our reputation and corporate brand which could cause
+    our financial condition or operating results to suffer.
+
+
+ 
+
+
+
+    Fluctuations
+    in currency exchange rates as a result of our international
+    operations may negatively affect our operating
+    results.
+
+
+ 
+
+
+    Because we manufacture and sell our products abroad, our
+    revenue, margins, operating costs and cash flows are impacted by
+    fluctuations in foreign currency exchange rates. If the
+    U.S. dollar exhibits sustained weakness against most
+    foreign currencies, the U.S. dollar equivalents of unhedged
+    manufacturing costs could increase because a significant portion
+    of our production costs are foreign-currency denominated.
+    Conversely, there would not be an offsetting impact to revenues
+    since revenues are substantially U.S. dollar denominated.
+    Additionally, we negotiate and procure some of our component
+    requirements in U.S. dollars from Japanese and other
+    non-U.S. based
+    vendors. If the U.S. dollar continues to weaken against
+    other foreign currencies, some of our component suppliers may
+    increase the price they charge for their components in order to
+    maintain an equivalent profit margin. If this occurs, it would
+    have a negative impact on our operating results.
+
+
+ 
+
+
+    Prices for our products are substantially U.S. dollar
+    denominated, even when sold to customers that are located
+    outside the U.S. Therefore, as a substantial portion of our
+    sales are from countries outside the U.S., fluctuations in
+    currency exchanges rates, most notably the strengthening of the
+    U.S. dollar against other foreign currencies, contribute to
+    variations in sales of products in impacted jurisdictions and
+    could adversely impact demand and revenue growth. In addition,
+    currency variations can adversely affect margins on sales of our
+    products in countries outside the U.S.
+
+
+ 
+
+
+    We have attempted to manage the impact of foreign currency
+    exchange rate changes by, among other things, entering into
+    short-term, foreign exchange contracts. However, these contracts
+    do not cover our full exposure and can be canceled by the
+    counterparty if currency controls are put in place. Currently,
+    we hedge the Thai Baht, Malaysian Ringgit, Euro and British
+    Pound Sterling with foreign exchange contracts.
+
+
+
+
+    
+    31
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Increases
+    in our customers’ credit risk could result in credit losses
+    and an increase in our operating costs.
+
+
+ 
+
+
+    Some of our OEM customers have adopted a subcontractor model
+    that requires us to contract directly with companies, such as
+    ODMs, that provide manufacturing services to our OEM customers.
+    Because these subcontractors are generally not as well
+    capitalized as our direct OEM customers, this subcontractor
+    model exposes us to increased credit risks. Our agreements with
+    our OEM customers may not permit us to increase our product
+    prices to alleviate this increased credit risk. Additionally, as
+    we attempt to expand our OEM and distribution channel sales into
+    emerging economies such as Brazil, Russia, India and China, the
+    customers with the most success in these regions may have
+    relatively short operating histories, making it more difficult
+    for us to accurately assess the associated credit risks. Any
+    credit losses we may suffer as a result of these increased
+    risks, or as a result of credit losses from any significant
+    customer, would increase our operating costs, which may
+    negatively impact our operating results.
+
+
+ 
+
+
+
+    Inaccurate
+    projections of demand for our product can cause large
+    fluctuations in our quarterly results.
+
+
+ 
+
+
+    We often ship a high percentage of our total quarterly sales in
+    the third month of the quarter, which makes it difficult for us
+    to forecast our financial results before the end of the quarter.
+    In addition, our quarterly projections and results may be
+    subject to significant fluctuations as a result of a number of
+    other factors including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the timing of orders from and shipment of products to major
+    customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    our product mix;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    changes in the prices of our products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    manufacturing delays or interruptions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    acceptance by customers of competing products in lieu of our
+    products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    variations in the cost of and lead times for components for our
+    products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    limited availability of components that we obtain from a single
+    or a limited number of suppliers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    competition and consolidation in the data storage industry;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    seasonal and other fluctuations in demand for PCs often due to
+    technological advances; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    availability and rates of transportation.
+
+
+
+
+
+ 
+
+
+
+    Rapidly
+    changing conditions in the hard drive industry make it difficult
+    to predict actual results.
+
+
+ 
+
+
+    We have made and continue to make a number of estimates and
+    assumptions relating to our consolidated financial reporting.
+    The highly technical nature of our products and the rapidly
+    changing market conditions with which we deal means that actual
+    results may differ significantly from our estimates and
+    assumptions. These changes have impacted our financial results
+    in the past and may continue to do so in the future. Key
+    estimates and assumptions for us include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    price protection adjustments and other sales promotions and
+    allowances on products sold to retailers, resellers and
+    distributors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inventory adjustments for write-down of inventories to lower of
+    cost or market value (net realizable value);
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    reserves for doubtful accounts;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    accruals for product returns;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    accruals for warranty costs related to product defects;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    accruals for litigation and other contingencies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    liabilities for unrecognized tax benefits; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    expensing of stock-based compensation.
+
+
+
+
+
+
+
+    
+    32
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+    The
+    market price of our common stock is volatile.
+
+
+ 
+
+
+    The market price of our common stock has been, and may continue
+    to be, extremely volatile. Factors such as the following may
+    significantly affect the market price of our common stock:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    actual or anticipated fluctuations in our operating results;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    announcements of technological innovations by us or our
+    competitors which may decrease the volume and profitability of
+    sales of our existing products and increase the risk of
+    inventory obsolescence;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    new products introduced by us or our competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    periods of severe pricing pressures due to oversupply or price
+    erosion resulting from competitive pressures or industry
+    consolidation;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    developments with respect to patents or proprietary rights;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    conditions and trends in the hard drive, computer, data and
+    content management, storage and communication industries;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    contraction in our operating results or growth rates that are
+    lower than our previous high growth-rate periods;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    changes in financial estimates by securities analysts relating
+    specifically to us or the hard drive industry in
+    general; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    macroeconomic conditions that affect the market generally.
+
+
+
+
+
+ 
+
+
+    In addition, general economic conditions may cause the stock
+    market to experience extreme price and volume fluctuations from
+    time to time that particularly affect the stock prices of many
+    high technology companies. These fluctuations often appear to be
+    unrelated to the operating performance of the companies.
+
+
+ 
+
+
+    Securities class action lawsuits are often brought against
+    companies after periods of volatility in the market price of
+    their securities. A number of such suits have been filed against
+    us in the past, and should any new lawsuits be filed, such
+    matters could result in substantial costs and a diversion of
+    resources and management’s attention.
+
+
+ 
+
+
+
+    Current
+    economic conditions have caused us difficulty in adequately
+    protecting our increased cash and cash equivalents from
+    financial institution failures.
+
+
+ 
+
+
+    The uncertain global economic conditions and volatile investment
+    markets have caused us to hold more cash and cash equivalents
+    than we would hold under normal circumstances. Since there has
+    been an overall increase in demand for low-risk,
+    U.S. government backed securities with a limited supply in
+    the financial marketplace, we face increased difficulty in
+    adequately protecting our increased cash and cash equivalents
+    from possible sudden and unforeseeable failures by banks and
+    other financial institutions. A failure of any of these
+    financial institutions in which deposits exceed FDIC limits
+    could have an adverse impact on our financial position.
+
+
+ 
+
+
+
+    If our
+    internal controls are found to be ineffective, our financial
+    results or our stock price may be adversely affected.
+
+
+ 
+
+
+    Our most recent evaluation resulted in our conclusion that as of
+    July 2, 2010, in compliance with Section 404 of the
+    Sarbanes-Oxley Act of 2002, our internal control over financial
+    reporting was effective. We believe that we currently have
+    adequate internal control procedures in place for future
+    periods; however, if our internal control over financial
+    reporting is found to be ineffective or if we identify a
+    material weakness or significant deficiency in our financial
+    reporting, investors may lose confidence in the reliability of
+    our financial statements, which may adversely affect our
+    financial results or our stock price.
+
+
+ 
+
+
+
+    From time
+    to time we may become subject to income tax audits or similar
+    proceedings, and as a result we may incur additional costs and
+    expenses or owe additional taxes, interest and penalties that
+    may negatively impact our operating results.
+
+
+ 
+
+
+    We are subject to income taxes in the U.S. and certain
+    foreign jurisdictions, and our determination of our tax
+    liability is subject to review by applicable domestic and
+    foreign tax authorities. For example, as we have previously
+    disclosed, we are under examination of certain of our fiscal
+    years by the U.S. Internal Revenue Service (the
+    “IRS”).
+
+
+
+
+
+    
+    33
+
+
+
+Table of Contents
+
+
+
+
+
+    Although we believe our tax positions are reasonable, the
+    outcomes and timing of these audits are subject to significant
+    uncertainty and could result in our having to pay amounts to the
+    applicable tax authority in order to resolve examination of our
+    tax positions, which could result in an increase or decrease of
+    our current estimate of unrecognized tax benefits and may
+    negatively impact our financial position, results of operations,
+    net income or cash flows.
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

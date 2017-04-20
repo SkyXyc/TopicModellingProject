@@ -1,0 +1,4563 @@
+Item 1A “Risk Factors — We are exposed
+    to various risks related to legal proceedings or claims and
+    protection of intellectual property rights, which could
+    adversely affect our operating results.”
+
+
+ 
+
+
+
+    Environmental
+    Disclosure
+
+
+ 
+
+
+    Various federal, state and local provisions regulate the use and
+    discharge of certain hazardous materials used in the manufacture
+    of our products. Failure to comply with environmental
+    regulations in the future could cause us to incur substantial
+    costs or subject us to business interruptions. We believe we are
+    fully compliant with all applicable environmental laws. All of
+    our products meet the requirements for WEEE, RoHS and China RoHS
+    compliance. We have maintained an Environmental Management
+    System since December 2004 as well as our ISO 14001
+    certification. As part of ISO 14001 requirements, NetApp
+    conducts annual review of all aspects of our operations and we
+    constantly monitor environmental legislation and requirements to
+    ensure we are taking necessary measures to continually remain in
+    compliance with any and all applicable laws.
+
+
+ 
+
+
+
+    Working
+    Capital Practices
+
+
+ 
+
+
+    Information about our working capital practices is included in
+    Item 7 — “Management’s Discussion and
+    Analysis of Financial Condition and Results of Operation”
+    under the heading “Financial Condition, Capital Resources
+    and Liquidity” and is incorporated herein by reference.
+
+
+ 
+
+
+
+    Government
+    Contracts
+
+
+ 
+
+
+    We derive revenues from contracts with the United States
+    government, state and local governments and their respective
+    agencies. Our sales to government clients subject us to risks
+    including early termination, audits,
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+    investigations, sanctions penalties and potential disbarment.
+    For more information, refer to Item 1A “Risk
+    Factor — The U.S. government has contributed to
+    our revenue growth and has become an important customer for
+    us.” In addition, please refer to Item 3 —
+    “Legal Proceedings” for information related to our GSA
+    settlement.
+
+
+ 
+
+
+
+    Foreign
+    Operations and Export Sales
+
+
+ 
+
+
+    Information about our foreign operations and export sales is
+    included in Note 7 — “Segment, Geographic,
+    and Significant Customer Information” to our consolidated
+    financial statements and Item 1A “Risk
+    Factors — Risks inherent in our international
+    operations could have a material adverse effect on our operating
+    results”.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    As of April 24, 2009, we had 7,976 employees. We have
+    never had a work stoppage and consider relations with our
+    employees to be good.
+
+
+ 
+
+
+
+    Executive
+    Officers
+
+
+ 
+
+
+    Our executive officers and their ages as of May 25, 2009,
+    are as follows:
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Name
+
+
+
+ 
+
+
+
+    Age
+
+
+
+ 
+
+
+
+    Position
+
+
+
+
+ 
+
+
+
+
+
+    Daniel J. Warmenhoven
+
+
+
+ 
+
+ 
+
+
+    58
+
+ 
+
+
+ 
+
+
+    Chief Executive Officer and Chairman of the Board
+
+
+
+
+
+    Thomas F. Mendoza
+
+
+
+ 
+
+ 
+
+
+    58
+
+ 
+
+
+ 
+
+
+    Vice Chairman
+
+
+
+
+
+    Thomas Georgens
+
+
+
+ 
+
+ 
+
+
+    49
+
+ 
+
+
+ 
+
+
+    President and Chief Operating Officer, Board Member
+
+
+
+
+
+    Steven J. Gomo
+
+
+
+ 
+
+ 
+
+
+    57
+
+ 
+
+
+ 
+
+
+    Executive Vice President, Finance and Chief Financial Officer
+
+
+
+
+
+    Robert E. Salmon
+
+
+
+ 
+
+ 
+
+
+    48
+
+ 
+
+
+ 
+
+
+    Executive Vice President, Field Operations
+
+
+
+
+
+
+
+
+ 
+
+
+    Daniel J. Warmenhoven joined NetApp in October 1994 as
+    president and chief executive officer, and has been a member of
+    the Board of Directors since October 1994. Mr. Warmenhoven
+    currently serves as chief executive officer and as of March 2008
+    he was appointed chairman of the Board of Directors. Prior to
+    joining the Company, Mr. Warmenhoven served in various
+    capacities, including president, chief executive officer, and
+    chairman of the Board of Directors of Network Equipment
+    Technologies, Inc., a telecommunications equipment company, from
+    November 1989 to January 1994. Prior to Network Equipment
+    Technologies, Mr. Warmenhoven held executive and managerial
+    positions at Hewlett-Packard from 1985 to 1989 and IBM
+    Corporation from 1972 to 1985. Mr. Warmenhoven is a
+    Director of Aruba Networks, Inc., sits on the Bechtel Board of
+    Counselors, is vice chairman of the board of the Tech Museum of
+    Innovation in San Jose, CA and is a trustee of Bellarmine
+    College Preparatory in San Jose, CA. Mr. Warmenhoven
+    holds a B.S. degree in electrical engineering from Princeton
+    University.
+
+
+ 
+
+
+    Thomas F. Mendoza was appointed vice chairman in March
+    2008. Mr. Mendoza joined the company in May 1994 and served
+    as president from October 2000 to March 2008. Prior to March
+    2000, he served in various capacities at NetApp including senior
+    vice president, worldwide sales and marketing, senior vice
+    president, worldwide sales and vice president, North American
+    sales. Mr. Mendoza has more than 30 years of
+    experience as a high-technology executive and has held executive
+    positions at Auspex Systems, Inc. and Stratus Technologies, Inc.
+    He holds a B.A. degree in economics from Notre Dame and is an
+    alumnus of Stanford University’s Executive Business
+    Program. In September 2000, the University of Notre Dame renamed
+    its business school the Mendoza College of Business in honor of
+    an endowment from Tom and his wife, Kathy.
+
+
+ 
+
+
+    Thomas Georgens is the president and chief operating
+    officer of the Company and is responsible for all product
+    operations and field operations worldwide. Mr. Georgens has
+    also been a member of the Board of Directors at NetApp since
+    March 2008. Mr. Georgens joined the Company in 2005 and
+    served as the Company’s executive vice president of product
+    operations from January 2007 until February 2008. Prior to
+    January 2007, Mr. Georgens served as the Company’s
+    executive vice president and general manager of enterprise
+    storage systems. Before joining NetApp, Mr. Georgens spent
+    nine years at Engenio, a subsidiary of LSI Logic, with the last
+    two years as chief executive officer. He has also served in
+    various other positions, including president of LSI Logic
+    Storage Systems
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+    and executive vice president of LSI Logic. Prior to LSI Logic,
+    Mr. Georgens spent 11 years at EMC in a variety of
+    engineering and marketing positions. Mr. Georgens holds a
+    B.S. degree and an M.E. degree in Computer and Systems
+    Engineering from Rensselaer Polytechnic Institute as well as an
+    M.B.A. degree from Babson College.
+
+
+ 
+
+
+    Steven J. Gomo joined NetApp in August 2002 as senior
+    vice president of finance and chief financial officer. He was
+    appointed executive vice president of finance and chief
+    financial officer in October 2004. Prior to joining the Company,
+    he served as chief financial officer for Gemplus International
+    S.A., headquartered in Luxembourg from November 2000 to April
+    2002 and as chief financial officer of Silicon Graphics, Inc.,
+    from February 1998 to August 2000. Prior to February 1998, he
+    worked at Hewlett-Packard Company for 24 years in various
+    positions, including financial management, corporate finance,
+    general management, and manufacturing. Mr. Gomo currently
+    serves on the board of SanDisk Corporation. Mr. Gomo holds
+    an M.B.A. degree from Santa Clara University and a B.S.
+    degree in business administration from Oregon State University.
+
+
+ 
+
+
+    Robert E. Salmon joined NetApp in January 1994 and was
+    appointed executive vice president, field operations in December
+    2005. Mr. Salmon has served as the Company’s executive
+    vice president of worldwide sales since September 2004. From
+    August 2003 to September 2004, Mr. Salmon served as the
+    Company’s senior vice president of worldwide sales and from
+    May 2000 to August 2003, Mr. Salmon served as the
+    Company’s vice president of North American sales. Prior to
+    his tenure at NetApp Mr. Salmon spent nearly ten years with
+    Sun Microsystems and Data General Corporation. Mr. Salmon
+    graduated from California State University, Chico with a B.S.
+    degree in computer science.
+
+
+ 
+
+
+
+    Additional
+    Information
+
+
+ 
+
+
+    Our Internet address is www.netapp.com. We make available
+    through our Internet Web site our annual reports on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    and amendments to those reports filed or furnished pursuant to
+    Section 13(a) of the Securities Exchange Act of 1934, as
+    amended, as soon as reasonably practicable after we
+    electronically file such material with, or furnish it to, the
+    SEC.
+
+
+ 
+
+
+    The SEC maintains an Internet site (www.sec.gov) that
+    contains reports, proxy and information statements, and other
+    information regarding issuers that file electronically with the
+    SEC. The public also may read and copy these filings at the
+    SEC’s Public Reference Room at 100 F Street,
+    N.E., Washington, D.C. 20549. Information about this Public
+    Reference Room is available by calling (800) SEC-0330.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1A.  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    The following risk factors and other information included in
+    this Annual Report on
+    Form 10-K
+    should be carefully considered. The risks and uncertainties
+    described below are not the only ones we face. Additional risks
+    and uncertainties not presently known to us or that we presently
+    deem less significant may also impair our business operations.
+    Please see page 3 of this Annual Report on
+    Form 10-K
+    for additional discussion of these forward-looking statements.
+    If any of the events or circumstances described in the following
+    risk factors actually occurs, our business, operating results,
+    and financial condition could be materially adversely
+    affected.
+
+
+ 
+
+
+
+    Our
+    operating results may be adversely affected by unfavorable
+    economic and market conditions, including the current economic
+    downturn.
+
+
+ 
+
+
+    We are subject to the effects of general global economic and
+    market conditions challenging economic conditions worldwide have
+    from time to time contributed, and are currently contributing,
+    to slowdowns in the computer, storage, and networking industries
+    at large, as well as the information technology (“IT”)
+    market, resulting in:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Reduced demand for our products as a result of continued
+    constraints on IT related spending by our customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Increased price competition for our products from competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Deferment of purchases and orders by customers due to budgetary
+    constraints or changes in current or planned utilization of our
+    systems;
+
+
+
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Risk of excess and obsolete inventories;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Excess facilities costs;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Higher overhead costs as a percentage of revenue;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Increased risk of losses or impairment charges related to our
+    investment portfolio;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Negative impacts from increased financial pressures on
+    customers, distributors and resellers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Negative impacts from increased financial pressures on key
+    suppliers or contract manufacturers; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Potential discontinuance of product lines or businesses and
+    related asset impairments.
+
+
+
+
+
+ 
+
+
+    The turmoil in the global credit markets, the recent instability
+    in the geopolitical environment in many parts of the world and
+    other disruptions may continue to put pressure on global
+    economic conditions. The economic challenges we initially
+    experienced in the United States have spread throughout the
+    world. If global economic and market conditions, or economic
+    conditions in the United States or other key markets, remain
+    uncertain, persist, or deteriorate further, we may experience
+    material adverse impacts on our business, operating results, and
+    financial condition.
+
+
+ 
+
+
+
+    Our
+    quarterly operating results may fluctuate, which could adversely
+    impact our common stock price.
+
+
+ 
+
+
+    We believe that period-to-period comparisons of our results of
+    operations are not necessarily meaningful and should not be
+    relied upon as indicators of future performance. Our operating
+    results have in the past, and will continue to be, subject to
+    quarterly fluctuations as a result of numerous factors, some of
+    which may contribute to more pronounced fluctuations in an
+    uncertain global economic environment. These factors include,
+    but are not limited to, the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Fluctuations in demand for our products and services, in part
+    due to changes in general economic conditions and specific
+    economic conditions in the computer, storage, and networking
+    industries;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    A shift in federal government spending patterns;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changes in sales and implementation cycles for our products and
+    reduced visibility into our customers’ spending plans and
+    associated revenue;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The level of price and product competition in our target product
+    markets;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The impact of the current adverse economic and credit
+    environment on our customers, channel partners, and suppliers,
+    including their ability to obtain financing or to fund capital
+    expenditures;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The overall movement toward industry consolidations among both
+    our competitors and our customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our reliance on a limited number of suppliers due to industry
+    consolidation, which could subject us to periodic
+    supply-and-demand,
+    price rigidity, and quality issues with our components;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The timing of bookings or the cancellation of significant orders;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Product configuration and mix;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The extent to which our customers renew their service and
+    maintenance contracts with us;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Market acceptance of new products and product enhancements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Announcements and introductions of, and transitions to, new
+    products by us or our competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Deferrals of customer orders in anticipation of new products or
+    product enhancements introduced by us or our competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our ability to develop, introduce, and market new products and
+    enhancements in a timely manner;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Technological changes in our target product markets;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our levels of expenditure on research and development and sales
+    and marketing programs;
+
+
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Our ability to achieve targeted cost reductions;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Adverse movements in foreign currency exchange rates as a result
+    of our international operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Excess or inadequate facilities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Actual events, circumstances, outcomes and amounts differing
+    from judgments, assumptions, and estimates used in determining
+    the values of certain assets (including the amounts of valuation
+    allowances), liabilities, and other items reflected in our
+    consolidated financial statements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Disruptions resulting from new systems and processes as we
+    continue to enhance and scale our system infrastructure;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Future accounting pronouncements and changes in accounting
+    rules, such as the increased use of fair value measures and the
+    potential requirement that U.S. registrants prepare
+    financial statements in accordance with International Financial
+    Reporting Standards (IFRS);
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Seasonality, such as our historical seasonal decline in revenues
+    in the first quarter of our fiscal year and seasonal increase in
+    revenues in the second quarter of our fiscal year, with the
+    latter due in part to the impact of the U.S. federal
+    government’s September 30 fiscal year end on the timing of
+    its orders, and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Linearity, such as our historical intraquarter revenue pattern
+    in which a disproportionate percentage of each quarter’s
+    total revenues occur in the last month of the quarter.
+
+
+
+
+
+ 
+
+
+    Due to such factors, operating results for a future period are
+    difficult to predict, and, therefore, prior results are not
+    necessarily indicative of results to be expected in future
+    periods. Any of the foregoing factors, or any other factors
+    discussed elsewhere herein, could have a material adverse effect
+    on our business, results of operations, and financial condition.
+    It is possible that in one or more quarters our results may fall
+    below our forecasts and the expectations of public market
+    analysts and investors. In such event, the trading price of our
+    common stock would likely decrease.
+
+
+ 
+
+
+
+    Our
+    revenue for a particular period is difficult to forecast, and a
+    shortfall in revenue may harm our business and our operating
+    results.
+
+
+ 
+
+
+    Our revenues for a particular period are difficult to forecast,
+    especially in light of the current global economic downturn and
+    related market uncertainty. Product sales are also difficult to
+    forecast because the storage and data management market is
+    rapidly evolving, and our sales cycle varies substantially from
+    customer to customer. New or additional product introductions
+    also increase the complexities of forecasting revenues.
+
+
+ 
+
+
+    Additionally, we derive a majority of our revenue in any given
+    quarter from orders booked in the same quarter. Bookings
+    typically follow intraquarter seasonality patterns weighted
+    toward the back end of the quarter. If we do not achieve
+    bookings in the latter part of a quarter consistent with our
+    quarterly targets, our financial results will be adversely
+    impacted.
+
+
+ 
+
+
+    We use a “pipeline” system, a common industry
+    practice, to forecast bookings and trends in our business. Sales
+    personnel monitor the status of potential business and estimate
+    when a customer will make a purchase decision, the dollar amount
+    of the sale and the products or services to be sold. These
+    estimates are aggregated periodically to generate a bookings
+    pipeline. Our pipeline estimates may prove to be unreliable
+    either in a particular quarter or over a longer period of time,
+    in part because the “conversion rate” of the pipeline
+    into contracts varies from customer to customer, can be
+    difficult to estimate, and requires management judgment. Small
+    deviations from our forecasted conversion rate may result in
+    inaccurate plans and budgets and could materially and adversely
+    impact our business or our planned results of operations. In
+    particular, the continued adverse events in the economic
+    environment and financial markets have made it even more
+    difficult for us to forecast our future results and may result
+    in a reduction in our quarterly conversion rate as our
+    customers’ purchasing decisions are delayed, reduced in
+    amount, or cancelled.
+
+
+ 
+
+
+    Uncertainty about current and future global economic conditions
+    has caused consumers, businesses and governments to defer
+    purchases in response to tighter credit, decreased cash
+    availability and declining customer confidence. Accordingly,
+    future demand for our products could differ from our current
+    expectations.
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+
+    We
+    have experienced periods of alternating growth and decline in
+    revenues and operating expenses. If we are not able to
+    successfully manage these fluctuations, our business, financial
+    condition and results of operations could be significantly
+    impacted.
+
+
+ 
+
+
+    The ongoing global financial crisis has led to a worldwide
+    economic downturn that has negatively affected our business. If
+    the current economic downturn continues or worsens, demand for
+    our products and services and our revenues may be further
+    reduced. A prolonged downturn can adversely affect our revenues,
+    gross margin and results of operations. During such economic
+    downturns, it is critical to appropriately align our cost
+    structure with prevailing market conditions and to minimize the
+    effect of such downturns on our operations, while also
+    maintaining our capabilities and strategic investments for
+    future growth.
+
+
+ 
+
+
+    Our expense levels are based in part on our expectations as to
+    future revenues, and a significant percentage of our expenses
+    are fixed. We have a limited ability to quickly or significantly
+    reduce our fixed costs, and if revenue levels are below our
+    expectations, operating results will be adversely impacted.
+    During uneven periods of growth, we may incur costs before we
+    realize some of the anticipated benefits, which could harm our
+    operating results. We have significant investments in
+    engineering, sales, service support, marketing programs and
+    other functions to support and grow our business. We are likely
+    to recognize the costs associated with these investments earlier
+    than some of the anticipated benefits, and the return on these
+    investments may be lower, or may develop more slowly, than we
+    expect, which could harm our business, operating results and
+    financial condition.
+
+
+ 
+
+
+    Conversely, if we are unable to effectively manage our resources
+    and capacity, during periods of increasing demand for our
+    products, we could experience a material adverse effect on
+    operations and financial results. If the network storage market
+    fails to grow, or grows slower than we expect, our revenues will
+    be adversely affected. Also, even if IT spending increases, our
+    revenue may not grow at the same pace.
+
+
+ 
+
+
+
+    Our
+    gross margins have varied over time and may continue to vary,
+    and such variation may make it more difficult to forecast our
+    earnings.
+
+
+ 
+
+
+    Our product gross margins have been and may continue to be
+    affected by a variety of factors, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Demand for storage and data management products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Pricing actions, rebates, initiatives, discount levels, and
+    price competition;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Direct versus indirect and OEM sales;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changes in customer, geographic, or product mix, including mix
+    of configurations within each product group;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Product and add-on software mix;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The mix of services as a percentage of revenue;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The mix and average selling prices of products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The mix of disk content;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The timing of revenue recognition and revenue deferrals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    New product introductions and enhancements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Excess inventory purchase commitments as a result of changes in
+    demand forecasts and possible product and software defects as we
+    transition our products; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The cost of components, manufacturing labor, quality, warranty,
+    and freight.
+
+
+
+
+
+ 
+
+
+    Changes in software entitlements and maintenance gross margins
+    may result from various factors, such as:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The size of the installed base of products under support
+    contracts;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The timing of technical support service contract renewals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Demand for and the timing of delivery of upgrades;
+
+
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The timing of our technical support service initiatives; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The level of spending on our customer support infrastructure.
+
+
+
+
+
+ 
+
+
+    Changes in service gross margins may result from various
+    factors, such as:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The mix of customers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The size and timing of service contract renewals;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The volume and use of outside partners to deliver support
+    services on our behalf; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Product quality and serviceability issues.
+
+
+
+
+
+ 
+
+
+    Due to such factors, gross margins are subject to variations
+    from period to period and are difficult to predict.
+
+
+ 
+
+
+
+    Our
+    cost-reduction initiatives and restructuring plans may not
+    result in anticipated savings or more efficient operations. Our
+    recently-announced restructuring may disrupt our operations and
+    adversely affect our operations and financial
+    results.
+
+
+ 
+
+
+    On February 11, 2009, in response to the worsening global
+    economic conditions and uncertainty about future IT spending, we
+    announced a restructuring of our worldwide operations in an
+    effort to strategically align our cost structure with expected
+    revenues, as well as to reallocate resources into areas of our
+    business with more growth potential.
+
+
+ 
+
+
+    Additionally, in December 2008, we decided to cease development
+    and availability of our
+    SnapMirror®
+
+    for Open Systems (“SMOS”) product, and as a result
+    recorded restructuring and other charges attributable primarily
+    to severance and employee-related and facility closure costs, as
+    well as the impairment of certain acquired intangible assets.
+
+
+ 
+
+
+    We may not be able to successfully complete and realize the
+    expected benefits of these restructuring plans. Our
+    restructuring plans may involve higher costs or a longer
+    timetable, or they may fail to improve our gross margins,
+    results of operations and cash flows as we anticipate. Our
+    inability to realize these benefits may result in an ineffective
+    business structure that could negatively impact our results of
+    operations. In addition to costs related to severance and other
+    employee-related costs, our restructuring plans may also subject
+    us to litigation risks and expenses.
+
+
+ 
+
+
+    In addition, our restructuring plans may have other adverse
+    consequences, such as attrition beyond our planned reduction in
+    workforce, the loss of employees with valuable knowledge or
+    expertise, a negative impact on employee morale, or a gain in
+    competitive advantage by our competitors over us. The
+    restructuring efforts could also be disruptive to our day-to-day
+    operations and cause our remaining employees to be less
+    productive, which in turn may affect our revenue and other
+    operating results in the future. In the event that the economy
+    recovers sooner than we expect and results in increased IT
+    spending, we may not have sufficient capacity to capitalize on
+    the related increase in demand for our products and services.
+
+
+ 
+
+
+    We may undertake future cost-reduction initiatives and
+    restructuring plans that may adversely impact our operations;
+    and we may not realize all of the anticipated benefits of our
+    prior or any future restructurings.
+
+
+ 
+
+
+
+    Changes
+    in market conditions have led, and in the future could lead, to
+    charges related to the discontinuance of certain of our products
+    and asset impairments.
+
+
+ 
+
+
+    In response to changes in economic conditions and market
+    demands, we may be required to strategically realign our
+    resources and consider cost containment measures including
+    restructuring, disposing of, or otherwise discontinuing certain
+    products. Any decision to limit investment in, dispose of, or
+    otherwise exit products may result in the recording of charges
+    to earnings, such as inventory and technology-related or other
+    intangible asset write-offs, workforce reduction costs, charges
+    relating to consolidation of excess facilities, cancellation
+    penalties or claims from third parties who were resellers or
+    users of discontinued products, which would harm our operating
+    results. Our estimates with respect to the useful life or
+    ultimate recoverability of our carrying basis of assets,
+    including purchased intangible assets, could change as a result
+    of such assessments and decisions. Additionally, we
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+    are required to perform goodwill impairment tests on an annual
+    basis, and between annual tests in certain circumstances when
+    impairment indicators exist or if certain events or changes in
+    circumstances have occurred. Future goodwill impairment tests
+    may result in charges to earnings, which could materially harm
+    our operating results.
+
+
+ 
+
+
+
+    Our
+    OEM relationship with IBM may not continue to generate
+    significant revenue.
+
+
+ 
+
+
+    In April 2005, we entered into an OEM agreement with IBM, which
+    enables IBM to sell IBM branded solutions based on NetAppunified
+    solutions, including
+    NearStore®
+
+    and V-Series systems, as well as associated software offerings.
+    While this agreement is an element of our strategy to expand our
+    reach into more customers and countries, we do not have an
+    exclusive relationship with IBM, and there is no minimum
+    commitment for any given period of time; therefore, this
+    relationship may not continue to contribute revenue in future
+    years. In addition, we have no control over the products that
+    IBM selects to sell, or its release schedule and timing of those
+    products; nor do we control its pricing. In the event that sales
+    through IBM increase, we may experience distribution channel
+    conflicts between our direct sales force and IBM or among our
+    channel partners. If we fail to minimize channel conflicts, our
+    operating results and financial condition could be harmed. We
+    cannot assure you that this OEM relationship will continue to
+    generate significant revenue while the agreement is in effect,
+    or that the relationship will continue to be in effect for any
+    specific period of time.
+
+
+ 
+
+
+
+    If we
+    are unable to maintain our existing relationships and develop
+    new relationships with major strategic partners, our revenue may
+    be impacted negatively.
+
+
+ 
+
+
+    An element of our strategy to increase revenue is to
+    strategically partner with major third-party software and
+    hardware vendors that integrate our products into their products
+    and also co-market our products with these vendors. We have
+    significant partner relationships with database, business
+    application, backup management and server virtualization
+    companies, including Microsoft, Oracle, SAP, Symantec and
+    VMware. A number of these strategic partners are industry
+    leaders that offer us expanded access to segments of the storage
+    market. There is intense competition for attractive strategic
+    partners, and even if we can establish relationships with these
+    or other partners, these partnerships may not generate
+    significant revenue or may not continue to be in effect for any
+    specific period of time. If these relationships fail to
+    materialize as expected, we could suffer delays in product
+    development or other operational difficulties.
+
+
+ 
+
+
+    We intend to continue to establish and maintain business
+    relationships with technology companies to accelerate the
+    development and marketing of our storage solutions. To the
+    extent that we are unsuccessful in developing new relationships
+    or maintaining our existing relationships, our future revenue
+    and operating results could be impacted negatively. In addition,
+    the loss of a strategic partner could have a material adverse
+    effect on our revenues and operating results.
+
+
+ 
+
+
+
+    Disruption
+    of or changes in our distribution model could harm our
+    sales.
+
+
+ 
+
+
+    If we fail to manage distribution of our products and services
+    properly, or if our distributors’ financial condition or
+    operations weaken, our revenue and gross margins could be
+    adversely affected.
+
+
+ 
+
+
+    We market and sell our storage solutions directly through our
+    worldwide sales force and indirectly through channel partners
+    such as value-added resellers, systems integrators,
+    distributors, OEMs and strategic business partners, and we
+    derive a significant portion of our revenue from these channel
+    partners. During fiscal 2009, revenues generated from sales
+    through our channel partners accounted for 69.0% of our
+    revenues. In order for us to maintain or increase our revenues,
+    we must effectively manage our relationships with channel
+    partners.
+
+
+ 
+
+
+    Several factors could result in disruption of or changes in our
+    distribution model, which could materially harm our revenues and
+    gross margins, including the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    We compete with some of our channel partners through our direct
+    sales force, which may lead these partners to use other
+    suppliers who do not directly sell their own products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Our channel partners may demand that we absorb a greater share
+    of the risks that their customers may ask them to bear;
+
+
+
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Our channel partners may have insufficient financial resources
+    and may not be able to withstand changes and challenges in
+    business conditions; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Revenue from indirect sales could suffer if our channel
+    partners’ financial condition or operations weaken.
+
+
+
+
+
+ 
+
+
+    In addition, we depend on our channel partners to comply with
+    applicable regulatory requirements in the jurisdictions in which
+    they operate. Their failure to do so could have a material
+    adverse effect on our revenues and operating results.
+
+
+ 
+
+
+
+    The
+    U.S. government has contributed to our revenue growth and has
+    become an important customer for us. Future revenue from the
+    U.S. government is subject to shifts in government spending
+    patterns. A decrease in government demand for our products could
+    materially affect our revenues. In addition, our business could
+    be adversely affected as a result of future examinations by the
+    U.S. government.
+
+
+ 
+
+
+    The U.S. government has become an important customer for
+    the storage market and for us; however, government demand is
+    unpredictable, and there can be no assurance that we will
+    maintain or grow our revenue from the U.S. government.
+    Government agencies are subject to budgetary processes and
+    expenditure constraints that could lead to delays or decreased
+    capital expenditures in IT spending. If the government or
+    individual agencies within the government reduce or shift their
+    capital spending patterns, our revenues and operating results
+    may be harmed.
+
+
+ 
+
+
+    In addition, selling our products to the U.S. government
+    also subjects us to certain regulatory requirements. The failure
+    to comply with these requirements could subject us to fines and
+    other penalties, which could have a material adverse effect on
+    our revenues and operating results. For example, in April 2009,
+    we entered into a settlement agreement with the United States of
+    America, acting through the United States Department of Justice
+    (“DOJ”) and on behalf of the General Services
+    Administration (the “GSA”), under which we agreed to
+    pay the United States $128.0 million, plus interest of
+    $0.7 million, related to a dispute regarding our discount
+    practices and compliance with the price reduction clause
+    provisions of its GSA contracts between August 1997 and February
+    2005. We are currently in discussions with the
+    U.S. government to demonstrate that we have implemented
+    processes and procedures to ensure that we comply with federal
+    contracting rules. If we are unable to demonstrate to the
+    U.S. government that we have implemented such improved
+    policies and procedures or if we are subject to an adverse
+    outcome in any future examinations of our federal contracting
+    practices, we could be suspended or debarred from contracting
+    with the U.S. government generally, or with any specific
+    agency, which could materially and adversely affect our revenue
+    and operating results.
+
+
+ 
+
+
+
+    A
+    portion of our revenue is generated by large, recurring
+    purchases from various customers, resellers and distributors. A
+    loss, cancellation or delay in purchases by these parties has
+    and could continue to negatively affect our
+    revenue.
+
+
+ 
+
+
+    During fiscal 2009, two U.S. distributors accounted for
+    approximately 10.5% and 10.6% of our revenues, respectively. The
+    loss of continued orders from any of our more significant
+    customers, strategic partners, distributors or resellers could
+    cause our revenue and profitability to suffer. Our ability to
+    attract new customers will depend on a variety of factors,
+    including the cost-effectiveness, reliability, scalability,
+    breadth and depth of our products.
+
+
+ 
+
+
+    We generally do not enter into binding purchase commitments with
+    our customers for an extended period of time, and thus we may
+    not be able to continue to receive large, recurring orders from
+    these customers, resellers or distributors. For example, our
+    reseller agreements generally do not require minimum purchases
+    and our customers, resellers and distributors can stop
+    purchasing and marketing our products at any time.
+
+
+ 
+
+
+    Recent turmoil in the credit markets may further negatively
+    impact our operations by affecting the solvency of our
+    customers, resellers and distributors, or the ability of our
+    customers to obtain credit to finance purchases of our products.
+    If the global economy and credit markets continue to deteriorate
+    and our future sales decline, our financial condition and
+    operating results could be adversely impacted.
+
+
+ 
+
+
+    Because our expenses are based on our revenue forecasts, a
+    substantial reduction or delay in sales of our products to, or
+    unexpected returns from, customers and resellers, or the loss of
+    any significant customer or reseller,
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+    could harm our business. Although our largest customers may vary
+    from period to period, we anticipate that our operating results
+    for any given period will continue to depend on large orders
+    from significant customers. In addition, a change in the mix of
+    our customers could adversely affect our revenue and gross
+    margins.
+
+
+ 
+
+
+
+    We are
+    exposed to the credit risk of some of our customers, resellers,
+    and distributors, as well as credit exposures in weakened
+    markets, which could result in material losses.
+
+
+ 
+
+
+    Most of our sales to customers are on an open credit basis, with
+    typical payment terms of 30 days in the United States
+    and, because of local customs or conditions, longer in some
+    markets outside the United States. We monitor individual
+    customer payment capability in granting such open credit
+    arrangements, and seek to limit such open credit to amounts we
+    believe the customers can pay. Beyond our open credit
+    arrangements, we also have recourse or nonrecourse customer
+    financing leasing arrangements with third party leasing
+    companies through preexisting relationships with customers.
+    Under the terms of recourse leases, which are treated as
+    off-balance sheet arrangements, we remain liable for the
+    aggregate unpaid remaining lease payments to the third party
+    leasing company in the event that any customers default. We
+    expect demand for customer financing to continue. During periods
+    of economic downturn in the storage industry and the global
+    economy, our exposure to credit risks from our customers
+    increases. In addition, our exposure to credit risks of our
+    customers may increase if our customers and their customers or
+    their lease financing sources are adversely affected by the
+    current global economic downturn, or if there is a continuation
+    or worsening of the downturn. Although we have programs in place
+    to monitor and mitigate the associated risks, such programs may
+    not be effective in reducing our credit risks.
+
+
+ 
+
+
+    In the past, there have been bankruptcies by our customers both
+    who have open credit and who have lease financing arrangements
+    with us, causing us to incur bad debt charges, and, in the case
+    of financing arrangements, a loss of revenues. There can be no
+    assurance that additional losses will not occur in future
+    periods. Any future losses could harm our business and have a
+    material adverse effect on our operating results and financial
+    condition. Additionally, to the extent that the recent turmoil
+    in the credit markets makes it more difficult for customers to
+    obtain open credit or lease financing, those customers’
+    ability to purchase our product could be adversely impacted,
+    which in turn could have a material adverse impact on our
+    financial condition and operating results.
+
+
+ 
+
+
+
+    The
+    market price for our common stock has fluctuated significantly
+    in the past and will likely continue to do so in the
+    future.
+
+
+ 
+
+
+    The market price for our common stock has experienced
+    substantial volatility in the past, and several factors could
+    cause the price to fluctuate substantially in the future. These
+    factors include but are not limited to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Fluctuations in our operating results;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Variations between our operating results and either the guidance
+    we have furnished to the public or the published expectations of
+    securities analysts;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Economic developments in the storage and data management market
+    as a whole;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Fluctuations in the valuation of companies perceived by
+    investors to be comparable to us;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changes in analysts’ recommendations or projections;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Inquiries by the SEC, NASDAQ, law enforcement, or other
+    regulatory bodies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    International conflicts and acts of terrorism;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Announcements of new products, applications, or product
+    enhancements by us or our competitors;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changes in our relationships with our suppliers, customers,
+    channel and strategic partners; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    General market conditions, including the recent financial and
+    credit crisis and global economic downturn.
+
+
+
+
+
+ 
+
+
+    In addition, the stock market has experienced volatility that
+    has particularly affected the market prices of the equity
+    securities of many technology companies. Certain macroeconomic
+    factors such as changes in interest rates, the market climate
+    for the technology sector, and levels of corporate spending on
+    IT, as well as variations in our expected operating performance,
+    could continue to have an impact on the trading price of our
+    stock. As a result, the
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+    market price of our common stock may fluctuate significantly in
+    the future, and any broad market decline may materially and
+    adversely affect the market price of our common stock.
+
+
+ 
+
+
+
+    If we
+    are unable to develop and introduce new products and respond to
+    technological change, if our new products do not achieve market
+    acceptance, if we fail to manage the transition between our new
+    and old products, or if we cannot provide the expected level of
+    service and support for our new products, our operating results
+    could be materially and adversely affected.
+
+
+ 
+
+
+    Our future growth depends upon the successful development and
+    introduction of new hardware and software products. Due to the
+    complexity of storage subsystems and storage security appliances
+    and the difficulty in gauging the engineering effort required to
+    produce new products, such products are subject to significant
+    technical risks. In addition, our new products must respond to
+    technological changes and evolving industry standards. If we are
+    unable, for technological or other reasons, to develop and
+    introduce new products in a timely manner in response to
+    changing market conditions or customer requirements, or if such
+    products do not achieve market acceptance, our operating results
+    could be materially and adversely affected. New or additional
+    product introductions increase the complexities of forecasting
+    revenues, and if not managed effectively, may adversely affect
+    our sales of existing products.
+
+
+ 
+
+
+    As new or enhanced products are introduced, we must successfully
+    manage the transition from older products in order to minimize
+    disruption in customers’ ordering patterns, avoid excessive
+    levels of older product inventories, and ensure that enough
+    supplies of new products can be delivered to meet
+    customers’ demands.
+
+
+ 
+
+
+    As we enter new or emerging markets, we will likely increase
+    demands on our service and support operations and may be exposed
+    to additional competition. We may not be able to provide
+    products, service and support to effectively compete for these
+    market opportunities.
+
+
+ 
+
+
+
+    An
+    increase in competition and industry consolidation could
+    materially and adversely affect our operating
+    results.
+
+
+ 
+
+
+    The storage markets are intensely competitive and are
+    characterized by rapidly changing technology. In the storage
+    market, our primary and near-line storage system products and
+    our associated software portfolio compete primarily with storage
+    system products and data management software from EMC, Hitachi
+    Data Systems, HP, IBM, and Sun Microsystems. In addition, Dell,
+    Inc. is a competitor in the storage marketplace through its
+    business arrangement with EMC, which allows Dell to resell EMC
+    storage hardware and software products, as well as through
+    Dell’s acquisition of EqualLogic, through which Dell offers
+    low-priced storage solutions. In the secondary storage market,
+    which includes the disk-to-disk backup, compliance and business
+    continuity segments, our solutions compete primarily against
+    products from EMC and Sun Microsystems. Our VTL products also
+    compete with traditional tape backup solutions in the broader
+    data backup/recovery space. Additionally, a number of small,
+    newer companies have recently entered the storage systems and
+    data management software markets, the near-line and VTL storage
+    markets and the high-performance clustered storage markets, some
+    of which may become significant competitors in the future.
+
+
+ 
+
+
+    There has been a trend toward industry consolidation in our
+    markets for several years. For example, in April 2009, Oracle
+    Corporation, one of our strategic partners, announced its plan
+    to acquire Sun Microsystems. We expect this trend to continue as
+    companies attempt to strengthen or hold their market positions
+    in an evolving industry and as companies are acquired or are
+    unable to continue operations. We believe that industry
+    consolidation may result in stronger competitors that are better
+    able to compete as sole-source vendors for customers. In
+    addition, current and potential competitors have established or
+    may establish cooperative relationships among themselves or with
+    third parties. Accordingly, it is possible that new competitors
+    or alliances among competitors may emerge and rapidly acquire
+    significant market share. We may not be able to compete
+    successfully against current or future competitors. Competitive
+    pressures we face could materially and adversely affect our
+    business and operating results.
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+
+    Our
+    future financial performance depends on growth in the storage
+    and data management markets. If these markets do not perform as
+    we expect and upon which we calculate and forecast our revenues,
+    our operating results will be materially and adversely
+    impacted.
+
+
+ 
+
+
+    All of our products address the storage and data management
+    markets. Accordingly, our future financial performance will
+    depend in large part on continued growth in the storage and data
+    management markets and on our ability to adapt to emerging
+    standards in these markets. The markets for storage and data
+    management have been adversely impacted by the current global
+    economic downturn and may not grow as anticipated or may
+    continue to decline.
+
+
+ 
+
+
+    Additionally, emerging standards in these markets may adversely
+    affect the
+    UNIX®,
+
+    Windows®
+
+    and the World Wide Web server markets upon which we depend. For
+    example, we provide our open access data retention solutions to
+    customers within the financial services, healthcare,
+    pharmaceutical and government market segments, industries that
+    are subject to various evolving governmental regulations with
+    respect to data access, reliability and permanence (such as
+    Rule 17(a)(4) of the Securities Exchange Act of 1934, as
+    amended) in the United States and in the other countries in
+    which we operate. If our products do not meet and continue to
+    comply with these evolving governmental regulations in this
+    regard, customers in these market and geographical segments will
+    not purchase our products, and we will not be able to expand our
+    product offerings in these market and geographical segments at
+    the rates which we have forecasted.
+
+
+ 
+
+
+
+    Supply
+    chain issues, including financial problems of contract
+    manufacturers or component suppliers, or a shortage of adequate
+    component supply or manufacturing capacity that increase our
+    costs or cause a delay in our ability to fulfill orders, could
+    have a material adverse impact on our business and operating
+    results, and our failure to estimate customer demand properly
+    may result in excess or obsolete component supply, which could
+    adversely affect our gross margins.
+
+
+ 
+
+
+    The fact that we do not own or operate our manufacturing
+    facilities and supply chain exposes us to risks, including
+    reduced control over quality assurance, production costs and
+    product supply, which could have a material adverse impact on
+    the supply of our products and on our business and operating
+    results.
+
+
+ 
+
+
+    Financial problems of either contract manufacturers or component
+    suppliers could limit supply, increase costs, or result in
+    accelerated payment terms. The loss of any contract manufacturer
+    or key supplier could negatively impact our ability to
+    manufacture and sell our products. Qualifying a new contract
+    manufacturer and commencing volume production is expensive and
+    time-consuming. If we are required to change contract
+    manufacturers, we may lose revenue and damage our customer
+    relationships. Disruption or termination of manufacturing
+    capacity or component supply could delay shipments of our
+    products and could materially and adversely affect our operating
+    results. Such delays could also damage relationships with
+    current and prospective customers and suppliers, and our
+    competitive position and reputation could be harmed.
+
+
+ 
+
+
+    A return to growth in the economy is likely to put greater
+    pressures on us, our contract manufacturers and our suppliers to
+    accurately project demand and to establish optimal purchase
+    commitment levels. Additionally, the reservation of
+    manufacturing capacity at our contract manufacturers by other
+    companies, inside or outside of our industry, or the inability
+    by us to appropriately cancel, reschedule, or adjust our
+    manufacturing or components requirements based upon business
+    needs could result in either limitation of supply or increased
+    costs from these suppliers.
+
+
+ 
+
+
+    If we inaccurately forecast demand for our products or if there
+    is lack of demand for our products, we may have excess or
+    inadequate inventory or incur cancellation charges or penalties,
+    which would increase our costs and have an adverse impact on our
+    gross margins.
+
+
+ 
+
+
+    We rely on a limited number of suppliers for components such as
+    disk drives, computer boards and microprocessors utilized in the
+    assembly of our products. In recent years, rapid industry
+    consolidation has led to fewer component suppliers, which has
+    and could subject us to future periodic supply constraints and
+    price rigidity.
+
+
+ 
+
+
+    Furthermore, as a result of binding price or purchase
+    commitments with suppliers, we may be obligated to purchase
+    components at prices that are higher than those available in the
+    current market, or in amounts greater than
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+    our needs. In the event that we become committed to purchase
+    components at prices in excess of the current market price when
+    the components are actually used, or are committed to buy
+    components in amounts greater than our needs, our gross margins
+    could decrease.
+
+
+ 
+
+
+    Component quality is a risk and is particularly significant with
+    respect to our suppliers of disk drives. In order to meet
+    product performance requirements, we must obtain disk drives of
+    extremely high quality and capacity.
+
+
+ 
+
+
+    As suppliers upgrade their components, they regularly “end
+    of life” older components. As we become aware of an end of
+    life situation, we attempt to make purchases or purchase
+    commitments to cover all future requirements or find a suitable
+    substitute component. We may not be able to obtain a sufficient
+    supply of components on a timely and cost effective basis. Our
+    failure to do so may lead to an adverse impact on our business.
+    On the other hand, if we fail to anticipate customer demand
+    properly or if there is reduced demand or no demand for our
+    products, an oversupply of end of life components could result
+    in excess or obsolete components that could adversely affect our
+    gross margins.
+
+
+ 
+
+
+    We intend to regularly introduce new products and product
+    enhancements, which will require us to rapidly achieve volume
+    production by coordinating with our contract manufacturers and
+    suppliers. We may need to increase our material purchases,
+    contract manufacturing capacity and quality functions to meet
+    anticipated demand. The inability of our contract manufacturers
+    or our component suppliers to provide us with adequate supplies
+    of high-quality products and materials suitable for our needs
+    could cause a delay in our ability to fulfill orders.
+
+
+ 
+
+
+
+    Our
+    acquisitions may not provide the anticipated benefits and may
+    disrupt our existing business.
+
+
+ 
+
+
+    As part of our strategy, we are continuously evaluating
+    opportunities to buy other businesses or technologies that would
+    complement our current products, expand the breadth of our
+    markets, or enhance our technical capabilities. On May 20,
+    2009, we announced that we have entered into a definitive
+    agreement to acquire Data Domain, Inc. (“Data
+    Domain”). We subsequently amended the terms of the
+    definitive agreement on June 3, 2009.
+
+
+ 
+
+
+    The success of this and any future acquisition is impacted by a
+    number of factors, and may be subject to the following risks:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The inability to successfully integrate the operations,
+    technologies, products and personnel of the acquired companies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The diversion of management’s attention from normal daily
+    operations of the business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The loss of key employees; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Substantial transaction costs and accounting charges.
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Exposure to litigation related to acquisitions. For example, see
+    the lawsuit related to Data Domain described in Part I,
+    Item 3 Legal Proceedings below.
+
+
+
+
+
+ 
+
+
+    This and any future acquisitions may also result in risks to our
+    existing business, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Dilution of our current stockholders’ percentage ownership
+    to the extent we issue new equity;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Assumption of additional liabilities;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Incurrence of additional debt or a decline in available cash;
+    adverse effects to our financial statements, such as the need to
+    make large and immediate write-offs or the incurrence of
+    restructuring and other related expenses;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Liability for intellectual property infringement and other
+    litigation claims, which we may or may not be aware of at the
+    time of acquisition; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Creation of goodwill or other intangible assets that could
+    result in significant future amortization expense or impairment
+    charges.
+
+
+
+
+
+ 
+
+
+    In addition, failure to complete the Data Domain acquisition as
+    planned could negatively impact our stock price.
+
+
+ 
+
+
+    The failure to achieve the anticipated benefits of an
+    acquisition may also result in impairment charges for goodwill
+    or acquired intangibles. For example, in fiscal 2009 we
+    announced our decision to cease the development
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+    and availability of our SMOS product, which was originally
+    acquired through our acquisition of Topio, Inc.
+    (“Topio”) in fiscal 2007, resulting in the impairment
+    of acquired intangibles related to such acquisition. Additional
+    or realized risks of this nature could have a material adverse
+    effect on our business, financial condition and results of
+    operations.
+
+
+ 
+
+
+    The occurrence of any of the above risks could seriously harm
+    our business.
+
+
+ 
+
+
+
+    We are
+    exposed to fluctuations in the market values of our portfolio
+    investments and in interest rates; impairment of our investments
+    could harm our financial results.
+
+
+ 
+
+
+    At April 24, 2009, we had $2.6 billion in cash, cash
+    equivalents, available-for-sale securities and restricted cash
+    and investments. We invest our cash in a variety of financial
+    instruments, consisting principally of investments in
+    U.S. Treasury securities, U.S. government agency
+    bonds, corporate bonds, corporate securities, auction rate
+    securities, certificates of deposit, and money market funds,
+    including the Primary Fund. These investments are subject to
+    general credit, liquidity, market and interest rate risks, which
+    have been exacerbated by unusual events such as the financial
+    and credit crisis, and bankruptcy filings in the United States
+    which have affected various sectors of the financial markets and
+    led to global credit and liquidity issues. These securities are
+    generally classified as “available-for-sale” and,
+    consequently, are recorded on our consolidated balance sheets at
+    fair value with unrealized gains or losses reported as a
+    component of accumulated other comprehensive income (loss), net
+    of tax.
+
+
+ 
+
+
+    Investments in both fixed rate and floating rate interest
+    earning instruments carry a degree of interest rate risk. Fixed
+    rate debt securities may have their market value adversely
+    impacted due to a rise in interest rates, while floating rate
+    securities may produce less income than expected if interest
+    rates fall. Due in part to these factors, our future investment
+    income may fall short of expectations due to changes in interest
+    rates. Currently, we do not use derivative financial instruments
+    in our investment portfolio. We may suffer losses if forced to
+    sell securities that have experienced a decline in market value
+    because of changes in interest rates. Currently, we do not use
+    financial derivatives to hedge our interest rate exposure.
+
+
+ 
+
+
+    The fair value of our investments may change significantly due
+    to events and conditions in the credit and capital markets.
+    These securities/issuers could be subject to review for possible
+    downgrade. Any downgrade in these credit ratings may result in
+    an additional decline in the estimated fair value of our
+    investments. Changes in the various assumptions used to value
+    these securities and any increase in the markets’ perceived
+    risk associated with such investments may also result in a
+    decline in estimated fair value. If such investments suffer
+    market price declines, as we experienced with some of our
+    investments during fiscal 2009, we may recognize in earnings the
+    decline in the fair value of our investments below their cost
+    basis when the decline is judged to be
+    other-than-temporary.
+
+
+ 
+
+
+    As a result of the bankruptcy filing of Lehman Brothers, which
+    occurred during fiscal 2009, we recorded an other-than-temporary
+    impairment charge of $11.8 million on our corporate bonds
+    related to investments in Lehman Brothers securities and
+    approximately $9.3 million on our investments in the
+    Primary Fund that held Lehman Brothers investments. As of
+    April 24, 2009, we have an investment in the Primary Fund,
+    an AAA-rated money market fund at the time of purchase, with a
+    par value of $60.9 million and an estimated fair value of
+    $51.6 million, which suspended redemptions in September
+    2008 and is in the process of liquidating its portfolio of
+    investments. We received total distributions of
+    $546.3 million during fiscal 2009 from the Primary Fund. On
+    December 3, 2008, it announced a plan for liquidation and
+    distribution of assets that includes the establishment of a
+    special reserve to be set aside out of its assets for pending or
+    threatened claims, as well as anticipated costs and expenses,
+    including related legal and accounting fees. On
+    February 26, 2009, the Primary Fund announced a plan to set
+    aside $3.5 billion of the fund’s remaining assets as
+    the “special reserve” which may be increased or
+    decreased as further information becomes available. The Primary
+    Fund has received an SEC order providing that the SEC will
+    supervise the distribution of assets from the Primary Fund. Our
+    pro rata share of the $3.5 billion special reserve is
+    approximately $41.5 million. The Primary Fund plans to
+    continue to make periodic distributions, up to the amount of the
+    special reserve, on a pro-rata basis. We could realize
+    additional losses in our holdings of the Primary Fund and may
+    not receive all or a portion of our remaining balance in the
+    Primary Fund as a result of market conditions and ongoing
+    litigation against the fund.
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+    If the conditions in the credit and capital markets continue to
+    worsen, our investment portfolio may be impacted and we could
+    determine that more of our investments have experienced an
+    other-than-temporary decline in fair value, requiring further
+    impairments, which could adversely impact our financial position
+    and operating results.
+
+
+ 
+
+
+
+    Funds
+    associated with certain of our auction rate securities may not
+    be accessible for more than 12 months and our auction rate
+    securities may experience further other-than-temporary declines
+    in value, which would adversely affect our
+    earnings.
+
+
+ 
+
+
+    Auction rate securities (“ARS”) held by us are
+    securities with long-term nominal maturities, which, in
+    accordance with investment policy guidelines, had credit ratings
+    of AAA and Aaa at time of purchase. Interest rates for ARS are
+    reset through a “Dutch auction” each month, which
+    prior to February 2008 had provided a liquid market for these
+    securities.
+
+
+ 
+
+
+    Substantially all of our ARS are backed by pools of student
+    loans guaranteed by the U.S. Department of Education, and
+    we believe the credit quality of these securities is high based
+    on this guarantee. However liquidity issues in the global credit
+    markets resulted in the failure of auctions for certain of our
+    ARS investments, with a par value of $73.3 million at
+    April 24, 2009. For each failed auction, the interest rate
+    resets to a maximum rate defined for each security, and the ARS
+    continue to pay interest in accordance with their terms,
+    although the principal associated with the ARS will not be
+    accessible until there is a successful auction or such time as
+    other markets for ARS investments develop.
+
+
+ 
+
+
+    As of April 24, 2009, we determined there was a total
+    decline in the fair value of our ARS investments of
+    approximately $8.8 million, of which we recorded temporary
+    impairment charges of $7.0 million, offset by unrealized
+    gains of $0.3 million, and $2.1 million was recognized
+    as an other-than-temporary impairment charge. In addition, we
+    have classified all of our auction rate securities as long-term
+    assets in our consolidated balance sheets of April 24, 2009
+    as our ability to liquidate such securities in the next
+    12 months is uncertain. Although we currently have the
+    ability and intent to hold these ARS investments until recovery
+    in market value or until maturity, if the current market
+    conditions deteriorate further, or the anticipated recovery in
+    market liquidity does not occur, we may be required to record
+    additional impairment charges in future quarters.
+
+
+ 
+
+
+
+    Our
+    leverage and debt service obligations may adversely affect our
+    financial condition and results of operations.
+
+
+ 
+
+
+    As a result of our sale of $1.265 billion of 1.75%
+    convertible senior notes in June 2008 (the “Notes”),
+    we have a greater amount of long-term debt than we have
+    maintained in the past. We also have a credit facility and
+    various synthetic lease arrangements. In addition, subject to
+    the restrictions in our existing and any future financings
+    agreements, we may incur additional debt.
+
+
+ 
+
+
+    Our maintenance of higher levels of indebtedness could have
+    adverse consequences including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Adversely affecting our ability to satisfy our obligations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Increasing the portion of our cash flows from operations may
+    have to be dedicated to interest and principal payments and may
+    not be available for operations, working capital, capital
+    expenditures, expansion, acquisitions or general corporate or
+    other purposes;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Impairing our ability to obtain additional financing in the
+    future;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Limiting our flexibility in planning for, or reacting to,
+    changes in our business and industry; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Making us more vulnerable to downturns in our business, our
+    industry or the economy in general.
+
+
+
+
+
+ 
+
+
+    Our ability to meet our expenses and debt obligations will
+    depend on our future performance, which will be affected by
+    financial, business, economic, regulatory and other factors. We
+    will not be able to control many of these factors, such as
+    economic conditions and governmental regulations. Furthermore,
+    our operations may not generate sufficient cash flows from
+    operations to enable us to meet our expenses and service our
+    debt. As a result, we may be required to repatriate funds from
+    our foreign subsidiaries, which could result in a significant
+    tax liability to us. If we are unable to generate sufficient
+    cash flows from operations, or if we are unable to repatriate
+    sufficient or any funds from our foreign subsidiaries, in order
+    to meet our expenses and debt service obligations, we may need
+    to utilize our existing line of credit to obtain the necessary
+    funds, or we may be required to raise additional funds. If we
+    determine it is necessary to seek additional funding for any
+    reason, we may not be able to obtain such funding or, if funding
+    is
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+    available, obtain it on acceptable terms. If we fail to make a
+    payment on our debt, we could be in default on such debt, and
+    this default could cause us to be in default on our other
+    outstanding indebtedness.
+
+
+ 
+
+
+
+    We are
+    subject to restrictive and financial covenants in our credit
+    facility and synthetic lease arrangements. The restrictive
+    covenants may restrict our ability to operate our
+    business.
+
+
+ 
+
+
+    Our access to undrawn amounts under our credit facility and the
+    ongoing extension of credit under our synthetic lease
+    arrangements are subject to continued compliance with financial
+    covenants, which could be more challenging in a difficult
+    operating environment. If we do not comply with these
+    restrictive and financial covenants or otherwise default under
+    the facility or arrangements, we may be required to repay any
+    outstanding amounts under this credit facility or repurchase the
+    properties and facility which are subject to the synthetic lease
+    arrangements. If we lose access to these credit facility and
+    synthetic lease arrangements, we may not be able to obtain
+    alternative financing on acceptable terms, which could limit our
+    operating flexibility.
+
+
+ 
+
+
+    The agreements governing our credit facility and synthetic lease
+    arrangements contain restrictive covenants that limit our
+    ability to operate our business, including restrictions on our
+    ability to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Incur indebtedness;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Incur indebtedness at the subsidiary level;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Grant liens;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Sell all or substantially all our assets:
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Enter into certain mergers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Change our business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Enter into swap agreements;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Enter into transactions with our affiliates; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Enter into certain restrictive agreements.
+
+
+
+
+
+ 
+
+
+    As a result of these restrictive covenants, our ability to
+    respond to changes in business and economic conditions and to
+    obtain additional financing, if needed, may be significantly
+    restricted. We may also be prevented from engaging in
+    transactions that might otherwise be beneficial to us, such as
+    strategic acquisitions or joint ventures.
+
+
+ 
+
+
+    We are also required to comply with financial covenants under
+    our credit facility and synthetic lease arrangements, and our
+    ability to comply with these financial covenants is dependent on
+    our future performance, which will be subject to many factors,
+    some of which are beyond our control, including prevailing
+    economic conditions.
+
+
+ 
+
+
+    Our failure to comply with the restrictive and financial
+    covenants could result in a default under our credit facility
+    and our synthetic lease arrangements, which would give the
+    counterparties thereto the ability to exercise certain rights,
+    including the right to accelerate the amounts owed thereunder
+    and to terminate the arrangement, and could also result in a
+    cross default with respect to our other indebtedness. In
+    addition, our failure to comply with these covenants and the
+    acceleration of amounts owed under our credit facility and
+    synthetic lease arrangements could result in a default under the
+    Notes, which could permit the holders to accelerate the Notes.
+    If all of our debt is accelerated, we may not have sufficient
+    funds available to repay such debt.
+
+
+ 
+
+
+
+    Future
+    issuances of common stock and hedging activities by holders of
+    the Notes may depress the trading price of our common stock and
+    the Notes.
+
+
+ 
+
+
+    Any new issuance of equity securities, including the issuance of
+    shares upon conversion of the Notes, could dilute the interests
+    of our existing stockholders, including holders who receive
+    shares upon conversion of their Notes, and could substantially
+    decrease the trading price of our common stock and the Notes. We
+    may issue equity securities in the future for a number of
+    reasons, including to finance our operations and business
+    strategy (including in connection with acquisitions, strategic
+    collaborations or other transactions), to increase our capital,
+    to adjust our
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+    ratio of debt to equity, to satisfy our obligations upon the
+    exercise of outstanding warrants or options, or for other
+    reasons.
+
+
+ 
+
+
+    In addition, the price of our common stock could also be
+    affected by possible sales of our common stock by investors who
+    view the Notes as a more attractive means of equity
+    participation in our company and by hedging or arbitrage trading
+    activity that we expect to develop involving our common stock by
+    holders of the Notes. The hedging or arbitrage could, in turn,
+    affect the trading price of the Notes, or any common stock that
+    holders receive upon conversion of the Notes.
+
+
+ 
+
+
+
+    Conversion
+    of our Notes will dilute the ownership interest of existing
+    stockholders.
+
+
+ 
+
+
+    The conversion of some or all of our outstanding Notes will
+    dilute the ownership interest of existing stockholders to the
+    extent we deliver common stock upon conversion of the Notes.
+    Upon conversion of a Note, we will satisfy our conversion
+    obligation by delivering cash for the principal amount of the
+    Note and shares of common stock, if any, to the extent the
+    conversion value exceeds the principal amount. There would be no
+    adjustment to the numerator in the net income per common share
+    computation for the cash settled portion of the Notes as that
+    portion of the debt instrument will always be settled in cash.
+    The number of shares delivered upon conversion, if any, will be
+    included in the denominator for the computation of diluted net
+    income per common share. Any sales in the public market of any
+    common stock issuable upon such conversion could adversely
+    affect prevailing market prices of our common stock. In
+    addition, the existence of the Notes may encourage short selling
+    by market participants because the conversion of the Notes could
+    be used to satisfy short positions, or anticipated conversion of
+    the Notes into shares of our common stock could depress the
+    price of our common stock.
+
+
+ 
+
+
+
+    The
+    note hedges and warrant transactions that we entered into in
+    connection with the sale of the Notes may affect the trading
+    price of our common stock.
+
+
+ 
+
+
+    In connection with the issuance of the Notes, we entered into
+    privately negotiated convertible note hedge transactions with
+    certain option counterparties (the “Counterparties”),
+    which are expected to reduce the potential dilution to our
+    common stock upon any conversion of the Notes. At the same time,
+    we also entered into warrant transactions with the
+    Counterparties pursuant to which we may issue shares of our
+    common stock above a certain strike price. In connection with
+    these hedging transactions, the Counterparties may have entered
+    into various over-the-counter derivative transactions with
+    respect to our common stock or purchased shares of our common
+    stock in secondary market transactions at or following the
+    pricing of the Notes. Such activities may have had the effect of
+    increasing the price of our common stock. The Counterparties are
+    likely to modify their hedge positions from time to time prior
+    to conversion or maturity of the Notes by purchasing and selling
+    shares of our common stock or entering into other derivative
+    transactions. Additionally, these transactions may expose us to
+    counterparty credit risk for nonperformance. We manage our
+    exposure to counterparty credit risk through specific minimum
+    credit standards and the diversification of counterparties. The
+    effect, if any, of any of these transactions and activities on
+    the market price of our common stock or the Notes will depend,
+    in part, on market conditions and cannot be ascertained at this
+    time, but any of these activities could adversely affect the
+    value of our common stock. In addition, if our stock price
+    exceeds the strike price for the warrants, there could be
+    additional dilution to our shareholders, which could adversely
+    affect the value of our common stock.
+
+
+ 
+
+
+    Lehman Brothers OTC Derivatives, Inc. (“Lehman OTC”)
+    is the counterparty to 20% of our Note hedges. The bankruptcy
+    filing by Lehman OTC on October 3, 2008 constituted an
+    “event of default” under the hedge transaction that
+    could, at our option, lead to termination under the hedge
+    transaction to the extent we provide notice to Lehman OTC.
+    We have not terminated the Note hedge transaction with Lehman
+    OTC, and will continue to carefully monitor the developments
+    impacting Lehman OTC. This “event of default” is not
+    expected to have an impact on our financial position or results
+    of operations. However, we could incur significant costs if we
+    elect to replace this hedge transaction originally held with
+    Lehman OTC. If we do not elect to replace this hedge
+    transaction, then we would be subject to potential dilution upon
+    conversion of the Notes if on the date of conversion the
+    per-share market price of our common stock exceeds the
+    conversion price of $31.85. The terms of the Notes, the rights
+    of the holders of the Notes and other counterparties to Note
+    hedges and warrants were not affected by the bankruptcy filings
+    of Lehman OTC.
+
+
+
+    
+    25
+
+
+
+Table of Contents
+
+
+
+
+
+    Our
+    synthetic leases are off-balance sheet arrangements that could
+    negatively affect our financial condition and results. We have
+    invested substantial resources in new facilities and physical
+    infrastructure, which will increase our fixed costs. Our
+    operating results could be harmed if our business does not grow
+    proportionately to our increase in fixed costs.
+
+
+ 
+
+
+    We have various synthetic lease arrangements with BNP Paribas
+    Leasing Corporation as lessor (“BBPPLC”) for our
+    headquarters office buildings and land in Sunnyvale, California.
+    On April 1, 2009, we terminated two of the synthetic lease
+    arrangements in an effort to manage our capital structure in
+    light of the current economic environment. The lease payments
+    commitments associated with the remaining arrangements as of the
+    termination date totaled $141.1 million through fiscal
+    2013. These synthetic leases qualify for operating lease
+    accounting treatment under SFAS No. 13,
+    “Accounting for Leases (as amended),” and are not
+    considered variable interest entities under
+    FIN No. 46R “Consolidation of Variable Interest
+    Entities (revised).” Therefore, we do not include the
+    properties or the associated debt on our condensed consolidated
+    balance sheet. However, if circumstances were to change
+    regarding our or BNPPLC’s ownership of the properties, or
+    in BNPPLC’s overall portfolio, we could be required to
+    consolidate the entity, the leased facilities and the associated
+    debt.
+
+
+ 
+
+
+    Our future minimum lease payments under these synthetic leases
+    limit our flexibility in planning for, or reacting to, changes
+    in our business by restricting the funds available for use in
+    addressing such changes. If we are unable to grow our business
+    and revenues proportionately to our increase in fixed costs, our
+    operating results will be harmed. If we elect not to purchase
+    the properties at the end of the lease term, we have guaranteed
+    a minimum residual value to BNPPLC. Therefore, if the fair value
+    of the properties declines below that guaranteed minimum
+    residual value, our residual value guarantee would require us to
+    pay the difference to BNPPLC, which could have a material
+    adverse effect on our cash flows, financial condition and
+    operating results.
+
+
+ 
+
+
+    Reductions in headcount growth have resulted in excess capacity
+    and vacant facilities. In addition, we may experience changes in
+    our operations in the future that could result in additional
+    excess capacity and vacant facilities. We will continue to be
+    responsible for all carrying costs of these facilities’
+    operating leases until such time as we can sublease these
+    facilities or terminate the applicable leases based on the
+    contractual terms of the operating lease agreements, and these
+    costs may have an adverse effect on our business, operating
+    results and financial condition.
+
+
+ 
+
+
+
+    Risks
+    inherent in our international operations could have a material
+    adverse effect on our operating results.
+
+
+ 
+
+
+    We conduct a significant portion of our business outside the
+    United States. A substantial portion of our revenues is derived
+    from sales outside of the U.S. During fiscal 2009 and 2008,
+    our international revenues accounted for 48.5% and 47.1% of our
+    total revenues, respectively. In addition, we have several
+    research and development centers overseas, and a substantial
+    portion of our products are manufactured outside of the
+    U.S. Accordingly, our business and our future operating
+    results could be materially and adversely affected by a variety
+    of factors affecting our international operations, some of which
+    are beyond our control, including regulatory, political, or
+    economic conditions in a specific country or region, trade
+    protection measures and other regulatory requirements,
+    government spending patterns, and acts of terrorism and
+    international conflicts. In addition, we may not be able to
+    maintain or increase international market demand for our
+    products.
+
+
+ 
+
+
+    We face exposure to adverse movements in foreign currency
+    exchange rates as a result of our international operations.
+    These exposures may change over time as business practices
+    evolve, and they could have a material adverse impact on our
+    financial results and cash flows. Our international sales are
+    denominated in U.S. dollars and in foreign currencies. An
+    increase in the value of the U.S. dollar relative to
+    foreign currencies could make our products more expensive and
+    therefore potentially less competitive in foreign markets.
+    Conversely, lowering our price in local currency may result in
+    lower
+    U.S.-based
+    revenue. A decrease in the value of the U.S. dollar
+    relative to foreign currencies could increase the cost of local
+    operating expenses. Additionally, we have exposures to emerging
+    market currencies, which can have extreme currency volatility.
+    We utilize forward and option contracts to hedge our foreign
+    currency exposure associated with certain assets and liabilities
+    as well as anticipated foreign currency cash flows. All balance
+    sheet hedges are marked to market through earnings every
+    quarter. The time-value component of our cash flow hedges is
+    recorded in earnings while all other gains and losses are marked
+    to market through other comprehensive income until forecasted
+    transactions occur, at which time such realized gains and losses
+    are recognized in earnings.
+
+
+
+    
+    26
+
+
+
+Table of Contents
+
+
+
+
+    These hedges attempt to reduce, but do not always entirely
+    eliminate, the impact of currency exchange movements. Factors
+    that could have an impact on the effectiveness of our hedging
+    program include the accuracy of forecasts and the volatility of
+    foreign currency markets as well as widening interest rate
+    differentials and the volatility of the foreign exchange market.
+    There can be no assurance that such hedging strategies will be
+    successful and that currency exchange rate fluctuations will not
+    have a material adverse effect on our operating results.
+
+
+ 
+
+
+    Additional risks inherent in our international business
+    activities generally include, among others, longer accounts
+    receivable payment cycles and difficulties in managing
+    international operations. Such factors could materially and
+    adversely affect our future international sales and consequently
+    our operating results. Our international operations are subject
+    to other risks, including general import/export restrictions and
+    the potential loss of proprietary information due to piracy,
+    misappropriation or laws that may be less protective of our
+    intellectual property rights than U.S. law.
+
+
+ 
+
+
+    Moreover, in many foreign countries, particularly in those with
+    developing economies, it is common to engage in business
+    practices that are prohibited by regulations applicable to us,
+    such as the Foreign Corrupt Practices Act. Although we implement
+    policies and procedures designed to ensure compliance with these
+    laws, our employees, contractors and agents, as well as those
+    companies to which we outsource certain of our business
+    operations, may take actions in violation of our policies. Any
+    such violation, even if prohibited by our policies, could
+    subject us to fines and other penalties, which could have a
+    material adverse effect on our business, financial condition or
+    results of operations.
+
+
+ 
+
+
+
+    We
+    have credit exposure to our hedging
+    counterparties.
+
+
+ 
+
+
+    In order to minimize volatility in earnings associated with
+    fluctuations in the value of foreign currency relative to the
+    U.S. Dollar, we utilize forward and option contracts to
+    hedge our exposure to foreign currencies. As a result of
+    entering into these hedging contracts with major financial
+    institutions, we may be subject to counterparty nonperformance
+    risk. Should there be a counterparty default, we could be
+    exposed to the net losses on the original hedge contracts or be
+    unable to recover anticipated net gains from the transactions.
+
+
+ 
+
+
+
+    A
+    significant portion of our cash and cash equivalents balances is
+    held overseas. If we are not able to generate sufficient cash
+    domestically in order to fund our U.S. operations and strategic
+    opportunities and service our debt, we may incur a significant
+    tax liability in order to repatriate the overseas cash balances,
+    or we may need to raise additional capital in the
+    future.
+
+
+ 
+
+
+    A portion of our earnings which is generated from our
+    international operations is held and invested by certain of our
+    foreign subsidiaries. These amounts are not freely available for
+    dividend repatriation to the United States without triggering
+    significant adverse tax consequences, which could adversely
+    affect our financial results. As a result, unless the cash
+    generated by our domestic operations is sufficient to fund our
+    domestic operations, our broader corporate initiatives such as
+    stock repurchases, acquisitions, and other strategic
+    opportunities, and to service our outstanding indebtedness, we
+    may need to raise additional funds through public or private
+    debt or equity financings, or we may need to expand our existing
+    credit facility to the extent we choose not to repatriate our
+    overseas cash. Such additional financing may not be available on
+    terms favorable to us, or at all, and any new equity financings
+    or offerings would dilute our current stockholders’
+    ownership. Furthermore, lenders, particularly in light of the
+    current challenges in the credit markets, may not agree to
+    extend us new, additional or continuing credit. If adequate
+    funds are not available, or are not available on acceptable
+    terms, we may be forced to repatriate our foreign cash and incur
+    a significant tax expense or we may not be able to take
+    advantage of strategic opportunities, develop new products,
+    respond to competitive pressures or repay our outstanding
+    indebtedness. In any such case, our business, operating results
+    or financial condition could be materially adversely affected.
+
+
+
+    
+    27
+
+
+
+Table of Contents
+
+
+
+
+
+    Changes
+    in our effective tax rate or adverse outcomes resulting from
+    examination of our income tax returns could adversely affect our
+    results.
+
+
+ 
+
+
+    Our effective tax rate could be adversely affected by several
+    factors, many of which are outside of our control, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Earnings being lower than anticipated in countries where we are
+    taxed at lower rates as compared to the U.S. statutory tax
+    rate;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Material differences between forecasted and actual tax rates as
+    a result of a shift in the mix of pretax profits and losses by
+    tax jurisdiction, our ability to use tax credits, or effective
+    tax rates by tax jurisdiction that differ from our estimates;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changing tax laws or related interpretations, accounting
+    standards, regulations, and interpretations in multiple tax
+    jurisdictions in which we operate, as well as the requirements
+    of certain tax rulings;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    An increase in expenses not deductible for tax purposes,
+    including certain stock-based compensation expense, write-offs
+    of acquired in-process research and development, and impairment
+    of goodwill;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    The tax effects of purchase accounting for acquisitions and
+    restructuring charges that may cause fluctuations between
+    reporting periods;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Changes related to our ability to ultimately realize future
+    benefits attributed to our deferred tax assets, including those
+    related to other-than-temporary impairments;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    Tax assessments resulting from income tax audits or any related
+    tax interest or penalties could significantly affect our income
+    tax expense for the period in which the settlements take
+    place; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    A change in our decision to indefinitely reinvest foreign
+    earnings.
+
+
+
+
+
+ 
+
+
+    We receive significant tax benefits from sales to our
+    non-U.S. customers.
+    These benefits are contingent upon existing tax regulations in
+    the United States and in the countries in which our
+    international operations are located. Future changes in domestic
+    or international tax regulations could adversely affect our
+    ability to continue to realize these tax benefits. We have not
+    provided for United States federal and state income taxes or
+    foreign withholding taxes that may result on future remittances
+    of undistributed earnings of foreign subsidiaries. The Obama
+    administration recently announced several proposals to reform
+    United States tax rules, including proposals that may result in
+    a reduction or elimination of the deferral of United States
+    income tax on our future unrepatriated earnings. Absent a
+    restructuring of some legal entities and their functionality,
+    some of the future unrepatriated earnings would be taxed at the
+    United States federal income tax rate.
+
+
+ 
+
+
+    Additionally, the United States Court of Appeals for the Ninth
+    Circuit on May 27, 2009 held in Xilinx Inc. v.
+    Commissioner that stock-based compensation must be included in
+    the research and development cost base of companies that have
+    entered into a cost sharing arrangement and must, therefore, be
+    allocated among the participants based on anticipated benefits.
+    The Court’s reversal of the prior U.S. Tax Court
+    decision will impact our estimate of tax benefits that were
+    required to be recognized under Financial Interpretation
+    No. 48, “Accounting for Uncertainty in Income Taxes-an
+    interpretation of FASB Statement No. 109”
+    (“FIN 48”). We are currently evaluating the
+    impact of the Xilinx case on our provision for income taxes for
+    the first quarter of fiscal 2010, but expect any final
+    adjustment will be limited to a reduction of our unrecognized
+    tax attributes.
+
+
+ 
+
+
+    Our international operations currently benefit from a tax ruling
+    concluded in the Netherlands, which expires in 2010. If we are
+    unable to negotiate a similar tax ruling upon expiration of the
+    current ruling, our effective tax rate could increase and our
+    operating results could be adversely affected. Our effective tax
+    rate could also be adversely affected by different and evolving
+    interpretations of existing law or regulations, which in turn
+    would negatively impact our operating and financial results as a
+    whole. Our effective tax rate could also be adversely affected
+    if there is a change in international operations and how the
+    operations are managed and structured. The price of our common
+    stock could decline to the extent that our financial results are
+    materially affected by an adverse change in our effective tax
+    rate.
+
+
+
+    
+    28
+
+
+
+Table of Contents
+
+
+
+
+    We are currently undergoing federal income tax audits in the
+    United States and several foreign tax jurisdictions. The rights
+    to some of our intellectual property (“IP”) are owned
+    by certain of our foreign subsidiaries, and payments are made
+    between U.S. and foreign tax jurisdictions relating to the
+    use of this IP in a qualified cost sharing arrangement. In
+    recent years, several other U.S. companies have had their
+    foreign IP arrangements challenged as part of IRS examinations,
+    which has resulted in material proposed assessments
+    and/or
+    pending litigation with respect to those companies. During
+    fiscal 2009, we received Notices of Proposed Adjustments from
+    the IRS in connection with federal income tax audits conducted
+    with respect to our fiscal 2003 and 2004 tax years. If the
+    ultimate determination of income taxes assessed under the
+    current IRS audit or under audits being conducted in any of the
+    other tax jurisdictions in which we operate results in an amount
+    in excess of the tax provision we have recorded or reserved for,
+    our operating results, cash flows and financial condition could
+    be adversely affected.
+
+
+ 
+
+
+
+    We may
+    face increased risks and uncertainties related to our current or
+    future investments in nonmarketable securities of private
+    companies, and these investments may not achieve our
+    objectives.
+
+
+ 
+
+
+    On occasion, we make strategic investments in nonmarketable
+    securities of development stage entities. As of April 24,
+    2009, the carrying value of our investments in nonmarketable
+    securities totaled $4.0 million. Investments in
+    nonmarketable securities are inherently risky, and some of these
+    companies are likely to fail. Their success (or lack thereof) is
+    dependent on product development, market acceptance, operational
+    efficiency and other key business success factors. In addition,
+    depending on these companies’ future prospects, they may
+    not be able to raise additional funds when needed, or they may
+    receive lower valuations, with less favorable investment terms
+    than in previous financings, and our investments in them would
+    likely become impaired. We could lose our entire investment in
+    these companies. For example, during fiscal 2009 we determined
+    that our investments in nonmarketable securities of two
+    companies had been impaired, and we recorded impairment charges
+    of $6.3 million.
+
+
+ 
+
+
+
+    If we
+    are unable to establish fair value for any undelivered element
+    of a sales arrangement, all or a portion of the revenue relating
+    to the arrangement could be deferred to future
+    periods.
+
+
+ 
+
+
+    In the course of our sales efforts, we often enter into multiple
+    element arrangements that include our systems and one or more of
+    the following undelivered software-related elements: software
+    entitlements and maintenance, premium hardware maintenance, and
+    storage review services. If we are required to change the
+    pricing of our software related elements through discounting, or
+    otherwise introduce variability in the pricing of such elements,
+    we may be unable to maintain Vendor Specific Objective Evidence
+    of fair value of the undelivered elements of the arrangement,
+    and would therefore be required to delay the recognition of all
+    or a portion of the related arrangement. A delay in the
+    recognition of revenue may cause fluctuations in our financial
+    results and may adversely affect our operating margins.
+
+
+ 
+
+
+
+    Our
+    business could be materially and adversely affected as a result
+    of a natural disaster, terrorist acts or other catastrophic
+    events.
+
+
+ 
+
+
+    We depend on the ability of our personnel, raw materials,
+    equipment and products to move reasonably unimpeded around the
+    world. Any political, military, world health or other issue that
+    hinders this movement or restricts the import or export of
+    materials could lead to significant business disruptions.
+    Furthermore, any strike, economic failure or other material
+    disruption caused by fire, floods, hurricanes, power loss, power
+    shortages, telecommunications failures, break-ins and similar
+    events could also adversely affect our ability to conduct
+    business. If such disruptions result in cancellations of
+    customer orders or contribute to a general decrease in economic
+    activity or corporate spending on information technology, or
+    directly impact our marketing, manufacturing, financial and
+    logistics functions, our results of operations and financial
+    condition could be materially adversely affected. In addition,
+    our headquarters are located in Northern California, an area
+    susceptible to earthquakes. If any significant disaster were to
+    occur, our ability to operate our business could be impaired.
+
+
+ 
+
+
+
+    We
+    depend on attracting and retaining qualified technical and sales
+    personnel. If we are unable to attract and retain such
+    personnel, our operating results could be materially and
+    adversely impacted.
+
+
+ 
+
+
+    Our continued success depends, in part, on our ability to
+    identify, attract, motivate and retain qualified technical and
+    sales personnel. Because our future success is dependent on our
+    ability to continue to enhance and introduce new products, we
+    are particularly dependent on our ability to identify, attract,
+    motivate and retain qualified engineers with the requisite
+    education, background and industry experience. Competition for
+    qualified
+
+
+
+    
+    29
+
+
+
+Table of Contents
+
+
+
+
+    engineers, particularly in Silicon Valley, can be intense. The
+    loss of the services of a significant number of our engineers or
+    salespeople could be disruptive to our development efforts or
+    business relationships and could materially and adversely affect
+    our operating results.
+
+
+ 
+
+
+
+    Undetected
+    software errors, hardware errors, or failures found in new
+    products may result in loss of or delay in market acceptance of
+    our products, which could increase our costs and reduce our
+    revenues. Product quality problems could lead to reduced
+    revenue, gross margins and operating results.
+
+
+ 
+
+
+    Our products may contain undetected software errors, hardware
+    errors or failures when first introduced or as new versions are
+    released. Despite testing by us and by current and potential
+    customers, errors may not be found in new products until after
+    commencement of commercial shipments, resulting in loss of or
+    delay in market acceptance, which could materially and adversely
+    affect our operating results.
+
+
+ 
+
+
+    If we fail to remedy a product defect, we may experience a
+    failure of a product line, temporary or permanent withdrawal
+    from a product or market, damage to our reputation, inventory
+    costs or product reengineering expenses, any of which could have
+    a material impact on our revenue, gross margins and operating
+    results.
+
+
+ 
+
+
+    In addition, we may be subject to losses that may result from or
+    are alleged to result from defects in our products, which could
+    subject us to claims for damages, including consequential
+    damages. Based on our historical experience, we believe that the
+    risk of exposure to product liability claims is low. However,
+    should we experience increased exposure to product liability
+    claims, our business could be adversely impacted.
+
+
+ 
+
+
+
+    We are
+    exposed to various risks related to legal proceedings or claims
+    and protection of intellectual property rights, which could
+    adversely affect our operating results.
+
+
+ 
+
+
+    We are a party to lawsuits in the normal course of our business,
+    including our ongoing litigation with Sun Microsystems.
+    Litigation can be expensive, lengthy and disruptive to normal
+    business operations. Moreover, the results of complex legal
+    proceedings are difficult to predict. An unfavorable resolution
+    of a particular lawsuit could have a material adverse effect on
+    our business, operating results, or financial condition.
+
+
+ 
+
+
+    If we are unable to protect our intellectual property, we may be
+    subject to increased competition that could materially and
+    adversely affect our operating results. Our success depends
+    significantly upon our proprietary technology. We rely on a
+    combination of copyright and trademark laws, trade secrets,
+    confidentiality procedures, contractual provisions, and patents
+    to protect our proprietary rights. We seek to protect our
+    software, documentation and other written materials under trade
+    secret, copyright and patent laws, which afford only limited
+    protection. Some of our U.S. trademarks are registered
+    internationally as well. We will continue to evaluate the
+    registration of additional trademarks as appropriate. We
+    generally enter into confidentiality agreements with our
+    employees and with our resellers, strategic partners and
+    customers. We currently have multiple U.S. and
+    international patent applications pending and multiple
+    U.S. patents issued. The pending applications may not be
+    approved, and our existing and future patents may be challenged.
+    If such challenges are brought, the patents may be invalidated.
+    We may not be able to develop proprietary products or
+    technologies that are patentable, or where any issued patent
+    will provide us with any competitive advantages or will not be
+    challenged by third parties. Further, the patents of others may
+    materially and adversely affect our ability to do business. In
+    addition, a failure to obtain and defend our trademark
+    registrations may impede our marketing and branding efforts and
+    competitive position.
+
+
+ 
+
+
+    Litigation may be necessary to protect our proprietary
+    technology. Any such litigation may be time consuming and
+    costly. Despite our efforts to protect our proprietary rights,
+    unauthorized parties may attempt to copy aspects of our products
+    or obtain and use information that we regard as proprietary. In
+    addition, the laws of some foreign countries do not protect
+    proprietary rights to as great an extent as do the laws of the
+    United States. Our means of protecting our proprietary rights
+    may not be adequate or our competitors may independently develop
+    similar technology, duplicate our products, or design around
+    patents issued to us or other intellectual property rights of
+    ours.
+
+
+ 
+
+
+    We are subject to intellectual property infringement claims. We
+    may, from time to time, receive claims that we are infringing
+    third parties’ intellectual property rights. Third parties
+    may in the future claim infringement by us with respect to
+    current or future products, patents, trademarks or other
+    proprietary rights. We expect that companies in the network
+    storage market will increasingly be subject to infringement
+    claims as the number of products and
+
+
+
+    
+    30
+
+
+
+Table of Contents
+
+
+
+
+    competitors in our industry segment grows and the functionality
+    of products in different industry segments overlaps. Any such
+    claims could be time consuming, result in costly litigation,
+    cause product shipment delays, require us to redesign our
+    products or enter into royalty or licensing agreements, any of
+    which could materially and adversely affect our operating
+    results. Such royalty or licensing agreements, if required, may
+    not be available on terms acceptable to us or at all.
+
+
+ 
+
+
+
+    We are
+    continually seeking ways to make our cost structure more
+    efficient, including moving activities from higher- to
+    lower-cost owned locations, as well as outsourcing certain
+    business process functions. Problems with the execution of these
+    changes could have an adverse effect on our business or results
+    of operations.
+
+
+ 
+
+
+    We continuously seek to make our cost structure more efficient.
+    We are focused on increasing workforce flexibility and
+    scalability, and improving overall competitiveness by leveraging
+    our global capabilities, as well as external talent and skills
+    worldwide. For example, certain engineering activities and
+    projects that were formally performed in the U.S. have been
+    moved to lower cost international locations. The challenges
+    involved with these initiatives include executing business
+    functions in accordance with local laws and other obligations
+    while maintaining adequate standards, controls and procedures.
+
+
+ 
+
+
+    In addition, we will rely on partners or third party service
+    providers for the provision of certain business process
+    functions in IT and accounting, and as a result, we may incur
+    increased business continuity risks. For example, we may no
+    longer be able to exercise control over some aspects of the
+    future development, support or maintenance of outsourced
+    operations and processes, including the internal controls
+    associated with those outsourced business operations and
+    processes, which could adversely affect our business. If we are
+    unable to effectively utilize or integrate and interoperate with
+    external resources or if our partners or third party service
+    providers experience business difficulties or are unable to
+    provide business process services as anticipated, we may need to
+    seek alternative service providers or resume providing these
+    business processes internally, which could be costly and time
+    consuming and have a material adverse effect on our operating
+    results.
+
+
+ 
+
+
+
+    Our
+    business could be materially adversely affected by changes in
+    regulations or standards regarding energy efficiency of our
+    products.
+
+
+ 
+
+
+    We continually seek ways to increase the energy efficiency of
+    our products. Recent analyses have estimated the amount of
+    global carbon emissions that are due to information technology
+    products. As a result, governmental and non-governmental
+    organizations have turned their attention to development of
+    regulations and standards to drive technological improvements
+    and reduce such amount of carbon emissions. There is a risk that
+    the rush to development of these standards will not fully
+    address the complexity of the technology developed by the IT
+    industry or will favor certain technological approaches.
+    Depending on the regulations or standards that are ultimately
+    adopted, compliance could adversely affect our business,
+    financial condition or operating results.
+
+
+ 
+
+
+
+    Our
+    business is subject to increasingly complex corporate
+    governance, public disclosure, accounting and tax requirements
+    that have increased both our costs and the risk of
+    noncompliance.
+
+
+ 
+
+
+    Because our common stock is publicly traded, we are subject to
+    certain rules and regulations of federal, state and financial
+    market exchange entities charged with the protection of
+    investors and the oversight of companies whose securities are
+    publicly traded. These entities, including the Public Company
+    Accounting Oversight Board, the SEC, and NASDAQ, have
+    implemented requirements and regulations and continue developing
+    additional regulations and requirements in response to corporate
+    scandals and laws enacted by Congress, most notably the
+    Sarbanes-Oxley Act of 2002. Our efforts to comply with these
+    regulations have resulted in, and are likely to continue
+    resulting in, increased general and administrative expenses and
+    diversion of management time and attention from
+    revenue-generating activities to compliance activities.
+
+
+ 
+
+
+    We completed our evaluation of our internal controls over
+    financial reporting for the fiscal year ended April 24,
+    2009 as required by Section 404 of the Sarbanes-Oxley Act
+    of 2002. Although our assessment, testing and evaluation
+    resulted in our conclusion that as of April 24, 2009, our
+    internal controls over financial reporting were effective, we
+    cannot predict the outcome of our testing in future periods. If
+    our internal controls are ineffective in future periods, our
+    business and reputation could be harmed. We may incur additional
+    expenses and commitment of
+
+
+
+    
+    31
+
+
+
+Table of Contents
+
+
+
+
+    management’s time in connection with further evaluations,
+    either of which could materially increase our operating expenses
+    and accordingly reduce our operating results.
+
+
+ 
+
+
+    Because new and modified laws, regulations, and standards are
+    subject to varying interpretations in many cases due to their
+    lack of specificity, their application in practice may evolve
+    over time as new guidance is provided by regulatory and
+    governing bodies. This evolution may result in continuing
+    uncertainty regarding compliance matters and additional costs
+    necessitated by ongoing revisions to our disclosure and
+    governance practices.
+
+
+ 
+
+
+
+    Changes
+    in financial accounting standards may cause adverse unexpected
+    fluctuations and affect our reported results of
+    operations.
+
+
+ 
+
+
+    A change in accounting standards or practices and varying
+    interpretations of existing accounting pronouncements, such as
+    the increased use of fair value measures and the potential
+    requirement that U.S. registrants prepare financial
+    statements in accordance with International Financial Reporting
+    Standards (IFRS), could have a significant effect on our
+    reported financial results or the way we conduct our business.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

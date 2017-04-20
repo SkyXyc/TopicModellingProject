@@ -1,0 +1,3967 @@
+Item 1A. Risk Factors” of this Annual Report on
+    Form 10-K.
+    All forward-looking statements are qualified by, and should be
+    read in conjunction, with those risk factors. Forward-looking
+    statements are made in reliance upon the safe harbor provisions
+    of Section 27A of the Securities Act of 1933, as amended,
+    and Section 21E of the Securities Exchange Act of 1934, as
+    amended, and we undertake no obligation, other than imposed by
+    law, to update forward-looking statements to reflect further
+    developments or information obtained after the date of filing of
+    this Annual Report on
+    Form 10-K
+    or, in the case of any document incorporated by reference, the
+    date of that document, and disclaim any obligation to do so.
+
+
+ 
+
+
+
+    PART I
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1.  
+
+    
+    BUSINESS.
+
+
+
+
+
+ 
+
+
+
+    HARRIS
+
+
+
+
+
+    Harris Corporation, together with its subsidiaries, is an
+    international communications and information technology company
+    that applies a solutions approach to serving government and
+    commercial markets in more than 150 countries. Our mission is to
+    be the best-in-class global provider of mission critical
+    assured
+    communications®
+    products, systems and services for global markets, including
+    defense communications and electronics, government
+    communications, broadcast communications and wireless
+    transmission network solutions.
+
+
+ 
+
+
+    Harris was incorporated in Delaware in 1926 as the successor to
+    three companies founded in the 1890s. Our principal executive
+    offices are located at 1025 West NASA Boulevard, Melbourne,
+    Florida 32919, and our telephone number is (321) 727-9100.
+    Our common stock is listed on the New York Stock Exchange under
+    the symbol “HRS.” On August 22, 2008, we employed
+    approximately 16,300 people. Unless the context otherwise
+    requires, the terms “we,” “our,”
+    “us,” “Company” and “Harris” as
+    used in this Annual Report on
+    Form 10-K
+    refer to Harris Corporation and its subsidiaries.
+
+
+ 
+
+
+
+    General
+
+
+
+
+
+    We report our financial results for fiscal 2008 in the following
+    four business segments:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Our Defense Communications and Electronics segment, which was
+    comprised of our (i) RF Communications and
+    (ii) Defense Programs businesses;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Government Communications Systems segment, which was
+    comprised of our (i) Civil Programs, (ii) National
+    Intelligence Programs and (iii) IT Services businesses;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Broadcast Communications segment, which was comprised of our
+    (i) Infrastructure and Networking Solutions,
+    (ii) Media and Workflow and (iii) Television and Radio
+    Transmission Systems businesses; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Harris Stratex Networks, Inc. (“Harris Stratex
+    Networks”) segment (formerly Microwave Communications),
+    which was comprised of our (i) North America Microwave,
+    (ii) International Microwave and (iii) Network
+    Operations businesses.
+
+
+
+
+
+ 
+
+
+    As discussed further in Note 23: Business Segments
+    in the Notes to Consolidated Financial Statements in this
+    Annual Report on Form
+    10-K (the
+    “Notes”), effective for fiscal 2008 (which began
+    June 30, 2007), our Defense Programs business (part of our
+    Government Communications Systems segment for fiscal
+    2007) was combined with our RF Communications business, and
+    the combined business is reported as our Defense Communications
+    and Electronics segment for fiscal 2008. Our Broadcast
+    Communications and Harris Stratex Networks segments
+    did not
+
+
+
+    
+    1
+
+
+
+Table of Contents
+
+
+
+
+    change as a result of these adjustments to our organizational
+    structure. The historical results, discussion and presentation
+    of our business segments as set forth in this Annual Report on
+    Form 10-K
+    reflect the impact of these adjustments to our organizational
+    structure for all periods presented in this Annual Report on
+    Form 10-K.
+    As described in greater detail below under “Item 1.
+    Business — Description of Business by Segment for
+    Fiscal 2008 — Harris Stratex Networks,” in the
+    third quarter of fiscal 2007, we combined our former Microwave
+    Communications Division with Stratex Networks, Inc.
+    (“Stratex”), a publicly-traded provider of high-speed
+    wireless transmission systems, to form a new company named
+    Harris Stratex Networks, Inc. As of June 27, 2008, we owned
+    approximately 56 percent of Harris Stratex Networks’
+    outstanding stock. Following the combination, our business
+    segment formerly referred to as Microwave Communications is
+    referred to as Harris Stratex Networks and includes the results
+    of the combined businesses for periods following the
+    combination. Financial information with respect to all of our
+    other activities, including corporate costs not allocated to the
+    operating segments or discontinued operations, is reported as
+    part of Headquarters Expense or Non-Operating Income (Loss).
+
+
+ 
+
+
+    Each of our business segments has been organized on the basis of
+    specific communications markets. Each business segment has its
+    own marketing, engineering and product service and maintenance
+    organizations. Broadcast Communications and Harris Stratex
+    Networks have their own separate manufacturing operations.
+    Defense Communications and Electronics and Government
+    Communications Systems have both separate and shared
+    manufacturing operations. We manufacture most of the finished
+    products we sell.
+
+
+ 
+
+
+    On August 5, 2008, we announced that we would report our
+    financial results for fiscal 2009 (which began June 28,
+    2008) in the following four business segments:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Our RF Communications segment;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Government Communications Systems segment, which will be
+    comprised of our (i) Defense Programs, (ii) National
+    Intelligence Programs, (iii) Civil Programs and
+    (iv) IT Services businesses;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Broadcast Communications segment, which will be comprised of
+    our (i) Infrastructure and Networking Solutions,
+    (ii) Media and Workflow and (iii) Television and Radio
+    Transmission Systems businesses; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Our Harris Stratex Networks segment, which will be comprised of
+    our (i) North America Microwave, (ii) International
+    Microwave and (iii) Network Operations businesses.
+
+
+
+
+
+ 
+
+
+    Our segment reporting structure for fiscal 2009 reflects that
+    our RF Communications business (part of our Defense
+    Communications and Electronics segment for fiscal
+    2008) will be reported as its own separate segment for
+    fiscal 2009, and that our Defense Programs business (the other
+    part of our Defense Communications and Electronics segment for
+    fiscal 2008) will be reported as part of our Government
+    Communications Systems segment for fiscal 2009, together with
+    that segment’s existing businesses (National Intelligence
+    Programs, Civil Programs and IT Services). Our Broadcast
+    Communications and Harris Stratex Networks segments will not
+    change as a result of the adjustments to our segment reporting
+    structure. These adjustments to our segment reporting take
+    effect in fiscal 2009 and therefore do not affect the historical
+    results, discussion or presentation of our business segments as
+    set forth in this Annual Report on
+    Form 10-K.
+    We will begin to report our financial results consistent with
+    this new segment reporting structure beginning with the first
+    quarter of fiscal 2009 and we will conform our historical
+    segment reporting accordingly.
+
+
+ 
+
+
+    Our total revenue was approximately $5.3 billion in fiscal
+    2008 compared with approximately $4.2 billion in fiscal
+    2007. Total revenue in the United States increased
+    23 percent from fiscal 2007 while international revenue,
+    amounting to 24 percent of our total revenue in fiscal
+    2008, increased 33 percent from fiscal 2007. Our net income
+    was $444.2 million in fiscal 2008 compared with
+    $480.4 million in fiscal 2007.
+
+
+ 
+
+
+
+    Financial
+    Information About Our Business
+    Segments
+
+
+
+
+
+    Financial information with respect to our business segments,
+    including revenue, operating income or loss and total assets,
+    and with respect to our operations outside the United States, is
+    contained in Note 23: Business Segments in the Notes
+    and is incorporated herein by reference.
+
+
+ 
+
+
+
+    Description
+    of Business by Segment for Fiscal
+    2008
+
+
+ 
+
+
+
+    Defense
+    Communications and Electronics
+
+
+
+
+
+    For fiscal 2008, Defense Communications and Electronics was
+    comprised of our RF Communications and Defense Programs
+    businesses. These two businesses have developed significant
+    technology-based capabilities that are directly targeted to a
+    diverse base of U.S. and international defense customers
+    and their continuing needs for more complex, secure
+    communications and information technology networks.
+
+
+
+    
+    2
+
+
+
+Table of Contents
+
+
+
+
+    RF Communications:  We offer to the global
+    tactical radio market a comprehensive line of highly secure
+    software-defined radio products and systems for manpack,
+    handheld, vehicular, strategic fixed-site and shipboard
+    applications, supporting our customers’ critical missions.
+    These radio systems are highly flexible, interoperable and
+    capable of supporting diverse mission requirements. Our
+    Falcon®
+    family of tactical radios includes the Falcon
+    II®
+    secure high-frequency, very high-frequency, ultra high-frequency
+    and multiband handheld, manpack and vehicular radio systems; the
+    Falcon
+    III®
+    multiband, multimode, multimission handheld, manpack, vehicular
+    and high-capacity data radios; and the Secure Personal Radio.
+    These radios are built on a platform that is reprogrammable to
+    add features or software upgrades, addressing the increasing
+    need for an integrated high-frequency, very high-frequency and
+    ultra high-frequency communications system. The platform also
+    provides interconnectivity among land-based and wireless
+    communications media. These radios also have military-strength
+    embedded encryption and can be linked to computers, providing
+    network capabilities on the battlefield. Our Falcon II and
+    Falcon III radios are being installed on new Mine Resistant
+    Ambush Protected (“MRAP”) vehicles for the
+    U.S. Army, Navy, Marine Corps and Air Force. In fiscal
+    2008, we received an order from the U.S. Army to supply
+    Falcon II high-frequency vehicular radio systems for High
+    Mobility Multipurpose Wheeled Vehicles (“HMMWVs”) and
+    other vehicles. We also announced in fiscal 2008 that the
+    U.S. Army is installing Joint Tactical Radio System
+    (“JTRS”)-approved Falcon III handheld radios in
+    Shadow 200 Unmanned Aerial Vehicles (“UAVs”) to serve
+    as critical links in a relay system to extend significantly the
+    communications capabilities of ground forces operating in
+    obstructed line-of-sight environments.
+
+
+ 
+
+
+    The Falcon III is the next-generation family of
+    software-defined tactical radios which have been developed to
+    address the JTRS requirements. Falcon III radios provide
+    multimode capability, including secure, ultra high-frequency
+    ground-to-ground line-of-sight communications, close-air
+    support, and long-range tactical satellite communications, as
+    well as programmable encryption. Falcon III radios offer
+    operational flexibility by addressing a full range of evolving
+    mission requirements, including backwards compatibility and
+    interoperability with legacy systems, such as Single Channel
+    Ground and Airborne Systems (“SINCGARS”), and are
+    software upgradeable to incorporate new waveforms as they are
+    developed. The AN/PRC-152 Falcon III multiband handheld is
+    the first widely fielded tactical radio to be certified without
+    waivers by the Joint Program Executive Office (“JPEO”)
+    as fully compliant with the JTRS Software Communications
+    Architecture (“SCA”). The Falcon III handheld
+    radio also has been certified by the National Security Agency
+    (“NSA”) for the protection of voice and data traffic
+    up through the TOP SECRET/SCI level. In fiscal 2007, we
+    introduced the Falcon III multiband, multimission, manpack
+    tactical radio, which combines traditional multiband radio
+    features with new capabilities such as extended frequency range
+    to 2 gigahertz, commercial L-Band satellite communications
+    (“SATCOM”) and wideband mobile ad hoc networking, and
+    we received certification from the NSA for the Falcon III
+    manpack in fiscal 2008. The Falcon III manpack is the first
+    wideband networking radio to utilize the JTRS SCA and receive
+    NSA Type 1 certification for the protection of voice and data
+    traffic up through the TOP SECRET level. In July 2008, the
+    Falcon III manpack became the first manpack radio with
+    wideband networking capability to be certified as SCA-compliant
+    by the JTRS JPEO. In fiscal 2007, we also introduced the very
+    small Secure Personal Radio that delivers secure, tactical
+    digital communications to individual soldiers, and a
+    high-capacity, line-of-site (“HCLOS”) data radio. The
+    HCLOS data radio is a lightweight broadband Ethernet system that
+    can securely transmit encrypted Internet Protocol
+    (“IP”) traffic over distances greater than
+    50 kilometers under clear line-of-sight conditions in fixed
+    point-to-point and 20 kilometers in point-to-multipoint
+    configurations, and can support throughput in excess of 80
+    megabits per second in a military application of
+    802.16 WiMax technology for high-speed IP data
+    communications, providing ground troops the ability to send
+    secure, high-bandwidth data between command posts and
+    forward-operating bases.
+
+
+ 
+
+
+    We are a leader in multiband frequency radios, which allow
+    operators to perform multiple functions on different frequency
+    bands, eliminating the need and inconvenience of carrying
+    multiple radios. This capability has become increasingly
+    important to global military and peacekeeping forces as they
+    upgrade communications for joint missions. This capability is
+    also important for different Federal, state and local
+    authorities confronting difficulty in communicating directly
+    with one another during emergency operations, due to the large
+    number of frequency bands and technologies used in today’s
+    two-way land mobile radio communications systems, without
+    relying on additional infrastructure or radio gateway equipment.
+    Introduced in fiscal 2008, our new RF-1033M Multiband Multimode
+    Land Mobile Radio delivers true real-time interoperable
+    communications to address this difficulty by providing direct,
+    secure multi-agency communications across multiple frequency
+    bands (very high-frequency and ultra
+    high-frequency
+    bands) in a single portable radio for the growing public safety,
+    homeland security and first responder markets. The RF-1033M
+    Multiband Multimode Land Mobile Radio is a rugged,
+    mission-critical communications platform for joint operations,
+    built to the same standards as our proven military tactical
+    radio products, and features true software-defined radio
+    architecture, which provides flexibility and capacity for future
+    growth while protecting our customers’ investments with
+    software-enabled technology migrations. In July 2008, we
+    introduced the
+    Unitytm
+    XG-100 land
+    mobile radio, the newest product in a family of multiband
+    software-defined radios that will give
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+    Federal, state and local public safety responders the ability to
+    communicate using a single radio across multiple frequencies
+    with virtually any agency responding to an emergency. The Unity
+    XG-100 expands on the capabilities of the RF-1033M and extends
+    the covered frequency range to include the 700/800 megahertz
+    bands.
+
+
+ 
+
+
+    We also develop cryptographic solutions for markets with
+    demanding communications security requirements, utilizing
+    security algorithms that meet a wide range of applications
+    and/or
+    country needs to address unique privacy requirements of
+    customers (whether a government agency or supplier or a
+    commercial manufacturer) and providing NSA-certified products
+    and systems that range from single integrated circuits to major
+    communications systems. Our
+    Sierratm
+    II cryptographic subsystem is a miniaturized programmable module
+    that can be integrated into radios and other voice and data
+    communications devices to encrypt classified information prior
+    to transmission and storage. Our encryption modules currently
+    meet or exceed the highest security standards established by the
+    U.S. Government. Sierra II can be used for tactical
+    radios, wireless local area networks (“WLANs”), remote
+    sensors, guided munitions and UAVs. We also offer the
+    Citadel®
+    cryptographic engine, which provides military-grade,
+    Type IV encryption, enabling low-cost, exportable
+    encryption for our family of Falcon II radios. Our secure
+    WLAN (“SWLAN”) solution, SecNet
+    11®
+    Plus, is certified by the NSA’s Commercial COMSEC
+    Endorsement Program (“CCEP”) and enables military and
+    government users to communicate multimedia information,
+    including data, voice and video, through a secure wireless
+    network at 11 megabits per second. Our SecNet
+    54tm
+    family of IP communications encryption products, designed to
+    keep data, voice and video communications secure, is comprised
+    of a modular architecture that includes a cryptographic module
+    that provides all security-critical functions and companion
+    modules that provide both wired and wireless communications of
+    encrypted data over specific protocols. In fiscal 2007, we
+    received Type 1 certification from the NSA for the SecNet 54
+    SWLAN product line, which enables very high data rate
+    transmission of sensitive defense communications over wireless
+    infrastructures in applications such as tactical operations
+    centers. In fiscal 2008, we received certification of the SecNet
+    54 Ethernet module (“EMOD”) which enables secure
+    transmission of sensitive communications over wired Ethernet
+    connections.
+
+
+ 
+
+
+    We also provide unmanned ground sensor systems, which are a
+    force-multiplier solution with a network of easily deployable,
+    remotely located products that detect movement of personnel and
+    vehicles. Our Falcon
+    Watchtm
+    remote intrusion detection and surveillance systems are fully
+    integrated with our Falcon radios and are designed for
+    surveillance and monitoring of high-value assets such as troop
+    encampments, airfields, base installations, supply routes and
+    depots. In larger networks these systems also can be used to
+    monitor and protect national borders, regional boundaries and
+    assets in homeland defense and peacekeeping operations. These
+    sensor systems can be comprised of remote, battery-operated,
+    wireless sensors using seismic, magnetic
+    and/or
+    passive infra-red detectors; relays; Falcon tactical radios; and
+    sensor management application software.
+
+
+ 
+
+
+    Global market demand for our advanced tactical radio solutions
+    continued to increase at strong growth rates in fiscal 2008,
+    driving positive results for this segment. Deployment of
+    advanced communications capabilities continues to be a top
+    priority in the U.S. and globally, driven by modernization
+    programs, force expansion, force restructuring and modularity,
+    interoperability required in the growing number of NATO-led
+    peacekeeping and disaster-relief missions, and the increasing
+    desire for network-centric communications that will
+    significantly improve situational awareness and force
+    effectiveness through communications superiority. In fiscal
+    2008, we responded to requirements for our Falcon family of
+    radios from a broad base of U.S. Government customers,
+    including the U.S. Army, Marine Corps, Navy and Air Force.
+    Internationally, our radios are the standard of NATO and
+    Partnership for Peace countries. In fiscal 2008, we received
+    orders from,
+    and/or made
+    deliveries to, a wide range of international customers in
+    countries including Albania, Algeria, Armenia, Brunei, Bulgaria,
+    Chad, Denmark, Estonia, Ethiopia, Georgia, Iraq, Jamaica,
+    Kazakhstan, Kenya, Malaysia, Norway, Pakistan, the Philippines,
+    the Republic of Niger, Romania, Saudi Arabia, Singapore, Spain,
+    Tajikistan, Thailand, the United Arab Emirates and the United
+    Kingdom.
+
+
+ 
+
+
+    In May 2007, we were awarded an Indefinite Delivery, Indefinite
+    Quantity (“IDIQ”) contract with a maximum value of
+    $422 million from the U.S. Army for Falcon II
+    high-frequency manpack tactical radios and related vehicular and
+    base station systems. We received an initial $104 million
+    order against the contract in the fourth quarter of fiscal 2007.
+    In June 2007, we were awarded the Consolidated Interim Single
+    Channel Handheld Radio (“CISCHR”) IDIQ contract by the
+    JTRS JPEO to supply the U.S. Department of Defense
+    (“DoD”) with JTRS-approved Falcon III multiband
+    handheld tactical radios and vehicular systems. The CISCHR
+    contract has a one-year maximum value of $2.7 billion and a
+    five-year maximum value of approximately $7 billion
+    (including additional options that may be exercised over a
+    five-year period). Under the CISCHR contract, orders are awarded
+    based on competitive bidding between us and another supplier,
+    and we received orders under the CISCHR contract in fiscal 2008
+    for the U.S. Marine Corps and Air Force. In fiscal 2008, we
+    also received orders under the $212 million Tactical
+    Handheld Radio (“THHR”) IDIQ contract awarded in July
+    2007 by the U.S. Marine Corps to support MRAP and other
+    tactical vehicles. In June 2008, we were awarded
+    $118 million in orders to supply the U.S. Marine Corps
+    with Falcon II multiband manpack radios under a new
+    $350 million IDIQ contract that is part of the Marine
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+    Corps’ Strategic Radio Plan, which will transition the
+    Marine Corps from legacy single-band radios to multiband,
+    multimission software-defined radios.
+
+
+ 
+
+
+    Defense Programs:  We develop, supply and
+    integrate communications and information processing products,
+    systems and networks for diverse aerospace, terrestrial and
+    maritime applications, in support of the ongoing transformation
+    of communications for U.S. and international customers to
+    network-centric architectures that support real-time situational
+    awareness in combat conditions. Our technologies are providing
+    advanced battlespace networking capabilities to assure timely
+    and secure network-centric capabilities across strategic,
+    operational and tactical boundaries in support of the DoD’s
+    full spectrum of war fighting, intelligence and business
+    missions. Our major technology areas include satellite
+    communications terminals for mobile ground, fixed-site and
+    shipboard applications; large, deployable satellite antenna
+    reflectors; flat-panel, phased-array and single-mission
+    antennas; aviation electronics for military jets and
+    helicopters, including radios, digital maps, modems, sensors,
+    data buses, fiber optics and microelectronics; and high-speed
+    data links and data networks for wireless communications and
+    smart weapons. For example, our high-speed digital Common Data
+    Link (“CDL”) system called Hawklink, which is designed
+    for the U.S. Navy’s Light Airborne Multi-Purpose
+    System (“LAMPS”) helicopters, transmits tactical
+    video, radar, acoustic and other sensor data from the
+    helicopters to their host surface ships at distances greater
+    than 100 nautical miles and at data rates exceeding 21 megabits
+    per second.
+
+
+ 
+
+
+    We also provide high-speed secure wireless network solutions and
+    phased-array capabilities for wireless transmission systems and
+    are developing network-centric communications system
+    architectures and technologies that will link sensors,
+    platforms, weapons and soldiers using open architectures and
+    mobile ad hoc networking capabilities. Our mobile ad hoc
+    networking capability allows the military to take its
+    communications infrastructure with it, creating mobile,
+    self-forming and self-healing communications links across the
+    battlefield. For example, our Highband Networking Radio
+    (“HNR”), released in fiscal 2007, provides the
+    military with fully mobile, wireless, long-range, high-bandwidth
+    communications on-the-move by establishing line-of-sight
+    connectivity between users of widely dispersed local area
+    networks (“LANs”) using a Harris-developed waveform
+    that automatically selects the best communications path
+    available.
+
+
+ 
+
+
+    Major ongoing previously awarded programs include the F-35 Joint
+    Strike Fighter, F-22 Raptor and F/A-18E/F Super Hornet aircraft
+    platform programs, for which we provide high-performance,
+    advanced avionics such as high-speed fiber optic networking and
+    switching, intra-flight data links, image processing, digital
+    map software and other electronic components; the Warfighter
+    Information Network-Tactical (“WIN-T”) program for the
+    U.S. Army, for which we are designing and testing the
+    wireless transmission system architecture, applying our proven
+    enabling technologies for wireless on-the-move communications,
+    including phased arrays and high-speed secure wireless network
+    solutions; the JTRS Ground Mobile Radio (“GMR”)
+    program, for which we design, test and integrate the crypto
+    subsystem, ground vehicle adaptor, ground vehicle adaptor mount,
+    high-frequency power amplifier and high-frequency coupler; the
+    Multifunctional Information Distribution System
+    (“MIDS”) terminals program for DoD aircraft, which
+    provides U.S. military forces with secure, jam-resistant,
+    digital tactical communications; the Multiple Launch Rocket
+    System (“MLRS”) Improved Fire Control System
+    (“IFCS”) program for the U.S. Army, for which we
+    provide the launcher interface unit, power switching unit and
+    weapon interface unit; the Large Aperture Multiband Deployable
+    Antenna (“LAMDA”) program, for which we provide
+    rugged, highly-mobile, user-friendly,
+    large-aperture
+    tactical antennas supporting tri-band operations by utilizing
+    interchangeable antenna feeds that can be rapidly installed by
+    operators in the field; the CDL Hawklink program for
+    U.S. Navy LAMPS helicopters, for which we are performing
+    pre-production and testing of the Ku-band tactical CDL; the
+    Multiband Shipboard Satellite Communications Terminal
+    (“MSSCT”) program for the U.S. Navy, for which we
+    are providing wideband satellite communications terminal
+    systems; the Global Positioning System Next Generation Ground
+    Control Segment (“OCX”) program, for which we provide
+    design and engineering services for hardware, software and
+    network infrastructure, including advanced ground antennas,
+    advanced monitoring stations and interfaces to existing ground
+    antennas; and the Lightweight Multiband Satellite Terminal
+    (“LMST”) program for the U.S. Marine Corps, for
+    which we provide mobile satellite communications terminals.
+
+
+ 
+
+
+    Significant new contract awards during fiscal 2008 included a
+    five-year IDIQ contract, potentially worth $85 million, for
+    the U.S. Navy’s Commercial Broadband Satellite Program
+    (“CBSP”) Force Level Variant, for which we
+    supply, for aircraft carriers and amphibious assault ships,
+    broadband multiband satellite communications terminals that
+    support essential mission requirements and provide high-speed
+    Internet access for as many as 5,000 military personnel onboard
+    each aircraft carrier; and a five-year IDIQ contract,
+    potentially worth $77 million, for the
+    U.S. Navy’s CBSP Unit Level Variant, for which we
+    supply, for frigates, cruisers and destroyers, broadband
+    multiband satellite communications terminals that provide
+    enhanced morale-related communications services such as
+    high-speed Internet access and video communications.
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+    Revenue and Backlog:  Revenue for the Defense
+    Communications and Electronics segment increased 19 percent
+    to $1,975 million in fiscal 2008 compared with
+    $1,661 million in fiscal 2007, and was $1,293 million
+    in fiscal 2006. Segment operating income increased
+    23 percent to $599.8 million in fiscal 2008 compared
+    with $487.1 million in fiscal 2007, and was
+    $354.1 million in fiscal 2006. The Defense Communications
+    and Electronics segment contributed 37 percent of our total
+    revenue in fiscal 2008 compared with 39 percent in fiscal
+    2007 and 37 percent in fiscal 2006. The percentage of this
+    segment’s revenue that was derived outside of the United
+    States was approximately 21 percent in fiscal 2008 compared
+    with 21 percent in fiscal 2007 and 24 percent in
+    fiscal 2006. U.S. Government customers, whether directly or
+    through prime contractors, accounted for approximately
+    86 percent of this segment’s total revenue in fiscal
+    2008 compared with approximately 83 percent in fiscal 2007
+    and in fiscal 2006. For a general description of our
+    U.S. Government contracts and subcontracts, including a
+    discussion of revenue generated from cost-reimbursement versus
+    fixed-price contracts, see “Item 1.
+    Business — Principal Customers; Government
+    Contracts” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+    In general, this segment’s domestic products are sold and
+    serviced directly to customers through its sales organization
+    and through established distribution channels. Internationally,
+    this segment markets and sells its products and services through
+    regional sales offices and established distribution channels.
+    See “Item 1. Business — International
+    Business” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+    The funded backlog of unfilled orders for this segment was
+    $1,160 million at July 25, 2008 compared with
+    $1,016 million at July 27, 2007 and $933 million
+    at July 28, 2006. We expect to fill approximately
+    90 percent of this funded backlog during fiscal 2009, but
+    we can give no assurance of such fulfillment. Unfunded backlog
+    for this segment was $223 million at July 25, 2008
+    compared with $148 million at July 27, 2007 and
+    $278 million at July 28, 2006. Additional information
+    regarding this segment’s funded and unfunded backlog is
+    provided under “Item 1. Business — Funded
+    and Unfunded Backlog” of this Annual Report on
+    Form 10-K.
+    For a discussion of certain risks affecting this segment,
+    including risks relating to our U.S. Government contracts
+    and subcontracts, see “Item 1. Business —
+    Principal Customers; Government Contracts,”
+    “Item 1A. Risk Factors” and “Item 3.
+    Legal Proceedings” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Government
+    Communications Systems
+
+
+
+
+
+    In fiscal 2008, Government Communications Systems was comprised
+    of our Civil Programs, National Intelligence Programs and IT
+    Services businesses.
+
+
+ 
+
+
+    Civil Programs:  Serving primarily
+    U.S. Government civilian agencies, including the Federal
+    Aviation Administration (“FAA”), Census Bureau,
+    National Oceanic and Atmospheric Administration
+    (“NOAA”), Department of Homeland Security
+    (“DHS”) and Government Printing Office
+    (“GPO”), we use our ability to implement and manage
+    large, complex programs that integrate secure, advanced
+    communications and information processing technologies in order
+    to provide precise, highly reliable, secure high-speed
+    communications and information networks that improve
+    productivity and information processing for our customers. Our
+    networks and information systems for large-scale,
+    geographically-dispersed enterprises offer advanced capabilities
+    for collecting, processing, analyzing, interpreting, displaying,
+    distributing, storing and retrieving data. Our custom networks,
+    systems and solutions include meteorological data processing
+    systems; electronic archival systems; graphic information
+    systems; telecommunications services systems; maritime
+    communications systems, including worldwide turnkey broadband
+    satellite and terrestrial network systems and managed services
+    for the maritime community, remote land-based installations and
+    autonomous (buoy) systems; and healthcare IT enterprise
+    intelligence solutions and services, including systems
+    integration and collaboration, intelligent infrastructure,
+    advanced visualization and display, and enterprise digital
+    content management.
+
+
+ 
+
+
+    For example, we are the prime contractor on the 15-year,
+    $2.2 billion contract for the FAA Telecommunications
+    Infrastructure (“FTI”) program to integrate and
+    modernize the U.S. air traffic control system and
+    infrastructure. FTI is a modern, secure and efficient network
+    that is providing voice, data and radar communications to 50,000
+    FAA employees at more than 4,000 FAA sites across the U.S.,
+    while reducing operating costs, enhancing network efficiency,
+    reliability and security and improving service. We designed and
+    deployed the new FTI network, have successfully transitioned
+    more than 90 percent of the FAA’s legacy networks to
+    the new FTI network, and are providing on-going mission
+    operations and support services. We are also working with the
+    FAA on other programs, including the Voice Switching and Control
+    System (“VSCS”) program that allows air traffic
+    controllers to establish critical ground-to-air and
+    ground-to-ground communications links with pilots and other air
+    traffic controllers, respectively; the Weather and Radar
+    Processor (“WARP”) program that provides air traffic
+    controllers with high-resolution graphical displays of
+    integrated real-time next generation weather radar data; and the
+    Operational and Supportability Implementation System
+    (“OASIS”) program that provides integrated real-time
+    weather and flight planning data for preflight weather briefings
+    and in-flight updates.
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+    We are also the prime contractor to the U.S. Census Bureau
+    on two of its major programs. Under the Master Address
+    File/Topologically Integrated Geographic Encoding and
+    Referencing Accuracy Improvement Project (“MTAIP”), we
+    have modernized two key census databases containing
+    175 million addresses for all U.S. residences and
+    businesses and a database linking U.S. streets, rivers,
+    railroads and other geographic features to Global Positioning
+    System (“GPS”) coordinates. For the Field Data
+    Collection Automation (“FDCA”) program awarded to us
+    during fiscal 2006, we are integrating multiple automated
+    systems and have developed a new wireless handheld device with
+    integrated GPS and secure communication capabilities that
+    together are designed to enable census takers to input data in
+    real time and securely transmit the information back to the
+    Census Bureau in support of the 2010 census.
+
+
+ 
+
+
+    We are also working with the GPO on its digital catalog database
+    conversion project to develop its Federal Digital System, an IT
+    system in which content — text, graphics, video, audio
+    and other formats — will be entered, authenticated,
+    and catalogued according to GPO-selected metadata and standards,
+    in order to digitally preserve and make publicly accessible in a
+    one-stop online site a vast quantity of Federal documents and
+    information from all three branches of the U.S. Government.
+
+
+ 
+
+
+    In a new market for us — healthcare IT
+    solutions — the Department of Health and Human
+    Services (“HHS”) awarded us a $6 million contract
+    in the third quarter of fiscal 2008 to develop and integrate an
+    open-source National Health Information Exchange Gateway
+    solution that will enable Federal healthcare agencies and
+    healthcare providers to share patient information more quickly
+    and easily, improving the quality of care and reducing costs. In
+    the fourth quarter of fiscal 2008, we were selected for award of
+    a seven-year contract, potentially worth $58 million, to provide
+    the communications/navigation system for the next-generation
+    space suit supporting the National Aeronautics and Space
+    Administration (“NASA”) Constellation program.
+
+
+ 
+
+
+    National Intelligence Programs:  A significant
+    portion of this business involves classified programs. While
+    classified programs generally are not discussed in this Annual
+    Report on
+    Form 10-K,
+    the operating results relating to classified programs are
+    included in our consolidated financial statements. We believe
+    that the business risks associated with such programs do not
+    differ materially from those of other U.S. Government
+    programs.
+
+
+ 
+
+
+    Serving primarily national intelligence and security agency
+    customers, including NSA, the National Reconnaissance Office
+    (“NRO”) and the National Geospatial-Intelligence
+    Agency (“NGA”), we provide integrated intelligence,
+    surveillance and reconnaissance (“ISR”) solutions that
+    improve situational awareness, data collection accuracy and
+    product analysis by correlating near real-time mission data and
+    intelligence reference data for display and analysis by
+    strategic and tactical planners and decision makers. Our ISR
+    systems help to integrate information across the analyst
+    workflow, accelerating the movement of information that has been
+    collected and processed. We strive to produce innovative and
+    cost-effective ISR solutions that provide our customers with
+    information dominance for battle-space superiority.
+
+
+ 
+
+
+    For example, our image processing capabilities extend from
+    algorithm development through delivery of operations systems,
+    and we are providing advanced image exploitation and
+    dissemination solutions for ISR applications by advancing image
+    processing, image data fusion, display technologies and digital
+    product generation techniques. These technologies range from new
+    techniques for merging and displaying imagery to automated
+    techniques for image screening, cueing and remote visualization.
+    Also, our mapping and visualization capabilities provide
+    complete, accurate and timely knowledge about the threat, the
+    terrain, the status and the location of single or multiple foe
+    and friendly forces and their support by utilizing data,
+    pictures, voice and video drawn from vast storage banks or from
+    real-time input which can be transmitted around the world in
+    fractions of a second. In addition, we have industry-leading
+    capabilities in the architecture, design and development of
+    highly-specialized satellite antennas, structures, phased arrays
+    and on-board processors, which are used to enable
+    next-generation satellite systems to provide the
+    U.S. military and intelligence communities with strategic
+    and tactical advantage. We are also a leader in the design and
+    development of antenna and reflector technologies for commercial
+    space telecommunications applications. Further, our wireless
+    products capabilities include developing and supplying
+    state-of-the-art
+    wireless surveillance and tracking equipment to the U.S.
+    Government and law enforcement communities for vehicular,
+    man-portable, airborne, remote/unattended and system-level
+    solutions for both passive and active missions.
+
+
+ 
+
+
+    During fiscal 2008, we were awarded several new classified
+    programs and follow-on contracts. During fiscal 2008, we also
+    were awarded several non-classified contracts. We were awarded a
+    two-year contract in the third quarter of fiscal 2008 to provide
+    satellite reflector antennas for the Sirius Satellite Radio FM 6
+    satellite expected to be launched in the fourth quarter of
+    calendar 2010. In the fourth quarter of fiscal 2008, we were
+    awarded a ten-year contract (one base year with nine option
+    years) valued at more than $40 million to supply support
+    and engineering services for multiple space-related ground
+    systems for a U.S. Air Force base. Ongoing previously
+    awarded programs
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+    include a contract with Space Systems/Loral to design and
+    construct unfurlable mesh reflectors for commercial satellites;
+    a contract to develop mission management software for security
+    analysts; and a contract under the Global Geospatial
+    Intelligence program to provide imagery intelligence and
+    photogrammetry, mapping and charting information, and
+    three-dimensional high-resolution image models of harbors,
+    cities, airfields and other terrain.
+
+
+ 
+
+
+    IT Services:  We provide IT and communications
+    services, products, enterprise solutions and advanced systems to
+    U.S. Government defense, intelligence, homeland security
+    and civil customers; state and local governments; and healthcare
+    organizations and institutions. We significantly expanded our IT
+    Services business area through our acquisition of Multimax
+    Incorporated (“Multimax”) in the fourth quarter of
+    fiscal 2007, broadening our customer base and providing new
+    growth opportunities through Multimax’s key positions on
+    major contracts such as the Navy/Marine Corps Intranet
+    (“NMCI”) program and certain Government-Wide
+    Acquisition Contracts (“GWACs”), including Network
+    Centric Solutions (“NETCENTS”), EAGLE, ITES-2S and
+    FirstSource, which are IT procurement vehicles broadly
+    accessible to U.S. Government agencies. With approximately
+    3,000 professionals currently operating at locations worldwide,
+    we support large-scale, mission-critical networks with technical
+    expertise and strong customer commitment through the full
+    technology lifecycle, including network design, deployment,
+    operations and ongoing support. Our services include IT
+    outsourcing (data entry, network administration, system
+    operations and maintenance, and procurement and logistics
+    support); enterprise management (systems engineering and
+    integration, network design, capacity expansions and information
+    assurance and security); and enterprise-wide IT planning and
+    architecture services. We also offer customized IT support,
+    operations and management services that reflect rigorous
+    service-level requirements and performance-based incentives and
+    disincentives, allowing public-sector organizations to focus on
+    their core mission responsibilities while maximizing the return
+    on their IT and communications infrastructure investments. In
+    addition, we develop products and technologies that support
+    advanced, network-centric communications, including the
+    OS/COMET®
+    satellite telemetry tracking and control software that is the
+    command and control product of choice for
+    Iridium®,
+    GPS, multiple government geosynchronous (“GEO”) and
+    Low Earth Orbit (“LEO”) satellites.
+
+
+ 
+
+
+    As examples, we are a Tier One subcontractor on the NMCI
+    program, the largest IT outsourcing contract ever issued by the
+    U.S. Government, which will eventually provide voice, data
+    and video communications to more than 500,000 Navy and Marine
+    Corps users. We provide operations, maintenance and support
+    services for NRO’s global communications and information
+    systems network (the “Patriot” program) in space and
+    on the ground under a ten-year contract, potentially worth
+    $1 billion, in support of NRO’s global analyst
+    community. We provide technical support services and IT systems
+    and service modernization in support of more than 230
+    U.S. embassies and consulates around the world under a
+    contract awarded by the U.S. Department of State, Bureau of
+    Consular Affairs (the “State 6” program). We provide
+    system maintenance and engineering for the Defense Information
+    Systems Agency’s (“DISA”) Crisis Management
+    System, and we staff the U.S. Postal Service Maintenance
+    Technical Support Center in Oklahoma. We are also making it
+    easier for DHS to purchase IT products through the FirstSource
+    GWAC vehicle.
+
+
+ 
+
+
+    Additionally, we operate and maintain the communications
+    functions for the U.S. Air Force
+    50th Space
+    Wing’s Satellite Control Network (“AFSCN”), a
+    global, continuously operational network of ground stations,
+    operational control nodes and communications links that support
+    launch and command and control of various space programs managed
+    by the DoD and other national security space organizations. The
+    AFSCN is responsible for providing readiness, launch, early
+    orbit/on-orbit support, and anomaly resolution for a variety of
+    military satellite constellations, including more than 140
+    deployed satellites and other space vehicles such as ballistic
+    missiles and the space shuttle. In calendar 2000, we were
+    awarded a contract under the Operational Space Services and
+    Support (“OSSS”) program, for which we have been
+    providing operations, maintenance and support services to the
+    AFSCN and GPS ground networks, including organizational level
+    maintenance at all ground stations assigned to the AFSCN and GPS
+    networks. In calendar 2002, we were awarded a contract under the
+    Mission Communications Operations and Maintenance
+    (“MCOM”) program, for which we have been providing
+    operations and maintenance services for the AFSCN’s
+    communications functions at Schriever AFB in Colorado and
+    Onizuka AFS in California. In January 2008, we were awarded a
+    6.5-year contract, which could be worth as much as
+    $410 million, under the Network and Space Operations and
+    Maintenance (“NSOM”) program with the U.S. Air
+    Force
+    50th Space
+    Wing in Colorado Springs to provide operations and maintenance
+    support to the AFSCN at locations around the world. The NSOM
+    program includes a majority of the OSSS and MCOM programs and
+    supersedes those programs.
+
+
+ 
+
+
+    During the first quarter of fiscal 2008, we were among a number
+    of companies awarded the five-year ALLIANT GWAC by the General
+    Services Administration (“GSA”), which allows us to
+    provide integrated IT product and service solutions to support a
+    number of U.S. Government agencies. We received a
+    six-month, $22 million follow-on order in the third quarter
+    of fiscal 2008 from the Department of State to modernize IT
+    architecture for the Bureau of Consular Affairs. In the fourth
+    quarter of fiscal 2008, we were awarded a three-year,
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+    $20 million IT services contract for a next-generation
+    Tactical Video Capture System (“TVCS”) that will
+    support training at various U.S. Marine Corps locations
+    across the U.S. and abroad, and we were also awarded our
+    second contract for healthcare IT solutions, a new market for
+    us. This is a $12 million contract for the U.S. Army
+    Dental Command Information Management & Technology
+    Division, for which we will provide local operations and support
+    to the U.S. Army Dental Command at Ft. Sam Houston,
+    Texas and other Army dental clinics at locations around the
+    world.
+
+
+ 
+
+
+    Revenue and Backlog:  Revenue for the
+    Government Communications Systems segment increased
+    32 percent to $2,000 million in fiscal 2008 compared
+    with $1,513 million in fiscal 2007, and was
+    $1,328 million in fiscal 2006. Segment operating income
+    increased 7 percent to $149.8 million in fiscal 2008
+    compared with $140.0 million in fiscal 2007, and was
+    $141.4 million in fiscal 2006. This segment contributed
+    38 percent of our total revenue in fiscal 2008 compared
+    with 36 percent in fiscal 2007 and 38 percent in
+    fiscal 2006. In fiscal 2008, approximately 12 percent of
+    the revenue for this segment was under contracts with prime
+    contractors and approximately 88 percent was under direct
+    contracts with customers, compared with approximately
+    19 percent of revenue under contracts with prime
+    contractors and approximately 81 percent of revenue under
+    direct contracts with customers in fiscal 2007. Some of this
+    segment’s more significant programs in fiscal 2008 included
+    the FTI program, the FDCA program, the Patriot program, the
+    NETCENTS program, the NMCI program and various classified
+    programs. The largest program by revenue represented
+    approximately 11 percent of this segment’s revenue in
+    fiscal 2008, compared with approximately 16 percent in
+    fiscal 2007. The 10 largest programs by revenue represented
+    approximately 55 percent of this segment’s revenue in
+    fiscal 2008, approximately 50 percent in fiscal 2007 and
+    approximately 46 percent in fiscal 2006. In fiscal 2008,
+    this segment had a diverse portfolio of over 250 programs.
+    Historically, this diversity has provided a stable backlog and
+    reduced potential risks that come from reductions in funding or
+    changes in customer priorities. In fiscal 2008,
+    U.S. Government customers, whether directly or through
+    prime contractors, accounted for approximately 96 percent
+    of this segment’s total revenue compared with approximately
+    93 percent in fiscal 2007 and fiscal 2006, with the FAA
+    accounting for 15 percent of this segment’s fiscal
+    2008 revenue. For a general description of our
+    U.S. Government contracts and subcontracts, including a
+    discussion of revenue generated from cost-reimbursement versus
+    fixed-price contracts, see “Item 1.
+    Business — Principal Customers; Government
+    Contracts” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+    The funded backlog of unfilled orders for this segment was
+    $111 million at July 25, 2008 compared with
+    $153 million at July 27, 2007 and $152 million at
+    July 28, 2006. We expect to fill approximately
+    92 percent of this funded backlog during fiscal 2009, but
+    we can give no assurance of such fulfillment. Unfunded backlog
+    for this segment was $4,066 million at July 25, 2008
+    compared with $3,999 million at July 27, 2007 and
+    $3,881 million at July 28, 2006. Additional
+    information regarding funded and unfunded backlog for this
+    segment is provided under “Item 1.
+    Business — Funded and Unfunded Backlog” of this
+    Annual Report on
+    Form 10-K.
+    For a discussion of certain risks affecting this segment,
+    including risks relating to our U.S. Government contracts
+    and subcontracts, see “Item 1. Business —
+    Principal Customers; Government Contracts,”
+    “Item 1A. Risk Factors” and “Item 3.
+    Legal Proceedings” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Broadcast
+    Communications
+
+
+
+
+
+    Broadcast Communications’ hardware and software products,
+    systems and services offer a comprehensive, single-source
+    approach to delivering interoperable workflow capabilities and
+    solutions spanning the entire broadcast value chain, including
+    content creation, management, distribution and delivery, for
+    broadcast, cable, satellite, telecommunications and other media
+    content providers. This segment serves the global digital and
+    analog media markets, providing infrastructure and networking
+    products and solutions, media and workflow solutions, and
+    television and radio transmission equipment and systems.
+
+
+ 
+
+
+    The current trend and future of broadcast media involves
+    digitizing content and transporting it simultaneously over many
+    different networks to many types of devices. The need to create,
+    manage and ultimately deliver digital media content is driving
+    an infrastructure upgrade cycle for the media industry. We are
+    supporting customers as they expand services for high definition
+    (“HD”) TV, IP TV, video-on-demand and interactive TV.
+    Recent acquisitions and a series of new products have
+    established Broadcast Communications as a provider of end-to-end
+    solutions for the digital and HD infrastructure build-out
+    worldwide. These acquisitions include Encoda Systems Holdings,
+    Inc. (“Encoda”) in fiscal 2005; Leitch Technology
+    Corporation (“Leitch”), Optimal Solutions, Inc.
+    (“OSi”) and the Aastra Digital Video business
+    (“Aastra Digital Video”) of Aastra Technologies in
+    fiscal 2006; and Zandar Technologies plc (“Zandar”) in
+    fiscal 2008. Zandar is a Dublin, Ireland-headquartered developer
+    and provider of high-quality multi-image display processors for
+    television broadcast and professional video markets.
+    Zandar’s compact, scalable systems, such as the Predator
+    IItm
+    and
+    QS100tm
+    series, and our larger-format
+    CENTRIOtm
+    systems are complementary product lines that collectively
+    represent a complete platform for multi-image display
+    processors,
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+    or multiviewer products. New products and recent product
+    advancements include the NEXIO
+    AMPtm
+    system, a one-stop solution for creating, scheduling and airing
+    complete TV channels in HD or standard definition
+    (“SD”), which combines a high-quality playout server,
+    animation, live video, video clips, audio, real-time external
+    data feeds and master control branding functionality in a single
+    turnkey system; the
+    H-Classtm
+    media software suite, a unified system of interoperable
+    broadcast and media applications based on open standards, with a
+    network-, content- and service-agnostic approach, which support
+    customers’ core services and business operations, make data
+    exchange and workflow more efficient and facilitate adding
+    services that can lead to new revenue streams; and a family of
+    three gigabit per second (“3 Gb/s”) solutions
+    comprised of a complete set of interoperable devices for
+    creating a true 3 Gb/s infrastructure, which allows broadcasters
+    to make infrastructure investments now and still migrate to the
+    emerging 1080p HD format.
+
+
+ 
+
+
+    Infrastructure and Networking Solutions:  Our
+    infrastructure and networking solutions offerings include SD and
+    HD products and systems that enable media companies to
+    streamline workflow from production through transmission. We
+    provide a comprehensive, next-generation portfolio of signal
+    processors, routers, master control and branding systems,
+    network monitoring and control software, and test and
+    measurement instruments that support content throughout the
+    workflow application chain. We also provide advanced multi-image
+    display processors and state-of-the-art broadcast graphics and
+    digital signage systems that change the way broadcasters view
+    and manage content and provide broadcasters with options for
+    presenting their brands. We also provide highly differentiated
+    network access and multiplex platforms, including the Harris
+    Intraplex and
+    NetVXtm
+    solutions, which offer customized integrated management and
+    distribution applications for any content across any connection
+    to support television, government video and public safety
+    applications. Products also include the
+    Platinumtm
+    large router for mixed video and audio signal routing; the
+    IconMastertm
+    digital master control system; the
+    Videotek®
+    line of precision test and measurement instruments; the
+    larger-format
+    CENTRIOtm
+    multiviewer systems; the compact, scalable Predator
+    IItm
+    and
+    QS100tm
+    series of multiviewer systems; the
+    Inscriber®
+    line of graphics and titling products; and the Infocaster line
+    of digital signage systems.
+
+
+ 
+
+
+    Media and Workflow:  Our media and workflow
+    solutions offerings enable customers to manage their digital
+    media workflow through a portfolio of software solutions for
+    advertising, media management (traffic, billing and program
+    scheduling), broadband, digital asset management, and play-out
+    automation, and to transition into an IT workflow by using
+    servers to manage content flow, storage and other key facets of
+    an increasingly important file-based broadcast world. We offer
+    modular, standards-based solutions with open application
+    programming interfaces (“APIs”) for ease of
+    integration and future scalability. Products include the
+    H-Classtm
+    Content Delivery Platform, OSi
+    Traffictm
+    software and the
+    Inveniotm
+    Digital Asset Management solution. The
+    H-Classtm
+    Content Delivery Platform represents an integrated approach to
+    content management at the enterprise level — from
+    ingest to distribution over a variety of devices or networks.
+    H-Class provides broadcasters and other media, entertainment and
+    content distribution customers with a means to integrate
+    disparate processes from creation to consumption into a single,
+    modular system. Products also include the
+    NEXIOtm
+    family of scalable, interoperable video servers and
+    Velocitytm
+    family of editing controllers that employ open standards to
+    accelerate time-to-air and reduce the costs associated with
+    content acquisition, production, distribution and media
+    management.
+
+
+ 
+
+
+    Television and Radio Transmission Systems:  We
+    develop, manufacture and supply digital and analog television
+    and radio transmission systems for delivery of rich media over
+    wireless broadcast terrestrial networks on a worldwide basis,
+    including global broadcast and mobile TV applications. We can
+    provide single products or
+    end-to-end
+    systems, including nationwide networks with hundreds of
+    transmitters or large, international systems. Our television and
+    radio transmission systems solutions are scalable to meet the
+    needs of broadcasters of all sizes. We are a leader in
+    television’s transition from analog to digital technology.
+    We provided the nation’s first advanced digital television
+    (“DTV”) transmitter as well as the first commercial
+    DTV application and are a leader in technology for the
+    U.S. digital standard known as “ATSC” and the
+    European digital standard “DVB-T”. We continue to play
+    a leading role in assisting local television broadcasters and
+    network operators implement transmission solutions, including
+    solutions based on ATSC and DVB-T and other digital standards
+    and all major approaches to broadcast mobile TV. In fiscal 2007,
+    we introduced with LG Electronics Inc. the jointly-developed
+    MPHtm
+    in-band mobile DTV system
+    (“Mobile-Pedestrian-Handheld” or “MPH”), a
+    new technology capable of providing DTV signals and extending
+    over-the-air broadcast TV signals beyond customary TV viewing at
+    home to mobile, pedestrian and other handheld devices (such as
+    mobile phones or laptop computers).
+
+
+ 
+
+
+    We are also a leader in the transition from analog to digital
+    radio. Product offerings address the U.S. digital standard
+    called “IBOC” (In-Band/On-Channel), which is referred
+    to in the market as “HD
+    Radio®,”
+    as well as international digital standards including
+    “DAB” and “DRM”. The rollout of HD Radio in
+    the U.S. continues to progress with approximately 1,700
+    stations currently on-air with HD Radio. Radio transmission
+    products include the
+    FLEXSTARtm
+    family, which provides a bandwidth-efficient bitstream so
+    broadcasters can offer supplemental audio
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+    and data capability along with the main program stream. This
+    enables broadcasters to develop new revenue-generating
+    opportunities, including multiple programs on the same channel,
+    5.1 surround sound, on-demand traffic, weather and sports
+    reports, store-and-play capabilities and real-time navigation.
+
+
+ 
+
+
+    Revenue and Backlog:  Revenue for the Broadcast
+    Communications segment increased 7 percent to
+    $643 million in fiscal 2008 compared with $600 million
+    in fiscal 2007, and was $538 million in fiscal 2006.
+    Segment operating income was $33.8 million in fiscal 2008
+    compared with $11.9 million in fiscal 2007 and
+    $22.8 million in fiscal 2006. The Broadcast Communications
+    segment contributed 12 percent of our total revenue in
+    fiscal 2008 compared with 14 percent in fiscal 2007 and
+    15 percent in fiscal 2006. The percentage of this
+    segment’s revenue that was derived outside of the United
+    States was approximately 47 percent in fiscal 2008 compared
+    with 46 percent in fiscal 2007 and 41 percent in
+    fiscal 2006. Principal customers for Broadcast
+    Communications’ products and services include domestic and
+    international television and radio broadcast stations; cable and
+    satellite networks and service providers; telecommunications
+    providers; Federal agencies; public safety entities; advertising
+    agencies; and content originators. No single customer accounted
+    for more than 2 percent of fiscal 2008 revenue for the
+    Broadcast Communications segment.
+
+
+ 
+
+
+    In general, this segment’s domestic products are sold and
+    serviced directly to customers through its sales organization
+    and through established distribution channels. Internationally,
+    this segment markets and sells its products and services through
+    regional sales offices and established distribution channels.
+    See “Item 1. Business — International
+    Business” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+    The backlog of unfilled orders for this segment was
+    $328 million at July 25, 2008 compared with
+    $323 million at July 27, 2007 and $240 million at
+    July 28, 2006. We expect to fill approximately
+    54 percent of this backlog during fiscal 2009, but we can
+    give no assurance of such fulfillment. For a discussion of
+    certain risks affecting this segment, see “Item 1A.
+    Risk Factors” and “Item 3. Legal
+    Proceedings” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Harris
+    Stratex Networks
+
+
+
+
+
+    In the third quarter of fiscal 2007, we combined our former
+    Microwave Communications Division with Stratex, a
+    publicly-traded provider of high-speed wireless transmission
+    systems, to form Harris Stratex Networks. Harris Stratex
+    Networks, our majority-owned, publicly-traded subsidiary listed
+    on the NASDAQ Global Market under the symbol “HSTX,”
+    is a global communications solutions company offering end-to-end
+    wireless transmission solutions for mobile and fixed-wireless
+    service providers and private networks. As of June 27,
+    2008, we owned approximately 56 percent of Harris Stratex
+    Networks’ outstanding stock. Following the combination, our
+    business segment formerly referred to as Microwave
+    Communications is now referred to as Harris Stratex Networks and
+    includes the results of the combined business for periods
+    following the combination.
+
+
+ 
+
+
+    Harris Stratex Networks is a global independent supplier of
+    turnkey wireless transmission network solutions. It offers
+    reliable, flexible, scalable and cost-efficient wireless
+    transmission network solutions, including microwave radio
+    systems and network management software, which are backed by
+    comprehensive services and support. Harris Stratex Networks
+    designs, manufactures and sells a range of wireless transmission
+    networking products, solutions and services to customers in more
+    than 135 countries around the world, including mobile and fixed
+    telephone service providers, private network operators,
+    government agencies, transportation and utility companies,
+    public safety agencies and broadcast system operators. Harris
+    Stratex Networks’ product solutions offerings include
+    point-to-point digital microwave radio systems for mobile system
+    access, backhaul, trunking and license-exempt applications,
+    supporting new network deployments, network expansion and
+    capacity upgrades. Harris Stratex Networks provides its
+    products and services principally to the North America
+    microwave, international microwave and network operations
+    markets.
+
+
+ 
+
+
+    North America Microwave:  Harris Stratex
+    Networks serves the North America microwave market by offering
+    microwave radio products and services to major national carriers
+    and other cellular network operators, public safety operators
+    and other government agencies, systems integrators,
+    transportation and utility companies and other private network
+    operators within North America. A large part of the North
+    American microwave market is comprised of the cellular backhaul
+    and public safety markets.
+
+
+ 
+
+
+    International Microwave:  Harris Stratex
+    Networks serves the international microwave market by offering
+    microwave radio products and services to regional and national
+    carriers and other cellular network operators, public safety
+    operators, government and defense agencies and other private
+    network operators in every region outside of North America. Its
+    wireless transmission systems deliver regional and country-wide
+    backbone in developing nations, where microwave radio
+    installations provide 21st-century communications rapidly and
+    economically. Rural communities, areas with rugged terrain and
+    regions with extreme temperatures benefit from the ability to
+    build an advanced, affordable communications infrastructure
+    despite these challenges.
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+    Network Operations:  Harris Stratex Networks
+    serves the network operations market by offering a wide range of
+    software-based network management solutions for network
+    operators worldwide, from element management to turnkey,
+    end-to-end network management and service assurance solutions
+    for virtually any type of communications or information
+    network — including broadband, wireline, wireless and
+    converged networks. Harris Stratex Networks develops, designs,
+    produces, sells and services network management systems,
+    including the
+    NetBoss®
+    product line, for these applications.
+
+
+ 
+
+
+    In general, wireless transmission networks are constructed using
+    microwave radios and other equipment to connect cell sites,
+    switching systems, land mobile radio systems, wireline
+    transmission systems and other fixed-access facilities and other
+    communications systems. Wireless networks range in size from a
+    single transmission link connecting two buildings to complex
+    networks comprised of thousands of wireless connections. The
+    architecture of a network is influenced by several factors,
+    including the available radio frequency spectrum, coordination
+    of frequencies with existing infrastructure, application
+    requirements, environmental factors and local geography. For
+    many applications, microwave systems offer a lower-cost,
+    highly-reliable and more easily deployable alternative to
+    competing wireline transmission media, such as fiber, copper or
+    coaxial cable.
+
+
+ 
+
+
+    Harris Stratex Networks’ principal product families of
+    licensed point-to-point microwave radios include
+    Eclipsetm,
+    an
+    IP-enabled
+    platform for nodal wireless transmission systems, and
+    TRuepoint®,
+    a platform for high-performance point-to-point wireless
+    communications. The Eclipse product line combines wireless
+    transmission functions with network processing node functions,
+    including many functions that, for non-nodal products, would
+    have to be purchased separately. System functions include voice,
+    data and video transport, node management, multiplexing, routing
+    and cross-connection. Eclipse is designed to simplify complex
+    networks and lower the total cost of ownership over the product
+    life. With frequency coverage from 5 to 38 gigahertz,
+    low-to-high capacity operation and traditional time-division
+    multiplexing and Ethernet transmission capabilities, Eclipse is
+    designed to support a wide range of long- and short-haul
+    applications. Eclipse is software-configurable, enabling easy
+    capacity upgrades, and gives users the ability to plan and
+    deploy networks and adapt to changing conditions at minimal cost
+    and disruption. The TRuepoint product family offers full
+    plug-and-play, software programmable microwave radio
+    configuration. It delivers service from 4 to 180 megabits per
+    second capacity at frequencies ranging from 6 to
+    38 gigahertz. TRuepoint is designed to meet the current and
+    future needs of network operators, including mobile, private
+    network, government and access service providers. The unique
+    architecture of the core platform reduces both capital
+    expenditures and life cycle costs, while meeting international
+    and North American standards. The software-based architecture
+    enables migration from traditional microwave access applications
+    to higher-capacity transport interconnections. Harris Stratex
+    Networks also offers license-exempt, point-to-point microwave
+    radio product families.
+
+
+ 
+
+
+    Harris Stratex Networks’ network management product
+    families, including NetBoss, offer a broad set of choices for
+    all levels of network management, from enterprise-wide
+    management and service assurance to element management. NetBoss
+    is a family of network management and service assurance
+    solutions for managing multi-vendor, multi-technology
+    communications networks. NetBoss supports wireless and wireline
+    networks of many types, offering fault management, performance
+    management, service activation and assurance, billing mediation
+    and operational support system integration. As a modular,
+    off-the-shelf product, it enables customers to implement
+    management systems immediately or gradually, as their needs
+    dictate. NetBoss XE offers advanced element management. NetBoss
+    products are optimized to work seamlessly with Harris Stratex
+    Networks digital microwave radios, such as the TRuepoint family,
+    but can also be customized to manage products based on any
+    network or computing technology.
+
+
+ 
+
+
+    Revenue and Backlog:  Revenue for the Harris
+    Stratex Networks segment increased 41 percent to
+    $718 million in fiscal 2008 compared with $508 million
+    in fiscal 2007, and was $349 million in fiscal 2006. This
+    segment had an operating loss of $28.5 million in fiscal
+    2008 compared with operating income of $146.9 million in
+    fiscal 2007 and an operating loss of $19.6 million in
+    fiscal 2006. This segment contributed 14 percent of our
+    total revenue in fiscal 2008 compared with 12 percent in
+    fiscal 2007 and 10 percent in fiscal 2006. This segment had
+    revenue from a single external customer that exceeded
+    10 percent of this segment’s total revenue during each
+    of fiscal 2008 and fiscal 2006, but not during fiscal 2007. The
+    percentage of this segment’s revenue that was derived
+    outside of the United States was approximately 73 percent
+    in fiscal 2008 compared with 66 percent in fiscal 2007 and
+    57 percent in fiscal 2006.
+
+
+ 
+
+
+    This segment generally sells its North American products and
+    services directly to customers through its sales organization
+    and through established distribution channels. In international
+    markets, this segment markets and sells its products and
+    services through regional sales offices and established
+    distribution channels, using agents and distributors. See
+    “Item 1. Business — International
+    Business” of this Annual Report on
+    Form 10-K.
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+    The backlog of unfilled orders for this segment was
+    $412 million at July 25, 2008 compared with
+    $232 million at July 27, 2007 and $164 million at
+    July 28, 2006. Harris Stratex Networks expects to fill
+    substantially all of this backlog during fiscal 2009, but we can
+    give no assurance of such fulfillment. For a discussion of
+    certain risks affecting this segment, see “Item 1A.
+    Risk Factors” and “Item 3. Legal
+    Proceedings” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    International
+    Business
+
+
+
+
+
+    Revenue from products exported from the United States (including
+    foreign military sales) or manufactured abroad was
+    $1,283.7 million (24 percent of our total revenue) in
+    fiscal 2008 compared with $964.4 million (23 percent
+    of our total revenue) in fiscal 2007 and $746.5 million
+    (21 percent of our total revenue) in fiscal 2006. Our
+    international sales include both direct exports from the United
+    States and sales from foreign subsidiaries. Most of the
+    international sales are derived from the Harris Stratex
+    Networks, Defense Communications and Electronics and Broadcast
+    Communications segments. Direct export sales are primarily
+    denominated in U.S. dollars, whereas sales from foreign
+    subsidiaries are generally denominated in the local currency of
+    the subsidiary. Exports from the United States, principally to
+    Europe, Africa, Canada, Latin America, the Middle East and Asia,
+    totaled $594.1 million (approximately 46 percent of
+    our international revenue) in fiscal 2008 compared with
+    $613.9 million (64 percent of our international
+    revenue) in fiscal 2007 and $418.0 million (56 percent
+    of our international revenue) in fiscal 2006. The percentage of
+    revenue represented by foreign operations was 13 percent in
+    fiscal 2008 compared with 8 percent in fiscal 2007 and
+    9 percent in fiscal 2006. The percentage of long-lived
+    assets represented by foreign operations was 26 percent as
+    of June 27, 2008 compared with 28 percent as of
+    June 29, 2007 and 24 percent as of June 30, 2006.
+    Financial information regarding our domestic and international
+    operations is contained in Note 23: Business
+    Segments in the Notes and is incorporated herein by
+    reference.
+
+
+ 
+
+
+    Our principal international manufacturing facilities are located
+    in Canada and the United Kingdom. The majority of our
+    international marketing activities are conducted through
+    subsidiaries which operate in Canada, Europe, Central and South
+    America and Asia. We have also established international
+    marketing organizations and several regional sales offices.
+    Reference is made to Exhibit 21 “Subsidiaries of the
+    Registrant” of this Annual Report on
+    Form 10-K
+    for further information regarding our international subsidiaries.
+
+
+ 
+
+
+    We utilize indirect sales channels, including dealers,
+    distributors and sales representatives, in the marketing and
+    sale of some lines of products and equipment, both domestically
+    and internationally. These independent representatives may buy
+    for resale or, in some cases, solicit orders from commercial or
+    governmental customers for direct sales by us. Prices to the
+    ultimate customer in many instances may be recommended or
+    established by the independent representative and may be above
+    or below our list prices. Our dealers and distributors generally
+    receive a discount from our list prices and may mark up those
+    prices in setting the final sales prices paid by the customer.
+    Revenue from indirect sales channels in fiscal 2008 represented
+    7 percent of our total revenue and approximately
+    28 percent of our international revenue, compared with
+    revenue from indirect sales channels in fiscal 2007 representing
+    9 percent of our total revenue and 32 percent of our
+    international revenue, and revenue from indirect sales channels
+    in fiscal 2006 representing 6 percent of our total revenue
+    and 23 percent of our international revenue.
+
+
+ 
+
+
+    Fiscal 2008 international revenue came from a large number of
+    foreign countries, and no single country accounted for
+    3 percent or more of our total revenue. Some of our exports
+    are paid for by letters of credit, with the balance carried
+    either on an open account or installment note basis. Advance
+    payments, progress payments or other similar payments received
+    prior to, or upon shipment often cover most of the related costs
+    incurred. Significant foreign government contracts generally
+    require us to provide performance guarantees. In order to stay
+    competitive in international markets, we also sometimes enter
+    into recourse and vendor financing arrangements to facilitate
+    sales to certain customers.
+
+
+ 
+
+
+    The particular economic, social and political conditions for
+    business conducted outside the U.S. differ from those
+    encountered by domestic businesses. Our management believes that
+    the overall business risk for the international business as a
+    whole is somewhat greater than that faced by our domestic
+    operations as a whole. A description of the types of risks to
+    which we are subject in international business is contained in
+    “Item 1A. Risk Factors” of this Annual Report on
+    Form 10-K.
+    Nevertheless, in the opinion of our management, these risks are
+    largely offset by the diversification of the international
+    business and the protection provided by letters of credit and
+    advance payments.
+
+
+ 
+
+
+
+    Competition
+
+
+
+
+
+    We operate in highly competitive markets that are sensitive to
+    technological advances. Although successful product and systems
+    development is not necessarily dependent on substantial
+    financial resources, many of our competitors in each of our
+    businesses are larger than we are and can maintain higher levels
+    of expenditures for research and development. In each of our
+    businesses we concentrate on the market opportunities that our
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+    management believes are compatible with our resources, overall
+    technological capabilities and objectives. Principal competitive
+    factors in these businesses are cost-effectiveness; product
+    quality and reliability; technological capabilities; service;
+    past performance; ability to develop and implement complex,
+    integrated solutions; ability to meet delivery schedules; and
+    the effectiveness of third-party sales channels in international
+    markets. Within the IT services market, there is intense
+    competition among many companies, and this market is generally
+    more labor intensive with competitive margin rates over contract
+    periods of shorter duration. The ability to compete in the IT
+    services market depends on a number of factors, including the
+    capability to deploy skilled professionals at competitive prices
+    across the diverse spectrum of the IT services market.
+
+
+ 
+
+
+    In the Defense Communications and Electronics segment, principal
+    competitors include BAE Systems, Boeing, General Dynamics, ITT
+    Industries, L-3 Communications, Lockheed Martin, Northrop
+    Grumman, Raytheon, Rockwell Collins, Rohde & Schwarz,
+    Tadiran and Thales.
+
+
+ 
+
+
+    In the Government Communications Systems segment, principal
+    competitors include Accenture, BAE Systems, Boeing, Computer
+    Sciences, General Dynamics, ITT Industries, L-3 Communications,
+    Lockheed Martin, Northrop Grumman, Raytheon, Rockwell Collins
+    and SAIC.
+
+
+ 
+
+
+    Consolidation among U.S. defense and aerospace companies
+    has resulted in a reduction in the number of principal prime
+    contractors. As a result of this consolidation, in our Defense
+    Communications and Electronics and Government Communications
+    Systems segments we frequently “partner” or are
+    involved in subcontracting and teaming relationships with
+    companies that are, from time to time, competitors on other
+    programs.
+
+
+ 
+
+
+    In the Broadcast Communications segment, principal competitors
+    include Avid, Broadcast Electronics, Chyron, Evertz, Harmonic,
+    Microsystems, Miranda, Nautel, NEC, Omneon, Omnibus, Pilat
+    Media, Rad Systems, Rohde & Schwarz, Sony Broadcast,
+    Tandberg Television, Tektronix, Thomson/Grass Valley,
+    Thomson/Thales, Vizrt and Wide Orbit, as well as other
+    smaller companies and divisions of large companies. We believe
+    that our broad product offering and total content delivery
+    solutions are key competitive strengths for this segment.
+
+
+ 
+
+
+    In the Harris Stratex Networks segment, principal competitors
+    include Ericsson, NEC, Alcatel-Lucent,
+    Nokia-Siemens,
+    Ceragon and Eltek-Nera, as well as other smaller companies.
+    Several of this segment’s competitors are original
+    equipment manufacturers or systems integrators through which the
+    segment sometimes distributes and sells products and services to
+    end-users. We believe that network and systems engineering
+    support and service are key competitive strengths for this
+    segment.
+
+
+ 
+
+
+
+    Principal
+    Customers; Government Contracts
+
+
+
+
+
+    Sales to the U.S. Government, which is our only customer
+    accounting for 2 percent or more of our total revenue, were
+    68 percent of our total revenue in fiscal 2008 compared
+    with 66 percent in each of fiscal 2007 and fiscal 2006.
+    Additional information regarding customers for each of our
+    segments is provided under “Item 1.
+    Business — Description of Business by Segment for
+    Fiscal 2008” of this Annual Report on
+    Form 10-K.
+    Our U.S. Government sales are predominantly derived from
+    contracts with agencies of, and prime contractors to, the
+    U.S. Government. Most of the sales of the Government
+    Communications Systems segment and of the Defense Programs area
+    of the Defense Communications and Electronics segment are made
+    directly or indirectly to the U.S. Government under
+    contracts or subcontracts containing standard government
+    contract clauses providing for redetermination of profits, if
+    applicable, and for termination for the convenience of the
+    U.S. Government or for default based upon performance.
+
+
+ 
+
+
+    These U.S. Government contracts and subcontracts include
+    both cost-reimbursement and fixed-price contracts. Our
+    cost-reimbursement contracts provide for the reimbursement of
+    allowable costs plus the payment of a fee. Our
+    cost-reimbursement contracts fall into three basic types:
+    (i) cost-plus fixed-fee contracts, which provide for the
+    payment of a fixed fee irrespective of the final cost of
+    performance; (ii) cost-plus incentive-fee contracts, which
+    provide for increases or decreases in the fee, within specified
+    limits, based upon actual results compared with contractual
+    targets relating to factors such as cost, performance and
+    delivery schedule; and (iii) cost-plus award-fee contracts,
+    which provide for the payment of an award fee determined at the
+    discretion of the customer based upon the performance of the
+    contractor against pre-established performance criteria. Under
+    cost-reimbursement contracts, we are reimbursed periodically for
+    allowable costs and are paid a portion of the fee based on
+    contract progress. Some overhead costs have been made partially
+    or wholly unallowable for reimbursement by statute or
+    regulation. Examples are certain merger and acquisition costs,
+    lobbying costs, charitable contributions and certain litigation
+    defense costs.
+
+
+ 
+
+
+    Our fixed-price contracts are either firm fixed-price contracts
+    or fixed-price incentive contracts. Under firm fixed-price
+    contracts, we agree to perform a specific scope of work for a
+    fixed price and, as a result, benefit from
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+    cost savings and carry the burden of cost overruns. Under
+    fixed-price incentive contracts, we share with the
+    U.S. Government both savings accrued from contracts
+    performed for less than target costs as well as costs incurred
+    in excess of targets up to a negotiated ceiling price (which is
+    higher than the target cost), but carry the entire burden of
+    costs exceeding the negotiated ceiling price. Accordingly, under
+    such incentive contracts, profit may also be adjusted up or down
+    depending upon whether specified performance objectives are met.
+    Under firm fixed-price and fixed-price incentive contracts, we
+    usually receive either milestone payments equaling
+    100 percent of the contract price or monthly progress
+    payments from the U.S. Government in amounts equaling
+    75 percent of costs incurred under the contract. The
+    remaining amounts, including profits or incentive fees, are
+    billed upon delivery and final acceptance of end items and
+    deliverables under the contract. Fixed-price contracts generally
+    have higher profit margins than cost-reimbursement contracts.
+    Production contracts are mainly fixed-price contracts, and
+    development contracts are generally cost-reimbursement contracts.
+
+
+ 
+
+
+    In fiscal 2008, fiscal 2007 and fiscal 2006, approximately
+    35 percent, 33 percent and 38 percent,
+    respectively, of the total combined revenue of our Defense
+    Communications and Electronics and Government Communications
+    Systems segments was from fixed-price contracts. GWAC and IDIQ
+    contracts, which can include task orders for each contract type,
+    require us to compete both for the initial contract and then for
+    individual task or delivery orders under such contracts.
+
+
+ 
+
+
+    As stated above, U.S. Government contracts are terminable
+    for the convenience of the U.S. Government, as well as for
+    default based on performance. Companies supplying goods and
+    services to the U.S. Government are dependent on
+    Congressional appropriations and administrative allotment of
+    funds and may be affected by changes in U.S. Government
+    policies resulting from various military, political and
+    international developments. Long-term government contracts and
+    related orders are subject to cancellation if appropriations for
+    subsequent performance periods become unavailable. Under
+    contracts terminable for the convenience of the
+    U.S. Government, a contractor is entitled to receive
+    payments for its allowable costs and, in general, the
+    proportionate share of fees or earnings for the work done.
+    Contracts that are terminable for default generally provide that
+    the U.S. Government pays only for the work it has accepted
+    and may require the contractor to pay for the incremental cost
+    of reprocurement and may hold the contractor liable for damages.
+    In many cases, there is also uncertainty relating to the
+    complexity of designs, necessity for design improvements and
+    difficulty in forecasting costs and schedules when bidding on
+    developmental and highly sophisticated technical work. Under
+    many U.S. Government contracts, we are required to maintain
+    facility and personnel security clearances complying with DoD
+    and other Federal agency requirements. For further discussion of
+    risks relating to U.S. Government contracts, see
+    “Item 1A. Risk Factors” and “Item 3.
+    Legal Proceedings” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Funded
+    and Unfunded Backlog
+
+
+
+
+
+    Our total company-wide funded and unfunded backlog was
+    approximately $6,300 million at July 25, 2008 compared
+    with $5,871 million at July 27, 2007 and
+    $5,641 million at July 28, 2006. The funded portion of
+    this backlog was approximately $2,011 million at
+    July 25, 2008 compared with $1,724 million at
+    July 27, 2007 and $1,482 million at July 28,
+    2006. The determination of backlog involves substantial
+    estimating, particularly with respect to customer requirements
+    contracts and development and production contracts of a
+    cost-reimbursement or incentive nature.
+
+
+ 
+
+
+    We define funded backlog as unfilled firm orders for products
+    and services for which funding has been authorized and, in the
+    case of U.S. Government agencies, appropriated. Unfunded
+    backlog is primarily unfilled firm and expected follow-on orders
+    that have not yet met our established funding criteria. Our
+    established funding criteria require both authorization by the
+    customer as well as our management’s determination that
+    there is little or no risk of the authorized funding being
+    rescinded. We do not include potential task or delivery orders
+    under IDIQ contracts in our backlog. In fiscal 2009, we expect
+    to fill approximately 86 percent of our total funded
+    backlog as of July 25, 2008. However, we can give no
+    assurance of such fulfillment or that our funded backlog will
+    become revenue in any particular period, if at all. Backlog is
+    subject to delivery delays and program cancellations, which are
+    beyond our control. Additional information with regard to the
+    backlog of each of our segments is provided under
+    “Item 1. Business — Description of Business
+    by Segment for Fiscal 2008” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+
+    Research,
+    Development and Engineering
+
+
+
+
+
+    Research, development and engineering expenditures totaled
+    approximately $1,007 million in fiscal 2008,
+    $924 million in fiscal 2007 and $824 million in fiscal
+    2006. Company-sponsored research and product development costs,
+    which included research and development for commercial products
+    and independent research and development related to government
+    products and services, as well as concept formulation studies
+    and bid and proposal efforts, were approximately
+    $275 million in fiscal 2008, $235 million in fiscal
+    2007 and $198 million in fiscal 2006. A
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+    portion of our independent research and development costs are
+    allocated among contracts and programs in process under
+    U.S. Government contractual arrangements. Company-sponsored
+    research and product development costs not otherwise allocable
+    are charged to expense when incurred. The portion of total
+    research, development and engineering expenditures that was not
+    company-sponsored was funded by the U.S. Government and is
+    included in our revenue. Customer-sponsored research and
+    development was $732 million in fiscal 2008,
+    $689 million in fiscal 2007 and $626 million in fiscal
+    2006. Company-sponsored research is directed to the development
+    of new products and to building technological capability in
+    selected communications and electronic systems markets.
+    U.S. Government-funded research helps strengthen and
+    broaden our technical capabilities. All of our segments maintain
+    their own engineering and new product development departments,
+    with scientific assistance provided by advanced-technology
+    departments. As of June 27, 2008, we employed nearly 7,000
+    engineers and scientists and are continuing efforts to make the
+    technologies developed in any of our business segments available
+    for all other business segments.
+
+
+ 
+
+
+
+    Patents
+    and Other Intellectual Property
+
+
+
+
+
+    We consider our patents and other intellectual property, in the
+    aggregate, to constitute an important asset. We own a large and
+    valuable portfolio of patents, trade secrets, know-how,
+    confidential information, trademarks, copyrights and other
+    intellectual property. We also license intellectual property to
+    and from third parties. As of June 27, 2008, we held
+    approximately 1,020 U.S. patents and 800 foreign patents,
+    and had approximately 580 U.S. patent applications
+    pending and 1,240 foreign patent applications pending.
+    Unpatented research, development and engineering skills also
+    make an important contribution to our business. While our
+    intellectual property rights in the aggregate are important to
+    our business and the operations of our business segments, we do
+    not consider our business or any business segment to be
+    materially dependent upon any single patent, license or other
+    intellectual property right, or any group of related patents,
+    licenses or other intellectual property rights. We are engaged
+    in a proactive patent licensing program and have entered into a
+    number of licenses and cross-license agreements, some of which
+    generate royalty income. Although existing license agreements
+    have generated income in past years and may do so in the future,
+    there can be no assurances we will enter into additional
+    income-producing license agreements. From time to time we engage
+    in litigation to protect our patents and other intellectual
+    property. Any of our patents, trade secrets, trademarks,
+    copyrights and other proprietary rights could be challenged,
+    invalidated or circumvented, or may not provide competitive
+    advantages. With regard to patents relating to our Defense
+    Communications and Electronics segment or our Government
+    Communications Systems segment, the U.S. Government often
+    has an irrevocable, non-exclusive, royalty-free license,
+    pursuant to which the U.S. Government may use or authorize
+    others to use the inventions covered by such patents. Pursuant
+    to similar arrangements, the U.S. Government may consent to
+    our use of inventions covered by patents owned by other persons.
+    Numerous trademarks used on or in connection with our products
+    are also considered to be a valuable asset.
+
+
+ 
+
+
+
+    Environmental
+    and Other Regulations
+
+
+
+
+
+    Our facilities and operations are subject to numerous domestic
+    and international laws and regulations designed to protect the
+    environment, particularly with regard to wastes and emissions.
+    The applicable environmental laws and regulations are common
+    within the industries and markets in which we operate and serve.
+    We believe that we have complied with these requirements and
+    that such compliance has not had a material adverse effect on
+    our results of operations, financial condition or cash flows.
+    Based upon currently-available information, we do not expect
+    expenditures to protect the environment and to comply with
+    current environmental laws and regulations over the next several
+    years to have a material impact on our competitive or financial
+    position, but we can give no assurance that such expenditures
+    will not exceed current expectations. If future laws and
+    regulations contain more stringent requirements than presently
+    anticipated, actual expenditures may be higher than our present
+    estimates of those expenditures. We have installed waste
+    treatment facilities and pollution control equipment to satisfy
+    legal requirements and to achieve our waste minimization and
+    prevention goals. We did not spend material amounts on
+    environmental capital projects in fiscal 2008, fiscal 2007 or
+    fiscal 2006. A portion of our environmental expenditures relates
+    to discontinued operations for which we have retained certain
+    environmental liabilities. We currently expect that amounts to
+    be spent for environmental-related capital projects will not be
+    material in fiscal 2009. These amounts may increase in future
+    years. Additional information regarding environmental and
+    regulatory matters is set forth in “Item 3. Legal
+    Proceedings” of this Annual Report on
+    Form 10-K
+    and in Note 1: Significant Accounting Policies in
+    the Notes.
+
+
+ 
+
+
+    Electronic products are subject to governmental environmental
+    regulation in a number of jurisdictions. Equipment produced by
+    our Broadcast Communications and Harris Stratex Networks
+    segments, in particular, is subject to domestic and
+    international requirements requiring end-of-life management
+    and/or
+    restricting materials in
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+    products delivered to customers, including the European
+    Union’s Directive 2002/96/EC on Waste Electrical and
+    Electronic Equipment (“WEEE”) and Directive 2002/95/EC
+    on the Restriction of the use of certain Hazardous Substances in
+    Electrical and Electronic Equipment (“RoHS”). Other
+    jurisdictions have adopted similar legislation. Such
+    requirements typically are not applicable to most equipment
+    produced by our Defense Communications and Electronics and
+    Government Communications Systems segments. We believe that we
+    have complied with such rules and regulations, where applicable,
+    with respect to our existing products sold into such
+    jurisdictions. We intend to comply with such rules and
+    regulations with respect to our future products.
+
+
+ 
+
+
+    Broadcast and wireless communications (whether TV, radio or
+    telecommunications) are also subject to governmental regulation.
+    Equipment produced by our Broadcast Communications and Harris
+    Stratex Networks segments, in particular, is subject to domestic
+    and international requirements to avoid interference among users
+    of radio and television frequencies and to permit
+    interconnection of telecommunications equipment. We believe that
+    we have complied with such rules and regulations with respect to
+    our existing products, and we intend to comply with such rules
+    and regulations with respect to our future products.
+    Governmental reallocation of the frequency spectrum also could
+    impact our business, financial condition and results of
+    operations.
+
+
+ 
+
+
+
+    Raw
+    Materials and Supplies
+
+
+
+
+
+    Because of the diversity of our products and services, as well
+    as the wide geographic dispersion of our facilities, we use
+    numerous sources for the wide array of raw materials (such as
+    electronic components, printed circuit boards, metals and
+    plastics) needed for our operations and for our products. We are
+    dependent upon suppliers and subcontractors for a large number
+    of components and subsystems and the ability of our suppliers
+    and subcontractors to adhere to customer or regulatory materials
+    restrictions and to meet performance and quality specifications
+    and delivery schedules. In some instances, we are dependent upon
+    one or a few sources, either because of the specialized nature
+    of a particular item or because of local content preference
+    requirements pursuant to which we operate on a given project.
+    While we have been affected by financial and performance issues
+    of some of our suppliers and subcontractors, we have not been
+    materially adversely affected by the inability to obtain raw
+    materials or products. In fiscal 2007, our Broadcast
+    Communications segment experienced component shortages from
+    vendors as a result of the new RoHS environmental regulations in
+    the European Union, which became effective on July 1, 2006.
+    These regulations caused a spike in demand for lead-free
+    electronic components, resulting in industry-wide supply chain
+    shortages. These component shortages did not have a material
+    adverse effect on our business.
+
+
+ 
+
+
+
+    Seasonality
+
+
+
+
+
+    We do not consider any material portion of our business to be
+    seasonal. Various factors can affect the distribution of our
+    revenue between accounting periods, including the timing of
+    U.S. Government budgets, supplemental budgets and contract
+    awards, the availability of funding, product deliveries and
+    customer acceptance.
+
+
+ 
+
+
+
+    Employees
+
+
+
+
+
+    We employed approximately 16,500 employees at the end of
+    fiscal 2008 compared with approximately 16,000 employees at
+    the end of fiscal 2007. Approximately 89 percent of our
+    employees as of the end of fiscal 2008 are located in the United
+    States. A significant number of employees in our Defense
+    Communications and Electronics and Government Communications
+    Systems segments possess a security clearance. We also utilize a
+    number of independent contractors. None of our employees in the
+    United States is represented by a labor union. In certain
+    international subsidiaries, our employees are represented by
+    workers’ councils or statutory labor unions. In general, we
+    believe that our relations with our employees are good.
+
+
+ 
+
+
+
+    Website
+    Access to Harris Reports; Available Information
+
+
+
+
+
+    General.  We maintain an Internet website at
+    http://www.harris.com.
+    Our annual reports on Form 10-K, quarterly reports on
+    Form 10-Q, current reports on Form 8-K and amendments
+    to such reports, filed or furnished pursuant to
+    Section 13(a) or 15(d) of the Securities Exchange Act of
+    1934, are available free of charge on our website as soon as
+    reasonably practicable after these reports are electronically
+    filed with, or furnished to, the Securities and Exchange
+    Commission (“SEC”). We also will provide the reports
+    in electronic or paper form free of charge upon request. We also
+    make available free of charge on our website our annual report
+    to shareholders and proxy statement. Our website and the
+    information posted thereon are not incorporated into this Annual
+    Report on
+    Form 10-K
+    or any current or other periodic report that we file with or
+    furnish to the SEC. All reports we file with or furnish to the
+    SEC also are available free of charge via the SEC’s
+    electronic data gathering and retrieval (“EDGAR”)
+    system available through the SEC’s website at
+    http://www.sec.gov.
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+    Additional information relating to our businesses, including our
+    operating segments, is set forth in “Item 7.
+    Management’s Discussion and Analysis of Financial Condition
+    and Results of Operations” of this Annual Report on
+    Form 10-K.
+
+
+ 
+
+
+    Corporate Governance Principles and Committee
+    Charters.  We previously adopted Corporate
+    Governance Principles, which are available on the Corporate
+    Governance section of our website at
+    www.harris.com/harris/cg/. In addition, the charters of
+    each of the committees of our Board, namely, the Audit
+    Committee, Business Conduct and Corporate Responsibility
+    Committee, Corporate Governance Committee, Finance Committee and
+    Management Development and Compensation Committee, are also
+    available on the Corporate Governance section of our website. A
+    copy of the charters is also available free of charge upon
+    written request to our Corporate Secretary at Harris
+    Corporation, 1025 West NASA Boulevard, Melbourne, Florida
+    32919.
+
+
+ 
+
+
+    Certifications.  We have filed with the SEC the
+    certifications required by Section 302 of the
+    Sarbanes-Oxley Act of 2002 as exhibits to this Annual Report on
+    Form 10-K.
+    In addition, an annual CEO certification was submitted by our
+    Chief Executive Officer to the New York Stock Exchange in
+    November 2007 in accordance with the NYSE’s listing
+    standards, which included a certification that he was not aware
+    of any violation by Harris of the NYSE’s corporate
+    governance listing standards.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1A.  
+
+    
+    RISK
+    FACTORS.
+
+
+
+
+
+ 
+
+
+    We have described many of the trends and other factors that
+    could impact our business and future results in
+    “Item 7. Management’s Discussion and Analysis of
+    Financial Condition and Results of Operations” of this
+    Annual Report on
+    Form 10-K.
+    In addition, our business, operating results, cash flows and
+    financial condition are subject to various risks and
+    uncertainties, including, without limitation, those set forth
+    below, any one of which could cause our actual results to vary
+    materially from recent results or our anticipated future results.
+
+
+ 
+
+
+
+    We
+    participate in markets that are often subject to uncertain
+    economic conditions, which makes it difficult to estimate growth
+    in our markets and, as a result, future income and
+    expenditures.
+
+
+
+
+
+    We participate in markets that are subject to uncertain economic
+    conditions. As a result, it is difficult to estimate the level
+    of growth in some of the markets in which we participate.
+    Because all components of our budgeting and forecasting are
+    dependent upon estimates of growth in the markets we serve, the
+    uncertainty renders estimates of future income and expenditures
+    even more difficult. As a result, we may make significant
+    investments and expenditures but never realize the anticipated
+    benefits, which could adversely affect our results of
+    operations. The future direction of the overall domestic and
+    global economies also will have a significant impact on our
+    overall performance.
+
+
+ 
+
+
+
+    We
+    depend on the U.S. Government for a significant portion of our
+    revenue, and the loss of this relationship or a shift in U.S.
+    Government funding could have adverse consequences on our future
+    business.
+
+
+
+
+
+    We are highly dependent on sales to the U.S. Government.
+    The percentage of our net revenue that was derived from sales to
+    the U.S. Government was approximately 68 percent in
+    fiscal 2008 and 66 percent in each of fiscal 2007 and
+    fiscal 2006. Therefore, any significant disruption or
+    deterioration of our relationship with the U.S. Government
+    would significantly reduce our revenue. Our U.S. Government
+    programs must compete with programs managed by other government
+    contractors for limited resources and for uncertain levels of
+    funding. Our competitors continuously engage in efforts to
+    expand their business relationships with the
+    U.S. Government and will continue these efforts in the
+    future. The U.S. Government may choose to use other
+    contractors for its limited number of programs. In addition, the
+    funding of programs also competes with non-procurement spending
+    of the U.S. Government. Budget decisions made by the
+    U.S. Government are outside of our control and have
+    long-term consequences for our business. A shift in
+    U.S. Government spending to other programs in which we are
+    not involved, an increase in non-procurement spending or a
+    reduction in U.S. Government spending generally, could have
+    material adverse consequences on our future business.
+
+
+ 
+
+
+
+    We
+    depend significantly on our U.S. Government contracts, which
+    often are only partially funded, subject to immediate
+    termination, and heavily regulated and audited. The termination
+    or failure to fund one or more of these contracts could have an
+    adverse impact on our business.
+
+
+
+
+
+    Over its lifetime, a U.S. Government program may be
+    implemented by the award of many different individual contracts
+    and subcontracts. The funding of U.S. Government programs
+    is subject to Congressional appropriations. Although multi-year
+    contracts may be planned or authorized in connection with major
+    procurements, Congress generally appropriates funds on a fiscal
+    year basis even though a program may continue for several years.
+    Consequently, programs often receive only partial funding
+    initially, and additional funds are committed only as
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+    Congress authorizes further appropriations. The termination of
+    funding for a U.S. Government program would result in a
+    loss of anticipated future revenue attributable to that program,
+    which could have an adverse impact on our operations. In
+    addition, the termination of a program or the failure to commit
+    additional funds to a program that already has been started
+    could result in lost revenue and increase our overall costs of
+    doing business.
+
+
+ 
+
+
+    Generally, U.S. Government contracts are subject to
+    oversight audits by U.S. Government representatives. In
+    addition, the contracts generally contain provisions permitting
+    termination, in whole or in part, without prior notice at the
+    U.S. Government’s convenience upon the payment only
+    for work done and commitments made at the time of termination.
+    We can give no assurance that one or more of our
+    U.S. Government contracts will not be terminated under
+    these circumstances. Also, we can give no assurance that we
+    would be able to procure new contracts to offset the revenue or
+    backlog lost as a result of any termination of our
+    U.S. Government contracts. Because a significant portion of
+    our revenue is dependent on our performance and payment under
+    our U.S. Government contracts, the loss of one or more
+    large contracts could have a material adverse impact on our
+    financial condition.
+
+
+ 
+
+
+    Our government business also is subject to specific procurement
+    regulations and a variety of socio-economic and other
+    requirements. These requirements, although customary in
+    U.S. Government contracts, increase our performance and
+    compliance costs. These costs might increase in the future,
+    thereby reducing our margins, which could have an adverse effect
+    on our financial condition. Failure to comply with these
+    regulations and requirements could lead to suspension or
+    debarment from U.S. Government contracting or
+    subcontracting for a period of time. Among the causes for
+    debarment are violations of various laws, including those
+    related to procurement integrity, export control,
+    U.S. Government security regulations, employment practices,
+    protection of the environment, accuracy of records, proper
+    recording of costs and foreign corruption. The termination of a
+    U.S. Government contract or relationship as a result of any
+    of these acts would have an adverse impact on our operations and
+    could have an adverse effect on our standing and eligibility for
+    future U.S. Government contracts.
+
+
+ 
+
+
+
+    We
+    enter into fixed-price contracts that could subject us to losses
+    in the event of cost overruns or a significant increase in
+    inflation.
+
+
+
+
+
+    We have a number of firm fixed-price contracts. In fiscal 2008
+    and fiscal 2007, approximately 35 percent and
+    33 percent, respectively, of the total combined revenue of
+    our Defense Communications and Electronics and Government
+    Communications Systems segments was from fixed-price contracts.
+    These contracts allow us to benefit from cost savings, but they
+    carry the risk of potential cost overruns because we assume all
+    of the cost burden. If our initial estimates are incorrect, we
+    can lose money on these contracts. U.S. Government
+    contracts can expose us to potentially large losses because the
+    U.S. Government can hold us responsible for completing a
+    project or, in certain circumstances, paying the entire cost of
+    its replacement by another provider regardless of the size or
+    foreseeability of any cost overruns that occur over the life of
+    the contract. Because many of these contracts involve new
+    technologies and applications and can last for years, unforeseen
+    events, such as technological difficulties, fluctuations in the
+    price of raw materials, problems with our suppliers and cost
+    overruns, can result in the contractual price becoming less
+    favorable or even unprofitable to us over time. Recently, the
+    United States has experienced a significant increase in
+    inflation. A continued significant increase in inflation rates
+    could also have a significant adverse impact on the
+    profitability of these contracts. Furthermore, if we do not meet
+    contract deadlines or specifications, we may need to renegotiate
+    contracts on less favorable terms, be forced to pay penalties or
+    liquidated damages or suffer major losses if the customer
+    exercises its right to terminate. In addition, some of our
+    contracts have provisions relating to cost controls and audit
+    rights, and if we fail to meet the terms specified in those
+    contracts we may not realize their full benefits. Our results of
+    operations are dependent on our ability to maximize our earnings
+    from our contracts. Lower earnings caused by cost overruns and
+    cost controls would have an adverse impact on our financial
+    results. Furthermore, the potential impact of this risk on our
+    financial results would be magnified by a shift in the mix of
+    our contracts and programs toward a greater percentage of firm
+    fixed-price contracts.
+
+
+ 
+
+
+
+    We
+    derive a substantial portion of our revenue from international
+    operations and are subject to the risks of doing business
+    internationally, including fluctuations in currency exchange
+    rates.
+
+
+
+
+
+    We are dependent on sales to customers outside the United
+    States. In fiscal 2008, fiscal 2007 and fiscal 2006, revenue
+    from products exported from the U.S. or manufactured abroad
+    was 24 percent, 23 percent and 21 percent,
+    respectively, of our total revenue. Approximately
+    54 percent of our international business in fiscal 2008 was
+    transacted in local currency environments. Losses resulting from
+    currency rate fluctuations can adversely affect our results. We
+    expect that international revenue will continue to account for a
+    significant portion of our total revenue.
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+    Also, a significant portion of our international revenue is in
+    less-developed countries. We are subject to risks of doing
+    business internationally, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Currency exchange controls, fluctuations of currency and
+    currency revaluations;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    The laws, regulations and policies of foreign governments
+    relating to investments and operations, as well as
+    U.S. laws affecting the activities of U.S. companies
+    abroad;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Changes in regulatory requirements, including imposition of
+    tariffs or embargoes, export controls and other trade
+    restrictions;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Uncertainties and restrictions concerning the availability of
+    funding, credit or guarantees;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    The complexity and necessity of using international dealers,
+    distributors, sales representatives and consultants;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    The difficulty of managing an organization doing business in
+    many countries;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Import and export licensing requirements and regulations, as
+    well as unforeseen changes in export regulations;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Uncertainties as to local laws and enforcement of contract and
+    intellectual property rights and occasional requirements for
+    onerous contract clauses; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Rapid changes in government, economic and political policies,
+    political or civil unrest, acts of terrorism or the threat of
+    international boycotts or U.S. anti-boycott legislation.
+
+
+
+
+
+ 
+
+
+    While these factors and the impacts of these factors are
+    difficult to predict, any one or more of them could adversely
+    affect our business, financial condition and results of
+    operations in the future.
+
+
+ 
+
+
+
+    We may
+    not be successful in obtaining the necessary export licenses to
+    conduct certain operations abroad, and Congress may prevent
+    proposed sales to certain foreign governments.
+
+
+
+
+
+    We must first obtain export and other licenses and
+    authorizations from various U.S. Government agencies before
+    we are permitted to sell certain products and technologies
+    outside of the United States. For example, the
+    U.S. Department of State must notify Congress at least
+    15-60 days,
+    depending on the size and location of the sale, prior to
+    authorizing certain sales of defense equipment and services to
+    foreign governments. During that time, Congress may take action
+    to block the proposed sale. We can give no assurance that we
+    will continue to be successful in obtaining the necessary
+    licenses or authorizations or that Congress will not prevent or
+    delay certain sales. Any significant impairment of our ability
+    to sell products or technologies outside of the United States
+    could negatively impact our results of operations and financial
+    condition.
+
+
+ 
+
+
+
+    Our
+    future success will depend on our ability to develop new
+    products and technologies that achieve market acceptance in our
+    current and future markets.
+
+
+
+
+
+    Both our commercial and government businesses are characterized
+    by rapidly changing technologies and evolving industry
+    standards. Accordingly, our future performance depends on a
+    number of factors, including our ability to:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Identify emerging technological trends in our current and target
+    markets;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Develop and maintain competitive products;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Enhance our offerings by adding innovative hardware, software or
+    other features that differentiate our products from those of our
+    competitors;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Develop, manufacture and bring cost-effective offerings to
+    market quickly; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Effectively structure our businesses, through the use of teaming
+    agreements, ventures and other forms of alliances, to reflect
+    the competitive environment.
+
+
+
+
+
+ 
+
+
+    We believe that, in order to remain competitive in the future,
+    we will need to continue to develop new products and
+    technologies, requiring the investment of significant financial
+    resources. The need to make these expenditures could divert our
+    attention and resources from other projects, and we cannot be
+    sure that these expenditures ultimately will lead to the timely
+    development of new products or technologies. Due to the design
+    complexity of some of our products and technologies, we may
+    experience delays in completing development and introducing new
+    products or technologies in the future. Any delays could result
+    in increased costs of development or redirect resources from
+    other projects. In addition, we cannot provide assurances that
+    the markets for our products or technologies will develop as we
+    currently anticipate. The failure of our products or
+    technologies to gain market acceptance could significantly
+    reduce our revenue and harm our business. Furthermore, we cannot
+    be sure that our competitors will not develop competing products
+    or technologies that gain market acceptance in advance of our
+    products or technologies, or that our competitors will not
+    develop new products or technologies that cause our existing
+    products or technologies to become obsolete. If we fail in our
+    new product and technology development efforts, or our products
+    or technologies fail to achieve market acceptance more rapidly
+    than those of our
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+    competitors, our revenue will decline and our business,
+    financial condition and results of operations will be adversely
+    affected.
+
+
+ 
+
+
+
+    We
+    cannot predict the consequences of future geo-political events,
+    but they may affect adversely the markets in which we operate,
+    our ability to insure against risks, our operations or our
+    profitability.
+
+
+
+
+
+    The terrorist attacks in the United States on September 11,
+    2001, the subsequent
+    U.S.-led
+    military response, current conflicts in the Middle East and the
+    potential for future terrorist activities and other recent
+    geo-political events have created economic and political
+    uncertainties that could have a material adverse effect on our
+    business and the prices of our securities. These matters have
+    caused uncertainty in the world’s financial and insurance
+    markets and may increase significantly the political, economic
+    and social instability in the geographic areas in which we
+    operate. These matters also have caused the premiums charged for
+    our insurance coverages to increase and may cause some coverages
+    to be unavailable altogether. While our government businesses
+    have benefited from homeland defense initiatives and the Global
+    War on Terror, these developments may affect adversely our
+    business and profitability and the prices of our securities in
+    ways that we cannot predict at this time.
+
+
+ 
+
+
+
+    We
+    have made, and may continue to make, strategic acquisitions that
+    involve significant risks and uncertainties.
+
+
+
+
+
+    We have made, and we may continue to make, strategic
+    acquisitions that involve significant risks and uncertainties.
+    These risks and uncertainties include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    Difficulty in integrating newly acquired businesses and
+    operations in an efficient and cost-effective manner and the
+    risk that we encounter significant unanticipated costs or other
+    problems associated with integration;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Challenges in achieving strategic objectives, cost savings and
+    other benefits expected from acquisitions;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Risk that our markets do not evolve as anticipated and that the
+    strategic acquisitions do not prove to be those needed to be
+    successful in those markets;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Risk that we assume significant liabilities that exceed the
+    limitations of any applicable indemnification provisions or the
+    financial resources of any indemnifying parties;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Potential loss of key employees of the acquired
+    businesses; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Risk of diverting the attention of senior management from our
+    existing operations.
+
+
+
+
+
+ 
+
+
+
+    The
+    inability of our subcontractors to perform, or our key suppliers
+    to timely deliver our components or parts, could cause our
+    products to be produced in an untimely or unsatisfactory
+    manner.
+
+
+
+
+
+    On many of our contracts, we engage subcontractors. In addition,
+    there are certain parts or components for many of our products
+    which we source from other manufacturers or vendors. Some of our
+    suppliers, from time to time, experience financial and
+    operational difficulties, which may impact their ability to
+    supply the materials, components and subsystems that we require.
+    Any inability to develop alternative sources of supply on a
+    cost-effective
+    and timely basis could materially impair our ability to
+    manufacture and deliver products to our customers. We can give
+    no assurances that we will be free from material supply problems
+    or component or subsystems problems in the future. Also, our
+    subcontractors and other suppliers may not be able to maintain
+    the quality of the materials, components and subsystems they
+    supply, which might result in greater product returns and
+    warranty claims and could harm our business, financial condition
+    and results of operations.
+
+
+ 
+
+
+
+    Third
+    parties have claimed in the past and may claim in the future
+    that we are infringing directly or indirectly upon their
+    intellectual property rights, and third parties may infringe
+    upon our intellectual property rights.
+
+
+
+
+
+    Many of the markets we serve are characterized by vigorous
+    protection and pursuit of intellectual property rights, which
+    often has resulted in protracted and expensive litigation. Third
+    parties have claimed in the past and may claim in the future
+    that we are infringing directly or indirectly upon their
+    intellectual property rights, and we may be found to be
+    infringing or to have infringed directly or indirectly upon
+    those intellectual property rights. Claims of intellectual
+    property infringement might also require us to enter into costly
+    royalty or license agreements. Moreover, we may not be able to
+    obtain royalty or license agreements on terms acceptable to us,
+    or at all. We also may be subject to significant damages or
+    injunctions against development and sale of certain of our
+    products. Our success depends in large part on our proprietary
+    technology. We rely on a combination of patents, copyrights,
+    trademarks, trade secrets, know-how, confidentiality provisions
+    and licensing arrangements to establish and protect our
+    intellectual property rights. If we fail to successfully protect
+    and enforce these rights, our competitive position could suffer.
+    Our pending patent and trademark registration applications may
+    not be allowed, or competitors may challenge the validity or
+    scope of our patents or trademark registrations. In addition,
+    our patents may not provide us a significant competitive
+    advantage. We may be required to spend significant resources to
+    monitor and police our intellectual property rights. We may not
+    be able to detect infringement and our competitive position may
+    be harmed before we do so. In addition, competitors may design
+    around our technology or develop competing technologies.
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+
+    The
+    outcome of litigation or arbitration in which we are involved is
+    unpredictable and an adverse decision in any such matter could
+    have a material adverse affect on our financial position and
+    results of operations.
+
+
+
+
+
+    We are defendants in a number of litigation matters and are
+    involved in a number of arbitrations. These actions may divert
+    financial and management resources that would otherwise be used
+    to benefit our operations. No assurances can be given that the
+    results of these or new matters will be favorable to us. An
+    adverse resolution of lawsuits or arbitrations could have a
+    material adverse affect on our financial condition and results
+    of operations.
+
+
+ 
+
+
+
+    We are
+    subject to customer credit risk.
+
+
+
+
+
+    We sometimes provide medium-term and long-term customer
+    financing. Customer financing arrangements may include all or a
+    portion of the purchase price for our products and services, as
+    well as working capital. We also may assist customers in
+    obtaining financing from banks and other sources on a recourse
+    or non-recourse basis. While we generally have been able to
+    place a portion of our customer financings with third-party
+    lenders, or to otherwise insure a portion of this risk, a
+    portion of these financings is provided directly by us. There
+    can be higher risks associated with some of these financings,
+    particularly when provided to
+    start-up
+    operations such as local network providers, to customers in
+    developing countries or to customers in specific
+    financing-intensive areas of the telecommunications industry. If
+    customers fail to meet their obligations, losses could be
+    incurred and such losses could have an adverse effect on us. Our
+    losses could be much greater if it becomes more difficult to
+    place or insure against these risks with third parties. These
+    risks may increase when the availability of credit decreases.
+
+
+ 
+
+
+
+    We
+    face certain significant risk exposures and potential
+    liabilities that may not be covered adequately by insurance or
+    indemnity.
+
+
+
+
+
+    We are exposed to liabilities that are unique to the products
+    and services we provide. A significant portion of our business
+    relates to designing, developing and manufacturing advanced
+    defense and technology systems and products. New technologies
+    associated with these systems and products may be untested or
+    unproven. Components of certain of the defense systems and
+    products we develop are inherently dangerous. Failures of
+    satellites, missile systems, air-traffic control systems,
+    homeland security applications and aircraft have the potential
+    to cause loss of life and extensive property damage. In most
+    circumstances, we may receive indemnification from the
+    U.S. Government. While we maintain insurance for certain
+    risks, the amount of our insurance coverage may not be adequate
+    to cover all claims or liabilities, and we may be forced to bear
+    substantial costs from an accident or incident. It also is not
+    possible to obtain insurance to protect against all operational
+    risks and liabilities. Substantial claims resulting from an
+    incident in excess of U.S. Government indemnity and our
+    insurance coverage could harm our financial condition, operating
+    results and cash flows. Moreover, any accident or incident for
+    which we are liable, even if fully insured, could negatively
+    affect our standing among our customers and the public, thereby
+    making it more difficult for us to compete effectively, and
+    could significantly impact the cost and availability of adequate
+    insurance in the future.
+
+
+ 
+
+
+
+    Changes
+    in our effective tax rate may have an adverse effect on our
+    results of operations.
+
+
+
+
+
+    Our future effective tax rate may be adversely affected by a
+    number of factors including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    The jurisdictions in which profits are determined to be earned
+    and taxed;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Adjustments to estimated taxes upon finalization of various tax
+    returns;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Increases in expenses not deductible for tax purposes, including
+    write-offs of acquired in-process research and development and
+    impairment of goodwill in connection with acquisitions;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Changes in available tax credits;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Changes in share-based compensation expense;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Changes in the valuation of our deferred tax assets and
+    liabilities;
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    Changes in domestic or international tax laws or the
+    interpretation of such tax laws; and
+
+
+
+
+
+
+
+
+     
+        • 
+
+    
+    The resolution of issues arising from tax audits with various
+    tax authorities.
+
+
+
+
+
+ 
+
+
+    Any significant increase in our future effective tax rates could
+    adversely impact our results of operations for future periods.
+
+
+ 
+
+
+
+    Our
+    consolidated financial results may be impacted by Harris Stratex
+    Networks’ financial results, which may vary significantly
+    and be difficult to forecast.
+
+
+
+
+
+    We consolidate Harris Stratex Networks’ financial results
+    in our results of operations. Harris Stratex Networks’
+    financial results may vary significantly in the future and may
+    be affected by a number of factors (many of which are outside of
+    our and Harris Stratex Networks’ control), and accordingly
+    are expected to be difficult to forecast. Delays in product
+    delivery or closing of a sale can cause quarterly revenues and
+    quarterly net income to fluctuate significantly from anticipated
+    levels. In addition, Harris Stratex Networks may increase
+    spending in response to
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+    competition or in pursuit of new market opportunities.
+    Accordingly, we cannot provide assurances that Harris Stratex
+    Networks will be able to achieve profitability in the future or,
+    if profitability is attained, that Harris Stratex Networks will
+    be able to sustain profitability, particularly on a
+    quarter-to-quarter basis.
+
+
+ 
+
+
+    Because we consolidate Harris Stratex Networks’ financial
+    results in our results of operations, fluctuations in and
+    difficulty in forecasting Harris Stratex Networks’
+    financial results will result in fluctuations in and likely
+    greater difficulty in forecasting our consolidated results of
+    operations. As a result, such fluctuations and forecasting
+    difficulty may impact our consolidated financial results.
+    Additionally, we rely on Harris Stratex Networks to timely
+    provide its financial information for us to use in preparing and
+    filing with the SEC our consolidated financial statements.
+    Delays or other difficulties in Harris Stratex Networks’
+    ability to provide on a timely basis financial information that
+    accurately reflects its financial results may result in delays
+    or other difficulties in our ability to prepare and file with
+    the SEC on a timely basis our consolidated financial statements
+    that accurately reflect our consolidated results of operations.
+
+
+ 
+
+
+
+    We
+    have significant operations in Florida, California and other
+    locations that could be materially and adversely impacted in the
+    event of a natural disaster or other significant
+    disruption.
+
+
+
+
+
+    Our corporate headquarters and significant operations of our
+    Government Communications Systems segment are located in
+    Florida, where major hurricanes have occurred. In addition, our
+    Broadcast Communications and Harris Stratex Networks segments
+    have locations near major earthquake fault lines in California.
+    Our worldwide operations could be subject to natural disasters
+    or other significant disruptions, including hurricanes,
+    typhoons, tsunamis, floods, earthquakes, fires, water shortages,
+    other extreme weather conditions, medical epidemics, acts of
+    terrorism, power shortages and blackouts, telecommunications
+    failures, and other natural and manmade disasters or
+    disruptions. In the event of such a natural disaster or other
+    disruption, we could experience disruptions or interruptions to
+    our operations or the operations of our suppliers, distributors,
+    resellers or customers; destruction of facilities;
+    and/or
+    loss of life, all of which could materially increase our costs
+    and expenses and materially adversely affect our business,
+    revenue and financial condition.
+
+
+ 
+
+
+
+    Changes
+    in future business conditions could cause business investments
+    and/or recorded goodwill to become impaired, resulting in
+    substantial losses and write-downs that would reduce our results
+    of operations.
+
+
+
+
+
+    As part of our overall strategy, we will, from time to time,
+    acquire a minority or majority interest in a business. These
+    investments are made upon careful target analysis and due
+    diligence procedures designed to achieve a desired return or
+    strategic objective. These procedures often involve certain
+    assumptions and judgment in determining acquisition price. After
+    acquisition, unforeseen issues could arise which adversely
+    affect the anticipated returns or which are otherwise not
+    recoverable as an adjustment to the purchase price. Even after
+    careful integration efforts, actual operating results may vary
+    significantly from initial estimates. Goodwill accounts for
+    approximately 34 percent of our recorded total assets as of
+    June 27, 2008. We evaluate the recoverability of recorded
+    goodwill amounts annually, or when evidence of potential
+    impairment exists. The annual impairment test is based on
+    several factors requiring judgment. Principally, a decrease in
+    expected reporting segment cash flows or changes in market
+    conditions may indicate potential impairment of recorded
+    goodwill. For additional information on accounting policies we
+    have in place for goodwill impairment, see our discussion under
+    “Critical Accounting Policies and Estimates” in
+    “Item 7. Management’s Discussion and Analysis of
+    Financial Condition and Results of Operations” of this
+    Annual Report on
+    Form 10-K
+    and Note 1: Significant Accounting Policies in the
+    Notes.
+
+
+ 
+
+
+
+    In
+    order to be successful, we must attract and retain key
+    employees, and failure to do so could seriously harm
+    us.
+
+
+
+
+
+    Our business has a continuing need to attract significant
+    numbers of skilled personnel, including personnel holding
+    security clearances, to support our growth and to replace
+    individuals who have terminated employment due to retirement or
+    for other reasons. To the extent that the demand for qualified
+    personnel exceeds supply, as has been the case in recent years,
+    we could experience higher labor, recruiting or training costs
+    in order to attract and retain such employees, or could
+    experience difficulties in performing under our contracts if our
+    needs for such employees were unmet.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1B

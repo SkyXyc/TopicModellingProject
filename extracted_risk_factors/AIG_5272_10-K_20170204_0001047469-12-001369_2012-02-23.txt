@@ -1,0 +1,984 @@
+ITEM 1A. RISK FACTORS      
+
+    We were significantly and adversely affected by the market turmoil in late 2008 and early 2009. In addition, we continued to experience a
+challenging business environment, as well as volatile market conditions, throughout 2011. As a result, our businesses, consolidated results of operations, financial conditions and liquidity are
+subject to significant risks, as discussed below. This challenging environment and volatile market conditions may continue in 2012. 
+
+
+    The
+risks described below are not the only ones we face. Additional risks that are not currently known to us or that we currently believe are immaterial may also adversely affect our
+businesses, results of operations, financial condition or liquidity. Many of these risks are interrelated and occur under similar business and economic conditions, and the occurrence of certain of
+them may in turn cause the emergence, or exacerbate the effect, of others. Such a combination could materially increase the severity of the impact on our operations, liquidity and financial condition. 
+
+
+<A
+NAME="ci10201_market_conditions"> 
+ 
+
+
+
+
+
+
+ MARKET CONDITIONS
+
+     Our businesses, consolidated results of operations and financial condition have been, and may continue to be, materially and adversely affected by market
+conditions.    Our businesses are highly dependent on the business environment in which they operate. In 2008 and through early 2009, the significant deterioration in
+worldwide economic conditions materially and adversely affected our businesses. The global financial crisis resulted in a serious lack of liquidity, highly volatile markets, a steep depreciation in
+asset values across all classes, an erosion of investor and public confidence, a widening of credit spreads, a lack of price transparency in many markets, and the collapse or merger of several
+prominent financial institutions. Difficult economic conditions also resulted in increased unemployment and a severe decline in business activity across a wide range of industries and regions. A
+challenging business environment and volatile markets persisted through 2011 and may continue in 2012. As a result, asset values for many asset classes have not returned to previous levels, and
+business, financial and economic conditions continue to be negatively affected, particularly in light of high unemployment levels. Revenue and budget constraints affecting U.S. municipalities, lending
+activities and the housing and commercial property markets also continue to have a negative effect on asset values. Further, the adverse European economic and financial conditions related to sovereign
+debt issues in certain countries and concerns regarding the European Union have contributed to increased instability in global credit markets. If such conditions persist, we may be negatively affected
+in a number of ways, including, but not limited to: 
+
+
+
+•declines in the valuation and performance of our investment portfolio;   
+•declines in the value of our remaining shares in AIA;   
+•an inability to monetize our interest in ILFC;   
+•increased credit losses;   
+•impairments of goodwill, aircraft and other long-lived assets;   
+•additional statutory capital requirements;   
+•limitations on our ability to recover deferred tax assets;   
+•a decline in new business levels;   
+•a decline in insured values caused by a decrease in activity at client organizations;   
+•an increase in liability for future policy benefits due to loss recognition on certain long-duration insurance
+contracts;   
+•higher borrowing costs and more limited availability of credit for AIG Parent and our subsidiaries;  
+•an increase in policy surrenders and cancellations; and  
+•a writeoff of deferred policy acquisition costs (DAC). 
+
+AIG 2011 Form 10-K            29
+
+
+
+
+ 
+
+
+Table of Contents
+
+    Sustained low interest rates may affect our profitability.    We have substantial investment portfolios that support our policy liabilities. Low levels
+of interest rates on investments have reduced the level of investment income earned by AIG. If a low interest-rate environment persists, we may experience slower investment income growth
+and we may not be able to fully mitigate the interest rate risk of our assets relative to our liabilities. A decline in interest rates could impair our ability to earn the returns assumed in the
+pricing and the reserving for our products at the time they were sold and issued. 
+
+<A
+NAME="ci10201_investment_portfolio_and_conce__inv03492"> 
+ 
+
+
+
+
+
+
+ INVESTMENT PORTFOLIO AND CONCENTRATION OF INVESTMENTS, INSURANCE AND OTHER  EXPOSURES
+
+     The value of our investment portfolio is subject to a number of risks and uncertainties, including changes in interest rates.    Changes in interest
+rates can negatively affect the performance of our investment securities. Interest rates are highly sensitive to many factors, including monetary policies, domestic and international economic and
+political issues and other factors beyond our control. Changes in monetary policy or other factors may cause interest rates to rise, which would adversely affect the value of the fixed income
+securities that we hold and could adversely affect our ability to sell these securities. In addition, the evaluation of available-for-sale securities for
+other-than-temporary impairments is a quantitative and qualitative process that is subject to significant management judgment. 
+
+     Concentration of our investment portfolios in any particular segment of the economy may have adverse effects.    Our results of operations have been
+adversely affected and may continue to be adversely affected by a concentration in residential mortgage-backed, commercial mortgage-backed and other asset-backed securities and commercial mortgage
+loans. We also have significant exposures to: financial institutions and, in particular, to money center and global banks; U.S. state and local government issuers and authorities (as described below);
+and Eurozone financial institutions and governments and corporations. These types of concentrations in our investment portfolios could have an adverse effect on the value of these portfolios and
+consequently on our consolidated results of operations and financial condition. Events or developments that have a negative effect on any particular industry, asset class, group of related industries
+or geographic region may have a greater adverse effect on the investment
+portfolios to the extent that the portfolios are concentrated. Furthermore, our ability to sell assets relating to such particular groups of related assets may be limited if other market participants
+are seeking to sell at the same time. 
+
+    The value of our investment portfolio is exposed to the creditworthiness of state and municipal governments.    We hold a large portfolio of state and
+municipal bonds ($37.4 billion at December 31, 2011), primarily in Chartis, and, because of the budgetary pressures that states and municipalities are continuing to face in the current
+economic environment, the risks associated with this portfolio remain. Defaults, or the prospect of imminent defaults, by the issuers of state and municipal bonds could cause our portfolio to decline
+in value and significantly reduce the portfolio's liquidity, which could also adversely affect AIG Parent's liquidity if AIG Parent then needed, or was required by its capital maintenance agreements,
+to provide additional capital support to the insurance subsidiaries holding the affected state and municipal bonds. As with our fixed income security portfolio generally, rising interest rates would
+also negatively affect the value of our portfolio of state and municipal bonds and could make those instruments more difficult to sell. A decline in the liquidity or market value of these instruments,
+which are carried at fair value for statutory purposes, could also result in a decline in the Chartis entities' capital ratios and, in turn, require AIG Parent to provide additional capital to those
+entities. 
+
+     Concentration of our insurance and other risk exposures may have adverse effects.    We seek to manage the risks to which we are exposed as a result of
+the securities or loans we hold and the insurance policies, derivatives and other obligations that we undertake to customers and counterparties by monitoring the accumulation of our exposures by
+exposure type, industry, geographic region, counterparty and otherwise and by using reinsurance, hedging and other arrangements to limit or offset exposures that exceed the limits we wish to retain.
+In certain circumstances, or with respect to certain exposures, such risk management arrangements may not be available on acceptable terms or may prove to be ineffective, or our exposure in absolute
+terms may be so large that even slightly adverse experience compared to our expectations may have a material adverse effect on our consolidated financial condition or results of operations or result
+in additional statutory capital requirements. 
+
+30            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+<A
+NAME="ci10201_casualty_insurance_reserves"> 
+ 
+
+
+
+
+
+
+CASUALTY INSURANCE RESERVES
+
+
+    Casualty insurance liabilities are difficult to predict and may exceed the related reserves for losses and loss expenses.    Although we regularly
+review the adequacy of the established Liability for unpaid claims and claims adjustment expense and conduct extensive analyses of our reserves during the year, there can be no assurance that our loss
+reserves will not develop adversely and have a material adverse effect on our results of operations. Estimation of ultimate net losses, loss expenses and loss reserves is a complex process for
+long-tail casualty lines of business, which include but are not limited to general liability, commercial automobile liability, environmental, workers' compensation, excess casualty and
+crisis management coverages, insurance and risk management programs for large corporate customers and other customized structured insurance products, as well as excess and umbrella liability, D&O and
+products liability. A number of analytical reserve development techniques are used to project future loss development. However, there can be no assurance that future loss development patterns will be
+the same as in the past. Moreover, any deviation in loss cost trends or in loss development factors might not be discernible for an extended period of time subsequent to the recording of the initial
+loss reserve estimates for any accident year. There is the potential for reserves with respect to a number of years to be significantly affected by changes in loss cost trends or loss development
+factors that were relied upon in setting the reserves. These changes in loss cost trends or loss development factors could be attributable to changes in inflation or in the judicial environment, or in
+other social or economic phenomena affecting claims. For a further discussion of our loss reserves, see Item 7. MD&A — Results of Operations — Segment
+Results — Chartis Operations — Liability for Unpaid Claims and Claims Adjustment Expense and Critical Accounting Estimates — Liability for
+Unpaid Claims and Claims Adjustment Expenses (Chartis and Mortgage Guaranty). 
+
+<A
+NAME="ci10201_catastrophe_exposures"> 
+ 
+
+
+
+
+
+
+CATASTROPHE EXPOSURES
+
+     The occurrence of catastrophic events could adversely affect our consolidated financial condition, results of operations and liquidity.    The
+occurrence of events such as hurricanes, windstorms, flooding, earthquakes, pandemic disease, acts of terrorism and other catastrophes has in the past and could in the future adversely affect our
+consolidated financial condition, results of operations and liquidity, including by exposing our businesses to the following: 
+
+
+
+•widespread claim costs associated with property, workers' compensation, business interruption, mortality and morbidity
+claims;   
+•loss resulting from a decline in the value of invested assets to below the amount required to meet policy and contract
+liabilities; and  
+•loss resulting from actual policy experience emerging adversely in comparison to the assumptions made in the product
+pricing related to frequency, severity, mortality, morbidity, termination and expenses. 
+
+
+    For
+a sensitivity analysis of our exposure to certain catastrophes, see Item 7. MD&A — Enterprise Risk Management — Business Unit Risk
+Management — Insurance Operations — Chartis — Catastrophe Exposures. 
+
+
+<A
+NAME="ci10201_credit_and_financial_strength_ratings"> 
+ 
+
+
+
+
+
+
+ CREDIT AND FINANCIAL STRENGTH RATINGS
+
+     A downgrade in the Insurer Financial Strength ratings of our insurance companies could prevent the companies from writing new business and retaining customers and
+business.    Insurer Financial Strength (IFS) ratings are an important factor in establishing the competitive position of insurance companies. IFS ratings measure an
+insurance company's ability to meet its obligations to contract holders and policyholders. High ratings help maintain public confidence in a company's products, facilitate marketing of products and
+enhance a company's competitive position. 
+
+    Downgrades
+of the IFS ratings of our insurance companies could prevent these companies from offering, or make it more difficult for them to offer products and services or result in
+increased policy cancellations or termination of assumed reinsurance contracts. Moreover, a downgrade in AIG Parent's credit ratings could, under credit rating agency policies concerning the
+relationship between parent and subsidiary ratings, result in a downgrade of the IFS ratings of our insurance subsidiaries. 
+
+AIG 2011 Form 10-K            31
+
+
+
+
+ 
+
+Table of Contents
+
+     A downgrade in our credit ratings could require us to post additional collateral and result in the termination of derivative transactions.    Adverse
+ratings actions regarding our long-term debt ratings by the major rating agencies would require us to post additional collateral payments pursuant to, and/or permit the termination of,
+derivative transactions to which AIG is a party, which could adversely affect our business, our consolidated results of operations in a reporting period or our liquidity. Credit ratings estimate a
+company's ability to meet its obligations and may directly affect the cost and availability to that company of financing. In the event of further downgrades of two notches to our long-term
+senior debt ratings, AIG would be required to post additional collateral of $267 million, and certain of AIG's counterparties would be permitted to elect early termination of contracts. 
+
+
+    For
+a further discussion of our liquidity, see Item 7. MD&A — Capital Resources and Liquidity. 
+
+<A
+NAME="ci10201_competition"> 
+ 
+
+
+
+
+
+
+COMPETITION
+
+     We face intense competition in each of our businesses.    Our businesses operate in highly competitive environments, both domestically and overseas.
+Principal sources of competition are insurance companies, banks, investment banks and other non-bank financial institutions. We consider our principal competitors to be other large
+multi-national insurance organizations. 
+
+    The
+insurance industry in particular is highly competitive. Within the U.S., Chartis subsidiaries compete with approximately 3,200 other stock companies, specialty insurance
+organizations, mutual insurance companies and other underwriting organizations. SunAmerica subsidiaries compete in the U.S. with approximately 2,000 life insurance companies and other participants in
+related financial services fields. Overseas, our subsidiaries compete for business with the foreign insurance operations of large U.S. insurers and with global insurance groups and local companies. 
+
+
+    As
+a result of the past reduction of our credit ratings and those of our subsidiaries and the lingering effects of AIG's negative publicity, we have faced and continue to face intense
+competition to retain existing customers and to maintain business with existing customers and counterparties at historical levels. General insurance and life insurance companies compete through a
+combination of risk acceptance criteria, product pricing, and terms and conditions. Retirement services companies compete through crediting rates and the issuance of guaranteed benefits. A decline in
+our position as to any one or more of these factors could adversely affect our profitability. 
+
+<A
+NAME="ci10201_adjustments_to_deferred_policy__adj03125"> 
+ 
+
+
+
+
+
+
+ ADJUSTMENTS TO DEFERRED POLICY ACQUISITION COSTS AND FUTURE POLICY  BENEFITS
+
+     Interest rate fluctuations, increased surrenders, investment returns and other events may require our subsidiaries to accelerate the amortization of deferred policy acquisition costs
+(DAC), and record additional liabilities for future policy benefits, which could adversely affect our results of operations.    DAC represents the costs that vary
+with and are related primarily to the acquisition of new and renewal insurance and annuity contracts. 
+
+    When
+interest rates rise or customers lose confidence in a company, policy loans, policy surrenders, withdrawals of life insurance policies, and withdrawals of annuity contracts may
+increase as policyholders seek to buy products with perceived higher returns or more stability, resulting in an acceleration of the amortization of DAC. To the extent such amortization exceeds
+surrender or other charges earned upon surrender and withdrawals of certain life insurance policies and annuity contracts, our results of operations could be negatively affected. 
+
+    DAC
+for insurance-oriented and investment-oriented products, as well as retirement services products, is reviewed for recoverability, which involves estimating the future profitability
+of in-force business. This review involves significant management judgment. If future profitability is substantially lower than estimated, we could be required to accelerate DAC
+amortization, and such acceleration could adversely affect our results of operations. 
+
+    Periodically,
+AIG evaluates the estimates used in establishing liabilities for Future policy benefits for life and A&H insurance contracts, which include liabilities for certain payout
+annuities. These estimates are evaluated against actual experience and are adjusted based on management's judgment regarding mortality, morbidity, persistency, maintenance expenses, and investment
+returns, including the effect of the interest rate environment and net realized capital gains (losses). If observed changes in actual experience or estimates result in projected 
+
+32            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+future
+losses on long duration insurance contracts, AIG may be required to record additional liabilities through a charge to policyholder benefit expense, which could negatively affect our results of
+operations. 
+
+    For
+further discussion of DAC and Future policy benefits, see Item 7. MD&A — Critical Accounting Estimates and Notes 2, 10 and 13 to the Consolidated
+Financial Statements. 
+
+<A
+NAME="ci10201_guarantees_within_variable_annuities"> 
+ 
+
+
+
+
+
+
+GUARANTEES WITHIN VARIABLE ANNUITIES
+
+     Guarantees Within Certain of Our Products May Decrease Our Earnings and Increase the Volatility of Our Results.    Certain variable annuity products
+that we offer guarantee a certain level of benefits to the policyholder. These guarantee features include guaranteed minimum death benefits (GMDB), guaranteed minimum income benefits (GMIB),
+guaranteed minimum withdrawal benefits (GMWB) and guaranteed minimum account value benefits (GMAV). At December 31, 2011, our net liabilities associated with these guaranteed benefits,
+representing the aggregate amount of the benefits in excess of the related account values, were $1.2 billion. We use reinsurance in combination with derivative instruments to mitigate the
+exposure associated with these liabilities, and while we believe that these and other actions have mitigated the risks related to these guaranteed benefits, our exposure is not fully hedged, and we
+remain liable in the event that reinsurers or counterparties are unable or unwilling to pay. In addition, downturns in equity markets, increased equity volatility or reduced interest rates could
+result in an increase in the valuation of the future policy benefits or policyholder account balances, increasing the liabilities associated with the guaranteed benefits and resulting in a reduction
+in our net income and shareholders' equity. 
+
+<A
+NAME="ci10201_reinsurance"> 
+ 
+
+
+
+
+
+
+REINSURANCE
+
+     Reinsurance may not be available or affordable.    Our subsidiaries are major purchasers of reinsurance and utilize reinsurance as part of our overall
+risk management strategy. Reinsurance is an important risk management tool to manage transaction and insurance line risk retention and to mitigate losses that may arise from catastrophes. Market
+conditions beyond our control determine the availability and cost of the reinsurance purchased by our subsidiaries. For example, reinsurance may be more difficult or costly to obtain after a year with
+a large number of major catastrophes. Accordingly, we may be forced to incur additional expenses for reinsurance or may be unable to obtain sufficient reinsurance on acceptable terms, in which case we
+would have to accept an increase in exposure risk, reduce the amount of business written by our subsidiaries or seek alternatives. 
+
+     Reinsurance subjects us to the credit risk of our reinsurers and may not be adequate to protect us against losses.    Although reinsurance makes the
+reinsurer liable to our subsidiary to the extent the risk is ceded, it does not relieve our subsidiary of the primary liability to its policyholders. Accordingly, we bear credit risk with respect to
+our subsidiaries' reinsurers to the extent the credit risk is not mitigated by collateral or other credit enhancements. A reinsurer's insolvency or inability or refusal to make timely payments under
+the terms of its agreements with our subsidiaries could have a material adverse effect on our results of operations and liquidity. For additional information on our reinsurance, see Item 7.
+MD&A — Enterprise Risk Management — Business Unit Risk Management — Reinsurance. 
+
+
+<A
+NAME="ci10201_indemnity_obligations"> 
+ 
+
+
+
+
+
+
+ INDEMNITY OBLIGATIONS
+
+     Claims under indemnity obligations may be material.    We have provided financial guarantees and indemnities in connection with the businesses we have
+sold, including ALICO, AGF, AIG Star and AIG Edison. While we do not currently believe that the claims under these indemnities will be material, it is possible that significant indemnity claims could
+be made against us. If such a claim were successful, our results of operations, cash flows and liquidity could be materially adversely affected. See Note 16 to the Consolidated Financial
+Statements for more information on these financial guarantees and indemnities. 
+
+<A
+NAME="ci10201_regulation"> 
+ 
+
+
+
+
+
+
+REGULATION
+
+     The enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act will subject us to substantial additional federal regulation, which may materially and
+adversely affect our businesses, results of operations, cash flows, financial condition and credit ratings.    On July 21, 2010, the Dodd-Frank
+Wall Street Reform and Consumer 
+
+AIG 2011 Form 10-K            33
+
+
+
+
+ 
+
+Table of Contents
+
+Protection
+Act (Dodd-Frank), which effects comprehensive changes to the regulation of financial services in the United States, was signed into law. Dodd-Frank directs existing
+and newly-created government agencies and bodies to promulgate regulations implementing the law, an ongoing process anticipated to continue over the next few years. We cannot predict with certainty
+the requirements of the regulations ultimately adopted or how or whether Dodd-Frank and such regulations will affect our businesses, results of operations, cash flows or financial
+condition, require us to raise additional capital or result in a downgrade of our credit ratings. 
+
+    Under
+Dodd-Frank, we may become subject to the examination, enforcement and supervisory authority of the FRB as a savings and loan holding company or a SIFI. AIG expects that when the
+Department of the Treasury ceases to own at least 50 percent of the outstanding shares of our Common Stock, we would be regulated by the FRB as a savings and loan holding company. In either
+event: 
+
+
+
+•We would become subject to the examination, enforcement and supervisory authority of the FRB. We cannot predict how the
+FRB would exercise general supervisory authority over us.   
+•The FRB would be required to impose minimum leverage and risk-based capital requirements on us not less than
+those applicable to insured depository institutions.   
+•We may be required to place our financial activities in an intermediate holding company separate from our
+non-financial activities (as defined for purposes of the Bank Holding Company Act) subject to restrictions on transactions between the two businesses, which could be burdensome and costly
+to implement. 
+
+
+    If
+we are designated as a SIFI: 
+
+
+
+•We would become subject to stress tests to determine whether, on a consolidated basis, we have the capital necessary to
+absorb losses due to adverse economic conditions.   
+•We would be subject to stricter prudential standards, including stricter requirements and limitations relating to
+risk-based capital, leverage, liquidity and credit exposure, as well as overall risk management requirements, management interlock prohibitions and a requirement to maintain a plan for
+rapid and orderly dissolution in the event of severe financial distress.   
+•We would become subject to a new early remediation regime process to be administered by the FRB. 
+
+
+    If
+we are designated as a SIFI and determined to be a grave threat to U.S. financial stability: 
+
+
+
+•We would be required to maintain a debt-to-equity ratio of no more than 15:1.  
+•The FRB may:  
+
+
+
+•limit our ability to merge with, acquire, consolidate with, or become affiliated with another company;  
+•restrict our ability to offer specified financial products;   
+•require us to terminate specified activities;   
+•impose conditions on how we conduct our activities; or  
+•with approval of the Financial Stability Oversight Council (the Council), and a determination that the foregoing actions
+are inadequate to mitigate a threat to U.S. financial stability, require us to sell or otherwise transfer assets or off-balance-sheet items to unaffiliated entities. 
+
+
+
+
+    See
+Business — Regulation for further discussion of this potential regulation. 
+
+    If
+we continue to control AIG Federal Savings Bank or another insured depository institution, we would become subject to the "Volcker Rule", which could place limits on "proprietary
+trading" and the sponsorship of, or investment in "covered funds." The term "covered funds" could include hedge, private equity or similar funds and, in certain cases, issuers of asset backed
+securities if such securities have equity-like characteristics. These prohibitions could substantially impact our investment portfolios as they are currently managed. The Volcker Rule, as
+proposed, contains an exemption for proprietary trading by insurance companies for their general account, but the final extent of this exemption cannot be predicted. Even if we no longer controlled an
+insured depository 
+
+34            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+institution,
+we might still be subject to additional capital and quantitative limitations under the Volcker Rule as a SIFI. 
+
+    In
+addition, Dodd-Frank establishes a new framework for regulation of over the counter (OTC) derivatives under which we may have to collateralize previously uncollateralized
+swaps. These additional obligations to post collateral or the costs of assignment, termination or obtaining alternative credit could have a material adverse effect on us. This new framework may also
+increase the cost of conducting a hedging program or have other effects materially adverse to us. 
+
+    We
+cannot predict the requirements of the regulations ultimately adopted, the level and magnitude of supervision we may become subject to, or how Dodd-Frank and such
+regulations will affect the financial markets generally or our businesses, results of operations, cash flows or financial condition. It is possible that the regulations adopted under
+Dodd-Frank could significantly alter our business practices, require us to raise additional capital, impose burdensome and costly requirements and add additional costs. Some of the
+regulations may also affect the perceptions of regulators, rating agencies, customers, counterparties, creditors or investors about our financial strength and could potentially affect our financing
+costs or result in a ratings downgrade. 
+
+     We are subject to extensive regulation in the jurisdictions in which we conduct our businesses, including with respect to the pricing of policies that we write, and regulatory actions
+could make it challenging for us to continue to engage in business in the ordinary course.    Our operations around the world are subject to regulation by different
+types of regulatory authorities, including insurance, securities, investment advisory, banking and thrift regulators in the United States and abroad. Regulators have the ability to take various steps
+to protect the businesses of the entities they regulate. These steps could include, and in the past have included: 
+
+
+
+•restricting or prohibiting the payment of dividends to AIG Parent and its subsidiaries;   
+•restricting or prohibiting other payments to AIG Parent and its subsidiaries;   
+•requesting additional capital contributions from AIG Parent;   
+•requesting that intercompany reinsurance reserves be covered by assets locally;   
+•restricting the business in which the subsidiaries may engage;   
+•requiring pre-approval of all proposed transactions between the regulated subsidiaries and AIG Parent or any
+affiliate; and  
+•requiring more frequent reporting, including with respect to capital and liquidity positions. 
+
+
+    In
+addition, the premium rates that we are able to charge and the profits that we are able to obtain are affected by the actions of state and foreign insurance departments that regulate
+our businesses. In addition to this
+regulation, our insurance subsidiaries are subject to laws that require insurers to participate in assigned risk plans, or to offer coverage to all consumers or at prices that we might not otherwise
+offer. Any of these actions could have an adverse effect on our consolidated results of operations. 
+
+    Requirements of the USA PATRIOT Act, the Office of Foreign Assets Control and similar laws that apply to us may expose us to significant
+penalties.    The operations of certain of our subsidiaries are subject to laws and regulations, including the USA PATRIOT Act of 2001, which requires companies to
+know certain information about their clients and to monitor their transactions for suspicious activities. In addition, the Department of the Treasury's Office of Foreign Assets Control administers
+regulations requiring U.S. persons to refrain from doing business, or allowing their clients to do business through them, with certain organizations or individuals on a prohibited list maintained by
+the U.S. government or with certain countries. The United Kingdom, the European Union and other jurisdictions maintain similar laws and regulations. Although we have instituted compliance programs to
+address these requirements, there are inherent risks in global transactions. 
+
+     Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline AXXX may fail in whole or in part resulting in an adverse effect on our financial condition and results
+of operations.    The Model Regulation entitled "Valuation of Life Insurance Policies", commonly known as "Regulation XXX", requires insurers to establish
+additional statutory reserves for term life insurance policies with long-term premium guarantees and universal life 
+
+AIG 2011 Form 10-K            35
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+policies
+with secondary guarantees. In addition, Actuarial Guideline 38, more commonly known as "Guideline AXXX", clarifies the application of Regulation XXX with respect to certain
+universal life insurance policies with secondary guarantees. The application of both Regulation XXX and Guideline AXXX involves numerous interpretations. At times, there may be differences of
+opinion between management and state insurance departments regarding the application of these and other actuarial standards. Such differences of opinion may lead to a state insurance regulator
+requiring greater reserves to support insurance liabilities than management estimated. 
+
+    We
+also have implemented reinsurance and capital management actions to mitigate the capital impact of Regulation XXX and Guideline AXXX, including the use of letters of credit to
+support the reinsurance provided by our captive reinsurance subsidiaries. We focus on identifying cost-effective opportunities to manage our intercompany reinsurance transactions,
+particularly with respect to certain redundant statutory reserve requirements on term insurance and universal life with secondary guarantees (Regulation XXX and Guideline AXXX reserves). For
+this purpose, we had a $585 million syndicated letter of credit facility and $215 million of letters of credit on a bilateral basis outstanding at December 31, 2011, all of which
+relate to intercompany life reinsurance transactions. All of these letters of credit are due to mature on December 31, 2015. However, such actions may not be sufficient to offset regulatory,
+rating agency or other requirements. In that case, we could be required to increase statutory reserves or incur higher operating and/or tax costs. 
+
+    We
+also cannot provide assurance that we will be able to continue to implement actions to mitigate the impact of Regulation XXX or Guideline AXXX on future sales of term and
+universal life insurance products. If we are unable to continue to implement those actions, we may incur higher operating costs and lower returns on products sold than we currently anticipate or
+reduce our sales of these products. 
+
+     New regulations promulgated from time to time may affect our operations, financial condition and ability to compete effectively.    Legislators and
+regulators may periodically consider and put forward various proposals that may affect the profitability of certain of our businesses or even our ability to conduct certain businesses at all,
+including proposals relating to restrictions on the type of activities in which financial institutions are permitted to engage and the size of financial institutions, and proposals to impose
+additional taxes on a limited subset of financial institutions and insurance companies (either based on size, activities, geography, government support or other criteria). It is uncertain whether and
+how these and other such proposals would apply to us or our competitors or how they could impact our consolidated results of operations, financial condition and ability to compete effectively. 
+
+<A
+NAME="ci10201_change_in_control"> 
+ 
+
+
+
+
+
+
+CHANGE IN CONTROL
+
+    Our ability to utilize tax losses and credits carryforwards to offset future taxable income may be significantly limited if we experience an "ownership change" under the Internal Revenue
+Code.    As of December 31, 2011, we had a U.S. federal net operating loss carryforward of approximately $45.3 billion, $21.3 billion in capital
+loss carryforwards and $4.6 billion in foreign tax credits (Tax Losses and credits carryforwards). Our ability to utilize such tax attributes to offset future taxable income may be
+significantly limited if we experience an "ownership change" as defined in Section 382 of the Internal Revenue Code of 1986, as amended (the Code). In general, an ownership change will occur
+when the percentage of AIG Parent's ownership (by value) of one or more "5-percent shareholders" (as defined in the Code) has increased by more than 50 percent over the lowest
+percentage owned by such shareholders at any time during the prior three years (calculated on a rolling basis). An entity that experiences an ownership change generally will be subject to an annual
+limitation on its pre-ownership change tax losses and credits carryforwards equal to the equity value of the corporation immediately before the ownership change, multiplied by the
+long-term, tax-exempt rate posted monthly by the IRS (subject to certain adjustments). The annual limitation would be increased each year to the extent that there is an unused
+limitation in a prior year. The limitation on our ability to utilize tax losses and credits carryforwards arising from an ownership change under Section 382 would depend on the value of our
+equity at the time of any ownership change. 
+
+    While
+the Department of the Treasury owns more than 50 percent of AIG Common Stock, under guidance issued by the Internal Revenue Service, we will not be treated as having
+experienced an ownership change. However, once the Department of the Treasury's ownership of outstanding AIG Common Stock falls below 
+
+36            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+50 percent,
+it is possible for us to experience an ownership change as a result of purchases of AIG Common Stock by "5-percent shareholders". For the purpose of determining whether
+there has been an "ownership change", the change in ownership as a result of purchases by "5-percent shareholders" will be aggregated with certain changes in ownership that occurred over
+the three-year period ending on the date of such purchases, including, for example, the sale of AIG Common Stock that was issued in exchange for the shares of AIG's Series C
+Perpetual, Convertible, Participating Preferred Stock, par value $5.00 per share (the Series C Preferred Stock), but excluding the issuance of the AIG Common Stock that was issued in exchange
+for the shares of AIG's Series E Fixed Rate Non-Cumulative Perpetual Preferred Stock, par value $5.00 per share (the Series E Preferred Stock), and the shares of AIG's
+Series F Fixed Rate Non-Cumulative Perpetual Preferred Stock, par value $5.00 per share (the Series F Preferred Stock), both of which were issued under the Emergency Economic
+Stabilization Act of 2008 and to which Notice 2010-2 applies. Any repurchases of AIG Common Stock by AIG will be taken into account in determining whether there has been an "ownership
+change". If we were to experience an "ownership change", it is possible that a significant portion of our tax losses and credits carryforwards could expire before we would be able to use them to
+offset future taxable income. 
+
+    On
+March 9, 2011, AIG's Board of Directors adopted a Tax Asset Protection Plan (the Plan) to help protect our ability to recognize tax benefits from certain tax attributes in
+order to reduce our potential future income tax liability. At our 2011 Annual Meeting of Shareholders, shareholders ratified the Plan and also adopted a protective amendment (the Protective Amendment)
+to our Restated Certificate of Incorporation, which is designed to prevent certain transfers of AIG Common Stock that could result in an "ownership change". The Plan is designed to reduce the
+likelihood that AIG will experience an "ownership change" by (i) discouraging any person or group from becoming a 4.99 percent shareholder and (ii) discouraging any existing
+4.99 percent shareholder from acquiring additional shares of AIG Common Stock. The Protective Amendment generally restricts any transfer of AIG Common Stock if the effect would be to
+(i) increase the ownership by any person to 4.99 percent or more of AIG stock then outstanding (Five Percent Stockholder) or (ii) increase the percentage of AIG stock owned by a
+Five Percent Stockholder. While the Plan and the Protective Amendment are intended to deter and prevent acquisitions of AIG Common Stock that may result in an "ownership change", such acquisitions may
+still occur. In addition, the Plan and the Protective Amendment may make it more difficult and more expensive to acquire us, and may discourage open market purchases of AIG Common Stock or a
+non-negotiated tender or exchange offer for AIG Common Stock. Accordingly, the Plan and the Protective Amendment may limit a shareholder's ability to realize a premium over the market
+price of AIG Common Stock in connection with any stock transaction. 
+
+
+<A
+NAME="ci10201_foreign_operations"> 
+ 
+
+
+
+
+
+
+ FOREIGN OPERATIONS
+
+     Our foreign operations expose us to risks that may affect our operations, liquidity and financial condition.    We provide insurance, investment and
+other financial products and services to both businesses and individuals in more than 130 countries. A substantial portion of our Chartis business is conducted outside the United States, and our
+intention is to continue to grow this business. Operations outside the United States, particularly those in developing nations, may be affected by regional economic downturns, changes in foreign
+currency exchange rates, political upheaval, nationalization and other restrictive government actions, which could also affect our other operations. 
+
+    The
+degree of regulation and supervision in foreign jurisdictions varies. Generally, AIG Parent, as well as its subsidiaries operating in such jurisdictions, must satisfy local
+regulatory requirements. Licenses issued by foreign authorities to our subsidiaries are subject to modification and revocation. Thus, our insurance subsidiaries could be prevented from conducting
+future business in certain of the jurisdictions where they currently operate. Adverse actions from any single country could adversely affect our results of operations, liquidity and financial
+condition depending on the magnitude of the event and our financial exposure at that time in that country. 
+
+
+<A
+NAME="ci10201_legal_proceedings"> 
+ 
+
+
+
+
+
+
+ LEGAL PROCEEDINGS
+
+     Significant legal proceedings may adversely affect our results of operations or financial condition.    We are party to numerous legal proceedings,
+including securities class actions and regulatory and governmental investigations. Due 
+
+AIG 2011 Form 10-K            37
+
+
+
+
+ 
+
+Table of Contents
+
+to
+the nature of the litigation, the lack of precise damage claims and the type of claims we are subject to, we cannot currently quantify our ultimate or maximum liability for these actions. It is
+possible that developments in these unresolved matters could have a material adverse effect on our consolidated financial condition or consolidated results of operations for an individual reporting
+period. For a discussion of these unresolved matters, see Note 16(a) to the Consolidated Financial Statements. 
+
+<A
+NAME="ci10201_use_of_estimates"> 
+ 
+
+
+
+
+
+
+USE OF ESTIMATES
+
+     If actual experience differs from management's estimates used in the preparation of financial statements, our consolidated results of operations or financial condition could be adversely
+affected.    The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires the application of
+accounting policies that often involve a significant degree of judgment. We consider our accounting policies that are most dependent on the application of estimates and assumptions, and therefore
+viewed as critical accounting estimates, are those described in Item 7. MD&A — Critical Accounting Estimates. These accounting estimates require the use of assumptions, some
+of which are highly uncertain at the time of estimation. These estimates, by their nature, are based on judgment and current facts and circumstances. Therefore, actual results could differ from these
+estimates, possibly in the near term, and could have a material effect on the consolidated financial statements. 
+
+
+<A
+NAME="ci10201_aircraft_leasing_business"> 
+ 
+
+
+
+
+
+
+ AIRCRAFT LEASING BUSINESS
+
+     Our aircraft leasing business depends on lease revenues and exposes us to the risk of lessee non-performance.    Our aircraft leasing
+business depends on the ability of our customers to meet their obligations to us under their leases; if their ability materially decreases, it may negatively affect our business, results of operations
+and cash flows. 
+
+    Our aircraft may become obsolete over time.    Aircraft are long-lived assets requiring long lead times to develop and manufacture. As a
+result, aircraft of a particular model and type may become obsolete and less in demand over time, when newer, more advanced and efficient aircraft or aircraft engines are manufactured. This life
+cycle, however, can be shortened by world events, government regulation or customer preferences. As aircraft in our fleet approach obsolescence, demand for particular models and types may decrease.
+This may result in
+declining lease rates, losses on sales, impairment charges or fair value adjustments and may adversely affect our business, consolidated financial condition, results of operations and cash flows. 
+
+
+    The residual value of our aircraft is subject to a number of risks and uncertainties.    Technological developments, macro-economic conditions,
+availability and cost of funding for aviation, and the overall health of the airline industry impact the residual values of our aircraft. If challenging economic conditions persist for extended
+periods, the residual values of our aircraft could be negatively impacted, which could result in future impairments. 
+
+<A
+NAME="ci10201_liquidity"> 
+ 
+
+
+
+
+
+
+LIQUIDITY
+
+    If our internal sources of liquidity are insufficient to meet our needs, we may become dependent on third-party financing, external capital markets or other sources of liquidity, which
+may not be available or could be prohibitively expensive.    We need liquidity to pay our operating expenses, interest on our debt, maturing debt obligations and to
+meet any statutory capital requirements of our subsidiaries. If we have insufficient liquidity to meet our needs, we may be required to raise additional capital or obtain other sources of commercial
+funding. The availability of any additional financing depends on a variety of factors, including, but not limited to, general market conditions, the volume of trading activities, the overall
+availability of credit, regulatory actions, our credit ratings and credit capacity, as well as the possibility that customers, lenders or investors could develop a negative perception of our
+long- or short-term financial prospects. Disruptions, volatility and uncertainty in the financial markets, to the extent they persist or recur, may also limit our ability to
+access external capital markets at times and on terms favorable to us and to meet our capital and liquidity needs. Furthermore, if our internal sources of liquidity prove to be insufficient, we may be
+unable to obtain additional financing on favorable terms, if at all. For a further discussion of liquidity, see Item 7. MD&A — Capital Resources and Liquidity. 
+
+
+38            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+     AIG Parent's ability to access funds from our subsidiaries is limited.    As a holding company, AIG Parent depends on dividends, distributions and other
+payments from our subsidiaries to fund payments due on its obligations, including its outstanding debt. Further, the majority of its investments are held by our regulated subsidiaries. Our
+subsidiaries may be limited in their ability to make dividend payments or advance funds to AIG Parent in the future because of the need to support their own capital levels. 
+
+     AIG Parent's ability to support our subsidiaries is limited.    Historically, AIG Parent has provided capital and liquidity to our subsidiaries to
+maintain regulatory capital ratios, comply with rating agency requirements and meet unexpected cash flow obligations, in some cases under support or capital maintenance agreements. If AIG Parent is
+unable to provide support to a subsidiary having an immediate capital or liquidity need, the subsidiary could become insolvent or, in the case of an insurance subsidiary or other regulated entity,
+could be seized by its regulator. In the event of a catastrophe, reserve strengthening or other event, AIG Parent may be required to provide capital to one or more of our regulated subsidiaries. AIG
+Parent has entered into capital maintenance agreements with certain of our U.S. insurance subsidiaries that will require it to contribute capital if specific risk-based capital (RBC)
+thresholds are triggered. 
+
+     Certain of the investments held by our subsidiaries are illiquid and/or are difficult to sell, or to sell in significant amounts or at acceptable prices, to generate cash to meet their
+needs.    Our subsidiaries' investments in certain securities, including certain fixed income securities and certain structured securities, private equity securities,
+private equity funds and hedge funds, mortgage loans, flight equipment, finance receivables and real estate, which had a collective fair value of $96 billion at December 31, 2011, are
+illiquid or may not be disposed of quickly. Further, we have a significant remaining stake in AIA, one-half of which is subject to restrictions on transfer and hedging. In addition, the
+steep decline in the U.S. real estate markets and tight credit markets have materially adversely affected the liquidity of our other securities portfolios, including our residential and commercial
+mortgage-related securities and investment portfolios. In the event additional liquidity is required by one or more of our subsidiaries and AIG Parent is unable to provide liquidity, it may be
+difficult to generate additional liquidity by selling, pledging or otherwise monetizing the less liquid investments described above. 
+
+<A
+NAME="ci10201_special_purpose_vehicle_interc__spe03008"> 
+ 
+
+
+
+
+
+
+SPECIAL PURPOSE VEHICLE INTERCOMPANY LOANS AND PLEDGE OF DESIGNATED  ENTITY
+
+     We have pledged equity interests in certain of our businesses and other assets to secure intercompany loans made in connection with the Recapitalization and granted other control rights
+with respect to certain businesses and assets.    We have pledged equity interests in certain of our businesses and other assets as security for the repayment of the
+intercompany loans extended to AIG Parent by the special purpose vehicles that held the proceeds of the AIA initial public offering and the ALICO sale (the SPVs, and such loans, the SPV Intercompany
+Loans). Although the loan from the ALICO SPV was repaid in full in 2011, the loan from the AIA SPV, which remains outstanding,
+is secured by the assets that continue to be held by the AIA SPV, including the ordinary shares of AIA and our equity interest in ILFC (the Designated Entity). If we are unable to satisfy our
+obligations under the AIA SPV Intercompany Loan, the secured parties may have the right to foreclose upon and sell the assets that secure this loan, which could have a material adverse effect on the
+operations of the Designated Entity and could adversely affect the value of the Designated Entity. 
+
+    Furthermore,
+so long as the Department of the Treasury holds the preferred interests in the AIA SPV (the AIA SPV Preferred Interests), the Department of the Treasury will have the right,
+subject to existing contractual restrictions, to require us to dispose of the remaining AIA ordinary shares held by the AIA SPV to the extent necessary to fully repay the liquidation preference on the
+Department of the Treasury's AIA SPV Preferred Interests. In addition, the consent of the Department of the Treasury, so long as it holds AIA SPV Preferred Interests or the preferred interests in the
+ALICO SPV (together, the SPV Preferred Interests), will also be required for us to take specified significant actions with respect to the Designated Entity, including initial public offerings, sales
+of the business and significant acquisitions or dispositions and incurrence of indebtedness above specified levels. If any SPV Preferred Interests are outstanding on May 1, 2013, the Department
+of the Treasury will have the right to compel the sale of all or a portion of the Designated Entity on terms that it will determine. 
+
+AIG 2011 Form 10-K            39
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+These
+rights could have a material adverse effect on the operations of the Designated Entity and could adversely affect the value of the Designated Entity. 
+
+<A
+NAME="ci10201_controlling_shareholder"> 
+ 
+
+
+
+
+
+
+CONTROLLING SHAREHOLDER
+
+     As a result of the issuance of the shares of AIG Common Stock to the Department of the Treasury in connection with the Recapitalization, the Department of the Treasury is AIG Parent's
+controlling shareholder.    As of January 31, 2012, the Department of the Treasury owns approximately 77 percent of the outstanding shares of AIG Common
+Stock. The Department of the Treasury is able, to the extent permitted by law, to control a vote of AIG shareholders on substantially all matters, including: 
+
+
+
+•approval of mergers or other business combinations;   
+•a sale of all or substantially all of our assets;   
+•amendments to AIG Parent's restated certificate of incorporation; and  
+•other matters that might be favorable to the Department of the Treasury, but not to our other shareholders. 
+
+
+    Moreover,
+the Department of the Treasury's ability to cause or prevent a change in control of AIG could also have an adverse effect on the market price of AIG Common Stock. The
+Department of the Treasury may also, subject to applicable securities laws, transfer all, or a portion of, the AIG Common Stock to another person or entity and, in the event of such a transfer, that
+person or entity could become our controlling shareholder. The Department of the Treasury's rights under a registration rights agreement executed in connection with the Recapitalization may be
+assigned to any person purchasing over $500 million of AIG Common Stock. 
+
+     We granted the Department of the Treasury certain registration rights and, subject to certain exceptions, the ability to control the terms, conditions and pricing of any offering in
+which it participates, including any primary offering by us.    We have granted the Department of the Treasury registration rights with respect to the shares of AIG
+Common Stock issued in connection with the Recapitalization, including: 
+
+
+
+•the right to participate in any registered offering of AIG Common Stock by us;   
+•the right to demand no more than twice in any 12-month period that we effect a registered marketed offering of
+our shares;   
+•the right to engage in at-the-market offerings; and  
+•subject to certain exceptions, the right to approve the terms, conditions and pricing of any registered offering in which
+it participates until its ownership falls below 33 percent of our voting securities. 
+
+
+     Possible future sales of AIG Common Stock by the Department of the Treasury could adversely affect the market for AIG Common Stock.    We have granted
+the Department of the Treasury the registration rights described above. Although we can make no prediction as to the effect, if any, that sales by the Department of the Treasury would have on the
+market price of AIG Common Stock, sales of substantial amounts of AIG Common Stock, or the perception that such sales could occur, could adversely affect the market price of AIG Common Stock. 
+
+<A
+NAME="ci10201_employees"> 
+ 
+
+
+
+
+
+
+EMPLOYEES
+
+     Mr. Benmosche may be unable to continue to provide services to AIG due to his health.    Mr. Robert Benmosche, the President and Chief
+Executive Officer of AIG, was diagnosed with cancer and has been undergoing treatment for his disease. He continues to fulfill all of his responsibilities and has stated his desire to continue in such
+roles beyond 2012. However, there can be no assurance that his condition will not change and prevent him from continuing to perform these roles. 
+
+     The limitations on incentive compensation contained in the American Recovery and Reinvestment Act of 2009 and the restrictions placed on compensation by the Special Master for TARP
+Executive Compensation and in our agreement with the Department of the Treasury may adversely affect our ability to attract talent and retain and motivate our highest performing
+employees.    The American Recovery and Reinvestment Act of 2009 contains provisions which, 
+
+40            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+
+
+as
+implemented by the Department of the Treasury in its Interim Final Rule, restrict bonus and other incentive compensation payable to certain AIG employees. Historically, we have embraced a
+pay-for-performance philosophy. Based on the limitations placed on incentive compensation, it is unclear whether, for the foreseeable future, we will be able to create a
+compensation structure that permits us to attract talent and retain and motivate our most senior and most highly compensated employees
+and other high performing employees who become subject to such limitations. The restrictions on our ability to attract talent and retain and motivate our highest performing employees may affect our
+ability to strengthen our businesses and prepare and make required filings in a timely manner with the SEC and other federal, state and foreign regulators. 
+
+     Employee error and misconduct may be difficult to detect and prevent and may result in significant losses.    Losses may result from, among other
+things, fraud, illegal acts, errors, failure to document transactions properly or to obtain proper internal authorization or failure to comply with regulatory requirements or our internal policies.
+There have been a number of highly publicized cases involving fraud or other misconduct by employees in the financial services industry in recent years, and we run the risk that employee misconduct
+could occur. It is not always possible to deter or prevent employee misconduct, and the controls that we have in place to prevent and detect this activity may not be effective in all cases. 
+
+<A
+NAME="ci10201_electronic_data_systems_and_ha__ele02582"> 
+ 
+
+
+
+
+
+
+ ELECTRONIC DATA SYSTEMS AND HANDLING OF CONFIDENTIAL INFORMATION
+
+     If we are unable to maintain the availability of our electronic data systems and safeguard the security of our data, our ability to conduct business may be compromised, which could
+adversely affect our consolidated financial condition or results of operations.    We use computer systems to store, retrieve, evaluate and utilize customer,
+employee, and company data and information. Some of these systems in turn, rely upon third-party systems. Our business is highly dependent on our ability to access these systems to perform necessary
+business functions, including providing insurance quotes, processing premium payments, making changes to existing policies, filing and paying claims, administering variable annuity products and mutual
+funds, providing customer support and managing our investment portfolios. Systems failures or outages could compromise our ability to perform these functions in a timely manner, which could harm our
+ability to conduct business and hurt our relationships with our business partners and customers. In the event of a natural disaster, a computer virus, a terrorist attack or other disruption inside or
+outside the U.S., our systems may be inaccessible to our employees, customers or business partners for an extended period of time, and our employees may be unable to perform their duties for an
+extended period of time if our data or systems are disabled or destroyed. Our systems could also be subject to unauthorized access, such as physical or electronic break-ins or unauthorized
+tampering. AIG maintains cyber risk insurance, but this insurance may not cover all costs associated with the consequences of personal, confidential or proprietary information being compromised. In
+some cases, such unauthorized access may not be immediately detected. This may impede or interrupt our business operations and could adversely affect our consolidated financial condition or results of
+operations. 
+
+    In
+addition, we routinely transmit, receive and store personal, confidential and proprietary information by email and other electronic means. Although we attempt to keep such information
+confidential, we may be unable to do so in all events, especially with clients, vendors, service providers, counterparties and other third parties who may not have or use appropriate controls to
+protect confidential information. Furthermore, certain of our businesses are subject to compliance with laws and regulations enacted by U.S. federal and state governments, the European Union or other
+jurisdictions or enacted by various regulatory organizations or exchanges relating to the privacy and security of the information of clients, employees or others. The compromise of personal,
+confidential or proprietary information could result in remediation costs, legal liability, regulatory action and reputational harm. 
+
+
+<A
+NAME="ci10201_regulatory_capital_credit_default_swap_portfolio"> 
+ 
+
+
+
+
+
+
+ REGULATORY CAPITAL CREDIT DEFAULT SWAP PORTFOLIO
+
+     A deterioration in the credit markets may cause us to recognize unrealized market valuation losses which could have an adverse effect on our consolidated financial condition,
+consolidated results of operations or liquidity. Moreover, depending on how and when the Basel I capital standards are phased out, the period of time that AIGFP remains at risk for such deterioration
+could be longer than anticipated by AIGFP.    A total of $6.4 billion in net notional amount 
+
+AIG 2011 Form 10-K            41
+
+
+
+
+ 
+
+Table of Contents
+
+of
+the super senior credit default swap (CDS) portfolio of AIGFP as of December 31, 2011, represented derivatives written for financial institutions, principally in Europe against European
+corporate loans and residential mortgage loans, primarily for the purpose of providing regulatory capital relief rather than for arbitrage purposes. These portfolios have no direct exposure to any
+obligors in the five countries of the Euro-zone periphery (Spain, Italy, Ireland, Greece and Portugal). The regulatory benefit of these transactions for AIGFP's financial institution
+counterparties was generally derived from the capital regulations promulgated by the Basel Committee on Banking Supervision known as Basel I. In December 2010, the Basel Committee on Banking
+Supervision finalized a new framework for international capital and liquidity standards known as Basel III, which, when fully implemented, may reduce or eliminate the regulatory benefits to certain
+counterparties from these transactions and thus may impact the period of time that such counterparties are expected to hold the positions. AIGFP continues to reassess the expected maturity of this
+portfolio. As of December 31, 2011, AIGFP estimated that the weighted average expected maturity of the portfolio was 0.86 years. 
+
+
+    Given
+the current performance of the underlying portfolios, the level of subordination of credit protection written by AIGFP and AIGFP's own assessment of the credit quality of the
+underlying portfolios, as well as the risk mitigants inherent in the transaction structures, AIGFP, after taking into consideration weakening economic conditions in Europe, does not expect that it
+will be required to make payments pursuant to the contractual terms of those transactions providing regulatory capital relief. AIGFP will continue to assess the valuation of this portfolio and monitor
+developments in the marketplace. Depending on how and when the Basel I regulatory requirements are phased out, we could also remain at risk for a longer period of time than currently anticipated. 
+
+
+<A
+NAME="ci10201_long-term_aspirational_goals"> 
+ 
+
+
+
+
+
+
+ LONG-TERM ASPIRATIONAL GOALS
+
+     AIG's ability to achieve its long-term aspirational goals with respect to return on equity (ROE) and earnings per share (EPS) and other long-term aspirational
+goals are based on significant assumptions, and AIG's actual results may differ, possibly materially and adversely, from these goals.    In setting its
+long-term aspirational goals for ROE and EPS, described in Item 2. MD&A — Long-Term Aspirational Goals in its Quarterly Report on
+Form 10-Q for the quarterly period ended March 31, 2011, AIG made significant assumptions that include, among other things, the general conditions of markets in which it
+operates, revenues and combined ratios of its subsidiaries, investment yields, subsidiaries' capacity to distribute dividends to AIG Parent, AIG's ability to apply deployable capital to share
+repurchases, dividend payments, acquisitions or organic growth, AIG's ability to maintain financial leverage commensurate with its current credit ratings, the exclusion of the impact on shareholders'
+equity of the reversal of the tax valuation allowance, the effectiveness of AIG's cost rationalization measures, the approval of planned actions (including with respect to any share repurchases,
+dividend payments or acquisitions) by AIG's regulators, the overall credit rating implications of AIG's proposed strategic actions and general financial market and interest rate conditions. These
+assumptions are not historical facts but instead represent only AIG's expectations regarding future events, many of which, by their nature, are inherently subject to significant uncertainties and
+contingencies and are outside AIG's control. It is very likely that one or more of the assumptions will not be met or that actual results will deviate materially from what is assumed. While AIG
+remains committed to its long-term aspirational goals, AIG's actual results are likely to differ from these aspirational goals and the difference may be material and adverse. 
+
+    The
+aspirational goals and their underlying assumptions are forward-looking statements. AIG strongly cautions its shareholders and other investors not to place undue reliance on any of
+these assumptions or aspirational goals. AIG is not under any obligation (and expressly disclaims any obligation) to update or alter any assumptions, goals, projections or other related statements,
+whether written or oral, that may be made from time to time, whether as a result of new information, future events or otherwise. See Item 7. MD&A — Cautionary Statement
+Regarding Forward Looking Information for additional information regarding the forward-looking statements. 
+
+42            AIG 2011 Form 10-K
+
+
+
+
+ 
+
+Table of Contents
+
+<A
+NAME="ci10201_item_1b._unresolved_staff_comments"> 
+ 
+ITEM 1B

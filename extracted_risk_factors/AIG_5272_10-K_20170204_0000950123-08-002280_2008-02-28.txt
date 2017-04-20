@@ -1,0 +1,808 @@
+Item 1A. Risk Factors" -->
+
+
+Item 1A. 
+ Risk Factors
+
+
+
+Casualty Insurance Underwriting and
+Reserves
+
+
+
+
+Casualty insurance liabilities are difficult to predict and
+may exceed the related reserves for losses and loss
+expenses. Although AIG annually reviews the adequacy of the
+established reserve for losses and loss expenses, there can be
+no assurance that AIG’s loss reserves will not develop
+adversely and have a material effect on AIG’s results of
+operations. Estimation of ultimate net losses, loss expenses and
+loss reserves is a complex process for long-tail casualty lines
+of business, which include excess and umbrella liability,
+D&O, professional liability, medical malpractice, workers
+compensation, general liability, products liability and related
+classes, as well as for asbestos and environmental exposures.
+Generally, actual historical loss development factors are used
+to project future loss development. However, there can be no
+assurance that future loss development patterns will be the same
+as in the past. Moreover, any deviation in loss cost trends or
+in loss development factors might not be discernible for an
+extended period of time subsequent to the recording of the
+initial loss reserve estimates for any accident year. Thus,
+there is the potential for reserves with respect to a number of
+years to be significantly affected by changes in loss cost
+trends or loss development factors that were relied upon in
+setting the reserves. These changes in loss cost trends or loss
+development factors could be attributable to changes in
+inflation or in the judicial environment, or in other social or
+economic phenomena affecting claims, such as the effects that
+the recent disruption in the credit markets could have on
+reported claims under D&O or professional liability
+coverages. See also Management’s Discussion and Analysis of
+Financial Condition and Results of Operations —
+Operating Review — General Insurance
+Operations — Reserve for Losses and Loss Expenses.
+
+
+
+Credit Market Environment
+
+
+
+
+AIG’s businesses may continue to be adversely affected
+by the current disruption in the global credit markets and
+repricing of credit risk. During the second half of 2007,
+disruption in the global credit markets, coupled with the
+repricing of credit risk, and the U.S. housing market
+deterioration created increasingly difficult conditions in the
+financial markets. These conditions have resulted in greater
+volatility, less liquidity, widening of credit spreads and a
+lack of price transparency in certain markets. These conditions
+continue to adversely affect Mortgage Guaranty’s results of
+operations and the fair value of the AIGFP super senior credit
+default swap portfolio and contribute to higher levels of
+finance receivables delinquencies at AGF and to the severe and
+rapid decline in the fair value of certain investment
+securities, particularly those backed by U.S. residential
+mortgage loans. It is difficult to predict how long these
+conditions will exist and how AIG’s markets, products and
+businesses will continue to be adversely affected. Accordingly,
+these conditions could adversely affect AIG’s consolidated
+financial condition or results of operations in future periods.
+In addition, litigation and regulatory or governmental
+investigations and inquiries have been commenced against AIG
+related to these events and AIG may become subject to further
+litigation and regulatory or governmental scrutiny as a result
+of these events.
+
+
+
+Risk Management
+
+
+
+
+AIG is exposed to a number of significant risks, and
+AIG’s risk management processes and controls may not be
+fully effective in mitigating AIG’s risk exposures in all
+market conditions and to all types of risk. The major risks
+to which AIG is exposed include: credit risk, market risk,
+operational risk, liquidity risk and insurance risk. AIG has
+devoted significant resources to the development and
+implementation of risk management processes and controls across
+AIG’s operations, including by establishing review and
+oversight committees to monitor risks, setting limits and
+identifying risk mitigating strategies and techniques.
+Nonetheless, these procedures may not be fully effective in
+mitigating risk exposure in all market conditions, some of which
+change rapidly and severely. A failure of AIG’s risk
+management processes or the ineffectiveness of AIG’s risk
+mitigating strategies and techniques could adversely affect,
+perhaps materially, AIG’s consolidated results of
+operations, liquidity or financial condition, result in
+regulatory action or litigation or damage AIG’s reputation.
+See Management’s Discussion and Analysis of Financial
+Condition and Results of Operations — Risk Management.
+
+
+
+Liquidity
+
+
+
+
+AIG’s liquidity could be impaired by an inability to
+access the capital markets or by unforeseen significant outflows
+of cash. This situation may arise due to circumstances that
+AIG may be unable to control, such as a general market
+disruption or an operational problem that affects third parties
+or AIG. In addition, this situation may arise due to
+circumstances specific to AIG, such as a decline in its credit
+ratings. AIG depends on dividends, distributions and other
+payments from its subsidiaries to fund dividend payments and to
+fund payments on AIG’s obligations, including debt
+obligations. Regulatory and other legal restrictions may limit
+AIG’s ability to transfer funds freely, either to or from
+its subsidiaries. In particular, many of AIG’s
+subsidiaries, including AIG’s insurance subsidiaries, are
+subject to laws and regulations that authorize regulatory bodies
+to block or reduce the flow of funds to the parent holding
+company, or that prohibit such transfers altogether in certain
+circumstances. These laws and regulations may hinder AIG’s
+ability to access funds that AIG may need to make payments on
+its obligations. See also Item 1. Business —
+Regulation.
+
+
+
+Some of AIG’s investments are relatively illiquid and
+would be difficult to sell, or to sell at acceptable prices, if
+AIG required cash in amounts greater than its customary
+needs. AIG’s investments in certain securities,
+including certain structured securities, direct private
+equities, limited partnerships, hedge funds, mortgage loans,
+flight equipment, finance receivables and real estate are
+relatively illiquid. These asset classes represented
+approximately 23 percent of the carrying value of AIG’s
+total cash and invested assets as of December 31, 2007. In
+addition, the current disruption in the credit markets has
+affected the liquidity of other AIG portfolios
+
+
+
+
+
+ 16        AIG
+2007 Form 10-K
+
+
+
+
+Table of Contents
+
+
+American International Group, Inc. and Subsidiaries
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+including the residential mortgage-backed securities portfolio.
+If AIG requires significant amounts of cash on short notice in
+excess of normal cash requirements or is required to post or
+return collateral in connection with its investment portfolio,
+derivative transactions or securities lending activities, then
+AIG may have difficulty selling these investments or terminating
+these transactions in a timely manner or may be forced to sell
+or terminate them for less than what AIG might otherwise have
+been able to, or both. Although AIGFP has no current intent to
+do so, if AIGFP sells or closes out its derivative transactions
+prior to maturity, the effect could be significant to AIG’s
+overall liquidity.
+
+
+
+AIG’s liquidity may be adversely affected by
+requirements to post collateral. Certain of the credit
+default swaps written by AIGFP contain collateral posting
+requirements. The amount of collateral required to be posted for
+most of these transactions is determined based on the value of
+the security or loan referenced in the documentation for the
+credit default swap. Continued declines in the values of these
+referenced securities or loans will increase the amount of
+collateral AIGFP must post which could impair AIG’s
+liquidity.
+
+
+   
+See also Management’s Discussion and Analysis of Financial
+Condition and Results of Operations — Capital
+Resources and Liquidity — Liquidity.
+
+
+
+Investment Concentration
+
+
+
+
+Concentration of AIG’s investment portfolios in any
+particular segment of the economy may have adverse effects.
+Any concentration of AIG’s investment portfolios in any
+particular industry, group of related industries, asset classes,
+such as residential mortgage-backed securities and other
+asset-backed securities, or geographic sector could have an
+adverse effect on the investment portfolios and consequently on
+AIG’s consolidated results of operations or financial
+condition. While AIG seeks to mitigate this risk by having a
+broadly diversified portfolio, events or developments that have
+a negative effect on any particular industry, asset class, group
+of related industries or geographic region may have a greater
+adverse effect on the investment portfolios to the extent that
+the portfolios are concentrated. Further, AIG’s ability to
+sell assets relating to such particular groups of related assets
+may be limited if other market participants are seeking to sell
+at the same time.
+
+
+
+Credit Ratings
+
+
+
+
+Ratings actions regarding AIG could adversely affect
+AIG’s business and its consolidated results of
+operations. Following AIG’s filing with the SEC on
+February 11, 2008 of a Current Report on
+Form 8-K regarding
+the valuation of AIGFP’s super senior credit default swap
+portfolio and reporting the conclusion by AIG’s independent
+auditors that AIG had a material weakness in internal control
+over financial reporting and oversight relating to this
+valuation, the following credit rating actions were taken:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    • 
+    
+    Standard & Poor’s, a division of The McGraw-Hill
+    Companies, Inc. (S&P) affirmed its ‘AA’
+    counterparty credit ratings on AIG and its ‘AA+’
+    counterparty credit and financial strength ratings on AIG’s
+    core subsidiaries, but revised the rating outlook to negative.
+    In addition, S&P revised its rating outlook on ILFC’s
+    corporate credit rating (AA-) to negative. A negative ratings
+    outlook by S&P indicates that a rating may be lowered, but
+    is not necessarily a precursor of a ratings change.
+
+
+
+     
+    • 
+    
+    Moody’s Investors Service (Moody’s) changed its rating
+    outlook for AIG and its subsidiaries that have substantial
+    exposure to the U.S. subprime mortgage market or whose ratings
+    rely on significant explicit or implicit support from AIG to
+    negative. Moody’s rates AIG ‘Aa2’ and nearly all
+    of its insurance subsidiaries either ‘Aa1’ or
+    ‘Aa2’. A negative ratings outlook by Moody’s
+    indicates that a rating may be lowered, but is not necessarily a
+    precursor of a ratings change.
+
+
+
+     
+    • 
+    
+    Fitch Ratings (Fitch) placed AIG’s and its
+    subsidiaries’ long-term debt ratings (AA), including ILFC
+    (A+) and AGF (A+), on Rating Watch Negative. Rating Watch
+    Negative indicates that a rating has been placed on active
+    rating watch status. Fitch indicated that it expects to resolve
+    the Rating Watch after it reviews AIG’s 2007 audited
+    financial statements.
+
+
+
+     
+    • 
+    
+    A.M. Best Company (A.M. Best) placed most of its financial
+    strength and issuer credit ratings on AIG’s domestic Life
+    Insurance and Retirement Services (A++) and Domestic General
+    Insurance subsidiaries (including Transatlantic) (A+), as well
+    as AIG’s issuer credit rating (AA), under review with
+    negative implications. A.M. Best indicated that following a
+    detailed review of AIG’s 2007 audited financial statements
+    and further discussion with AIG management, it will re-evaluate
+    the “under review” rating status.
+
+
+
+
+   
+Financial strength and credit ratings by the major ratings
+agencies are an important factor in establishing the competitive
+position of insurance companies and other financial institutions
+and affect the availability and cost of borrowings. Financial
+strength ratings measure an insurance company’s ability to
+meet its obligations to contract holders and policyholders, help
+to maintain public confidence in a company’s products,
+facilitate marketing of products and enhance a company’s
+competitive position. Credit ratings measure a company’s
+ability to repay its obligations and directly affect the cost
+and availability to that company of unsecured financing.
+AIG’s ratings have historically provided it with a
+competitive advantage. However, a ratings downgrade could
+adversely affect AIG’s business and its consolidated
+results of operations in a number of ways, including:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    • 
+    
+    increasing AIG’s interest expense;
+
+
+
+     
+    • 
+    
+    reducing AIGFP’s ability to compete in the structured
+    products and derivatives businesses;
+
+
+
+     
+    • 
+    
+    reducing the competitive advantage of AIG’s insurance
+    subsidiaries, which may result in reduced product sales;
+
+
+
+     
+    • 
+    
+    adversely affecting relationships with agents and sales
+    representatives;
+
+
+
+     
+    • 
+    
+    in the case of a downgrade of AGF or ILFC, increasing their
+    interest expense and reducing their ability to compete in their
+    respective businesses; and
+
+
+
+     
+    • 
+    
+    triggering the application of a termination provision in certain
+    of AIG’s contracts, principally agreements entered into by
+    AIGFP and assumed reinsurance contracts entered into by
+    Transatlantic.
+
+
+
+
+
+
+
+AIG 2007
+Form 10-K        
+17
+
+
+
+Table of Contents
+
+
+American International Group, Inc. and Subsidiaries
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+   
+In the event of a downgrade of AIG, AIG would be required to
+post additional collateral. It is estimated that, as of the
+close of business on February 14, 2008, based on AIG’s
+outstanding municipal GIAs and financial derivatives
+transactions as of such date, a further downgrade of AIG’s
+long-term senior debt ratings to Aa3 by Moody’s or AA- by
+S&P would permit counterparties to call for approximately
+$1.39 billion of additional collateral. Further, additional
+downgrades could result in requirements for substantial
+additional collateral, which could have a material effect on how
+AIG manages its liquidity. For a further discussion of
+AIG’s credit ratings and the potential effect of posting
+collateral on AIG’s liquidity, see Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations — Capital Resources and
+Liquidity — Credit Ratings and — Liquidity.
+
+
+
+Catastrophe Exposures
+
+
+
+
+The occurrence of catastrophic events could adversely affect
+AIG’s consolidated financial condition or results of
+operations. The occurrence of events such as hurricanes,
+earthquakes, pandemic disease, acts of terrorism and other
+catastrophes could adversely affect AIG’s consolidated
+financial condition or results of operations, including by
+exposing AIG’s businesses to the following:
+
+
+
+
+
+    
+    
+    
+
+
+
+     
+    • 
+    
+    widespread claim costs associated with property, workers
+    compensation, mortality and morbidity claims;
+
+
+
+     
+    • 
+    
+    loss resulting from the value of invested assets declining to
+    below the amount required to meet the policy and contract
+    liabilities; and
+
+
+
+     
+    • 
+    
+    loss resulting from actual policy experience emerging adversely
+    in comparison to the assumptions made in the product pricing
+    related to mortality, morbidity, termination and expenses.
+
+
+
+
+
+Reinsurance
+
+
+
+
+Reinsurance may not be available or affordable. AIG
+subsidiaries are major purchasers of reinsurance and utilize
+reinsurance as part of AIG’s overall risk management
+strategy. Reinsurance is an important risk management tool to
+manage transaction and insurance line risk retention, and to
+mitigate losses that may arise from catastrophes. Market
+conditions beyond AIG’s control determine the availability
+and cost of the reinsurance purchased by AIG subsidiaries. For
+example, reinsurance may be more difficult to obtain after a
+year with a large number of major catastrophes. Accordingly, AIG
+may be forced to incur additional expenses for reinsurance or
+may be unable to obtain sufficient reinsurance on acceptable
+terms, in which case AIG would have to accept an increase in
+exposure risk, reduce the amount of business written by its
+subsidiaries or seek alternatives.
+
+
+
+Reinsurance subjects AIG to the credit risk of its reinsurers
+and may not be adequate to protect AIG against losses.
+Although reinsurance makes the reinsurer liable to the AIG
+subsidiary to the extent the risk is ceded subject to the terms
+and conditions of the reinsurance contracts in place, it does
+not relieve the AIG subsidiary of the primary liability to its
+policyholders. Accordingly, AIG bears credit risk with respect
+to its subsidiaries’ reinsurers to the extent not mitigated
+by collateral or other credit enhancements. A reinsurer’s
+insolvency or inability or refusal to make timely payments under
+the terms of its agreements with the AIG subsidiaries could have
+a material adverse effect on AIG’s results of operations
+and liquidity. See also Management’s Discussion and
+Analysis of Financial Condition and Results of
+Operations — Risk Management — Reinsurance.
+
+
+
+Adjustments to Life Insurance &
+Retirement Services Deferred Policy 
+ Acquisition Costs
+
+
+
+
+Interest rate fluctuations and other events may require AIG
+subsidiaries to accelerate the amortization of deferred policy
+acquisition costs (DAC) which could adversely affect
+AIG’s consolidated financial condition or results of
+operations. DAC represents the costs that vary with and are
+related primarily to the acquisition of new and renewal
+insurance and annuity contracts. When interest rates rise,
+policy loans and surrenders and withdrawals of life insurance
+policies and annuity contracts may increase as policyholders
+seek to buy products with perceived higher returns, requiring
+AIG subsidiaries to accelerate the amortization of DAC. To the
+extent such amortization exceeds surrender or other charges
+earned upon surrender and withdrawals of certain life insurance
+policies and annuity contracts, AIG’s results of operations
+could be negatively affected.
+
+
+   
+DAC for both insurance-oriented and investment-oriented products
+as well as retirement services products is reviewed for
+recoverability, which involves estimating the future
+profitability of current business. This review involves
+significant management judgment. If the actual emergence of
+future profitability were to be substantially lower than
+estimated, AIG could be required to accelerate its DAC
+amortization and such acceleration could adversely affect
+AIG’s results of operations. See also Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations — Critical Accounting Estimates and
+Notes 1 and 6 to Consolidated Financial Statements.
+
+
+
+Use of Estimates
+
+
+
+
+If actual experience differs from management’s estimates
+used in the preparation of financial statements, AIG’s
+consolidated results of operations or financial condition could
+be adversely affected. The preparation of financial
+statements in conformity with accounting principles generally
+accepted in the United States requires the application of
+accounting policies that often involve a significant degree of
+judgment. AIG considers that its accounting policies that are
+most dependent on the application of estimates and assumptions,
+and therefore viewed as critical accounting estimates, are those
+described in Management’s Discussion and Analysis of
+Financial Condition and Results of Operations —
+Critical Accounting Estimates. These accounting estimates
+require the use of assumptions, some of which are highly
+uncertain at the time of estimation. For example, recent market
+volatility and declines in liquidity have made it more difficult
+to value certain of AIG’s invested assets and the
+obligations and collateral relating to certain financial
+instruments issued or held by AIG, such as
+
+
+
+
+
+ 18        AIG
+2007 Form 10-K
+
+
+
+
+Table of Contents
+
+
+American International Group, Inc. and Subsidiaries
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+AIGFP’s super senior credit default swap portfolio. To the
+extent actual experience differs from the assumptions used,
+AIG’s consolidated results of operations or financial
+condition would be directly affected, perhaps materially.
+
+
+
+Legal Proceedings
+
+
+
+
+Significant legal proceedings may adversely affect AIG’s
+results of operations. AIG is party to numerous legal
+proceedings and regulatory or governmental investigations. It is
+possible that the effect of these unresolved matters could be
+material to AIG’s consolidated results of operations for an
+individual reporting period. For a discussion of these
+unresolved matters, see Item 3. Legal Proceedings.
+
+
+
+Foreign Operations
+
+
+
+
+Foreign operations expose AIG to risks that may affect its
+operations, liquidity and financial condition. AIG provides
+insurance, investment and other financial products and services
+to both businesses and individuals in more than 130 countries
+and jurisdictions. A substantial portion of AIG’s General
+Insurance business and a majority of its Life Insurance &
+Retirement Services business is conducted outside the United
+States. Operations outside of the United States, particularly
+those in developing nations, may be affected by regional
+economic downturns, changes in foreign currency exchange rates,
+political upheaval, nationalization and other restrictive
+government actions, which could also affect other AIG operations.
+
+
+   
+The degree of regulation and supervision in foreign
+jurisdictions varies. Generally, AIG, as well as its
+subsidiaries operating in such jurisdictions, must satisfy local
+regulatory requirements. Licenses issued by foreign authorities
+to AIG subsidiaries are subject to modification and revocation.
+Thus, AIG’s insurance subsidiaries could be prevented from
+conducting future business in certain of the jurisdictions where
+they currently operate. Adverse actions from any single country
+could adversely affect AIG’s results of operations,
+liquidity and financial condition depending on the magnitude of
+the event and AIG’s net financial exposure at that time in
+that country.
+
+
+
+Regulation
+
+
+
+
+AIG is subject to extensive regulation in the jurisdictions
+in which it conducts its businesses. AIG’s operations
+around the world are subject to regulation by different types of
+regulatory authorities, including insurance, securities,
+investment advisory, banking and thrift regulators in the United
+States and abroad. AIG’s operations have become more
+diverse and consumer-oriented, increasing the scope of
+regulatory supervision and the possibility of intervention. In
+particular, AIG’s consumer lending business is subject to a
+broad array of laws and regulations governing lending practices
+and permissible loan terms, and AIG would expect increased
+regulatory oversight relating to this business.
+
+
+   
+The regulatory environment could have a significant effect on
+AIG and its businesses. Among other things, AIG could be fined,
+prohibited from engaging in some of its business activities or
+subject to limitations or conditions on its business activities.
+Significant regulatory action against AIG could have material
+adverse financial effects, cause significant reputational harm
+or harm business prospects. New laws or regulations or changes
+in the enforcement of existing laws or regulations applicable to
+clients may also adversely affect AIG and its businesses.
+
+
+
+A Material Weakness
+
+
+
+
+A material weakness in internal control over financial
+reporting and oversight relating to the AIGFP valuation of its
+super senior credit default swap portfolio could adversely
+affect the accuracy or timing of future regulatory filings.
+AIG’s management has concluded that a material weakness
+relating to the internal control over financial reporting and
+oversight relating to the fair value valuation of the AIGFP
+super senior credit default swap portfolio existed as of
+December 31, 2007. Until remediated, this weakness could
+adversely affect the accuracy or timing of future filings with
+the SEC and other regulatory authorities. A discussion of this
+material weakness and AIG’s remediation efforts can be
+found in Item 9A. Controls and Procedures —
+Management’s Report on Internal Control Over Financial
+Reporting.
+
+
+
+Employee Error and Misconduct
+
+
+
+
+Employee error and misconduct may be difficult to detect and
+prevent and may result in significant losses. Losses may
+result from, among other things, fraud, errors, failure to
+document transactions properly or to obtain proper internal
+authorization or failure to comply with regulatory requirements.
+
+
+   
+There have been a number of highly publicized cases involving
+fraud or other misconduct by employees in the financial services
+industry in recent years, and AIG runs the risk that employee
+misconduct could occur. It is not always possible to deter or
+prevent employee misconduct and the controls that AIG has in
+place to prevent and detect this activity may not be effective
+in all cases.
+
+
+
+Aircraft Suppliers
+
+
+
+
+There are limited suppliers of aircraft and engines. The
+supply of jet transport aircraft, which ILFC purchases and
+leases, is dominated by two airframe manufacturers, Boeing and
+Airbus, and a limited number of engine manufacturers. As a
+result, ILFC is dependent on the manufacturers’ success in
+remaining financially stable, producing aircraft and related
+components which meet the airlines’ demands, both in type
+and quantity, and fulfilling their contractual obligations to
+ILFC. Competition between the manufacturers for market share is
+intense and may lead to instances of deep discounting for
+certain aircraft types and could negatively affect ILFC’s
+competitive pricing.
+
+
+
+
+
+
+Item 1B

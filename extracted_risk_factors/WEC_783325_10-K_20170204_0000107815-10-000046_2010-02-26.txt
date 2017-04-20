@@ -1,0 +1,3156 @@
+Item 1A of this report.
+
+
+We expressly disclaim any obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+  9
+
+
+
+
+PART I
+
+
+
+ITEM 1.
+
+BUSINESS
+
+
+
+
+INTRODUCTION
+
+Wisconsin Energy Corporation was incorporated in the State of Wisconsin in 1981 and became a diversified holding company in 1986.  We maintain our principal executive offices in Milwaukee, Wisconsin.  Unless qualified by their context when used in this document, the terms Wisconsin Energy, the Company, our, us or we refer to the holding company and all of its subsidiaries.
+
+We conduct our operations primarily in two operating segments: a utility energy segment and a non-utility energy segment.  Our primary subsidiaries are Wisconsin Electric, Wisconsin Gas and We Power.
+
+Utility Energy Segment:   Our utility energy segment consists of Wisconsin Electric and Wisconsin Gas, operating together under the trade name of We Energies, and Edison Sault.  We Energies serves approximately 1,117,400 electric customers in Wisconsin and the Upper Peninsula of Michigan.  We Energies serves approximately 1,060,200 gas customers in Wisconsin and approximately 465 steam customers in metropolitan Milwaukee, Wisconsin.  Edison Sault serves approximately 23,000 electric customers in the Upper Peninsula of Michigan.
+
+In October 2009, we announced that we reached an agreement to sell Edison Sault to Cloverland Electric Cooperative for approximately $61.5 million.  See Utility Energy Segment -- Electric Utility Operations - Electric Sales below for additional information on the planned sale of Edison Sault.
+
+Non-Utility Energy Segment:   Our non-utility energy segment consists primarily of We Power.  We Power was formed in 2001 to design, construct, own and lease the new generating capacity included in our PTF strategy.  See below and in Item 7 for more information on PTF.  
+
+PTF Strategy:   In September 2000, we announced our PTF strategy to improve the supply and reliability of electricity in Wisconsin.  As part of our PTF strategy, we are: (1) investing in new natural gas-fired and coal-fired electric generating facilities, (2) upgrading Wisconsin Electric's existing electric generating facilities and (3) investing in upgrades of our existing energy distribution system.  Also, as part of this strategy, we announced and began implementing plans to divest non-core assets and operations in our non-utility energy segment and to reduce our real estate operations.  Additional information concerning PTF may be found below under Non-Utility Energy Segment, as well as in Item 7.
+
+For further financial information about our business segments, see Results of Operations in Item 7 and Note Q -- Segment Reporting in the Notes to Consolidated Financial Statements in Item 8.
+
+Our annual and periodical filings with the SEC are available, free of charge, through our Internet website www.wisconsinenergy.com.  These documents are available as soon as reasonably practicable after such materials are filed (or furnished) with the SEC.
+
+ 
+ 
+UTILITY ENERGY SEGMENT
+
+ELECTRIC UTILITY OPERATIONS
+
+Our electric utility operations consist of the electric operations of Wisconsin Electric and Edison Sault.  Wisconsin Electric, which is the largest electric utility in the State of Wisconsin, generates and distributes electric energy in a territory in southeastern (including the metropolitan Milwaukee area), east central and northern Wisconsin and in the Upper Peninsula of Michigan.  Edison Sault generates and distributes electric energy in a territory in the eastern Upper Peninsula of Michigan.  
+
+Wisconsin Electric and Edison Sault participate in the MISO Energy Markets.  The competitiveness of our generation offered in the MISO Energy Markets affects how our generating units are dispatched and how we buy and sell power.  For further information, see Factors Affecting Results, Liquidity and Capital Resources in Item 7.
+  10
+
+
+
+
+Electric Sales
+
+Our electric energy sales to all classes of customers, excluding intercompany sales between Edison Sault and Wisconsin Electric, totaled approximately 29.2 million MWh during 2009 and approximately 31.9 million MWh during 2008.  We had approximately 1,140,400 electric customers as of December 31, 2009 and 1,137,800 electric customers as of December 31, 2008.
+
+Wisconsin Electric:   Wisconsin Electric is authorized to provide retail electric service in designated territories in the state of Wisconsin, as established by indeterminate permits, CPCNs or boundary agreements with other utilities, and in certain territories in the state of Michigan pursuant to franchises granted by municipalities.  Wisconsin Electric also sells wholesale electric power within the MISO Energy Markets.
+
+Edison Sault:   Edison Sault is authorized to provide retail electric service in certain territories in the state of Michigan pursuant to franchises granted by municipalities.  Edison Sault also provides wholesale electric service under contract with one rural cooperative, Cloverland Electric Cooperative.
+
+In October 2009, we entered into an agreement to sell Edison Sault to Cloverland Electric Cooperative for approximately $61.5 million.  We will retain the membership interest in ATC currently held by Edison Sault.  The sale is contingent upon certain conditions, including the approval by regulatory bodies.  If the conditions are satisfied, we expect the sale to be completed in 2010.
+
+Electric Sales Growth:   Our service territory experienced a significant economic recession during late 2008 and into 2009.  Our normalized 2009 electric sales, excluding our two largest customers, two iron ore mines, were approximately 5.6% lower than our normalized 2008 electric sales.  As we look toward 2010 and beyond, we presently anticipate total retail and municipal electric kWh sales of our utility energy segment will grow at an annual rate of 0.5% to 1.0% over the next five years.  This estimate assumes normal weather and excludes the two iron ore mines.  We also anticipate that our peak electric demand will grow at an annual rate of 1.0% to 1.5% over the next five years. 
+
+Sales to Large Electric Retail Customers:   Wisconsin Electric provides electric utility service to a diversified base of customers in such industries as mining, paper, foundry, food products and machinery production, as well as to large retail chains.  
+
+Our largest retail electric customers are two iron ore mines located in the Upper Peninsula of Michigan.  The combined electric energy sales to the two mines accounted for 5.2% and 6.5% of our total electric utility energy sales during 2009 and 2008, respectively.  Effective January 1, 2008, the mines became eligible to receive electric service from Wisconsin Electric in accordance with tariffs approved by the MPSC.  Prior to this, Wisconsin Electric had special negotiated power-sales contracts with these mines. 
+
+Sales to Wholesale Customers:   During 2009, Wisconsin Electric sold wholesale electric energy to two municipally owned systems, two rural cooperatives and two municipal joint action agency located in the states of Wisconsin and Michigan.  Wholesale electric energy sales by Wisconsin Electric were also made to twelve other public utilities and power marketers throughout the region under rates approved by FERC.  Edison Sault sold wholesale electric energy to one rural cooperative during 2009.  Wholesale sales accounted for approximately 9.4% of our total electric energy sales and 5.4% of total electric operating revenues during 2009, compared with 9.9% of total electric energy sales and 3.6% of total electric operating revenues during 2008.  
+
+Electric System Reliability Matters:   Our electric sales are impacted by seasonal factors and varying weather conditions.  We sell more electricity during the summer months because of the residential cooling load.  Wisconsin Electric is a member of the RFC, a reliability council which has approved reliability standards setting forth the methodology for establishing planning reserve requirements and requiring the formation of PRSG.  Wisconsin Electric is also a member of the Midwest PRSG, which was formed to establish planning reserve requirements.  As a member of the Midwest PRSG, Wisconsin Electric was required to adhere to PSCW guidelines requiring an 18% planning reserve margin.  In October 2008, the PSCW issued an order lowering the planning reserve margin requirement from 18% to 14.5% effective for planning year two and each year beyond, and the MISO calculated the planning reserve margin for the first planning year 2009-2010.  The MPSC has not yet established gu
+idelines in this area.  We had adequate capacity to meet all of our firm electric load obligations during 2009 and expect to have adequate capacity to meet all of our firm obligations during 2010.  For additional information, see Factors Affecting Results, Liquidity and Capital Resources in Item 7.  
+  11
+
+
+
+
+Electric Supply
+
+Our electric supply strategy is to provide our customers with a diverse fuel mix that is expected to maintain a stable, reliable and affordable supply of electricity.  We supply a significant amount of electricity to our customers from power plants that we own.  We supplement our internally generated power supply with long-term power purchase agreements, including the Point Beach power purchase agreement discussed later in this report, and through spot purchases in the MISO Energy Markets.
+
+Our installed capacity by fuel type as of December 31 is shown below:
+
+
+
+
+
+Dependable Capability in MW (a)
+
+
+
+
+
+
+
+
+
+
+
+
+2009
+
+
+2008
+
+
+2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coal (b) (c) 
+
+
+3,131  
+
+
+3,247  
+
+
+3,247  
+
+
+Natural Gas - Combined Cycle (d)
+
+
+1,090  
+
+
+1,090  
+
+
+545  
+
+
+Natural Gas/Oil - Peaking Units (e)
+
+
+1,155  
+
+
+1,143  
+
+
+1,162  
+
+
+Renewables (f) 
+
+
+113  
+
+
+113  
+
+
+84  
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+5,489  
+
+
+5,593  
+
+
+5,038  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)  
+
+Dependable capability is the net power output under average operating conditions with equipment in an average state of repair as of a given month in a given year.  The values were established by test and may change slightly from year to year.
+
+
+
+
+
+(b)  
+
+OC 1 was placed in service on February 2, 2010, and our share of this unit's dependable capability is 515 MW.  Bechtel is targeting the commercial operation of OC 2 by the end of August 2010, and our share of this unit's dependable capability will also be 515 MW.
+
+
+
+
+
+(c)  
+
+In October 2009, Presque Isle Units 3 and 4 were retired.  These units represented 116 MW of dependable capability.
+
+
+
+
+
+(d)  
+
+The increase in 2008 as compared to 2007 reflects the May 2008 in-service of PWGS 2, which has a dependable capability of 545 MW.
+
+
+
+
+
+(e)  
+
+The dual-fueled facilities generally burn oil only if natural gas is not available due to constraints on the natural gas pipeline and/or at the local gas distribution company that delivers gas to the plants.  
+
+
+
+
+
+(f)  
+
+Includes hydroelectric and wind generation.  For purposes of measuring dependable capability, the 145 MW Blue Sky Green Field wind project has a dependable capability of 29 MW. 
+
+
+
+
+  12
+
+
+
+
+
+The table below indicates our sources of electric energy supply as a percentage of sales for the three years ended December 31, 2009, as well as an estimate for 2010: 
+
+
+
+
+Estimate
+
+
+Actual
+
+
+
+
+
+
+
+
+
+
+
+
+2010
+
+
+2009 
+
+
+2008
+
+
+2007
+
+
+
+
+
+
+
+
+
+
+
+Coal (a)
+
+58.5%     
+
+
+52.3%       
+
+
+56.7%     
+
+
+54.1%     
+
+
+Nuclear (b)
+
+N/A       
+
+
+N/A       
+
+
+N/A      
+
+
+17.3%     
+
+
+Wind
+
+1.5%     
+
+
+1.1%      
+
+
+0.6 %    
+
+
+ - %     
+
+
+Hydroelectric
+
+1.3%     
+
+
+1.3%      
+
+
+1.4%     
+
+
+1.1%     
+
+
+Natural Gas -Combined Cycle
+
+8.0%     
+
+
+7.5%     
+
+
+5.2%     
+
+
+5.2%     
+
+
+Natural Gas/Oil-Peaking Units
+
+0.2%     
+
+
+0.2%     
+
+
+0.3%     
+
+
+1.0%     
+
+
+
+
+
+
+
+
+
+
+
+  Net Generation
+
+69.5%     
+
+
+62.4%     
+
+
+64.2%     
+
+
+78.7%     
+
+
+Purchased Power (b) 
+
+30.5%     
+
+
+37.6%     
+
+
+35.8%     
+
+
+21.3%     
+
+
+
+
+
+
+
+
+
+
+
+  Total
+
+100.0%     
+
+
+100.0%     
+
+
+100.0%     
+
+
+100.0%     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+OC 1 was placed in service on February 2, 2010, and our share of this unit's dependable capability is 515 MW.  Bechtel is targeting the commercial operation of OC 2 by the end of August 2010, and our share of this unit's dependable capability will also be 515 MW.  
+
+
+
+
+
+(b)
+
+Beginning in 2007, nuclear generation decreased due to the sale of Point Beach and purchased power increased as a result of the entry into the associated power purchase agreement with the buyer.
+
+
+
+
+Our average fuel and purchased power costs per MWh by fuel type for the years ended December 31 are shown below: 
+
+
+
+
+2009
+
+
+2008
+
+
+2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coal
+
+
+$  25.03  
+
+
+$  22.95  
+
+
+$  20.52  
+
+
+Nuclear 
+
+
+N/A    
+
+
+N/A    
+
+
+$    5.83  
+
+
+Natural Gas - Combined Cycle 
+
+
+$  51.67  
+
+
+$  69.65  
+
+
+$  61.27  
+
+
+Natural Gas/Oil - Peaking Units
+
+
+$121.18  
+
+
+$160.25  
+
+
+$112.49  
+
+
+Purchased Power
+
+
+$  41.90  
+
+
+$  46.21  
+
+
+$  45.19  
+
+
+
+
+
+Historically, the fuel costs for coal have been under long-term contracts, which helped with price stability.  Coal and associated transportation services have seen greater volatility in pricing than typically experienced in these markets due to changes in the domestic and world-wide demand for coal and the impacts of diesel costs which are incorporated into fuel surcharges on rail transportation.  
+
+Natural gas costs have been volatile.  We have a PSCW-approved hedging program to help manage our natural gas price risk.  This hedging program is generally implemented on a 36-month forward-looking basis.  Proceeds related to the natural gas hedging program are reflected in the 2009, 2008 and 2007 average costs of natural gas and purchased power shown above.  
+
+Coal-Fired Generation
+
+Coal Supply:   We diversify the coal supply for our power plants by purchasing coal from mines in Wyoming, Pennsylvania and Colorado as well as from various other states.  During 2010, 100% of our projected coal requirements of 11.6 million tons are under contracts which are not tied to 2010 market pricing fluctuations.  In 2009, our coal-fired generation consisted of six operating plants with a dependable capability of approximately 3,131 MW.  However, by the end of 2010, with the addition of OC 1 and the scheduled addition of OC 2, we expect our coal-fired generation to have a dependable capability of 4,161 MW.
+
+Following is a summary of the annual tonnage amounts for our principal long-term coal contracts by the month and year in which the contracts expire: 
+  13
+
+
+
+
+ 
+
+
+Contract
+Expiration Date
+
+
+
+Annual Tonnage
+
+
+
+
+
+
+
+
+(Thousands)
+
+
+
+
+
+
+Dec. 2010
+
+
+11,765            
+
+
+Dec. 2011
+
+
+9,480            
+
+
+Dec. 2012
+
+
+5,000            
+
+
+
+
+
+Coal Deliveries:   Approximately 88% of our 2010 coal requirements are expected to be delivered by Wisconsin Electric-owned or leased unit trains.  The unit trains will transport coal for the Oak Creek and Pleasant Prairie Power Plants from Wyoming mines, and transport coal for the Oak Creek expansion units from Pennsylvania and West Virginia.  Coal from Colorado mines is also transported via rail to Lake Superior or Lake Michigan transfer docks and delivered by lake vessel to the Milwaukee harbor for Milwaukee-based power plants.  Montana and Wyoming coal for Presque Isle Power Plant is transported via rail to Superior, Wisconsin, placed in dock storage and reloaded into lake vessels for plant delivery.  Colorado coal bound for the Presque Isle Power Plant is shipped via rail to Lake Superior and Lake Michigan (Chicago) coal transfer docks, respectively, for lake vessel delivery to the plant.
+
+Certain of our coal transportation contracts contain fuel cost adjustments that are tied to changes in a diesel fuel price index.  Currently, diesel fuel contracts are not actively traded; therefore, we are using financial heating oil contracts to mitigate risk.  The PSCW has approved a program that allows us to hedge up to 75% of our potential fuel for electric generation in order to help manage our risk of higher delivered cost of coal.  The costs of this program are included in our fuel and purchased power costs.
+
+During the fourth quarter of 2009, we reached a contingent agreement to sell our 25% interest in Edgewater Generating Unit 5 to WPL, which will become binding if we are unable to reach an agreement with a third party to sell our interest.  We are continuing to negotiate with a third party to sell our interest in this unit.  The completion of any sale will be subject to approval by the PSCW.
+
+Environmental Matters:   For information regarding emission restrictions, especially as they relate to coal-fired generating facilities, see Factors Affecting Results, Liquidity and Capital Resources -- Environmental Matters in Item 7.
+
+Natural Gas-Fired Generation
+
+Our natural gas-fired generation consists of five operating plants with a dependable capability of approximately 1,983 MW at December 31, 2009.  We added PWGS 1 and PWGS 2, both natural gas-fired units with a dependable capability of 545 MW each, in July 2005 and May 2008, respectively.  
+
+We purchase natural gas for these plants on the spot market from gas marketers, utilities and producers and we arrange for transportation of the natural gas to our plants.  We have firm and interruptible transportation, balancing and storage agreements intended to support the plants' variable usage.  
+
+The PSCW has approved a program that allows us to hedge up to 75% of our estimated gas usage for electric generation in order to help manage our natural gas price risk.  The costs of this program are included in our fuel and purchased power costs.
+
+Oil-Fired Generation
+
+Fuel oil is used for the combustion turbines at the Germantown Power Plant units 1-4, boiler ignition and flame stabilization at the Presque Isle Power Plant, and diesel engines at the Pleasant Prairie Power Plant, Valley Power Plant and at the Manistique facility at Edison Sault.  Our oil-fired generation had a dependable capability of approximately 262 MW as of December 31, 2009.  Our natural gas-fired peaking units have the ability to burn oil if natural gas is not available due to delivery constraints.  Fuel oil requirements are purchased under agreements with suppliers.
+
+  14
+
+
+
+
+Renewable Generation
+
+Hydroelectric:   Wisconsin Electric's hydroelectric generating system consists of 13 operating plants with a total installed capacity of approximately 88 MW and a dependable capability of approximately 57 MW as of December 31, 2009.  Of these 13 plants, 12 plants (86 MW of installed capacity) have long-term licenses from FERC.  The thirteenth plant, with an installed generating capacity of approximately 2 MW, does not require a license. Edison Sault's primary source of generation is its hydroelectric generating plant located on the St. Mary's River in Sault Ste. Marie, Michigan.  The hydroelectric generating plant has a total dependable capability of approximately 27 MW.  The water for this facility is under contract with the United States Army Corps of Engineers with tenure to December 31, 2075.  However, the Secretary of the Army has the right to terminate the contract after December 31, 2050 by providing at least a five-year term
+ination notice.  No such notice can be given prior to December 31, 2045.  Edison Sault pays for all water taken from the St. Mary's River at predetermined rates with a minimum annual payment of $0.1 million.  The total flow of water taken out of Lake Superior, which in effect is the flow of water in the St. Mary's River, is under the direction and control of the International Joint Commission, created by the Boundary Water Treaty of 1909 between the United States and Great Britain, now represented by Canada.
+
+Hydroelectric generation is also purchased by Edison Sault under contract from the United States Army Corps of Engineers' hydroelectric generating plant located within the Soo Locks complex on the St. Mary's River in Sault Ste. Marie, Michigan.  This 17 MW contract has tenure to November 1, 2040 and cannot be terminated by the United States government prior to November 1, 2030.
+
+Wind:   Wisconsin Electric completed the Blue Sky Green Field wind project in May 2008.  This project has 88 turbines, an installed capacity of approximately 145 MW and a current dependable capability of approximately 29 MW.  In July 2008, Wisconsin Electric completed the purchase rights to a new wind farm site in central Wisconsin, Glacier Hills Wind Park, and filed a request for a CPCN with the PSCW in October 2008.  We entered into a conditional turbine agreement for the new wind facility and filed a revised, lower cost estimate with the PSCW in May 2009 of $335.2 million to $413.5 million, excluding AFUDC.  In January 2010, the PSCW approved the 
+CPCN.  We currently expect to install up to 90 wind turbines with generating capacity of up to approximately 207 MW, subject to turbine selection and the final site configuration.  We expect 2012 to be the first full year of operation.  
+
+Biomass:   In September 2009, we announced plans to construct a biomass-fueled power plant at Domtar Corporation's Rothschild, Wisconsin paper mill site.  Wood, waste and sawdust will be used to produce approximately 50 MW of electricity and will also support Domtar's sustainable papermaking operations.  We believe the biomass plant will be eligible for either the federal production tax credit or the federal 30% investment tax credit.  We currently expect the plant to cost approximately $250 million and to be completed during the fall of 2013, subject to regulatory approvals.  We expect to file a request for a Certificate of Authority for the project in the first quarter of 2010.
+
+Nuclear Generation
+
+Point Beach:  Prior to September 28, 2007, Wisconsin Electric owned two 518 MW electric generating units at Point Beach in Two Rivers, Wisconsin. On September 28, 2007, Wisconsin Electric sold Point Beach to an affiliate of FPL for approximately $924 million.  Pursuant to the terms of the sale agreement, the buyer purchased Point Beach, its nuclear fuel and associated inventories, and assumed the obligation to decommission the plant.  
+
+A long-term power purchase agreement with the buyer became effective upon closing of the sale.  Pursuant to this agreement, Wisconsin Electric is purchasing all of the energy produced by Point Beach.  The power purchase agreement extends through 2030 for Unit 1 and 2033 for Unit 2.  Based on the agreement, we will be paying the buyer a predetermined price per MWh for energy delivered.  For additional information on the sale of Point Beach, see Note D -- Asset Sales, Divestitures and Discontinued Operations in the Notes to Consolidated Financial Statements in Item 8 and Nuclear Operations under Factors Affecting Results, Liquidity and Capital Resources in Item 7.
+
+Used Nuclear Fuel Storage & Disposal:   For information concerning used nuclear fuel storage and disposal issues, see Nuclear Operations under Factors Affecting Results, Liquidity and Capital Resources in Item 7.
+  15
+
+
+
+
+Power Purchase Commitments
+
+We enter into short and long-term power purchase commitments to meet a portion of our anticipated electric energy supply needs.  The following table identifies our power purchase commitments as of December 31, 2009 with unaffiliated parties for the next five years: 
+
+
+
+Year
+
+
+MW Under 
+Power Purchase Commitments
+
+
+
+
+
+
+
+
+
+
+2010
+
+
+1,599
+
+
+2011
+
+
+1,599
+
+
+2012
+
+
+1,440
+
+
+2013
+
+
+1,269
+
+
+2014
+
+
+1,269
+
+
+
+
+
+Approximately 1,030 MW per year relates to the Point Beach long-term power purchase agreement.  Under this agreement, we pay a predetermined price per MWh for energy delivered according to a schedule included in the agreement.  The balance of these power purchase commitments are tolling arrangements whereby we are responsible for the procurement, delivery and the cost of natural gas fuel related to specific units identified in the contracts.  
+
+Electric Transmission and Energy Markets
+
+American Transmission Company:   ATC owns, maintains, monitors and operates electric transmission systems in Wisconsin, Michigan and Illinois.  ATC's sole business is to provide reliable, economic electric transmission service to all customers in a fair and equitable manner.  ATC is expected to provide comparable service to all customers, including Wisconsin Electric and Edison Sault, and to support effective competition in energy markets without favoring any market participant.  ATC is regulated by FERC for all rate terms and conditions of service and is a transmission-owning member of MISO.  MISO maintains operational control of ATC's transmission system, and Wisconsin Electric and Edison Sault are non-transmission owning members and customers of MISO.  We owned approximately 26.2% of ATC as of December 31, 2009 and 2008.
+
+MISO:   In connection with its status as a FERC approved RTO, MISO developed bid-based energy markets, which were implemented on April 1, 2005.  In January 2009, MISO commenced the Energy and Operating Reserves Markets, which includes the bid-based energy markets and a new ancillary services market.  For further information on MISO and the MISO Energy Markets, see Factors Affecting Results, Liquidity and Capital Resources -- Industry Restructuring and Competition - Electric Transmission and Energy Markets in Item 7.
+
+Electric Hedging Programs:   We purchase some of the electricity needed to satisfy our current sales obligations in the MISO Energy Markets.  Due to volatility in the price of market-based energy, we face potential financial exposure.  We have PSCW approval to hedge up to 75% of a future month's predicted electricity need.  This plan seeks to manage market price risk, as well as reduce price risks related to forced outages.  
+  16
+
+
+
+
+
+
+Electric Utility Operating Statistics
+
+The following table shows certain electric utility operating statistics from 2005 to 2009 for electric operating revenues, MWh sales and customer data:
+
+
+
+SELECTED CONSOLIDATED ELECTRIC UTILITY OPERATING DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year Ended December 31
+
+2009
+
+
+2008
+
+
+2007
+
+
+2006
+
+
+2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Revenues (Millions)
+
+
+
+
+
+
+
+
+
+
+
+   Residential
+
+$993.4  
+
+
+$977.1  
+
+
+$929.6  
+
+
+$883.2  
+
+
+$827.6  
+
+
+   Small Commercial/Industrial
+
+881.8  
+
+
+890.6  
+
+
+861.7  
+
+
+814.8  
+
+
+746.1  
+
+
+   Large Commercial/Industrial
+
+613.9  
+
+
+659.6  
+
+
+676.9  
+
+
+647.5  
+
+
+602.4  
+
+
+   Other - Retail
+
+21.7  
+
+
+21.2  
+
+
+19.7  
+
+
+19.3  
+
+
+17.9  
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Total Retail Sales
+
+2,510.8  
+
+
+2,548.5  
+
+
+2,487.9  
+
+
+2,364.8  
+
+
+2,194.0  
+
+
+   Wholesale - Other
+
+98.3  
+
+
+58.9  
+
+
+95.1  
+
+
+78.0  
+
+
+94.7  
+
+
+   Resale - Utilities
+
+47.5  
+
+
+37.5  
+
+
+81.6  
+
+
+51.2  
+
+
+21.3  
+
+
+   Other Operating Revenues
+
+55.7  
+
+
+41.5  
+
+
+41.1  
+
+
+35.4  
+
+
+39.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Total Operating Revenues
+
+$2,712.3  
+
+
+$2,686.4  
+
+
+$2,705.7  
+
+
+$2,529.4  
+
+
+$2,349.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MWh Sales (Thousands)
+
+
+
+
+
+
+
+
+
+
+
+   Residential 
+
+8,122.9  
+
+
+8,448.1  
+
+
+8,586.6  
+
+
+8,322.7  
+
+
+8,562.7  
+
+
+   Small Commercial/Industrial
+
+8,800.0  
+
+
+9,260.3  
+
+
+9,430.3  
+
+
+9,142.2  
+
+
+9,192.7  
+
+
+   Large Commercial/Industrial
+
+9,348.4  
+
+
+10,903.0  
+
+
+11,245.6  
+
+
+11,173.1  
+
+
+11,687.5  
+
+
+   Other - Retail
+
+162.9  
+
+
+167.7  
+
+
+168.7  
+
+
+169.9  
+
+
+171.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Total Retail Sales
+
+26,434.2  
+
+
+28,779.1  
+
+
+29,431.2  
+
+
+28,807.9  
+
+
+29,614.6  
+
+
+   Wholesale - Other
+
+1,180.2  
+
+
+2,281.1  
+
+
+2,178.5  
+
+
+2,057.6  
+
+
+2,541.9  
+
+
+   Resale - Utilities
+
+1,548.9  
+
+
+881.0  
+
+
+1,434.5  
+
+
+1,025.7  
+
+
+313.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Sales
+
+29,163.3  
+
+
+31,941.2  
+
+
+33,044.2  
+
+
+31,891.2  
+
+
+32,470.2  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers - End of Year (Thousands)
+
+
+
+
+
+
+
+
+
+
+
+   Residential 
+
+1,020.4  
+
+
+1,018.4  
+
+
+1,015.0  
+
+
+1,009.7  
+
+
+1,001.7  
+
+
+   Small Commercial/Industrial
+
+116.8  
+
+
+116.2  
+
+
+114.4  
+
+
+112.3  
+
+
+110.5  
+
+
+   Large Commercial/Industrial
+
+0.7  
+
+
+0.7  
+
+
+0.7  
+
+
+0.7  
+
+
+0.7  
+
+
+   Other
+
+2.5  
+
+
+2.5  
+
+
+2.4  
+
+
+2.5  
+
+
+2.4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Total Customers
+
+1,140.4  
+
+
+1,137.8  
+
+
+1,132.5  
+
+
+1,125.2  
+
+
+1,115.3  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers - Average (Thousands)
+
+1,138.5  
+
+
+1,134.8  
+
+
+1,128.5  
+
+
+1,120.5  
+
+
+1,109.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Degree Days (a)
+
+
+
+
+
+
+
+
+
+
+
+   Heating (6,640 Normal)
+
+6,825  
+
+
+7,073  
+
+
+6,508  
+
+
+6,043  
+
+
+6,628  
+
+
+   Cooling (698 Normal)
+
+475  
+
+
+593  
+
+
+800  
+
+
+723  
+
+
+949  
+
+
+
+
+
+
+
+(a) As measured at Mitchell International Airport in Milwaukee, Wisconsin.  Normal degree days are based upon a 20-year moving average.
+
+
+
+
+
+GAS UTILITY OPERATIONS
+
+Our gas utility operations consist of Wisconsin Gas and the gas operations of Wisconsin Electric.  Both companies are authorized to provide retail gas distribution service in designated territories in the State of Wisconsin, as established by indeterminate permits, CPCNs, or boundary agreements with other utilities.  The two companies also transport customer-owned gas.  Wisconsin Gas, the largest natural gas distribution utility in Wisconsin, operates throughout the state, including the City of Milwaukee.  Wisconsin Electric's gas utility operates in three distinct service areas: west and south of the City of Milwaukee, the Appleton area and areas within Iron and Vilas Counties, Wisconsin.
+  17
+
+
+
+
+Gas Deliveries
+
+Our gas utility business is highly seasonal due to the heating requirements of residential and commercial customers.  Annual gas sales are also impacted by the variability of winter temperatures.
+
+Total gas therms delivered, including customer-owned transported gas, were approximately 2,183.9 million therms during 2009, a 4.0% decrease compared with 2008.  At December 31, 2009, we were transporting gas for approximately 1,400 customers who purchased gas directly from other suppliers.  Transported gas accounted for approximately 40.4% of the total volumes delivered during 2009, 39.8% during 2008 and 42.0% during 2007.  We had approximately 1,060,200 and 1,056,400 gas customers at December 31, 2009 and 2008, respectively.  Our peak daily send-out during 2009 was 1,788,742 Dth on January 15, 2009.  
+
+Sales to Large Gas Customers:   We provide gas utility service to a diversified base of industrial customers who are largely within our electric service territory.  Major industries served include the paper, food products and fabricated metal products industries.  Fuel used for Wisconsin Electric's electric generation represents our largest transportation customer.
+
+Gas Deliveries Growth:   We currently forecast total retail therm deliveries (excluding natural gas deliveries for generation) to stay flat over the five-year period ending December 31, 2014 as new customer additions are expected to be offset by a reduction in the average use per customer.  This forecast reflects a current year normalized sales level and normal weather.
+
+Competition
+
+Competition in varying degrees exists between natural gas and other forms of energy available to consumers.  A number of our large commercial and industrial customers are dual-fuel customers that are equipped to switch between natural gas and alternate fuels.  We are allowed to offer lower-priced gas sales and transportation services to dual-fuel customers.  Under gas transportation agreements, customers purchase gas directly from gas marketers and arrange with interstate pipelines and us to have the gas transported to their facilities.  We earn substantially the same margin (difference between revenue and cost of gas) whether we sell and transport gas to customers or only transport their gas.
+
+Our ability to maintain our share of the industrial dual-fuel market depends on our success and the success of third-party gas marketers in obtaining long-term and short-term supplies of natural gas at competitive prices compared to other sources and in arranging or facilitating competitively-priced transportation service for those customers that desire to buy their own gas supplies.
+
+Federal and state regulators continue to implement policies to bring more competition to the gas industry.  While the gas utility distribution function is expected to remain a highly regulated, monopoly function, the sale of the natural gas commodity and related services are expected to remain subject to competition from third parties.  It remains uncertain if and when the current economic disincentives for small customers to choose an alternative gas commodity supplier may be removed such that we begin to face competition for the sale of gas to our smaller firm customers.
+
+Gas Supply, Pipeline Capacity and Storage
+
+We have been able to meet our contractual obligations with both our suppliers and our customers despite periods of severe cold in recent heating seasons.
+
+Pipeline Capacity and Storage:   The interstate pipelines serving Wisconsin originate in major gas producing areas of North America: the Oklahoma and Texas basins, the Gulf of Mexico, western Canada and the Rocky Mountains.  We have contracted for long-term firm capacity from a number of these sources.  This strategy reflects management's belief that overall supply security is enhanced by geographic diversification of the supply portfolios.  We have extended our commitment on Guardian's original pipeline through December 2022.  We have committed to purchase additional capacity through October 2023 on a new Guardian pipeline extension that was completed during 2009.
+
+Due to the daily and seasonal variations in gas usage in Wisconsin, we have also contracted for substantial underground storage capacity, primarily in Michigan.  Storage capacity, along with our gas purchase contracts, enables us to manage significant changes in daily demand and to optimize our overall gas supply and capacity costs.  We generally inject gas into storage during the spring and summer months when demand is lower and withdraw it in the winter months.  As a result, we can contract for less long-line pipeline capacity during periods of peak usage than would otherwise be 
+  18
+
+
+
+
+necessary, and can purchase gas on a more uniform daily basis from suppliers year-round.  Each of these capabilities enables us to reduce our overall costs.  
+
+We hold firm daily transportation and storage capacity entitlements from pipelines and other service providers under long-term contracts.
+
+Term Gas Supply:   We have contracts for firm supplies with terms in excess of 30 days with suppliers for gas acquired in the Chicago, Illinois market hub and in the producing areas discussed above.  The pricing of the term contracts is based upon first of the month indices.  Combined with our storage capability, management believes that the volume of gas under contract is sufficient to meet our forecasted firm peak-day demand.
+
+Secondary Market Transactions:   Capacity release is a mechanism by which pipeline long-line and storage capacity and gas supplies under contract can be resold in the secondary market.  Local distribution companies, like Wisconsin Gas and Wisconsin Electric, must contract for capacity and supply sufficient to meet the firm peak-day demand of their customers.  Peak or near peak demand days generally occur only a few times each year.  Capacity release facilitates higher utilization of contracted capacity and supply during those times when the full contracted capacity and supply are not needed by the utility, helping to mitigate the fixed costs associated with maintaining peak levels of capacity and gas supply.  Through pre-arranged agreements and day-to-day electronic bulletin board postings, interested parties can purchase this excess capacity and supply.  The proceeds from these transactions are passed through to rate payers, subject to the Wisconsin Electric and Wisconsin Gas
+ GCRMs.  During 2009, we continued our active participation in the capacity release market.  See Factors Affecting Results, Liquidity and Capital Resources -- Utility Rates and Regulatory Matters in Item 7 for information on the GCRMs.  
+
+Spot Market Gas Supply:   We expect to continue to make gas purchases in the 30-day spot market as price and other circumstances dictate.  We have supply relationships with a number of sellers from whom we purchase spot gas.
+
+Hedging Gas Supply Prices:   We have PSCW approval to hedge (i) up to 45% of planned flowing gas supply using NYMEX based natural gas options, (ii) up to 15% of planned flowing gas supply using NYMEX based natural gas future contracts and (iii) up to 35% of planned storage withdrawals using NYMEX based natural gas options.  Those approvals allow both Wisconsin Electric and Wisconsin Gas to pass 100% of the hedging costs (premiums and brokerage fees) and proceeds (gains and losses) to rate payers through their respective GCRMs.  Hedge targets (volumes) are provided annually to the PSCW as part of each company's three-year gas supply plan and risk management filing.
+
+To the extent that opportunities develop and our physical supply operating plans will support them, we also have PSCW approval to utilize NYMEX based natural gas derivatives to capture favorable forward market price differentials.  That approval provides for 100% of the related proceeds to accrue to our GCRMs.
+
+  19
+
+
+
+
+Gas Utility Operating Statistics
+
+The following table shows certain gas utility operating statistics from 2005 to 2009 for gas operating revenues, therms delivered and customer data:
+
+
+
+SELECTED CONSOLIDATED GAS UTILITY OPERATING DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year Ended December 31
+
+2009
+
+
+2008
+
+
+2007
+
+
+2006
+
+
+2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating Revenues (Millions)
+
+
+
+
+
+
+
+
+
+
+
+   Residential
+
+$856.6  
+
+
+$1,057.6  
+
+
+$934.3  
+
+
+$862.4  
+
+
+$898.9  
+
+
+   Commercial/Industrial
+
+442.9  
+
+
+572.4  
+
+
+485.4  
+
+
+443.8  
+
+
+465.4  
+
+
+   Interruptible
+
+11.9  
+
+
+21.3  
+
+
+17.5  
+
+
+17.0  
+
+
+20.4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Total Retail Gas Sales
+
+1,311.4  
+
+
+1,651.3  
+
+
+1,437.2  
+
+
+1,323.2  
+
+
+1,384.7  
+
+
+   Transported Gas
+
+44.8  
+
+
+47.2  
+
+
+48.4  
+
+
+47.8  
+
+
+46.3  
+
+
+   Other Operating Revenues
+
+11.7  
+
+
+(3.9) 
+
+
+(4.4) 
+
+
+48.9  
+
+
+(13.5) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Operating Revenues
+
+$1,367.9  
+
+
+$1,694.6  
+
+
+$1,481.2 
+
+
+$1,419.9 
+
+
+$1,417.5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therms Delivered (Millions)
+
+
+
+
+
+
+
+
+
+
+
+   Residential 
+
+803.4  
+
+
+841.8  
+
+
+791.7 
+
+
+727.9 
+
+
+791.0 
+
+
+   Commercial/Industrial
+
+479.4  
+
+
+503.2  
+
+
+461.9 
+
+
+435.9 
+
+
+460.7 
+
+
+   Interruptible
+
+19.1  
+
+
+23.0  
+
+
+22.7 
+
+
+21.3 
+
+
+23.4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Total Retail Gas Sales
+
+1,301.9  
+
+
+1,368.0  
+
+
+1,276.3 
+
+
+1,185.1 
+
+
+1,275.1 
+
+
+   Transported Gas
+
+882.0  
+
+
+905.8  
+
+
+921.6 
+
+
+843.8 
+
+
+893.7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Therms Delivered
+
+2,183.9  
+
+
+2,273.8  
+
+
+2,197.9 
+
+
+2,028.9 
+
+
+2,168.8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers - End of Year (Thousands)
+
+
+
+
+
+
+
+
+
+
+
+   Residential
+
+967.7  
+
+
+963.9  
+
+
+957.9  
+
+
+951.0  
+
+
+940.7  
+
+
+   Commercial/Industrial
+
+91.1  
+
+
+91.0  
+
+
+90.2  
+
+
+88.9  
+
+
+87.5  
+
+
+   Interruptible
+
+0.1  
+
+
+0.1  
+
+
+0.1  
+
+
+0.1  
+
+
+0.1  
+
+
+   Transported Gas
+
+1.3  
+
+
+1.4  
+
+
+1.3  
+
+
+1.4  
+
+
+1.4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Customers
+
+1,060.2  
+
+
+1,056.4  
+
+
+1,049.5  
+
+
+1,041.4  
+
+
+1,029.7  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers - Average (Thousands)
+
+1,055.6  
+
+
+1,050.2  
+
+
+1,042.8  
+
+
+1,033.3  
+
+
+1,019.8  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Degree Days (a)
+
+
+
+
+
+
+
+
+
+
+
+   Heating (6,640 Normal)
+
+6,825  
+
+
+7,073  
+
+
+6,508 
+
+
+6,043 
+
+
+6,628 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) As measured at Mitchell International Airport in Milwaukee, Wisconsin.  Normal degree days are based upon a 20-year moving average.
+
+
+
+
+
+OTHER UTILITY OPERATIONS
+
+Steam Utility Operations:   Wisconsin Electric's steam utility generates, distributes and sells steam supplied by its Valley and Milwaukee County Power Plants.  Wisconsin Electric operates a district steam system in downtown Milwaukee and the near south side of Milwaukee.  Steam is supplied to this system from Wisconsin Electric's Valley Power Plant, a coal-fired cogeneration facility.  Wisconsin Electric also operates the steam production and distribution facilities of the Milwaukee County Power Plant located on the Milwaukee County Grounds in Wauwatosa, Wisconsin.
+
+Annual sales of steam fluctuate from year to year based upon system growth and variations in weather conditions.  During 2009, the steam utility had $39.1 million of operating revenues from the sale of 2,932 million pounds of steam compared with $40.3 million of operating revenues from the sale of 3,081 million pounds of steam 
+  20
+
+
+
+
+during 2008.  As of December 31, 2009 and 2008, steam was used by approximately 465 customers, respectively, for processing, space heating, domestic hot water and humidification.
+
+Water Utility Operations:   In April 2009, we sold our water utility to the City of Mequon, Wisconsin for approximately $14.5 million.  For further information on the sale of the water utility operations, see Note D -- Asset Sales, Divestitures and Discontinued Operations in the Notes to Consolidated Financial Statements in Item 8.
+
+ 
+UTILITY RATE MATTERS
+
+See Factors Affecting Results, Liquidity and Capital Resources -- Utility Rates and Regulatory Matters in Item 7.
+
+ 
+NON-UTILITY ENERGY SEGMENT
+
+Our non-utility energy segment is involved primarily in the design and construction of new generating capacity under our PTF strategy.  As of December 31, 2009, our PTF assets represented virtually all of our non-utility energy segment assets.
+
+During 2000, we performed a comprehensive review of our existing portfolio of businesses and began implementing a strategy of divesting many of our non-utility energy segment businesses.  Since 2000, we have sold our interest in many of our non-utility energy assets with proceeds from these sales totaling approximately $631.8 million.  
+
+We Power
+
+We Power, through wholly owned subsidiaries, has designed and is constructing approximately 2,320 MW of new generation in Wisconsin, which is the key component of our PTF strategy.  This new generation consists of approximately 1,230 MW of new generating capacity from OC 1 and OC 2, and 1,090 MW of generating capacity related to PWGS 1 and PWGS 2.  PWGS 1 and PWGS 2 were placed in service in July 2005 and May 2008, respectively.  In November 2005, two unaffiliated entities collectively purchased an ownership interest of approximately 17%, or 200 MW, in OC 1 and OC 2.  Similar to the generating capacity at PWGS 1 and PWGS 2, We Power will own the remaining 1,030 MW of generating capacity currently being constructed and will lease this capacity to Wisconsin Electric.  As of December 31, 2009, we had approximately $1.8 billion of CWIP related to the construction of OC 1 and OC 2.  OC 1 was placed into service on February 2, 2010.  Bechtel is targeting the commercial operation of 
+OC 2 by the end of August 2010.  For further information about our PTF strategy, see Factors Affecting Results, Liquidity and Capital Resources -- Power the Future in Item 7.
+
+Wisvest LLC
+
+Wisvest was originally formed to develop, own and operate electric generating facilities and to invest in other energy-related entities.  As a result of the change in corporate strategy to focus on our PTF strategy, Wisvest has discontinued its development activity.  As of December 31, 2009, Wisvest's sole operating asset and investment is Wisvest Thermal Energy Services, which provides chilled water services to the Milwaukee Regional Medical Center.  
+
+OTHER NON-UTILITY OPERATIONS
+
+Wispark LLC
+
+Wispark develops and invests in real estate, and as of December 31, 2009, had $46.2 million in real estate holdings.  Wispark has developed several business parks and other commercial real estate projects, primarily in southeastern Wisconsin.  
+
+Wisconsin Energy Capital Corporation
+
+This entity engages in investing and financing activities, including advances to affiliated companies. 
+  21
+
+
+
+
+REGULATION
+
+Wisconsin Energy Corporation
+
+As required by PUHCA 2005, enacted under the Energy Policy Act, Wisconsin Energy notified FERC of its status as a holding company and sought from FERC exemption from the requirements of PUHCA 2005.  In June 2006, Wisconsin Energy received notice from FERC confirming its status as a holding company and granting such exemption.
+
+Non-Utility Asset Cap:   Pursuant to the non-utility asset cap provisions of Wisconsin's public utility holding company law, the sum of certain assets of all non-utility affiliates in a holding company system may not exceed 25% of the assets of all public utility affiliates.  However, among other items, the law exempts energy-related assets, including the generating plants being constructed by We Power as part of our PTF strategy and assets used for providing environmental engineering services and for processing waste materials, from being counted against the asset cap provided that they are employed in qualifying businesses.  As a result of these exemptions, our non-utility assets are significantly below the non-utility asset cap as of December 31, 2009.
+
+Utility Energy Segment
+
+Due to the Energy Policy Act's enactment of PUHCA 2005 as noted above, Wisconsin Electric was also required to notify FERC of its status as a holding company by reason of its ownership interest in ATC and to seek exemption from the requirements of PUHCA 2005 from FERC.  In June 2006, Wisconsin Electric received notice from FERC confirming its status as a holding company and granting such exemption.  
+
+Wisconsin Electric and Edison Sault are subject to the Energy Policy Act and the corresponding regulations developed by certain federal agencies.  The Energy Policy Act, among other things, made electric utility industry consolidation more feasible, authorized FERC to review proposed mergers and the acquisition of generation facilities, changed the FERC regulatory scheme applicable to qualifying co-generation facilities and modified certain other aspects of energy regulations and Federal tax policies applicable to Wisconsin Electric and Edison Sault.  Additionally, the Energy Policy Act created an Electric Reliability Organization to be overseen by FERC, which established mandatory electric reliability standards, replacing the voluntary standards developed by the North American Electric Reliability Corporation, and which has the authority to levy monetary sanctions for failure to comply with the new standards.
+
+Wisconsin Electric and Wisconsin Gas are subject to the regulation of the PSCW as to retail electric, gas and steam rates in the state of Wisconsin, standards of service, issuance of securities, construction of certain new facilities, transactions with affiliates, billing practices and various other matters.  Wisconsin Electric is subject to regulation of the PSCW as to certain levels of short-term debt obligations.  Wisconsin Electric and Edison Sault are both subject to the regulation of the MPSC as to the various matters associated with retail electric service in the state of Michigan, except as to the issuance of securities in the ordinary course of business, construction of certain new facilities, levels of short-term debt obligations and advance approval of transactions with affiliates in the ordinary course of business.  Wisconsin Electric's hydroelectric facilities are regulated by FERC.  Wisconsin Electric and Edison Sault are subject to regulation of FERC with respect to wholesale power service,
+ electric reliability requirements and accounting.  Edison Sault is subject to regulation of FERC with respect to the issuance of certain securities.  For information on how rates are set for our regulated entities, see Utility Rates and Regulatory Matters under Factors Affecting Results, Liquidity and Capital Resources in Item 7.
+  22
+
+
+
+
+The following table compares the source of our utility energy segment operating revenues by regulatory jurisdiction for each of the three years in the period ended December 31, 2009:
+
+
+
+
+2009
+
+
+2008
+
+
+2007
+
+
+
+
+
+
+
+
+
+
+Amount
+
+
+Percent
+
+
+Amount
+
+
+Percent
+
+
+Amount
+
+
+Percent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Millions of Dollars)
+
+
+Wisconsin - Retail
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Electric 
+
+$2,379.2  
+
+
+57.8%  
+
+
+$2,416.8  
+
+
+54.8%  
+
+
+$2,331.1  
+
+
+55.1%  
+
+
+     Gas 
+
+1,367.9  
+
+
+33.2%  
+
+
+1,694.6  
+
+
+38.3%  
+
+
+1,481.2  
+
+
+35.1%  
+
+
+     Steam 
+
+39.1  
+
+
+0.9%  
+
+
+40.3  
+
+
+0.9%  
+
+
+35.1  
+
+
+0.8%  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Total
+
+3,786.2  
+
+
+91.9%  
+
+
+4,151.7  
+
+
+94.0%  
+
+
+3,847.4  
+
+
+91.0%  
+
+
+Michigan - Retail 
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Electric 
+
+187.2  
+
+
+4.6%  
+
+
+173.2  
+
+
+3.9%  
+
+
+198.0  
+
+
+4.7%  
+
+
+FERC - Wholesale
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+     Electric 
+
+145.9  
+
+
+3.5%  
+
+
+96.4  
+
+
+2.1%  
+
+
+176.7  
+
+
+4.2%  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Utility Operating Revenues
+
+$4,119.3  
+
+
+100.0%  
+
+
+$4,421.3  
+
+
+100.0%  
+
+
+$4,222.1  
+
+
+100.0%  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total flow of water to Edison Sault's hydroelectric generating plant is under the control of the International Joint Commission, created by the Boundary Water Treaty of 1909 between the United States and Great Britain, now represented by Canada.  The operations of Wisconsin Electric, Wisconsin Gas and Edison Sault are also subject to regulations, where applicable, of the EPA, the WDNR, the MDEQ and the Michigan Department of Natural Resources.
+
+Public Benefits and Renewable Portfolio Standard
+
+In March 2006, Wisconsin revised the requirements for renewable energy generation by enacting Act 141.  Act 141 defines "baseline renewable percentage" as the average of an energy provider's renewable energy percentage for 2001, 2002 and 2003.  A utility's renewable energy percentage is equal to the amount of its total retail energy sales that are provided by renewable sources.  Wisconsin Electric's baseline renewable energy percentage is 2.27%.  Under Act 141, Wisconsin Electric could not decrease its renewable energy percentage for the years 2006-2009, and for the years 2010-2014, it must increase its renewable energy percentage at least two percentage points to a level of 4.27%.  Act 141 further requires that for the year 2015 and beyond, the renewable energy percentage must increase at least six percentage points above the baseline to a level of 8.27%.  Act 141 establishes a goal that 10% of all electricity consumed in Wisconsin be generated by renewable resources by December 31, 2015.  Act 
+141 also redirects the administration of energy efficiency, conservation and renewable programs from the DOA back to the PSCW and/or contracted third parties.  In addition, Act 141 requires that 1.2% of utilities' annual operating revenues be used to fund these programs.  In July 2008, the Governor of Wisconsin's Task Force on Global Warming, which was established in 2007, issued a final report that recommended that the energy efficiency goal be based on achieving efficiency resulting in a 2% reduction in electric load annually starting in 2015 rather than a goal based on a percent of revenue. 
+
+The Task Force's report also includes an increased renewable portfolio standard.  Under the Task Force's recommendations, the renewable portfolio standard would increase to 10% by 2013, 20% by 2020 and 25% by 2025.  
+
+In December 2009, legislation covering the Task Force recommendations was introduced in the Wisconsin legislature.  We are working within the context of the Task Force to provide comments where we believe the proposed legislation deviates from the Task Force recommendations.
+
+Public Act 295 enacted in Michigan calls for the implementation of a renewable portfolio standard by 2015 and energy optimization (efficiency) targets up to 1% annually by 2015.  Public Act 295 specifically calls for current recovery of costs incurred to meet the standards and provides for ongoing review and revision to assure the measures taken are cost-effective.
+
+For additional information on Act 141 and current renewable projects, see Factors Affecting Results, Liquidity and Capital Resources -- Utility Rates and Regulatory Matters - Renewables, Efficiency and Conservation and Utility Rates and Regulatory Matters - Renewable Energy Portfolio in Item 7.
+  23
+
+
+
+
+Non-Utility Energy Segment
+
+We Power was formed to design, construct, own and lease the new generating capacity in our PTF strategy.  We Power owns the interests in the companies constructing this new generating capacity (collectively, the We Power project companies).  When complete, these facilities will be leased on a long-term basis to Wisconsin Electric.  We Power has received determinations from FERC that upon the transfer of the facilities by lease to Wisconsin Electric, the We Power project companies will not be deemed public utilities under the Federal Power Act and thus will not be subject to FERC's jurisdiction.  
+
+The Energy Policy Act and corresponding rules developed by FERC required us to seek FERC authorization to allow Wisconsin Electric to lease OC 1, OC 2 and PWGS 2 from We Power.  We received this authorization from FERC in December 2006.  We were not required to request similar approval for the PWGS 1 lease between We Power and Wisconsin Electric as this unit was in service prior to the enactment of the Energy Policy Act.  
+
+In addition, for a short period prior to the transfer of each generation unit to Wisconsin Electric, We Power will be engaged in the sale of test power, a FERC jurisdictional transaction.  We Power received approval from FERC for the sale of test power to Wisconsin Electric from PWGS 1, PWGS 2 and OC 1 and for the transfer of any FERC jurisdictional facilities at Port Washington to Wisconsin Electric and/or ATC.  We Power submitted its application seeking approval from FERC to sell test power from OC 2 in January 2010.  Environmental permits necessary for operating the facilities are the responsibility of the operating entity, Wisconsin Electric.
+
+ 
+ENVIRONMENTAL COMPLIANCE
+
+Our operations are subject to extensive environmental regulations by state and federal environmental agencies governing air and water quality, hazardous and solid waste management, environmental remediation, and management of natural resources.   Costs associated with complying with these requirements are significant.  Additional future environmental statutes and regulations or revisions to existing laws, including for example, additional regulation of greenhouse gas emissions, coal ash, air emissions or wastewater discharges, could significantly increase these environmental compliance costs.  
+
+Expenditures for environmental compliance and remediation issues are included in anticipated capital expenditures described in Liquidity and Capital Resources in Item 7.  For discussion of additional environmental issues, see Environmental Matters in Item 3.  For further information concerning air and water quality standards and rulemaking initiated by the EPA, including estimated costs of compliance, see Factors Affecting Results, Liquidity and Capital Resources -- Environmental Matters in Item 7.  For a discussion of matters related to certain solid waste and coal-ash landfills, manufactured gas plant sites and air quality, see Note S -- Commitments and Contingencies in the Notes to Consolidated Financial Statements in Item 8.  
+
+Compliance with federal, state and local environmental protection requirements resulted in capital expenditures by Wisconsin Electric of approximately $188 million in 2009 compared with $135 million in 2008.  Expenditures incurred during 2008 and 2009 primarily included costs associated with the installation of pollution abatement facilities at Wisconsin Electric's power plants.  These expenditures are expected to approximate $300 million during 2010, reflecting NOx, SO2 and other pollution control equipment needed to comply with various rules promulgated by the EPA.  Operation, maintenance and depreciation expenses for fly ash removal equipment and other environmental protection systems were approximately $66.7 million and $67.2 million during 2009 and 2008, respectively.
+
+Coal-Ash Landfills
+
+We currently have a successful program of beneficial utilization for substantially all of our coal combustion products, including fly ash, bottom ash and synthetic gypsum, which avoids the need for disposal in specially-designed landfills.  Some early designed and constructed coal-ash landfills, which we used prior to developing this program, may allow the release of low levels of constituents resulting in the need for various levels of remediation.  Where we have become aware of these conditions, efforts have been made to define the nature and extent of any release, and work has been performed to address these conditions.  Sites currently undergoing remediation include the following:
+  24
+
+
+
+
+Oak Creek North Landfill:   Groundwater impairments at this landfill, located in the City of Oak Creek, Wisconsin, prompted Wisconsin Electric to investigate, during 1998, the condition of the existing cover and other conditions at the site.  Surface water drainage improvements were effectively implemented at this site during 1999 and 2000.  The approved remediation plan was coordinated with activities associated with the construction of the Oak Creek expansion.  Currently there is a temporary cap installed which is being used as laydown area and parking.  When construction activities are completed, a permanent cap will be installed.
+
+South Oak Creek Landfill:   Groundwater impairments at this landfill, located in the City of Oak Creek, Wisconsin, prompted Wisconsin Electric to begin investigation in 2009 for the source of impacts identified in monitoring wells on the site and the surrounding area.  Preliminary results indicate that the groundwater impacts may be naturally occurring, or are from another source.  Soils from construction of the Oak Creek expansion were added to the existing cover during 2005 and 2006 to increase the thickness of cover materials.  A landfill closure application will be completed when the construction documentation report for activities associated with the Oak Creek expansion is submitted to the WDNR.
+
+ 
+ 
+OTHER
+
+Research and Development:   We had immaterial research and development expenditures in the last three years, primarily for improvement of service and abatement of air and water pollution by our electric utility operations.  Research and development activities include work done by employees, consultants and contractors, plus sponsorship of research by industry associations.
+
+Employees:   As of December 31, 2009, we had the following number of employees:
+
+
+
+
+Total
+
+
+Represented
+
+
+
+Employees
+
+
+Employees 
+
+
+
+
+
+
+
+
+
+
+
+
+Utility Energy Segment
+
+
+
+
+
+   Wisconsin Electric
+
+4,123      
+
+
+2,720      
+
+
+   Wisconsin Gas
+
+476      
+
+
+347      
+
+
+   Edison Sault
+
+61      
+
+
+43      
+
+
+
+
+
+
+
+      Total
+
+4,660      
+
+
+3,110      
+
+
+Non-Utility Energy Segment
+
+27      
+
+
+-         
+
+
+Other
+
+5      
+
+
+-         
+
+
+
+
+
+
+
+      Total Employees
+
+4,692      
+
+
+3,110      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  25
+
+
+
+The employees represented under labor agreements were with the following bargaining units as of December 31, 2009:
+
+
+
+
+Number of Employees
+
+
+Expiration Date of Current Labor Agreement
+
+
+
+
+
+
+
+
+
+
+
+
+Wisconsin Electric
+
+
+
+
+
+  Local 2150 of International     Brotherhood of Electrical Workers
+
+
+1,925      
+
+
+
+August 15, 2010  
+
+
+  Local 317 of International Union of     Operating Engineers
+
+
+491      
+
+
+
+March 31, 2011  
+
+
+  Local 2006 Unit 5 of United Steel     Workers      
+
+
+168      
+
+
+
+November 1, 2011  
+
+
+  Local 510 of International Brotherhood     of Electrical Workers
+
+
+136      
+
+
+
+April 30, 2010  
+
+
+
+
+
+
+
+Total Wisconsin Electric
+
+2,720      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wisconsin Gas
+
+
+
+
+
+  Local 2150 of International     Brotherhood of Electrical Workers
+
+
+89      
+
+
+
+August 15, 2010  
+
+
+  Local 2006 Unit 1 of United Steel     Workers
+
+
+121      
+
+
+
+December 31, 2010  
+
+
+  Local 2006 Unit 2 of United Steel     Workers
+
+
+131      
+
+
+
+December 31, 2010  
+
+
+  Local 2006 Unit 3 of United Steel     Workers
+
+
+6      
+
+
+
+February 28, 2011  
+
+
+
+
+
+
+
+Total Wisconsin Gas
+
+347      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edison Sault
+
+
+
+
+
+  Local 13547 of United Steel Workers
+    of America
+
+
+43      
+
+
+
+October 22, 2010  
+
+
+
+
+
+
+
+Total Edison Sault
+
+43      
+
+
+
+
+
+
+
+
+
+Total Represented Employees
+
+3,110      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  26
+
+
+
+
+
+
+ITEM 1A.
+
+RISK FACTORS
+
+
+
+
+Our business is significantly impacted by governmental regulation.
+
+We are subject to significant state, local and federal governmental regulation.  We are subject to the regulation of the PSCW as to retail electric, gas and steam rates in the State of Wisconsin, standards of service, issuance of securities, short-term debt obligations, construction of certain new facilities, transactions with affiliates, billing practices and various other matters.  In addition, we are subject to the regulation of the MPSC as to the various matters associated with retail electric service in the state of Michigan, except as to the issuance of securities in the ordinary course of business, construction of certain new facilities, levels of short-term debt obligations and advance approval of transactions with affiliates in the ordinary course of business.  Further, Wisconsin Electric's hydroelectric facilities are regulated by FERC, and FERC also regulates our wholesale power service practices and electric reliability requirements.  Our significant level of regulation imposes restric
+tions on our operations and causes us to incur substantial compliance costs.
+
+We are obligated to comply in good faith with all applicable governmental rules and regulations.  If it is determined that we failed to comply with any applicable rules or regulations, whether through new interpretations or applications of the regulations or otherwise, we may be liable for customer refunds, penalties and other amounts, which could materially and adversely affect our results of operations and financial condition.
+
+We estimate that within our regulated energy segment, approximately 88% of our electric revenues are regulated by the PSCW, 7% are regulated by the MPSC and the balance of our electric revenues is regulated by FERC.  All of our natural gas and steam revenues are regulated by the PSCW.  Our ability to obtain rate adjustments in the future is dependent upon regulatory action, and there can be no assurance that we will be able to obtain rate adjustments in the future that will allow us to recover our costs and expenses and to maintain our current authorized rates of return. 
+
+We believe we have obtained the necessary permits, approvals and certificates for our existing operations and that our respective businesses are conducted in accordance with applicable laws; however, the impact of any future revision or changes in interpretations of existing regulations or the adoption of new laws and regulations applicable to us cannot be predicted.  Changes in regulation, interpretations of regulations or the imposition of additional regulations could influence our operating environment and may result in substantial compliance costs.
+
+Factors beyond our control could adversely affect project costs and completion of OC 2 and other construction projects.
+
+Under our PTF strategy, we expect to meet a significant portion of our future generation needs through the construction of two 545 MW natural gas-fired generating units at PWGS and two 615 MW coal-fired generating units (of which we own 515 MW each) located adjacent to our existing Oak Creek Power Plant.  PWGS 1 and PWGS 2, which have a dependable capability of 545 MW each, were placed in service in July 2005 and May 2008, respectively.  OC 1 was placed into service on February 2, 2010.  Bechtel is targeting the commercial operation of OC 2 by the end of August 2010.
+
+Large construction projects of this type, as well as the construction of renewable energy generation and environmental improvements, are subject to usual construction risks over which we will have limited or no control and which might adversely affect project costs and completion time.  These risks include, but are not limited to, shortages of, the ability to obtain or the cost of labor or materials; the ability of the general contractor or subcontractors to perform under their contracts; strikes; adverse weather conditions; the ability to obtain necessary operating permits in a timely manner; legal challenges; changes in applicable law or regulations; adverse interpretation or enforcement of permit conditions, laws and regulations by courts or the permitting agencies; other governmental actions; and events in the global economy.  
+
+Upon commencement of the commissioning of OC 2, we will be selling test power into the MISO Energy Markets.  The amount we receive for the sale of this power will be affected by the market price for energy at the time of sale. 
+
+If final costs of the Oak Creek expansion are within 5% of the costs initially approved by the PSCW, and the additional costs are deemed to be prudent by the PSCW, the final lease payments for the Oak Creek expansion to be recovered from Wisconsin Electric's ratepayers would be adjusted to reflect the actual construction costs.  Costs above the 5% cap would not be included in lease payments or recovered from customers absent a finding by the PSCW that such costs were prudently incurred and were the result of force majeure conditions, an excused event and/or an event of loss.
+  27
+
+
+
+
+In December 2008, Bechtel, the contractor of the Oak Creek expansion under a fixed price contract, submitted claims for schedule and cost relief related to the delay of the in-service dates for OC 1 and OC 2.  Through an amended claim filed on October 30, 2009, Bechtel was seeking cost relief of $517.5 million and seven months of relief from liquidated damages for OC 1 and four months of relief for OC 2.  These claims, as well as claims submitted by ERS, had been submitted to binding arbitration.  Effective December 16, 2009, ERS and Bechtel entered into the Settlement Agreement to resolve these claims, under which, among other things, ERS will pay to Bechtel $72 million.  If the PSCW does not allow Wisconsin Electric to collect our share of this settlement in rates, as well as other additional amounts incurred above the costs initially approved by the PSCW, our results of operations could be adversely affected.
+
+We face significant costs of compliance with existing and future environmental regulations. 
+
+Our operations are subject to extensive environmental regulations by state and federal environmental agencies governing, among other things, air emissions such as CO2, SO2, NOx, fine particulates and mercury; water discharges and management of hazardous, toxic and solid wastes and substances.  We incur significant expenditures in complying with these environmental requirements, including expenditures for the installation of pollution control equipment, environmental monitoring, emissions fees and permits at all of our facilities.
+
+Existing environmental regulations may be revised or new laws or regulations may be adopted which could result in significant additional expenditures, operating restrictions on our facilities and increased compliance costs.  In addition, the operation of emission control equipment and further regulations on our intake and discharge of water could increase our operating costs and could reduce the generating capacity of our power plants.  In the event we are not able to recover all of our environmental expenditures from our customers in the future, our results of operations could be adversely affected.
+
+Our electric and gas utility businesses are also subject to significant liabilities related to the investigation and remediation of environmental contamination at certain of our current and former facilities, and at third-party owned sites.  Due to the potential for imposition of stricter standards and greater regulation in the future and the possibility that other potentially responsible parties may not be financially able to contribute to cleanup costs, conditions may change or additional contamination may be discovered, our remediation costs could increase, and the timing of our capital and/or operating expenditures in the future may accelerate.
+
+In addition, we may also be subject to potential liability in connection with the environmental condition of the facilities that we have previously owned and operated, regardless of whether the liabilities arose before, during or after the time we owned or operated the facilities.  If we fail (or failed) to comply with environmental laws and regulations or cause (or caused) harm to the environment or persons, even if caused by factors beyond our control, that failure or harm may result in the assessment of civil or criminal penalties and damages against us.  The incurrence of a material environmental liability or a material judgment in any action for personal injury or property damage related to environmental matters could have a significant adverse effect on our results of operations and financial condition.
+
+We could face significant costs if coal ash is regulated as a hazardous waste.
+
+We currently have a successful program of beneficial utilization for substantially all of our coal combustion products, including fly ash, bottom ash and synthetic gypsum, which avoids the need for disposal in specially-designed landfills.  Both Wisconsin and Michigan have regulations governing the use and disposal of these materials.  Recently, however, the EPA stated it is considering classifying coal ash as hazardous waste.  If coal ash is classified as hazardous waste, it could have a material adverse effect on our ability to continue our current program.  Curtailing our program could result in the loss of a revenue stream that helps to offset the cost of pollution control equipment and the activities necessary to collect the coal ash.
+
+In addition, if coal ash is classified as hazardous waste and we terminate our coal ash utilization program, we could be required to dispose of the coal ash at a significant cost to the Company.
+
+We may face significant costs to comply with the regulation of greenhouse gas emissions.
+
+Federal and state legislative and regulatory proposals have been introduced to regulate the emission of greenhouse gases, particularly CO2, and the President and his administration have made it clear that they are focused on reducing such emissions through legislation and/or regulation.  In addition, there have been international efforts 
+  28
+
+
+
+seeking legally binding reductions in emissions of greenhouse gases.
+
+We believe that future governmental legislation and/or regulation will require us either to limit greenhouse gas emissions from our operations or to purchase allowances for such emissions.  However, we cannot currently predict with any certainty what form these future regulations will take, the stringency of the regulations or when they will become effective.  Legislation continues to be considered in the United States Congress that would compel greenhouse gas emission reductions.  The American Clean Energy and Security Act of 2009 passed the U.S. House of Representatives in June 2009.  The bill, among other things, (i) establishes a federal renewable energy standard; (ii) permits energy efficiency measures to satisfy part of the renewable energy standard; and (iii) establishes a cap-and-trade program to reduce greenhouse gas emissions from various sectors of the economy, including electric and natural gas utilities.  Similar legislation is currently being considered in the U.S. Senate, and could result in t
+he passage of enforceable federal standards, such as a cap-and-trade program, governing greenhouse gas emissions.
+
+Legislation to regulate greenhouse gases and establish renewable and efficiency standards is also being considered on the state level.  The state of Michigan has enacted legislation that calls for the implementation of a renewable portfolio standard by 2015 and energy optimization (efficiency) targets up to 1% annually by 2015.  The state of Wisconsin is currently considering similar legislation addressing renewable energy and efficiency standards.  In addition, the Governors of both Michigan and Wisconsin have signed on to the "Midwestern Greenhouse Gas Reduction Accord" and the associated "platform" document developed through the Midwestern Governors Association.  These state and regional initiatives could lead to legislation and regulation of greenhouse gas emissions that could be implemented sooner and/or independent of federal regulation, and could be more stringent than any federal legislation that is adopted.  
+
+In addition to these federal and state legislative efforts, the EPA is pursuing regulation of greenhouse gases using its existing authority under the CAA.  On December 7, 2009, the EPA issued its long-expected endangerment finding.  This determination provides that the atmospheric mix of six greenhouse gases endanger public health and welfare.  The determination specifically addresses only the contribution to air pollution of greenhouse gas emissions from motor vehicles and itself has no immediate regulatory effect.  However, in combination with a separate EPA rulemaking that will establish limits on greenhouse gas emissions from new motor vehicles, the endangerment finding sets in motion a regulatory process that would likely lead to widespread regulation of greenhouse gas emissions from stationary sources, including electric generating units, absent legislative or other intervention by the Administration.  Regulation of greenhouse gas emissions from power plants will impact our ability to do maintenance or
+ modify our existing facilities, and permit new facilities.
+
+In September 2009, the EPA issued two proposals intended to provide guidance on, and effectively change, how the CAA's existing permitting requirements could be applied to sources of greenhouse gas emissions in all sectors of the economy, including major stationary sources of air pollutants like electric generating plants.  The endangerment finding, the regulation of greenhouse gas emissions from motor vehicles and these two additional proposals would provide a framework for the EPA to regulate greenhouse gas emissions from major sources under the CAA.
+
+Some states and environmental groups are also bringing lawsuits against electric utilities and others to force reductions in greenhouse gas emissions.  A decision in the U.S. Court of Appeals for the Second Circuit has made it easier for lawsuits to move forward based upon the alleged public nuisance of climate change.  The Second Circuit  ruled that the plaintiffs in that case have standing to file suit against six electric power corporations for their contribution to the alleged public nuisance of climate change, and that the court's jurisdiction over such lawsuit is not barred by the political question doctrine.  The U.S. Court of Appeals for the Fifth Circuit reached a similar conclusion in another nuisance lawsuit involving climate change.  Based on these recent decisions, this type of litigation may increase in frequency.
+
+There is no guarantee that we will be allowed to fully recover costs incurred to comply with any future legislation, regulation or order that requires a reduction in greenhouse gas emissions or that cost recovery will not be delayed or otherwise conditioned.  Any cap-and-trade program that may be adopted, either at the federal, state or regional level, or other legislation, regulation or order designed to reduce greenhouse gas emissions could make some of our electric generating units uneconomic to maintain and could have a material adverse impact on our electric generation and natural gas distribution operations, cash flows and financial condition if such costs are not recovered through regulated rates.  
+We continue to monitor the legislative, regulatory and legal developments in this area.  Although we expect the regulation of greenhouse gas emissions to have a material impact on our operations and rates, we believe it is 
+  29
+
+
+
+
+premature to attempt to quantify the possible costs of the impacts.
+
+Our business is dependent on our ability to successfully access capital markets.
+
+We rely on access to short-term and long-term capital markets to support our capital expenditures and other capital requirements, including expenditures for our utility infrastructure and to comply with future regulatory requirements.  We have historically secured funds from a variety of sources, including the issuance of short-term and long-term debt securities, preferred stock and common stock.  Successful implementation of our long-term business strategies is dependent upon our ability to access the capital markets, including the banking and commercial paper markets, under competitive terms and rates.  If our access to any of these markets were limited, or our cost of capital significantly increased due to a rating downgrade, prevailing market conditions, failures of financial institutions or other factors, our results of operations and financial condition could be materially and adversely affected.
+
+Acts of terrorism could materially and adversely affect our financial condition and results of operations.
+
+Our electric generation and gas transportation facilities, including the facilities of third parties on which we rely, could be targets of terrorist activities, including cyber terrorism.  A terrorist attack on our facilities (or those of third parties) could result in a full or partial disruption of our ability to generate, transmit, transport, purchase or distribute electricity or natural gas or cause environmental repercussions.  Any operational disruption or environmental repercussions could result in a significant decrease in our revenues or significant reconstruction or remediation costs, which could materially and adversely affect our results of operations and financial condition.
+
+Energy sales are impacted by seasonal factors and varying weather conditions from year-to-year.
+
+Our electric and gas utility businesses are generally seasonal businesses.  Demand for electricity is greater in the summer and winter months associated with cooling and heating.  In addition, demand for natural gas peaks in the winter heating season.  As a result, our overall results in the future may fluctuate substantially on a seasonal basis.  In addition, we have historically had lower revenues and net income when weather conditions are milder.  Our rates in Wisconsin are set by the PSCW based on estimated temperatures which approximate 20-year averages.  Mild temperatures during the summer cooling season and during the winter heating season will negatively impact the results of operations and cash flows of our electric utility business.  In addition, mild temperatures during the winter heating season negatively impact the results of operations and cash flows of our gas utility business.
+
+An increase in natural gas costs could negatively impact our electric and gas utility operations.
+
+Wisconsin Electric burns natural gas in several of its peaking power plants and in PWGS 1 and PWGS 2, and as a supplemental fuel at several coal-fired plants.  In many instances the cost of purchased power is tied to the cost of natural gas.  In addition, higher natural gas costs also can have the effect of increasing demand for other sources of fuel thereby increasing the costs of those fuels as well.  For Wisconsin customers, Wisconsin Electric bears the regulatory risk for the recovery of fuel and purchased power costs when those costs are higher than the forecast of fuel and purchased power costs used to determine the base rate established in its rate structure.  Our gas distribution business receives dollar for dollar recovery of the cost of natural gas, subject to tolerance bands and prudency review.  However, increased natural gas costs increase the risk that customers will switch to alternative sources of fuel or reduce their usage, which could reduce future gas margins.  In addition, an i
+ncrease in natural gas costs combined with slower economic conditions could also expose us to greater risks of accounts receivable write-offs as more customers are unable to pay their bills.  Additionally, high natural gas costs increase our working capital requirements.
+
+We may not be able to obtain an adequate supply of coal, which could limit our ability to operate our coal-fired facilities.
+
+We are dependent on coal for much of our electric generating capacity.  Although we currently have an adequate supply of coal at our coal-fired facilities, there can be no assurance that we will continue to have an adequate supply of coal in the future.  While we have coal supply and transportation contracts in place, there can be no assurance that the counterparties to these agreements will be able to fulfill their obligations to supply coal to us.  The suppliers under these agreements may experience financial or operational problems that inhibit their ability to fulfill their obligations to us.  In addition, suppliers under these agreements may not be required to supply coal to us under certain circumstances, such as in the event of a natural disaster.  If we significantly reduce our inventory of coal and 
+  30
+
+
+
+
+are unable to obtain our coal requirements under our coal supply and transportation contracts, we may be required to purchase coal at higher prices, or we may be forced to reduce generation at our coal units and replace this lost generation from higher cost generating resources or through additional power purchases in the MISO Energy Markets.  
+
+Our financial performance may be adversely affected if we are unable to successfully operate our facilities.
+
+Our financial performance depends on the successful operation of our electric generating and gas distribution facilities.  Operation of these facilities involves many risks, including: operator error and breakdown or failure of equipment processes; fuel supply interruptions; labor disputes; operating limitations that may be imposed by environmental or other regulatory requirements; or catastrophic events such as fires, earthquakes, explosions, floods or other similar occurrences.  Unplanned outages can result in additional maintenance expenses as well as incremental replacement power costs.  
+
+Poor investment performance of pension plan holdings and other factors impacting pension plan costs could unfavorably impact our liquidity and results of operations.
+
+Our cost of providing defined benefit pension plans is dependent upon a number of factors including actual plan experience and assumptions concerning the future, such as earnings on plan assets, discount rates, the level of interest rates used to measure the required minimum funding levels of the plans, future government regulation and our required or voluntary contributions to be made to the plans.  Changes made to the plans may also impact current and future pension costs.  Depending upon the growth rate of the pension investments over time and other factors impacting our costs as listed above, we may be required to contribute significant additional amounts in the future to fund our plans.  These additional funding obligations could have a material adverse impact on our cash flows, financial condition or results of operations.
+
+We are exposed to risks related to general economic conditions in our service territories.
+
+Our electric and gas utility businesses are impacted by the economic cycles of the customers we serve.  As a result of the significant downturn in the economy during 2008 and 2009, we saw a deterioration in regional economic conditions.  As the demand for products produced in our service area declines, we ordinarily experience reduced demand for electricity and/or natural gas.  If the economic conditions in our service territories and/or demand for products produced in our service area does not continue to improve or declines again, we could experience a further reduction in demand for electricity and/or natural gas that could result in decreased earnings and cash flow.   We would also expect our collections of accounts receivable to be adversely impacted.  
+
+Customer growth in our service areas affects our results of operations.
+
+Our results of operations are affected by customer growth in our service areas.  Customer growth can be affected by population growth as well as economic factors in Wisconsin and the Upper Peninsula of Michigan, including job and income growth.  Customer growth directly influences the demand for electricity and gas, and the need for additional power generation and generating facilities.  Population declines and/or business closings in our service territories or slower than anticipated customer growth as a result of the significant downturn in the economy during 2008 and 2009 or otherwise has, to a limited extent, and could continue to have, a material adverse impact on our cash flow, financial condition or results of operations.
+
+We are a holding company and are subject to restrictions on our ability to pay dividends.
+
+Wisconsin Energy is a holding company and has no significant operations of its own.  Accordingly, our ability to meet our financial obligations and pay dividends on our common stock is dependent upon the ability of our subsidiaries to pay amounts to us, whether through dividends or other payments.  The ability of our subsidiaries to pay amounts to us will depend on the earnings, cash flows, capital requirements and general financial condition of our subsidiaries and on regulatory limitations.  Prior to distributing cash to Wisconsin Energy, our subsidiaries have financial obligations that must be satisfied, including among others, debt service and preferred stock dividends.  Our subsidiaries also have dividend payment restrictions based on the terms of their outstanding preferred stock and regulatory limitations applicable to them.  In addition, each of the bank back-up credit facilities for Wisconsin Energy, Wisconsin Electric and Wisconsin Gas have specified total funded debt to capitalization ratio
+s that must be maintained.
+  31
+
+
+
+
+Provisions of the Wisconsin Utility Holding Company Act limit our ability to invest in non-utility businesses and could deter takeover attempts by a potential purchaser of our common stock that would be willing to pay a premium for our common stock.
+
+Under the Wisconsin Utility Holding Company Act, we remain subject to certain restrictions that have the potential of limiting our diversification into non-utility businesses.  Under the Act, the sum of certain assets of all non-utility affiliates in a holding company system may not exceed 25% of the assets of all public utility affiliates in the system.  
+
+In addition, the Act precludes the acquisition of 10% or more of the voting shares of a holding company of a Wisconsin public utility unless the PSCW has first determined that the acquisition is in the best interests of utility customers, investors and the public.  This provision and other requirements of the Act may delay or reduce the likelihood of a sale or change of control of Wisconsin Energy.  As a result, shareholders may be deprived of opportunities to sell some or all of their shares of our common stock at prices that represent a premium over market prices.
+
+Governmental agencies could modify our permits, authorizations or licenses.
+
+Wisconsin Electric, Wisconsin Gas and Edison Sault are required to comply with the terms of various permits, authorizations and licenses.  These permits, authorizations and licenses may be revoked or modified by the agencies that granted them if facts develop that differ significantly from the facts assumed when they were issued.  In addition, discharge permits and other approvals and licenses are often granted for a term that is less than the expected life of the associated facility.  Licenses and permits may require periodic renewal, which may result in additional requirements being imposed by the granting agency.
+
+Also, if we are unable to obtain, renew or comply with these governmental permits, authorizations or licenses, or if we are unable to recover any increased costs of complying with additional license requirements or any other associated costs in our rates in a timely manner, our results of operations and financial condition could be materially and adversely affected.
+
+Restructuring in the regulated energy industry could have a negative impact on our business.
+
+The regulated energy industry continues to experience significant structural changes.  Increased competition in the retail and wholesale markets, which may result from restructuring efforts, could have a significant adverse financial impact on us.  It is uncertain when retail access might be implemented in Wisconsin; however, Michigan has adopted retail choice which potentially affects our Michigan operations.  Under retail access legislation, customers are permitted to choose their own electric generation supplier.  All Michigan electric customers were able to choose their electric generation supplier beginning in January 2002.  Although competition and customer switching to alternative suppliers in our service territories in Michigan has been limited, the additional competitive pressures resulting from retail access could lead to a loss of customers and our incurring stranded costs.
+
+FERC continues to support the existing RTOs that affect the structure of the wholesale market within those RTOs.  In connection with its status as a FERC approved RTO, MISO implemented the bid-based energy markets that are part of the MISO Energy Markets on April 1, 2005.  The MISO Energy Markets rules require that all market participants submit day-ahead and/or real-time bids and offers for energy at locations across the MISO region.  MISO then calculates the most efficient solution for all of the bids and offers made into the market that day and establishes a LMP that reflects the market price for energy.  As a participant in the MISO Energy Markets, we are required to follow MISO's instructions when dispatching generating units to support MISO's responsibility for maintaining stability of the transmission system.  In addition, in January 2009, MISO implemented an Ancillary Services Market for operating reserves that was sim
+ultaneously co-optimized with MISO's existing energy markets.  
+
+The new market designs have the potential to increase the costs of transmission, the costs associated with inefficient generation dispatching, the costs of participation in the market and the costs associated with estimated payment settlements. 
+  32
+
+
+
+
+
+
+ITEM 1B

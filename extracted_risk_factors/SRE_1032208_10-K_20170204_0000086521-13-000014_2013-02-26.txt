@@ -1,0 +1,3351 @@
+Item 1A. Risk Factors” herein, our influence may be limited over businesses in which we do not have a controlling interest, including SONGS. We provide additional information concerning the SONGS units and nuclear decommissioning below in “Environmental Matters” and in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Notes 6, 14 and 15 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+Nuclear Fuel Supply
+
+ 
+
+The nuclear fuel supply cycle includes materials and services performed by others under various contracts that extend through 2020. Fuel supply contracts are index-priced and provide nuclear fuel through 2022, the expiration of SONGS’ NRC license.
+
+ 
+
+Spent fuel from SONGS is being stored on site in both the ISFSI and spent fuel pools. With the completion of the current phase of decommissioning, the site has adequate space to build ISFSI storage capacity through 2022. Pursuant to the Nuclear Waste Policy Act of 1982, SDG&E entered into a contract with the U.S. Department of Energy (DOE) for spent-fuel disposal. Under the agreement, the DOE is responsible for the ultimate disposal of spent fuel from SONGS. SDG&E pays the DOE a disposal fee of $1.00 per megawatt-hour of net nuclear generation, or approximately $3 million per year when SONGS is operating at normal capacity. It is uncertain when the DOE will begin accepting spent fuel from any nuclear generation facility.
+
+ 
+
+We provide additional information concerning nuclear fuel costs and the storage and movement of spent fuel in Notes 6 and 15, respectively, of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+Power Pool
+
+ 
+
+SDG&E is a participant in the Western Systems Power Pool, which includes an electric-power and transmission-rate agreement with utilities and power agencies located throughout the United States and Canada. More than 300 investor-owned and municipal utilities, state and federal power agencies, energy brokers and power marketers share power and information in order to increase efficiency and competition in the bulk power market. Participants are able to make power transactions on standardized terms, including market-based rates, preapproved by the FERC.
+
+ 
+
+ 
+
+Transmission Arrangements
+
+ 
+
+SDG&E’s 500-kilovolt (kV) Southwest Powerlink transmission line, which is shared with Arizona Public Service Company and Imperial Irrigation District, extends from Palo Verde, Arizona to San Diego, California. SDG&E’s share of the line is 1,162 MW, although it can be less under certain system conditions.
+
+ 
+
+SDG&E’s Sunrise Powerlink is a 500-kV transmission line project built by SDG&E and designed to deliver more than 1,000 MW of power from the Imperial Valley to the San Diego region. The line was placed in service in June 2012. We provide further discussion of Sunrise Powerlink in Note 15 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+Mexico’s Baja California system is connected to SDG&E’s system via two 230-kV interconnections with combined capacity up to 408 MW in the north to south direction and 800 MW in the south to north direction, although it can be less under certain system conditions.
+
+ 
+
+Edison’s transmission is connected to SDG&E’s system at SONGS via five 230-kV transmission lines with a total firm capacity up to 2,500 MW into SDG&E’s system, although it can be less under certain system conditions.
+
+ 
+
+ 
+
+Transmission Access
+
+ 
+
+The National Energy Policy Act governs procedures for requests for transmission service. The FERC approved the California IOUs’ transfer of operation and control of their transmission facilities to the Independent System Operator in 1998. We provide additional information regarding transmission issues in Note 14 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+Chilquinta Energía
+
+ 
+
+ 
+
+Customers
+
+ 
+
+Chilquinta Energía is an electric distribution utility serving approximately 620,000 customers in the cities of Valparaiso and Viña del Mar in central Chile, with a main service area covering 4,400 square miles. At December 31, 2012, its customers consisted of approximately:
+
+ 
+
+
+
+
+
+§  
+
+
+576,000 residential
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+36,000 commercial
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+1,000 industrial
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+5,000 street and highway lighting
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+5,000 agricultural
+
+
+
+
+ 
+
+In Chile, customers are also classified as regulated and non-regulated customers based on installed capacity. Regulated customers are those whose installed capacity is less than 500 kilowatts (kW). Non-regulated customers are those whose installed capacity is greater than 2,000 kW. Customers with installed capacity between 500 kW and 2,000 kW may choose to be classified as regulated or non-regulated. Non-regulated customers can buy power from other sources, such as directly from the generator.
+
+ 
+
+In 2012, Chilquinta Energía added approximately 14,000 new customers at a growth rate of 2.3 percent. Chilquinta Energía expects that its customer growth rate in 2013 will be comparable to that in 2012.
+
+ 
+
+Chilquinta Energía’s electric energy sales increased by approximately 178,000 megawatt hours (MWh) and 171,000 MWh in 2012 and 2011, respectively, representing an annual growth rate of 7 percent in both years. Based on expected customer and overall economic growth in Chile, Chilquinta Energía expects its annual electric sales to increase in 2013 by approximately 210,000 MWh, representing a growth rate of 8 percent.
+
+ 
+
+
+
+
+ 
+
+Electric Resources
+
+ 
+
+The supply of electric power available to Chilquinta Energía comes from power purchase contracts currently in place with its various suppliers and its generating facilities. This supply as of December 31, 2012 is as follows:
+
+ 
+
+
+
+
+
+
+
+
+CHILQUINTA ENERGÍA ELECTRIC RESOURCES
+
+
+
+Supplier
+
+
+ 
+
+
+Source(2)
+
+
+Expiration date
+
+
+Megawatts (MW)
+
+
+
+PURCHASED-POWER CONTRACTS(1):
+
+
+ 
+
+
+ 
+
+
+ 
+
+  
+
+
+ 
+
+
+Endesa
+
+
+ 
+
+
+Thermal
+
+
+ 
+
+
+2020 to 2024
+
+
+ 
+
+
+47 
+
+
+  
+
+Gener
+
+  
+
+Thermal
+
+  
+
+2023 to 2024
+
+  
+
+125 
+
+
+
+ 
+
+
+Tecnored
+
+
+ 
+
+
+Thermal
+
+
+ 
+
+
+2013 
+
+
+ 
+
+
+4 
+
+
+
+ 
+
+
+    Total
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+176 
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+Endesa
+
+  
+
+Hydro
+
+  
+
+2020 to 2024
+
+  
+
+161 
+
+
+  
+
+Gener
+
+  
+
+Hydro
+
+  
+
+2023 to 2024
+
+  
+
+61 
+
+
+  
+
+    Total
+
+  
+  
+  
+  
+  
+
+222 
+
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+Endesa
+
+  
+
+Wind
+
+  
+
+2020 to 2024
+
+  
+
+3 
+
+
+
+Total contracted
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+401 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+GENERATION:
+
+
+ 
+
+  
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+  
+
+Small generation plants(3)
+
+
+ 
+
+
+Thermal
+
+  
+  
+  
+
+8 
+
+
+
+TOTAL CONTRACTED AND GENERATION
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+409 
+
+
+
+(1)
+
+
+Contracts covering 2013 - 2024.
+
+
+
+(2)
+
+
+Contracts with fuel sources that include natural gas, coal or diesel are collectively referred to as thermal.
+
+
+
+(3)
+
+
+Compañía de Petróleos de Chile Copec S.A. supplies diesel fuel to six small generation plants using trucks from different stations throughout the region.
+
+
+
+
+ 
+
+ 
+
+Power Generation System
+
+ 
+
+The Centers for Economic Load Dispatch (Centros de Despacho Económico de Carga, or CDEC) are private organizations in charge of coordinating the operation of the electricity system.  Each interconnected system is subject to its own CDEC; there is a CDEC-SIC (Sistema Interconectado Central, Central Interconnected System) and CDEC-SING (Sistema Interconectado del Norte Grande, Northern Interconnected System) for the central and the northern interconnected system, respectively.  Chilquinta Energía operates within CDEC-SIC.
+
+ 
+
+ 
+
+Transmission System and Access
+
+ 
+
+Chile’s transmission system is divided into two parts, main transmission (sistema de transmisión troncal) and the sub-transmission (sistema de subtransmisión). In Chile, main transmission lines must be greater than or equal to 220 kV. Chilquinta Energía uses Transelec, a third party, for all of its main transmission. In general, sub-transmission systems operate at voltage levels greater than 23 kV and lower than or equal to 110 kV. Sub-transmission systems, including those owned by Chilquinta Energía, are comprised of infrastructure that is interconnected to the electricity system to supply non-regulated or regulated end-users located in the distribution service area.
+
+ 
+
+ 
+
+Luz del Sur
+
+ 
+
+Customers
+
+ 
+
+Luz del Sur is an electric distribution utility serving approximately 950,000 customers in the southern zone of metropolitan Lima, Peru, with a main service area covering 1,160 square miles. At December 31, 2012, its customers consisted of approximately:
+
+ 
+
+
+
+
+
+§  
+
+
+893,000 residential
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+56,000 commercial
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+4,000 industrial
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+5,000 street and highway lighting
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+1,000 agricultural
+
+
+
+
+ 
+
+In Peru, customers are also classified as regulated and non-regulated customers based on capacity demand. Regulated customers are those whose capacity demand is less than 200 kW and their energy supply is considered public service. Customers with capacity demand between 200 kW and 2,500 kW may choose to be classified as regulated or non-regulated.
+
+ 
+
+In 2012, Luz del Sur added approximately 33,000 new customers at a growth rate of 3.6 percent. Luz del Sur expects that its customer growth rate in 2013 will be comparable to that in 2012.
+
+ 
+
+Luz del Sur’s electric energy sales increased by approximately 359,000 MWh and 351,000 MWh in 2012 and 2011, respectively, representing an annual growth rate of 6 percent in both years. Based on expected customer and overall economic growth in Peru, Luz del Sur expects its annual electric energy sales to increase in 2013 by approximately 467,000 MWh, representing a growth rate of 7 percent.
+
+ 
+
+ 
+
+Electric Resources
+
+ 
+
+The supply of electric power available to Luz del Sur comes from power purchase contracts currently in place with various suppliers, as well as purchases made on a spot basis. This supply as of December 31, 2012 is as follows:
+
+ 
+
+
+
+
+
+
+
+
+LUZ DEL SUR ELECTRIC RESOURCES
+
+
+
+Supplier
+
+
+ 
+
+
+Source(2)
+
+
+ 
+
+
+Expiration date
+
+
+Megawatts (MW)
+
+
+
+PURCHASED-POWER CONTRACTS(1):
+
+
+ 
+
+
+ 
+
+
+ 
+
+  
+
+
+Bilateral contracts:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+  
+
+Celepsa
+
+  
+
+Hydro
+
+  
+
+2014 
+
+  
+
+65 
+
+
+  
+
+Eepsa S.A.
+
+  
+
+Thermal
+
+  
+
+2013 
+
+  
+
+25 
+
+
+  
+
+Edegel S.A.A.
+
+  
+
+Hydro/Thermal
+
+  
+
+2013 
+
+  
+
+50 
+
+
+  
+
+Chinango S.A.C.
+
+  
+
+Hydro
+
+  
+
+2013 
+
+  
+
+23 
+
+
+  
+
+Kallpa Generación S.A.
+
+  
+
+Thermal
+
+  
+
+2013 
+
+  
+
+300 
+
+
+  
+
+EnerSur S.A.
+
+  
+
+Hydro/Thermal
+
+  
+
+2013 
+
+  
+
+159 
+
+
+
+ 
+
+
+    Total
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+622 
+
+
+
+Auction contracts:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+  
+
+
+ 
+
+
+Edegel S.A.A.
+
+
+ 
+
+
+Hydro/Thermal
+
+
+ 
+
+
+2013 
+
+
+ 
+
+
+123 
+
+
+
+ 
+
+
+EnerSur S.A.
+
+
+ 
+
+
+Hydro/Thermal
+
+
+ 
+
+
+2013 
+
+
+ 
+
+
+227 
+
+
+
+ 
+
+
+Kallpa Generación S.A.
+
+  
+
+Thermal
+
+  
+
+2013 
+
+  
+
+106 
+
+
+
+ 
+
+
+Chinango S.A.C.
+
+  
+
+Hydro
+
+  
+
+2013 
+
+  
+
+18 
+
+
+
+ 
+
+
+Termoselva S.R.L.
+
+  
+
+Thermal
+
+  
+
+2013 
+
+  
+
+64 
+
+
+
+ 
+
+
+DE-Egenor S. en C. por A.
+
+  
+
+Hydro/Thermal
+
+  
+
+2013 
+
+  
+
+61 
+
+
+
+ 
+
+
+Eepsa S.A.
+
+  
+
+Thermal
+
+  
+
+2013 
+
+  
+
+80 
+
+
+  
+
+H. Huanchor S.A.C.
+
+  
+
+Hydro
+
+  
+
+2013 
+
+  
+
+5 
+
+
+
+ 
+
+
+    Total
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+684 
+
+
+
+TOTAL CONTRACTED
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 1,306 
+
+
+
+(1)
+
+
+Contracts covering 2013 - 2014.
+
+
+
+(2)
+
+
+Contracts with fuel sources that include natural gas, coal or diesel are collectively referred to as thermal.
+
+
+
+
+ 
+
+ 
+
+Power Generation System
+
+ 
+
+The Sistema Eléctrico Interconectado Nacional (SEIN) is the Peruvian national interconnected system.  Peru also has several isolated regional and smaller systems that provide electricity to specific areas. The OSINERGMIN is an autonomous public regulatory entity that controls and enforces compliance with legal and technical regulations related to electric activities, sets tariffs and supervises the bidding processes required by distribution companies to purchase energy from generators.  
+
+
+
+
+The Committee of Economic Operation of the System (Comité de Operación Económica del Sistema Interconectado Nacional, or COES) coordinates the operation and dispatch of electricity of the SEIN, and manages the short-term market. The COES oversees generation, transmission and distribution companies, as well unregulated customers with a demand higher than 200 kW.
+
+ 
+
+Transmission System and Access
+
+ 
+
+Transmission lines in Peru are divided into principal and secondary systems. The principal system lines are accessible by all generators and allow the flow of energy through the national grid. The secondary system lines connect principal transmission with the network of distribution companies or connect directly to certain final customers. The transmission company receives tariff revenues and collects tolls based on a charge per unit of electricity.
+
+ 
+
+ 
+
+RATES AND REGULATION – UTILITIES
+
+ 
+
+We provide information concerning rates and regulation applicable to our utilities in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Notes 1 and 14 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+SEMPRA INTERNATIONAL AND SEMPRA U.S. GAS & POWER
+
+ 
+
+Sempra International and Sempra U.S. Gas & Power contain most of our subsidiaries that are not subject to California utility regulation. In addition to the discussion of our South American utilities above, we provide descriptions of these operating units’ segments and information concerning their operations in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Notes 1, 3, 4, 15 and 16 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+Competition
+
+ 
+
+Sempra Energy’s non-utility businesses are among many others in the energy industry providing similar products and services. They are engaged in highly competitive activities that require significant capital investments and highly skilled and experienced personnel. Among these competitors there may be significant variation in financial, personnel and other resources compared to Sempra International and Sempra U.S. Gas & Power.
+
+ 
+
+Generation – Renewables
+
+ 
+
+Sempra Renewables primarily competes for wholesale contracts for the generation and sale of electricity through its development of and investments in wind and solar generation facilities. For sales of non-contracted renewable energy, Sempra Renewables competes with other non-utility generators, regulated utilities, unregulated subsidiaries of regulated utilities, and other energy service companies. The number and type of competitors may vary based on location, generation type and project size. Also, recently enacted regulatory initiatives designed to enhance energy consumption from renewable resources for regulated utility companies may increase competition from these types of institutions. These utilities may have a lower cost of capital than most independent renewable power producers and often are able to recover fixed costs through rate base mechanisms. This recovery allows them to build, buy and upgrade renewable generation projects without relying exclusively on market clearing prices to recover their investments.  Additionally, generation from Sempra Renewables’ renewable energy assets is exposed to fluctuations in naturally occurring conditions such as wind, inclement weather and hours of sunlight.
+
+ 
+
+Our renewable energy competitors include, among others:
+
+ 
+
+
+
+
+
+§ BP
+
+ 
+
+§ Exelon Energy
+
+ 
+
+§ Iberdrola Renewables
+
+ 
+
+
+§ MidAmerican Energy
+
+ 
+
+§ NextEra Energy Resources
+
+ 
+
+§ NRG Energy
+
+ 
+
+
+
+
+ 
+
+Generation – Natural Gas
+
+ 
+
+For sales of non-contracted power, Sempra Natural Gas is subject to competition from energy marketers, utilities, industrial companies and other independent power producers. For a number of years, natural gas has been the fuel of choice for new power generation facilities for economic, operational and environmental reasons. While natural gas-fired facilities will continue to be an important part of the nation’s generation portfolio, some regulated utilities are now constructing units powered by renewable resources, often with subsidies or under legislative mandate. These utilities may have a lower cost of capital than most independent power producers and often are able to recover fixed costs through rate base mechanisms. This recovery may allow them to build, buy and upgrade generation without relying exclusively on market clearing prices to recover their investments.
+
+ 
+
+When Sempra Natural Gas sells power not subject to long-term contract commitments, it is exposed to market fluctuations in prices based on a number of factors, including the amount of capacity available to meet demand, the price and availability of fuel, and the presence of transmission constraints. Some of our competitors, such as electric utilities and generation companies, have their own generation capacity, including natural gas, coal and nuclear generation.  These companies, generally larger than our segments engaged in the natural gas business, may have a lower cost of capital and may have competitive advantages as a result of their scale and the location of their generation facilities.
+
+ 
+
+Our natural gas generation competitors include, among others:
+
+ 
+
+
+
+
+
+§ Calpine
+
+ 
+
+
+§ NextEra Energy Resources
+
+ 
+
+
+
+§ Dynegy
+
+ 
+
+
+§ NRG Energy
+
+ 
+
+
+
+
+ 
+
+Because Sempra Mexico sells the power that it generates at its Termoeléctrica de Mexicali plant into California, it is also impacted by these competitive factors.
+
+ 
+
+
+
+
+Natural Gas Pipelines and Storage Facilities
+
+ 
+
+Within its market area, Sempra Natural Gas’ and Sempra Mexico’s pipelines businesses and Sempra Natural Gas’ storage facilities businesses compete with other regulated and unregulated storage facilities and pipelines. They compete primarily on the basis of price (in terms of storage and transportation fees), available capacity and interconnections to downstream markets.
+
+ 
+
+Sempra Natural Gas’ competitors include, among others:
+
+ 
+
+
+
+
+
+§ AES Corporation
+
+ 
+
+§ Boardwalk Pipeline Partners
+
+ 
+
+§ Duke Energy
+
+ 
+
+§ Enbridge, Inc.
+
+ 
+
+§ Endesa
+
+ 
+
+§ Energy Transfer Partners
+
+ 
+
+§ Enstor
+
+ 
+
+§ Enterprise Product Partners
+
+ 
+
+ 
+
+
+§ Kinder Morgan
+
+ 
+
+§ NiSource, Inc.
+
+ 
+
+§ Phillips 66
+
+ 
+
+§ Plains All-American
+
+ 
+
+§ Spectra Energy
+
+ 
+
+§ Tallgrass Energy Partners, L.P.
+
+ 
+
+§ TransCanada
+
+ 
+
+§ The Williams Companies
+
+ 
+
+
+
+
+ 
+
+Sempra Mexico’s natural gas pipeline competitors include, among others:
+
+ 
+
+
+
+
+
+§ EDF Energy
+
+ 
+
+§ Elecnor
+
+ 
+
+§ Fermaca
+
+ 
+
+§ GDF SUEZ
+
+ 
+
+§ Kinder Morgan
+
+ 
+
+
+§ Mitsubishi
+
+ 
+
+§ Mitsui
+
+ 
+
+§ PEMEX (MGI)
+
+ 
+
+§ Samsung
+
+ 
+
+§ TransCanada
+
+ 
+
+
+
+
+ 
+
+LNG
+
+ 
+
+New supplies to meet North America’s natural gas demand may be developed from a combination of the following sources:
+
+ 
+
+
+
+
+
+§  
+
+
+previously inaccessible or uneconomic natural gas reserves through hydraulic fracturing (natural gas recovery from shale formations) and other new exploration, drilling and production techniques;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+existing producing basins in the United States, Canada and Mexico;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+frontier basins in Alaska, Canada and offshore North America;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+areas currently restricted from exploration and development due to public policies, such as areas in the Rocky Mountains and offshore Atlantic, Pacific and Gulf of Mexico coasts;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+LNG imported into LNG terminals in operation or under development in the United States, Canada and Mexico; and
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+biogas recovery from landfills and livestock operations.
+
+
+
+
+ 
+
+In addition, the demand for energy currently met by natural gas could be met by other energy forms such as coal, hydroelectric, oil, wind, solar, geothermal, biomass and nuclear energy. Our LNG businesses will, therefore, face competition from companies that supply each of these energy sources.
+
+ 
+
+From time to time, our LNG businesses compete with other companies that operate LNG receiving terminals, purchase and sell LNG and purchase and sell natural gas. As of December 31, 2012, there were 16 existing and operating LNG receipt terminals in North America. Worldwide, there are 94 existing and operating LNG receipt terminals in 26 countries. There are also other proposed LNG receipt terminals worldwide with which, if developed, our LNG businesses would compete to be the most economical delivery point for LNG supply of both long-term contracted and spot volumes.
+
+ 
+
+
+
+
+Our current LNG businesses’ major domestic and international competitors include, among others, the following companies and their related LNG affiliates:
+
+ 
+
+
+
+
+
+§ BG
+
+ 
+
+
+§ Gas Natural Fenosa
+
+ 
+
+
+
+§ BP
+
+ 
+
+
+§ Gazprom
+
+ 
+
+
+
+§ Cheniere Energy
+
+ 
+
+
+§ GDF SUEZ
+
+ 
+
+
+
+§ Chevron
+
+ 
+
+
+§ Kinder Morgan
+
+ 
+
+
+
+§ ConocoPhillips
+
+ 
+
+
+§ Petronas
+
+ 
+
+
+
+§ Dominion Resources
+
+ 
+
+
+§ Qatar Petroleum
+
+ 
+
+
+
+§ Energy Transfer Partners
+
+ 
+
+
+§ Repsol
+
+ 
+
+
+
+§ Eni
+
+ 
+
+
+§ Royal Dutch Shell
+
+ 
+
+
+
+§ Excelerate Energy
+
+ 
+
+
+§ Statoil
+
+ 
+
+
+
+§ ExxonMobil
+
+ 
+
+
+§ Total S.A.
+
+ 
+
+
+
+
+ 
+
+Sempra Natural Gas is currently progressing with plans for a development project to utilize its Cameron LNG terminal for the liquefaction of natural gas and export of LNG. The objective is to obtain long-term contracts for liquefaction services that allow us to fully utilize our existing regasification infrastructure while minimizing our future additional capital investment. The liquefaction facility will utilize Cameron LNG’s existing facilities, including two marine berths, three LNG storage tanks, and vaporization capability of 1.5 billion cubic feet (Bcf) per day. In January 2012, the DOE approved Cameron LNG’s application for a license to export LNG to Free Trade Agreement (FTA) countries. The authorization to export LNG to countries with which the U.S. does not have an FTA is pending review by the DOE.
+
+ 
+
+Prospective liquefaction customers of Cameron LNG compete globally to market and sell LNG to end users including gas and electric utilities located in LNG importing countries around the world. By providing liquefaction services to Cameron LNG’s customers, Cameron LNG would indirectly be competing with liquefaction projects currently operating and those under development in the world LNG market. These competitors are located in the Middle East, Southeast Asia, Africa, South America, Australia and Europe.
+
+ 
+
+Our planned LNG liquefaction business’s major domestic and international competitors include, among others, the following companies and their related LNG affiliates:
+
+ 
+
+
+
+
+
+§ BG
+
+ 
+
+
+§ Kogas
+
+ 
+
+
+
+§ BP
+
+ 
+
+
+§ Mitsubishi
+
+ 
+
+
+
+§ Cheniere Energy
+
+ 
+
+
+§ Mitsui
+
+ 
+
+
+
+§ Chevron
+
+ 
+
+
+§ Petronas
+
+ 
+
+
+
+§ China National Petroleum Company
+
+ 
+
+
+§ Qatar Petroleum
+
+ 
+
+
+
+§ ConocoPhillips
+
+ 
+
+
+§ Santos
+
+ 
+
+
+
+§ Dow Chemical
+
+ 
+
+
+§ Shell
+
+ 
+
+
+
+§ ExxonMobil
+
+ 
+
+
+§ Total S.A.
+
+ 
+
+
+
+§ GDF SUEZ
+
+ 
+
+
+§ Woodside
+
+ 
+
+
+
+§ Kinder Morgan
+
+ 
+
+  
+
+
+
+ 
+
+ 
+
+ENVIRONMENTAL MATTERS
+
+ 
+
+We discuss environmental issues affecting us in Notes 14 and 15 of the Notes to Consolidated Financial Statements in the Annual Report. You should read the following additional information in conjunction with those discussions.
+
+ 
+
+ 
+
+Hazardous Substances
+
+ 
+
+In 1994, the CPUC approved the Hazardous Waste Collaborative mechanism, allowing California’s IOUs to recover hazardous waste cleanup costs for certain sites, including those related to certain Superfund sites. This mechanism permits the California Utilities to recover in rates 90 percent of hazardous waste cleanup costs and related third-party litigation costs, and 70 percent of the related insurance-litigation expenses. In addition, the California Utilities have the opportunity to retain a percentage of any recoveries from insurance carriers and other third parties to offset the cleanup and associated litigation costs not recovered in rates.
+
+ 
+
+At December 31, 2012, we had accrued estimated remaining investigation and remediation liabilities of $0.7 million at SDG&E and $15.9 million at SoCalGas, both related to hazardous waste sites for which the Hazardous Waste Collaborative mechanism applies, as described above. The accruals include costs for numerous locations, most of which had been manufactured-gas plants at SoCalGas. This estimated cost excludes remediation costs of $0.2 million associated with SDG&E’s former fossil-fuel power plants and other locations for which the cleanup costs are not being recovered in rates. We believe that any costs not ultimately recovered through rates, insurance or other means will not have a material adverse effect on the consolidated results of operations, cash flows or financial condition of Sempra Energy, SDG&E or SoCalGas.
+
+ 
+
+We record estimated liabilities for environmental remediation when amounts are probable and estimable. In addition, we record amounts authorized to be recovered in rates under the Hazardous Waste Collaborative mechanism as regulatory assets.
+
+ 
+
+ 
+
+Air and Water Quality
+
+ 
+
+The electric and natural gas industries are subject to increasingly stringent air-quality and greenhouse gas standards, such as those established by the United States Environmental Protection Agency (EPA) and the CARB. We discuss these standards in “Government Regulation – California Utility Regulation” above. The California Utilities generally recover in rates the costs to comply with these standards.
+
+ 
+
+In connection with the issuance of operating permits, SDG&E and the other owners of SONGS have an agreement with the California Coastal Commission to mitigate environmental impacts to the marine environment attributed to the cooling-water discharge from SONGS. SDG&E’s share of the mitigation costs is estimated to be $48 million, of which $38 million had been incurred through December 31, 2012, and $10 million is accrued for the remaining costs through 2050. Artificial kelp reef, fish hatchery and wetlands restoration projects are complete, but continue to be studied until the California Coastal Commission accepts the projects. The remaining costs are to maintain the projects through 2050.
+
+ 
+
+ 
+
+ 
+
+EXECUTIVE OFFICERS OF THE REGISTRANTS
+
+ 
+
+ 
+
+Sempra Energy
+
+ 
+
+
+
+
+
+Name
+
+
+Age(1)
+
+
+Position(1)
+
+
+
+Debra L. Reed
+
+
+56
+
+
+Chairman of the Board and Chief Executive Officer
+
+
+
+Mark A. Snell
+
+
+56
+
+
+President
+
+
+
+Javade Chaudhri
+
+
+60
+
+
+Executive Vice President and General Counsel
+
+
+
+Joseph A. Householder
+
+
+57
+
+
+Executive Vice President and Chief Financial Officer
+
+
+
+Trevor I. Mihalik
+
+
+46
+
+
+Controller and Chief Accounting Officer
+
+
+
+G. Joyce Rowland
+
+
+58
+
+
+Senior Vice President – Human Resources, Diversity and Inclusion
+
+
+  
+  
+  
+
+
+(1) Ages and positions are as of February 26, 2013.
+
+
+
+
+
+
+
+ 
+
+With the exception of Mr. Mihalik, each executive officer has been an officer of Sempra Energy or its subsidiaries for more than the last five years. Before joining Sempra Energy in July 2012, Mr. Mihalik served as Senior Vice President of Finance for the past two years and as Vice President—Controller for the prior four years, in each case at Iberdrola Renewables Holdings, Inc., a diversified renewables and natural gas company.
+
+ 
+
+ 
+
+SDG&E and SoCalGas
+
+ 
+
+
+
+
+
+Name
+
+
+Age(1)
+
+
+Position(1)
+
+
+
+SAN DIEGO GAS & ELECTRIC COMPANY
+
+
+
+Jessie J. Knight, Jr.
+
+
+62
+
+
+Chairman and Chief Executive Officer
+
+
+
+Michael R. Niggli
+
+
+63
+
+
+President and Chief Operating Officer
+
+
+
+James P. Avery
+
+
+56
+
+
+Senior Vice President – Power Supply
+
+
+
+J. Chris Baker
+
+
+53
+
+
+Senior Vice President – Strategic Planning and Technology and Chief Information Officer
+
+
+
+Lee Schavrien
+
+
+58
+
+
+Senior Vice President – Finance, Regulatory and Legislative Affairs
+
+
+
+W. Davis Smith
+
+
+63
+
+
+Senior Vice President and General Counsel
+
+
+
+Robert M. Schlax
+
+
+57
+
+
+Vice President, Controller, Chief Financial Officer, Chief Accounting Officer and Treasurer
+
+
+  
+  
+  
+
+
+SOUTHERN CALIFORNIA GAS COMPANY
+
+
+
+Anne S. Smith
+
+
+59
+
+
+Chairman and Chief Executive Officer
+
+
+
+Dennis V. Arriola
+
+
+52
+
+
+President and Chief Operating Officer
+
+
+
+J. Chris Baker
+
+
+53
+
+
+Senior Vice President – Strategic Planning and Technology and Chief Information Officer
+
+
+
+Erbin B. Keith
+
+
+52
+
+
+Senior Vice President and General Counsel
+
+
+
+Lee Schavrien
+
+
+58
+
+
+Senior Vice President – Finance, Regulatory and Legislative Affairs
+
+
+
+Robert M. Schlax
+
+ 
+
+
+57
+
+ 
+
+
+Vice President, Controller, Chief Financial Officer, Chief Accounting Officer and Treasurer
+
+
+  
+  
+  
+
+
+(1) Ages and positions are as of February 26, 2013.
+
+
+
+
+
+
+
+ 
+
+With the exception of Mr. Arriola, each executive officer of SDG&E and SoCalGas has been an officer or employee of Sempra Energy or its subsidiaries for at least the last five years. Mr. Arriola was a Senior Vice President and the Chief Financial Officer of SDG&E and SoCalGas from September 2006 to November 2008, and held numerous management positions with Sempra Energy or its subsidiaries prior to that.  In November 2008, Mr. Arriola became a Senior Vice President and the Chief Financial Officer of SunPower Corporation.  From April 2010 to March 2012, he was the Executive Vice President and Chief Financial Officer of SunPower.  In August 2012, he rejoined SoCalGas as President and Chief Operating Officer, and in December 2012 also joined the SoCalGas Board of Directors.
+
+ 
+
+ 
+
+OTHER MATTERS
+
+ 
+
+ 
+
+Employees of Registrants
+
+ 
+
+As of December 31, each company had the following number of employees:
+
+ 
+
+
+
+
+
+
+
+  
+  
+
+December 31,
+
+  
+
+  
+  
+
+2012 
+
+
+2011 
+
+  
+
+
+Sempra Energy Consolidated(1)
+
+
+ 16,893 
+
+  
+
+ 16,298 
+
+  
+  
+
+
+SDG&E
+
+
+ 4,996 
+
+  
+
+ 5,008 
+
+  
+  
+
+
+SoCalGas
+
+
+ 7,788 
+
+  
+
+ 7,370 
+
+  
+  
+
+
+(1)
+
+
+Excludes employees of variable interest entities as defined by U.S. GAAP.
+
+
+
+
+
+
+
+ 
+
+Labor Relations
+
+ 
+
+ 
+
+SoCalGas
+
+ 
+
+Field, technical and most clerical employees at SoCalGas are represented by the Utility Workers Union of America or the International Chemical Workers Union Council (collectively “Union”) under a single collective bargaining agreement. The collective bargaining agreement for these employees covering wages, hours, working conditions and medical and other benefit plans was ratified on March 1, 2012, and is effective January 1, 2012 through September 30, 2015.
+
+ 
+
+ 
+
+SDG&E
+
+ 
+
+Field employees and some clerical and technical employees at SDG&E are represented by the International Brotherhood of Electrical Workers. Provisions of the collective bargaining agreement for these employees covering wages are in effect through August 31, 2014 and through August 31, 2015, for hours and working conditions. For these same employees, the agreement covering pension and savings plan benefits is in effect through October 1, 2015, and the agreement covering health and welfare benefits is in effect through December 31, 2013.
+
+ 
+
+ 
+
+Luz del Sur
+
+ 
+
+Field, technical and administrative employees at Luz del Sur representing 37 percent of the total workforce are represented by the Unified Trade Union of Electricity Workers of Lima and Callao, and the Trade Union of Employees of Electrolima. A collective bargaining agreement signed on December 13, 2012 covers these employees and is also extended to 125 non-represented employees. It covers wages, working conditions and medical and other benefit plans and is in effect from January 1, 2013 through December 31, 2013.
+
+ 
+
+ 
+
+Chilquinta Energía 
+
+ 
+
+Field, technical and administrative employees at Chilquinta Energía are represented by Labor Union Number 1 Chilquinta Energía, Litoral Labor Union and Tecnored Labor Union Number 1. The collective bargaining agreements for employees represented by these unions cover wages, hours, working conditions and medical and other benefit plans and are in effect through various dates in 2013.
+
+ 
+
+ 
+
+Professional employees at Chilquinta Energía are represented by Group of University Graduates of Chilquinta Energía. The collective bargaining agreement for these employees covers wages, hours, working conditions and medical and other benefit plans and is in effect through August 31, 2013.
+
+ 
+
+ 
+
+Sempra Mexico
+
+ 
+
+At December 31, 2012, Sempra Mexico had 437 employees, of whom 413 provide operation and maintenance services to our facilities and are covered by various collective bargaining agreements with different labor unions. Sempra Mexico’s collective bargaining agreements are negotiated on a facility-by-facility basis, and the compensation terms are adjusted on an annual basis, whereas all other terms are renegotiated every two years. The collective bargaining agreements are subject to renegotiation by each facility on an annual basis with respect to wages, and otherwise on a bi-annual basis.
+
+ 
+
+ 
+
+Mobile Gas
+
+ 
+
+Field employees at Mobile Gas are represented by the United Steelworkers Union under a single collective bargaining agreement. The agreement for these employees covers wages, hours, working conditions and medical and other benefit plans and is in effect through November 30, 2013.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ITEM 1A.  RISK FACTORS
+
+ 
+
+
+
+
+
+When evaluating our company and its subsidiaries, you should consider carefully the following risk factors and all other information contained in this report. These risk factors could materially adversely affect our actual results and cause such results to differ materially from those expressed in any forward-looking statements made by us or on our behalf. We may also be materially harmed by risks and uncertainties not currently known to us or that we currently deem to be immaterial. If any of the following occurs, our businesses, cash flows, results of operations, financial condition and/or prospects could be materially negatively impacted. In addition, the trading price of our securities could substantially decline due to the occurrence of any of these risks. These risk factors should be read in conjunction with the other detailed information concerning our company set forth in the Annual Report, including, without limitation, the information set forth in the Notes to Consolidated Financial Statements and in “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” In this section, when we state that a risk or uncertainty may, could or will have a “material adverse effect” on us or may, could or will materially adversely affect us we mean that the risk or uncertainty may, could or will have a material adverse effect on our businesses, cash flows, results of operations, financial condition, prospects and/or the market prices of our securities.
+
+ 
+
+Sempra Energy’s cash flows, ability to pay dividends and ability to meet its debt obligations largely depend on the performance of its subsidiaries.
+
+ 
+
+Sempra Energy’s ability to pay dividends and meet its debt obligations depends almost entirely on cash flows from its subsidiaries and, in the short term, its ability to raise capital from external sources. In the long term, cash flows from the subsidiaries depend on their ability to generate operating cash flows in excess of their own capital expenditures and long-term debt obligations. In addition, the subsidiaries are separate and distinct legal entities and could be precluded from making such distributions under certain circumstances, including, without limitation, as a result of legislation, regulation, court order, contractual restrictions or in times of financial distress.
+
+ 
+
+Conditions in the financial markets and economic conditions generally may materially adversely affect us.
+
+ 
+
+Our businesses are capital intensive and we rely significantly on long-term debt to fund a portion of our capital expenditures and refund outstanding debt, and on short-term borrowings to fund a portion of day-to-day business operations.
+
+ 
+
+The credit markets and financial services industry have experienced a period of extreme world-wide turmoil characterized by the bankruptcy, failure, collapse or sale of many financial institutions and by extraordinary levels of government intervention and proposals for further intervention and additional regulation.
+
+ 
+
+Limitations on the availability of credit and increases in interest rates or credit spreads may materially adversely affect our businesses, cash flows, results of operations, financial condition and/or prospects, as well as our ability to meet contractual and other commitments. In difficult credit markets, we may find it necessary to fund our operations and capital expenditures at a higher cost or we may be unable to raise as much funding as we need to support business activities. This could cause us to reduce capital expenditures and could increase our cost of funding, both of which could significantly reduce our short-term and long-term profitability.
+
+ 
+
+The availability and cost of credit for our businesses may be greatly affected by credit ratings. If the credit ratings of SoCalGas or SDG&E were to be reduced, their cash flows and results of operations could be materially adversely affected and any reduction in Sempra Energy’s ratings could materially adversely affect the cash flows and results of operations of Sempra Energy and its non-utility subsidiaries.
+
+ 
+
+ 
+
+Risks Related to All Sempra Energy Subsidiaries
+
+ 
+
+Our businesses are subject to complex government regulations and may be materially adversely affected by changes in these regulations or in their interpretation or implementation.
+
+ 
+
+In recent years, the regulatory environment that applies to the electric power and natural gas industries has undergone significant changes, on both federal and state levels. These changes have affected the nature of these industries and the manner in which their participants conduct their businesses. These changes are ongoing, and we cannot predict the future course of changes in this regulatory environment or the ultimate effect that this changing regulatory environment will have on our businesses. Moreover, existing regulations, laws and tariffs may be revised or reinterpreted, and new regulations, laws and tariffs may be adopted or become applicable to us and our facilities. Special tariffs may also be imposed on components used in our businesses that could increase costs if applicable. Our businesses are subject to increasingly complex accounting and tax requirements, and the regulations, laws and tariffs that affect us may change in response to economic or political conditions. Compliance with these requirements could increase our operating costs, and new tax legislation, regulations or other interpretations could materially adversely affect our tax expense. Changes in regulations, laws and tariffs and changes in the way regulations, laws and tariffs are implemented and interpreted may have a material adverse effect on our businesses, cash flows, financial condition, results of operations and/or prospects. 
+
+ 
+
+Our operations are subject to rules relating to transactions among the California Utilities and other Sempra Energy operations. These rules are commonly referred to as the Affiliate Transaction Rules. These businesses could be materially adversely affected by changes in these rules or by additional CPUC or FERC rules that further restrict our ability to sell electricity or natural gas, or to trade with the California Utilities and with each other. Affiliate Transaction Rules also could require us to obtain prior approval from the CPUC before entering into any such transactions with the California Utilities. Any such restrictions or approval requirements could materially adversely affect the LNG terminals, natural gas pipelines, electric generation facilities, or other operations of our subsidiaries, which could have a material adverse effect on our businesses, results of operations and/or prospects.
+
+ 
+
+Our businesses require numerous permits and other governmental approvals from various federal, state, local and foreign governmental agencies; any failure to obtain or maintain required permits or approvals could cause our sales to materially decline and/or our costs to materially increase, and otherwise materially adversely affect our businesses, cash flows, financial condition, results of operations and/or prospects.
+
+ 
+
+All of our existing and planned development projects require multiple approvals. The acquisition, construction, ownership and operation of LNG terminals, natural gas pipelines and storage facilities, and electric generation and transmission facilities require numerous permits, licenses, certificates and other approvals from federal, state, local and foreign governmental agencies. Once received, approvals may be subject to litigation, and projects may be delayed or approvals reversed in litigation. In addition, permits, licenses, certificates, and other approvals may be modified or rescinded by one or more of the governmental agencies and authorities that oversee our businesses. If there is a delay in obtaining any required regulatory approvals or if we fail to obtain or maintain any required approvals or to comply with any applicable laws or regulations, we may not be able to construct or operate our facilities, or we may be forced to incur additional costs. Any such delay or failure to obtain or maintain the necessary permits, licenses, certificates and other approvals could cause our sales to materially decline, and/or our costs to increase, and otherwise materially adversely affect our businesses, cash flows, financial condition, results of operations and/or prospects.
+
+ 
+
+Our businesses have significant environmental compliance costs, and future environmental compliance costs could have a material adverse effect on our cash flows and results of operations.
+
+ 
+
+We are subject to extensive federal, state, local and foreign statutes, rules and regulations relating to environmental protection, including, in particular, climate change and GHG emissions. We are required to obtain numerous governmental permits, licenses, certificates and other approvals to construct and operate our businesses. Additionally, to comply with these legal requirements, we must spend significant sums on environmental monitoring, pollution control equipment, mitigation costs and emissions fees. In addition, we are generally responsible for all on-site liabilities associated with the environmental condition of our electric generation facilities and other energy projects, regardless of when the liabilities arose and whether they are known or unknown. If we fail to comply with applicable environmental laws, we may be subject to substantial penalties and fines and/or significant curtailments of our operations, which could materially adversely affect our cash flows and/or results of operations.
+
+ 
+
+The scope and effect of new environmental laws and regulations, including their effects on our current operations and future expansions, are difficult to predict. Increasing international, national, regional and state-level concerns as well as new or proposed legislation and regulation may have substantial negative effects on our operations, operating costs, and the scope and economics of proposed expansion, which could have a material adverse effect on our results of operations, cash flows and/or prospects. In particular, state-level laws and regulations, as well as proposed national and international legislation and regulation relating to the control and reduction of GHG emissions (including carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons and sulfur hexafluoride), may materially limit or otherwise materially adversely affect our operations. The implementation of recent and proposed California and federal legislation and regulation may materially adversely affect our unregulated businesses by imposing, among other things, additional costs associated with emission limits, controls and the possible requirement of carbon taxes or the purchase of emissions credits. Similarly, the California Utilities may be materially adversely affected if these additional costs are not recoverable in rates. Even if recoverable, the effects of existing and proposed greenhouse gas emission reduction standards may cause rates to increase to levels that substantially reduce customer demand and growth. SDG&E may also be subject to significant penalties and fines if certain mandated renewable energy goals are not met.
+
+ 
+
+In addition, existing and future laws and regulation on mercury, nitrogen and sulfur oxides, particulates, or other emissions could result in requirements for additional pollution control equipment or emission fees and taxes that could materially adversely affect our results of operations and/or cash flows. Moreover, existing rules and regulations may be interpreted or revised in ways that may materially adversely affect our results of operations and/or cash flows. 
+
+ 
+
+We provide further discussion of these matters in Notes 14 and 15 of the Notes to Consolidated Financial Statements in the Annual Report. 
+
+ 
+
+Natural disasters, catastrophic accidents or acts of terrorism could materially adversely affect our businesses, financial condition, results of operations, cash flows and/or prospects.
+
+ 
+
+Like other major industrial facilities, ours may be damaged by natural disasters, catastrophic accidents, or acts of terrorism. Because we are in the business of using, storing, transporting and disposing of highly flammable and explosive materials, as well as radioactive materials, and operating highly energized equipment, the risk to our facilities and infrastructure, as well as the risks to the surrounding communities is substantially greater than a typical business. Such facilities and infrastructure include, but are not limited to:
+
+ 
+
+
+
+
+
+§ power generation plants
+
+ 
+
+
+§ natural gas, propane and ethane pipelines and storage
+
+ 
+
+
+
+§ electric transmission and distribution
+
+ 
+
+
+§ nuclear waste storage facilities
+
+ 
+
+
+
+§ LNG terminals and storage
+
+ 
+
+
+§ nuclear power generation facilities
+
+ 
+
+
+
+§ chartered LNG tankers
+
+ 
+
+  
+
+
+
+ 
+
+Such incidents could result in severe business disruptions, significant decreases in revenues, and/or significant additional costs to us. Any such incident could have a material adverse effect on our businesses, financial condition, results of operations, cash flows and/or prospects.
+
+ 
+
+Depending on the nature and location of the facilities and infrastructure affected, any such incident also could cause catastrophic fires, leaks, radioactive releases, explosions, spills or other significant damage to natural resources or property belonging to third parties, or cause personal injuries or fatalities. Any of these consequences could lead to significant claims against us. In some cases, we may be liable for damages even though we are not at fault, and in cases where the concept of inverse condemnation applies, we may be liable for damages without being found to be at fault or to have been negligent. Insurance coverage may significantly increase in cost or become unavailable for certain of these risks, and any insurance proceeds we receive may be insufficient to cover our losses or liabilities, which could materially adversely affect our businesses, financial condition, results of operations, cash flows and/or prospects.
+
+ 
+
+Our businesses, results of operations, financial condition and/or cash flows may be materially adversely affected by the outcome of pending litigation against us.
+
+ 
+
+Sempra Energy and its subsidiaries are defendants in numerous lawsuits. We have spent, and continue to spend, substantial amounts of money and time defending these lawsuits, and in related investigations and regulatory proceedings. In particular, SDG&E is subject to numerous lawsuits arising out of San Diego County wildfires in 2007. We discuss these proceedings in Note 15 of the Notes to Consolidated Financial Statements and in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Annual Report. The uncertainties inherent in legal proceedings make it difficult to estimate with any degree of certainty the costs and effects of resolving these matters. In addition, California juries have demonstrated a willingness to grant large awards, including punitive damages, in personal injury, product liability, property damage and other claims. Accordingly, actual costs incurred may differ materially from insured or reserved amounts and may not be recoverable in whole or in part from our customers, which in each case could materially adversely affect our businesses, cash flows, results of operations and/or financial condition.
+
+ 
+
+We cannot and do not attempt to fully hedge our assets or contract positions against changes in commodity prices. In addition, for those contract positions that are hedged, our hedging procedures may not mitigate our risk as planned.
+
+ 
+
+To reduce financial exposure related to commodity price fluctuations, we may enter into contracts to hedge our known or anticipated purchase and sale commitments, inventories of natural gas and LNG, electric generation capacity, and natural gas storage and pipeline capacity. As part of this strategy, we may use forward contracts, physical purchase and sales contracts, futures, financial swaps, and options. We do not hedge the entire exposure to market price volatility of our assets or our contract positions, and the coverage will vary over time. To the extent we have unhedged positions, or if our hedging strategies do not work as planned, fluctuating commodity prices could have a material adverse effect on our results of operations, cash flows and/or financial condition.
+
+ 
+
+In addition, certain of the contracts we use for hedging purposes are subject to fair value accounting. Such accounting may result in gains or losses in earnings for that contract. In certain cases, these gains or losses may not reflect the associated losses or gains of the underlying position being hedged.
+
+ 
+
+Risk management procedures may not prevent losses.
+
+ 
+
+Although we have in place risk management systems and control systems that use advanced methodologies to quantify and manage risk, these systems may not always prevent material losses. Risk management procedures may not always be followed as required by the companies or may not always work as planned. In addition, daily value-at-risk and loss limits are based on historic price movements. If prices significantly or persistently deviate from historic prices, the limits may not protect us from significant losses. As a result of these and other factors, there is no assurance that our risk management procedures will prevent losses that would materially adversely affect our results of operations, cash flows and/or financial condition.
+
+ 
+
+The operation of our facilities depends on good labor relations with our employees.
+
+ 
+
+Several of our businesses have entered into and have in place collective bargaining agreements with different labor unions. Our collective bargaining agreements are generally negotiated on a facility-by-facility basis.
+
+ 
+
+Any failure to reach an agreement on new labor contracts or to negotiate these labor contracts might result in strikes, boycotts or other labor disruptions. These potential labor disruptions could have a material adverse effect on our businesses, results of operations and/or cash flows. Labor disruptions, strikes or significant negotiated wage and benefit increases, whether due to union activities, employee turnover or otherwise, could have a material adverse effect on our businesses, results of operations and/or cash flows.
+
+ 
+
+New business technologies present a risk for attacks on our information systems and the integrity of our energy grid.
+
+ 
+
+Cybersecurity and the protection of our operations and activities are a priority at Sempra Energy, SDG&E and SoCalGas. We believe that the most significant cybersecurity risks to our businesses reside within the operations of our utilities. In addition to general information and cyber risks that all Fortune 500 corporations face (e.g. malware, malicious intent by insiders and inadvertent disclosure of sensitive information), the utility industry faces new cybersecurity risks associated with automated metering (virtually all of our SDG&E customers have such metering and SoCalGas is beginning the process of converting its customers to such metering) and with Smart Grid infrastructure. Deployment of these new business technologies represents a new and large-scale opportunity for attacks on the utilities’ information systems and, more importantly, on the integrity of the energy grid. While addressing these risks is the subject of significant ongoing activities across Sempra Energy’s businesses, we cannot ensure that a successful attack will not occur. Such an attack to our information systems, the integrity of the energy grid, or one of our facilities could have a material adverse effect on our businesses, cash flows, financial condition, results of operations and/or prospects.
+
+ 
+
+ 
+
+Risks Related to the California Utilities
+
+ 
+
+The California Utilities are subject to extensive regulation by state, federal and local legislative and regulatory authorities, which may materially adversely affect us.
+
+ 
+
+The CPUC regulates the California Utilities’ rates, except SDG&E’s electric transmission rates which are regulated by the FERC. The CPUC also regulates the California Utilities’:
+
+ 
+
+
+
+
+
+§ conditions of service
+
+ 
+
+
+§ rates of depreciation
+
+ 
+
+
+
+§ capital structure
+
+ 
+
+
+§ long-term resource procurement
+
+ 
+
+
+
+§ rates of return
+
+ 
+
+
+§ sales of securities
+
+ 
+
+
+
+
+ 
+
+The CPUC conducts various reviews and audits of utility performance, compliance with CPUC regulations and standards, affiliate relationships and other matters. These reviews and audits may result in disallowances, fines and penalties that could materially adversely affect our financial condition, results of operations and/or cash flows. SoCalGas and SDG&E may be subject to penalties or fines related to their operation of natural gas pipelines under new regulations concerning natural gas pipeline safety, which could have a material adverse effect on their results of operations, financial condition and/or cash flows. We discuss various CPUC proceedings relating to the California Utilities’ rates, costs, incentive mechanisms, and performance-based regulation in Note 14 of the Notes to Consolidated Financial Statements and in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Annual Report.
+
+ 
+
+The California Utilities may spend significant amounts of money related to a major capital project prior to receiving regulatory approval. If the project does not receive regulatory approval, if the regulatory approval is conditioned on major changes, or if management decides not to proceed with the project, they may be unable to recover all amounts spent for that project, which could materially adversely affect their financial condition, results of operations, cash flows and/or prospects.
+
+ 
+
+The CPUC periodically approves the California Utilities’ rates based on authorized capital expenditures, operating costs and an authorized rate of return on investment. If actual capital expenditures and/or operating costs were to exceed the amounts approved by the CPUC, results of operations, financial condition, cash flows and/or prospects could be materially adversely affected. Reductions in key benchmark interest rates may trigger automatic adjustment mechanisms which would reduce the California Utilities’ authorized rates of return, changes in which could materially adversely affect results of operations, financial condition, cash flows and/or prospects, as we discuss under “Cost of Capital” in Note 14 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+The CPUC applies performance-based measures and incentive mechanisms to all California utilities. Under these, earnings potential above authorized base margins is tied to achieving or exceeding specific performance and operating goals, rather than relying solely on expanding utility plant (rate base) to increase earnings. At the California Utilities, the areas that are eligible for incentives are operational activities such as employee safety, energy efficiency programs and, at SoCalGas, natural gas procurement and unbundled natural gas storage and system operator hub services. Although the California Utilities have received incentive awards in the past, there can be no assurance that they will receive awards in the future, or that any future awards earned would be in amounts comparable to prior periods. Additionally, if the California Utilities fail to achieve certain minimum performance levels established under such mechanisms, they may be assessed financial disallowances, penalties and fines which could have a material adverse effect on their results of operations, financial condition and/or cash flows.
+
+ 
+
+The FERC regulates electric transmission rates, the transmission and wholesale sales of electricity in interstate commerce, transmission access, the rates of return on investments in electric transmission assets, and other similar matters involving SDG&E.
+
+ 
+
+The California Utilities may be materially adversely affected by new regulations, decisions, orders or interpretations of the CPUC, the FERC or other regulatory bodies. New legislation, regulations, decisions, orders or interpretations could change how they operate, could affect their ability to recover various costs through rates or adjustment mechanisms, or could require them to incur substantial additional expenses.
+
+ 
+
+The construction and expansion of the California Utilities’ natural gas pipelines, SoCalGas’ storage facilities, and SDG&E’s electric transmission and distribution facilities require numerous permits, licenses and other approvals from federal, state and local governmental agencies. If there are delays in obtaining these approvals, or failure to obtain or maintain these approvals, or to comply with applicable laws or regulations, the California Utilities’ businesses, cash flows, results of operations, financial condition and/or prospects could be materially adversely affected. Coordinating these projects so that they are on time and within budget requires superior execution from our employees and contractors, cooperation of third parties and the absence of litigation and regulatory delay. In the event that one or more of these major projects is delayed or experiences significant cost overruns, this could have a material adverse effect on the California Utilities.
+
+ 
+
+Recovery of 2007 Wildfire Litigation Costs Requires Future Regulatory Approval.
+
+ 
+
+SDG&E is subject to numerous lawsuits arising out of the San Diego County wildfires in 2007. Through December 31, 2012, SDG&E’s costs to settle these claims and its estimated future settlement costs and defense costs are approximately $2.4 billion, exceeding its $1.1 billion of liability insurance coverage and the approximately $824 million recovered from third parties. SDG&E is seeking to recover in rates its reasonably incurred costs of resolving 2007 wildfire claims in excess of its liability insurance coverage and amounts recovered from third parties. SDG&E has concluded that it is probable that SDG&E will be permitted to recover a substantial portion of these excess costs in rates, and at December 31, 2012, Sempra Energy’s and SDG&E’s Consolidated Balance Sheets include assets of $364 million in Regulatory Assets Arising From Wildfire Litigation Costs, of which $317 million is related to CPUC-regulated operations and $47 million is related to FERC-regulated operations, with respect to these excess costs. However, recovery of these amounts in rates will require future regulatory approval.
+
+ 
+
+In August 2009, SDG&E and SoCalGas filed an application with the CPUC proposing a new mechanism for the future recovery of wildfire-related expenses for claims, litigation expenses and insurance premiums that are in excess of amounts authorized by the CPUC for recovery in distribution rates. In December 2012, the CPUC issued a final decision that denied the proposed blanket cost recovery framework for the utilities but allowed SDG&E to maintain its authorized memorandum account, enabling SDG&E to file applications with the CPUC requesting recovery of amounts properly recorded in the memorandum account, subject to reasonableness review, at a later date. For a description of this proceeding and information about 2007 wildfire litigation costs and their recovery, see Notes 14 and 15 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+SDG&E will continue to assess the probability of recovery of these excess wildfire costs in rates. Should SDG&E conclude that recovery in rates is no longer probable, SDG&E will record a charge against earnings at the time such conclusion is reached. If SDG&E had concluded that the recovery of regulatory assets related to CPUC-regulated operations was no longer probable or was less than currently estimated as of December 31, 2012, the resulting after-tax charge against earnings would have been up to $190 million. In addition, in periods following any such conclusion, SDG&E’s earnings will be adversely impacted by increases in the estimated costs to litigate or settle pending wildfire claims.
+
+ 
+
+As noted above, recovery of excess wildfire costs in rates will require future regulatory approval, and a failure to obtain all or a significant portion of the expected recovery, or a conclusion that recovery in rates is no longer probable, would likely have a material adverse effect on Sempra Energy’s and SDG&E’s cash flows, financial condition and/or results of operations. In addition, if recovery is permitted, the collection process may extend over a number of years and Sempra Energy’s and SDG&E’s cash flows may be materially adversely affected due to the timing differences between resolution of claims and the recovery in rates. We discuss how we assess the probability of recovery of our regulatory assets in Note 1 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+SDG&E may incur substantial costs and liabilities as a result of its partial ownership of a nuclear facility.
+
+ 
+
+SDG&E has a 20-percent ownership interest in SONGS, a 2,150-MW nuclear generating facility near San Clemente, California, operated by Southern California Edison Company. The NRC has broad authority under federal law to impose licensing and safety-related requirements for the operation of nuclear generation facilities. SDG&E’s ownership interest in SONGS subjects it to the risks of nuclear generation, which include
+
+ 
+
+
+
+
+
+§  
+
+
+the potential that a natural disaster such as an earthquake or tsunami could cause a catastrophic failure of the safety systems in place that are designed to prevent the release of radioactive material. If such a failure were to occur, a substantial amount of radiation could be released and cause catastrophic harm to human health and the environment;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+the potential harmful effects on the environment and human health resulting from the operation of nuclear facilities and the storage, handling and disposal of radioactive materials;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+limitations on the amounts and types of insurance commercially available to cover losses that might arise in connection with nuclear operations;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+uncertainties with respect to the technological and financial aspects of equipment maintenance, and the decommissioning of nuclear plants;
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+a substantial increase in oversight and new and more onerous regulations due to the nuclear disaster at Japan’s Fukushima Daiichi plant in early 2011; and
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+the results of the CPUC’s Order Instituting Investigation (OII), as described in more detail below, into the SONGS outage that began in the first quarter of 2012.
+
+
+
+
+ 
+
+The occurrence of any of these events could have a material adverse effect on SDG&E’s and Sempra Energy’s businesses, cash flows, financial condition, results of operations and/or prospects.
+
+ 
+
+Ongoing regulatory and maintenance issues at SONGS may have a material adverse effect on us.
+
+ 
+
+As discussed in Note 14 of the Notes to Consolidated Financial Statements in the Annual Report, SONGS’s Units 2 and 3 are offline. The timing of the restart of either of these Units is dependent upon approval by the NRC, which could result in substantial additional expenditures that may not be recoverable, in whole or in part, in customer rates. In November 2012, the CPUC issued an OII into the SONGS outage to determine whether SDG&E should remove from customer rates some or all revenue requirement associated with the portion of the facility that is out of service. This OII will consolidate all SONGS issues from related regulatory proceedings and consider the appropriate cost recovery for SONGS, including among other costs, the cost of the steam generator replacement project, replacement power costs, capital expenditures, operation and maintenance costs and seismic study costs. The OII requires all costs related to SONGS incurred since January 1, 2012, be tracked in newly established memorandum accounts, with all revenues collected since January 1, 2012, in recovery of such costs and the return on SDG&E’s investment in SONGS subject to refund. The OII will address the extent to which such revenues, if any, will be required to be refunded to customers. Any extended shut down of one or both of these Units and the costs required to bring those Units back online could materially adversely affect SDG&E’s and Sempra Energy’s results of operations, cash flows, financial condition and/or prospects. In addition, any decision by the CPUC to require SDG&E to refund some or all of the revenues collected in recovery of the costs described above could materially adversely affect SDG&E’s and Sempra Energy’s results of operations, cash flows, financial condition and/or prospects.
+
+ 
+
+ 
+
+Risks Related to our Sempra International and Sempra U.S. Gas & Power Businesses
+
+ 
+
+Our businesses are exposed to market risks, including fluctuations in commodity prices, and our businesses, financial condition, results of operations, cash flows and/or prospects may be materially adversely affected by these risks.
+
+ 
+
+Sempra Mexico, Sempra Renewables and Sempra Natural Gas generate electricity that they sell under long-term contracts and into the spot market or other competitive markets. Sempra Mexico and Sempra Natural Gas purchase natural gas to fuel their power plants and may also purchase electricity in the open market to satisfy their contractual obligations. As part of their risk management strategy, they may hedge a substantial portion of their electricity sales and natural gas purchases to manage their portfolios, which subjects us to the risk that the counterparty to such hedge may be unable to fulfill its obligations. Such a failure could materially adversely affect our cash flows, financial condition and/or results of operations.
+
+ 
+
+We buy energy-related commodities from time to time, for power plants or for LNG terminals to satisfy contractual obligations with customers, in regional markets and other competitive markets in which we compete. Our revenues and results of operations could be materially adversely affected if the prevailing market prices for electricity, natural gas, LNG or other commodities that we buy change in a direction or manner not anticipated and for which we had not provided adequately through purchase or sale commitments or other hedging transactions.
+
+ 
+
+Unanticipated changes in market prices for energy-related commodities result from multiple factors, including:
+
+ 
+
+
+
+
+
+§  
+
+
+weather conditions
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+seasonality
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+changes in supply and demand
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+transmission or transportation constraints or inefficiencies
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+availability of competitively priced alternative energy sources
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+commodity production levels
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+actions by oil producing nations or organizations affecting the global supply of crude oil
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+federal, state and foreign energy and environmental regulation and legislation
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+natural disasters, wars, embargoes and other catastrophic events
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+expropriation of assets by foreign countries
+
+
+
+
+ 
+
+The FERC has jurisdiction over wholesale power and transmission rates, independent system operators, and other entities that control transmission facilities or that administer wholesale power sales in some of the markets in which we operate. The FERC may impose additional price limitations, bidding rules and other mechanisms, or terminate existing price limitations from time to time. Any such action by the FERC may result in prices for electricity changing in an unanticipated direction or manner and, as a result, may have a material adverse effect on our businesses, cash flows, results of operations and/or prospects.
+
+ 
+
+When our businesses enter into fixed-price long-term contracts to provide services or commodities, we are exposed to inflationary pressures such as rising commodity prices, and interest rate risks.
+
+ 
+
+Sempra Mexico, Sempra Renewables and Sempra Natural Gas generally endeavor to secure long-term contracts with customers for services and commodities to optimize the use of their facilities, reduce volatility in earnings, and support the construction of new infrastructure. However, if these contracts are at fixed prices, the profitability of the contract may be materially adversely affected by inflationary pressures, including rising operational costs, costs of labor, materials, equipment and commodities, and rising interest rates that affect financing costs. We may try to mitigate these risks by using variable pricing tied to market indices, anticipating an escalation in costs when bidding on projects, providing for cost escalation or entering into hedges. However, these measures, if implemented, may not ensure that the increase in revenues they provide will fully offset increases in operating expenses and/or financing costs. The failure to so fully or substantially offset these increases could have a material adverse effect on our financial condition, cash flows and/or results of operations.
+
+ 
+
+Business development activities may not be successful and projects under construction may not commence operation as scheduled or be completed within budget, which could have a material adverse effect on our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+The acquisition, development, construction and expansion of LNG terminals, natural gas, propane and ethane pipelines and storage facilities, electric generation and transmission facilities, and other energy infrastructure projects involve numerous risks. We may be required to spend significant sums for preliminary engineering, permitting, fuel supply, resource exploration, legal, and other expenses before we can determine whether a project is feasible, economically attractive, or capable of being built.
+
+ 
+
+Success in developing a particular project is contingent upon, among other things:
+
+ 
+
+
+
+
+
+§  
+
+
+negotiation of satisfactory engineering, procurement and construction agreements
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+negotiation of supply and natural gas sales agreements or firm capacity service agreements
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+timely receipt of required governmental permits and rights of way
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+timely implementation and satisfactory completion of construction
+
+
+
+
+ 
+
+Successful completion of a particular project may be materially adversely affected by:
+
+ 
+
+
+
+
+
+§  
+
+
+unforeseen engineering problems
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+construction delays and contractor performance shortfalls
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+work stoppages
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+equipment unavailability or delay and cost increases
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+adverse weather conditions
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+environmental and geological conditions
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+litigation
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+unsettled property rights
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+other factors
+
+
+
+
+ 
+
+If we are unable to complete the development of a facility or if we have substantial delays or cost overruns, this could have a material adverse effect on our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+The operation of existing and future facilities also involves many risks, including the breakdown or failure of generation or regasification and storage facilities or other equipment or processes, labor disputes, fuel interruption, environmental contamination and operating performance below expected levels. In addition, weather-related incidents and other natural disasters can disrupt generation, regasification, storage and transmission systems. The occurrence of any of these events could lead to our facilities being idled for an extended period of time or our facilities operating well below expected capacity levels, which may result in lost revenues or increased expenses, including higher maintenance costs and penalties. Such occurrences could materially adversely affect our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+With respect to our proposed project to add LNG export capability at our Cameron facility, we currently anticipate building a facility consisting of three liquefaction trains with a total nameplate capacity of 13.5 million tonnes per annum (Mtpa) of LNG and expected export capability of 12 Mtpa of LNG, or approximately 1.7 Bcf per day. Total cost will be approximately $6 billion to $7 billion, excluding capitalized interest and other financing costs and subject to final design specifications. While we have signed commercial development agreements with Mitsubishi Corporation, Mitsui & Co. and a subsidiary of GDF SUEZ S.A., these agreements only bind the parties to fund certain development costs, including design, permitting and engineering costs of the proposed project and to negotiate in good faith 20-year tolling agreements with respect to 12 Mtpa of LNG. The development agreements do not obligate the parties to finance the actual construction of this new facility, and there can be no assurance that the parties will reach agreement on the terms of the 20-year tolling agreements. If one or more of the parties decides not to move forward with the project or does not enter into a tolling agreement, or if we are unable to arrange suitable financing, the project may be substantially delayed, reduced or terminated. If the project is terminated, we may not recover our share of any project development or other related costs expended and may be required to write off our share of any such previously capitalized costs. In addition, this project may be delayed, reduced or terminated in the event we are unable to obtain all of the necessary permits, licenses and authorizations in a timely manner. If the application to export to non-FTA countries is not approved, the size of the project may be reduced, or the project may be delayed or terminated. The anticipated cost of this project is based on a number of assumptions that may prove incorrect, and the ultimate cost could significantly exceed the current estimate of $6 billion to $7 billion, excluding capitalized interest and other financing costs and subject to final design specifications. Customers look at a number of factors when evaluating participation in a project, and changes in these factors, including global natural gas and LNG prices, could have an impact on the project going forward. Prior to our final investment decision and in the event we decide not to proceed with the project, these risks could have a material adverse effect on our prospects. Following our final investment decision and in the event we decide to proceed with the project, these risks could have a material adverse effect on our business, results of operations, cash flows, financial condition, and/or prospects.
+
+ 
+
+We may elect not to, or may not be able to, enter into long-term supply and sales agreements or long-term firm capacity agreements for our projects, which would subject our revenues to increased volatility and our businesses to increased competition.
+
+ 
+
+The electric generation and wholesale power sales industries are highly competitive. As more plants are built and competitive pressures increase, wholesale electricity prices may become more volatile. Without the benefit of long-term power sales agreements, our revenues may be subject to increased price volatility. The 10-year power sales agreement between Sempra Natural Gas and the DWR, which comprised 6 percent of our revenues in 2011 and 8 percent of our revenues in 2010, expired on September 30, 2011. As a result, we may be unable to sell the power that Sempra Natural Gas’ and Sempra Mexico’s facilities are capable of producing or to sell it at favorable prices, which could materially adversely affect our results of operations, cash flows and/or prospects.
+
+ 
+
+Sempra Mexico and Sempra Natural Gas utilize their LNG terminals by entering into long-term capacity agreements. Under these agreements, customers pay us capacity reservation and usage fees to receive, store and regasify the customer’s LNG. These segments also may enter into short-term and/or long-term supply agreements to purchase LNG to be received, stored and regasified at their terminals for sale to other parties. The long-term supply agreement contracts are expected to reduce our exposure to changes in natural gas prices through corresponding natural gas sales agreements or by tying LNG supply prices to prevailing natural gas market price indices. However, if our LNG operations are unable to obtain sufficient long-term agreements or if the counterparties, customers or suppliers to one or more of the key agreements for the LNG facilities were to fail to perform or become unable to meet their contractual obligations on a timely basis, it could have a material adverse effect on our results of operations, cash flows and/or prospects. Our potential LNG suppliers also may be subject to international political and economic pressures and risks, which may also affect the supply of LNG.
+
+ 
+
+Sempra Mexico’s and Sempra Natural Gas’ natural gas pipeline operations are dependent on demand for and supply of LNG and/or natural gas from their transportation customers, which may include our LNG facilities.
+
+ 
+
+We provide information about these matters in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Note 15 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+Our businesses depend on counterparties, business partners, customers, and suppliers performing in accordance with their agreements. If they fail to so perform, we could incur substantial expenses and business disruptions and be exposed to commodity price risk and volatility, which could materially adversely affect our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+We are exposed to the risk that counterparties, business partners, customers, and suppliers that owe money or commodities as a result of market transactions or other long-term agreements will not perform their obligations in accordance with such agreements. Should they fail to so perform, we may be required to acquire alternative hedging arrangements or to honor the underlying commitment at then-current market prices. In such event, we may incur additional losses to the extent of amounts already paid to such counterparties or suppliers. In addition, many of our agreements are essential to the conduct and growth of our businesses. The failure of any of the parties to perform in accordance with these agreements could materially adversely affect our businesses, results of operations, cash flows, financial condition and/or prospects. Finally, we often extend credit to counterparties and customers. While we perform significant credit analyses prior to extending credit, we are exposed to the risk that we may not be able to collect amounts owed to us.
+
+ 
+
+Sempra Mexico’s and Sempra Natural Gas’ obligations and those of their suppliers for LNG supplies are contractually subject to (1) suspension or termination for “force majeure” events beyond the control of the parties; and (2) substantial limitations of remedies for other failures to perform, including limitations on damages to amounts that could be substantially less than those necessary to provide full recovery of costs for breach of the agreements, which in either event could have a material adverse effect on our results of operations, cash flows, financial condition and/or prospects.
+
+ 
+
+Legal actions challenging our property rights could materially adversely affect our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+We are engaged in disputes regarding our title to the properties on which our LNG terminal in Mexico is located and our title to the property on which our Termoeléctrica de Mexicali power generation facility is located. In June 2012, the state civil court in Mexicali ruled that our title to the property on which our Termoeléctrica de Mexicali power generation facility is located was invalid due to procedural errors made by our predecessor in title. However, the court also declined to award title to the claimant, and we are appealing the ruling invalidating our title. In the event that we are unable to defend and retain title to the properties on which our LNG terminal is located or the property on which our power generation facility is located, we could lose our rights to occupy and use such properties and the related facility or terminal, which could result in breaches of one or more permits or contracts that we have entered into with respect to such facility and/or terminal. If we are unable to occupy and use such properties and the related facility or terminal, it could have a material adverse effect on our businesses, financial condition, results of operations, cash flows and/or prospects.
+
+ 
+
+We rely on transportation assets and services, much of which we do not own or control, to deliver electricity and natural gas.
+
+ 
+
+We depend on electric transmission lines, natural gas pipelines, and other transportation facilities owned and operated by third parties to:
+
+ 
+
+
+
+
+
+§  
+
+
+deliver the electricity and natural gas we sell to wholesale markets,
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+supply natural gas to our electric generation facilities, and
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+provide retail energy services to customers.
+
+
+
+
+ 
+
+Sempra Mexico and Sempra Natural Gas also depend on natural gas pipelines to interconnect with their ultimate source or customers of the commodities they are transporting. Sempra Mexico and Sempra Natural Gas also rely on specialized ships to transport LNG to their facilities and on natural gas pipelines to transport natural gas for customers of the facilities. Sempra Natural Gas, Sempra Renewables, Sempra South American Utilities and Sempra Mexico rely on transmission lines to sell electricity to their customers. If transportation is disrupted, or if capacity is inadequate, we may be unable to sell and deliver our commodities, electricity and other services to some or all of our customers. As a result, we may be responsible for damages incurred by our customers, such as the additional cost of acquiring alternative natural gas supplies at then-current spot market rates, which could have a material adverse effect on our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+Our international businesses are exposed to different local, regulatory and business risks and challenges, which could have a material adverse effect on our businesses, financial condition, cash flows, results of operations and/or prospects.
+
+ 
+
+We own or have interests in electricity generation and transmission, natural gas distribution and transportation, and LNG terminal projects in Mexico, and electricity and natural gas distribution businesses in Argentina, Chile and Peru. Developing infrastructure projects, owning energy assets, and operating businesses in foreign jurisdictions subject us to significant political, legal, regulatory and financial risks that vary by country, including:
+
+ 
+
+
+
+
+
+§  
+
+
+changes in foreign laws and regulations, including tax and environmental laws and regulations, and U.S. laws and regulations, in each case, that are related to foreign operations
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+governance by and decisions of local regulatory bodies, including setting of rates and tariffs that may be earned by our businesses
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+high rates of inflation
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+volatility in exchange rates between the U.S. dollar and currencies of the countries in which we operate
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+changes in government policies or personnel
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+trade restrictions
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+limitations on U.S. company ownership in foreign countries
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+permitting and regulatory compliance
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+changes in labor supply and labor relations
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+adverse rulings by foreign courts or tribunals, challenges to permits and approvals, difficulty in enforcing contractual and property rights, and unsettled property rights and titles in Mexico and other foreign jurisdictions
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+expropriation of assets
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+adverse changes in the stability of the governments in the countries in which we operate
+
+
+
+
+ 
+
+
+
+
+
+§  
+
+
+general political, social, economic and business conditions
+
+
+
+
+ 
+
+Our international businesses also are subject to foreign currency risks. These risks arise from both volatility in foreign currency exchange and inflation rates and devaluations of foreign currencies. In such cases, an appreciation of the U.S. dollar against a local currency could materially reduce the amount of cash and income received from those foreign subsidiaries. Fluctuations in foreign currency exchange and inflation rates may result in significantly increased taxes in foreign countries and materially adversely affect our cash flows, financial condition, results of operations and/or prospects.
+
+ 
+
+We discuss litigation related to Sempra Mexico’s Energía Costa Azul LNG terminal, Termoeléctrica de Mexicali power generation facility and other international energy projects in Note 15 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+ 
+
+Other Risks
+
+ 
+
+Sempra Energy has substantial investments and other obligations in businesses that it does not control or manage or in which it shares control.
+
+ 
+
+Sempra Energy is a partner with The Royal Bank of Scotland plc in RBS Sempra Commodities LLP (RBS Sempra Commodities), a commodities-marketing firm, which divested substantially all of its businesses and assets in 2010 and early 2011, as we discuss in Note 4 of the Notes to Consolidated Financial Statements in the Annual Report. The investment balance of $126 million at December 31, 2012 reflects remaining distributions expected to be received from the partnership as it is dissolved. The timing and amount of distributions may be impacted by the matters we discuss related to RBS Sempra Commodities in Note 15 of the Notes to Consolidated Financial Statements in the Annual Report. In addition, amounts may be retained by the partnership for an extended period of time to help offset unanticipated future general and administrative costs necessary to complete the dissolution of the partnership. We have guaranteed various obligations of businesses previously owned and operated by RBS Sempra Commodities, as we discuss in Note 5 of the Notes to Consolidated Financial Statements in the Annual Report. The failure to collect all or a substantial portion of our remaining investment in the partnership could have a corresponding effect on our cash flows, financial condition and results of operations.
+
+ 
+
+As described above, SDG&E holds a 20-percent ownership interest in SONGS, which is operated by Edison. Also, Sempra Natural Gas owns a 25-percent interest in Rockies Express Pipeline LLC (Rockies Express), a joint venture that operates a natural gas pipeline. Our investment in Rockies Express is $361 million at December 31, 2012. Rockies Express is controlled by Tallgrass Energy Partners, which holds a 50-percent interest. At December 31, 2012, Sempra Renewables has investments totaling $592 million in several joint ventures to develop and operate renewable generation facilities. Sempra Mexico owns a 50-percent interest in a joint venture with PEMEX that operates two natural gas pipelines and a propane system in northern Mexico. At December 31, 2012, this investment is $340 million. We also have smaller investments in other entities that we do not control or manage, or in which we share control, totaling $97 million at December 31, 2012. We continue to make such investments. We discuss these investments further in Notes 3, 4 and 11 of the Notes to Consolidated Financial Statements in the Annual Report.
+
+ 
+
+Sempra Natural Gas is currently progressing with plans to develop its Cameron LNG regasification facility for liquefaction capability in a joint venture structure with three partners. We discuss these plans further in “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Factors Influencing Future Performance” in the Annual Report.
+
+ 
+
+We have limited influence over these and other businesses in which we do not have a controlling interest. In addition to the other risks inherent in these businesses, if their management were to fail to perform adequately or the other investors in the businesses were unable or otherwise failed to perform their obligations to provide capital and credit support for these businesses, it could have a material adverse effect on our results of operations, financial condition, cash flows and/or prospects.
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ITEM 1B

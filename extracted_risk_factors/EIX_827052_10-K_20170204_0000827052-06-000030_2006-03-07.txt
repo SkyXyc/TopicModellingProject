@@ -1,0 +1,2232 @@
+Item 1A of this report and
+"Introduction" in the Management's Discussion and Analysis of Financial Condition and Results of Operations
+(MD&A) for cautionary statements that accompany those forward-looking statements and identify important
+factors that could cause results to differ. Readers should carefully review those cautionary statements as
+they identify important factors that could cause results to differ, or that otherwise could impact Edison
+International or its subsidiaries.
+
+Additional information about risks and uncertainties, including more detail about the factors described in
+this report, is contained throughout this report, in the MD&A that appears in Edison International's 2005
+Annual Report to Shareholders (Annual Report), the relevant portions of which are filed as Exhibit 13 to this
+report, and which is incorporated by reference into Part II, Item 7 of this report, and in Notes to
+Consolidated Financial Statements (Notes to Financial Statements). Readers are urged to read this entire
+report, including the information incorporated by reference, and carefully consider the risks, uncertainties
+and other factors that affect Edison International's business. Forward-looking statements speak only as of
+the date they are made and Edison International is not obligated to publicly update or revise forward-looking
+statements. Readers should review future reports filed by Edison International with the Securities and
+Exchange Commission (SEC).
+
+Except when otherwise stated, references to each of Edison International, Southern California Edison Company
+(SCE), Mission Energy Holding Company (MEHC), Edison Mission Energy (EME) or Edison Capital mean each such
+company with its subsidiaries on a consolidated basis. References to "Edison International (parent)" or
+"parent company" or "MEHC (parent)" mean Edison International or MEHC on a stand-alone basis, not consolidated
+with its subsidiaries. Since the second quarter of 2004, MEHC (parent) and EME are presented as one business
+segment on a consolidated basis due primarily to the elimination of EME's so-called "ring fencing" provisions
+in EME's certificate of incorporation and bylaws discussed in the MD&A under the heading "MEHC:
+Liquidity--MEHC (parent)'s Liquidity."
+
+                                                    PART I
+
+ITEM 1.  BUSINESS
+
+                                       BUSINESS OF EDISON INTERNATIONAL
+
+Edison International was incorporated on April 20, 1987, under the laws of the State of California for the
+purpose of becoming the parent holding company of SCE, a California public utility corporation, and of other
+subsidiaries engaged in nonutility businesses (Nonutility Companies). SCE comprises the largest portion of
+the assets and revenue of Edison International. The principal Nonutility Companies are:  EME, which is an
+independent power producer engaged in the business of developing, acquiring, owning or
+
+
+Page 1
+
+
+leasing, operating and selling energy and capacity from electric power generation facilities and also
+conducts price risk management and energy trading activities in power markets open to competition; MEHC,
+which holds the common stock of EME; and Edison Capital, which has investments in energy and infrastructure
+projects worldwide and in affordable housing projects located throughout the United States.
+
+Edison International is engaged in the business of holding, for investment, the common stock of its
+subsidiaries. At December 31, 2005, Edison International and its subsidiaries had an aggregate of
+15,838 full-time employees, of which 29 were employed directly by Edison International.
+
+The principal executive offices of Edison International are located at 2244 Walnut Grove Avenue, P.O. Box
+976, Rosemead, California 91770, and the telephone number is (626) 302-2222.
+
+Edison International's internet website address is http://www.edison.com. Edison International makes
+available, free of charge on its internet website, its Annual Report on Form 10-K, Quarterly Reports on
+Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (Exchange Act), as soon as reasonably
+practicable after Edison International electronically files such material with, or furnishes it to, the SEC.
+Such reports are also available on the SEC's internet website at http://www.sec.gov. The information
+contained in our website, or connected to that site, is not incorporated by reference into this report.
+
+Edison International has three business segments for financial reporting purposes:  an electric utility
+operation segment (SCE), a nonutility power generation segment (MEHC (parent) and EME), and a financial
+services provider segment (Edison Capital). Financial information about these segments and about geographic
+areas, for fiscal years 2005, 2004, and 2003, is contained in Note 10 of Notes to Financial Statements and
+incorporated herein by this reference. Additional information about each of these business segments is
+contained below in "Business of Southern California Edison Company," "Business of Mission Energy Holding
+Company," and "Business of Edison Capital."
+
+Regulation of Edison International
+
+A comprehensive energy bill was passed by the United States House of Representatives and Senate in July 2005
+and was signed by the President on August 8, 2005. Known as "EPAct 2005," this comprehensive legislation
+includes provisions for the repeal of the Public Utility Holding Company Act of 1935 (PUHCA 1935) and
+amendments to the Public Utility Regulatory Policies Act of 1978 (PURPA). The Federal Energy Regulatory
+Commission (FERC) has finalized rules to implement the Congressionally mandated repeal of PUHCA 1935,
+effective February 8, 2006, and enactment of the Public Utility Holding Company Act of 2005 (PUHCA 2005).
+PUHCA 2005 is primarily a "books and records access" statute and does not give the FERC any new substantive
+authority under the Federal Power Act or Natural Gas Act. The FERC has also issued final rules to implement
+the electric company merger and acquisition provisions of EPAct 2005.
+
+Edison International is not a public utility under the laws of the State of California and is not subject to
+regulation as such by the California Public Utilities Commission (CPUC). See "Business of Southern California
+Edison Company--Regulation of SCE" below for a description of the regulation of SCE by the CPUC. The CPUC
+decision authorizing SCE to reorganize into a holding company structure, however, contains certain
+conditions, which, among other things:  (1) ensure the CPUC access to books and records of Edison
+International and its affiliates which relate to transactions with SCE; (2) require Edison International and
+its subsidiaries to employ accounting and other procedures and controls to ensure full review by the CPUC and
+to protect against subsidization of nonutility activities by SCE's
+
+
+Page 2
+
+customers; (3) require that all transfers of market, technological, or similar data from SCE to Edison
+International or its affiliates be made at market value; (4) preclude SCE from guaranteeing any obligations
+of Edison International without prior written consent from the CPUC; (5) provide for royalty payments to be
+paid by Edison International or its subsidiaries in connection with the transfer of product rights, patents,
+copyrights, or similar legal rights from SCE; and (6) prevent Edison International and its subsidiaries from
+providing certain facilities and equipment to SCE except through competitive bidding. In addition, the
+decision provides that SCE shall maintain a balanced capital structure in accordance with prior CPUC
+decisions, that SCE's dividend policy shall continue to be established by SCE's board of directors as though
+SCE were a stand-alone utility company, and that the capital requirements of SCE, as determined to be
+necessary to meet SCE's service obligations, shall be given first priority by the boards of directors of
+Edison International and SCE.
+
+On October 27, 2005, the CPUC issued an order instituting rulemaking (OIR) to allow the CPUC to re-examine
+the relationships of the major California energy utilities with their parent holding companies and
+non-regulated affiliates. The OIR was issued in part in response to the repeal of PUHCA 1935. Additional
+information about the OIR appears in the MD&A under the heading "SCE:  Regulatory Matters--Current Regulatory
+Developments--Holding Company Order Instituting Rulemaking."
+
+In addition, the CPUC has issued affiliate transaction rules governing the relationships between SCE and its
+affiliates, including Edison International and the Nonutility Companies. SCE has filed compliance plans which
+set forth SCE's implementation of the CPUC's affiliate transaction rules. The rules and compliance plans are
+intended to maintain separateness between utility and nonutility activities and ensure that utility assets
+are not used to subsidize the activities of nonutility affiliates.
+
+Environmental Matters Affecting Edison International
+
+Because Edison International does not own or operate any assets, except the stock of its subsidiaries, it
+does not have any direct environmental obligations or liabilities. However, legislative and regulatory
+activities by federal, state, and local authorities in the United States and regulatory authorities with
+jurisdiction over projects located outside the United States continue to result in the imposition of numerous
+restrictions on the operation of existing facilities by Edison International's subsidiaries, on the timing,
+cost, location, design, construction, and operation of new facilities by Edison International's subsidiaries,
+and on the cost of mitigating the effect of past operations on the environment. These laws and regulations,
+relating to air and water pollution, waste management, hazardous chemical use, noise abatement, land use,
+aesthetics, and nuclear control, substantially affect future planning and will continue to require
+modifications of existing facilities and operating procedures by Edison International's subsidiaries. Edison
+International is unable to predict with certainty the extent to which additional regulations may affect its
+operations and capital expenditure requirements.
+
+Edison International's projected environmental capital expenditures and additional information about
+environmental matters affecting Edison International appear in the MD&A under the heading "Other
+Developments--Environmental Matters" and in Note 9 of Notes to Financial Statements under "Environmental
+Remediation." For details about the environmental liabilities and other business risks from environmental
+regulation of SCE and EME, see "Business of Southern California Edison Company--Environmental Matters
+Affecting SCE" and "Business of Mission Energy Holding Company--Environmental Matters Affecting EME."
+
+
+Page 3
+
+Financial Information About Geographic Areas
+
+Financial information for geographic areas for Edison International can be found in Notes 10 and 11 of Notes
+to Financial Statements. Edison International's consolidated financial statements for all years presented
+reflect the reclassification of the results of MEHC's international power generation portfolio that was sold
+or held for sale as discontinued operations in accordance with an accounting standard related to the
+impairment and disposal of long-lived assets.
+
+                                BUSINESS OF SOUTHERN CALIFORNIA EDISON COMPANY
+
+SCE was incorporated in 1909 under the laws of the State of California. SCE is a public utility primarily
+engaged in the business of supplying electric energy to a 50,000-square-mile area of central, coastal and
+southern California, excluding the City of Los Angeles and certain other cities. This SCE service territory
+includes approximately 428 cities and communities and a population of more than 13 million people. In 2005,
+SCE's total operating revenue was derived as follows:  39% commercial customers, 33% residential customers,
+9% resale sales, 7% industrial customers, 5% other electric revenue, 5% public authorities, and 2%
+agricultural and other customers. At December 31, 2005, SCE had consolidated assets of $24.7 billion and
+total shareholder's equity of $5.7 billion. SCE had 14,041 full-time employees at year-end 2005.
+
+Regulation of SCE
+
+SCE's retail operations are subject to regulation by the CPUC. The CPUC has the authority to regulate, among
+other things, retail rates, issuance of securities, and accounting practices. SCE's wholesale operations are
+subject to regulation by the FERC. The FERC has the authority to regulate wholesale rates as well as other
+matters, including retail transmission service pricing, accounting practices, and licensing of hydroelectric
+projects.
+
+Additional information about the regulation of SCE by the CPUC and the FERC, and about SCE's competitive
+environment, appears in the MD&A under the heading "SCE:  Regulatory Matters." Also see "--Competition of SCE."
+
+SCE is subject to the jurisdiction of the United States Nuclear Regulatory Commission with respect to its
+nuclear power plants. United States Nuclear Regulatory Commission regulations govern the granting of licenses
+for the construction and operation of nuclear power plants and subject those power plants to continuing
+review and regulation.
+
+The construction, planning, and siting of SCE's power plants within California are subject to the
+jurisdiction of the California Energy Commission and the CPUC. SCE is subject to the rules and regulations of
+the California Air Resources Board, State of Nevada, and local air pollution control districts with respect
+to the emission of pollutants into the atmosphere; the regulatory requirements of the California State Water
+Resources Control Board and regional boards with respect to the discharge of pollutants into waters of the
+state; and the requirements of the California Department of Toxic Substances Control with respect to handling
+and disposal of hazardous materials and wastes. SCE is also subject to regulation by the United States
+Environmental Protection Agency (US EPA), which administers federal statutes relating to environmental
+matters. Other federal, state, and local laws and regulations relating to environmental protection, land use,
+and water rights also affect SCE.
+
+The California Coastal Commission issued a coastal permit for the construction of the San Onofre Nuclear
+Generating Station (San Onofre) Units 2 and 3 in 1974. This permit, as amended, requires
+
+
+Page 4
+
+mitigation for impacts to fish and the San Onofre kelp bed. California Coastal Commission jurisdiction will
+continue for several years due to ongoing implementation and oversight of these permit mitigation conditions,
+consisting of restoration of wetlands and construction of an artificial reef for kelp. SCE has a coastal
+permit from the California Coastal Commission to construct a temporary dry cask spent fuel storage
+installation for San Onofre Units 2 and 3. The California Coastal Commission also has continuing jurisdiction
+over coastal permits issued for the decommissioning of San Onofre Unit 1, including for the construction of a
+temporary dry cask spent fuel storage installation for spent fuel from that unit.
+
+The United States Department of Energy has regulatory authority over certain aspects of SCE's operations and
+business relating to energy conservation, power plant fuel use and disposal, electric sales for export,
+public utility regulatory policy, and natural gas pricing.
+
+SCE is subject to CPUC affiliate transaction rules and compliance plans governing the relationship between
+SCE and its affiliates. See "Business of Edison International--Regulation of Edison International" above for
+further discussion of these rules.
+
+Competition of SCE
+
+Because SCE is an electric utility company operating within a defined service territory pursuant to authority
+from the CPUC, SCE faces competition only to the extent that federal and California laws permit other
+entities to provide electricity and related services to customers within SCE's service territory. California
+law currently provides only limited opportunities for customers to choose to purchase power directly from an
+energy service provider other than SCE. SCE also faces some competition from cities that create municipal
+utilities or community choice aggregators. In addition, customers may install their own on-site power
+generation facilities. Competition with SCE is conducted mainly on the basis of price as customers seek the
+lowest cost power available. The effect of competition on SCE generally is to reduce the size of SCE's
+customer base, thereby creating upward pressure on SCE's rate structure to cover fixed costs, which in turn
+may cause more customers to leave SCE in order to obtain lower rates.
+
+Properties of SCE
+
+SCE supplies electricity to its customers through extensive transmission and distribution networks. Its
+transmission facilities, which deliver power from generating sources to the distribution network, consist of
+approximately 7,200 circuit miles of 33 kilovolt (kV), 55 kV, 66 kV, 115 kV, and 161 kV lines and 3,500
+circuit miles of 220 kV lines (all located in California), 1,238 circuit miles of 500 kV lines (1040 miles in
+California, 86 miles in Nevada, and 112 miles in Arizona), and 851 substations. SCE's distribution system,
+which takes power from substations to the customer, includes approximately 60,300 circuit miles of overhead
+lines, 37,900 circuit miles of underground lines, 1.5 million poles, 569 distribution substations, 695,000
+transformers, and 777,000 area and streetlights, all of which are located in California.
+
+SCE owns and operates the following generating facilities:  (1) an undivided 75.05% interest (1,614 megawatts
+(MW)) in San Onofre Units 2 and 3, which are large pressurized water nuclear units located on the California
+coastline between Los Angeles and San Diego; (2) 36 hydroelectric plants (1,153 MW) located in California's
+Sierra Nevada, San Bernardino and San Gabriel mountain ranges, three of which (2.7 MW) are no longer
+operational and will be decommissioned; and (3) a diesel-fueled generating plant (9 MW) located on Santa
+Catalina island off the southern California coast.
+
+
+Page 5
+
+SCE also owns and operates an undivided 56% interest (885 MW net) in the Mohave Generating Station (Mohave),
+which consists of two coal-fueled generating units located in Clark County, Nevada near the California
+border. The plant ceased operating on December 31, 2005. At this time, there is no definite return to service
+date. Additional information regarding Mohave appears in the MD&A under the heading "SCE:  Regulatory
+Matters--Mohave Generating Station and Related Proceedings."
+
+In addition, SCE acquired in 2004 Mountainview Power Company LLC, which consisted of a natural gas-fueled two
+unit power plant in the early stages of construction in Redlands, California. The first unit commenced
+commercial operations in December 2005, and the second unit commenced commercial operations in January 2006.
+The Mountainview plant has a generating capacity of 1,054 MW.
+
+SCE also owns an undivided 15.8% interest (601 MW) in Palo Verde Nuclear Generating Station (Palo Verde),
+which is located near Phoenix, Arizona, and an undivided 48% interest (710 MW) in Units 4 and 5 at Four
+Corners Generating Station (Four Corners), which is a coal-fueled generating plant located near the City of
+Farmington, New Mexico. The Palo Verde and Four Corners plants are operated by Arizona Public Service Company.
+
+At year-end 2005, the SCE-owned generating capacity (summer effective rating) was divided approximately as
+follows:  43% nuclear, 23% hydroelectric, 20% natural gas, 14% coal, and less than 1% diesel. The capacity
+factors in 2005 for SCE's nuclear and coal-fired generating units were:  98% for San Onofre; 76% for Mohave;
+85% for Four Corners; and 77% for Palo Verde. For SCE's hydroelectric plants, generating capacity is
+dependent on the amount of available water. SCE's hydroelectric plants operated at a 49% capacity factor in
+2005. These plants were operationally available for 91% of the year.
+
+The San Onofre units, Four Corners station, certain of SCE's substations, and portions of its transmission,
+distribution and communication systems are located on lands of the United States or others under (with minor
+exceptions) licenses, permits, easements or leases, or on public streets or highways pursuant to franchises.
+Certain of such documents obligate SCE, under specified circumstances and at its expense, to relocate
+transmission, distribution, and communication facilities located on lands owned or controlled by federal,
+state, or local governments.
+
+Thirty-one of SCE's 36 hydroelectric plants (some with related reservoirs) are located in whole or in part on
+United States lands pursuant to 30- to 50-year FERC licenses that expire at various times between 2006 and
+2039 (the remaining five plants are located entirely on private property and are not subject to FERC
+jurisdiction). Such licenses impose numerous restrictions and obligations on SCE, including the right of the
+United States to acquire projects upon payment of specified compensation. When existing licenses expire, the
+FERC has the authority to issue new licenses to third parties that have filed competing license applications,
+but only if their license application is superior to SCE's and then only upon payment of specified
+compensation to SCE. New licenses issued to SCE are expected to contain more restrictions and obligations
+than the expired licenses because laws enacted since the existing licenses were issued require the FERC to
+give environmental purposes greater consideration in the licensing process. SCE's applications for the
+relicensing of certain hydroelectric projects with an aggregate dependable operating capacity of
+approximately 209 MW are pending. Annual licenses have been issued to SCE hydroelectric projects that are
+undergoing relicensing and whose long-term licenses have expired. Federal Power Act Section 15 requires that
+the annual licenses be renewed until the long-term licenses are issued or denied.
+
+Substantially all of SCE's properties are subject to the lien of a trust indenture securing first and
+refunding mortgage bonds, of which approximately $5.4 billion in principal amount was outstanding on December
+31, 2005 (including the first mortgage bonds issued to secure a $1.7 billion revolving credit
+
+
+Page 5
+
+facility). Such lien and SCE's title to its properties are subject to the terms of franchises, licenses,
+easements, leases, permits, contracts, and other instruments under which properties are held or operated,
+certain statutes and governmental regulations, liens for taxes and assessments, and liens of the trustees
+under the trust indenture. In addition, such lien and SCE's title to its properties are subject to certain
+other liens, prior rights and other encumbrances, none of which, with minor or insubstantial exceptions,
+affect SCE's right to use such properties in its business, unless the matters with respect to SCE's interest
+in the Four Corners plant and the related easement and lease referred to below may be so considered.
+
+SCE's rights in the Four Corners station, which is located on land of the Navajo Nation of Indians under an
+easement from the United States and a lease from the Navajo Nation, may be subject to possible defects. These
+defects include possible conflicting grants or encumbrances not ascertainable because of the absence of, or
+inadequacies in, the applicable recording law and the record systems of the Bureau of Indian Affairs and the
+Navajo Nation, the possible inability of SCE to resort to legal process to enforce its rights against
+the Navajo Nation without Congressional consent, the possible impairment or termination under certain
+circumstances of the easement and lease by the Navajo Nation, Congress, or the Secretary of the Interior, and
+the possible invalidity of the trust indenture lien against SCE's interest in the easement, lease, and
+improvements on the Four Corners station.
+
+Nuclear Power Matters of SCE
+
+Information about operating issues related to San Onofre appears in the MD&A under the heading "SCE:
+Regulatory Matters--Current Regulatory Developments--San Onofre Nuclear Generating Station Steam Generators."
+Information about Palo Verde steam generator replacements appears in the MD&A under the heading "SCE:
+Regulatory Matters--Current Regulatory Developments--Palo Verde Generating Station Steam Generators."
+Information about nuclear decommissioning can be found in Note 8 of Notes to Financial Statements.
+Information about nuclear insurance can be found in Note 9 of Notes to Financial Statements.
+
+SCE Purchased Power and Fuel Supply
+
+SCE obtains the power needed to serve its customers from its generating facilities and from purchases from
+qualifying facilities, independent power producers, the California Independent System Operator, and other
+utilities. In addition, power is provided to SCE's customers through purchases by the California Department
+of Water Resources (CDWR) under contracts with third parties. Sources of power to serve SCE's customers
+during 2005 were as follows:  33% purchased power; 23.5% CDWR; and 43.5% SCE-owned generation consisting of
+14.3% nuclear, 22.7% coal, and 6.5% hydro. Additional information about SCE's power procurement activities
+appears in the MD&A under the heading "SCE:  Regulatory Matters."
+
+Natural Gas Supply
+
+SCE's natural gas requirements in 2005 were for start-up use at Mohave, to meet contractual obligations for
+power tolling agreements (power contracts in which SCE has agreed to provide the natural gas needed for
+generation under those power contracts) and to serve demand for gas at SCE's new Mountainview gas-fired
+generation facility, which commenced operations in December 2005. All of the physical gas purchased by SCE in
+2005 was purchased under North American Energy Standards Board agreements (master gas agreements) that define
+the terms and conditions of transactions with a particular supplier prior to any financial commitment.
+
+SCE contracted for firm access rights onto the Southern California Gas Company system at Wheeler Ridge for
+198,863 million British thermal units (MMBtu) per day in a 13-year contract entered into in
+
+
+Page 7
+
+August 1993, effective November 1, 1993. SCE has the unilateral right to renew this contract for an
+equivalent term upon the expiration of its initial term. SCE has not yet made a determination as to whether
+this contract will be extended. SCE also has firm transportation rights of 18,000 MMBtu per day on Southwest
+Gas Corp's pipeline to serve Mohave.
+
+In 2005, SCE secured a one-year natural gas storage capacity contract with Southern California Gas Company
+for the 2005/2006 storage season. Storage capacity was secured to provide operation flexibility and to
+mitigate potential costs associated with the dispatch of SCE's tolling agreements. SCE has been in
+negotiations with Southern California Gas Company for additional storage but has not yet entered into a
+similar arrangement.
+
+Nuclear Fuel Supply
+
+For San Onofre Units 2 and 3, contractual arrangements are in place covering 100% of the projected nuclear
+fuel requirements through the years indicated below:
+
+     Uranium concentrates...............................................   2008
+         Conversion.....................................................   2008
+         Enrichment.....................................................   2008
+         Fabrication....................................................   2015
+
+For Palo Verde, contractual arrangements are in place covering 100% of the projected nuclear fuel
+requirements through the years indicated below:
+
+     Uranium concentrates...............................................   2008
+         Conversion.....................................................   2008
+         Enrichment.....................................................   2010
+         Fabrication....................................................   2015
+
+Spent Nuclear Fuel
+
+Information about Spent Nuclear Fuel appears in Note 9 of Notes to Financial Statements.
+
+Coal Supply
+
+SCE has purchased coal pursuant to long-term contracts to provide stable and reliable fuel supplies to its
+two coal-fired generating stations, the Four Corners and Mohave plants. SCE entered into a coal contract,
+dated September 1, 1966, with the Utah Construction & Mining Company, the predecessor to the current owner of
+the Navajo mine, the BHP Navajo Coal Company, to supply coal to Four Corners Units 4 and 5. The initial term
+of this coal supply contract for the Four Corners plant was through 2004 and included extension options for
+up to 15 additional years. On January 1, 2005 SCE and the other Four Corners participants entered into a
+Restated and Amended Four Corners Fuel Agreement under which coal will be supplied until July 6, 2016. The
+Restated and Amended Agreement contains an option to extend for not less than five additional years or more
+than 15 years. The coal supply contract for the Mohave plant expired on December 31, 2005, and the plant has
+ceased operating while coal and water issues are resolved. There is no definite return to service date.
+Additional information about the litigation affecting the coal supply contract for the Mohave plant appears
+in the MD&A under the heading "SCE:  Other Developments--Navajo Nation Litigation."
+
+
+Page 8
+
+
+Discontinued Operations of SCE
+
+Information about SCE's discontinued operations appears in Note 11 of Notes to Financial Statements.
+
+Seasonality of SCE
+
+Due to warmer weather during the summer months, electric utility revenue during the third quarter of each
+year is generally significantly higher than other quarters.
+
+Environmental Matters Affecting SCE
+
+SCE is subject to environmental regulation by federal, state and local authorities in the jurisdictions in
+which it operates in the United States.  This regulation, including the areas of air and water pollution,
+waste management, hazardous chemical use, noise abatement, land use, aesthetics, and nuclear control,
+continues to result in the imposition of numerous restrictions on SCE's operation of existing facilities, on
+the timing, cost, location, design, construction, and operation by SCE of new facilities, and on the cost of
+mitigating the effect of past operations on the environment.
+
+SCE believes that it is in substantial compliance with environmental regulatory requirements and that
+maintaining compliance with current requirements will not materially affect its financial position or results
+of operations. However, possible future developments, such as the promulgation of more stringent
+environmental laws and regulations, future proceedings that may be initiated by environmental authorities,
+and settlements agreed to by other companies could affect the costs and the manner in which SCE conducts its
+business and could cause it to make substantial additional capital or operational expenditures. There is no
+assurance that SCE would be able to recover these increased costs from its customers or that SCE's financial
+position and results of operations would not be materially adversely affected. SCE is unable to predict the
+extent to which additional regulations may affect its operations and capital expenditure requirements.
+
+Typically, environmental laws and regulations require a lengthy and complex process for obtaining licenses,
+permits and approvals prior to construction, operation or modification of a project. Meeting all the
+necessary requirements can delay or sometimes prevent the completion of a proposed project as well as require
+extensive modifications to existing projects, which may involve significant capital or operational
+expenditures. Furthermore, if SCE fails to comply with applicable environmental laws, it may be subject to
+injunctive relief, penalties and fines imposed by regulatory authorities.
+
+The laws and regulations discussed below primarily impact SCE's coal-fired, gas-fired and nuclear generation
+facilities. The air quality and climate change discussions primarily impact the coal-fired Mohave and Four
+Corners plants. Developments in the air quality and climate change areas may also have an impact on SCE's
+gas-fired Mountainview plant. However, the Mountainview plant was constructed with current pollution control
+technology so the impact of new regulations would likely have less of an impact on Mountainview than Mohave
+and Four Corners. The Mountainview plant is SCE's only gas-fired generation facility. The water quality
+discussion primarily impacts San Onofre.
+
+Air Quality
+
+SCE's facilities are subject to various air quality regulations, including the Federal Clean Air Act and
+similar state and local statutes.
+
+
+
+Page 9
+
+Mohave Shutdown
+
+In 1998, several environmental groups filed suit against the co-owners of the Mohave plant regarding alleged
+violations of emissions limits. In order to resolve the lawsuit and accelerate resolution of key
+environmental issues regarding the plant, the parties entered into a consent decree, which was approved by
+the Nevada federal district court in December 1999. The consent decree required the installation of certain
+air pollution control equipment prior to December 31, 2005 if the plant was to operate beyond that date. In
+addition, operation beyond 2005 required that agreements be reached with the Navajo Nation and the Hopi Tribe
+(Tribes) regarding post-2005 water and coal supply needs.
+
+SCE's share of the costs of complying with the consent decree and taking other actions to allow operation of
+the Mohave plant beyond 2005 is estimated to be approximately $605 million. Agreement with the Tribes on
+water and coal supplies for Mohave was not reached by December 31, 2005, and it is not currently known
+whether such an agreement will be reached. No agreement was reached to amend the terms of the federal court
+consent decree. As a result, Mohave ceased operation on December 31, 2005. For the Mohave plant to restart
+operation, it will be necessary for agreements to be reached with the Tribes on the water and coal supply
+issues, and for the terms of the consent decree to be met or modified.
+
+Until there is a final resolution as to whether the Mohave plant will begin operating again, and what
+regulations will be in effect at that time, SCE cannot evaluate the potential impact of the air quality
+regulations discussed below on the operations of its facilities. Additional capital costs related to those
+regulations could be required in the future and they could be material, depending upon the final standards
+adopted.
+
+Regional Haze
+
+In the event that the Mohave plant does restart operations, its operations may be subject to the US EPA's
+final rulemaking on regional haze, issued on June 15, 2005. Under the rule, by December 17, 2007, each state
+must file with the US EPA as part of its State Implementation Plan (SIP) plans for regional haze improvement.
+It is not known whether Nevada's regional haze SIP for Mohave will impose any additional emissions control
+requirements on the Mohave plant beyond meeting the provisions of the 1999 consent decree.
+
+Mercury
+
+In the event of a Mohave restart, its operations may be subject to the US EPA's Clean Air Mercury Rule
+(CAMR), which was issued on March 15, 2005. CAMR creates a market-based cap-and-trade program to reduce
+mercury emissions from existing coal-fired power plants down to a national cap of 38 tons by 2010 and to 15
+tons by 2018. States may join the trading program by adopting the CAMR model trading rules in state
+regulations, or they may adopt regulations that mirror the necessary components of the model trading rule.
+States are not required to adopt a cap-and-trade program and may promulgate alternative regulations, such as
+command and control regulations, that are equivalent to or more stringent than the CAMR's suggested
+cap-and-trade program. The CAMR allocates mercury emission credits to each plant, including Mohave, based on
+a model rule that states, including Nevada, may adopt.
+
+Contemporaneous with the adoption of the CAMR, the US EPA rescinded its previous finding that mercury
+emissions from coal-fired power plants had to be regulated as a hazardous air pollutant pursuant to Section
+112 of the federal Clean Air Act, which would have imposed technology-based standards. Litigation has been
+filed challenging the rescission action, alleging that the US EPA erred in adopting a market-based program
+rather than technology-based emissions limitations. Litigation has also been filed
+
+
+Page 10
+
+to challenge the CAMR. Depending on the results of these challenges, the CAMR rules and timetables may
+change.
+
+If Nevada adopts the US EPA's model allocations rule, SCE expects that Mohave would have sufficient mercury
+credits to meet operational needs until 2018, at which time estimated mercury credit allocations are
+approximately 50% lower than required for operations. States are required to adopt a mercury reduction method
+and submit their mercury SIP to the US EPA by November 2006. While Nevada has begun its scoping meetings for
+this rulemaking, it is not yet known what approach Nevada will take on its mercury regulation.
+
+For SCE, these regulations will primarily impact its possible future operation of the Mohave plant.
+Additional information regarding the shutdown of Mohave appears in the MD&A under the heading "SCE:
+Regulatory Matters--Current Regulatory Developments--Mohave Generating Station and Related Proceedings."
+
+National Ambient Air Quality Standards
+
+The ambient air quality standards for ozone and fine particulate matter adopted by the US EPA in July 1997
+are another regulatory standard to which Mohave may be subject if it resumes operations. The US EPA
+designated non-attainment areas for the 8-hour ozone standard on April 30, 2004, and for the fine particulate
+standard on January 5, 2005. States are required to revise their implementation plans for the ozone and
+particulate matter standards within three years of the effective date of the respective non-attainment
+designations - by June 2007 for the 8-hour ozone SIP, and by April 2008 for the fine particulate SIP.
+
+Clark County, Nevada, where the Mohave plant is located, has been designated a nonattainment area for the new
+8-hour ozone national ambient air quality standard. Clark County is currently in the process of developing
+its SIP to demonstrate attainment of the 8-hour ozone standard. Depending on the control measures adopted for
+Clark County's 8-hour ozone SIP, Mohave may be required to reduce nitrogen oxide (NOx) emissions (NOx
+emissions are a precursor to ambient levels of ozone) below the levels resulting from the low NOx burner
+control technology required under the 1999 Mohave consent decree. Until information is available regarding
+Clark County's SIP, SCE cannot fully evaluate the potential impact on Mohave if it resumes operations.
+Additional capital costs related to those regulations could be required in the future and they could be
+material, depending upon the final standards adopted.
+
+Clean Air Act Interstate Rule
+
+At this time, the US EPA's Clean Air Act Interstate Rule (CAIR), does not have an impact on SCE's facilities.
+CAIR, issued by the US EPA on March 10, 2005, applies to 28 eastern states and the District of Columbia, and
+is intended to address ozone attainment issues by reducing regional sulfur dioxide and NOx emissions. The
+CAIR has been challenged in court by state, environmental, and industry groups, which may result in changes
+to the substance of the rule and to the timetables for implementation. While the US EPA has not adopted a
+rule comparable to CAIR for the western United States, where SCE has facilities, SCE cannot predict what
+action the US EPA will take in the future with regard to the western United States, and what impact those
+actions would have on its facilities.
+
+New Source Review Requirements
+
+Since 1999, the US EPA has pursued a coordinated compliance and enforcement strategy to address Clean Air Act
+New Source Review (NSR) compliance issues at the nation's coal-fired power plants. The
+
+
+Page 11
+
+NSR regulations impose certain requirements on facilities, such as electric generating stations, in the event
+that modifications are made to air emissions sources at the facility. The US EPA's strategy included both the
+filing of a number of suits against power plant owners, and issuance of a number of administrative notices of
+violation to power plant owners alleging NSR violations. SCE and its subsidiaries have not been named as a
+defendant in these lawsuits and have not received any administrative notices of violation alleging NSR
+violations at any facilities.
+
+In October 2005, the US EPA announced a revised NSR strategy to take account of recent US EPA rulemakings,
+such as the CAIR and regional haze rules, affecting coal-fired power plants. Under the revised strategy,
+while the US EPA will continue to pursue filed cases and cases in active negotiation, it intends to shift its
+future enforcement focus from coal-fired power plants to other sectors where compliance assurance activities
+have the potential to produce significant environmental benefits.
+
+Developments will continue to be monitored by SCE, to assess what implications, if any, they will have on the
+operation of power plants owned or operated by SCE, or on SCE's results of operations or financial position.
+
+Climate Change
+
+The Kyoto Protocol on climate change officially came into effect on February 16, 2005. Under the Kyoto
+Protocol, the United States would have been required, by 2008-2012, to reduce its greenhouse gas emissions,
+such as carbon dioxide, by 7% from 1990 levels. Under the Bush administration, however, the United States has
+chosen not to pursue ratification of the Kyoto Protocol. Instead, the Bush administration has proposed
+several alternatives to mandatory reductions of greenhouse gases.
+
+There have been several petitions from states and other parties to compel the US EPA to regulate greenhouse
+gases under the Clean Air Act. Also, in 2004 several states and environmental organizations brought a
+complaint in federal court in New York, alleging that several electric utility corporations are jointly and
+severally liable under a theory of public nuisance for damages caused by their alleged contribution to global
+warming resulting from carbon dioxide emissions from coal-fired power plants owned and operated by these
+companies or their subsidiaries. SCE was not named as a defendant in the complaint. The case was dismissed
+and is currently on appeal with the United States Court of Appeals for the Second Circuit.
+
+In California, Governor Schwarzenegger issued an executive order on June 1, 2005 setting forth targets for
+greenhouse gas reductions. The targets call for a reduction of greenhouse gas emissions to 2000 levels by
+2010; a reduction of greenhouse gas emissions to 1990 levels by 2020; and a reduction of greenhouse gas
+emissions to 80% below 1990 levels by 2050.
+
+The CPUC is addressing climate change related issues in various regulatory proceedings. In a decision
+pertaining to SCE's 2004 long-term procurement plan the CPUC is requiring a "carbon adder" of $8-$25/ton of
+carbon dioxide to be used in the evaluation of fossil fuel generation bids for contracts of five years or
+longer. On October 6, 2005, the CPUC adopted a resolution directing the CPUC staff and general counsel to
+investigate adoption by the CPUC of a greenhouse gas emissions performance standard for investor-owned
+utilities procurement. On February 16, 2006, the CPUC issued a decision in the Procurement Incentive
+Framework proceeding, in which the CPUC states its intent to develop a load-based greenhouse gas emissions
+cap for SCE, and other load serving entities the CPUC asserts to be within its jurisdiction.
+
+
+Page 12
+
+SCE will continue to monitor the federal and state developments relating to greenhouse gas emissions to
+determine their impacts on SCE's operations. Any legal obligation that would require SCE to reduce
+substantially its emissions of carbon dioxide could require extensive mitigation efforts at its Mohave plant
+if it resumes operations, and could raise considerable uncertainty about the future viability of fossil
+fuels, particularly coal, as an energy source for new and existing electric generating facilities. New
+regulations could also increase the cost of purchased power, which is generally borne by SCE's customers.
+Additional information regarding purchased power costs appears in the MD&A under the heading "SCE: Regulatory
+Matters."
+
+Hazardous Substances and Hazardous Waste Laws
+
+Under various federal, state and local environmental laws and regulations, a current or previous owner or
+operator of any facility, including an electric generating facility, may be required to investigate and
+remediate releases or threatened releases of hazardous or toxic substances or petroleum products located at
+that facility, and may be held liable to a governmental entity or to third parties for property damage,
+personal injury, natural resource damages, and investigation and remediation costs incurred by these parties
+in connection with these releases or threatened releases. Many of these laws, including the Comprehensive
+Environmental Response, Compensation and Liability Act of 1980 (CERCLA), and the Resource Conservation and
+Recovery Act (RCRA), impose liability without regard to whether the owner knew of or caused the presence of
+the hazardous substances, and courts have interpreted liability under these laws to be strict and joint and
+several.
+
+In addition, the federal Toxic Substances Control Act (TSCA) and accompanying regulations govern the
+manufacturing, processing, distribution in commerce, use, and disposal of listed compounds, including
+polychlorinated biphenyls (PCBs), a toxic substance. Federal, state, and local laws, regulations and
+ordinances also govern the removal, encapsulation or disturbance of asbestos-containing materials when these
+materials are in poor condition or in the event of construction, remodeling, renovation or demolition of a
+building and other structures containing asbestos.
+
+In connection with the ownership and operation of its facilities, SCE may be liable for costs associated with
+hazardous waste compliance and remediation required by the laws and regulations identified herein. The CPUC
+allows SCE to recover in retail rates paid by its customers partial environmental remediation costs at
+certain sites through an incentive mechanism. Additional information about these laws and regulations appears
+in Note 9 of Notes to Financial Statements and in the MD&A under the heading "Other
+Developments--Environmental Matters."
+
+Water Quality
+
+Regulations under the federal Clean Water Act require permits for the discharge of pollutants into United
+States waters and permits for the discharge of storm water flows from certain facilities. The Clean Water Act
+also regulates the thermal component (heat) of effluent discharges and the location, design, and construction
+of cooling water intake structures at generating facilities. California has a US EPA approved program to
+issue individual or group (general) permits for the regulation of Clean Water Act discharges. California also
+regulates certain discharges not regulated by the US EPA. SCE incurs additional expenses and capital
+expenditures in order to comply with guidelines and standards applicable to certain of its facilities.
+
+
+Page 13
+
+Cooling Water Intake Structures
+
+On July 9, 2004, the US EPA published the final Phase II regulations implementing Section 316(b) of the Clean
+Water Act. The rulemaking establishes standards for cooling water intake structures at existing electrical
+generating stations that withdraw more than 50 million gallons of water per day and use more than 25% of that
+water for cooling purposes. The purpose of the regulations is to substantially reduce the number of aquatic
+organisms that are impinged against cooling water intake structures or drawn into cooling water systems.
+
+While SCE believes that this rule, as drafted, would not have a material impact on SCE's operations at San
+Onofre, certain aspects of the rule that are being contested in the courts, such as the right to offset
+impacts through restoration, are important to SCE's expectation that compliance with the new rules will not
+require any physical or operational modifications at San Onofre. Until the challenges to the rulemaking have
+concluded, SCE cannot determine the full financial impact of this rule.
+
+Electric and Magnetic Fields
+
+Electric and magnetic fields naturally result from the generation, transmission, distribution and use of
+electricity. Since the 1970s, concerns have been raised about the potential health effects of electric and
+magnetic fields (EMF). After 30 years of research, a health hazard has not been established to exist.
+Potentially important public health questions remain about whether there is a link between EMF exposures in
+homes or work and some diseases, and because of these questions, some health authorities have identified EMF
+exposures as a possible human carcinogen.
+
+In October 2002, the California Department of Health Services released to the CPUC and the public its report
+evaluating the possible risks from EMF. The conclusions in the report of the California Department of Health
+Services contrast with other recent reports by authoritative health agencies in that the California
+Department of Health Services has assigned a substantially higher probability to the possibility that there
+is a causal connection between EMF exposures and a number of diseases and conditions, including childhood
+leukemia, adult leukemia, amyotrophic lateral sclerosis, and miscarriages.
+
+On August 19, 2004, the CPUC issued an order instituting rulemaking to update the CPUC's policies and
+procedures related to EMF emanating from regulated utility facilities. Following submission of comments and
+information by all interested parties to the CPUC in 2004 and 2005, the administrative law judge issued a
+draft decision in December 2005, and the CPUC issued its final decision on January 26, 2006. The decision
+concluded that a direct link between exposure to EMF and human health effects has yet to be proven, and
+affirms the CPUC's existing "low-cost/no-cost" EMF policies to mitigate EMF exposure for new utility
+transmission and substation projects.
+
+                                  BUSINESS OF MISSION ENERGY HOLDING COMPANY
+
+MEHC was formed as a wholly owned subsidiary of Edison Mission Group Inc., which is a wholly owned subsidiary
+of Edison International. MEHC was formed to hold the common stock of EME. On July 2, 2001, Edison Mission
+Group contributed to MEHC all the outstanding common stock of EME. The contribution of EME's common stock to
+MEHC has been accounted for as a transfer of ownership of companies under common control. MEHC's only
+substantive liabilities are its obligations under the senior secured notes and corporate overhead, including
+fees of its legal counsel, auditors and other advisors. MEHC does not have any substantive operations other
+than through EME and its subsidiaries and other investments.
+
+
+Page 14
+
+
+Business of Edison Mission Energy
+
+Since the second quarter of 2004, MEHC (parent) and EME are presented as one business segment on a
+consolidated basis.
+
+EME is an independent power producer engaged in the business of developing, acquiring, owning or leasing,
+operating and selling energy and capacity from independent power production facilities. EME also conducts
+price risk management and energy trading activities in power markets open to competition. EME is a wholly
+owned subsidiary of MEHC. Edison International is EME's ultimate parent company.
+
+EME was formed in 1986 with two domestic operating power plants. As of December 31, 2005, EME's continuing
+operations consisted of owned or leased interests in 19 domestic operating power plants with an aggregate net
+physical capacity of 10,034 MW, of which EME's capacity pro rata share was 8,954 MW.
+
+EME Restructuring Activities
+
+During 2004 and early 2005, EME sold assets totaling 6,452 MW, which constituted most of its international
+assets. These international assets, except for the Doga project, which has not been sold, are accounted for
+as discontinued operations in accordance with Statement of Financial Accounting Standards No. 144,
+"Accounting for the Impairment or Disposal of Long-Lived Assets," and, accordingly, all prior periods have
+been restated to reclassify the results of operations and assets and liabilities as discontinued operations.
+The sale of the international operations included:
+
+o   On September 30, 2004, EME sold its 51.2% interest in Contact Energy Limited to Origin Energy New
+    Zealand Limited.
+
+o   On December 16, 2004, EME sold the stock and related assets of MEC International B.V. to a consortium
+    comprised of International Power plc (70%) and Mitsui & Co., Ltd. (30%), which is referred to as IPM in
+    this report. The sale of MEC International included the sale of EME's ownership interests in ten electric
+    power generating projects or companies located in Europe, Asia, Australia, and Puerto Rico.
+
+o   On January 10, 2005, EME sold its 50% equity interest in the Caliraya-Botocan-Kalayaan (CBK)
+    hydroelectric power project located in the Philippines to CBK Projects B.V.
+
+o   On February 3, 2005, EME sold its 25% equity interest in the Tri Energy project to IPM.
+
+Further information on EME's assets sales appears in the MD&A under the headings "Discontinued Operations"
+and "Acquisitions and Dispositions."
+
+Important information about MEHC's liquidity and related issues appears in the MD&A under the heading "MEHC:
+Liquidity."
+
+EME implemented management and organizational changes in 2005 to streamline its reporting relationships and
+eliminate its regional management structure. In addition, EME and its affiliate, Edison Capital, have
+combined their management teams located in Irvine, California and combined their wind development efforts. In
+this regard, EME and Edison Capital have entered into a services agreement effective December 26, 2005. Under
+this services agreement, all existing employees of Edison Capital on the effective date of the agreement were
+transferred to EME, and thereafter EME provides accounting,
+
+
+Page 15
+
+legal, tax, management and administrative services to Edison Capital and its subsidiaries continue to operate
+as independent legal entities separate and apart from EME, and EME has not assumed any obligation for the
+performance of any of Edison Capital's obligations to any party, whether with respect to its investment
+portfolio or with respect to any of the creditors of Edison Capital or its subsidiaries.
+
+Competition and Market Conditions of EME
+
+The United States electric industry, including companies engaged in providing generation, transmission,
+distribution and ancillary services, has undergone significant deregulation, which has led to increased
+competition. Until the enactment of PURPA, utilities and government-owned power agencies were the only
+producers of bulk electric power intended for sale to third parties in the United States. PURPA encouraged
+the development of independent power by removing regulatory constraints relating to the production and sale
+of electric energy by certain non-utilities and requiring electric utilities to buy electricity from
+specified types of non-utility power producers, known as qualifying facilities, under specified conditions.
+The passage of the Energy Policy Act of 1992 further encouraged the development of independent power by
+significantly expanding the options available to independent power producers with respect to their regulatory
+status and by liberalizing transmission access. In addition, in EPAct 2005, Congress made several changes to
+PURPA and other statutory provisions recognizing that a significant market for electric power produced by
+independent power producers, such as EME, has developed in the United States, and indicating that competitive
+wholesale electricity markets have become accepted as a fundamental aspect of the electricity industry.
+
+As part of the regulatory developments discussed above, the FERC encouraged the formation of independent
+system operators (ISOs) and regional transmission organizations (RTOs). In those areas where ISOs and RTOs
+have been formed, market participants have expanded access to transmission service. ISOs and RTOs may also
+operate real-time and day-ahead energy and ancillary service markets, which are governed by FERC-approved
+tariffs and market rules. The development of such organized markets into which independent power producers
+are able to sell has reduced their dependence on bilateral contracts with electric utilities. See further
+discussion of regulations under "--Regulation of EME--United States Federal Energy Regulation."
+
+EME's largest power plants are its fossil fuel power plants located in Illinois, which are collectively
+referred to as the Illinois Plants in this report, and the Homer City electric generating station located in
+Pennsylvania, which is referred to as the Homer City facilities in this report.  The Illinois Plants and the
+Homer City facilities sell power into PJM Interconnection, LLC, commonly referred to as PJM. PJM operates a
+wholesale spot energy market and determines the market-clearing price for each hour based on bids submitted
+by participating generators which indicate the minimum prices a bidder is willing to accept to be dispatched
+at various incremental generation levels. PJM conducts both day-ahead and real-time energy markets. PJM's
+energy markets are based on locational marginal pricing, which establishes hourly prices at specific
+locations throughout PJM. Locational marginal pricing is determined by considering a number of factors,
+including generator bids, load requirements, transmission congestion and transmission losses. PJM requires
+all load serving entities to maintain prescribed levels of capacity, including a reserve margin, to ensure
+system reliability. PJM also determines the amount of capacity available from each specific generator and
+operates capacity markets. PJM's capacity markets have a single market-clearing price. Load serving entities
+and generators, such as EME's subsidiaries Midwest Generation, LLC (Midwest Generation), with respect to the
+Homer City facilities, and EME Homer City Generation L.P. (EME Homer City), with respect to the Illinois
+Plants, may participate in PJM's capacity markets or transact capacity sales on a bilateral basis.
+
+
+Page 16
+
+The Homer City facilities have direct, high voltage interconnections to both PJM and the New York Independent
+System Operator, which controls the transmission grid and energy and capacity markets for New York State and
+is commonly referred to as the NYISO. As in PJM, the market-clearing price for NYISO's day-ahead and
+real-time energy markets is set by supplier generation bids and customer demand bids.
+
+The Illinois Plants also sell power into PJM. On April 1, 2005, the Midwest Independent Transmission System
+Operator (MISO) commenced operation, linking portions of Illinois, Wisconsin, Indiana, Michigan, and Ohio, as
+well as other states in the region, in the MISO, where there is a bilateral market and day-ahead and
+real-time markets based on locational marginal pricing similar to that of PJM. While EME does not own
+generating facilities within MISO, its opening has further facilitated transparency of prices and provided
+additional market liquidity to support risk management and trading strategies.
+
+For a discussion of the risks related to the sale of electricity from these generating facilities, see
+"MEHC:  Market Risk Exposures" in the MD&A.
+
+EME is subject to intense competition from energy marketers, utilities, industrial companies and other
+independent power producers. For a number of years until the recent upturn in its price, natural gas has been
+the fuel of choice for new power generation facilities for economic, operational and environmental reasons.
+While natural gas-fired facilities will continue to be an important part of the nation's generation
+portfolio, some regulated utilities are now constructing clean coal units and units powered by renewable
+resources, often with subsidies or under legislative mandate. These utilities generally have a lower cost of
+capital than most independent power producers and often are able to recover fixed costs through rate base
+mechanisms, allowing them to build, buy and upgrade generation without relying exclusively on market clearing
+prices to recover their investments.
+
+Where EME sells power from plants from which the output is not committed to be sold under long-term
+contracts, commonly referred to as merchant plants, EME is subject to market fluctuations in prices based on
+a number of factors, including the amount of capacity available to meet demand, the price and availability of
+fuel and the presence of transmission constraints. Some of EME's competitors, such as electric utilities and
+distribution companies have their own generation capacity, including nuclear generation. These companies,
+generally larger than EME, have a lower cost of capital and may have competitive advantages as a result of
+their scale and location of their generation facilities.
+
+
+Page 17
+
+
+Power Plants of EME
+
+EME's power plants are located within the United States, except for the Doga project in Turkey. As of
+December 31, 2005, EME's operations consisted of ownership or leasehold interests in the following operating
+power plants:
+
+                                                                                 Net     EME's Capacity
+                                           Primary                            Physical      Pro Rata
+                                          Electric                Ownership   Capacity       Share
+    Power Plants            Location     Purchaser(3) Fuel Type    Interest    (in MW)      (in MW)
+    ------------            --------     -----------  ---------   ---------   --------   --------------
+   Merchant Power Plants
+     Illinois Plants (6
+   plants)(1)............. Illinois       PJM          Coal/Oil/Gas   100%       5,876       5,876
+     Homer City(1)........ Pennsylvania   PJM          Coal           100%       1,884       1,884
+
+   Contracted Power Plants
+     Big 4 Projects
+       Kern River(1)...... California     SCE          Natural Gas    50%          300         150
+       Midway-Sunset(1)... California     SCE          Natural Gas    50%          225         113
+       Sycamore(1)........ California     SCE          Natural Gas    50%          300         150
+       Watson............. California     SCE          Natural Gas    49%          385         189
+     Westside Projects
+       Coalinga(1)........ California     PG&E         Natural Gas    50%           38          19
+       Mid-Set(1)......... California     PG&E         Natural Gas    50%           38          19
+       Salinas River(1)... California     PG&E         Natural Gas    50%           38          19
+       Sargent Canyon(1).. California     PG&E         Natural Gas    50%           38          19
+
+     American Bituminous(1)West Virginia  MPC          Waste Coal     50%           80          40
+     March Point.......... Washington     PSE          Natural Gas    50%          140          70
+     Sunrise(1)........... California     CDWR         Natural Gas    50%          572         286
+     San Juan Mesa(1)..... New Mexico     SPS          Wind         100%(2)        120         120
+                                                                                 -----       -----
+   International
+     Doga(1).............. Turkey       TEDAS        Natural Gas    80%            180         144
+                                                                                 -----       -----
+       Total..............                                                      10,214       9,098
+___________
+
+(1) Plant is operated under contract by an EME operations and maintenance subsidiary (partially owned plants)
+    or plant is operated directly by an EME subsidiary (wholly owned plants).
+
+(2) EME expects to sell 25% of its ownership interest in the San Juan Mesa project to a third party in March
+    2006.
+
+(3) Electric purchaser abbreviations are as follows:
+
+   PJM          PJM Interconnection, LLC
+   SCE          Southern California Edison Company
+   PG&E         Pacific Gas & Electric Company
+   MPC          Monongahela Power Company
+   PSE          Puget Sound Energy, Inc.
+   CDWR         California Department of Water Resources
+   SPS          Southwestern Public Service
+   TEDAS        Turkiye Elektrik Daoitim Anonim Sirketi
+
+In addition to the facilities and power plants that EME owns, EME uses the term "its" in regard to facilities
+and power plants that EME or an EME subsidiary operates under sale-leaseback arrangements.
+
+
+Page 18
+
+
+Business Development of EME
+
+Wind Business Development
+
+EME expects to make significant investments in wind projects during the next several years. Historically,
+wind projects have received federal subsidies in the form of production tax credits. In August 2005,
+production tax credits were made available for new wind projects placed in service by December 31, 2007 under
+EPAct 2005. EME has undertaken a number of key activities with respect to wind projects, including the
+following:
+
+o    During 2005, EME entered into agreements to purchase 105 turbines for an aggregate amount of
+     $236 million and options to acquire an additional 100 turbines.
+
+o    In December 2005, EME completed the acquisition of the San Juan Mesa wind project. EME expects to sell
+     25% of its ownership interest in the San Juan Mesa wind project to a third party in March 2006.
+
+o    In January 2006, EME completed the purchase of development rights for a 161 MW wind project in Texas,
+     which EME refers to as the Wildorado project. This project has substantially completed site selection,
+     permitting, and negotiations of power purchase and turbine supply agreements and has started
+     construction contracting. Project completion is scheduled for April 2007, with total construction
+     costs estimated to be $270 million.
+
+o    EME expects to receive, as a capital contribution from its parent, a 196 MW portfolio of wind projects
+     located in Iowa and Minnesota during the first half of 2006. These projects are owned by EME's
+     affiliate, Edison Capital.
+
+Thermal Business Development
+
+EME also expects to make investments in thermal projects during the next several years. As part of this
+development effort, EME has begun the process of obtaining permits for two sites in southern California for
+peaker plants and has responded to several requests for proposals to build or acquire generation. It is
+expected that the thermal projects in which EME invests will sell electricity under long-term power purchase
+contracts. EME is also working in partnership with a subsidiary of British Petroleum (BP) to assess the
+feasibility of constructing and operating an integrated gasification combined cycle facility which would burn
+hydrogen gas derived from petroleum coke at BP's refinery in Carson, California.
+
+Discontinued Operations of EME
+
+Information regarding EME's discontinued operations appears in Note 11 of Notes to Financial Statements.
+
+Price Risk Management and Trading Activities of EME
+
+EME's power marketing and trading subsidiary, Edison Mission Marketing & Trading (EMMT), markets the energy
+and capacity of EME's merchant generating fleet and, in addition, trades electric power and energy and
+related commodity and financial products, including forwards, futures, options and swaps. EMMT segregates its
+marketing and trading activities into two categories:
+
+o   Marketing and Fuel Management -- EMMT engages in the sale of electricity and purchase of fuels (other
+    than coal) through intercompany contracts with EME's subsidiaries that own or lease the Illinois Plants
+    and the Homer City facilities. The objective of these activities is to sell the output of
+
+Page 19
+
+
+    the power plants on a forward basis, thereby increasing the predictability of earnings and cash flows. EMMT
+    also conducts risk management activities to manage the price risk associated with the purchase of fuels,
+    including natural gas and fuel oil. Transactions entered into related to marketing and fuel management
+    activities are designated separately from EMMT's trading activities and are recorded in what EMMT calls
+    its hedge book.
+
+o   Trading -- As part of its trading activities, EMMT seeks to generate profit from the volatility of the
+    price of electricity, fuels and transmission by buying and selling contracts for their sale or provision,
+    as the case may be, in wholesale markets under limitations approved by EME's risk management committee.
+    EMMT records these transactions in what it calls its proprietary book.
+
+In conducting EME's price risk management and trading activities, EMMT contracts with a number of utilities,
+energy companies and financial institutions. In the event a counterparty were to default on its trade
+obligation, EME would be exposed to the risk of possible loss associated with reselling the contracted
+product at a lower price if the non-performing counterparty were unable to pay the resulting liquidated
+damages owed to EME. Further, EME would be exposed to the risk of non-payment of accounts receivable accrued
+for products delivered prior to the time such counterparty defaulted.
+
+To manage credit risk, EME looks at the risk of a potential default by its counterparties. Credit risk is
+measured by the loss EME would record if its counterparties failed to perform pursuant to the terms of their
+contractual obligations. EME has established controls to determine and monitor the creditworthiness of
+counterparties and uses master netting agreements whenever possible to mitigate its exposure to counterparty
+risk. EME requires counterparties to pledge collateral when deemed necessary. EME uses published credit
+ratings of counterparties and other publicly disclosed information, such as financial statements, regulatory
+filings and press releases, to guide it in the process of setting credit levels, risk limits and contractual
+arrangements, including master netting agreements. The credit quality of EME's counterparties is reviewed
+regularly by EME's risk management committee. In addition to continuously monitoring its credit exposure to
+its counterparties, EME also takes appropriate steps to limit or lower credit exposure. Despite this, there
+can be no assurance that EME's actions to mitigate risk will be wholly successful or that collateral pledged
+will be adequate.
+
+EME's merchant power plants and energy trading activities expose EME to commodity price risks. Commodity
+price risks are actively monitored by EME's risk management committee to ensure compliance with EME's risk
+management policies. Policies are in place which define risk tolerances, and procedures exist which allow for
+monitoring of all commitments and positions with regular reviews by the risk management committee. EME uses
+"value at risk" to identify, measure, monitor and control its overall market risk exposure in respect of its
+Illinois Plants, its Homer City facilities and its proprietary positions. The use of value at risk allows
+management to aggregate overall commodity risk, compare risk on a consistent basis and identify risk factors.
+Value at risk measures the possible loss over a given time interval, under normal market conditions, at a
+given confidence level. Given the inherent limitations of value at risk and reliance on a single risk
+measurement tool, EME supplements this approach with the use of stress testing and worst-case scenario
+analysis for key risk factors, as well as stop loss limits and counterparty credit exposure limits. Despite
+this, there can be no assurance that all risks have been accurately identified, measured and/or mitigated.
+
+In executing agreements with counterparties to conduct price risk management or trading activities, EME
+generally provides credit support when necessary through margining arrangements (agreements to provide or
+receive collateral, letters of credit or guarantees based on changes in the market price of the underlying
+contract under specific terms). To manage its liquidity, EME assesses the potential impact of future price
+changes in determining the amount of collateral requirements under existing or anticipated
+
+
+Page 20
+
+forward contracts. There is no assurance that EME's liquidity will be adequate to meet margin calls from
+counterparties in the case of extreme market changes or that the failure to meet such cash requirements would
+not have a material adverse effect on its liquidity. See "Item 1A. Risk Factors--Risks Relating to MEHC."
+
+Significant Customer of EME
+
+EME derived a significant source of its operating revenues from electric power sold into the PJM market from
+the Homer City facilities in the past three fiscal years and from the Illinois Plants in 2005 and 2004. Sales
+into the PJM pool accounted for approximately 70%, 23% and 18% of EME's consolidated operating revenues for
+the years ended December 31, 2005, 2004 and 2003, respectively. In 2004 and 2003, EME also derived a
+significant source of its revenues from the sale of energy and capacity generated at the Illinois Plants to
+Exelon Generation primarily under three power purchase agreements. These power purchase agreements had all
+expired by the end of 2004. Exelon Generation accounted for approximately 36% and 40% of EME's consolidated
+operating revenues for the years ended December 31, 2004 and 2003, respectively.
+
+For the year ended December 31, 2004, approximately 15% of EME's consolidated operating revenues generated at
+the Homer City facilities and Illinois Plants was from sales to BP Energy Company, a third-party customer.
+
+Insurance of EME
+
+EME maintains insurance policies consistent with those normally carried by companies engaged in similar
+business and owning similar properties. EME's insurance program includes all-risk property insurance,
+including business interruption, covering real and personal property, including losses from boilers,
+machinery breakdowns, and the perils of earthquake and flood, subject to specific sublimits. EME also carries
+general liability insurance covering liabilities to third parties for bodily injury or property damage
+resulting from operations, automobile liability insurance and excess liability insurance. Limits and
+deductibles in respect of these insurance policies are comparable to those carried by other electric
+generating facilities of similar size. However, no assurance can be given that EME's insurance will be
+adequate to cover all losses.
+
+The Homer City property insurance program currently covers losses up to $1 billion. Under the terms of the
+participation agreements entered into on December 7, 2001 as part of the sale-leaseback transaction of the
+Homer City facilities, EME Homer City is required to maintain specified minimum insurance coverages if and to
+the extent that such insurance is available on a commercially reasonable basis. Although the insurance
+covering the Homer City facilities is comparable to insurance coverages normally carried by companies engaged
+in similar businesses, and owning similar properties, the insurance coverages that are in place do not meet
+the minimum insurance coverages required under the participation agreements. Due to the current market
+environment, the minimum insurance coverage is not commercially available at reasonable prices. EME Homer
+City has obtained a waiver under the participation agreements which permits it to maintain its current
+insurance coverage through June 1, 2006.
+
+Seasonality of EME
+
+Due to higher electric demand resulting from warmer weather during the summer months, electric revenues
+generated from the Illinois Plants and the Homer City facilities are generally higher during the
+
+
+Page 21
+
+third quarter of each year. However, as a result of recent increases in market prices for power, driven in
+part by higher natural gas and oil prices, this historical trend may not be applicable to quarterly revenue
+in the future.
+
+EME's third quarter equity in income from its energy projects is materially higher than equity in income
+related to other quarters of the year due to warmer weather during the summer months and because a number of
+EME's energy projects located on the West Coast have power sales contracts that provide for higher payments
+during the summer months.
+
+Regulation of EME
+
+General
+
+EME's operations are subject to extensive regulation by governmental agencies. EME's operating projects are
+subject to energy, environmental and other governmental laws and regulations at the federal, state and local
+levels in connection with the ownership and operation of its projects, and the use of electric energy,
+capacity and related products, including ancillary services from its projects. Federal laws and regulations
+govern, among other things, transactions by and with purchasers of power, including utility companies, the
+operation of a power plant and the ownership of a power plant. Under limited circumstances where exclusive
+federal jurisdiction is not applicable or specific exemptions or waivers from state or federal laws or
+regulations are otherwise unavailable, federal and/or state utility regulatory commissions may have broad
+jurisdiction over non-utility owned electric power plants. Energy-producing projects are also subject to
+federal, state and local laws and regulations that govern the geographical location, zoning, land use and
+operation of a project. Federal, state and local environmental requirements generally require that a wide
+variety of permits and other approvals be obtained before the commencement of construction or operation of an
+energy-producing facility and that the facility then operate in compliance with these permits and approvals.
+
+EME is subject to a varied and complex body of laws and regulations that are in a state of flux. Intricate
+and changing environmental and other regulatory requirements could necessitate substantial expenditures and
+could create a significant risk of expensive delays or significant loss of value in a project if it were to
+become unable to function as planned due to changing requirements or local opposition.
+
+United States Federal Energy Regulation
+
+The FERC has ratemaking jurisdiction and other authority with respect to interstate wholesale sales and
+transmission of electric energy (other than transmission that is "bundled" with retail sales) under the
+Federal Power Act and with respect to certain interstate sales, transportation and storage of natural gas
+under the Natural Gas Act of 1938. Prior to February 8, 2006, the SEC had regulatory powers with respect to
+upstream owners of electric and natural gas utilities under PUHCA 1935, which was repealed as of that date by
+EPAct 2005. The enactment of PURPA and the adoption of regulations under that Act by the FERC provided
+incentives for the development of cogeneration facilities and small power production facilities using
+alternative or renewable fuels by establishing certain exemptions from the Federal Power Act and PUHCA 1935
+for the owners of qualifying facilities. The passage of the Energy Policy Act in 1992 further encouraged
+independent power production by providing additional exemptions from PUHCA 1935 for exempt wholesale
+generators and foreign utility companies. See "Business of Edison International--Regulation of Edison
+International" above.
+
+
+Page 22
+
+
+Federal Power Act
+
+The Federal Power Act grants the FERC exclusive jurisdiction over the rates, terms and conditions of
+wholesale sales of electricity and transmission services in interstate commerce (other than transmission that
+is "bundled" with retail sales), including ongoing, as well as initial, rate jurisdiction. This jurisdiction
+allows the FERC to revoke or modify previously approved rates after notice and opportunity for hearing. These
+rates may be based on a cost-of-service approach or, in geographic and product markets determined by the FERC
+to be workably competitive, may be market based. Most qualifying facilities, as that term is defined in
+PURPA, are exempt from the ratemaking and several other provisions of the Federal Power Act. Exempt wholesale
+generators certified in accordance with the FERC's rules under PUHCA 2005 and other non-qualifying facility
+independent power projects are subject to the Federal Power Act and to the FERC's ratemaking jurisdiction
+thereunder, but the FERC typically grants exempt wholesale generators the authority to charge market-based
+rates to purchasers which are not affiliated electric utility companies as long as the absence of market
+power is shown. In addition, the Federal Power Act grants the FERC jurisdiction over the sale or transfer of
+jurisdictional facilities, including wholesale power sales contracts and, after EPAct 2005, generation
+facilities, and in some cases, jurisdiction over the issuance of securities or the assumption of specified
+liabilities and some interlocking directorates. In granting authority to make sales at market-based rates,
+the FERC typically also grants blanket approval for the issuance of securities and partial waiver of the
+restrictions on interlocking directorates.
+
+As of December 31, 2005, a number of EME's operating projects, including the Homer City facilities and the
+Illinois Plants, were subject to the FERC ratemaking regulation under the Federal Power Act. EME's future
+domestic non-qualifying facility independent power projects will also be subject to the FERC jurisdiction on
+rates.
+
+Public Utility Regulatory Policies Act of 1978
+
+PURPA provides two primary benefits to qualifying facilities. First, all cogeneration facilities that are
+qualifying facilities are exempt from certain provisions of the Federal Power Act and regulations of the FERC
+thereunder. Second, the FERC regulations promulgated under PURPA require that electric utilities purchase
+electricity generated by qualifying facilities at a price based on the purchasing utility's avoided cost,
+(unless, pursuant to EPAct 2005, the FERC determines that the relevant market meets certain conditions for
+competitive, nondiscriminatory access), and that the utilities sell back up power to the qualifying facility
+on a nondiscriminatory basis. The FERC's regulations also permit qualifying facilities and utilities to
+negotiate agreements for utility purchases of power at prices different from the utility's avoided costs.
+While it had been common for utilities to enter into long-term contracts with qualifying facilities in order,
+among other things, to facilitate project financing of independent power facilities and to reflect the
+deferral by the utility of capital costs for new plant additions, increasing competition and the development
+of new power markets have resulted in a trend toward shorter term power contracts that would place greater
+risk on the project owner.
+
+If one of the projects in which EME has an interest were to lose its status as a qualifying cogeneration
+facility, the project would no longer be entitled to the qualifying facility-related exemptions from
+regulation. As a result, the project could become subject to rate regulation by the FERC under the Federal
+Power Act and additional state regulation. Loss of qualifying facility status could also trigger defaults
+under covenants to maintain qualifying facility status in the project's power sales agreements, steam sales
+agreements and financing agreements and result in termination, penalties or acceleration of indebtedness
+under such agreements. If a power purchaser were to cease taking and paying for electricity or were to seek
+to obtain refunds of past amounts paid because of the loss of qualifying facility status,
+
+
+Page 23
+
+
+EME cannot provide assurance that the costs incurred in connection with the project could be recovered
+through sales to other purchasers. Moreover, EME's business and financial condition could be adversely
+affected if regulations or legislation were modified or enacted that changed the standards applicable to
+EME's facilities for maintaining qualifying facility status or that eliminated or reduced the benefits and
+exemptions currently enjoyed by EME's qualifying facilities. Loss of qualifying facility status on a
+retroactive basis could lead to, among other things, fines and penalties, or claims by a utility customer for
+the refund of payments previously made.
+
+EPAct 2005 made several important amendments to PURPA, including the elimination of qualifying facility
+ownership restrictions, elimination of the requirement that electric utilities enter into new contracts to
+purchase electricity from qualifying facilities that have access to wholesale power markets that meet
+specified criteria or sell energy to existing qualifying facilities in states where there is retail
+electricity competition and no obligation under state law to make power sales, the granting of new authority
+to the FERC to ensure recovery by electric utilities of all prudently incurred costs associated with
+purchases of energy and capacity from qualifying facilities, and certain obligations upon electric utilities
+for interconnection and metering for qualifying facilities. The FERC has initiated several proceedings to
+promulgate rules and regulations to implement the mandates of EPAct 2005 with respect to PURPA, and EME is
+continuing to evaluate the effect of the legislation and proposed regulations on its business activities.
+
+EME endeavors to monitor regulatory compliance by its qualifying facility projects in a manner that minimizes
+the risks of losing these projects' qualifying facility status. However, some factors necessary to maintain
+qualifying facility status are subject to risks of events outside EME's control. For example, loss of a
+thermal energy customer or failure of a thermal energy customer to take required amounts of thermal energy
+from a cogeneration facility that is a qualifying facility could cause a facility to fail to meet the
+requirements regarding the minimum level of useful thermal energy output. Upon the occurrence of this type of
+event, EME would seek to replace the thermal energy customer or find another use for the thermal energy that
+meets the requirements of PURPA.
+
+Natural Gas Act
+
+Many of the operating facilities that EME owns, operates or has investments in use natural gas as their
+primary fuel. Under the Natural Gas Act, the FERC has jurisdiction over certain sales of natural gas and over
+transportation and storage of natural gas in interstate commerce. The FERC has granted blanket authority to
+all persons to make sales of natural gas without restriction but continues to exercise significant oversight
+with respect to transportation and storage of natural gas services in interstate commerce.
+
+Transmission of Wholesale Power
+
+Generally, projects that sell power to wholesale purchasers other than the local utility to which the project
+is interconnected require the transmission of electricity over power lines owned by others. This transmission
+service over the lines of intervening transmission owners is also known as wheeling. The prices and other
+terms and conditions of transmission contracts are regulated by the FERC when the entity providing the
+transmission service is a jurisdictional public utility under the Federal Power Act.
+
+The Energy Policy Act of 1992 laid the groundwork for a competitive wholesale market for electricity by,
+among other things, expanding the FERC's authority to order electric utilities to transmit third-party
+electricity over their transmission lines, thus allowing qualifying facilities under PURPA, power
+
+
+Page 24
+
+marketers and those qualifying as exempt wholesale generators under PUHCA 1935 to more effectively compete in
+the wholesale market.
+
+In 1996, the FERC issued Order No. 888, also known as the Open Access Rules, which require utilities to offer
+eligible wholesale transmission customers open access on utility transmission lines on a comparable basis to
+the utilities' own use of the lines and directed jurisdictional public utilities that control a substantial
+portion of the nation's electric transmission networks to file uniform, non-discriminatory open access
+tariffs containing the terms and conditions under which they would provide such open access transmission
+service. The FERC subsequently issued Order Nos. 888-A, 888-B and 888-C to clarify the terms that
+jurisdictional transmitting utilities are required to include in their open access transmission tariffs and
+Order No. 889, which required those transmitting utilities to abide by specified standards of conduct when
+using their own transmission systems to make wholesale sales of power, and to post specified transmission
+information, including information about transmission requests and availability, on a publicly available
+computer bulletin board.
+
+On September 16, 2005, the FERC issued a Notice of Inquiry, inviting comments on (1) whether reforms are
+needed to the Order No. 888 pro forma open access transmission tariff and the open access transmission
+tariffs of public utilities to ensure that services thereunder are just, reasonable and not unduly
+discriminatory or preferential; (2) the implementation of the newly established section 211A of the Federal
+Power Act concerning the provision of open access transmission service by unregulated transmitting utilities;
+and (3) section 1233 of EPAct 2005, which defines the native load service obligation.
+
+Environmental Matters Affecting EME
+
+EME and its subsidiaries are subject to environmental regulation by federal, state and local authorities. EME
+believes that it is in substantial compliance with environmental regulatory requirements and that maintaining
+compliance with current requirements will not materially affect its financial position or results of
+operation. However, possible future developments, such as the promulgation of more stringent environmental
+laws and regulations, future proceedings that may be initiated by environmental authorities, and settlements
+agreed to by other companies could affect the costs and the manner in which EME conducts its business, and
+may also cause it to make substantial additional capital expenditures. There is no assurance that EME would
+be able to recover these increased costs from its customers or that EME's financial position and results of
+operations would not be materially adversely affected as a result.
+
+Typically, environmental laws and regulations require a lengthy and complex process for obtaining licenses,
+permits and approvals prior to construction, operation or modification of a project or generating facility.
+Meeting all the necessary requirements can delay or sometimes prevent the completion of a proposed project,
+as well as require extensive modifications to existing projects, which may involve significant capital
+expenditures. If EME fails to comply with applicable environmental laws, it may be subject to injunctive
+relief or penalties and fines imposed by regulatory authorities.
+
+
+
+Page 25
+
+Federal--United States of America
+
+Clean Air Act
+
+Clean Air Interstate Rule
+
+ See "Business of Southern California Edison Company--Environmental Matters Affecting SCE--Air Quality--Clean
+Air Interstate Rule" for a general description of the CAIR. EME expects that compliance with the CAIR and the
+regulations and revised state implementation plans developed as a consequence of the CAIR will result in
+increased capital expenditures and operating expenses. Given the uncertainty of the requirements that will
+need to be implemented and the options available to meet the NOx and SO2 reductions fleetwide, EME at this
+time cannot accurately estimate the cost to meet these obligations. EME's approach to meeting these
+obligations will consist of a blending of capital expenditure and emission allowance purchases that will be
+based on an ongoing assessment of the dynamics of its market conditions.
+
+Mercury Regulation
+
+See "Business of Southern California Edison Company--Environmental Matters Affecting SCE--Air Quality--Mercury"
+for a general description of the US EPA's proposal and project timetable for finalizing regulations.
+
+If Illinois and Pennsylvania implement the CAMR by adopting a cap-and-trade program for achieving reductions
+in mercury emissions, EME may have the option to purchase mercury emission allowances, to install pollution
+control equipment, to otherwise alter its operations to reduce mercury emissions, or to implement some
+combination thereof. If EME were to implement environmental control technology at its Homer City facilities
+instead of purchasing allowances to comply with the CAMR and other Clean Air Act developments described
+herein, it currently estimates capital expenditures for such improvements to be approximately $350 million to
+$400 million in the 2006-2010 timeframe. However, because the mercury state implementation plans are not due
+until the fourth quarter of 2006 and such plans may not adopt the CAMR's cap-and-trade program, and because
+EME cannot predict the outcome of the legal challenge to the CAMR and the US EPA's decision not to regulate
+mercury emissions pursuant to Section 112 of the federal Clean Air Act, the full impact of this regulation
+currently cannot be assessed. Additional capital costs, particularly for the Illinois coal units, related to
+these regulations could be required in the future and they could be material. EME's approach to meeting these
+obligations will continue to be based upon an ongoing assessment of applicable legal requirements and market
+conditions.
+
+National Ambient Air Quality Standards
+
+See "Business of Southern California Edison Company--Environmental Matters Affecting SCE--Air Quality--National
+Ambient Air Quality Standards" for a general description of ambient air quality standards. Almost all of
+EME's facilities are located in counties that have been identified as being in non-attainment with both
+standards. Any additional obligations on EME's facilities to further reduce their emissions of SO2, NOx and
+fine particulates to address local non-attainment with the 8-hour ozone and fine particulate matter standards
+will not be known until the states revise their implementation plans. Depending upon the final standards that
+are adopted, EME may incur substantial costs or experience financial impacts resulting from required capital
+improvements or operational changes.
+
+
+Page 26
+
+
+On January 17, 2006, the US EPA proposed revisions to its fine particulate standard. Under the proposal, the
+annual standard would remain the same but the 24-hour fine particulate standard would be significantly
+lowered. The US EPA is under court order to issue a final rule in December 2006. If the US EPA retains its
+proposed new 24-hour standard or lowers the annual standard, states may be required to impose further
+emission reductions beyond what would be necessary to meet the existing standards. Although EME may incur
+substantial costs or experience financial impacts as a result of any new standards, the uncertainties
+associated with this ongoing rulemaking at this time render EME unable to accurately estimate the costs to
+meet any such obligation. EME anticipates, however, that any such further emission reduction obligations
+would not be imposed until 2010 at the earliest.
+
+Regional Haze
+
+The goal of the 1999 regional haze regulations is to restore visibility in mandatory federal Class I areas,
+such as national parks and wilderness areas, to natural background conditions in 60 years. Sources such as
+power plants that are reasonably anticipated to contribute to visibility impairment in Class I areas may be
+required to install Best Available Retrofit Technology (BART) or implement other control strategies to meet
+regional haze control requirements. States are required to revise their state implementation plans to
+demonstrate reasonable further progress towards meeting regional haze goals. Emission reductions that are
+achieved through other ongoing control programs may be sufficient to demonstrate reasonable progress toward
+the long-term goal, particularly for the first 10 to 15 year phase of the program. States must develop
+implementation plans by December 2007. It is possible that sources that are subject to the CAIR will be able
+to satisfy their obligations under the regional haze regulations through compliance with the more stringent
+CAIR. However, until the state implementation plans are revised, EME cannot predict whether it will be
+required to install BART or implement other control strategies, and cannot identify the financial impacts of
+any additional control requirements.
+
+New Source Review Requirements
+
+Since 1999, the US EPA has pursued a coordinated compliance and enforcement strategy to address Clean Air Act
+NSR compliance issues at the nation's coal-fired power plants. The NSR regulations impose certain
+requirements on facilities, such as electric generating stations, in the event that modifications are made to
+air emissions sources at a facility. The US EPA's strategy included both the filing of a number of suits
+against power plant owners, and the issuance of a number of administrative notices of violation to power
+plant owners alleging NSR violations. EME and its subsidiaries have not been named as a defendant in these
+lawsuits and have not received any administrative Notices of Violation alleging NSR violations at any of
+their facilities.
+
+In response to conflicting court decisions concerning the applicable emissions test used to determine whether
+an operational or physical change at an electric generating station would require the plant to install
+additional pollution controls, the US EPA on October 13, 2005 proposed a change to the NSR program. The
+proposal put forth several options for a new emissions test based on the impact of a facility modification on
+a facility's maximum hourly emissions or its emissions per unit of energy produced. The existing NSR
+emissions test is based on the impact of a modification on a generating station's net annual emissions.
+
+On October 13, 2005, the US EPA proposed changes to the NSR program to provide nationwide consistency in how
+states implement the program for electric generating units. The proposed changes would standardize the
+emissions tests used in NSR to determine if a physical or operational change at a power plant would cause
+emission increases that would require the plant to install additional pollution controls.
+
+
+Page 27
+
+In October 2005, the US EPA announced a revised NSR strategy to take account of recent US EPA rulemakings,
+such as the CAIR and regional haze rules, affecting coal-fired power plants. Under the revised strategy,
+while the US EPA will continue to pursue filed cases and cases in active negotiation, it intends to shift its
+future enforcement focus from coal-fired power plants to other sectors where compliance assurance activities
+have the potential to produce significant environmental benefits.
+
+Prior to EME's purchase of the Homer City facilities, the US EPA requested information under Section 114 of
+the Clean Air Act from the prior owners of the plant concerning physical changes at the plant. This request
+was part of the US EPA's industry-wide investigation of compliance by coal-fired plants with the Clean Air
+Act NSR requirements. On February 21, 2003, Midwest Generation received a request for information under
+Section 114 regarding past operations, maintenance and physical changes at the Illinois coal plants from the
+US EPA. On July 28, 2003, Commonwealth Edison received a substantially similar request for information from
+the US EPA related to these same plants. Under date of February 1, 2005, the US EPA submitted a request for
+additional information to Midwest Generation. Midwest Generation has provided responses to these requests.
+Other than these requests for information, no NSR enforcement-related proceedings have been initiated by the
+US EPA with respect to any of EME's facilities. See also "--State--Illinois--Air Quality."
+
+Developments with respect to changes to the NSR program and NSR enforcement will continue to be monitored by
+EME to assess what implications, if any, they will have on the operation of power plants owned or operated by
+EME or its subsidiaries, or on EME's results of operations or financial position.
+
+Clean Water Act--Cooling Water Intake Structures
+
+See "Business of Southern California Edison Company--Environmental Matters Affecting SCE--Water Quality--Cooling
+Water Intake Structures" for a general description of Section 316(b) of the Clean Water Act. EME has begun to
+collect impingement and entrainment data at its potentially affected Midwest Generation facilities in
+Illinois to begin the process of determining what corrective actions may need to be taken. Although the
+Phase II rule could have a material impact on EME's operations, EME cannot reasonably determine the financial
+impact on it at this time because it is in the beginning stages of collecting the data required by the
+regulation and due to the legal challenges to the rules which may affect the obligations imposed by the rule.
+
+Hazardous Substances and Hazardous Waste Laws
+
+See "Business of Southern California Edison Company--Environmental Matters Affecting SCE--Hazardous Substances
+and Hazardous Waste Laws" for a general discussion of CERCLA and related laws.
+
+With respect to EME's potential liabilities arising under CERCLA or similar laws for the investigation and
+remediation of contaminated property, EME accrues a liability to the extent the costs are probable and can be
+reasonably estimated. Midwest Generation has accrued approximately $2 million at December 31, 2005 for
+estimated environmental investigation and remediation costs for the Illinois Plants. This estimate is based
+upon the number of sites, the scope of work and the estimated costs for environmental activity where such
+expenditures could be reasonably estimated. Future estimated costs may vary based on changes in regulations
+or requirements of federal, state, or local governmental agencies, changes in technology, and actual costs of
+disposal. In addition, future remediation costs will be affected by the nature and extent of contamination
+discovered at the sites that requires remediation. Given the prior history of the operations at its
+facilities, EME cannot be certain that the existence or
+
+
+Page 28
+
+extent of all contamination at its sites has been fully identified. However, based on available information,
+management believes that future costs in excess of the amounts disclosed on all known and quantifiable
+environmental contingencies will not be material to EME's financial position.
+
+In connection with the ownership and operation of its facilities, EME may be liable for these costs. EME has
+agreed to indemnify the sellers of the Illinois Plants and the Homer City facilities with respect to
+specified environmental liabilities. See "Commitments, Guarantees and Indemnities--Indemnities Provided as
+Part of the Acquisition of the Illinois Plant" and "--Indemnities Provided as Part of the Acquisition of the
+Homer City Facilities" in the MD&A for a discussion of these indemnities.
+
+State--Illinois
+
+Air Quality
+
+Beginning with the 2003 ozone season (May 1 through September 30), EME has been required to comply with an
+average NOx emission rate of 0.25 lb NOx/mmBtu of heat input. This limitation is commonly referred to as the
+East St. Louis State Implementation Plan. This regulation is a State of Illinois requirement. Each of the
+Illinois Plants complied with this standard in 2004. Beginning with the 2004 ozone season, the Illinois
+Plants became subject to the federally mandated "NOx SIP Call" regulation that provided ozone-season NOx
+emission allowances to a 19-state region east of the Mississippi. This program provides for NOx allowance
+trading similar to the SO2 (acid rain) trading program already in effect. EME has qualified for early
+reduction allowances by reducing NOx emissions at various plants ahead of the imposed deadline. Additionally,
+the installation of emission control technology at certain plants has demonstrated over-compliance at those
+individual plants with the pending NOx emission limitations. Finally, NOx emission trading will be utilized,
+as needed, to comply with any shortfall at plants where installation of emission control technology has
+demonstrated reductions at levels short of the NOx limitations.
+
+During 2004, the Illinois Plants stayed within their NOx allocations by augmenting their allocation with
+early reduction credits generated within the fleet. In 2005, the Illinois Plants used banked allowances,
+along with some purchased allowances, to stay within their NOx allocations. After 2005, EME plans to continue
+to purchase allowances while evaluating the costs and benefits of various technologies to determine whether
+any additional pollution controls should be installed at the Illinois facilities.
+
+On January 5, 2006, Illinois Governor Rod Blagojevich announced that he was directing the Illinois
+Environmental Protection Agency to draft rules that would impose state limits on mercury emissions from
+coal-fired power plants which would be more stringent than the US EPA's CAMR issued in May 2005. Illinois is
+required to submit a SIP for CAMR to the US EPA by November 17, 2006. The Governor or his spokespersons have
+said that rules to be submitted to the Illinois Pollution Control Board will require a 90% reduction in
+mercury emissions averaged across company-owned Illinois generators and a minimum reduction of 75% for
+individual generating units by June 30, 2009. A 90% reduction at each generating unit would be required by
+2013. Buying or selling of emission allowances under the CAMR federal cap and trade program would be
+prohibited. The Pollution Control Board must act on proposed rules submitted by the Illinois EPA after
+evidentiary hearings, including the presentation and cross-examination of expert testimony. After the
+Pollution Control Board adopts rules, they must be submitted to the General Assembly's Joint Committee on
+Administrative Rules for notice, hearing, and adoption, rejection or modification. Rules adopted through such
+state proceedings are also subject to court appeal. EME is not able at this time to predict the final form of
+these rules or provide an estimate of their financial impact.
+
+
+Page 29
+
+During 2006, the Illinois EPA is expected to begin the process of developing a SIP to implement the federal
+CAIR which requires reductions in NOx and SO2. This SIP is to be submitted to the US EPA by September 11,
+2006. The Illinois EPA has also begun to develop SIPs to meet National Ambient Air Quality Standards for
+8-hour ozone and fine particulates. These SIPs will be developed with the intent of bringing non-attainment
+areas, such as Chicago, into attainment. They are expected to deal with all emission sources, not just power
+generators, and to address emissions of NOx, SO2, and Volatile Organic Carbon. These SIPs are to be submitted
+to the US EPA by June 15, 2007 for 8-hour ozone, and by April 5, 2008 for fine particulates. EME is not able
+at this time to predict the final form of the SIPs or to estimate their financial impact.
+
+Water Quality
+
+The Illinois EPA is reviewing the water quality standards for the Des Plaines River adjacent to the Joliet
+Station and immediately downstream of the Will County Station to determine if the use classification should
+be upgraded. An upgraded use classification could result in more stringent limits being applied to wastewater
+discharges to the river from these plants. If the existing use classification is changed, the limits on the
+temperature of the discharges from the Joliet and Will County plants may be made more stringent. The Illinois
+EPA has also begun a review of the water quality standards for the Chicago River and Chicago Sanitary and
+Ship Canal which are adjacent to the Fisk and Crawford Stations. Proposed changes to the existing standards
+are still being developed. Accordingly, EME is not able to estimate the financial impact of potential changes
+to the water quality standards. However, the cost of additional cooling water treatment, if required, could
+be substantial.
+
+State--Pennsylvania
+
+Air Quality
+
+During 2006, the Pennsylvania Department of Environmental Protection (PADEP) is expected to begin the process
+of developing a SIP to implement the federal CAIR which requires reductions in NOx and SO2. This SIP is to be
+submitted to the US EPA by September 11, 2006. The Ozone Transport Commission, of which Pennsylvania is a
+member, is developing a model rule that would continue to allow SO2 and NOx emissions trading, but would
+impose more stringent limits on SO2 and NOx emissions and would phase in these reductions more quickly than
+is required by CAIR. EME does not know whether the northeast states will ultimately agree to this model rule
+or whether Pennsylvania will implement such a rule. Pennsylvania is also required to develop a SIP to
+implement the federal CAMR, which SIP is to be submitted to the US EPA by November 17, 2006. With respect to
+mercury, the PADEP has recently announced that it plans to issue a proposed rule that would require
+coal-fired power plants to reduce mercury emissions by 80% by 2010 and 90% by 2015. The proposed rule would
+not allow the use of emissions trading to achieve compliance.  However, the proposal would apparently allow
+facilities to comply with the mercury regulation by installing specific pollution control technology for
+sulfur dioxide and nitrogen oxides and by burning 100% bituminous coal. EME is not able at this time to
+predict the final form of the SIPs or to estimate their financial impact.
+
+Water Quality
+
+The discharge from the treatment plant receiving the wastewater stream from EME's Unit 3 flue gas
+desulphurization system at the Homer City facilities has exceeded the stringent, water-quality based limits
+for selenium in the station's NPDES permit. As a result, EME was notified in April 2002 by PADEP that it was
+included in the Quarterly Noncompliance Report submitted to the US EPA. EME investigated a number of
+technical alternatives for maximizing the level of selenium removal in the
+
+
+Page 30
+
+discharge and performed various pilot studies. While some of the pilot studies improved the performance of
+the treatment system, the discharge still was not able to consistently meet the selenium effluent limits. EME
+identified additional options for achieving the selenium limits, and, with PADEP's approval, has undertaken a
+pilot program utilizing biological treatment. EME prepared a draft of a consent order and agreement
+addressing the selenium issue and presented it to PADEP for consideration in connection with the renewal of
+the station's NPDES permit. PADEP has included civil penalties in consent agreements related to other
+facilities with selenium treatment issues, but the amount of civil penalties that may be assessed against EME
+cannot be estimated at this time.
+
+Climate Change
+
+For a discussion of the laws and regulations relating to climate change, see "Business of Southern California
+Edison Company--Environmental Matters Affecting SCE--Climate Change."
+
+On December 20, 2005, seven northeastern states entered into a Memorandum of Understanding to create a
+regional initiative to establish a cap and trade greenhouse gas program for electric generators, referred to
+as the Regional Greenhouse Gas Initiative, or RGGI. The model RGGI rule is scheduled to be announced within
+the next few months. The current proposal is to commence the program in 2009 by setting a cap (for the 2009
+to 2015 period) on allowances based on carbon dioxide emissions from 2000 to 2004 and reducing emissions by
+10% between 2015 and 2020. The Memorandum of Understanding provides that at least 25% of the state allowance
+allocations be set aside for public purposes, suggesting that from the commencement of the program,
+generators subject to the RGGI may receive allowances that are materially less than their carbon dioxide
+emissions. Illinois and Pennsylvania are not signatories to the RGGI, although Pennsylvania has participated
+as an observer of the process. If Pennsylvania were to join the RGGI, this could have a material impact on
+EME's Homer City facility.
+
+The ultimate outcome of the climate change debate could have a significant economic effect on EME. Any legal
+obligation that would require EME to reduce substantially its emissions of carbon dioxide would likely
+require extensive mitigation efforts and would raise considerable uncertainty about the future viability of
+fossil fuels, particularly coal, as an energy source for new and existing electric generating facilities.
+
+Employees of EME
+
+MEHC has no full-time employees. At December 31, 2005, EME and its subsidiaries employed 1,745 people,
+including:
+
+o   approximately 752 employees at the Illinois Plants covered by a collective bargaining agreement
+    governing wages, certain benefits and working conditions. This collective bargaining agreement expired on
+    December 31, 2005. A new agreement was reached with the union representing the Illinois employees, with
+    an expiration date of December 31, 2009. Midwest Generation also has a separate collective bargaining
+    agreement governing retirement, health care, disability and insurance benefits that expires on June 15,
+    2006; and
+
+o   approximately 190 employees at the Homer City facilities covered by a collective bargaining agreement
+    governing wages, benefits and working conditions. This collective bargaining agreement expires on
+    December 31, 2006.
+
+
+Page 31
+
+
+                                          BUSINESS OF EDISON CAPITAL
+
+Edison Capital has investments worldwide in energy and infrastructure projects, including power generation,
+electric transmission and distribution, transportation, and telecommunications. Edison Capital also has
+investments in affordable housing projects located throughout the United States.
+
+At the end of 2005, the employees of Edison Capital were transferred to EME and a services agreement was
+executed effective December 26, 2005 to provide for intercompany charges for services provided by EME to
+Edison Capital. During December 2005, Edison Capital dividended a portion of its wind projects to its parent
+company, Edison Mission Group. The projects were then contributed to EME. During the first half of 2006,
+Edison Capital is expected to dividend its remaining wind projects to Edison Mission Group, and the projects
+will subsequently be contributed to EME.
+
+At the present time, no new investments are expected to be made by Edison Capital and the focus will be on
+managing the existing investment portfolio.
+
+Energy and Infrastructure Investments of Edison Capital
+
+Edison Capital's energy and infrastructure investments are in the form of domestic and cross-border leveraged
+leases, partnership interests in international infrastructure funds and operating companies in the United
+States.
+
+
+Page 32
+
+Leveraged Leases.  As of December 31, 2005, Edison Capital is the lessor with an investment balance of $2.5
+billion in the following leveraged leases:
+
+
+                                                                                     Investment
+                                                                      Basic lease      Balance
+ Transaction                      Asset               Location         Term Ends    (in millions)
+ -----------                      -----               --------        -----------    ------------
+
+ Domestic Leases
+ MCV o Midland Cogeneration    1,370 MW gas-fired     Midland,           2015          $43
+ Ventures, selling power to    cogeneration plant     Michigan
+ Consumers Energy Company
+ Vidalia o selling power to    192 MW hydro power     Vidalia,           2020          $91
+ Entergy Louisiana,            plant                  Louisiana
+ City of Vidalia
+ Beaver Valley o selling       836 MW nuclear power   Shippingport,      2017          $127
+ power to Ohio Edison          plant                  Pennsylvania
+ Company, Centerior Energy
+ Corporation
+ American Airlines             3 Boeing 767 ER        Domestic and       2016          $58
+                               aircraft               international
+                                                      routes
+
+ Cross-border Leases
+ EPON o power generation       1,675 MW combined      Netherlands        2016          $440
+ company                       cycle, gas-fired
+                               power plant (3 of 5
+                               units)
+ EPZ o consortium of           580 MW                 Netherlands        2016          $94
+ government electric           coal/gas-fired power
+ distribution companies        plant
+ ESKOM o government            4,110 MW coal-fired    South Africa       2018          $640
+ integrated utility            power plant (3 of 6
+                               units)
+ ETSA o government             3,665 miles electric   South              2022          $302
+ integrated utility            transmission system    Australia
+ NV Nederlandse Spoorwegen o   40 electric            Netherlands        2011          $39
+ national rail authority       locomotives
+ Swisscom o government         Telecom conduit        Switzerland        2028          $657
+ telecom utility
+
+
+The rent paid by the lessee is expected to cover debt payments and provide a profit to Edison Capital. As
+lessor, Edison Capital also claims the tax benefits, such as depreciation of the asset or amortization of
+lease payments and interest deductions. All regulatory, operating, maintenance, insurance and decommissioning
+costs are the responsibility of the lessees. The lessees' performance is secured not only by the project
+assets, but also by other collateral that was valued as of December 31, 2005, in the aggregate at
+approximately $2.3 billion against $2.5 billion invested in leveraged leases. The lenders have a priority
+lien against the assets but the loans are otherwise non-recourse to Edison Capital. Edison Capital's
+leveraged lease investments depend upon the performance of the asset, the lessee's performance of its
+contract obligations, enforcement of remedies and sufficiency of the collateral in the event of default, and
+realization of tax benefits.
+
+Infrastructure Funds.  Edison Capital holds a minority interest as a limited partner in three separate funds
+that invest in infrastructure assets in Latin America, Asia and countries in Europe with emerging economies.
+Edison Capital is also a member of the investment committee of each fund. At year-end 2005, Edison Capital
+had an investment balance of $37 million in the Latin America fund, $23 million in the
+
+
+Page 33
+
+Asia fund, and $43 million in the emerging Europe fund. Edison Capital also made additional direct
+investments alongside the Latin America fund in the amount of $25 million. As of December 31, 2005, Edison
+Capital did not have any additional investment commitments to these funds. The fund managers look to exit the
+investments on favorable terms which provide a return to the limited partners from appreciation in the value
+of the investment. The ability to exit investments on favorable terms depends upon many factors, including
+the economic conditions in each region, the performance of the asset, and whether there is a public or
+private market for these interests. For some fund investments there may also be foreign currency exchange
+rate risk.
+
+Wind Projects.  At year-end 2005, Edison Capital had a net investment of $101 million in a number of wind
+power projects located in Iowa and Minnesota capable of generating 196 MW of electricity. The wind projects
+sell power to the local utilities under long-term power purchase agreements with rates currently ranging from
+4.8(cent)to 6(cent)per kWh but declining over time according to contract schedules. Edison Capital claimed production
+tax credits, depreciation, and interest deductions from these projects for tax purposes.
+
+Affordable Housing Investments of Edison Capital
+
+At December 31, 2005, Edison Capital had a net investment of $40 million in approximately 350 affordable
+housing projects with approximately 26,500 units rented to qualifying low-income tenants in 36 states. These
+investments are usually in the form of majority interests in limited partnerships or limited liability
+companies. With a few exceptions, the projects are managed by third parties. For 106 projects, Edison Capital
+has guaranteed a minimum return to the syndicated investor. Edison Capital continues to consolidate the
+investment funds subject to the guaranteed minimum return. Edison Capital retained a minority interest in,
+and continues to monitor all of the syndicated investments. Edison Capital is entitled to low-income housing
+tax credits, depreciation and interest deductions, and a small percentage of cash generated from the
+projects. Edison Capital's tax credits from these projects could be recaptured by the Internal Revenue
+Service if, among other things, the project fails to comply with the requirements of the tax credit program,
+costs are excluded from the eligible basis used to compute the amount of tax credits, or the project changes
+ownership through foreclosure. In most cases, Edison Capital is indemnified by the project manager (or
+parties related to it) against some losses, but there is no assurance of collecting against such indemnities.
+As of year-end 2005, Edison Capital had not experienced any significant recapture of tax credits from its
+affordable housing projects.
+
+Business Environment of Edison Capital
+
+Edison Capital's investments may be affected by the financial condition of other parties, the performance of
+assets, regulatory, economic conditions and other business and legal factors. Information regarding the
+business environment of Edison Capital appears in the MD&A under the heading "Edison Capital: Market Risk
+Exposures--Credit and Performance Risk."
+
+Under tax allocation arrangements among Edison International and its subsidiaries, Edison Capital receives
+cash for federal and state tax benefits from its investments that are utilized on Edison International's tax
+return. Information about Edison Capital's tax allocation payments and tax exposures is contained in the MD&A
+under the heading "Edison Capital:  Liquidity--Intercompany Tax-Allocation Payments" and "Other
+Developments--Federal Income Taxes."
+
+
+Page 34
+
+ITEM 1A.  RISK FACTORS
+
+Risks Relating to Edison International
+
+Edison International may be unable to meet its ongoing and future financial obligations and to pay dividends
+on its common stock if its subsidiaries are unable to pay upstream dividends or repay funds to Edison
+International.
+
+Edison International is a holding company and, as such, Edison International has no operations of its own.
+Edison International's ability to meet its financial obligations and to pay dividends on its common stock at
+the current rate is primarily dependent on the earnings and cash flows of its subsidiaries and their ability
+to pay upstream dividends or to repay funds to Edison International. Prior to funding Edison International,
+Edison International's subsidiaries have financial and regulatory obligations that must be satisfied,
+including among others, debt service and preferred stock dividends.
+
+Edison International's cash flows and earnings could be adversely affected by tax developments relating to
+Edison Capital's lease transactions.
+
+Edison Capital entered into certain types of lease transactions which have been challenged by the Internal
+Revenue Service.  If Edison International is not successful in its defense of the tax treatment of those
+transactions, the payment of taxes could have a significant impact on cash flows.  Also, the adoption of
+changes in accounting policies relating to the accounting for leases could cause a material effect on reported
+earnings by requiring Edison International to reverse earnings previously recognized as a current period
+adjustment and to report these earnings over the remaining life of the leases.  More information regarding
+the lease transactions is contained in the MD&A under the heading "Other Developments--Federal Income Taxes."
+
+Edison International and its subsidiaries are subject to costs and other effects of legal proceedings as well
+as changes in or additions to applicable tax laws, rates or policies, rates of inflation, and accounting
+standards.
+
+Edison International and its subsidiaries are subject to costs and other effects of legal and administrative
+proceedings, settlements, investigations and claims, as well as the effect of new, or changes in, tax laws,
+rates or policies, rates of inflation and accounting standards.
+
+Risks Relating to SCE
+
+SCE's financial viability depends upon its ability to recover its costs in a timely manner from its customers
+through regulated rates.
+
+SCE is a regulated entity subject to CPUC jurisdiction in almost all aspects of its business, including the
+rates, terms and conditions of its services, procurement of electricity for its customers, issuance of
+securities, dispositions of utility assets and facilities and aspects of the siting and operations of its
+electricity distribution systems. SCE's ongoing financial viability depends on its ability to recover from
+its customers in a timely manner its costs, including the costs of electricity purchased for its customers,
+in its CPUC-approved rates and its ability to pass through to its customers in rates its FERC-authorized
+revenue requirements. SCE's financial viability also depends on its ability to recover in rates an adequate
+return on capital, including long-term debt and equity. If SCE is unable to recover any material amount of
+its costs in rates in a timely manner or recover an adequate return on capital, its financial condition and
+results of operations could be materially adversely affected.
+
+
+Page 35
+
+SCE's revenues and earnings are substantially affected by regulatory proceedings known as general rate cases
+and cost of capital proceedings. General rate cases are expected to occur every three years. During those
+cases, the CPUC determines SCE's rate base (the value of assets on which SCE earns a rate of return for
+investors), depreciation rates, operation and maintenance costs, and administrative and general costs that
+SCE may recover from its customers through its rates. Cost of capital proceedings are conducted annually.
+During those cases, the CPUC authorizes SCE's capital structure and the return on common equity applicable to
+the rate base determined in the general rate case proceedings. More information about these proceedings is
+set forth in the MD&A under the heading "SCE: Regulatory Matters."
+
+SCE's energy procurement activities are subject to regulatory and market risks that could adversely affect
+its financial condition, liquidity, and earnings.
+
+SCE obtains energy, capacity, and ancillary services needed to serve its customers from its own generating
+plants and contracts with energy producers and sellers. California law and CPUC decisions allow SCE to
+recover in customer rates reasonable procurement costs incurred in compliance with an approved procurement
+plan. Nonetheless, SCE's cash flows remain subject to volatility resulting from its procurement activities.
+In addition, SCE is subject to the risks of unfavorable or untimely CPUC decisions about the compliance of
+procurement activities with its procurement plan and the reasonableness of certain procurement-related costs.
+
+Many of SCE's power purchase contracts are tied to market prices for natural gas. Some of its contracts also
+are subject to volatility in market prices for electricity. SCE seeks to hedge its market price exposure to
+the extent authorized by the CPUC. SCE may not be able to hedge its risk for commodities on favorable terms
+or fully recover the costs of hedges in rates, which could adversely affect SCE's liquidity and results of
+operation.
+
+In its power purchase contracts and other procurement arrangements, SCE is exposed to risks from changes in
+the credit quality of its counterparties. If a counterparty were to default on its obligations, SCE could be
+exposed to potentially volatile spot markets for buying replacement power or selling excess power.
+
+SCE relies on access to the capital markets. If SCE were unable to access capital markets or the cost of
+capital were to substantially increase, its liquidity and operations could be adversely affected.
+
+SCE's ability to make scheduled payments of principal and interest, refinance debt, and fund its operations
+and planned capital expenditure projects depends on its cash flow and access to the capital markets. SCE's
+ability to arrange financing and the costs of such capital are dependent on numerous factors, including its
+levels of indebtedness, maintenance of acceptable credit ratings, its financial performance, liquidity and
+cash flow, and other market conditions. Market conditions which could adversely affect SCE's financing costs
+and availability include:
+
+o       an economic downturn;
+o       capital market conditions generally;
+o       market prices for electricity or gas;
+o       changes in interest rates and rates of inflation;
+o       terrorist attacks or the threat of terrorist attacks on SCE's facilities or unrelated energy
+        companies; and
+
+
+Page 36
+
+o       the overall health of the utility industry.
+
+SCE may not be successful in obtaining additional capital for these or other reasons. The failure to obtain
+additional capital from time to time may have a material adverse effect on SCE's liquidity and operations.
+
+SCE is subject to numerous environmental laws and regulations with respect to operation of its facilities.
+New laws and regulations could adversely affect SCE.
+
+The operation of SCE's power generation, transmission, and distribution facilities is subject to numerous
+environmental laws and regulations. Those laws and regulations require SCE to expend substantial sums to
+mitigate or remove the effect of its operations on the environment and can impede the development of new
+facilities. Violations of environmental laws and regulations can result in fines, penalties and liability to
+third parties. In addition, new environmental laws, regulations and standards may be adopted that would
+impose substantial costs on SCE or impair its future operations. Environmental advocacy groups and regulatory
+agencies have been focusing considerable attention on carbon dioxide emissions and the effect of those
+emissions on global warming. The adoption of new laws and regulations to control carbon dioxide or other
+emissions could adversely affect the operation of SCE's generating plants and other facilities and result in
+additional costs that could adversely affect SCE's results of operations.
+
+SCE is subject to extensive regulation and the risk of adverse regulatory decisions and changes in applicable
+regulations or legislation.
+
+SCE operates in a highly regulated environment. SCE's business is subject to extensive federal, state and
+local energy, environmental and other laws and regulations. The CPUC regulates SCE's retail operations, and
+the FERC regulates SCE's wholesale operations. The United States Nuclear Regulatory Commission regulates
+SCE's nuclear power plants. The construction, planning, and siting of SCE's power plants in California are
+also subject to the jurisdiction of the California Energy Commission and the CPUC. Additional regulatory
+authorities with jurisdiction over some of SCE's operations include the California Air Resources Board, the
+California State Water Resources Control Board, the California Department of Toxic Substances Control, the
+California Coastal Commission, the United States Environmental Protection Agency, the United States
+Department of Energy, the Nuclear Regulatory Commission, and various local regulatory districts.
+
+SCE must periodically apply for licenses and permits from these various regulatory authorities and abide by
+their respective orders. Should SCE be unsuccessful in obtaining necessary licenses or permits or should
+these regulatory authorities initiate any investigations or enforcement actions or impose penalties or
+disallowances on SCE, SCE's business could be adversely affected. Existing regulations may be revised or
+reinterpreted and new laws and regulations may be adopted or become applicable to SCE or SCE's facilities in
+a manner that may have a detrimental effect on SCE's business or result in significant additional costs
+because of SCE's need to comply with those requirements.
+
+There are inherent risks associated with operating nuclear power generating facilities.
+
+Spent fuel storage capacity could be insufficient to permit long-term operation of SCE's nuclear plants.
+
+SCE operates and is majority owner of the San Onofre Nuclear Generating Station and is part owner of the Palo
+Verde Nuclear Generating Station. The United States Department of Energy has defaulted on its obligation to
+begin accepting spent nuclear fuel from commercial nuclear industry participants by
+
+
+Page 37
+
+January 31, 1998. If SCE or the operator of the Palo Verde plant were unable to arrange and maintain
+sufficient capacity for interim spent-fuel storage now or in the future, it could hinder operation of the
+plants and impair the value of SCE's ownership interests until storage could be obtained, each of which may
+have a material adverse effect on SCE.
+
+Existing insurance and ratemaking arrangements may not protect SCE fully against losses from a nuclear
+incident.
+
+Federal law limits public liability from a nuclear incident to $10.8 billion. SCE and other owners of the San
+Onofre and Palo Verde nuclear generating stations have purchased the maximum private primary insurance
+available of $300 million per site. If the public liability limit is insufficient, federal regulations may
+impose further revenue-raising measures to pay claims, including a possible additional assessment on all
+licensed reactor operators. In the event of such an under-insured nuclear incident, a tension could exist
+between the federal government's attempt to impose revenue-raising measures upon SCE and the CPUC's
+willingness to allow SCE to pass this liability along to its customers, resulting in undercollection of SCE's
+costs.
+
+SCE's financial condition and results of operations could be materially adversely affected if it is unable to
+successfully manage the risks inherent in operating its facilities.
+
+SCE owns and operates extensive electricity facilities that are interconnected to the United States western
+electricity grid. The operation of SCE's facilities and the facilities of third parties on which it relies
+involves numerous risks, including:
+
+o   operating limitations that may be imposed by environmental or other regulatory requirements;
+
+o   imposition of operational performance standards by agencies with regulatory oversight of SCE's
+    facilities;
+
+o   environmental and personal injury liabilities caused by the operation of SCE's facilities;
+
+o   interruptions in fuel supply;
+
+o   blackouts;
+
+o   employee work force factors, including strikes, work stoppages or labor disputes;
+
+o   weather, storms, earthquakes, fires, floods or other natural disasters;
+
+o   acts of terrorism; and
+
+o   explosions, accidents, mechanical breakdowns and other events that affect demand, result in power
+    outages, reduce generating output or cause damage to SCE's assets or operations or those of third parties
+    on which it relies.
+
+The occurrence of any of these events could result in lower revenues or increased expenses, or both, which
+may not be fully recovered through insurance, rates or other means in a timely manner or at all.
+
+SCE's insurance coverage may not be sufficient under all circumstances and SCE may not be able to obtain
+sufficient insurance.
+
+SCE's insurance may not be sufficient or effective under all circumstances and against all hazards or
+liabilities to which it may be subject. A loss for which SCE is not fully insured could materially and
+adversely affect SCE's financial condition and results of operations. Further, due to rising insurance costs
+and changes in the insurance markets, insurance coverage may not continue to be available at all or at rates
+or on terms similar to those presently available to SCE.
+
+
+Page 38
+
+Risks Relating to MEHC
+
+MEHC depends upon cash flows from EME to service its debt.
+
+MEHC's principal asset is the common stock of EME. In July 2001, MEHC issued $800 million of 13.50% senior
+secured notes due 2008. The senior secured notes are secured by a first priority security interest in EME's
+common stock. Any foreclosure on the pledge of EME's common stock by the holders of the senior secured notes
+would result in a change in control of EME, which could have a material adverse effect on MEHC. Dividends
+from EME are limited based on its earnings and cash flow, the terms of restrictions contained in EME's
+corporate credit facility, business and tax considerations and restrictions imposed by applicable law. See
+"MEHC:  Liquidity--Dividend Restrictions in Major Financings" in the MD&A.
+
+EME has substantial interests in merchant energy power plants which are subject to market risks related to
+wholesale energy prices.
+
+EME's merchant energy power plants do not have long-term power purchase agreements. Because the output of
+these power plants is not committed to be sold under long-term contracts, these projects are subject to
+market forces which determine the amount and price of energy, capacity and ancillary services sold from the
+power plants.
+
+The factors that influence the market prices for energy, capacity and ancillary services include:
+
+o   prevailing market prices for coal, natural gas and fuel oil, emission allowances and associated
+    transportation costs;
+
+o   the extent of additional supplies of capacity, energy and ancillary services from current competitors
+    or new market entrants, including the development of new generation facilities or technologies that may
+    be able to produce electricity at a lower cost than EME's generating facilities and/or increased access
+    by competitors to EME's markets as a result of transmission upgrades;
+
+o   transmission congestion in and to each market area and the resulting differences in prices between
+    delivery points;
+
+o   the market structure rules established for each market area and regulatory developments affecting the
+    market areas, including any price limitations and other mechanisms adopted to address volatility or
+    illiquidity in these markets or the physical stability of the system;
+
+o   the cost and availability of emission credits or allowances;
+
+o   the availability, reliability and operation of competing power generation facilities, including
+    nuclear generating plants where applicable, and the extended operation of such facilities beyond their
+    presently expected dates of decommissioning;
+
+o   weather conditions prevailing in surrounding areas from time to time; and
+
+o   changes in the demand for electricity or in patterns of electricity usage as a result of factors such
+    as regional economic conditions and the implementation of conservation programs.
+
+In addition, unlike most other commodities, electric power can only be stored on a very limited basis and
+generally must be produced concurrently with its use. As a result, the wholesale power markets are subject to
+significant and unpredictable price fluctuations over relatively short periods of time.
+
+There is no assurance that EME's merchant energy power plants will be successful in selling power into their
+markets or that the prices received for their power will generate positive cash flows. If EME's
+
+
+Page 39
+
+merchant energy power plants do not meet these objectives, they may not be able to generate enough cash to
+service their own debt and lease obligations, which could have a material adverse effect on EME.
+
+EME's financial results can be affected by changes in fuel prices, fuel transportation cost increases, and
+interruptions in fuel supply.
+
+EME's business is subject to changes in fuel costs, which may negatively affect its financial results and
+financial position by increasing the cost of producing power. The fuel markets can be volatile, and actual
+fuel prices can differ from EME's expectations.
+
+Although EME attempts to purchase fuel based on its known fuel requirements, it is still subject to the risks
+of supply interruptions, transportation cost increases, and fuel price volatility. In addition, fuel
+deliveries may not exactly match energy sales, due in part to the need to purchase fuel inventories in
+advance for reliability and dispatch requirements. The price at which EME can sell its energy may not rise or
+fall at the same rate as a corresponding rise or fall in fuel costs.
+
+EME may not be able to hedge market risks effectively.
+
+EME is exposed to market risks through its ownership and operation of merchant energy power plants and
+through its power marketing business. These market risks include, among others, volatility arising from the
+timing differences associated with buying fuel, converting fuel into energy and delivering energy to a buyer.
+EME uses forward contracts and derivative financial instruments, such as futures contracts and options, to
+manage market risks and exposure to fluctuating electricity and fuel prices. These activities, although
+intended to mitigate EME's exposure, expose EME to other risks.
+
+The effectiveness of EME's hedging activities may depend on the amount of working capital available to post
+as collateral in support of these transactions, either in support of performance guarantees or as a cash
+margin. The amount of credit support that must be provided typically is based on the difference between the
+price of the commodity in a given contract and the market price of the commodity. Significant movements in
+market prices can result in a requirement to provide cash collateral and letters of credit in very large
+amounts. Without adequate liquidity to meet margin and collateral requirements, EME could be exposed to the
+following:
+
+o   a reduction in the number of counterparties willing to enter into bilateral contracts, which would
+    result in increased reliance on short-term and spot markets instead of bilateral contracts, increasing
+    EME's exposure to market volatility; and
+
+o   a failure to meet a margining requirement, which could permit the counterparty to terminate the
+    related bilateral contract early and demand immediate payment for the replacement value of the contract.
+
+As a result of these and other factors, EME cannot predict with precision the effect that risk management
+decisions may have on its businesses, operating results or financial position.
+
+EME is exposed to credit and performance risk from third parties under supply and transportation contracts.
+
+EME relies on contracts for the supply and transportation of fuel and other services required for the
+operation of its generation facilities. EME's operations are exposed to the risk that counterparties will not
+perform their obligations. If a counterparty failed to perform under a contract, EME would need to obtain
+
+
+Page 40
+
+alternate suppliers for theist requirements of fuel or other services, which could result in higher costs or
+disruptions in its operations. Furthermore, EME is exposed to credit risk because damages related to a breach
+of contract may not be recoverable. Accordingly, the failure of a supplier to fulfill its contractual
+obligations could have a material adverse effect on EME's financial results.
+
+EME is subject to extensive energy industry regulation.
+
+EME's operations are subject to extensive regulation by governmental agencies. EME's projects are subject to
+federal laws and regulations that govern, among other things, transactions by and with purchasers of power,
+including utility companies, the development and construction of generation facilities, the ownership and
+operations of generation facilities, and access to transmission. Under limited circumstances where exclusive
+federal jurisdiction is not applicable or specific exemptions or waivers from state or federal laws or
+regulations are otherwise unavailable, federal and/or state utility regulatory commissions may have broad
+jurisdiction over non-utility owned electric power plants. Generation facilities are also subject to federal,
+state and local laws and regulations that govern, among other things, the geographical location, zoning, land
+use and operation of a project.
+
+There is no assurance that the introduction of new laws or other future regulatory developments will not have
+a material adverse effect on EME's business, results of operations or financial condition, nor is there any
+assurance that EME or its subsidiaries will be able to obtain and comply with all necessary licenses, permits
+and approvals for its projects. If projects cannot comply with all applicable regulations, EME's business,
+results of operations and financial condition could be adversely affected.
+
+EME is subject to extensive environmental regulation and permitting requirements that may involve significant
+and increasing costs.
+
+EME's operations are subject to extensive environmental regulation. EME is required to obtain and comply with
+conditions established by licenses, permits and other approvals in order to construct, operate or modify its
+facilities. Failure to comply with these requirements could subject EME to civil or criminal liability, the
+imposition of liens or fines, or actions by regulatory agencies seeking to curtail EME's operations. EME may
+also be exposed to risks arising from past, current or future contamination at its former or existing
+facilities or with respect to off-site waste disposal sites that have been used in its operations.
+
+EME devotes significant resources to environmental monitoring, pollution control equipment and emission
+allowances to comply with environmental regulatory requirements. EME believes that it is in substantial
+compliance with environmental regulatory requirements and that maintaining compliance with current
+requirements will not materially affect its financial position or results of operations. However, the current
+trend is toward more stringent standards, stricter regulation, and more expansive application of
+environmental regulations. Future environmental laws and regulations, and future enforcement proceedings that
+may be taken by environmental authorities, could affect the costs and the manner in which EME conducts its
+business and could cause it to make substantial additional capital expenditures. There is no assurance that
+EME would be able to recover these increased costs from its customers or that its business, financial
+position and results of operations would not be materially adversely affected.
+
+Environmental advocacy groups and regulatory agencies in the United States have been focusing considerable
+attention on carbon dioxide emissions from coal-fired power plants and their potential role in climate
+change. The adoption of laws and regulations to implement carbon dioxide controls could adversely affect
+EME's coal-fired plants. Also, coal plant emissions of nitrogen oxides and sulfur
+
+
+Page 41
+
+dioxides, mercury and particulates are subject to increased controls and mitigation expenses. Additionally,
+certain of the states in which EME operates are contemplating air pollution control regulations that are more
+stringent than existing and proposed federal regulations. Changing environmental regulations could require
+EME to purchase additional emission allowances or install additional pollution control technology, and could
+make some units uneconomical to maintain or operate. If EME cannot comply with all applicable regulations, it
+could be required to retire or suspend operations at its facilities, or restrict or modify operations of its
+facilities, and its business, results of operations and financial condition could be adversely affected.
+
+Typically, environmental laws require a lengthy and complex process for obtaining licenses, permits and
+approvals prior to construction, operation or modification of a project or generating facility. Meeting all
+the necessary requirements can delay or sometimes prevent the completion of a proposed project as well as
+require extensive modifications to existing projects, which may involve significant capital expenditures. EME
+cannot provide assurance that it will be able to obtain and comply with all necessary licenses, permits and
+approvals for its plants.
+
+The ability of EME's largest subsidiary, Midwest Generation, LLC, to make distributions is restricted.
+
+Midwest Generation, which owns or leases the Illinois Plants, has entered into financing documents that
+contain restrictions on its ability to pay dividends. See "MEHC:  Liquidity--Liquidity and Capital Resources"
+in the MD&A.
+
+EME is the guarantor of the Powerton and Joliet leases and is obligated under intercompany notes to make debt
+service payments to Midwest Generation. Each intercompany note is a general corporate obligation of EME and
+payments on it are made from distributions from subsidiaries and other sources of cash received by EME.
+Accordingly, EME must continue to make payments under the intercompany notes regardless of whether or not
+Midwest Generation makes distributions to EME. If EME were not able to satisfy its obligations under the
+intercompany notes, it would result in a default under the financing documents of EME and Midwest Generation.
+This could have a material adverse effect on the results of operations and cash flow of EME.
+
+EME and its subsidiaries have a substantial amount of indebtedness, including long-term lease obligations.
+
+As of December 31, 2005, consolidated debt of EME was $3.4 billion. In addition, EME's subsidiaries have
+$4.6 billion of long-term power plant lease obligations that are due over a period ranging up to 29 years. The
+substantial amount of consolidated debt and financial obligations presents the risk that EME and its
+subsidiaries might not have sufficient cash to service their indebtedness or long-term lease obligations and
+that the existing corporate debt, project debt and lease obligations could limit the ability of EME and its
+subsidiaries to grow their business, to compete effectively or to operate successfully under adverse economic
+conditions. If EME's or a subsidiary's cash flows and capital resources were insufficient to allow it to make
+scheduled payments on its debt, EME or its subsidiaries might have to reduce or delay capital expenditures,
+sell assets, seek additional capital, or restructure or refinance the debt. The terms of EME's or its
+subsidiaries' debt may not allow these alternative measures, the debt or equity may not be available on
+acceptable terms, and these alternative measures may not satisfy all scheduled debt service obligations.
+
+
+Page 42
+
+Competition could adversely affect EME's business.
+
+The independent power industry is characterized by numerous capable competitors, some of whom may have more
+extensive operating experience in the acquisition and development of power projects, larger staffs, and
+greater financial resources than EME does. Further, in recent years some power markets have been
+characterized by strong and increasing competition as a result of regulatory changes and other factors which
+can contribute to a reduction in market prices for power from time to time. These regulatory and other
+changes may increase competitive pressures in the markets in which EME operates.
+
+Newer plants owned by EME's competitors are often more efficient than EME's facilities. This may put some of
+EME's facilities at a competitive disadvantage to the extent that its competitors are able to produce more
+power from each increment of fuel than EME's facilities are capable of producing.
+
+Several participants in the wholesale markets, including many regulated utilities, have a lower cost of
+capital than most merchant generators and often are able to recover fixed costs through rate base mechanisms,
+allowing them to build, buy and upgrade generation assets without relying exclusively on market clearing
+prices to recover their investments. This could affect EME's ability to compete effectively in the markets in
+which those entities operate.
+
+Restrictions in EME's certificate of incorporation, its credit facilities and the MEHC financing documents
+limit the ability of EME and its subsidiaries to enter into specified transactions that they otherwise may
+enter into and may significantly impede their ability to refinance their debt.
+
+The financing documents entered into by MEHC contain financial and investment covenants restricting EME and
+its subsidiaries. EME's certificate of incorporation binds it to the provisions in MEHC's financing documents
+by restricting EME's ability to enter into specified transactions and engage in specified business activities
+without shareholder approval. The instruments governing EME's indebtedness also contain financial and
+investment covenants. Restrictions contained in these documents could affect, and in some cases significantly
+limit or prohibit, EME and its subsidiaries' ability to, among other things, incur, refinance, and prepay
+debt, make capital expenditures, pay dividends and make other distributions, make investments, create liens,
+sell assets, enter into sale and leaseback transactions, issue equity interests, enter into transactions with
+affiliates, create restrictions on the ability to pay dividends or make other distributions and engage in
+mergers and consolidations. These restrictions may significantly impede the ability of EME and its
+subsidiaries to take advantage of business opportunities as they arise, to grow their business and compete
+effectively, or to develop and implement any refinancing plans in respect of their indebtedness. See "--EME
+and its subsidiaries have a substantial amount of indebtedness, including long-term lease obligations," for
+further discussion.
+
+In addition, in connection with the entry into new financings or amendments to existing financing
+arrangements, EME's and its subsidiaries' financial and operational flexibility may be further reduced as a
+result of more restrictive covenants, requirements for security and other terms that are often imposed on
+sub-investment grade entities.
+
+
+Page 43
+
+EME's projects may be affected by general operating risks and hazards customary in the power generation
+industry. EME may not have adequate insurance to cover all these hazards.
+
+The operation of power generation facilities involves many operating risks, including:
+
+o   performance below expected levels of output or efficiency;
+
+o   interruptions in fuel supply;
+
+o   disruptions in the transmission of electricity;
+
+o   curtailment of operations due to transmission constraints;
+
+o   breakdown or failure of equipment or processes;
+
+o   imposition of new regulatory, permitting, or environmental requirements, or violations of existing
+    requirements;
+
+o   employee work force factors, including strikes, work stoppages or labor disputes;
+
+o   operator error; and
+
+o   catastrophic events such as terrorist activities, fires, tornadoes, earthquakes, explosions, floods or
+    other similar occurrences affecting power generation facilities or the transmission and distribution
+    infrastructure over which power is transported.
+
+These and other hazards can cause significant personal injury or loss of life, severe damage to and
+destruction of property, plant and equipment, contamination of or damage to the environment, and suspension
+of operations. The occurrence of one or more of the events listed above could decrease or eliminate revenues
+generated by EME's projects or significantly increase the costs of operating them, and could also result in
+EME's being named as a defendant in lawsuits asserting claims for substantial damages, potentially including
+environmental cleanup costs, personal injury, property damage, fines and penalties. Equipment and plant
+warranties and insurance may not be sufficient or effective under all circumstances to cover lost revenues or
+increased expenses. A decrease or elimination in revenues generated by the facilities or an increase in the
+costs of operating them could decrease or eliminate funds available to meet EME's obligations as they become
+due and could have a material adverse effect on EME. A default under a financing obligation of a project
+entity could result in a loss of EME's interest in the project.
+
+EME's future acquisitions and development projects may not be successful.
+
+EME's long-term strategy includes the development and acquisition of electric power generation facilities.
+The development of a power project may require EME to expend significant amounts for preliminary engineering,
+permitting, legal and other expenses before EME can determine whether it will win a competitive bid, or
+whether a project is feasible, economically attractive or financeable. EME may not be successful in obtaining
+financing for its projects and may not be able to obtain sufficient equity capital, project cash flow, or
+additional borrowings to enable it to fund equity commitments for future projects.
+
+In addition to the competition already existing in the markets in which EME presently operates or may
+consider operating in the future, EME is likely to encounter significant competition for acquisition
+opportunities that may become available as a result of the consolidation of the power industry, in general,
+as well as the passage of the EPAct 2005. EME may be unable to identify attractive acquisition or development
+opportunities and/or to complete and integrate them on a successful and timely basis.
+
+
+Page 44
+
+ITEM 1B

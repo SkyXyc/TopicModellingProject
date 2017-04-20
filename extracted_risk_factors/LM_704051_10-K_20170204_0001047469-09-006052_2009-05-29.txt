@@ -1,0 +1,690 @@
+ITEM 1A. RISK FACTORS.        
+
+        Our business, and the asset management industry in general, is subject to numerous risks, uncertainties and other factors that could
+negatively affect our business or results of operations. These risks, uncertainties and other factors, including the ones discussed below and those discussed elsewhere herein and in our other filings
+with the SEC, could cause actual results to differ materially from any forward-looking statements that we or any of our employees may make. 
+
+15
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+        
+Our Leverage May Affect our Business and May Restrict our Operating Results  
+
+        At March 31, 2009, on a consolidated basis, we had approximately $3.2 billion in total indebtedness and total
+stockholders' equity of $4.5 billion, and our goodwill and other intangible assets were $1.2 billion and $3.9 billion, respectively. As of March 31, 2009, we had
+$390 million of additional borrowing capacity available under our various credit agreements, subject to certain conditions. As a result of this substantial
+indebtedness, we are required to use a significant portion of our cash flow to service principal and interest on our debt, which will limit the cash flow available for other business opportunities. In
+addition, these servicing obligations would increase in the future if we incur additional indebtedness and, in this regard, we have available, subject to maintaining compliance with financial
+covenants in our existing debt facilities, credit facilities that are not currently being fully utilized. 
+
+
+        Our
+ability to make scheduled payments of principal of, to pay interest on, or to refinance our indebtedness and to satisfy our other debt obligations will depend upon our future
+operating performance, which may be affected by general economic, financial, competitive, legislative, regulatory, business and other factors beyond our control and by a variety of factors specific to
+our business. 
+
+        The
+level of our indebtedness could: 
+
+
+
+•limit our ability to obtain additional debt financing in the future or to borrow under our existing credit facilities (our
+principal bank debt facilities require that (i) our ratio of net debt (total debt less unrestricted cash in excess of working capital) to Consolidated EBITDA (as defined therein) not exceed 3.0
+to 1 and (ii) our ratio of Consolidated EBITDA to total cash interest payments on certain Indebtedness (as defined therein) exceeds 4 to 1 while another debt facility prevents us from incurring
+additional debt, with certain exceptions, if our total debt to Consolidated EBITDA (as defined therein) exceeds 2.5 to 1);   
+•limit cash flow available for general corporate purposes due to the ongoing cash flow requirements for debt service;  
+•limit our flexibility, including our ability to react to competitive and other changes in the industry and economic
+conditions and our ability to provide support, should we elect to do so, to funds that our subsidiaries manage; and   
+•place us at a competitive disadvantage compared to our competitors that have less debt. 
+
+
+        As
+of March 31, 2009, under the terms of our bank credit agreements our ratio of net debt to EBITDA was 1.8 and our ratio of EBITDA to interest expense was 6.2, and therefore,
+Legg Mason was in compliance with its bank financial covenants. If our net income stays at current levels or further declines, for any reason, it may be difficult to remain in compliance with these
+covenants. Similarly, to the extent that we spend our available cash
+for purposes other than repaying debt, we will increase our net debt to EBITDA ratio, thus putting pressure on our compliance with the covenants. Although there are actions that we may take if our
+financial covenant compliance becomes an issue, there can be no assurance that Legg Mason will remain in compliance with its bank debt covenants. In this regard, based on March run rate EBITDA, and
+factoring projected cost savings, we would be required to repay over half of our outstanding bank debt by December 2009 to maintain compliance with our covenants. However, based on improved
+April run rate results, repayment of debt may not be required to maintain compliance with our covenants. We anticipate that we will have available cash to repay all or a portion of our bank debt,
+should it be necessary. In addition, under the terms of the debt to EBITDA ratio covenant that we entered into in connection with the issuance of the 2.5% senior convertible notes, we may not, with
+certain exceptions, incur more than $250 million in additional debt until the effects of the sales of SIV securities drop out of the trailing twelve month EBITDA calculation and when we have
+substantially reduced our outstanding indebtedness. 
+
+        Upon
+the occurrence of various events, such as a change of control, some or all of our outstanding debt obligations may come due prior to their maturity date. 
+
+16
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+        
+Support We Provided to Liquidity Funds Affected Our Financial Position and Results of Operations  
+
+        As has been widely publicized, since late July 2007, there has been substantial disruption in the worldwide fixed income markets,
+including, specifically, a dramatic reduction in buyers of commercial paper and medium term notes issued by SIVs, which has adversely affected the liquidity in the market. As a result of these
+liquidity constraints and, for certain issuers, credit concerns, a number of SIVs have defaulted on their obligations under their securities and become the subject of restructuring negotiations or
+insolvency proceedings. Liquidity asset management funds that are managed by our subsidiaries invested in a number of these SIV-issued securities, and other types of funds managed by our
+subsidiaries, including closed-end funds that have issued auction rate preferred securities, have also been affected by these issues. In response to these issues, during fiscal years 2008
+and 2009 we provided various forms of support to a number of liquidity funds. As part of that support, we assisted the funds in eliminating their exposure to SIV-issued securities, in part
+by acquiring certain SIV securities from the funds at their full amortized cost, rather than market prices, or reimbursing the funds for losses incurred in selling SIV securities. As a result of these
+actions, we incurred an aggregate of $2.3 billion in gross charges ($1.4 billion net of taxes and related expense reductions) and utilized an aggregate of approximately
+$2.9 billion in available cash during the fiscal year. See Note 17 of Notes to Consolidated Financial Statements in Item 8 below for a further description of the support we
+provided. 
+
+        Although
+we currently have no exposure to SIV-issued securities and thus would not provide any more support for those investments, as of March 31, 2009, we had
+outstanding capital support agreements committing us to provide up to $41.5 million in capital contributions to liquidity funds managed by our subsidiary in certain circumstances upon the funds
+realizing a loss on investments in securities that are not asset-
+backed or SIV-issued. One of these agreements, providing for up to $7 million in contributions, expired in April 2009. In the future, we may elect to provide additional credit, liquidity,
+or other support to products that we manage, particularly liquidity funds, although we are not legally required to do so and there can be no assurance that any support would be sufficient to avoid an
+adverse impact on any product or investors in any product. A decision to provide support may arise from factors specific to our products or from industry wide factors. If we elect to provide
+additional support, we could incur losses from the support we provide and incur additional costs, including financing costs, in connection with the support. These losses and additional costs could be
+material, and could adversely affect our earnings. If we were to take such actions we may also restrict our corporate assets, limiting our flexibility to use these assets for other purposes, and may
+be required to raise additional capital. 
+
+        
+Poor Investment Performance Could Lead to a Loss of Assets Under Management and a Decline in Revenues  
+
+        We believe that investment performance is one of the most important factors for the maintenance and growth of our assets under
+management. Poor investment performance, either on an absolute or relative basis, could impair our revenues and growth because: 
+
+
+
+•existing clients might withdraw funds in favor of better performing products, which would result in lower investment
+advisory and other fees;   
+•our ability to attract funds from existing and new clients might diminish; and   
+•negative absolute investment performance will directly reduce our managed assets. 
+
+
+        In
+addition, in the ordinary course of our business we may reduce or waive investment management fees, or limit total expenses, on certain products or services for particular time
+periods to manage fund expenses, or for other reasons, and to help retain or increase managed assets. If our revenues decline without a commensurate reduction in our expenses, our net income will be
+reduced. During the last three years, several of our key equity and fixed income asset managers have not produced strong investment performance, on a relative basis or an absolute basis, in certain
+products or accounts that they manage. These investment performance issues have contributed to a significant reduction in their assets under management and revenues and a reduction in performance
+fees. There can be no assurance as to when, or if, these investment performance issues, or the resulting effects on the managers' assets under management and revenues, 
+
+17
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+will
+be resolved. Moreover, even if investment performance should improve in the short term, in many cases there may be a lag before improved performance produces a positive effect on the managers'
+assets under management or revenues. 
+
+        
+Assets Under Management May Be Withdrawn, Which May Reduce our Revenues and Net Income  
+
+        Our investment advisory and administrative contracts are generally terminable at will or upon relatively short notice, and investors in
+the mutual funds that we manage may redeem their investments in the funds at any time without prior notice. Institutional and individual clients can terminate their relationships with us, reduce the
+aggregate amount of assets under management, or shift their funds to other types of accounts with different rate structures for any number of reasons, including investment performance, changes in
+prevailing interest rates, changes in investment preferences of clients, changes in our reputation in the marketplace, changes in management or control of clients or third party distributors with whom
+we have relationships, loss of key investment management or other personnel and financial market performance. This risk is underscored by the fact that we have one international client that represents
+approximately 8% of our total assets under management (although it generates less than 1% of our operating revenues). In addition, in a declining securities market, the pace of mutual fund redemptions
+and withdrawal of assets from other accounts could accelerate. Poor investment performance generally or relative to other investment management firms tends to result in decreased purchases of fund
+shares, increased redemptions of fund shares, and the loss of institutional or individual accounts. During fiscal year 2009, our assets under management decreased from $950 billion at
+March 31, 2008 to $632 billion at March 31, 2009. One factor behind this decrease was $159 billion in net client outflows (of which $89 billion was outflows in fixed
+income assets, $47 billion was outflows in equity assets and $23 billion was outflows in liquidity assets). During the quarter ended March 31, 2009, our assets under management
+declined by $66 billion, primarily as a result of net client asset outflows of $44 billion and market depreciation of $22 billion. This decrease in our assets under management
+reduced our revenues and our operating income. 
+
+        
+If We Are Unable to Maintain our Fee Levels or If our Asset Mix Changes, our Revenues and Margins Could Be Reduced  
+
+        Our profit margins and net income are dependent in significant part on our ability to maintain current fee levels for the products and
+services that our asset managers offer. There has been a trend toward lower fees in some segments of the asset management industry, and no assurances can be given that we will be able to maintain our
+current fee structure. Competition could lead to our asset managers reducing the fees that they charge their clients for products and services. See " — Competition in the Asset
+Management Industry Could Reduce our Revenues and Net Income." In addition, our asset managers may be required to reduce their fee levels, or restructure the fees they charge, because of, among other
+things, regulatory initiatives or proceedings that are either industry-wide or specifically targeted or court decisions. For example, several firms in the mutual fund business agreed to
+reduce the management fees that they charge registered mutual funds as part of regulatory settlements. A reduction in the fees that our asset managers charge for their products and services will
+reduce our revenues and could reduce our net income. These factors also could inhibit our ability to increase fees for certain products. 
+
+        Our
+assets under management can generate very different revenues per dollar of managed assets based on factors such as the type of asset managed — equity assets
+generally produce greater revenues than fixed income assets, the type of client — institutional clients generally pay lower fees than other clients, the type of asset management
+product or service provided and the fee schedule of the asset manager providing the service. A shift in the mix of our assets under management from higher revenue-generating assets to lower
+revenue-generating assets may result in a decrease in our revenues even if our aggregate level of assets under management remains unchanged or increases. A decrease in our revenues, without a
+commensurate reduction in expenses, will reduce our net income. We experienced such a shift in the mix of our assets under management during fiscal year 2009, which continued a trend from the prior
+fiscal year. During fiscal year 2009, our equity assets under management declined from $271.6 billion (29% of our total assets under management) to $126.9 billion (20% of our total
+assets under management). During the most recent fiscal quarter, our equity assets under management decreased by 14%, from $148.4 billion at December 31, 2008 to $126.9 billion at
+March 31, 2009. 
+
+18
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+        
+Our Mutual Fund Management Contracts May Not Be Renewed, Which May Reduce our Revenues and Net Income  
+
+        A substantial portion of our revenues comes from managing U.S. mutual funds. We generally manage these funds pursuant to management
+contracts with the funds that must be renewed and approved by the funds' boards of directors annually. A majority of the directors of each mutual fund are independent from us. Although the funds'
+boards of directors have historically approved each of our management contracts, there can be no assurance that the board of directors of each fund that we manage will continue to approve the fund's
+management contract each year, or will not condition its approval on the terms of the
+management contract being revised in a way that is adverse to us. If a mutual fund management contract is not renewed, or is revised in a way that is adverse to us, it could result in a reduction in
+our revenues and, if our revenues decline without a commensurate reduction in our expenses, our net income will be reduced. 
+
+        
+Unavailability of Appropriate Investment Opportunities Could Hamper our Investment Performance or Growth  
+
+        An important component of investment performance is the availability of appropriate investment opportunities for new client funds. If
+any of our asset managers is not able to find sufficient investments for new client assets in a timely manner, the asset manager's investment performance could be adversely affected. Alternatively, if
+one of our asset managers does not have sufficient investment opportunities for new funds, it may elect to limit its growth by reducing the rate at which it receives new funds. Depending on, among
+other factors, prevailing market conditions, the asset manager's investment style, regulatory and other limits and the market sectors and types of opportunities in which the asset manager typically
+invests (such as less capitalized companies and other more thinly traded securities in which relatively smaller investments are typically made), the risks of not having sufficient investment
+opportunities may increase when an asset manager increases its assets under management, particularly when the increase occurs very quickly. If our asset managers are not able to identify sufficient
+investment opportunities for new client funds, their investment performance or ability to grow may be reduced. 
+
+        
+Changes in Securities Markets and Prices May Affect our Revenues and Net Income  
+
+        A large portion of our revenues is derived from investment advisory contracts with clients. Under these contracts, the investment
+advisory fees we receive are typically based on the market value of assets under management. Accordingly, a decline in the prices of securities generally may cause our revenues and income to decline
+by: 
+
+
+
+•causing the value of our assets under management to decrease, which would result in lower investment advisory and other
+fees;   
+•causing our clients to withdraw funds in favor of investments they perceive offer greater opportunity or lower risk, which
+would also result in lower investment advisory and other fees; or   
+•decreasing the performance fees earned by our asset managers. 
+
+
+        We
+experienced such a decline in the equity and fixed income markets during fiscal year 2009, which contributed to a decline in our assets under management and revenues during the year.
+If our revenues decline without a commensurate reduction in our expenses, our net income will be reduced. 
+
+
+        There
+are substantial fluctuations in price levels in the securities markets. These fluctuations can occur on a daily basis and over longer periods as a result of a variety of factors,
+including national and international economic and political events, broad trends in business and finance, and interest rate movements. Reduced securities market prices generally may result in reduced
+revenues from lower levels of assets under management and loss or reduction in incentive and performance fees. Periods of reduced market prices may adversely affect our profitability because fixed
+costs remain relatively unchanged. Because we operate in one industry, the business cycles of our asset managers may occur contemporaneously. Consequently, the effect of an economic downturn may have
+a magnified negative effect on our business. 
+
+19
+
+
+
+
+
+
+<A
+NAME="page_ce18001_1_20"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+        
+Changes in Interest Rates Could Have Adverse Effects on our Assets Under Management  
+
+        Increases in interest rates from their present levels may adversely affect the net asset values of our assets under management. In
+addition, in a rising interest rate environment institutional investors may shift liquidity assets that we manage in pooled investment vehicles to direct investments in the types of assets in which
+the pooled vehicles invest in order to realize higher yields. Furthermore, increases in interest rates may result in reduced prices in equity markets. Decreases in interest rates may also lead to
+outflows in fixed income or liquidity assets that we manage as investors seek higher yields. Any of these effects could lower our assets under management and revenues and, if our revenues decline
+without a commensurate reduction in our expenses, our net income will be reduced. 
+
+        
+Competition in the Asset Management Industry Could Reduce our Revenues and Net Income  
+
+        The asset management industry in which we are engaged is extremely competitive and we face substantial competition in all aspects of
+our business. We compete with numerous international and domestic asset management firms and broker-dealers, mutual fund complexes, hedge funds, commercial banks, insurance companies, other investment
+companies and other financial institutions. Many of these organizations offer products and services that are similar to, or compete with, those offered by our asset managers and have substantially
+more personnel and greater financial resources than we do. Some of these competitors have proprietary products and distribution channels that make it more difficult for us to compete with them. In
+addition, many of our competitors have long-standing and established relationships with distributors and clients. From time to time, our asset managers also compete with each other for
+clients and assets under management. Our ability to compete may be adversely affected if, among other things, our asset managers lose key employees or, as is currently the case for certain of the
+products managed by our asset managers, under-perform in comparison to relevant performance benchmarks or peer groups. 
+
+        A
+sizable number of new asset management firms and mutual funds have been established in the last fifteen years, increasing our competition. In addition, the asset management industry
+has experienced consolidation as numerous asset management firms have either been acquired by other financial services firms or ceased operations. In many cases, this has resulted in firms with
+greater financial resources than we have. In addition, a number of heavily capitalized companies, including commercial banks and foreign entities have made investments in and acquired asset management
+firms. Access to mutual fund distribution channels has also become increasingly competitive. All of these factors could make it more difficult for us to compete, and no assurance can be given that we
+will be successful in competing and growing our assets under management and business. If clients and potential clients decide to use the services of competitors, it could reduce our revenues and
+growth rate, and if our revenues decrease without a commensurate reduction in our expenses, our net income will be reduced. In addition, our asset managers are not typically the lowest cost provider
+of asset management services. To the extent that we compete on the basis of price in any of our businesses, we may not be able to maintain our current fee structure in that business, which could
+adversely affect our revenues and net income. 
+
+        Our
+sole business is asset management. As a result, we may be more affected by trends and issues affecting the asset management business, such as industry-wide regulatory
+issues and inquiries, publicity about, and public perceptions of the industry and asset management industry market cycles, than other financial services companies that have more diversified
+businesses. 
+
+        
+We May Engage in Strategic Transactions That Could Create Risks  
+
+        As part of our business strategy, we regularly review, and from time to time have discussions with respect to potential strategic
+transactions, including potential acquisitions, dispositions, consolidations, joint ventures or similar transactions, some of which may be material. There can be no assurance that we will find
+suitable candidates for strategic transactions at acceptable prices, have sufficient capital resources to accomplish our strategy, or be successful in 
+
+20
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+entering
+into agreements for desired transactions. In addition, these transactions typically involve a number of risks and present financial, managerial and operational challenges,
+including: 
+
+
+
+•adverse effects on our reported earnings per share in the event acquired intangible assets or goodwill become impaired;  
+•existence of unknown liabilities or contingencies that arise after closing; and   
+•potential disputes with counterparties. 
+
+
+        Acquisitions,
+including completed acquisitions, also pose the risk that any business we acquire may lose customers or employees or could under-perform relative to expectations. We could
+also experience financial or other setbacks if transactions encounter unanticipated problems, including problems related to execution or integration. Following the completion of an acquisition, we may
+have to rely on the seller to provide administrative and other support, including financial reporting and internal controls, to the acquired business for a period of time. There can be no assurance
+that the seller will do so in a manner that is acceptable to us. 
+
+        Strategic
+transactions typically are announced publicly even though they may remain subject to numerous closing conditions, contingencies and approvals and there is no assurance that any
+announced transaction will actually be consummated. The failure to consummate an announced transaction could have an adverse effect on us. Future transactions may also further increase our leverage
+or, if we issue equity securities to pay for acquisitions, dilute the holdings of our existing stockholders. 
+
+        
+Regulatory Matters May Negatively Affect our Business and Results of Operations  
+
+        Our business is subject to regulation by various regulatory authorities that are charged with protecting the interests of our clients.
+We could be subject to civil liability, criminal liability, or sanction, including revocation of our subsidiaries' registrations as investment advisers, revocation of the licenses of our employees,
+censures, fines, or temporary suspension or permanent bar from conducting business, if we violate such laws or regulations. Any such liability or sanction could have a material adverse effect on our
+financial condition, results of operations, and business prospects. In addition, the regulatory environment in which we operate frequently changes and has seen significant increased regulation in
+recent years. In particular, we have incurred significant additional costs as a result of regulatory changes affecting U.S. mutual funds. We may be adversely affected as a result of new or revised
+legislation or regulations or by changes in the interpretation or enforcement of existing laws and regulations. For example, we note that federal government officials have proposed significant changes
+to the regulatory structure of the financial services industry. We also note that recent recommendations for regulatory reform in the liquidity asset management business include the imposition of
+banking regulations on investment advisors, the creation of net capital requirements for investment advisors and changes in the rules governing money market mutual fund net asset value calculations.
+Any of these revisions could adversely affect our liquidity asset management business and our results of operations. Our business and results of operations can also be adversely affected by federal,
+state and foreign regulatory issues and proceedings. 
+
+        Instances
+of criminal activity and fraud by certain participants in the asset management industry, including hedge funds, have been recently discovered. This activity may result in
+changes to the regulations governing the asset management industry, or in more aggressive enforcement of the existing regulations. Over time, the cumulative effect of these actions may result in
+increased expenses, or lower management or other fees, and therefore adversely affect the revenues or profitability of asset management businesses. 
+
+
+        Our
+broker-dealer subsidiaries and many of our foreign subsidiaries are subject to net capital or liquidity rules and requirements, which mandate that they maintain certain levels of
+capital. A significant operating loss or extraordinary charge against net capital may adversely affect the ability of these subsidiaries to expand or even maintain their present levels of business. 
+
+21
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+        
+If our Reputation Is Harmed, We Could Suffer Losses In our Business, Revenues and Net Income  
+
+        Our business depends on earning and maintaining the trust and confidence of clients and other market participants, and the resulting
+good reputation is critical to our business. Our reputation is vulnerable to many threats that can be difficult or impossible to control, and costly or impossible to remediate.
+Regulatory inquiries, employee misconduct and rumors, among other things, can substantially damage our reputation, even if they are baseless or satisfactorily addressed. Any damage to our reputation
+could impede our ability to attract and retain clients and key personnel, and lead to a reduction in the amount of our assets under management, any of which could have a material adverse effect on our
+revenues and net income. 
+
+        
+Failure to Properly Address Conflicts of Interest Could Harm our Reputation, Business and Results of Operations  
+
+        As we have expanded the scope of our businesses and our client base, we must continue to address conflicts between our interests and
+those of our clients. In addition, the SEC and other regulators have increased their scrutiny of potential conflicts of interest. We have procedures and controls that are reasonably designed to
+address these issues. However, appropriately dealing with conflicts of interest is complex and difficult and if we fail, or appear to fail, to deal appropriately with conflicts of interest, we could
+face reputational damage, litigation or regulatory proceedings or penalties, any of which may adversely affect our revenues or net income. 
+
+        
+Our Business Involves Risks of Being Engaged in Litigation and Liability That Could Increase our Expenses and Reduce our Net Income  
+
+        Many aspects of our business involve substantial risks of liability. In the normal course of business, our asset managers have been
+named as defendants or co-defendants in lawsuits seeking substantial damages. We are also involved from time to time in governmental and self-regulatory agency investigations
+and proceedings. Similarly, the investment funds that our asset managers manage are subject to lawsuits and governmental and self-regulatory investigations and proceedings, any of which
+could harm the investment returns or reputation of the applicable fund or result in our asset managers being liable to the funds for any resulting damages. There has been an increased incidence of
+litigation and regulatory investigations in the asset management industry in recent years, including customer claims as well as class action suits seeking substantial damages. 
+
+        Legg
+Mason and a current and former officer are named as defendants in a consolidated legal action that was initially filed in October 2006. The action alleges that the defendants
+violated the Securities Exchange Act of 1934 and the Securities Act of 1933 by making misleading statements to the public and omitting certain material facts with respect to the acquisition of the
+Citigroup Asset Management business in a prospectus for a secondary stock offering and in other public statements in order to artificially inflate the price of our common stock. The action sought
+certification of a class of shareholders who purchased our common stock between February 1, 2006 and October 10, 2006 or who purchased stock in a secondary public offering around
+March 9, 2006 and seeks unspecified damages. On March 17, 2008, the court granted our motion to dismiss the action. However, the plaintiffs have appealed the dismissal of the complaints
+under the Securities Act. The dismissal of the claims under the Exchange Act on behalf of the proposed class of purchasers of stock between February 1, 2006 and October 10, 2006 was not
+appealed and is now final. We intend to defend the action still under appeal vigorously. We cannot accurately predict the eventual outcome of the appeal at this point, or whether the action will have
+a material adverse effect on us. 
+
+        
+Insurance May Not Be Available on a Cost Effective Basis to Protect us From Liability  
+
+        We face the inherent risk of liability related to litigation from clients, third party vendors or others and actions taken by
+regulatory agencies. To help protect against these potential liabilities, we purchase insurance in amounts, and against risks, that we consider appropriate, where such insurance is available at prices
+we deem acceptable. There can be no assurance, however, that a claim or claims will be covered by insurance or, if covered, will not exceed the limits of available insurance coverage, that any insurer
+will remain solvent and will meet its obligations to provide us with coverage or that insurance coverage will continue to be available with sufficient limits at a reasonable cost. Over the last 
+
+22
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+several
+years, insurance expenses have increased significantly and we expect further increases to be significant going forward. In addition, certain insurance coverage may not be available or may only
+be available at prohibitive costs. Renewals of insurance policies may expose us to additional costs through higher premiums or the assumption of higher deductibles or co-insurance
+liability. 
+
+        
+Failure to Comply With Contractual Requirements or Guidelines Could Result in Liability and Loss of Assets Under Management, Both of Which Could Cause our Net Income to
+Decline  
+
+        The asset management contracts under which we manage client assets, including contracts with investment funds, often specify guidelines
+or contractual requirements that we are obligated to observe in providing asset management services. A failure to comply with these guidelines or requirements could result in damage to our reputation,
+liability to the client or the client reducing its assets under our management, any of which could cause our revenues and net income to decline. 
+
+        
+Loss of Key Personnel Could Harm our Business  
+
+        We are dependent on the continued services of a number of our key asset management personnel and our management team, including our
+Chief Executive Officer. The loss of any of such personnel without adequate replacement could have a material adverse effect on us. Moreover, since certain of our asset managers contribute
+significantly to our revenues and net income, the loss of even a small number of key personnel at these businesses could have a disproportionate impact on our overall business. Additionally, we need
+qualified managers and skilled employees with asset management experience in order to operate our business successfully. The market for experienced asset management professionals is extremely
+competitive and is increasingly characterized by the movement of employees among different firms. Due to the competitive market
+for asset management professionals and the success of some of our employees, our costs to attract and retain key employees are significant and will likely increase over time. From time to time we may
+work with key employees to revise revenue sharing and other employment-related terms to reflect current circumstances. In addition, since the investment track record of many of our products and
+services is often attributed to a small number of individual employees, and sometimes one person, the departure of one or more of these employees could cause the business to lose client accounts or
+managed assets, which could have a material adverse effect on our results of operations and financial condition. If we are unable to attract and retain qualified individuals or our costs to do so
+increase significantly, our operations and financial results would be materially adversely affected. 
+
+        
+Our Business is Subject to Numerous Operational Risks and Risks that We May Incur Charges Related to Leased Facilities  
+
+        We face numerous operational risks related to our business on a day-to-day basis. Among other things, we must
+be able to consistently and reliably obtain securities pricing information, process client and investor transactions and provide reports and other customer service to our clients and investors. Any
+failure to keep current and accurate books and records can render us liable to disciplinary action by governmental and self-regulatory authorities, as well as to claims by our clients. If
+any of our financial, portfolio accounting or other data processing systems do not operate properly or are disabled or if there are other shortcomings or failures in our internal processes, people or
+systems, we could suffer an impairment to our liquidity, a financial loss, a disruption of our businesses, liability to clients, regulatory problems or damage to our reputation. These systems may fail
+to operate properly or become disabled as a result of events that are wholly or partially beyond our control, including a disruption of electrical or communications services or our inability to occupy
+one or more of our buildings. In addition, our operations are dependent upon information from, and communications with, third parties, and operational problems at third parties may adversely affect
+our ability to carry on our business. 
+
+        Our
+operations rely on the secure processing, storage and transmission of confidential and other information in our computer systems and networks. Although we take protective measures
+and endeavor to modify them as circumstances warrant, our computer systems, software and networks may be vulnerable to unauthorized access, computer viruses or other malicious code, and other events
+that have a security impact. If one or more of such events 
+
+23
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+occur,
+it potentially could jeopardize our or our clients' or counterparties' confidential and other information processed and stored in, and transmitted through, our computer systems and networks, or
+otherwise cause interruptions or malfunctions in our, our clients', our counterparties' or third parties' operations. We may be required to spend significant additional resources to modify our
+protective measures or to investigate and remediate vulnerabilities or other exposures, and we may be subject to litigation and financial losses that are either not insured against fully or not fully
+covered through any insurance that we maintain. 
+
+        We
+depend on our headquarters, the offices of our subsidiaries and our operations centers for the continued operation of our business. A disaster or a disruption in the infrastructure
+that supports our asset managers, or an
+event disrupting the ability of our employees to perform their job functions, including terrorist attacks or a disruption involving electrical communications, transportation or other services used by
+us or third parties with whom we conduct business, directly affecting our headquarters, the offices of our subsidiaries or our operations centers may have a material adverse impact on our ability to
+continue to operate our business without interruption. Although we have disaster recovery programs in place, there can be no assurance that these will be sufficient to mitigate the harm that may
+result from such a disaster or disruption. In addition, insurance and other safeguards might only partially reimburse us for our losses. 
+
+        We
+are exposed to the risk of incurring charges related to subleases or vacant space for several of our leased offices. As of March 31, 2009, we had future commitments from third
+parties under non-cancellable subleases of approximately $101 million that effectively offset obligations under our leases for the properties, and had approximately
+$93 million in future lease commitments for office space that we have vacated and are seeking to sublease. We are also currently seeking sub-tenants for certain floors in the new
+headquarters that we will move into during fiscal year 2010, and, in the future, we may elect to vacate or sublease additional leased offices. Under generally accepted accounting principles, at the
+time a sublease is entered into or space is deemed permanently abandoned, we must incur a charge equal to the present value of the amount by which the commitment under the lease exceeds the amount
+due, or amount expected to be paid, under a sublease. As a result, in a period of declining commercial lease markets, we are exposed to the risk of incurring charges relating to any premises we are
+seeking to sublease resulting from longer periods to identify sub-tenants and reduced market rent rates leading to new sub-tenants paying less in rent than we are paying under
+our lease. Also, if a sub-tenant defaults on its sublease, we would likely incur a charge for the rent that we will incur during the period that we expect would be required to sublease the
+premises and any reduction in rent that current market rent rates lead us to expect a new sub-tenant will pay. This risk is underscored by the fact that one sub-tenant
+represents approximately 90% of the sublease rent commitment described above. During fiscal year 2009, we recognized aggregate charges of $79 million resulting from a default by a
+sub-tenant and declining market conditions leading to longer periods to identify sub-tenants and declines in expected sublease rent for premises we are seeking to sublease.
+There can be no assurance that we will not recognize additional lease-related charges, which may be material to our results of operations. 
+
+        
+Potential Impairment of Goodwill and Intangible Assets Could Increase our Expenses and Reduce our Assets  
+
+        Determining goodwill and intangible assets, and evaluating them for impairment, requires significant management estimates and judgment,
+including estimating value and assessing life in connection with the allocation of purchase price in the acquisition creating them. Our goodwill and intangible assets may become impaired as a result
+of any number of factors, including losses of investment management contracts or declines in the value of managed assets. Any impairment of goodwill or intangibles could have a material adverse effect
+on our results of operations. For example, during the year ended March 31, 2009, we incurred aggregate impairment charges of $1.3 billion ($806 million, net of taxes) relating to
+goodwill and intangible assets including acquired asset management contracts and trade names. Our $100 million in amortizable intangible assets represent asset management contracts purchased in
+several transactions. These assets could become impaired if we experience client attrition at a rate faster than projected or fees charged under the contracts are reduced. The domestic mutual fund
+contracts acquired in the 2005 acquisition of the Citigroup Asset Management business ("CAM") of $2,502 million and the Permal funds-of-hedge funds contracts of
+$947 million account for approximately 65% and 25%, respectively, of our indefinite-life intangible assets, while the goodwill in our Americas and International divisions aggregates $1.2
+billion. Changes in the assumptions underlying 
+
+24
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+projected
+cash flows from the assets or reporting units, resulting from market conditions, reduced assets under management or other factors, could result in an impairment of any of these assets.
+Assuming all other factors remain the same, actual results and changes in assumptions for the CAM mutual fund and Permal fund-of-hedge funds contracts would have to cause our
+cash flow projections over the long-term to deviate more than 16% and 20%, respectively, from previous projections or the discount rate would have to increase by 1.3 and
+2.3 percentage points, respectively, for the asset to be deemed impaired. Similarly, assuming all other factors remain the same, actual results and changes in assumptions for the Americas and
+International divisions would have to cause our cash flow projections over the long-term to decrease more than 42% and 34%, respectively, from previous projections or the discount rate
+would have to increase by 5 and 4 percentage points, respectively, for the goodwill to be deemed impaired. There can be no assurances that continued market turmoil or asset outflows, or other
+factors, will not produce an impairment. See "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations — Critical Accounting
+Policies — Intangible Assets and Goodwill." 
+
+        
+Deferred Tax Assets May Not Be Fully Realizable  
+
+        As of March 31, 2009, we had approximately $1.3 billion in deferred tax assets relating to U.S. taxing jurisdictions,
+which represent tax benefits that we expect to realize in future periods. Under accounting rules, we are required to recognize a charge to earnings to reduce our deferred tax assets if it is
+determined that any future tax benefits are not likely to be realized before they expire. Deferred tax assets generated in U.S. jurisdictions resulting from net operating losses generally expire
+20 years after they are generated. In order to realize these future tax benefits, we estimate that we must generate approximately $5.7 billion in U.S. earnings before the benefits
+expire. There can be no assurances that we will achieve this level of earnings before
+some portion of these tax benefits expires. In addition, our belief that we will likely be able to realize these future tax benefits is based in part upon our estimates of the timing of other
+differences in revenue and expense recognition between tax returns and financial statements and our understanding of the application of tax regulations, which may prove to be incorrect for any number
+of reasons, including future changes in tax or accounting regulations. If we are required to recognize a charge to earnings to reduce our deferred tax assets, the charge may be material to our
+earnings or financial condition. 
+
+        
+Performance-Based Fee Arrangements May Increase the Volatility of our Revenues  
+
+        A portion of our investment advisory and related fee revenues is derived from performance fees. Our asset managers earn performance
+fees under certain client agreements if the investment performance in the portfolio meets or exceeds a specified benchmark. If the investment performance does not meet or exceed the investment return
+benchmark for a particular period, the asset manager will not generate a performance fee for that period and, if the benchmark is based on cumulative returns, the asset managers' ability to earn
+performance fees in future periods may be impaired. Recent investment performance issues and poor market conditions have had a negative effect on the performance fees we earn. We earned
+$17.4 million in performance fees during fiscal 2009 and $132.7 million in performance fees during fiscal 2008. Our opportunities to receive performance fees have generally increased as
+a result of the November 2005 acquisition of Permal, a fund-of-hedge funds manager that can earn performance fees in addition to the fees earned by its underlying hedge fund
+managers. Performance fees may become more common in our industry. An increase in performance fees, or in performance-based fee arrangements with our clients, could create greater fluctuations in our
+revenues. 
+
+        
+We Are Exposed to a Number of Risks Arising From our International Operations  
+
+        Our asset managers operate in a number of jurisdictions outside of the United States on behalf of international clients. We have
+offices in numerous countries and many cross border and local proprietary funds that are domiciled outside the United States. Our international operations require us to comply with the legal
+requirements of various foreign jurisdictions, expose us to the political consequences of operating in foreign jurisdictions and subject us to expropriation risks, expatriation controls and potential
+adverse tax consequences which, among other things, make it 
+
+25
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+more
+difficult to repatriate to the United States the cash that we generate outside the U.S. Our foreign business operations are also subject to the following risks: 
+
+
+
+•difficulty in managing, operating and marketing our international operations;   
+•fluctuations in currency exchange rates which may result in substantial negative effects on assets under management and
+revenues; and   
+•significant adverse changes in foreign legal and regulatory environments. 
+
+
+        
+We Rely on Third Parties to Distribute our Mutual Funds and Certain Other Products  
+
+        In the transaction in which we acquired the CAM business, we transferred our retail securities brokerage and capital markets businesses
+to Citigroup. Prior to the closing of the transaction, our retail securities brokerage business had been the primary retail distributor of the Legg Mason Funds and both our retail brokerage and our
+capital markets businesses had distributed a number of our other asset management products and services. Since the transaction, we have been moving to an "open architecture" distribution model and now
+utilize third party distributors for many of our asset management products and services, which may expose us to risks resulting from the fact that we do not control the distributors. For example, we
+must compensate the distributors for selling our products and services in amounts that are agreed between them and us but which, in many cases, are largely determined by the distributor. In addition,
+these distributors generally offer their clients various investment products and services, including proprietary products and services, in addition to and in competition with our products and
+services. 
+
+        Pursuant
+to a Global Distribution Agreement we entered into with Citigroup, Citigroup has agreed to distribute certain of our asset management products and services, including the Legg
+Mason Funds and the Legg Mason Partners Funds, through its various distribution businesses, and we agreed that, subject to a few exceptions, Citigroup's retail securities brokerage would be the
+exclusive retail distributor of the Legg Mason Funds that are managed by Legg Mason Capital Management for a period of three years that ended in February 2009. Since that exclusivity ended, we are
+working to distribute the funds through a number of third parties, including Citigroup's retail securities brokerage. There can be no assurance that the termination of this exclusivity provision will
+not have an adverse effect on our ability or costs to acquire new, or retain our existing, assets under management. 
+
+        The
+former CAM business has historically relied upon Citigroup's distribution businesses to be the primary distributor of its products and services, and we expect this reliance to
+continue for some time despite the fact that CAM is no longer under common ownership with the distributors. The majority of our fund assets under management were distributed through Citigroup's
+various distribution businesses. While the Citigroup and other distributors are compensated for distributing our products and services, there can be no assurances that we will be successful in
+distributing the Legg Mason Funds and our other products and services, including those managed or offered by ClearBridge and other former CAM businesses, through Citigroup's distributors, that we will
+be
+successful in distributing our products and services through other third party distributors, or that the transfer of our retail securities brokerage and capital markets businesses will not have an
+adverse effect on our ability to distribute, or the costs of distributing, our products and services. In addition, mergers and other corporate transactions among distributors may affect our
+distribution relationships. For example, we are unable to predict with accuracy whether the pending combination of Citigroup's retail brokerage business into the business of another major retail
+broker will affect our existing distribution relationships or our ability, or costs, to attract new, and retain existing, investors in our products. If we are unable to distribute our products and
+services successfully, it will adversely affect our revenues and net income, and any increase in distribution related expenses could adversely affect our net income. 
+
+        
+Our Funds-of-Hedge Funds Business Entails a Number of Risks  
+
+        Permal operates in the international funds-of-hedge funds business, a portion of the asset management business
+in which we had not been engaged before we acquired Permal. The funds-of-hedge funds business and Permal had both 
+
+26
+
+
+
+
+ 
+
+<A
+HREF="#bg18001a_main_toc">Table of Contents
+
+
+
+grown
+rapidly over the last several years. This growth did not continue in fiscal year 2009, during which there was a contraction in the funds-of-hedge funds business as the
+weak economic environment led investors to withdraw assets from the industry. The funds-of-hedge funds business typically involves clients being charged fees on two
+levels — at the funds-of-funds level and at the underlying funds level. These fees may include management fees and performance fees. There is no assurance
+that Permal will not be forced to change its fee structures by competitive or other pressures or that Permal's fee structures will not hamper its growth. In addition, Permal may generate significant
+performance fees from time to time, which could increase the volatility of our revenues. See " — Performance-Based Fee Arrangements May Increase the Volatility of our Revenues."
+Because Permal operates in the funds-of-hedge funds business globally, it is exposed to a number of regulatory authorities and requirements in different jurisdictions. 
+
+<A
+NAME="ce18001_item_1b._unresolved_staff_comments."> 
+ 
+  ITEM 1B

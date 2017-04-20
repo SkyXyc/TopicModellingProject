@@ -1,0 +1,1007 @@
+Item 1A.  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    The following are certain of the important factors that could
+    cause our actual operating results to differ materially from
+    those indicated or suggested by forward-looking statements made
+    in this annual report on
+    Form 10-K
+    or presented elsewhere by management from time to time.
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+
+    The
+    markets in which we operate are highly competitive, and we may
+    be unable to compete successfully against new entrants with
+    innovative approaches and established companies with greater
+    resources.
+
+
+ 
+
+
+    We compete in markets that are intensely competitive, highly
+    fragmented and rapidly changing. We have experienced and expect
+    to continue to experience increased competition. Many of our
+    current competitors, as well as a number of our potential
+    competitors, have longer operating histories, greater name
+    recognition, broader customer relationships and industry
+    alliances and substantially greater financial, technical and
+    marketing resources than we do. Other competitors may attract
+    customers by offering less-sophisticated versions of services
+    than we provide at lower prices than those we charge. Our
+    competitors may be able to respond more quickly than we can to
+    new or emerging technologies and changes in customer
+    requirements. Some of our current or potential competitors may
+    bundle their offerings with other services, software or hardware
+    in a manner that may discourage website owners from purchasing
+    any service we offer. Increased competition could result in
+    price and revenue reductions, loss of customers and loss of
+    market share, which could materially and adversely affect our
+    business, financial condition and results of operations.
+
+
+ 
+
+
+    In addition, potential customers may decide to purchase or
+    develop their own hardware, software and other technology
+    solutions rather than rely on an external provider like Akamai.
+    As a result, our competitors include hardware manufacturers,
+    software companies and other entities that offer
+    Internet-related solutions that are not service-based
+    competitors. It is an important component of our growth strategy
+    to educate enterprises and government agencies about our
+    services and convince them to entrust their content and
+    applications to an external service provider, and Akamai in
+    particular. If we are unsuccessful in such efforts, our
+    business, financial condition and results of operations could
+    suffer.
+
+
+ 
+
+
+
+    If we
+    are unable to sell our services at acceptable prices relative to
+    our costs, our business and financial results are likely to
+    suffer.
+
+
+ 
+
+
+    Prices we have been charging for some of our services have
+    declined in recent years. We expect that this decline may
+    continue in the future as a result of, among other things,
+    existing and new competition in the markets we serve.
+    Consequently, our historical revenue rates may not be indicative
+    of future revenues based on comparable traffic volumes. If we
+    are unable to sell our services at acceptable prices relative to
+    our costs or if we are unsuccessful with our strategy of selling
+    additional services and features to our existing content
+    delivery customers, our revenues and gross margins will
+    decrease, and our business and financial results will suffer.
+
+
+ 
+
+
+
+    Failure
+    to increase our revenues and keep our expenses consistent with
+    revenues could prevent us from maintaining profitability at
+    recent levels or at all.
+
+
+ 
+
+
+    The year ended December 31, 2004 was the first fiscal year
+    during which we achieved profitability as measured in accordance
+    with accounting principles generally accepted in the United
+    States of America. We have large fixed expenses, and we expect
+    to continue to incur significant bandwidth, sales and marketing,
+    product development, administrative and other expenses.
+    Therefore, we will need to generate higher revenues to maintain
+    profitability at recent levels or at all. There are numerous
+    factors that could, alone or in combination with other factors,
+    impede our ability to increase revenues
+    and/or
+    moderate expenses, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    failure to increase sales of our core services;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    significant increases in bandwidth costs or other operating
+    expenses;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    inability to maintain our prices;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    any failure of our current and planned services and software to
+    operate as expected;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    loss of any significant customers or loss of customers at a rate
+    greater than we increase our number of customers or our sales to
+    existing customers;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    unauthorized use or access to content delivered over our network
+    or network failures;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    failure of a significant number of customers to pay our fees on
+    a timely basis or at all or failure to continue to purchase our
+    services in accordance with their contractual
+    commitments; and
+
+
+
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    inability to attract high-quality customers to purchase and
+    implement our current and planned services.
+
+
+
+
+
+ 
+
+
+
+    Future
+    changes in financial accounting standards may adversely affect
+    our reported results of operations.
+
+
+ 
+
+
+    A change in accounting standards can have a significant effect
+    on our reported results. New accounting pronouncements and
+    interpretations of accounting pronouncements have occurred and
+    may occur in the future. These new accounting pronouncements may
+    adversely affect our reported financial results. For example,
+    beginning in 2006, under Statement of Financial Accounting
+    Standards No. 123R, or SFAS No. 123R, we will be
+    required to account for our stock-based awards as a compensation
+    expense and our net income and net income per share will be
+    significantly reduced. Previously, we have recorded compensation
+    expense only in connection with option grants that have an
+    exercise price below fair market value. For option grants that
+    have an exercise price at fair market value, we calculated
+    compensation expense and disclosed their impact on net income
+    (loss) and net income (loss) per share, as well as the impact of
+    all stock-based compensation expense in a footnote to the
+    consolidated financial statements. SFAS No. 123R
+    requires us to adopt the new accounting provisions beginning in
+    our first quarter of 2006, and will require us to expense
+    stock-based awards, including shares issued under our employee
+    stock purchase plan, stock options, restricted stock and stock
+    appreciation rights, as compensation cost. As a result, our
+    earnings per share is likely to be significantly lower even if
+    our revenues increase.
+
+
+ 
+
+
+
+    If we
+    are unable to develop new services and enhancements to existing
+    services, and if we fail to predict and respond to emerging
+    technological trends and customers’ changing needs, our
+    operating results may suffer.
+
+
+ 
+
+
+    The market for our services is characterized by rapidly changing
+    technology, evolving industry standards and new product and
+    service introductions. Our operating results depend on our
+    ability to develop and introduce new services into existing and
+    emerging markets. The process of developing new technologies is
+    complex and uncertain; we must commit significant resources to
+    developing new services or enhancements to our existing services
+    before knowing whether our investments will result in services
+    the market will accept. Furthermore, we may not execute
+    successfully our technology initiatives because of errors in
+    planning or timing, technical hurdles that we fail to overcome
+    in a timely fashion, misunderstandings about market demand or a
+    lack of appropriate resources. Failures in execution or market
+    acceptance of new services we introduce could result in
+    competitors providing those solutions before we do and,
+    consequently, loss of market share, revenues and earnings.
+
+
+ 
+
+
+
+    Any
+    unplanned interruption in the functioning of our network or
+    services could lead to significant costs and disruptions that
+    could reduce our revenues and harm our business, financial
+    results and reputation.
+
+
+ 
+
+
+    Our business is dependent on providing our customers with fast,
+    efficient and reliable distribution of application and content
+    delivery services over the Internet. For our core services, we
+    currently provide a standard guarantee that our networks will
+    deliver Internet content 24 hours a day, 7 days a
+    week, 365 days a year. If we do not meet this standard, our
+    customer does not pay for all or a part of its services on that
+    day. Our network or services could be disrupted by numerous
+    events, including natural disasters, failure or refusal of our
+    third-party network providers to provide the necessary capacity,
+    power losses, and intentional disruptions of our services, such
+    as disruptions caused by software viruses or attacks by
+    unauthorized users. Although we have taken steps to prevent such
+    disruptions, there can be no assurance that attacks by
+    unauthorized users will not be attempted in the future, that our
+    enhanced security measures will be effective or that a
+    successful attack would not be damaging. Any widespread
+    interruption of the functioning our network or services would
+    reduce our revenues and could harm our business, financial
+    results and reputation.
+
+
+ 
+
+
+
+    As
+    part of our business strategy, we have entered into and may
+    enter into or seek to enter into business combinations and
+    acquisitions that may be difficult to integrate, disrupt our
+    business, dilute stockholder value or divert management
+    attention.
+
+
+ 
+
+
+    In June 2005, we completed our acquisition of Speedera. We may
+    seek to enter into additional business combinations or
+    acquisitions in the future. Acquisitions are typically
+    accompanied by a number of risks, including the difficulty of
+    integrating the operations and personnel of the acquired
+    companies, the potential disruption of our ongoing business, the
+    potential distraction of management, expenses related to the
+    acquisition and potential
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+    unknown liabilities associated with acquired businesses. Any
+    inability to integrate completed acquisitions in an efficient
+    and timely manner could have an adverse impact on our results of
+    operation. If we are not successful in completing acquisitions
+    that we may pursue in the future, we may be required to
+    reevaluate our business strategy, and we may incur substantial
+    expenses and devote significant management time and resources
+    without a productive result. In addition, with future
+    acquisitions, we could use substantial portions of our available
+    cash or, as in the Speedera acquisition, make dilutive issuances
+    of securities. Future acquisitions or attempted acquisitions
+    could also have an adverse effect on our ability to remain
+    profitable.
+
+
+ 
+
+
+
+    Because
+    our services are complex and are deployed in complex
+    environments, they may have errors or defects that could
+    seriously harm our business.
+
+
+ 
+
+
+    Our services are highly complex and are designed to be deployed
+    in and across numerous large and complex networks. From time to
+    time, we have needed to correct errors and defects in our
+    software. In the future, there may be additional errors and
+    defects in our software that may adversely affect our services.
+    We may not have in place adequate quality assurance procedures
+    to ensure that we detect errors in our software in a timely
+    manner. If we are unable to efficiently fix errors or other
+    problems that may be identified, or if there are unidentified
+    errors that allow persons to improperly access our services, we
+    could experience loss of revenues and market share, damage to
+    our reputation, increased expenses and legal actions by our
+    customers.
+
+
+ 
+
+
+
+    We may
+    have insufficient transmission and server capacity, which could
+    result in interruptions in our services and loss of
+    revenues.
+
+
+ 
+
+
+    Our operations are dependent in part upon transmission capacity
+    provided by third-party telecommunications network providers. In
+    addition, our distributed network must be sufficiently robust to
+    handle all of our customers’ traffic. We believe that we
+    have access to adequate capacity to provide our services;
+    however, there can be no assurance that we are adequately
+    prepared for unexpected increases in bandwidth demands by our
+    customers. In addition, the bandwidth we have contracted to
+    purchase may become unavailable for a variety of reasons
+    including due to payment disputes or network providers going out
+    of business. Any failure of these network providers to provide
+    the capacity we require, due to financial or other reasons, may
+    result in a reduction in, or interruption of, service to our
+    customers. If we do not have access to third-party transmission
+    capacity, we could lose customers. If we are unable to obtain
+    transmission capacity on terms commercially acceptable to us or
+    at all, our business and financial results could suffer. We may
+    not be able to deploy on a timely basis enough servers to meet
+    the needs of our customer base or effectively manage the
+    functioning of those servers. In addition, damage or destruction
+    of, or other denial of access to, a facility where our servers
+    are housed could result in a reduction in, or interruption of,
+    service to our customers.
+
+
+ 
+
+
+
+    If the
+    estimates we make, and the assumptions on which we rely, in
+    preparing our financial statements prove inaccurate, our actual
+    results may be adversely affected.
+
+
+ 
+
+
+    Our financial statements have been prepared in accordance with
+    accounting principles generally accepted in the United States of
+    America. The preparation of these financial statements requires
+    us to make estimates and judgments about, among other things,
+    taxes, revenue recognition, capitalization of internal-use
+    software, contingent obligations, doubtful accounts and
+    restructuring charges. These estimates and judgments affect the
+    reported amounts of our assets, liabilities, revenues and
+    expenses, the amounts of charges accrued by us, such as those
+    made in connection with our restructuring charges, and related
+    disclosure of contingent assets and liabilities. We base our
+    estimates on historical experience and on various other
+    assumptions that we believe to be reasonable under the
+    circumstances. If our estimates or the assumptions underlying
+    them are not correct, we may need to accrue additional charges
+    that could adversely affect our results of operations, which in
+    turn could adversely affect our stock price.
+
+
+ 
+
+
+
+    If we
+    are unable to retain our key employees and hire qualified sales
+    and technical personnel, our ability to compete could be
+    harmed.
+
+
+ 
+
+
+    Our future success depends upon the continued services of our
+    executive officers and other key technology, sales, marketing
+    and support personnel who have critical industry experience and
+    relationships that they rely on in
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+    implementing our business plan. There is increasing competition
+    for talented individuals in the areas in which our primary
+    offices are located. This affects both our ability to retain key
+    employees and hire new ones. None of our officers or key
+    employees is bound by an employment agreement for any specific
+    term. The loss of the services of any of our key employees could
+    delay the development and introduction of, and negatively impact
+    our ability to sell, our services.
+
+
+ 
+
+
+
+    If our
+    license agreement with MIT terminates, our business could be
+    adversely affected.
+
+
+ 
+
+
+    We have licensed technology from MIT covered by various patents,
+    patent applications and copyrights relating to Internet content
+    delivery technology. Some of our core technology is based in
+    part on the technology covered by these patents, patent
+    applications and copyrights. Our license is effective for the
+    life of the patents and patent applications; however, under
+    limited circumstances, such as a cessation of our operations due
+    to our insolvency or our material breach of the terms of the
+    license agreement, MIT has the right to terminate our license. A
+    termination of our license agreement with MIT could have a
+    material adverse effect on our business.
+
+
+ 
+
+
+
+    We may
+    need to defend our intellectual property and processes against
+    patent or copyright infringement claims, which would cause us to
+    incur substantial costs.
+
+
+ 
+
+
+    Other companies or individuals, including our competitors, may
+    hold or obtain patents or other proprietary rights that would
+    prevent, limit or interfere with our ability to make, use or
+    sell our services or develop new services, which could make it
+    more difficult for us to increase revenues and improve
+    profitability. Companies holding Internet-related patents or
+    other intellectual property rights are increasingly bringing
+    suits alleging infringement of such rights. Any litigation or
+    claims, whether or not valid, could result in substantial costs
+    and diversion of resources and require us to do one or more of
+    the following:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    cease selling, incorporating or using products or services that
+    incorporate the challenged intellectual property;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    pay substantial damages;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    obtain a license from the holder of the infringed intellectual
+    property right, which license may not be available on reasonable
+    terms or at all; or
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    redesign products or services.
+
+
+
+
+
+ 
+
+
+    If we are forced to take any of these actions, our business may
+    be seriously harmed. In the event of a successful claim of
+    infringement against us and our failure or inability to obtain a
+    license to the infringed technology, our business and operating
+    results could be materially adversely affected.
+
+
+ 
+
+
+
+    Our
+    business will be adversely affected if we are unable to protect
+    our intellectual property rights from unauthorized use or
+    infringement by third parties.
+
+
+ 
+
+
+    We rely on a combination of patent, copyright, trademark and
+    trade secret laws and restrictions on disclosure to protect our
+    intellectual property rights. We have brought numerous lawsuits
+    against entities that we believe are infringing on our
+    intellectual property rights. These legal protections afford
+    only limited protection. Monitoring unauthorized use of our
+    services is difficult and we cannot be certain that the steps we
+    have taken will prevent unauthorized use of our technology,
+    particularly in foreign countries where the laws may not protect
+    our proprietary rights as fully as in the United States.
+    Although we have licensed from other parties proprietary
+    technology covered by patents, we cannot be certain that any
+    such patents will not be challenged, invalidated or
+    circumvented. Furthermore, we cannot be certain that any pending
+    or future patent applications will be granted, that any future
+    patent will not be challenged, invalidated or circumvented, or
+    that rights granted under any patent that may be issued will
+    provide competitive advantages to us.
+
+
+ 
+
+
+
+    We
+    face risks associated with international operations that could
+    harm our business.
+
+
+ 
+
+
+    We have operations in several foreign countries and may continue
+    to expand our sales and support organizations internationally.
+    Such expansion could require us to make significant
+    expenditures. We are increasingly
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+    subject to a number of risks associated with international
+    business activities that may increase our costs, lengthen our
+    sales cycle and require significant management attention. These
+    risks include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    increased expenses associated with marketing services in foreign
+    countries;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    currency exchange rate fluctuations;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    unexpected changes in regulatory requirements resulting in
+    unanticipated costs and delays;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    interpretations of laws or regulations that would subject us to
+    regulatory supervision or, in the alternative, require us to
+    exit a country which could have a negative impact on the quality
+    of our services or our results of operations;
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    longer accounts receivable payment cycles and difficulties in
+    collecting accounts receivable; and
+
+
+
+ 
+
+
+     
+        • 
+
+    
+    potentially adverse tax consequences.
+
+
+
+
+
+ 
+
+
+
+    Any
+    failure to meet our debt obligations would damage our
+    business.
+
+
+ 
+
+
+    We have long-term debt. As of December 31, 2005, our total
+    long-term debt was $200.0 million. If we are unable to
+    remain profitable or if we use more cash than we generate in the
+    future, our level of indebtedness could adversely affect our
+    future operations by increasing our vulnerability to adverse
+    changes in general economic and industry conditions and by
+    limiting or prohibiting our ability to obtain additional
+    financing for future capital expenditures, acquisitions and
+    general corporate and other purposes. In addition, if we are
+    unable to make interest or principal payments when due, we would
+    be in default under the terms of our notes, which would result
+    in all principal and interest becoming due and payable which, in
+    turn, would seriously harm our business.
+
+
+ 
+
+
+
+    If we
+    are required to seek additional funding, such funding may not be
+    available on acceptable terms or at all.
+
+
+ 
+
+
+    If our revenues decrease or grow more slowly than we anticipate,
+    if our operating expenses increase more than we expect or cannot
+    be reduced in the event of lower revenues, or if we seek to
+    acquire significant businesses or technologies, we may need to
+    obtain funding from outside sources. If we are unable to obtain
+    this funding, our business would be materially and adversely
+    affected. In addition, even if we were to find outside funding
+    sources, we might be required to issue securities with greater
+    rights than the securities we have outstanding today. We might
+    also be required to take other actions that could lessen the
+    value of our common stock, including borrowing money on terms
+    that are not favorable to us. In addition, we may not be able to
+    raise any additional capital.
+
+
+ 
+
+
+
+    Internet-related
+    and other laws could adversely affect our
+    business.
+
+
+ 
+
+
+    Laws and regulations that apply to communications and commerce
+    over the Internet are becoming more prevalent. In particular,
+    the growth and development of the market for online commerce has
+    prompted calls for more stringent tax, consumer protection and
+    privacy laws, both in the United States and abroad, that may
+    impose additional burdens on companies conducting business
+    online or providing Internet-related services such as ours. This
+    could negatively affect both our business directly as well as
+    the businesses of our customers, which could reduce their demand
+    for our services. Tax laws that might apply to our servers,
+    which are located in many different jurisdictions, could require
+    us to pay additional taxes that would adversely affect our
+    continued profitability. We have recorded certain tax reserves
+    to address potential exposures involving our sales and use and
+    franchise tax positions. These potential tax liabilities result
+    from the varying application of statutes, rules, regulations and
+    interpretations by different jurisdictions. Our reserves,
+    however, may not be adequate to reflect our total actual
+    liability. Internet-related laws remain largely unsettled, even
+    in areas where there has been some legislative action. The
+    adoption or modification of laws or regulations relating to the
+    Internet or our operations, or interpretations of existing law,
+    could adversely affect our business.
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+
+    Provisions
+    of our charter documents, our stockholder rights plan and
+    Delaware law may have anti-takeover effects that could prevent a
+    change in control even if the change in control would be
+    beneficial to our stockholders.
+
+
+ 
+
+
+    Provisions of our amended and restated certificate of
+    incorporation, amended and restated by-laws and Delaware law
+    could make it more difficult for a third party to acquire us,
+    even if doing so would be beneficial to our stockholders. In
+    addition, our Board of Directors has adopted a shareholder
+    rights plan the provisions of which could make it more difficult
+    for a potential acquirer of Akamai to consummate an acquisition
+    transaction without the approval of our Board of Directors.
+
+
+ 
+
+
+
+    A
+    class action lawsuit has been filed against us and an adverse
+    resolution of such action could have a material adverse effect
+    on our financial condition and results of operation in the
+    period in which the lawsuit is resolved.
+
+
+ 
+
+
+    We are named as a defendant in a purported class action lawsuit
+    filed in 2001 alleging that the underwriters of our initial
+    public offering received undisclosed compensation in connection
+    with our initial public offering of common stock in violation of
+    the Securities Act and the Securities Exchange Act of 1934, as
+    amended, which we refer to as the Exchange Act. Any conclusion
+    of these matters in a manner adverse to us could have a material
+    adverse affect on our financial position and results of
+    operations.
+
+
+ 
+
+
+
+    We may
+    become involved in other litigation that may adversely affect
+    us.
+
+
+ 
+
+
+    In the ordinary course of business, we may become involved in
+    litigation, administrative proceedings and governmental
+    proceedings. Such matters can be time-consuming, divert
+    management’s attention and resources and cause us to incur
+    significant expenses. Furthermore, there can be no assurance
+    that the results of any of these actions will not have a
+    material adverse effect on our business, results of operations
+    or financial condition.
+
+
+ 
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

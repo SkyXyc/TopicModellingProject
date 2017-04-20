@@ -1,0 +1,1131 @@
+ITEM 1A
+
+RISK FACTORS
+
+Forward-Looking Statements and Risk Factors
+
+This Annual Report on Form 10-K contains forward-looking statements. All statements in this report,
+other than statements that are purely historical, are forward-looking statements. Words such as
+“expect,” “anticipate,” “intend,” “plan,” “believe,” “forecast,” “estimate,” “seek,” and similar
+expressions also identify forward-looking statements. In this report, forward-looking statements
+include, without limitation, the following:
+
+
+
+
+     
+    •
+     
+    our expectations and beliefs regarding future conduct and growth of the business;
+
+
+
+     
+
+     
+    •
+     
+    our expectations regarding competition and our ability to compete effectively;
+
+
+
+     
+
+     
+    •
+     
+    our expectations regarding the development of future products, services and technology
+platforms and our research and development efforts;
+
+
+
+     
+
+     
+    •
+     
+    our intention to create easy-to-use connected services that solve customer problems
+while building durable competitive advantage;
+
+
+
+     
+
+     
+    •
+     
+    the assumptions underlying our critical accounting policies and estimates, including
+our estimates regarding product rebate and return reserves; stock volatility and other
+assumptions used to estimate the fair value of share-based compensation; and expected
+future amortization of purchased intangible assets;
+
+
+
+     
+
+     
+    •
+     
+    our belief that the investments that we hold are not other-than-temporarily impaired;
+
+
+
+     
+
+     
+    •
+     
+    our belief that the reduction in liquidity of the municipal auction rate securities we
+hold will not have a material impact on our overall ability to meet our liquidity needs;
+
+
+
+     
+
+     
+    •
+     
+    our belief that our exposure to currency exchange fluctuation risk will not be significant in the future;
+
+
+
+     
+
+     
+    •
+     
+    our assessments and estimates that determine our effective tax rate;
+
+
+
+     
+
+     
+    •
+     
+    our belief that our income tax valuation allowance is sufficient;
+
+
+
+     
+
+     
+    •
+     
+    our belief that our cash and cash equivalents, investments and cash generated from
+operations will be sufficient to meet our working capital, capital expenditure and other
+liquidity requirements for at least the next 12 months;
+
+
+
+     
+
+     
+    •
+     
+    our belief that long-term trends toward the use of both desktop and online software
+will provide future growth opportunities;
+
+
+
+     
+
+     
+    •
+     
+    our belief that our facilities are adequate for our near-term needs and that we will be
+able to locate additional facilities as needed; and
+
+
+
+     
+
+     
+    •
+     
+    our assessments and beliefs regarding the future outcome of pending legal proceedings
+and the liability, if any, that Intuit may incur as a result of those proceedings.
+
+
+
+
+We caution investors that forward-looking statements are only predictions based on our current
+expectations about future events and are not guarantees of future performance. We encourage you to
+read carefully all information provided in this report and in our other filings with the SEC before
+deciding to invest in our stock or to maintain or change your investment. These forward-looking
+statements are based on information as of the filing date of this Annual Report, and we undertake
+no obligation to revise or update any forward-looking statement for any reason.
+
+
+Because forward-looking statements involve risks and uncertainties, there are important factors
+that may cause actual results to differ materially from those contained in the forward-looking
+statements. These factors include the following:
+We face intense competitive pressures that may harm our operating results.
+
+We face intense competition in all of our businesses, and we expect competition to remain intense
+in the future. The number, resources and sophistication of the companies with whom we compete have
+increased as we continue to expand our product and service offerings. Our competitors, whether new
+or well-established, may introduce superior products and services, reduce prices, gain better
+access to distribution
+
+16
+
+
+
+Table of Contents
+
+
+channels, have greater technical, marketing and other resources, have
+greater name recognition, have larger installed bases of customers, have well-established
+relationships with our current and potential customers, advertise aggressively or beat us to market
+with new products and services. We also face intensified competition from providers of free online
+and desktop accounting, tax, banking and other financial services. In order to compete, we have
+also introduced free offerings in several categories, but we may not be able to attract customers
+or effectively monetize all of these offerings, and customers who have formerly paid for Intuit’s
+products and services may elect to use free offerings instead. These competitive factors may
+diminish our revenue and profitability, and harm our ability to acquire and retain customers.
+
+Our consumer tax business faces significant competition from both the public and private sector.
+In the public sector we face the risk of federal and state taxing authorities developing software
+or other systems to facilitate tax return preparation and electronic filing at no charge to
+taxpayers. These or similar programs may be introduced or expanded in the future, which may cause
+us to lose customers and revenue. Although the Free File Alliance has kept the federal government
+from being a direct competitor to Intuit’s tax offerings, it has fostered additional online
+competition and may cause us to lose significant revenue opportunities. In addition, taxpayers who
+formerly have paid for Intuit’s products may elect to use Intuit’s or our competitors’ free federal
+service instead. The current agreement with the Free File Alliance is scheduled to expire in
+October 2009. Although we are in negotiations with the IRS and other members of the Free File
+Alliance to renew this agreement there is no guarantee an agreement will be reached prior to its
+termination. If the IRS chose not to renew this agreement or terminated the agreement and elected
+to provide government software and electronic filing services to taxpayers at no charge, or if the
+federal government significantly altered the Free File Alliance or required the provision of
+government tax filing services directly to taxpayers, our revenue and profits may suffer. See the
+discussion on the Free File Alliance in Item 1, “Business — Competition.” We anticipate that
+governmental encroachment may present a continued competitive threat to our business for the
+foreseeable future.
+
+Future revenue growth depends upon our ability to adapt to technological change and successfully
+introduce new and enhanced products and services.
+
+The Software as a Service (SaaS) and desktop software industries are characterized by rapidly
+changing technology, evolving industry standards and frequent new product introductions. As we
+continue to grow our SaaS and other offerings, we must continue to innovate and develop new
+products and features to meet changing customer needs and attract and retain talented software
+developers. We need to continue to develop our skills, tools and capabilities to capitalize on
+existing and emerging technologies. We are currently in the process of updating the software
+platforms related to a number of our offerings. If we experience prolonged delays or unforeseen
+difficulties in upgrading our systems and architecture, we may not be able to develop new offerings
+and enhancements that we need to remain competitive.
+
+A number of our businesses also derive a significant amount of their revenue from one-time upfront
+license fees and rely on customer upgrades and service offerings to generate a significant portion
+of their revenues. In addition, our consumer and professional tax businesses depend significantly
+on revenue from customers who return each year to use our updated tax preparation and filing
+software and services. As our existing products mature, encouraging customers to purchase product
+upgrades becomes more challenging unless new product releases provide features and functionality
+that have meaningful incremental value. If we are not able to develop and clearly demonstrate the
+value of new or upgraded products or services to our customers, our revenues may be harmed.
+
+In some cases, we may expend a significant amount of resources and management attention on products
+or services that do not ultimately succeed in their markets. We have encountered difficulty in
+launching new products and services in the past. If we misjudge customer needs in the future, our
+new products and services may not succeed and our revenues and earnings may be harmed.
+
+17
+
+
+Table of Contents
+
+
+
+
+
+
+As our product and service offerings become more complex our revenue streams may become less
+predictable.
+
+
+
+Our expanding range of products and services, including services delivered online, generates more
+varied revenue streams than our traditional desktop software businesses, and the accounting
+policies that apply to revenue from our newer offerings are complex. For example, as we offer
+online services bundled with other products, we may be required to defer a higher percentage of our
+product revenue into future fiscal periods. In addition, as we offer more services on a
+subscription basis, we recognize revenue from those services over the periods in which the services
+are provided. This may result in significant shifts of revenue from quarter to quarter, or from one
+fiscal year to the next, and may make our revenues less predictable.
+
+
+
+Business interruption or failure of our information technology and communication systems may impair
+the availability of our products and services, which may damage our reputation and harm our future
+financial results.
+
+
+
+As we continue to grow our online services, we become more dependent on the continuing operation
+and availability of our information technology and communication systems and those of our external
+service providers. Any damage to or failure of our systems may result in interruptions in our
+service, which may reduce our revenues and profits, cause us to lose customers and damage our
+brand. In particular, any prolonged interruptions in our online tax preparation or electronic
+filing services, or in any electronic filing systems operating by the government, at any time
+during the tax season may result in lost customers, additional refunds of customer charges,
+negative publicity and increased operating costs, any of which may significantly harm our business,
+financial condition and results of operations. Although we have implemented practices designed to
+maintain the availability of our online products and services and mitigate the harm of any
+unplanned interruptions, we do not have complete redundancy for all of our systems, and our
+disaster recovery planning may not account for all eventualities. Despite our efforts to maintain
+continuous and reliable server operations, we occasionally experience unplanned outages or
+technical difficulties. Due to our evolving business needs, in fiscal 2008 and 2009 we built a new
+data center in Washington state to support our longer term hosting requirements. We began occupying
+this data center in the second half of fiscal 2009. If we do not execute the transition to the new
+data center in an effective manner, we may experience unplanned service disruptions or unforeseen
+increases in cost which may harm our operating results and our business. We do not maintain
+real-time back-up of all our data, and in the event of significant system disruption, particularly
+during peak tax filing season, we may experience loss of data or processing capabilities, which may
+cause us to lose customers and may materially harm our reputation and our operating results.
+
+
+
+Our business operations, data centers, information technology and communications systems are
+vulnerable to damage or interruption from natural disasters, malicious attacks, fire, power loss,
+telecommunications failures, computer viruses, computer denial of service attacks, terrorist
+attacks and other events beyond our control. The majority of our research and development
+activities, our corporate headquarters, our principal information technology systems, and other
+critical business operations are located near major seismic faults. We do not carry earthquake
+insurance for direct quake-related losses. Our future financial results may be materially harmed in
+the event of a major earthquake or other natural or man-made disaster.
+
+
+
+We rely on internal systems and external systems maintained by manufacturers, distributors and
+service providers to take and fulfill customer orders, handle customer service requests and host
+certain online activities. Any interruption or failure of our internal or external systems may
+prevent us or our service providers from accepting and fulfilling customer orders or cause company
+and customer data to be unintentionally disclosed. Our continuing efforts to upgrade and expand
+our network security and other information systems may be costly, and problems with the design or
+implementation of system enhancements may harm our business and our results of operations.
+
+
+
+The recent global economic downturn may harm our business and financial condition.
+
+
+
+The recent global economic downturn has caused disruptions and extreme volatility in global
+financial markets and increased rates of default and bankruptcy, and has impacted consumer and
+small business spending. These macroeconomic developments may continue to negatively affect our
+business and financial condition. Many customers may delay or reduce technology purchases. This
+may result in reductions in sales of our products, slower adoption of new technologies and upgrades
+to existing technologies and increased price competition. Decreased consumer spending levels may
+also reduce credit and debit card transaction processing volumes causing reductions
+
+
+
+18
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+in our payments revenue. Weakness in the end-user market may negatively affect the cash flow of
+our distributors and resellers who may, in turn, delay paying their obligations to us, which may
+increase our credit risk exposure and cause delays in our recognition of revenue or future sales to
+these customers. If economic or other factors cause financial institutions to fail or
+macro-economic factors affecting banks, credit unions, mortgage lenders and other financial
+institutions lead to cost-cutting efforts, we may lose current or potential customers or achieve
+less revenue per customer and our revenues may suffer. Continued consolidation of the banking and
+financial services industry, whether due to failures of financial institutions or other factors,
+may result in a smaller market for our products and services and may cause us to lose relationships
+with key customers. Any of these events may likely harm our business and our future financial
+results.
+
+
+
+The nature of our products necessitates timely product launches and if we experience significant
+product quality problems or delays, it may harm our revenue, earnings and reputation.
+
+
+
+All of our tax products and many of our non-tax products have rigid development timetables that
+increase the risk of errors in our products and the risk of launch delays. Our tax preparation
+software product development cycle is particularly challenging due to the need to incorporate
+unpredictable tax law and tax form changes each year and because our customers expect high levels
+of accuracy and a timely launch of these products to prepare and file their taxes by the tax filing
+deadline. Due to the complexity of our products and the condensed development cycles under which
+we operate, our products sometimes contain “bugs” that may unexpectedly interfere with the
+operation of the software. When we encounter problems we may be required to modify our code,
+distribute patches to customers who have already purchased the product and recall or repackage
+existing product inventory in our distribution channels. If we encounter development challenges or
+discover errors in our products late in our development cycle it may cause us to delay our product
+launch date. Any major defects or launch delays may lead to loss of customers and revenue,
+negative publicity, customer and employee dissatisfaction, reduced retailer shelf space and
+promotions, and increased operating expenses, such as inventory replacement costs, legal fees or
+payments resulting from our commitment to reimburse penalties and interest paid by customers due
+solely to calculation errors in our consumer tax preparation products.
+
+
+
+Our hosting, collection, use and retention of personal customer information create risk that may
+harm our business.
+
+
+
+A number of our businesses collect, use and retain large amounts of personal customer information,
+including credit card numbers, tax return information, bank account numbers and passwords, personal
+and business financial data, social security numbers and other payroll information. We may also
+develop new business models that use personal information, or data derived from personal
+information, in innovative and novel ways. In addition, we collect and maintain personal
+information of our employees in the ordinary course of our business. Some of this personal customer
+and employee information is held and some transactions are executed by third parties. In addition,
+as many of our products and services are Web based, the amount of data we store for our users on
+our servers (including personal information) has been increasing. We and our vendors use
+commercially available security technologies to protect transactions and personal information. We
+use security and business controls to limit access and use of personal information. However, a
+third party may be able to circumvent these security and business measures, and errors in the
+storage, use or transmission of personal information may result in a breach of customer or employee
+privacy or theft of assets, which may require notification under applicable data privacy
+regulations. We employ contractors, temporary and seasonal employees who may have access to the
+personal information of customers and employees or who may execute transactions in the normal
+course of their duties. While we conduct necessary and appropriate background checks of these
+individuals and limit access to systems and data, it is possible that one or more of these
+individuals may circumvent these controls, resulting in a security breach.
+
+
+
+The ability to execute transactions and the possession and use of personal information in
+conducting our business subjects us to legislative and regulatory burdens that may require
+notification to customers or employees of a security breach, restrict our use of personal
+information and hinder our ability to acquire new customers or market to existing customers. As our
+business continues to expand to new industry segments that may be more highly regulated for privacy
+and data security, and to countries outside the U.S. that have more strict data protection laws,
+our compliance requirements and costs may increase. We have incurred — and may continue to incur -
+significant expenses to comply with mandatory privacy and security standards and protocols imposed
+by law, regulation, industry standards or contractual obligations.
+
+
+
+19
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+In the past we have experienced lawsuits and negative publicity relating to privacy issues and we
+may face similar suits in the future. A major breach of our security measures or those of third
+parties that execute transactions or hold and manage personal information may have serious negative
+consequences for our businesses, including possible fines, penalties and damages, reduced customer
+demand for our services, harm to our reputation and brands, further regulation and oversight by
+federal or state agencies, and loss of our ability to provide financial transaction services or
+accept and process customer credit card orders or tax returns. From time to time, we detect, or
+receive notices from customers or public or private agencies that they have detected,
+vulnerabilities in our servers, our software or third-party software components that are
+distributed with our products. The existence of vulnerabilities, even if they do not result in a
+security breach, may harm customer confidence and require substantial resources to address, and we
+may not be able to discover or remediate such security vulnerabilities before they are exploited.
+If hackers were able to circumvent our security measures, we may lose personal information.
+Although we have sophisticated network and application security, internal control measures, and
+physical security procedures to safeguard our systems, there can be no assurance that a security
+breach, loss or theft of personal information will not occur, which may harm our business, customer
+reputation and future financial results and may require us to expend significant resources to
+address these problems, including notification under data privacy regulations.
+
+
+
+Our reliance on a limited number of manufacturing and distribution suppliers may harm our business.
+
+
+
+We have chosen to outsource the majority of the manufacturing and distribution for many of our
+desktop software products to a single third party provider and we use a single vendor to produce
+and distribute our check and business forms supplies products. Although our reliance on single
+suppliers provides us with efficiencies and enhanced bargaining power, poor performance by these
+suppliers may significantly harm our business. This risk is amplified by the fact that we carry
+very little inventory and rely on just-in-time manufacturing processes. In particular, the loss of
+our manufacturing partner for retail may be disruptive to our business and may cause delay in a
+product launch. We seek to mitigate this risk by managing our second tier vendors and maintaining
+contingency plans. If we experience delays during a peak demand period or significant quality
+issues our business may be significantly harmed.
+
+
+
+Our revenue and earnings are highly seasonal and our quarterly results fluctuate significantly.
+
+
+
+Several of our businesses are highly seasonal causing significant quarterly fluctuations in our
+financial results. Revenue and operating results are usually strongest during the second and third
+fiscal quarters ending January 31 and April 30 due to our tax businesses contributing most of their
+revenue during those quarters and the timing of the release of our small business software products
+and upgrades. We experience lower revenues, and significant operating losses, in the first and
+fourth quarters ending October 31 and July 31. Our financial results may also fluctuate from
+quarter to quarter and year to year due to a variety of factors, including changes in product sales
+mix that affect average selling prices; product release dates; the timing of delivery of federal
+and state tax forms; the timing of our discontinuance of support for older product offerings;
+changes to our bundling strategy, such as the inclusion of upgrades with certain offerings; changes
+to how we communicate the availability of new functionality in the future (any of which may impact
+the pattern of revenue recognition); and the timing of acquisitions, divestitures, and goodwill and
+purchased intangible asset impairment charges.
+
+
+
+If we are unable to develop and maintain critical third party business relationships, the business
+may be adversely affected.
+
+
+
+Our growth is dependent on the strength of our business relationships and our ability to continue
+to develop and maintain new relationships. We rely on various business partners, including third
+party service providers, vendors, licensing partners, development partners, and licensees, among
+others, in many areas of our business. The failure of these third parties to provide adequate
+services and technologies, or the failure of the third parties to adequately maintain or update
+their services and technologies, could result in a disruption to our business operations.
+Alternative arrangements and services may not be available to us on commercially reasonable terms
+or we may experience business interruptions upon a transition to an alternative partner or vendor.
+
+
+
+In the financial institutions business, we rely on core processors and other third parties to
+enable our online banking and bill pay services. Consolidation among core processors or between
+core processors and online banking and bill-pay providers may create larger or
+vertically-integrated competitors that may have stronger relationships with our current or
+potential financial institutions clients. If these core processors fail to support any of the
+functionality in
+
+
+
+20
+
+
+
+
+Table of Contents
+
+
+our products and services or significantly raise their prices, we may lose customers and our
+financial results may suffer.
+
+Because we depend on a small number of larger retailers and distributors, changes in these
+relationships may harm our business.
+
+We sell most of our desktop software products through our retail distribution channel and a
+relatively small number of larger retailers and distributors generate a significant portion of our
+sales volume. Our principal retailers have significant bargaining leverage due to their size and
+available resources. Historically, some retailers have elected to offer our tax products
+exclusively, but we cannot guarantee that these exclusive relationships will continue in the
+future. Any change in principal business terms, loss of exclusivity, major disruption or
+termination of a relationship with these resellers, including due to bankruptcy of the resellers,
+may result in a significant decline in our revenues and earnings. The sourcing decisions, product
+display locations and promotional activities that retailers undertake may greatly impact the sales
+of our products. Changes in our pricing, product offerings or features, or concerns by retailers
+about our direct sales efforts, may cause retailers or distributors to reduce their efforts to
+promote our products, eliminate any exclusive placements, or stop selling our products altogether.
+If any of our retailers or distributors experience financial difficulties we may be unable to
+collect amounts that we are owed. At January 31, 2009, in the midst of the 2008 consumer tax
+season, amounts due from our 10 largest retailers and distributors represented approximately 51% of
+total gross accounts receivable.
+
+Increased government regulation of our businesses may harm our operating results.
+
+The tax preparation industry continues to receive heightened attention from federal and state
+governments. New legislation, regulation, public policy considerations or litigation by the
+government or private entities may result in greater oversight of the tax preparation industry,
+restrict the types of products and services that we can offer or the prices we can charge, or
+otherwise cause us to change the way we operate our tax businesses or offer our tax products and
+services. This in turn may increase our cost of doing business and limit our revenue opportunities.
+
+We are also required to comply with a variety of state revenue agency standards in order to
+successfully operate our tax preparation and electronic filing services. Changes in state-imposed
+requirements by one or more of the states, including the required use of specific technologies or
+technology standards, may significantly increase the costs of providing those services to our
+customers and may prevent us from delivering a quality product to our customers in a timely manner.
+
+Our financial institutions business provides services to banks, credit unions and other
+institutions that are subject to extensive and complex federal and state regulation. As a result,
+our financial institution customers require that our products and services comply with the
+regulations applicable to these customers. If we are unable to comply with these regulations, we
+may incur significant costs and penalties, face litigation or governmental proceedings, and lose
+our ability to sell to these customers. Any of these adverse events may harm our future financial
+results and our reputation.
+
+In addition, as we seek to grow our business, we may expand into more highly-regulated businesses
+or countries, which may require increased investment in compliance and auditing functions or new
+technologies in order to meet regulatory standards. Government authorities may enact other laws,
+rules or regulations that place new burdens or restrictions on our business or determine that our
+operations are directly subject to existing rules or regulations, such as requirements related to
+data collection, use, transmission, retention and processing, which may make our business more
+costly, less efficient or impossible to conduct, and may require us to modify our current or future
+products or services, which may harm our future financial results.
+
+Expansion of our operations in international markets exposes us to operational and compliance
+risks.
+
+As we continue to grow our business internationally we face increased risk which may harm our
+business and financial condition. We have limited experience with operations outside the U.S. and
+our ability to manage our business and conduct our operations internationally requires management
+attention and resources and is subject to a number of risks, including difficulties in managing
+varying foreign operations, political or social unrest or economic instability, foreign currency
+restrictions and exchange rate fluctuations, higher costs associated with doing business
+internationally and potentially adverse tax consequences. Also, compliance with complex foreign
+and U.S. laws and
+
+21
+
+
+Table of Contents
+
+
+
+
+
+
+regulations that apply to our international operations increases our cost of doing business in
+international jurisdictions and may expose us or our employees to fines and penalties.
+
+
+
+If we encounter problems with our third-party customer service and technical support providers our
+business and future financial results may be harmed.
+
+
+
+We outsource a substantial portion of our customer service and technical support activities to
+domestic and international third-party service providers, including service providers in India and
+the Philippines, and we expect to continue to rely heavily on third parties in the future. This
+strategy provides us with lower operating costs and greater flexibility, but also presents risks to
+our business, including the following:
+
+
+
+
+
+
+
+     
+    •
+     
+    In recent years India has experienced political instability and changing policies that
+may impact our operations. In addition, for a number of years India and Pakistan have been
+in conflict and an active state of war between the two countries may disrupt our services.
+
+
+
+     
+
+     
+    •
+     
+    Customers may react negatively to providing information to and receiving support from
+overseas organizations.
+
+
+
+     
+
+     
+    •
+     
+    We may not be able to affect the quality of support as directly as we are able to in our
+company-run call centers.
+
+
+
+     
+
+     
+    •
+     
+    International outsourcing has received considerable negative attention in the media,
+which may harm our reputation, and the U.S. government may adopt legislation that may
+affect how we operate. For example, the Treasury Department and the Internal Revenue
+Service have released regulations restricting the flow of personal information to overseas
+providers.
+
+
+
+     
+
+     
+    •
+     
+    We rely on a global communications infrastructure that may be interrupted in a number of
+ways. For example, in fiscal 2007 an earthquake in Taiwan caused temporary disruption to
+overseas infrastructure.
+
+
+
+
+
+We are exposed to risks associated with credit card and payment fraud and with credit card
+processing.
+
+
+
+In our payments processing service business if merchants for whom we process payment transactions
+are unable to pay refunds due to their customers in connection with disputed or fraudulent merchant
+transactions, we may be required to pay those amounts and our payments may exceed the amount of the
+customer reserves we have established to make such payments.
+
+
+
+We are subject to payment card association operating rules and certification requirements, as in
+effect from time to time. Failure to comply with these rules or requirements may subject us to
+fines and higher transaction fees or cause us to lose our ability to accept credit card payments
+from our customers, resulting in harm to our business and future financial results.
+
+
+
+If we fail to adequately protect our intellectual property rights, competitors may exploit our
+innovations, which may weaken our competitive position and reduce our revenue and earnings.
+
+
+
+Our success depends upon our proprietary technology embodied in our offerings. We protect this
+proprietary technology by relying on a combination of copyright, trade secret, trademark, patent,
+confidentiality procedures and licensing arrangements. Although we seek to obtain patent protection
+for our innovations, it is possible we may not be able to protect some of those innovations. Given
+the cost of obtaining patent protection, we may choose not to patent certain innovations that later
+turn out to be important. There is also the possibility that, despite our efforts, the scope of
+protection may be insufficient or that an issued patent may be deemed invalid or unenforceable. It
+is possible that other companies may successfully challenge the validity or scope of our patents
+and that our patent portfolio, which is relatively small, may not provide us with adequate
+protection. Ultimately, our attempts to secure legal protection for our proprietary rights may not
+be adequate and our competitors may independently develop similar technologies, duplicate our
+products, or design around patents and other intellectual property rights. If our intellectual
+property protection proves inadequate we may lose our competitive advantage and our future
+financial results may suffer.
+
+
+
+Third parties claiming that we infringe their proprietary rights may cause us to incur significant
+legal expenses and prevent us from selling our products.
+
+
+
+As the number of products in the software industry increases and the functionality of these
+products further overlap, and as we acquire technology through acquisitions or licenses, we may
+become increasingly subject to infringement
+
+
+
+22
+
+
+
+
+Table of Contents
+
+
+
+claims, including patent, copyright, and trademark infringement claims. Litigation may be
+necessary to determine the validity and scope of the patent rights of others. We have received
+allegations of patent infringement claims in the past and may receive more claims in the future
+based on allegations that our products infringe upon patents held by third parties. Some of these
+claims are the subject of pending litigation against us and against some of our OEM customers.
+These claims may involve patent holding companies or other adverse patent owners who have no
+relevant product revenues of their own, and against whom our own patents may provide little or no
+deterrence. The ultimate outcome of any allegation is uncertain and, regardless of outcome, any
+such claim, with or without merit, may be time consuming to defend, result in costly litigation,
+divert management’s time and attention from our business, require us to stop selling, delay
+shipping or redesign our products, or require us to pay monetary damages for royalty or licensing
+fees, or to satisfy indemnification obligations that we have with some of our customers. Our
+failure to obtain necessary license or other rights, or litigation arising out of intellectual
+property claims may harm our business.
+
+
+We expect copying and misuse of our intellectual property to be a persistent problem which may
+cause lost revenue and increased expenses.
+
+
+Policing unauthorized use and copying of our products is difficult, expensive, and time consuming.
+Current U.S. laws that prohibit copying give us only limited practical protection from software
+piracy and the laws of many other countries provide very little protection. We frequently
+encounter unauthorized copies of our software being sold through online marketplaces. In addition,
+efforts to protect our intellectual property may be misunderstood and perceived negatively by our
+customers. Although we continue to evaluate and put in place technology solutions to attempt to
+lessen the impact of piracy and engage in efforts to educate consumers and public policy leaders on
+these issues and cooperate with industry groups in their efforts to combat piracy, we expect piracy
+to be a persistent problem that results in lost revenues and increased expenses.
+
+
+Our use of third party intellectual property in our products and services may harm our business.
+
+
+Many of our products and services include intellectual property of third parties, which we license
+under agreements that must be renewed or renegotiated from time to time. We may not be able to
+obtain licenses to these third party technologies or content on reasonable terms, or at all. If we
+are unable to obtain the rights necessary to use this intellectual property in our products and
+services, we may not be able to sell the affected products, which may in turn harm our future
+financial results.
+
+
+Some of our offerings include third-party software that is licensed under so-called “open source”
+licenses, some of which may include a requirement that, under certain circumstances, we make
+available, or grant licenses to, any modifications or derivative works we create based upon the
+open source software. Although we have established internal review and approval processes to
+mitigate these risks, we may not be sure that all open source software is submitted for approval
+prior to use in our products. Many of the risks associated with usage of open source may not be
+eliminated, and may, if not properly addressed, harm our business.
+
+
+Our acquisition and divestiture activities may disrupt our ongoing business, may involve increased
+expenses and may present risks not contemplated at the time of the transactions.
+
+
+We have acquired and may continue to acquire companies, products and technologies that complement
+our strategic direction. Acquisitions involve significant risks and uncertainties, including:
+
+
+
+
+
+
+     
+    •
+     
+    inability to successfully integrate the acquired technology and operations into our
+business and maintain uniform standards, controls, policies, and procedures;
+
+
+
+     
+
+     
+    •
+     
+    inability to realize synergies expected to result from an acquisition;
+
+
+
+     
+
+     
+    •
+     
+    challenges retaining the key employees, customers, resellers and other business partners
+of the acquired operation;
+
+
+
+     
+
+     
+    •
+     
+    the internal control environment of an acquired entity may not be consistent with our
+standards and may require significant time and resources to improve;
+
+
+
+     
+
+     
+    •
+     
+    expenses, including the settlement of tax contingencies, associated with the
+acquisition; and
+
+
+
+     
+
+     
+    •
+     
+    unidentified issues not discovered in our due diligence process, including product or
+service quality issues, intellectual property issues and legal contingencies.
+
+
+
+
+23
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+Acquisitions and divestitures are inherently risky. Our transactions may not be successful and
+may, in some cases, harm our operating results or financial condition. If we use debt to fund
+acquisitions or for other purposes, our interest expense and leverage may increase significantly.
+If we issue equity securities as consideration in an acquisition, current shareholders’ percentage
+ownership and earnings per share may be diluted.
+
+
+
+We have issued $1 billion in a debt offering and may incur other debt in the future, which may
+adversely affect our financial condition and future financial results.
+
+
+
+In fiscal 2007 we issued $1 billion in senior unsecured notes. We have also entered into a $500
+million five-year revolving credit facility. Although we have no current plans to request any
+advances under this credit facility, we may use the proceeds of any future borrowing for general
+corporate purposes or for future acquisitions or expansion of our business.
+
+
+
+This debt may adversely affect our financial condition and future financial results by, among other
+things:
+
+
+
+
+
+
+
+     
+    •
+     
+    increasing our vulnerability to downturns in our business, to competitive
+pressures and to adverse economic and industry conditions;
+
+
+
+     
+
+     
+    •
+     
+    requiring the dedication of a portion of our expected cash from operations
+to service our indebtedness, thereby reducing the amount of expected cash flow
+available for other purposes, including capital expenditures and acquisitions; and
+
+
+
+     
+
+     
+    •
+     
+    limiting our flexibility in planning for, or reacting to, changes in our
+business and our industry.
+
+
+
+
+
+Our current revolving credit facility imposes restrictions on us, including restrictions on our
+ability to create liens on our assets and the ability of our subsidiaries to incur indebtedness,
+and require us to maintain compliance with specified financial ratios. Our ability to comply with
+these ratios may be affected by events beyond our control. In addition, our long-term
+non-convertible debt includes covenants that may adversely affect our ability to incur certain
+liens or engage in certain types of sale and leaseback transactions. If we breach any of the
+covenants under our long-term debt or our revolving credit facility and do not obtain a waiver from
+the lenders, then, subject to applicable cure periods, any outstanding indebtedness may be declared
+immediately due and payable.
+
+
+
+In addition, changes by any rating agency to our credit rating may negatively impact the value and
+liquidity of both our debt and equity securities. If our credit ratings are downgraded or other
+negative action is taken, the interest rate payable by us under our revolving credit facility may
+increase. In addition, any downgrades in our credit ratings may affect our ability to obtain
+additional financing in the future and may affect the terms of any such financing.
+
+
+
+We are subject to risks associated with information disseminated through our services.
+
+
+
+The law relating to the liability of online services companies for information carried on or
+disseminated through their services is often unsettled. Claims may be made against online services
+companies under both U.S. and foreign law for defamation, libel, invasion of privacy, negligence,
+copyright or trademark infringement, or other theories based on the nature and content of the
+materials disseminated through their services. Certain of our services include content generated
+by users. Although this content is not generated by us, claims of defamation or other injury may
+be made against us for that content. Any costs incurred as a result of this potential liability may
+harm our business.
+
+
+
+If actual product returns exceed returns reserves our future financial results may be harmed.
+
+
+
+We ship more desktop software products to our distributors and retailers than we expect them to
+sell, in order to reduce the risk that distributors or retailers may run out of products. This is
+particularly true for our Consumer Tax products, which have a short selling season and for which
+returns occur primarily in our fiscal third and fourth quarters. Like many software companies that
+sell their products through distributors and retailers, we have historically accepted significant
+product returns. We establish reserves against revenue for product returns in our financial
+statements based on estimated returns and we closely monitor product sales and inventory in the
+retail channel in an effort to maintain adequate reserves. In the past, returns have not differed
+significantly from these reserves. However, if we experience actual returns that significantly
+exceed reserves, it may result in lower net revenue.
+
+
+
+24
+
+
+
+
+Table of Contents
+
+
+Acquisition-related costs and impairment charges may cause significant fluctuation in our net
+income.
+
+Our acquisitions have resulted in significant expenses, including amortization and impairment of
+purchased intangible assets, charges for in-process research and development, and impairment of
+goodwill. Total acquisition-related costs in these categories were approximately $103 million in
+fiscal 2009, $92 million in fiscal 2008, and $51 million in fiscal 2007. Although under current
+accounting rules goodwill is not amortized, we may incur impairment charges related to the goodwill
+already recorded and to goodwill arising out of future acquisitions. We test the impairment of
+goodwill annually in our fourth fiscal quarter or more frequently if indicators of impairment
+arise. The timing of the formal annual test may result in charges to our statement of operations in
+our fourth fiscal quarter that may not have been reasonably foreseen in prior periods. At July 31,
+2009, we had $1.8 billion in goodwill and $293.0 million in net purchased intangible assets on our
+balance sheet, both of which may be subject to impairment charges in the future. New acquisitions,
+and any impairment of the value of purchased assets, may have a significant negative impact on our
+future financial results.
+
+Our investments in auction rate securities are subject to risks that may cause losses and affect
+the liquidity of these investments.
+
+At July 31, 2009, we held a total of $244.5 million in municipal auction rate securities that we
+valued at par. We classified $150.9 million of these securities as short-term investments and
+$93.6 million of these securities as long-term investments on our balance sheet at that date. Due
+to a decrease in liquidity in the global credit markets, in February 2008 auctions began failing
+for the municipal auction rate securities we held. Regularly scheduled auctions for these
+securities have generally continued to fail since that time. We will not be able to liquidate
+these investments and realize their full carrying value unless successful auctions occur, a buyer
+is found outside of the auction process, the issuer calls the security, the issuer repays principal
+over time from cash flows prior to final maturity, or the security matures according to contractual
+terms ranging from one to 38 years. We believe the fair values of the municipal auction rate
+securities we hold are approximately equal to their par values. However, if the issuers of these
+securities are unable to call the securities or successfully close future auctions and their credit
+ratings are lowered, we may be required to record future impairment charges related to these
+investments, which would harm our results of operations. If we are unable to find alternate means
+to liquidate these investments, we may not realize the value of the investments until the final
+maturity of the underlying securities.
+
+In November 2008 we accepted an offer from UBS AG (UBS), one of the broker-dealers of our municipal
+auction rate securities, that gives us the option to sell to UBS a total of $140.9 million in
+municipal auction rate securities at par value at any time during a two-year period beginning June
+30, 2010. The offer also gives UBS the discretion to buy any or all of these municipal auction
+rate securities from us at par value at any time. To date UBS has not purchased any of these
+securities from us. Even with this option, we may not realize the value of these investments until
+after June 30, 2010. We continue to have counter-party risk associated with UBS.
+
+If we fail to process transactions effectively our revenue and earnings may be harmed.
+
+Our operations process a significant volume and dollar value of transactions on a daily basis,
+especially in our payroll and payments businesses. Due to the size and volume of transactions that
+we handle, effective processing systems and controls are essential to ensure that transactions are
+handled appropriately. Despite our efforts, it is possible that we may make errors or that funds
+may be misappropriated due to fraud involving our offerings. In addition to any direct damages and
+fines that any such problems may create, which may be substantial, the loss of customer confidence
+in our accuracy and controls may seriously harm our business. The systems supporting our business
+are comprised of multiple technology platforms that are difficult to scale. If we are unable to
+effectively manage our systems and processes, we may be unable to process customer data in an
+accurate, reliable and timely manner, which may harm our business.
+
+Because competition for our key employees is intense, we may not be able to attract and retain the
+highly skilled employees we need to support our planned growth.
+
+Much of our future success depends on the continued service and availability of skilled personnel,
+including members of our executive team, and those in technical, marketing and staff positions.
+Experienced personnel in the software and services industries are in high demand and competition
+for their talents is intense, especially in
+
+25
+
+
+Table of Contents
+
+
+
+
+
+
+California, where the majority of our employees are located. Although we strive to be an employer
+of choice, we may not be able to continue to successfully attract and retain key personnel which
+may cause our business to suffer.
+
+
+
+We are frequently a party to litigation that is costly to defend and consumes the time of our
+management.
+
+
+
+We are subject to various legal proceedings and claims that have arisen out of the ordinary conduct
+of our business and are not yet resolved and additional claims may arise in the future. Results of
+legal proceedings cannot be predicted with certainty. Defending litigation consumes the time of
+our management and is expensive for Intuit. Even though we often seek insurance coverage for
+litigation defense costs, there is no assurance that our defense costs, which may be substantial,
+will be covered in all cases. In addition, by its nature, litigation is unpredictable and we may
+not prevail even in cases where we strongly believe a plaintiff’s case has no valid claims. If we
+do not prevail in litigation we may be required to pay substantial monetary damages or alter our
+business operations. Regardless of the outcome, litigation is expensive and consumes the time of
+our management and may ultimately harm our future financial results.
+
+
+
+Unanticipated changes in our tax rates may affect our future financial results.
+
+
+
+Our future effective tax rates may be favorably or unfavorably affected by unanticipated changes in
+the valuation of our deferred tax assets and liabilities, or by changes in tax laws or their
+interpretation. In addition, we are subject to the continuous examination of our income tax
+returns by the Internal Revenue Service and other tax authorities. We regularly assess the
+likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our
+provision for income taxes. There may be no assurance that the outcomes from these continuous
+examinations will not have an adverse effect on our future financial results.
+
+
+
+Our business depends on our strong reputation and the value of our brands.
+
+
+
+Developing and maintaining awareness of our brands is critical to achieving widespread acceptance
+of our existing and future products and services and is an important element in attracting new
+customers. We believe that brand recognition will increase as competition in our markets develops.
+Adverse publicity (whether or not justified) relating to activities by our employees or agents
+may tarnish our reputation and reduce the value of our brands. Damage to our reputation and loss of
+brand equity may reduce demand for our products and services and thus have an adverse effect on our
+future financial results, as well as require additional resources to rebuild our reputation and
+restore the value of the brands.
+
+
+
+
+26
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+ITEM 1B

@@ -1,0 +1,767 @@
+Item 1A. Risk Factors  
+
+        You should carefully consider the risks described below before investing in our publicly traded securities. The risks described below are
+not the only ones facing us. Our business is also subject to the risks that affect many other companies, such as competition, technological obsolescence, labor relations, general economic conditions,
+geopolitical events, climate change and international operations. Additional risks not currently known to us or that we currently believe are immaterial also may impair our business operations and our
+liquidity.
+
+Risks Relating to Our Businesses  
+
+
+
+ Cyclical industry and economic conditions have affected and may continue to adversely affect our financial condition, results of operations or cash flows.  
+
+
+
+        Our operating results can be adversely affected by the general cyclical pattern of certain industries in which we operate. For example, demand for our services
+and products is significantly affected by the level of commercial construction, the amount of discretionary consumer and business spending and the performance of the housing market, each of which
+historically has displayed significant cyclicality. A downturn in any of these industries or the deterioration in general global economic conditions could have a negative impact on our financial
+condition, results of operations or cash flows. 
+
+
+
+ Our operations expose us to the risk of material environmental liabilities, litigation and violations.  
+
+
+
+        We are subject to numerous foreign, federal, state and local environmental protection and health and safety laws governing, among other things: 
+
+
+
+•the
+generation, storage, use and transportation of hazardous materials;
+•emissions
+or discharges of substances into the environment; and
+•the
+health and safety of our employees. 
+
+
+There
+can be no assurances that we have been or will be at all times in compliance with environmental and health and safety laws. If we violate these laws, we could be fined, criminally charged or
+otherwise sanctioned by regulators. 
+
+
+        Certain
+environmental laws assess liability on current or previous owners or operators of real property for the cost of removal or remediation of hazardous substances at their properties
+or at 
+
+13
+
+
+
+
+ 
+
+
+properties
+at which they have disposed of hazardous substances. In addition to cleanup actions brought by governmental authorities, private parties could bring personal injury or other claims due to
+the presence of, or exposure to, hazardous substances. 
+
+        We
+have received notification from the United States Environmental Protection Agency and from state environmental agencies, that conditions at a number of sites where we and others
+disposed of hazardous substances require cleanup and other possible remedial action and may require that we reimburse the government or otherwise pay for the cost of cleanup of those sites and /or for
+natural resource damages. We have projects underway at a number of current and former manufacturing facilities to investigate and remediate environmental contamination resulting from past operations.
+These projects relate to a variety of activities, including: 
+
+
+
+•solvent,
+metal and other hazardous substance contamination cleanup; and
+•oil
+spill equipment upgrades and replacement. 
+
+
+These
+projects involve both remediation expenses and capital improvements. In addition, we remain responsible for certain environmental issues at manufacturing locations previously sold by us. 
+
+        The
+ultimate cost of cleanup at disposal sites and manufacturing facilities is difficult to predict given uncertainties regarding the extent of the required cleanup, the interpretation
+of applicable laws and regulations and alternative cleanup methods. Based upon our experience, current information and applicable laws, we believe that it is probable that we would incur remedial
+costs of approximately $40 million, of which $11 million is included in accrued expenses and other current liabilities and $29 million is included in other liabilities on the
+Consolidated Balance Sheets. Environmental laws are complex, change frequently and have tended to become more stringent over time. While we have budgeted for future capital and operating expenditures
+to maintain compliance with such laws, we cannot provide assurance that our costs of complying with current or future environmental protection and health and safety laws, or our liabilities arising
+from past or future releases of, or exposures to, hazardous substances will not exceed our estimates or adversely affect our financial condition, results of operations or cash flows or that we will
+not be subject to additional environmental claims for personal injury or cleanup in the future based on our past, present or future business activities. 
+
+
+
+ We may be required to recognize additional impairment charges.  
+
+
+
+        Pursuant to accounting principles generally accepted in the United States, we are required to periodically assess our goodwill, intangibles and other
+long-lived assets to determine if they are impaired. Disruptions to our business, end market conditions and protracted economic weakness, unexpected significant declines in operating
+results of reporting units, divestitures and market capitalization declines may result in additional charges for goodwill and other asset impairments. We assessed the recoverability of goodwill upon
+the realignment of our business in connection with the Separation, which resulted in a $46 million charge for goodwill. Future impairment charges could substantially affect our reported
+earnings in the periods of such charges and could adversely affect our financial condition and results of operations. 
+
+
+
+ We are named as a defendant in a variety of litigation in the course of our business that could cause a material adverse effect on our financial condition, results of operations or cash flows.  
+
+
+
+        In the ordinary course of business, we are named as a defendant in a significant amount of litigation, including claims for damages arising out of the use or
+installation of our products, litigation alleging the infringement of intellectual property rights, litigation alleging anti-competitive behavior, product liability litigation, employee
+matters and commercial disputes. In certain circumstances, patent infringement and anti-trust laws permit successful plaintiffs to recover treble damages. The defense of these lawsuits may
+divert our management's attention, and we may incur significant expenses in defending these lawsuits. In addition, we may be required to pay damage awards or settlements, or become subject to
+injunctions or other equitable remedies, that could cause a material adverse effect 
+
+14
+
+
+
+
+ 
+
+on
+our financial condition, results of operations or cash flows. Moreover, any insurance or indemnification rights that we have may be insufficient or unavailable to protect us against potential loss
+exposures. 
+
+        Some
+of the lawsuits outstanding against us relate to actions taken by our former senior corporate management. On May 14, 2007, we entered into a proposed settlement with respect
+to most of the class actions and deposited $2.975 billion into an escrow accounts pending final settlement of such class actions. We do not believe that it is feasible to predict or determine
+the final outcome or resolution of the unresolved proceedings. A failure to consummate the proposed settlement on the agreed terms or an adverse outcome from the unresolved proceedings or liabilities
+or other proceedings could materially and adversely affect our financial condition, results of operations or cash flows. 
+
+        In
+addition, we could face liability for failure to respond adequately to alarm activations. The nature of the services we provide potentially exposes us to risks of liability for
+employee acts or omissions or system failures. In an attempt to reduce this risk, our alarm monitoring agreements contain provisions limiting our liability in such circumstances. We cannot assure you,
+however, that these limitations will be enforced. Losses from such litigation could be material to our financial condition, results of operations or cash flows. 
+
+
+
+ Our ADT business may experience higher rates of customer attrition, which may reduce our future revenue and cause us to change the estimated useful lives of assets related to our security monitoring
+customers, increasing our depreciation and amortization expense.  
+
+
+
+        Attrition rates for customers in our ADT Worldwide business were 12.3%, 14.2% and 15.0% on a trailing 12-month basis as of September 28, 2007,
+September 29, 2006 and September 30, 2005, respectively. Although rates have decreased, if attrition rates were to trend upward, ADT's recurring revenue and results of operations will be
+adversely affected. Tyco amortizes the costs of ADT's contracts and related customer relationships purchased through the ADT dealer program based on the estimated life of the customer relationships.
+Internally generated residential and commercial pools are similarly depreciated. If the attrition rates were to rise Tyco may be required to accelerate the depreciation and amortization of subscriber
+system assets and intangible assets, which could cause a material adverse effect on our financial condition or results of operations. 
+
+
+
+ Our future growth is largely dependent upon our ability to develop new technologies that achieve market acceptance with acceptable margins.  
+
+
+
+        Our businesses operate in global markets that are characterized by rapidly changing technologies and evolving industry standards. Accordingly, our future growth
+rate depends upon a number of factors, including our ability to: identify emerging technological trends in our target end-markets; develop and maintain competitive products; enhance our
+products by adding innovative features that differentiate our products from those of our competitors; and develop, manufacture and bring products to market quickly and cost-effectively.
+Our ability to develop new products based on technological innovation can affect our competitive position and requires the investment of significant resources. These development efforts divert
+resources from other potential investments in our businesses, and they may not lead to the development of new technologies or products on a timely basis or that meet the needs of our customers as
+fully as competitive offerings. In addition, the markets for our products may not develop or grow as we anticipate. For example, on February 18, 2008, the Federal Communications Commission will
+allow its mandate to wireless cellular carriers requiring them to maintain analog cellular service to expire. As a result, we expect the cellular communicators in certain of our security systems to
+become obsolete. We have begun the process of upgrading the affected devices to digital technology, which has resulted in additional expenses in our fiscal fourth quarter, and we expect to incur
+additional expenses in the future. If we fail to complete this upgrade, it could result in the loss of customers. Moreover, the failure of our technology or products to gain market acceptance or their
+obsolescence could 
+
+15
+
+
+
+
+ 
+
+
+significantly
+reduce our revenues, increase our operating costs or otherwise adversely affect our financial condition, results of operations or cash flows. 
+
+
+
+ Our failure to satisfy International Trade Compliance regulations may adversely affect us.  
+
+
+
+        Tyco's global operations require importing and exporting goods and technology across international borders on a regular basis. From time to time, Tyco obtains or
+receives information alleging improper activity in connection with imports or exports. Tyco's policy mandates strict compliance with U.S. and foreign international trade laws. When Tyco receives
+information alleging improper activity, its policy is to investigate that information and respond appropriately, including, if warranted, reporting its findings to relevant governmental authorities.
+Nonetheless, we cannot provide assurance that our policies and procedures will always protect us from acts by our employees that would violate U.S. and/or foreign laws. Such improper actions could
+subject the Company to civil or criminal penalties, including substantial monetary fines, or other adverse actions including denial of import or export privileges, and could damage our reputation and,
+therefore, our ability to do business. 
+
+
+
+ We could be adversely affected by violations of the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery laws.  
+
+
+
+        The U.S. Foreign Corrupt Practices Act and similar anti-bribery laws in other jurisdictions generally prohibit companies and their intermediaries from
+making improper payments to non-U.S. officials for the purpose of obtaining or retaining business. Our policies mandate compliance with these anti-bribery laws. We operate in
+many parts of the world that have experienced governmental corruption to some degree and in certain circumstances, strict compliance with anti-bribery laws may conflict with local customs
+and practices. We cannot assure you that our internal control policies and procedures always will protect us from reckless or criminal acts committed by our employees or agents. Violations of these
+laws, or allegations of such violations, could disrupt our business and result in a material adverse effect on our financial condition, results of operations or cash flows. 
+
+
+
+ Covenants in our debt instruments may adversely affect us.  
+
+
+
+        Our bank credit agreements contain financial covenants, including a limit on the ratio of debt to earnings before interest, taxes, depreciation, and amortization
+and limits on incurrence of liens and subsidiary debt. Our indentures contain customary covenants including limits on negative pledges, subsidiary debt and sale/leaseback transactions. 
+
+
+        Although
+we believe none of these covenants are considered restrictive to our operations, our ability to meet the financial covenants can be affected by events beyond our control, and we
+cannot provide assurance that we will meet those tests. A breach of any of these covenants could result in a default under our credit agreements or indentures. Upon the occurrence of an event of
+default under any of our credit facilities or indentures, the lenders or trustees could elect to declare all amounts outstanding thereunder to be immediately due and payable and terminate all
+commitments to extend further credit. If the lenders or trustees accelerate the repayment of borrowings, we cannot provide assurance that we will have sufficient assets to repay our credit facilities
+and our other indebtedness. Acceleration of any obligation under any of our material debt instruments will permit the holders of our other material debt to accelerate their obligations. See "Liquidity
+and Capital Resources—Capitalization". 
+
+
+
+ Changes in legislation or governmental regulations or policies can have a significant impact on our financial condition, results of operations or cash flows.  
+
+
+
+        We operate in regulated industries. Our U.S. operations are subject to regulation by a number of federal, state and local governmental agencies with respect to
+safety of operations and equipment, labor and employment matters and financial responsibility. Intrastate operations in the United States are subject to regulation by state regulatory authorities, and
+our international operations are regulated by 
+
+16
+
+
+
+
+ 
+
+the
+countries in which they operate. We and our employees are subject to various U.S. federal, state and local laws and regulations, as well as non-U.S. laws and regulations, including
+many related to consumer protection. Most states in which we operate have licensing laws covering the monitored security services industry and the construction industry. Our business relies heavily
+upon wireline telephone service to communicate signals, and wireline telephone companies are regulated by both the federal and state governments. Changes in laws or regulations could require us to
+change the way we operate, which could increase costs or otherwise disrupt operations. In addition, failure to comply with any applicable laws or regulations could result in substantial fines or
+revocation of our operating permits and licenses. If laws and regulations changed or we failed to comply, our financial condition, results of operations or cash flows could be materially and adversely
+affected. 
+
+
+
+ Legislative and other measures that may be taken by U.S. governmental authorities could materially increase our tax burden or otherwise adversely affect our financial conditions, results of operations
+or cash flows.  
+
+
+
+        We continue to assess the impact of various U.S. federal and state legislative proposals, and modifications to existing tax treaties between the United States and
+foreign countries, that could result in a material increase in our U.S. federal and state taxes. In October 2004, the U.S. Congress enacted
+legislation affecting the tax treatment of U.S. companies that have undertaken certain types of expatriation transactions. Such legislation did not, however, retroactively apply to the 1997
+acquisition of Tyco International Ltd. by ADT Limited. More recently, several proposals have been introduced in the U.S. House of Representatives that, if ultimately enacted by the U.S.
+Congress, would have limited treaty benefits on certain payments made by our U.S. subsidiaries to non-U.S. affiliates. We cannot predict the outcome of any specific legislative proposals.
+However, if such proposals were to be enacted, or if modifications were to be made to certain existing tax treaties, the consequences could have a materially adverse impact on Tyco, including
+increasing our tax burden, increasing costs of our tax compliance or otherwise adversely affecting our financial condition, results of operations or cash flows. 
+
+
+
+ We could face product liability claims relating to products we manufacture or install. These claims could result in significant costs and liabilities and reduce our profitability.  
+
+
+
+        We face exposure to product liability claims in the event that any of our products results in personal injury or property damage. In the event that any of our
+products prove to be defective, we may be required to recall or redesign such products, which could result in significant unexpected costs. Any insurance we maintain may not be available on terms
+acceptable to us or such coverage may not be adequate for liabilities actually incurred. Any claim or product recall could result in adverse publicity against us, which could adversely affect our
+financial condition, results of operations or cash flows. 
+
+
+
+ We have significant foreign operations, which are subject to political, economic and other risks inherent in operating in foreign countries.  
+
+
+
+        We have significant operations outside of the United States. We currently operate in approximately 60 countries. We generated 53% of our net revenue outside of
+the United States in 2007. We expect net revenue generated outside of the United States to continue to represent a significant portion of total net revenue. Business operations outside of the United
+States are subject to political, economic and other risks inherent in operating in certain countries, such as: 
+
+
+
+•the
+difficulty of enforcing agreements, collecting receivables and protecting assets through foreign legal systems;
+•trade
+protection measures and import or export licensing requirements;
+•difficulty
+in staffing and managing widespread operations and the application of foreign labor regulations; 
+
+17
+
+
+
+
+ 
+
+
+
+
+•compliance
+with a variety of foreign laws and regulations;
+•changes
+in the general political and economic conditions in the countries where we operate, particularly in emerging markets;
+•the
+threat of nationalization and expropriation;
+•increased
+costs and risks of doing business in a number of foreign jurisdictions;
+•changes
+in enacted tax laws;
+•limitations
+on repatriation of earnings; and
+•fluctuations
+in equity and revenues due to changes in foreign currency exchange rates. 
+
+
+        Changes
+in the political or economic environments in the countries in which we operate could have a material adverse effect on our financial condition, results of operations or cash
+flows. 
+
+
+
+ Volatility in currency exchange rates, commodity prices and interest rates may adversely affect our financial condition, result of operations or cash flows.  
+
+
+
+        We are exposed to a variety of market risks, including the effects of changes in currency exchange rates, commodity prices and interest rates. See Part II
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+        Our
+net revenue derived from sales in non-U.S. markets for 2007 was 53% of our total net revenue, and we expect revenue from non-U.S. markets to continue to
+represent a significant portion of our net revenue. Therefore, when the U.S. dollar strengthens in relation to the currencies of the foreign countries where we sell our products, our U.S. dollar
+reported revenue and income will decrease. Changes in the relative values of currencies occur regularly and in some instances, may have a significant effect on our results of operations. Our financial
+statements reflect recalculations of items denominated in non-U.S. currencies to U.S. dollars, our functional currency. 
+
+
+        We
+are a large buyer of metals and other commodities, including gas, the prices of which have fluctuated significantly in recent years. Volatility in the prices of these commodities
+could increase the costs of manufacturing our products and providing our services. We may not be able to pass on these costs to our customers and this could have a material adverse effect on our
+financial condition, results of operations or cash flows. 
+
+        We
+monitor these exposures as an integral part of our overall risk management program. In some cases, we purchase hedges or enter into contracts to insulate our results of operations
+from these fluctuations. Nevertheless, changes in currency exchange rates, commodity prices and interest rates may have a material adverse effect on our financial condition, results of operations or
+cash flows. 
+
+
+
+ If we cannot obtain sufficient quantities of materials, components and equipment required for our manufacturing activities at competitive prices and quality and on a timely basis, or if our
+manufacturing capacity does not meet demand, our financial condition, results of operations or cash flows may suffer.  
+
+
+
+        We purchase materials, components and equipment from third parties for use in our manufacturing operations. If we cannot obtain sufficient quantities of these
+items at competitive prices and quality and on a timely basis, we may not be able to produce sufficient quantities of product to satisfy market demand, product shipments may be delayed or our material
+or manufacturing costs may increase. In addition, because we cannot always immediately adapt our cost structures to changing market conditions, our manufacturing capacity may at times exceed or fall
+short of our production requirements. Any of these problems could result in the loss of customers, provide an opportunity for competing products to gain market acceptance and otherwise adversely
+affect our financial condition, results of operations or cash flows. 
+
+18
+
+
+
+
+ 
+
+
+ Divestitures of some of our businesses or product lines may materially adversely affect our financial condition, results of operations or cash flows.  
+
+
+
+        We continue to evaluate the performance of all of our businesses and may sell businesses or product lines. For example, in July 2007, the Board of
+Directors approved for divestiture Infrastructure Services. Any divestiture could result in significant asset impairment charges, including those related to goodwill and other intangible assets, which
+could have a material adverse effect on our business, financial condition and results of operations. Divestitures could involve additional risks, including difficulties in the separation of
+operations, services, products and personnel, the diversion of management's attention from other business concerns, the disruption of our business and the potential loss of key employees. We cannot
+assure you that we will be successful in managing these or any other significant risks that we encounter in divesting a business or product line. 
+
+
+
+ We have disclosed a material weakness in our internal control over financial reporting relating to our accounting for income taxes which could adversely affect our ability to report our financial
+condition, results of operations or cash flows accurately and on a timely basis.  
+
+
+
+        In connection with our assessment of internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act of 2002, we identified a
+material weakness in our internal control over financial
+reporting relating to our accounting for income taxes as of September 29, 2006. For a discussion of our internal control over financial reporting and a description of the identified material
+weakness, see "Management's Report on Internal Control over Financial Reporting" under Item 9A, "Controls and Procedures." 
+
+        A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material
+misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis. We have determined that further improvements are required in our tax
+accounting processes before we can consider the material weakness remediated. Management's procedures and testing identified errors that, although not material to the consolidated financial
+statements, led management to conclude that control deficiencies exist related to tax effecting consolidating entries, analysis and reconciliation of taxes receivable and taxes payable in
+non-U.S. jurisdictions, certain aspects of deferred taxes, and procedures with respect to classification of tax amounts in the consolidated balance sheet. As a result of these
+deficiencies, it is reasonably possible that internal controls over financial reporting may not have prevented or detected errors from occurring that could have been material, either individually or
+in the aggregate. 
+
+        A
+material weakness in our internal control over financial reporting could adversely impact our ability to provide timely and accurate financial information. While considerable actions
+have been taken to improve our internal controls in response to the identified material weakness related to certain aspects of accounting for income taxes, and further action steps to strengthen
+controls have been taken, additional work continues to address and remediate the identified material weakness. If we are unsuccessful in implementing or following our remediation plan, we may not be
+able to timely or accurately report our financial condition, results of operations or cash flows or maintain effective internal controls over financial reporting. If we are unable to report financial
+information timely and accurately or to maintain effective disclosure controls and procedures, we could be subject to, among other things, regulatory or enforcement actions by the SEC and the New York
+Stock Exchange, including a delisting from the New York Stock Exchange, securities litigation, debt rating agency downgrades or rating withdrawals, any one of which could adversely affect the
+valuation of our common stock and could adversely affect our business prospects. 
+
+19
+
+
+
+
+ 
+
+
+Risks Relating to Actions of Tyco's Former Senior Corporate Management  
+
+
+
+ Pending litigation could have a material adverse effect on our liquidity and financial condition.  
+
+
+
+        As a result of actions taken by our former senior corporate management, Tyco, some members of our former senior corporate management, former members of our Board
+of Directors and our former General Counsel are named defendants in a number of purported class actions alleging violations of certain disclosure provisions of the federal securities laws. Tyco,
+certain of our current and former employees, some members of our former senior corporate management and some former members of our Board of Directors also are named as defendants in several ERISA
+class actions. On May 14, 2007, we entered into a proposed settlement with respect to most of the class actions and deposited $2.975 billion into an escrow account pending final
+settlement of such class actions. 
+
+        We
+generally are obligated to indemnify our directors and officers and our former directors and officers who are also named as defendants in some or all of these matters to the extent
+required by Bermuda law. In addition, our insurance carriers may decline coverage, or our coverage may be insufficient to cover our expenses and liability, in some or all of these matters. We are
+unable at this time to estimate what our ultimate liability in these matters may be, and it is possible that we will be required to pay judgments or settlements and incur expenses, in excess of any
+insurance coverage, in aggregate amounts that would have a material adverse effect on our financial position, results of operations or cash flows. At this time, we cannot estimate the amount of loss
+or probable losses, if any, that might result from an adverse resolution of all of these matters or from a failure to consummate the proposed settlement on the agreed terms. 
+
+
+
+ Continued scrutiny resulting from ongoing governmental investigations may have an adverse effect on our business.  
+
+
+
+        We and others have received various subpoenas and requests from the SEC, the U.S. Department of Labor, state departments of labor, the General Service
+Administration and others seeking the production of voluminous documents in connection with various investigations into our governance, management, operations, accounting and related controls. Certain
+current and former employees in ADT Worldwide received subpoenas from the SEC's Division of Enforcement seeking testimony related to discontinued accounting practices regarding ADT dealer connect
+fees. The U.S. Department of Labor is investigating Tyco and the administrators of certain of our benefit plans. Similarly, several of our businesses periodically are the subject of state or local
+government wage and hour investigations. At this time, we cannot predict when these investigations will be completed, nor can we predict what the results of these investigations may be. It is possible
+that we will be required to pay material fines, consent to injunctions on future conduct, lose the ability to conduct business with governmental instrumentalities, which in turn could negatively
+impact our business with non-governmental customers, or suffer other penalties or adverse impacts, each of which could have a material adverse effect on our business. We cannot predict
+whether the effects and results of these or other investigations will have a material and adverse impact on our financial condition, results of operations or cash flows. 
+
+
+
+ Examinations and audits by tax authorities, including the Internal Revenue Service, could result in additional tax payments for prior periods.  
+
+
+
+        The Company and its subsidiaries' income tax returns periodically are examined by various tax authorities. In connection with these examinations, tax authorities,
+including the IRS, have raised issues and proposed tax adjustments. We are reviewing and contesting certain of the proposed tax adjustments. Amounts related to these tax adjustments and other tax
+contingencies and related interest that management has assessed as probable and estimable have been recorded through the income tax provision, equity or goodwill, as appropriate. The calculation of
+our tax liabilities involves dealing with uncertainties in the application of complex tax regulations in a multitude of jurisdictions across our global operations. We recognize potential liabilities
+and record tax liabilities for anticipated tax audit issues in the United States and other tax jurisdictions based on our estimate of whether, and the extent 
+
+20
+
+
+
+
+ 
+
+to
+which, additional income taxes will be due. These tax liabilities are reflected net of related tax loss carryforwards. We adjust these liabilities in light of changing facts and circumstances. Due
+to the complexity of some of these uncertainties, however, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. 
+
+        In
+2004, in connection with the IRS audit of the 1997 through 2000 years, the Company submitted to the IRS proposed adjustments to these prior period U.S. federal income tax
+returns resulting in a reduction in the taxable income previously filed. During 2006, the IRS accepted substantially all of the proposed adjustments. Also during 2006, the Company developed proposed
+amendments to U.S. federal income tax returns for additional periods through 2002. The Company has yet to complete proposed amendments to its U.S. federal income tax returns for periods subsequent to
+2002, which will primarily reflect the roll forward through 2006 of the amendments for the periods 1997 to 2002. When the Company's tax return positions are updated additional adjustments may be
+identified and recorded in the Consolidated Financial Statements. While the final adjustments cannot be determined until the income tax return amendment process is completed, the Company believes that
+any resulting adjustments will not have a material impact on its financial condition, results of operations or cash flows. 
+
+
+
+ Material adverse legal judgments, fines, penalties or settlements could adversely affect our financial health and prevent us from fulfilling our obligations under our outstanding indebtedness.  
+
+
+
+        We estimate that our available cash, our cash flow from operations and amounts available to us under our revolving lines of credit will be adequate to fund our
+operations and service our debt for the
+foreseeable future. In making this estimate, we have not assumed the need to make any material payments in connection with pending litigation or investigations. Any material adverse legal judgments,
+fines, penalties or settlements arising from our pending investigations and litigation could require additional funding. If such developments require us to obtain additional funding, we cannot provide
+assurance that we will be able to obtain the additional funding that we need on commercially reasonable terms or at all, which could have a material adverse effect on our financial condition, results
+of operations or cash flows. 
+
+        Such
+an outcome could have important consequences to you. For example, it could: 
+
+
+
+•require
+us to dedicate a substantial portion of our cash flow from operations to payments on our indebtedness, thereby reducing the availability of our cash flow to fund
+working capital, capital expenditures, research and development efforts and other general corporate purposes, including debt reduction or dividend payments;
+•increase
+our vulnerability to general adverse economic and industry conditions;
+•limit
+our flexibility in planning for, or reacting to, changes in our businesses and the industries in which we operate;
+•restrict
+our ability to introduce new technologies or exploit business opportunities;
+•make
+it more difficult for us to satisfy our payment obligations with respect to our outstanding indebtedness; and
+•increase
+the difficulty and/or cost to us of refinancing our indebtedness. 
+
+
+
+
+ Additional negative publicity may adversely affect our business.  
+
+
+
+        As a result of actions taken by our former senior corporate management, Tyco was the subject of negative publicity focusing on these actions. This negative
+publicity contributed to significant declines in the prices of our publicly traded securities in 2002 and brought increased regulatory scrutiny upon us. Additional negative publicity related to former
+senior corporate management's actions could have a material adverse effect on our results of operations or cash flows and the market price of our publicly traded securities. 
+
+21
+
+
+
+
+ 
+
+
+ Our senior corporate management team is required to devote significant attention to matters arising from actions of prior management.  
+
+
+
+        As a result of the actions of prior management, we replaced our senior corporate executives with a new team during 2002 through 2004, and a new Board of Directors
+was elected at our annual general meeting of shareholders in March 2003. We cannot provide assurance that the distractions related to matters arising from the actions of prior management will
+not adversely affect our financial condition, results of operations or cash flows. 
+
+Risks Relating to the Separations  
+
+
+
+ If the distribution of Covidien and Tyco Electronics common shares to our shareholders or certain internal transactions undertaken in connection with the Separation are determined to be taxable for
+U.S. federal income tax purposes, we could incur significant U.S. federal income tax liabilities.  
+
+
+
+        We have received private letter rulings from the U.S. Internal Revenue Service regarding the U.S. federal income tax consequences of the distribution of Covidien
+and Tyco Electronics common shares
+to our shareholders substantially to the effect that the distribution of such shares, except for cash received in lieu of fractional shares, will qualify as tax-free under Sections 355 and
+368(a)(1)(D) of the Internal Revenue Code of 1986. The private letter rulings also provided that certain internal transactions undertaken in anticipation of the Separation would qualify for favorable
+treatment under the Code. In addition to obtaining the private letter rulings, we have obtained opinions from the law firm of McDermott Will & Emery LLP confirming the tax-free
+status of the distribution and certain internal transactions. The private letter rulings and the opinions relied on certain facts and assumptions, and certain representations and undertakings, from
+Tyco, Covidien and Tyco Electronics regarding the past and future conduct of our respective businesses and other matters. Notwithstanding the private letter rulings and the opinions, the Internal
+Revenue Service could determine on audit that the distribution or the internal transactions should be treated as taxable transactions if it determines that any of these facts, assumptions,
+representations or undertakings are not correct or have been violated, or that the distributions should be taxable for other reasons, including as a result of significant changes in stock or asset
+ownership after the distribution. If the distribution ultimately is determined to be taxable, we would recognize gain in an amount equal to the excess of the fair market value of the Covidien and Tyco
+Electronics common shares distributed to our shareholders on June 29, 2007 over our tax basis in such common shares, but such gain, if recognized, generally would not be subject to U.S. federal
+income tax. However, we would incur significant U.S. federal income tax liabilities if it ultimately is determined that certain internal transactions undertaken in connection with the Separation
+should be treated as taxable transactions. 
+
+        In
+addition, under the terms of the Tax Sharing Agreement that we have entered into with Covidien and Tyco Electronics in connection with the Separation, in the event the distribution or
+the internal transactions are determined to be taxable and such determination was the result of actions taken after the Separation by Tyco, Covidien or Tyco Electronics, the party responsible for such
+failure would be responsible for all taxes imposed on Tyco, Covidien or Tyco Electronics as a result thereof. If such determination is not the result of actions taken after the Separation by Tyco,
+Covidien or Tyco Electronics, then we, Covidien and Tyco Electronics would be responsible for 27%, 42% and 31%, respectively, of any taxes imposed on us, Covidien or Tyco Electronics as a result of
+such determination. Such tax amounts could be significant. In the event that any party to the Tax Sharing Agreement defaults in its obligation to pay distribution taxes to another party that arise as
+a result of no party's fault, each non-defaulting party would be responsible for an equal amount of the defaulting party's obligation to make a payment to another party in respect of such
+other party's taxes. 
+
+22
+
+
+
+
+ 
+
+
+
+ We continue to be responsible for a portion of our contingent and other corporate liabilities following the Separation, primarily those relating to shareholder litigation.  
+
+
+
+        Under the Separation and Distribution Agreement and other agreements, subject to certain exceptions contained in the Tax Sharing Agreement, we, Covidien and Tyco
+Electronics have agreed to assume and be responsible for 27%, 42% and 31%, respectively, of certain of our contingent and other corporate
+liabilities. All costs and expenses associated with the management of these contingent and other corporate liabilities will be shared equally among the parties. These contingent and other corporate
+liabilities primarily relate to consolidated securities litigation and any actions with respect to the separation plan or the Separation brought by any third party. Contingent and other corporate
+liabilities do not include liabilities that are specifically related to one of the three separated companies, which are allocated 100% to the relevant company. 
+
+        If
+any party responsible for such liabilities were to default in its payment, when due, of any of these assumed obligations, each non-defaulting party would be required to
+pay equally with any other non-defaulting party the amounts in default. Accordingly, under certain circumstances, we may be obligated to pay amounts in excess of our
+agreed-upon share of the assumed obligations related to such contingent and other corporate liabilities including associated costs and expenses. 
+
+        Many
+lawsuits are outstanding against Tyco, some of which relate to actions taken by its former senior corporate management. On May 14, 2007, we entered into a proposed settlement
+with respect to most of the class actions. We do not believe that it is feasible to predict the final outcome or resolution of the unresolved proceedings. Although we will share any costs and expenses
+arising out of this litigation with Covidien and Tyco Electronics, a failure to consummate the proposed settlement on the agreed terms or an adverse outcome from the unresolved proceedings or
+liabilities or other proceedings for which we will assume joint and several liability under the Separation and Distribution Agreement could be material with respect to our financial condition, results
+of operations or cash flows in any given reporting period. 
+
+
+
+ We share responsibility for certain of our, Covidien's and Tyco Electronics' income tax liabilities for tax periods prior to and including June 29, 2007.  
+
+
+
+        Under the Tax Sharing Agreement, we share responsibility for certain of our, Covidien's and Tyco Electronics' income tax liabilities based on a sharing formula
+for periods prior to and including June 29, 2007. More specifically, we, Covidien and Tyco Electronics share 27%, 42% and 31%, respectively, of U.S. income tax liabilities that arise from
+adjustments made by tax authorities to our, Covidien's and Tyco Electronics' U.S. income tax returns, certain income tax liabilities arising from adjustments made by tax authorities to intercompany
+transactions or similar adjustments, and certain taxes attributable to internal transactions undertaken in anticipation of the Separation. All costs and expenses associated with the management of
+these shared tax liabilities will be shared equally among the parties. We are responsible for all of our own taxes that are not shared pursuant to the Tax Sharing Agreement's sharing formula. In
+addition, Covidien and Tyco Electronics are responsible for their tax liabilities that are not subject to the Tax Sharing Agreement's sharing formula. 
+
+
+        If
+any party to the Tax Sharing Agreement were to default in its obligation to another party to pay its share of the distribution taxes that arise as a result of no party's fault, each
+non-defaulting party would be required to pay, equally with any other non-defaulting party, the amounts in default. In addition, if another party to the Tax Sharing Agreement
+that is responsible for all or a portion of an income tax liability were to default in its payment of such liability to a taxing authority, we could be legally liable under applicable tax law for such
+liabilities and required to make additional tax payments. Accordingly, under certain circumstances, we may be obligated to pay amounts in excess of our agreed-upon share of our, Covidien's
+and Tyco Electronics' tax liabilities. 
+
+23
+
+
+
+
+ 
+
+
+
+ We might not be able to engage in desirable strategic transactions and equity issuances following the Separation because of restrictions relating to U.S. federal income tax requirements for
+tax-free distributions.  
+
+
+
+        Our ability to engage in significant equity transactions could be limited or restricted after Separation in order to preserve for U.S. federal income tax purposes
+the tax-free nature of the distribution. In addition, similar limitations and restrictions will apply to Covidien and Tyco Electronics. The distribution of common shares of Covidien and
+Tyco Electronics to our shareholders may result in corporate level taxable gain to us under Section 355(e) of the Code if 50% or more, by vote or value, of our common shares, Covidien's common
+shares or Tyco Electronics' common shares are acquired or issued as part of a plan or series of related transactions that includes the distribution. For this purpose, any acquisitions or issuances of
+our common shares within two years before the distribution, and any acquisitions or issuances of our common shares, Covidien's common shares or Tyco Electronics' common shares within two years after
+the distribution, generally are presumed to be part of such a plan, although we, Covidien or Tyco Electronics may be able to rebut that presumption. We are not aware of any such acquisitions or
+issuances of our common shares within the two years before the distribution. If an acquisition or issuance of our common shares, Covidien's common shares or Tyco Electronics' common shares triggers
+the application of Section 355(e) of the Code, we would recognize taxable gain as described above, but such gain generally would not be subject to U.S. federal income tax. However, certain
+subsidiaries of Covidien or Tyco Electronics or subsidiaries of ours would incur significant U.S. federal income tax liabilities as a result of the application of Section 355(e) of the Code. 
+
+        Under
+the Tax Sharing Agreement, there are restrictions on our ability to take actions that could cause the distribution or certain internal transactions undertaken in connection with
+the Separation to fail to qualify as tax-free or tax-favored transactions, as the case maybe, including entering into, approving or allowing any transaction that results in a
+change in ownership of more than 35% of our common shares, a redemption of equity securities, a sale or other disposition of a substantial portion of our assets, an acquisition of a business or assets
+with equity securities to the extent one or more persons would acquire 35% or more of our common shares, or engaging in certain internal transactions. These restrictions apply for the
+two-year period after the distributions, unless we obtain the consent of the other parties or we obtain a private letter ruling from
+the Internal Revenue Service or an unqualified opinion of a nationally recognized law firm that such action will not cause the distribution or the internal transactions undertaken in connection with
+the Separation to fail to qualify as tax-favored transactions and such letter ruling or opinion, as the case may be, is acceptable to the parties. Covidien and Tyco Electronics are subject
+to similar restrictions under the Tax Sharing Agreement. Moreover, the Tax Sharing Agreement generally provides that a party thereto is responsible for any taxes imposed on any other party thereto as
+a result of the failure of the distribution or certain internal transactions to qualify as tax-favored transactions under the Code if such failure is attributable to certain
+post-distribution actions taken by or in respect of the responsible party or its shareholders, regardless of whether the actions occur more than two years after the distribution, the other
+parties consent to such actions or the responsible party obtains a favorable letter ruling or opinion of tax counsel as described above. For example, we would be responsible for a third party's
+acquisition of us at a time and in a manner that would cause such failure. These restrictions may prevent us from entering into transactions which might be advantageous to our shareholders and
+noteholders. 
+
+24
+
+
+
+
+
+
+<A
+NAME="page_ci15501_1_25">  
+
+
+
+
+ Continuing demands on our management team as a result of the Separation could distract management's attention from operating the business.  
+
+
+
+        The complexity of the Separation has required and will continue to require a substantial amount of management and operational resources. Our management team must
+devote continued time and attention to fulfilling Tyco's obligations under the Separation and Distribution Agreement and the Tax Sharing Agreement, including the defense and settlement of litigation
+related to shared contingent and other corporate liabilities of Tyco, Covidien and Tyco Electronics and the administration of the U.S. tax audit for periods up to June 29, 2007. At the same
+time, our management team must successfully implement administrative and operational changes necessary to achieve reductions in corporate expense following the Separation. These and related demands on
+our administrative resources may distract management from the day-to-day operation of Tyco's business. As a result our financial condition, results of operations or cash flows
+may be adversely affected. 
+
+
+
+ We may be unable to achieve some or all of the benefits that we expect will be achieved from the Separation.  
+
+
+
+        We may not be able to achieve the full strategic and financial benefits we expect will result from the separation of two of Tyco's segments into independent
+companies or such benefits may be delayed or may not occur at all. For example, there can be no assurance that analysts and investors will regard Tyco's post-Separation corporate structure
+as more clear and simple than its pre-Separation corporate structure or place a greater value on the businesses remaining with Tyco post-Separation than they placed on those
+businesses pre-Separation. 
+
+Risks Related to Corporate Governance  
+
+
+
+ We are subject to governmental investigations that might have serious consequences.  
+
+
+
+        We are now, and believe that in light of the current U.S. governmental contracting environment we will continue to be, the subject of one or more U.S.
+governmental investigations. If we or one of our business units were charged with wrongdoing as a result of any U.S. governmental investigations, including violation of certain environmental or export
+laws, we could be suspended from bidding on or receiving awards of new U.S. governmental contracts pending the completion of legal proceedings. If convicted or found liable, we could be subject to
+fines, penalties, repayments and treble and other damages. Any contracts found to be tainted by fraud could be voided by the U.S. government. The U.S. government also reserves the right to prohibit a
+contractor from receiving new governmental contracts for fraudulent, criminal or other seriously improper conduct. Independently, failure to comply with U.S. laws and regulations related to the export
+of goods and technology outside the United States could result in civil or criminal penalties and suspension or termination of our export privileges. 
+
+Risks Relating to Our Jurisdiction of Incorporation  
+
+
+
+ Legislation and negative publicity regarding Bermuda companies could affect our financial condition, results of operations or cash flows.  
+
+
+
+Legislation Relating to Government Contracts  
+
+        We continue to assess the potential impact of various U.S. federal and state legislative proposals that would deny government contracts to U.S. companies that
+move their corporate location abroad. The legislative proposals could cover the 1997 acquisition of Tyco International Ltd., a Massachusetts corporation, by ADT Limited (a public company that
+had been located in Bermuda since the 1980's with origins dating back to the United Kingdom since the early 1900's), as a result of which ADT changed its name to Tyco International Ltd. and
+became the parent to the Tyco group. 
+
+25
+
+
+
+
+ 
+
+
+        We
+are unable to predict the likelihood or final form in which any such proposed legislation might become law, the nature of regulations that may be promulgated under any future
+legislative enactments, or the effect such enactments and increased regulatory scrutiny may have on our business. 
+
+
+Negative Publicity  
+
+        There is continuing negative publicity regarding, and criticism of, U.S. companies' use of, or relocation to, offshore jurisdictions, including Bermuda. As a
+Bermuda company, this negative publicity could harm our reputation and impair our ability to generate new business if companies or governmental agencies decline to do business with us as a result of
+any perceived negative public image of Bermuda companies or the possibility of our customers receiving negative media attention from doing business with a Bermuda company. 
+
+
+
+ Bermuda law differs from the laws in effect in the United States and may afford less protection to holders of our securities.  
+
+
+
+        We are organized under the laws of Bermuda. It may not be possible to enforce court judgments obtained in the United States against us in Bermuda based on the
+civil liability provisions of the U.S. federal or state securities laws. In addition, there is some doubt as to whether the courts of Bermuda would recognize or enforce judgments of U.S. courts
+obtained against us or our directors or officers based on the civil liabilities provisions of the U.S. federal or state securities laws or hear actions against us or those persons based on those laws.
+We have been advised that the United States and Bermuda do not currently have a treaty providing for the reciprocal recognition and enforcement of judgments in civil and commercial matters. Therefore,
+a final judgment for the payment of money rendered by any U.S. federal or state court based on civil liability, whether or not based solely on U.S. federal or state securities laws, would not
+automatically be enforceable in Bermuda. 
+
+        As
+a Bermuda company, Tyco is governed by the Companies Act 1981 of Bermuda, which differs in some material respects from laws applicable to U.S. companies and shareholders, including,
+among others, differences relating to interested director and officer transactions, shareholder lawsuits and indemnification. Likewise, the duties of directors and officers of a Bermuda company are
+generally owed to the company only. Shareholders of Bermuda companies do not generally have a personal right of action against directors or officers of the company and may only exercise such rights of
+action on behalf of the company in limited circumstances. Under Bermuda law, a company may also agree to indemnify directors and officers for any personal liability, not involving fraud or dishonesty,
+incurred in relation to the company. 
+
+<A
+NAME="ci15501_item_1b._unresolved_staff_comments"> 
+ 
+Item 1B

@@ -1,0 +1,97 @@
+Item 1A.
+Risk Factors
+
+We are subject to a variety of significant risks in addition to the matters set forth under "Safe Harbor Statement Under the Private Securities Litigation Reform Act of 1995" in Item 1, "Business," above.  Our susceptibility to certain risks, including those discussed in detail below, could exacerbate other risks.  These risk factors should be considered carefully in evaluating our risk profile.
+
+The infrastructure of our transmission and distribution system may not operate as expected, and could require additional unplanned expense which could adversely affect our earnings.
+
+Our ability to manage operational risk with respect to our transmission and distribution systems is critical to the financial performance of our business.  Our transmission and distribution businesses face several operational risks, including the breakdown or failure of or damage to equipment or processes (especially due to age), accidents and labor disputes.  The costs (both labor and material) that our regulated companies incur to construct and maintain their electric delivery systems have increased in recent years.  These increases have been driven primarily by higher demand for commodities and electrical products, as well as increased demand for skilled labor.  A significant percentage of our regulated company equipment is nearing or at the end of its life cycle, such as old and obsolete distribution poles, underground primary cables and substation switchgear.  The failure of our transmission and distributions systems to operate as planned may 
+result in increased capital investments, reduced earnings or unplanned increases in expenses, including higher maintenance costs.  Any such costs which may not be recoverable from our ratepayers would have an adverse effect on our earnings.
+
+Changes in regulatory or legislative policy, difficulties in obtaining siting, design or other approvals, global demand for critical resources, or environmental or other concerns, or construction of new generation may delay completion of or displace our transmission projects or adversely affect our ability to recover our investments or result in lower than expected rates of return.
+
+The successful implementation of our transmission construction plans is subject to the risk that new legislation, regulations or judicial or regulatory interpretations of applicable law or regulations could impact our ability to meet our construction schedule and/or require us to incur additional expenses and may adversely affect our ability to achieve forecast levels of revenues.  In addition, difficulties in obtaining required approvals for construction, or increased cost of and difficulty in obtaining critical resources as a result of global or domestic demand for such resources could cause delays in our construction schedule and may adversely affect our ability to achieve forecasted earnings.
+
+The regulatory approval process for our planned transmission projects encompasses an extensive permitting, design and technical approval process.  Various factors could result in increased cost estimates and delayed construction.  These include environmental and community concerns and design and siting issues.  Recoverability of all such investments in rates may be subject to prudence review at the FERC at the time such projects are placed in service.  While we believe that all such expenses have been and will be prudently incurred, we cannot predict the outcome of future reviews should they occur.
+
+In addition, to the extent that new generation facilities are proposed or built to address the region’s energy needs, the need for our planned transmission projects may be delayed or displaced, which could result in reduced transmission capital investments, reduced earnings, and limit future growth prospects. 
+
+The currently planned transmission projects are expected to help alleviate identified reliability issues and to help reduce customers' costs.  However, if, due to further regulatory or other delays, the projected in-service date for one or more of these projects is delayed, there may be increased risk of failures in the existing electricity transmission system and supply interruptions or blackouts may occur which could have an adverse effect on our earnings.  
+
+The FERC has followed a policy of providing incentives designed to encourage the construction of new transmission facilities, including higher returns on equity and allowing facilities under construction to be placed in rate base before completion.  Our projected earnings and growth could be adversely affected were FERC to reduce these incentives in the future below the level presently anticipated.
+
+
+
+19
+
+Increases in electric and gas prices and focus on conservation and self-generation by customers and changes in legislative and regulatory policy may adversely impact our business.
+
+The nation's economy has been affected by significant increases in energy prices, particularly fossil fuels.  The impact of these increases has led to increased electricity and natural gas prices for our customers, which has increased the focus on conservation, energy efficiency and self-generation on the part of customers and on legislative and regulatory policies.  This focus on conservation, energy efficiency and self-generation may result in a decline in electricity and gas sales in our service territories.  If any such declines were to occur without corresponding adjustments in rates, then our revenues would be reduced and our future growth prospects would be limited.
+
+In addition, Connecticut, New Hampshire and Massachusetts have each announced policies aimed at increased energy efficiency and conservation.  In connection with such policies, all three states have opened proceedings to investigate revenue decoupling as a mechanism to align the interests of customers and utilities relative to conservation.  In Connecticut, the DPUC authorized decoupling via a rate design that is intended to recover  proportionately greater distribution revenue through the fixed Customer and Demand charges, and proportionately less distribution revenue through the per kWh charges.  At this time it is uncertain what mechanisms will ultimately be adopted by New Hampshire and Massachusetts and what impact these decoupling mechanisms will have on our companies.
+
+Changes in regulatory policy may adversely affect our transmission franchise rights or facilitate competition for construction of large-scale transmission projects, which could adversely affect our earnings.
+
+We have undertaken a substantial transmission capital investment program and expect to invest approximately $3 billion in regulated electric transmission infrastructure from 2008 through 2012.
+
+Although our public utility subsidiaries have exclusive franchise rights for transmission facilities in our service area, the demand for improved transmission reliability could result in changes in federal or state regulatory or legislative policy that could cause us to lose the exclusivity of our franchises or allow other companies to compete with us for transmission construction opportunities.  Such a change in policy could result in reduced transmission capital investments, reduce earnings, and limit future growth prospects.
+
+Changes in regulatory and/or legislative policy could negatively impact regional transmission cost allocation rules.
+
+The existing New England Transmission tariff allocates the costs of transmission investment that provide regional benefits to all customers in New England.  As new investment in regional transmission infrastructure occurs in any one state, there is a sharing of these regional costs across all of New England.  This regional cost allocation is contractually agreed to remain in place until 2010 by the Transmission Operations Agreement signed by all of the New England transmission owning utilities but can be changed with the approval of a majority of the transmission owning utilities thereafter.  After 2010, certain changes to the terms of the Transmission Operations Agreement could have adverse effects on our distribution companies' local rates.  We are working to retain the existing regional cost allocation treatment but cannot predict the actions of the states or utilities in the region.
+
+Changes in regulatory or legislative policy could jeopardize our full recovery of costs incurred by our distribution companies.
+
+Under state law, our utility companies are entitled to charge rates that are sufficient to allow them an opportunity to recover their reasonable operating and capital costs, to attract needed capital and maintain their financial integrity, while also protecting relevant public interests.  Each of these companies prepares and submits periodic rate filings with their respective state regulatory commissions for review and approval.  There is no assurance that these state commissions will approve the recovery of all costs prudently incurred by our regulated companies, such as for operation and maintenance, construction, as well as a return on investment on their respective regulated assets.  Increases in these costs, coupled with increases in fuel and energy prices could lead to consumer or regulatory resistance to the timely recovery of such prudently incurred costs, thereby adversely affecting our cash flows and results of operations.
+
+In addition, CL&P and WMECO procure energy for a substantial portion of their customers via requests for proposal on an annual, semi-annual or quarterly basis.  CL&P and WMECO receive approvals of recovery of these contract prices from the DPUC and DPU, respectively.  While both regulatory agencies have consistently approved solicitation processes, results and recovery of costs, management cannot predict the outcome of future solicitation efforts or the regulatory proceedings related thereto.  
+
+The energy requirements for PSNH are currently met primarily through PSNH's generation resources or fixed-price forward purchase contracts.  PSNH’s remaining energy needs are met primarily through spot market or bilateral energy purchases.  Unplanned forced outages of its generating plants could increase the level of energy purchases needed by PSNH and therefore increase the market risk associated with procuring the necessary amount of energy to meet requirements.  PSNH recovers these costs through its ES rate, subject to a prudence review by the NHPUC.  We cannot predict the outcome of future regulatory proceedings related to recovery of these costs.  
+
+
+20
+
+
+The loss of key personnel or the inability to hire and retain qualified employees could have an adverse effect on our business, financial condition and results of operations.
+
+Our operations depend on the continued efforts of our employees.  Retaining key employees and maintaining the ability to attract new employees are important to both our operational and financial performance.  We cannot guarantee that any member of our management or any key employee at the NU parent or subsidiary level will continue to serve in any capacity for any particular period of time.  In addition, a significant portion of our workforce, including many workers with specialized skills maintaining and servicing the electrical infrastructure, will be eligible to retire over the next five to ten years.  Such highly skilled individuals cannot be quickly replaced due to the technically complex work they perform.  We are developing strategic workforce plans to identify key functions and proactively implement plans to assure a ready and qualified workforce, but cannot predict the impact of these plans on our ability to hire and retain key employees.<
+/P>
+
+Grid disturbances, severe weather, or acts of war or terrorism could negatively impact our business.
+
+Because our generation and transmission systems are part of an interconnected regional grid, we face the risk of possible loss of business continuity due to a disruption or black-out caused by an event (severe storm, generator or transmission facility outage, or terrorist action) on an interconnected system or the actions of another utility.  In addition, we are subject to the risk that acts of war or terrorism could negatively impact the operation of our system.  Any such disruption could result in a significant decrease in revenues and significant additional costs to repair assets, which could have a material adverse impact on our financial condition and results of operations. 
+
+Severe weather, such as ice and snow storms, hurricanes and other natural disasters, may cause outages and property damage which may require us to incur additional costs that are generally not insured and that may not be recoverable from customers.  The cost of repairing damage to our operating subsidiaries' facilities and the potential disruption of their operations due to storms, natural disasters or other catastrophic events could be substantial.  The effect of the failure of our facilities to operate as planned would be particularly burdensome during a peak demand period, such as during the hot summer months.  
+
+A negative change in NU's credit ratings could require NU parent to post cash collateral and affect our ability to obtain financing.
+
+NU parent’s senior unsecured debt ratings by Moody's Investors Service, Standard & Poor's, Inc. and Fitch Ratings are currently Baa2, BBB- and BBB, respectively, with stable outlooks.  Were any of these ratings to decline to non-investment grade level, Select Energy could be asked to provide, as of December 31, 2007, collateral or letters of credit in the amount of $70.4 million to unaffiliated counterparties and collateral or letters of credit in the amount of $23.4 million to several independent system operators and unaffiliated local distribution companies (LDCs) under agreements largely guaranteed by NU parent.  While our credit facilities are sufficient in amounts that would be adequate to meet cash calls at that level, our ability to meet any future cash calls would depend on our liquidity and access to bank lines and the capital markets at such time. 
+
+We expect to obtain the liquidity needed for our capital programs through bank borrowings, the issuance of long-term debt at the subsidiary level and debt and equity financing at the NU parent level.  While we are reasonably confident these funds will be available on a timely basis and on reasonable terms, failure to obtain such financing could constrain our ability to finance regulated capital projects.  In addition, any ratings downgrade of our securities or those of our subsidiaries, or any negative impacts on the credit market, generally, could negatively impact the cost or availability of capital.
+
+Changes in wholesale electric sales could require Select Energy to acquire or sell additional electricity on unfavorable terms.
+
+Select Energy's remaining wholesale sales contracts provide electricity to full requirements customers, including a regulated LDC and a municipal electric company.  Select Energy provides a portion of the customer's electricity requirements.  The volumes sold under these contracts vary based on the usage of the underlying retail electric customers, and usage is dependent upon factors outside of Select Energy's control, such as economic activity and weather.  The varying sales volumes may differ from the supply volumes that Select Energy expected to utilize from electricity purchase contracts.  Differences between actual sales volumes and supply volumes may require Select Energy to purchase additional electricity or sell excess electricity, both of which are subject to market conditions which change due to weather, plant availability, transmission congestion, and input fuel costs.  The purchase of additional electricity at high prices or sale of exc
+ess electricity at low prices could negatively impact Select Energy's cost to serve the contracts.
+
+
+
+21
+
+We are subject to litigation which could result in large cash judgments against us.
+
+We are engaged in litigation that could result in the imposition of large cash judgments against us.  This litigation includes a civil lawsuit between us and Consolidated Edison, Inc. (Con Edison) relating to our October 13, 1999 Agreement and Plan of Merger.
+
+We may also be subject to future litigation based on asserted or unasserted claims and cannot predict the outcome of any of these proceedings.  Adverse outcomes in existing or future litigation could result in the imposition of substantial cash damage awards against us. 
+
+Further information regarding these legal proceedings, as well as other matters, is set forth in Item 3, "Legal Proceedings."
+
+Costs of compliance with environmental regulations may increase and have an adverse effect on our business and results of operations.
+
+Our subsidiaries' operations are subject to extensive federal, state and local environmental statutes, rules and regulations which regulate, among other things, air emissions, water discharges and the management of hazardous and solid waste.  In particular, more stringent regulations of carbon dioxide and mercury emissions have been proposed in the various New England states in which we operate.  Compliance with these requirements requires us to incur significant costs relating to environmental monitoring, installation of pollution control equipment, emission fees, maintenance and upgrading of facilities, remediation and permitting.  The costs of compliance with existing legal requirements or legal requirements not yet adopted may increase in the future.  An increase in such costs, unless promptly recovered, could have an adverse impact on our business and results of operations, financial position and cash flows.   
+
+In addition, global climate change issues have received an increased focus on the federal and state government levels which could potentially lead to additional rules and regulations that impact how we operate our business, both in terms of the power plants we own and operate as well as general utility operations.  Although we would expect that any costs of these rules and regulations would be recovered from ratepayers, the impact of these rules and regulations on energy use by ratepayers and the ultimate impact on our business would be dependent upon the specific rules and regulations adopted and cannot be determined at this time.
+
+Any failure by us to comply with environmental laws and regulations, even if due to factors beyond our control, or reinterpretations of existing requirements, could also increase costs.  Existing environmental laws and regulations may be revised or new laws and regulations seeking to protect the environment may be adopted or become applicable to us.  Revised or additional laws could result in significant additional expense and operating restrictions on our facilities or increased compliance costs which may not be fully recoverable in distribution company rates for generation.  The cost impact of any such legislation would be dependent upon the specific requirements adopted and cannot be determined at this time.  For further information, see Item 1, "Business - Other Regulatory and Environmental Matters - Environmental Regulation."
+
+Item 1B

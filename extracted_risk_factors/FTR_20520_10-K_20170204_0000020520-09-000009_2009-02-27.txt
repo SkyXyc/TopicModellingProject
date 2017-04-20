@@ -1,0 +1,406 @@
+Item 1A.  Risk Factors
+          ------------
+
+Before you make an  investment  decision  with  respect to our  securities,  you
+should  carefully  consider all the information we have included or incorporated
+by reference in this Form 10-K and our subsequent periodic filings with the SEC.
+In particular,  you should carefully  consider the risk factors  described below
+and read the risks and uncertainties related to "forward-looking  statements" as
+set forth in the  "Management's  Discussion and Analysis of Financial  Condition
+and  Results  of   Operations"   section  of  this  Form  10-K.  The  risks  and
+uncertainties  described  below  are not  the  only  ones  facing  our  company.
+Additional risks and uncertainties that are not presently known to us or that we
+currently  deem  immaterial  or that are not  specific  to us,  such as  general
+economic conditions,  may also adversely affect our business and operations. The
+following  risk  factors  should  be  read  in  conjunction  with  MD&A  and the
+consolidated financial statements and related notes included in this report.
+
+Risks Related to Competition and Our Industry
+- ---------------------------------------------
+
+         We face intense competition, which could adversely affect us.
+
+         The telecommunications industry is extremely competitive and
+competition is increasing. The traditional dividing lines between long distance,
+local, wireless, cable and internet service providers are becoming increasingly
+blurred. Through mergers and various service expansion strategies, services
+providers are striving to provide integrated solutions both within and across
+geographic markets. Our competitors include CLECs and other providers (or
+potential providers) of services, such as internet service providers, or ISPs,
+wireless companies, neighboring incumbents, VOIP providers and cable companies
+that may provide services competitive with the services that we offer or intend
+to introduce. Competition is intense and increasing and we cannot assure you
+that we will be able to compete effectively. For example, at December 31, 2008,
+we had 174,800 fewer access lines than we had at December 31, 2007, and we
+believe wireless and cable telephony providers have increased their market share
+in our markets. We expect to continue to lose access lines and that competition
+with respect to all our products and services will increase.
+
+         We expect competition to intensify as a result of the entrance of new
+competitors, penetration of existing competitors into new markets, changing
+consumer behavior and the development of new technologies, products and services
+that can be used in substitution for ours. We cannot predict which of the many
+possible future technologies, products or services will be important to maintain
+our competitive position or what expenditures will be required to develop and
+provide these technologies, products or services. Our ability to compete
+successfully will depend on the success and cost of marketing efforts and on our
+ability to anticipate and respond to various competitive factors affecting the
+industry, including a changing regulatory environment that may affect our
+competitors and us differently, new services that may be introduced, changes in
+consumer preferences, demographic trends, economic conditions and pricing
+strategies by competitors. Increasing competition may reduce our revenues and
+increase our marketing and other costs as well as require us to increase our
+capital expenditures and thereby decrease our cash flow.
+
+                                       8
+
+
+     Some of our competitors  have superior  resources,  which may place us at a
+cost and price disadvantage.
+
+         Some of our current and potential competitors have market presence,
+engineering, technical and marketing capabilities, and financial, personnel and
+other resources substantially greater than ours. In addition, some of our
+competitors can raise capital at a lower cost than we can. Consequently, some
+competitors may be able to develop and expand their communications and network
+infrastructures more quickly, adapt more swiftly to new or emerging technologies
+and changes in customer requirements, take advantage of acquisition and other
+opportunities more readily and devote greater resources to the marketing and
+sale of their products and services than we can. Additionally, the greater brand
+name recognition of some competitors may require us to price our services at
+lower levels in order to retain or obtain customers. Finally, the cost
+advantages of some competitors may give them the ability to reduce their prices
+for an extended period of time if they so choose.
+
+Risks Related to Our Business
+- -----------------------------
+
+     Decreases in certain types of our revenues will impact our profitability.
+
+         Our business has experienced declining access lines, switched access
+minutes of use, long distance prices, Federal and state subsidies and related
+revenues because of economic conditions, increasing competition, changing
+consumer behavior (such as wireless displacement of wireline use, email use,
+instant messaging and increasing use of VOIP), technology changes and regulatory
+constraints. Our access lines declined 7% in 2008, and 6% in 2007 (excluding the
+access lines added through our acquisitions of Commonwealth Telephone
+Enterprises, Inc. (Commonwealth or CTE) and Global Valley Networks, Inc. and GVN
+Services (together GVN)). These factors are likely to cause our local network
+service, switched network access, long distance and subsidy revenues to continue
+to decline, and these factors, together with increased cash taxes may cause our
+cash generated by operations to decrease.
+
+         A significant portion of our revenues ($285.0 million, or 13% in 2008)
+is derived from access charges paid by IXCs for services we provide in
+originating and terminating intrastate and interstate traffic. The amount of
+access charge revenues we receive for these services is regulated by the FCC and
+state regulatory agencies.
+
+     We may be unable to grow our revenue and cash flow despite the  initiatives
+we have implemented.
+
+         We must produce adequate cash flow that, when combined with funds
+available under our revolving credit facility, will be sufficient to service our
+debt, fund our capital expenditures, pay our taxes and maintain our current
+dividend policy. We expect that our cash taxes, which increased significantly in
+2008, will continue to increase in 2009 due to our expectations of continued
+profitability and the effects of fully utilizing our federal net operating loss
+carryforwards and Alternative Minimum Tax (AMT) tax credit carryforwards that
+were generated in prior years. We have implemented several growth initiatives,
+including increasing our marketing promotion/expenditures and launching new
+products and services with a focus on areas that are growing or demonstrate
+meaningful demand such as wireline and wireless High-Speed Internet, the DISH
+satellite television product and our Peace of Mind computer technical support.
+We cannot assure you that these initiatives will improve our financial position
+or our results of operations.
+
+     We may complete a significant  strategic  transaction  that may not achieve
+intended results and/or increase our outstanding shares and/or debt or result in
+a change of control.
+
+     We  continuously  evaluate  and  may in the  future  enter  into  strategic
+transactions.  Any such transaction  could happen at any time, could be
+material to our business and could take any number of forms,  including,  for
+example, an acquisition, merger or a sale of all or substantially all of our
+assets.
+
+     Evaluating potential transactions and integrating completed ones may divert
+management's  attention from ordinary  operating  matters. The success of these
+and other potential transactions will depend, in part, on our ability to
+realize the anticipated  synergies,  cost savings and growth  opportunities
+through the successful integration of the businesses we acquire with our
+existing business.  Even if we are successful integrating acquired businesses,
+we cannot assure you that these  integrations  will result in the  realization
+of the full benefit of the anticipated  synergies,  cost savings or growth
+opportunities or that these benefits  will be  realized  within the  expected
+time  frames.  In  addition, acquired businesses may have unanticipated
+liabilities or contingencies.
+
+     If we complete an acquisition, investment or other strategic transaction
+we may require additional  financing that could result in an increase in the
+number of our outstanding  shares and/or the aggregate  amount of our debt. The
+number of shares of our common stock and/or the aggregate  principal amount of
+our debt that we may issue may be  significant. A strategic  transaction may
+result in a change in control of our company or otherwise  materially  and
+adversely  impact our business.
+
+                                       9
+
+
+
+         Weak economic conditions may decrease demand for our services.
+
+         We could be sensitive to the ongoing recession. Downturns in the
+economy and competition in our markets could cause some of our existing
+customers to reduce or eliminate their purchases of our basic and enhanced
+services, High-Speed Internet and video services and make it difficult for us to
+obtain new customers. In addition, current economic conditions could cause our
+customers to delay or discontinue payment for our services.
+
+     Disruption  in  our  networks  and  infrastructure  may  cause  us to  lose
+customers and incur additional expenses.
+
+         To attract and retain customers, we will need to continue to provide
+them with reliable service over our networks. Some of the risks to our networks
+and infrastructure include physical damage to access lines, security breaches,
+capacity limitations, power surges or outages, software defects and disruptions
+beyond our control, such as natural disasters and acts of terrorism. From time
+to time in the ordinary course of business, we experience short disruptions in
+our service due to factors such as cable damage, inclement weather and service
+failures of our third party service providers. We could experience more
+significant disruptions in the future. We could also face disruptions due to
+capacity limitations if changes in our customers' usage patterns for our
+High-Speed Internet services result in a significant increase in capacity
+utilization, such as through increased usage of video or peer-to-peer file
+sharing applications. Disruptions may cause interruptions in service or reduced
+capacity for customers, either of which could cause us to lose customers and
+incur additional expenses, and thereby adversely affect our business, revenue
+and cash flows.
+
+     Our  business  is  sensitive  to  the  creditworthiness  of  our  wholesale
+customers.
+
+         We have substantial business relationships with other
+telecommunications carriers for whom we provide service. While bankruptcies of
+these carriers have not had a material adverse effect on our business in recent
+years, future bankruptcies in our industry could result in our loss of
+significant customers, more price competition and uncollectible accounts
+receivable. Such bankruptcies may be more likely in the future, given the
+ongoing recession. As a result, our revenues and results of operations could be
+materially and adversely affected.
+
+     A significant  portion of our workforce is unionized,  and if we are unable
+to reach new agreements before our current labor contracts expire, our unionized
+workers  could engage in strikes or other labor  actions  that could  materially
+disrupt our ability to provide services to our customers.
+
+         As of December 31, 2008, we had approximately 5,700 active employees.
+Approximately 2,900, or 51%, of these employees were represented by unions
+subject to collective bargaining agreements. Of the union-represented employees,
+approximately 1,400, or 49%, have collective bargaining agreements that expire
+in 2009. We cannot predict the outcome of negotiations for these agreements. If
+we are unable to reach new agreements, union employees may engage in strikes,
+work slowdowns or other labor actions, which could materially disrupt our
+ability to provide services. New labor agreements may impose significant new
+costs on us, which could adversely affect our financial condition and results
+of operations in the future.
+
+Risks Related to Liquidity, Financial Resources and Capitalization
+- ------------------------------------------------------------------
+
+     The recent severe  contraction in the global financial  markets and ongoing
+recession may have an impact on our business and financial condition.
+
+         Diminished availability of credit and liquidity due to the recent
+severe contraction in the global financial markets and ongoing recession may
+impact the financial health of the Company's customers, vendors and partners,
+which in turn may negatively impact the Company's revenues, operating expenses
+and cash flows. In addition, although we believe, based on information available
+to us, that the financial institutions syndicated under our revolving credit
+facility would be able to fulfill their commitments to us, given the current
+economic environment and the recent severe contraction in the global financial
+markets, this could change in the future.
+
+                                       10
+
+
+         As a result of negative investment returns and ongoing benefit
+payments, the Company's pension plan assets have declined from $822.2 million at
+December 31, 2007 to $589.8 million at December 31, 2008, a decrease of $232.4
+million, or 28%. This decrease represents a decline in asset value of $162.9
+million, or 20%, and benefits paid of $69.5 million, or 8%. The decline in
+pension plan assets did not impact our results of operations, liquidity or cash
+flows in 2008. However, we expect that our pension expense will increase in 2009
+and that we may be required to make a cash contribution to our pension plan
+beginning in 2010.
+
+         The Company has significant debt maturities in 2011 when approximately
+$1.1 billion of our debt matures. Historically, the Company has refinanced its
+debt obligations well in advance of scheduled maturities. Given the current
+credit environment, our ability to access the capital markets may be restricted,
+our cost of borrowing may be materially higher than previous debt issuances
+and/or we may not be able to borrow on terms as favorable as those in our
+current debt instruments.
+
+         Substantial debt and debt service obligations may adversely affect us.
+
+      We have a significant amount of indebtedness, which amounted to $4.7
+billion at December 31, 2008. We may also obtain additional long-term debt and
+working capital lines of credit to meet future financing needs, subject to
+certain restrictions under the terms of our existing indebtedness, which would
+increase our total debt.
+
+      The significant negative consequences on our financial condition and
+results of operations that could result from our substantial debt include:
+
+          *    limitations  on our ability to obtain  additional  debt or equity
+               financing,   particularly   in  light  of  the   current   credit
+               environment;
+
+          *    instances in which we are unable to meet the financial  covenants
+               contained in our debt  agreements or to generate cash  sufficient
+               to make  required debt  payments,  which  circumstances  have the
+               potential  of  accelerating  the  maturity  of some or all of our
+               outstanding indebtedness;
+
+          *    the  allocation  of a  substantial  portion of our cash flow from
+               operations  to service our debt,  thus reducing the amount of our
+               cash flow  available  for  other  purposes,  including  operating
+               costs,  capital expenditures and dividends that could improve our
+               competitive position, results of operations or stock price;
+
+          *    requiring us to sell debt or equity securities or to sell some of
+               our core assets,  possibly on unfavorable  terms, to meet payment
+               obligations;
+
+          *    compromising   our   flexibility   to  plan  for,  or  react  to,
+               competitive  challenges  in our business  and the  communications
+               industry; and
+
+          *    the  possibility  of our being put at a competitive  disadvantage
+               with  competitors  who  do not  have  as  much  debt  as us,  and
+               competitors  who may be in a more  favorable  position  to access
+               additional capital resources.
+
+     We will require substantial capital to upgrade and enhance our operations.
+
+         Replacing or upgrading our infrastructure will result in significant
+capital expenditures. If this capital is not available when needed, our business
+will be adversely affected. Increasing competition, offering new services,
+improving the capabilities or reducing the maintenance costs of our plant may
+cause our capital expenditures to increase in the future. In addition, our
+ongoing annual dividend of $1.00 per share under our current policy utilizes a
+significant portion of our cash generated by operations and therefore limits our
+operating and financial flexibility and our ability to significantly increase
+capital expenditures. While we believe that the amount of our dividend will
+allow for adequate amounts of cash flow for capital spending and other purposes,
+any material reduction in cash generated by operations and any increases in
+capital expenditures, interest expense or cash taxes would reduce the amount of
+cash generated by operations and available for payment of dividends. Losses of
+access lines, the effects of increased competition, lower subsidy and access
+revenues and the other factors described above may reduce our cash generated by
+operations and may require us to increase capital expenditures. In addition, we
+expect our cash paid for taxes, which increased significantly in 2008, will
+continue to increase in 2009.
+
+                                       11
+
+
+Risks Related to Regulation
+- ---------------------------
+
+         The access charge revenues we receive may be reduced at any time.
+
+         A significant portion of our revenues ($285.0 million, or 13% in 2008)
+is derived from access charges paid by IXCs for services we provide in
+originating and terminating intrastate and interstate traffic. The amount of
+access charge revenues we receive for these services is regulated by the FCC and
+state regulatory agencies.
+
+         The FCC is considering proposals that may significantly change
+interstate, intrastate and local intercarrier compensation. When and how these
+proposed changes will be addressed are unknown and, accordingly, we are unable
+to predict the impact of future changes on our results of operations. However,
+future reductions in our access revenues will directly affect our profitability
+and cash flows as those regulatory revenues do not have associated variable
+expenses.
+
+         Certain states have open proceedings to address reform to access
+charges and other intercarrier compensation. We cannot predict when or how these
+matters will be decided or the effect on our subsidy or access revenues. In
+addition, we have been approached by, and/or are involved in formal state
+proceedings with, various carriers seeking reductions in intrastate access rates
+in certain states. Certain of those claims have led to formal complaints to the
+state PUCs. A material reduction in the access revenues we receive would
+adversely affect our financial results.
+
+         We are reliant on support funds provided under federal and state laws.
+
+         We receive a portion of our revenue ($119.8 million, or 5%, in 2008 and
+$130.0 million, or 6%, in 2007) from federal and state subsidies, including the
+federal high cost fund, federal local switching support fund, federal universal
+service fund surcharge and various state funds. The FCC and state regulators are
+currently considering a number of proposals for changing the manner in which
+eligibility for federal and state subsidies is determined as well as the amounts
+of such subsidies. Although the FCC issued an order on May 1, 2008 to cap CETC
+receipts from the high cost Federal Universal Service Fund, which we believe is
+a positive first step to limit the rapid growth of the fund, the CETC Cap will
+only remain in place until the FCC takes additional steps. We cannot predict
+when the FCC will take additional actions or the effect of any such actions on
+our subsidy revenue.
+
+         The federal high cost fund is our largest source of subsidy revenue
+(approximately $20.8 million in 2008). We currently expect that as a result of
+both an increase in the national average cost per loop and a decrease in our
+cost structure, there will be a decrease in the subsidy revenue we earn in 2009
+through the federal high cost support fund.
+
+         In addition, approximately $37.1 million, or 2% of our revenue
+represents a surcharge to customers (local, long distance and IXC) which is
+remitted to the FCC and recorded as an expense in "other operating expenses."
+
+     Our  company  and  industry  are  highly  regulated,  imposing  substantial
+compliance costs and constraining our ability to compete in our target markets.
+
+         As an incumbent, we are subject to significant regulation from Federal,
+state and local authorities. This regulation restricts our ability to change our
+rates, especially on our basic services, and imposes substantial compliance
+costs on us. Regulation constrains our ability to compete and, in some
+jurisdictions, it may restrict how we are able to expand our service offerings.
+In addition, changes to the regulations that govern us may have an adverse
+effect upon our business by reducing the allowable fees that we may charge,
+imposing additional compliance costs, or otherwise changing the nature of our
+operations and the competition in our industry.
+
+         Customers are permitted to retain their wireline number when switching
+to another service provider. This is likely to increase the number of our
+customers who decide to disconnect their service from us. Other pending
+rulemakings, including those relating to intercarrier compensation, universal
+service and VOIP regulations, could have a substantial adverse impact on our
+operations.
+
+                                       12
+
+
+
+Risks Related to Technology
+- ---------------------------
+
+     In the future as  competition  intensifies  within our  markets,  we may be
+unable to meet the technological needs or expectations of our customers, and may
+lose customers as a result.
+
+         The telecommunications industry is subject to significant changes in
+technology. If we do not replace or upgrade technology and equipment, we will be
+unable to compete effectively because we will not be able to meet the needs or
+expectations of our customers. Replacing or upgrading our infrastructure could
+result in significant capital expenditures.
+
+         In addition, rapidly changing technology in the telecommunications
+industry may influence our customers to consider other service providers. For
+example, we may be unable to retain customers who decide to replace their
+wireline telephone service with wireless telephone service. In addition, VOIP
+technology, which operates on broadband technology, now provides our competitors
+with a low-cost alternative to provide voice services to our customers.
+
+Item 1B

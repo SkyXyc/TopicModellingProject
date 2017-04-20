@@ -1,0 +1,3887 @@
+Item 1A “Risk Factors” below, or in information
+    disclosed in public conference calls, the date and time of which
+    are released beforehand.
+
+
+
+
+
+ 
+
+
+    Our forward-looking statements speak only as of the date of this
+    annual report. We undertake no obligation, and do not intend, to
+    publicly update or revise forward-looking statements, to review
+    or confirm analysts’ expectations, or to provide interim
+    reports or updates on the progress of any current financial
+    quarter, whether as a result of new information, future events,
+    or otherwise. All subsequent written and oral forward-looking
+    statements attributable to us or persons acting on our behalf
+    are expressly qualified in their entirety by the cautionary
+    statements contained in this annual report. Given these
+    uncertainties, we caution investors not to unduly rely on our
+    forward-looking statements.
+
+
+ 
+
+
+
+    Available
+    Information
+
+
+ 
+
+
+    Our annual report on
+    Form 10-K,
+    quarterly reports on
+    Form 10-Q,
+    current reports on
+    Form 8-K,
+    and all amendments to those reports are available free of charge
+    on our website, www.illumina.com. The information on our
+    website is not incorporated by reference into this report. Such
+    reports are made available as soon as
+
+
+
+
+
+    
+    2
+
+
+
+Table of Contents
+
+
+
+
+
+    reasonably practicable after filing with, or furnishing to, the
+    SEC. The SEC also maintains an Internet site at www.sec.gov
+    that contains reports, proxy and information statements, and
+    other information regarding issuers that electronically file
+    with the SEC. Copies of our annual report on
+    Form 10-K
+    will be made available, free of charge, upon written request.
+
+
+ 
+
+
+    Illumina®,
+
+    Array of
+    Arraystm,
+
+    BeadArraytm,
+
+    BeadXpress®,
+
+    CSPro®,
+
+    DASL®,
+
+    Genetic
+    Energytm,
+
+    GoldenGate®,
+
+    GoldenGate
+    Indexingtm,
+
+    GenomeStudio®,
+
+    illuminaDxtm,
+
+    HiSeqtm,
+
+    Infinium®,
+
+    IntelliHyb®,
+
+    iSelect®,
+
+    Making Sense Out of
+    Life®,
+
+    Oligator®,
+
+    Sentrix®,
+
+    Solexa®,
+
+    and
+    VeraCode®
+
+    are our trademarks. This report also contains brand names,
+    trademarks, or service marks of companies other than Illumina,
+    and these brand names, trademarks, and service marks are the
+    property of their respective holders.
+
+
+ 
+
+
+    Unless the context requires otherwise, references in this annual
+    report on
+    Form 10-K
+    to “Illumina,” the “Company,”
+    “we,” “us,” and “our” refer to
+    Illumina, Inc. and its subsidiaries.
+
+
+
+
+    
+    3
+
+
+
+Table of Contents
+
+
+
+
+
+ 
+
+
+
+    PART I
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1.  
+
+    
+    Business
+
+
+
+
+
+ 
+
+
+
+    Overview
+
+
+ 
+
+
+    We are a leading developer, manufacturer, and marketer of
+    integrated systems for the analysis of genetic variation and
+    biological function. We were incorporated in California in April
+    1998 and reincorporated in Delaware in July 2000. Our principal
+    executive offices are located at 9885 Towne Centre Drive,
+    San Diego, California 92121. Our telephone number is
+    (858) 202-4500.
+
+
+ 
+
+
+    Using our proprietary technologies, we provide a comprehensive
+    line of products and services that currently serve the
+    sequencing, genotyping, and gene expression markets, and we
+    expect to enter the market for molecular diagnostics. Our
+    customers include leading genomic research centers,
+    pharmaceutical companies, academic institutions, clinical
+    research organizations, and biotechnology companies.
+
+
+ 
+
+
+    We develop and commercialize sequencing technologies used to
+    perform a range of analyses, including de novo sequencing, whole
+    genome re-sequencing, gene expression analysis, and small RNA
+    analysis. Our product and service offerings also include
+    leading-edge solutions for single-nucleotide polymorphism (SNP)
+    genotyping, copy number variation (CNV), DNA methylation
+    studies, gene expression profiling, and low-multiplex analysis
+    of DNA, RNA, and protein. We believe we are the only company
+    with genome-scale technology for sequencing, genotyping, and
+    gene expression — the three cornerstones of modern
+    genetic analysis.
+
+
+ 
+
+
+    Our tools provide researchers around the world with the
+    performance, throughput, cost effectiveness, and flexibility
+    necessary to determine and analyze the billions of bits of
+    genetic information needed to extract valuable medical
+    information from advances in genomics and proteomics. We believe
+    this information will enable researchers to correlate genetic
+    variation and biological function, which will enhance drug
+    discovery and clinical research, allow diseases to be detected
+    earlier, and permit better choices of drugs for individual
+    patients.
+
+
+ 
+
+
+    In 2007 we acquired Solexa, Inc. As a result of that
+    transaction, we acquired the sequencing technology utilized in
+    our HiSeq 2000 and Genome Analyzer instrument platforms. These
+    products perform DNA sequencing based on a proprietary
+    reversible terminator
+    sequencing-by-synthesis
+    (SBS) chemistry.
+
+
+ 
+
+
+    During the first quarter of 2008, we reorganized our operating
+    structure into two newly-created business segments, the Life
+    Sciences Business Unit and the Diagnostics Business Unit. During
+    2009, the Diagnostics Business Unit had limited business
+    activity and, accordingly, operating results are reported on an
+    aggregate basis as one operating segment. In the future, at each
+    reporting period end, we will reassess our reportable operating
+    segments, particularly as we enter the market for molecular
+    diagnostics.
+
+
+ 
+
+
+
+    Industry
+    Background
+
+
+ 
+
+
+
+    DNA,
+    RNA, and Protein
+
+
+ 
+
+
+    The genetic content that controls an organism’s living
+    cells is encoded in deoxyribonucleic acid, or DNA. The human
+    body, for instance, is composed of billions of cells, each
+    containing DNA, which encodes the basic instructions for
+    cellular function. The complete set of an organism’s DNA is
+    called its genome. The human genome is organized into 23 pairs
+    of chromosomes that are further divided into over 30,000 smaller
+    regions called genes. Each gene is comprised of a string of
+    nucleotide bases labeled A, C, G, and T, representing adenine,
+    cytosine, guanine, and thymine, respectively. Human DNA has
+    approximately 3 billion nucleotide bases and their precise
+    order is known as the DNA sequence. When a gene is
+    “expressed,” a partial copy of its DNA
+    sequence — called messenger RNA or mRNA — is
+    used as a template to direct the synthesis of a protein.
+    Proteins, in turn, direct all cellular function.
+
+
+
+
+    
+    4
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Genetic
+    Variation and Biological Function
+
+
+ 
+
+
+    Every person inherits two copies of each gene — one
+    from each parent. The two copies of each gene may be identical,
+    or they may be different. These differences are referred to as
+    genetic variation. Examples of the physical consequences of
+    genetic variation include differences in eye and hair color.
+    Genetic variation can also have important medical consequences.
+    Genetic variation affects disease susceptibility, including
+    predisposition to cancer, diabetes, cardiovascular disease, and
+    Alzheimer’s disease. In addition, genetic variation may
+    cause people to respond differently to the same drug treatment.
+    Some people may respond well, others may not respond at all, and
+    still others may experience adverse side effects. A common form
+    of genetic variation is a SNP. A SNP is a variation in a single
+    position of a nucleotide base in a DNA sequence. It is estimated
+    that the human genome contains over 30 million SNPs.
+
+
+ 
+
+
+    While in some cases a single SNP will be responsible for
+    medically important effects, it is now believed that
+    combinations of SNPs may contribute to the development of most
+    common diseases. Since there are millions of SNPs, it is
+    important to investigate many representative, well-chosen SNPs
+    simultaneously in order to discover medically valuable
+    information.
+
+
+ 
+
+
+    Another contributor to disease is the over- or under-expression
+    of genes within an organism’s cells. A very complex network
+    of genes interacts to maintain health in complex organisms. The
+    challenge for scientists is to delineate the associated
+    genes’ expression patterns and their relationship to
+    disease. Historically, this problem was addressed by
+    investigating effects on a
+    gene-by-gene
+    basis. This is time consuming, and difficulties exist when
+    several pathways cannot be observed or “controlled” at
+    the same time. With the advent of microarray technology,
+    thousands of genes can now be tested at the same time.
+
+
+ 
+
+
+    There are multiple methods of studying genetic variation and
+    biological function, including sequencing, SNP genotyping, and
+    gene expression profiling, each of which is uniquely addressed
+    in our breadth of products and services. Our broad portfolio of
+    current products and services supports a range of applications,
+    from highest multiplexing (for whole-genome discovery and
+    profiling) to mid-and low-multiplexing options (for
+    high-throughput targeted screening). Furthermore, our products
+    and services support both the upstream discovery process and the
+    downstream test development process in order to understand
+    genetic variation at the DNA, RNA, and protein levels.
+
+
+ 
+
+
+
+    Sequencing
+
+
+ 
+
+
+    DNA sequencing is the process of determining the order of
+    nucleotide bases (A, C, G, or T) in a DNA sample, which can
+    be further divided into de novo sequencing, re-sequencing, and
+    tag sequencing. In de novo sequencing, the goal is to determine
+    the sequence of a representative sample from a species never
+    before sequenced. Understanding the similarities and differences
+    in DNA sequence between many species can help our understanding
+    of the function of the protein structures encoded in the DNA.
+
+
+ 
+
+
+    In re-sequencing, the sequence of nucleotide bases is compared
+    to a standard or reference sequence from a given species to
+    identify changes that reflect genetic variation. Re-sequencing
+    studies can be performed on a genome-wide basis, which is
+    referred to as whole-genome re-sequencing, or on targeted areas
+    of the genome (for example, regions identified by genome-wide
+    association studies), which is known as targeted re-sequencing.
+    This is an extremely comprehensive form of genetic analysis, in
+    which every base is characterized for possible mutations. We
+    believe that these underlying discoveries will likely feed the
+    development of new array products for broader testing and
+    biomarker validation.
+
+
+ 
+
+
+    In tag sequencing, short sequences, often representative of a
+    larger molecule or genomic location, are detected and counted.
+    In these applications, the number of times that each tag is seen
+    provides quantification of an underlying biological process. As
+    an example, in digital gene expression, one or more tag
+    sequences may be analyzed for each expressed gene, and the
+    number of copies of these tags that are detected in an
+    experiment is a measure of how actively that gene is being
+    expressed in the tissue sample being analyzed. Similarly, a tag
+    sequencing approach known as ChIP sequencing is used to
+    determine the locations and extent of protein and DNA
+    interactions throughout the genome.
+
+
+
+
+    
+    5
+
+
+
+Table of Contents
+
+
+
+
+
+
+    SNP
+    Genotyping
+
+
+ 
+
+
+    SNP genotyping is the process of determining which nucleotide
+    base (A, C, G, or T) is present at a particular site in the
+    genome within any organism. The most common use of SNP
+    genotyping is for genome-wide association studies (GWAS) to look
+    for an association between DNA sequence variants and a specific
+    phenotype of interest. This is commonly done by studying the DNA
+    of individuals that are affected by a common disease or that
+    exhibit a specific trait against the DNA of control individuals
+    who do not have this disease or trait. The use of SNP genotyping
+    to obtain meaningful statistics on the effect of an individual
+    SNP or a collection of SNPs requires the analysis of millions of
+    SNP genotypes and the testing of large populations for each
+    disease. For example, a single large study could involve
+    genotyping more than 1,000,000 SNPs per sample in more than
+    1,000 samples, thus requiring one billion assays. Using
+    previously available technologies, this scale of SNP genotyping
+    was both impractical and prohibitively expensive.
+
+
+ 
+
+
+    Large-scale SNP genotyping can be used in a variety of ways,
+    including studies designed to understand the genetic
+    contributions to disease (disease association studies), genomics
+    based drug development, clinical trial analysis (responders and
+    non-responders, and adverse event profiles), disease
+    predisposition testing, and disease diagnosis. SNP genotyping
+    can also be used outside of healthcare, for example in the
+    development of plants and animals with commercially desirable
+    characteristics. These markets will require billions of SNP
+    genotyping assays annually.
+
+
+ 
+
+
+
+    Gene
+    Expression Profiling
+
+
+ 
+
+
+    Gene expression profiling is the process of determining which
+    genes are active in a specific cell or group of cells and is
+    accomplished by measuring mRNA, the intermediary messenger
+    between genes and proteins. Variation in gene expression can
+    cause disease, or act as an important indicator of disease or
+    predisposition to disease. By comparing gene expression patterns
+    between cells from different environments, such as normal tissue
+    compared to diseased tissue or in the presence or absence of a
+    drug, specific genes or groups of genes that play a role in
+    these processes can be identified. Studies of this type, often
+    used in drug discovery, require monitoring thousands, and
+    preferably tens of thousands, of mRNAs in large numbers of
+    samples. Once a smaller set of genes of interest has been
+    identified, researchers can then examine how these genes are
+    expressed or suppressed across numerous samples, for example,
+    within a clinical trial.
+
+
+ 
+
+
+    As gene expression patterns are correlated to specific diseases,
+    gene expression profiling is becoming an increasingly important
+    diagnostic tool. Diagnostic use of expression profiling tools is
+    anticipated to grow rapidly with the combination of the
+    sequencing of various genomes and the availability of more
+    cost-effective technologies.
+
+
+ 
+
+
+
+    Molecular
+    Diagnostics
+
+
+ 
+
+
+    Molecular diagnostics is the process of examining nucleic acids,
+    including DNA and RNA, and protein biomarkers to detect or
+    identify infectious diseases, genetic diseases and disorders,
+    human cancers, and to help understand
+    subject-to-subject,
+    gene-based variation in the efficacy or safety of drug
+    substances (pharmacogenics). As knowledge of the genome and its
+    function continues to expand, new medical and diagnostic
+    applications are being developed. Molecular diagnostic tests can
+    be used as diagnostic tools as well as in genetic disease
+    susceptibility testing. Molecular diagnostic tests can also be
+    used to identify a disease, monitor its progression and response
+    to treatment, or predict individual predisposition to a disease
+    and individual response to treatment. By identifying small,
+    individual genetic differences — or
+    variants — that lie at the root of differing drug
+    responses, molecular diagnostic tests can be used to select
+    appropriate medication and dosage.
+
+
+ 
+
+
+
+    Our
+    Principal Markets
+
+
+ 
+
+
+    From our inception, we have believed that the analysis of
+    genetic variation and function will play an increasingly
+    important role in molecular biology and that by empowering
+    genetic analysis, our tools will further disease research, drug
+    development, and the development of molecular tests. Our
+    customers include leading genomic research centers, academic
+    institutions, clinical research organizations, and
+    pharmaceutical
+
+
+
+
+
+    
+    6
+
+
+
+Table of Contents
+
+
+
+
+
+    and biotechnology companies. In addition, fundamental
+    developments in recent years have created significant new
+    opportunities for us in the emerging market of molecular
+    diagnostics.
+
+
+ 
+
+
+
+    Life
+    Sciences Research Market
+
+
+ 
+
+
+    The life sciences research market consists of laboratories
+    generally associated with universities, medical research
+    centers, government institutions such as the United States
+    National Institutes of Health, and other research institutions
+    as well as biotechnology and pharmaceutical companies.
+    Researchers at these institutions are using our products and
+    services in a broad spectrum of scientific activities, such as:
+    next-generation sequencing,
+    mid-to-high-complexity
+    genotyping and gene expression (for whole-genome discovery and
+    profiling), and low complexity genotyping and gene expression
+    (for high-throughput targeted screening). Next-generation
+    sequencing is the most rapidly growing of these three areas. It
+    is fueled by private and public funding, new global initiatives
+    to broadly characterize genetic variation, and the migration of
+    legacy genetic applications to sequencing based technologies.
+
+
+ 
+
+
+
+    Applied
+    Markets
+
+
+ 
+
+
+    We provide products and services to enable or improve activities
+    in particular markets, which we refer to as applied markets. A
+    current focus of our products for these markets is in the area
+    of agricultural research, including microarrays that contain
+    SNPs for custom and focused genotyping of seeds and crops (such
+    as maize) and livestock (such as cattle, horses, pigs, and
+    sheep). The applied markets may also include opportunities for
+    our products and services in the fields of forensic analysis,
+    veterinary diagnostics, cytogenics, retail pet genomics, and
+    consumer genotyping and sequencing. In July 2009, we launched a
+    service program to provide high-quality personal genome
+    sequencing for consumers. In connection with our personal
+    sequencing service, we collaborate with a number of partners,
+    including 23andMe, Inc.; deCODE genetics ehf; Knome, Inc.;
+    National Center for Genome Resources; Navigenics, Inc.; and
+    Pathway Genomics, to encourage secondary data analysis of a
+    personal genome, such as calculation of disease risk, ancestry,
+    and information on traits of interest. Although we do not
+    perform personal genotyping directly as a service, several
+    companies use our technology and products to provide personal
+    genotyping services.
+
+
+ 
+
+
+
+    Molecular
+    Diagnostics Market
+
+
+ 
+
+
+    The primary growth drivers in the molecular diagnostics market
+    are the continued discovery of genetic markers with proven
+    clinical utility, the increasing adoption of genetic based
+    diagnostic tests, and the expansion of reimbursement programs to
+    include a greater number of approved diagnostic tests. We
+    believe that molecular diagnostic tests will create a
+    fundamental shift in both the practice of medicine and the
+    economics of the pharmaceutical industry by creating an
+    increased emphasis on preventative and predictive molecular
+    medicine. Physicians will be able to use these tests for the
+    early detection of disease and to treat patients on a
+    personalized basis, allowing them to select the most effective
+    therapy with the fewest side effects. We believe our BeadXpress
+    instrument platform, using our VeraCode technology, is ideally
+    suited to provide a cost-effective, high-throughput, mid- to
+    low-multiplex solution to the molecular diagnostic market.
+    During the third quarter of 2009, we submitted our BeadXpress
+    instrument platform for review by the U.S. Food and Drug
+    Administration (FDA). Assuming FDA approval of this instrument
+    platform, we plan to develop clinical diagnostic testing panels
+    for use on the BeadXpress instrument platform, including
+    possible panels for multi-drug resistant organisms, herpes, and
+    respiratory viruses, and we expect to continue research into the
+    potential development of cancer diagnostic panels, initially
+    focusing on ovarian cancer and gastric cancer. In addition,
+    during the fourth quarter of 2009 we made a pre-IDE
+    (investigational device exemption) submission with the FDA for a
+    cytogenetics test intended to be used as an aid in the postnatal
+    diagnosis of chromosomal abnormalities known to be associated
+    with developmental delay and mental retardation. The pre-IDE
+    package included our iScan instrument platform together with
+    associated microarrays, reagents, and software. Following
+    completion of the IDE process, we intend to seek FDA clearance
+    for the iScan instrument platform and related reagents.
+
+
+
+
+    
+    7
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Our
+    Principal Technologies
+
+
+ 
+
+
+
+    Sequencing
+    Technology
+
+
+ 
+
+
+    Our DNA sequencing technology is based on the use of our
+    proprietary SBS biochemistry. In SBS, single stranded DNA is
+    extended from a priming site, one base at a time, using
+    reversible terminator nucleotides. These are DNA bases that can
+    be added to a growing second strand, but which initially cannot
+    be further extended. This means that at each cycle of the
+    chemistry, only one base can be added. Each base that is added
+    includes a fluorescent label that is specific to the particular
+    base (A, C, G, or T). Thus, following incorporation, the
+    fluorescence can be imaged, its color determined, and the base
+    itself can be inferred. Once this is done, an additional step
+    removes both the fluorescence and the blocking group that had
+    prevented further extension of the second strand. This allows
+    another base to be added, and the cycle can then be repeated.
+    Our technology is capable of generating over 100 billion
+    bases of DNA sequence from a single experiment with a single
+    sample preparation. The reversible terminator bases that we use
+    are novel synthetic molecules that we manufacture. They are not
+    well incorporated by naturally occurring polymerases, so we have
+    also developed proprietary polymerase enzymes for this purpose.
+    Both the nucleotides and enzymes are the subject of significant
+    intellectual property owned by us.
+
+
+ 
+
+
+    In our DNA sequencing systems, we apply the SBS biochemistry on
+    microscopic islands of DNA, referred to as DNA clusters. Each
+    cluster starts as a single DNA molecule fragment, typically a
+    few hundred bases long, attached to the inside surface of a flow
+    cell. We then use a proprietary amplification biochemistry to
+    create copies of each starting molecule. As the copies are made,
+    they are covalently linked to the surface, so they cannot
+    diffuse away. After a number of cycles of amplification, each
+    cluster might have approximately 1,000 copies of the original
+    starting molecule, but still be only about a micron
+    (one-millionth of a meter) in diameter. By making so many
+    copies, the fluorescent signal from each cluster is
+    significantly increased. Because the clusters are so small,
+    hundreds of millions of clusters can be independently formed
+    inside a single flow cell. This large number of clusters can
+    then be sequenced simultaneously by alternate cycles of SBS
+    biochemistry and fluorescent imaging. Sequence reads are aligned
+    against a reference genome and genetic differences are called
+    using specially developed data analysis software.
+
+
+ 
+
+
+
+    BeadArray
+    Technology
+
+
+ 
+
+
+    Our BeadArray technology combines microscopic beads and a
+    substrate in a simple, proprietary manufacturing process to
+    produce arrays that can perform many assays simultaneously,
+    enabling large-scale analysis of genetic variation and
+    biological function in a unique high-throughput, cost effective,
+    and flexible manner. We achieve high-throughput with a high
+    density of test sites per array, and we are able to format
+    arrays in various configurations in the format of standard
+    microscope slides. We seek to maximize cost effectiveness by
+    reducing consumption of expensive reagents and valuable samples
+    and through the low manufacturing costs associated with our
+    technologies. Our ability to vary the size, shape, and format of
+    the well patterns and to create specific bead pools, or sensors,
+    for different applications provides the flexibility to address
+    multiple markets and market segments. We believe that these
+    features have enabled our BeadArray technology to become a
+    leading platform for the high-growth market of SNP genotyping
+    and have allowed us to be a key player in the gene expression
+    market.
+
+
+ 
+
+
+    Our proprietary BeadArray technology consists of 2-micron silica
+    beads that self-assemble into microwells etched into an array
+    substrate. We have deployed our BeadArray technology in two
+    different array formats, the Array Matrix and the BeadChip. Our
+    first bead based product was the Array Matrix, which
+    incorporates fiber optic bundles comprised of approximately
+    50,000 individual fibers, with 96 of these bundles placed into
+    an aluminum plate to form an Array Matrix. In late 2009, we
+    announced that during 2010 we would no longer sell Array Matrix
+    products and would instead deploy our BeadArray technology only
+    on BeadChips. BeadChips are microscope slide-size silicon wafers
+    with varying numbers of sample sites per slide. BeadChips are
+    chemically etched to create tens of millions of wells for each
+    sample site.
+
+
+ 
+
+
+    In a separate process, we create sensors by affixing hundreds of
+    thousands of copies of a specific type of oligonucleotide
+    molecule to each of the billions of microscopic beads in a
+    batch. We make different batches of
+
+
+
+
+
+    
+    8
+
+
+
+Table of Contents
+
+
+
+
+
+    beads, with the beads in a given batch coated with one
+    particular type of molecule. The particular molecules on a bead
+    define that bead’s function as a sensor.
+
+
+ 
+
+
+    To form an array, a pool of coated beads is brought into contact
+    with the array surface where they are randomly drawn into the
+    wells, one bead per well. The beads in the wells comprise our
+    individual arrays. Because the beads assemble randomly into the
+    wells, we perform a final procedure called “decoding”
+    in order to determine which bead type occupies which well in the
+    array. We employ several proprietary methods for decoding, which
+    is a process that requires only a few steps to identify all the
+    beads in the array. One beneficial by-product of the decoding
+    process is a functional validation of each bead in the array.
+    This quality control test characterizes the performance of each
+    bead and can identify and eliminate use of any empty wells. We
+    ensure that each bead type on the array is sufficiently
+    represented by including multiple copies of each bead type.
+    Multiple bead type copies improve the reliability and accuracy
+    of the resulting data by allowing statistical processing of the
+    results of identical beads.
+
+
+ 
+
+
+    An experiment is performed by preparing a sample, such as DNA,
+    and introducing it to the array. The molecules in the sample
+    bind to their matching molecules on the coated beads. The
+    molecules in either the sample or on the bead are labeled with
+    fluorescent dye either before or after the binding, which can be
+    detected by shining a laser on the BeadChip. This allows the
+    detection of the molecules resulting in a quantitative analysis
+    of the sample.
+
+
+ 
+
+
+
+    VeraCode
+    Technology
+
+
+ 
+
+
+    Our proprietary VeraCode technology platform leverages the power
+    of digital holographic codes to provide a robust detection
+    method for multiplex assays requiring high precision, accuracy,
+    and speed. VeraCode enables low-cost multiplexing from 1 to
+    384-plex in a single well. At the heart of the VeraCode
+    technology are cylindrical glass beads measuring 240 microns in
+    length by 28 microns in diameter. Each VeraCode bead type is
+    inscribed with a unique digital holographic code to designate
+    and track the specific analyte or genotype of interest
+    throughout the multiplex reaction. When excited by a laser, each
+    VeraCode bead emits a unique code image, allowing for quick and
+    specific detection by Illumina’s BeadXpress Reader System.
+    Depending on desired multiplex levels, assays are created by
+    pooling microbeads with code diversities from one to several
+    hundred. Unlike traditional microarrays, the VeraCode microbeads
+    are used in solution, which takes advantage of solution-phase
+    kinetics for more rapid hybridization times, dramatically
+    reducing the time to achieve results. This technology enables us
+    to serve a number of markets including research, agriculture,
+    forensics, pharmaceuticals, and molecular diagnostics.
+
+
+ 
+
+
+
+    Our
+    Products
+
+
+ 
+
+
+    Using our proprietary technologies, our products give our
+    customers the ability to analyze the genome at any level of
+    complexity from whole genome sequencing to low multiplex assays.
+    This enables us to serve a number of markets, including
+    research, agriculture, forensics, pharmaceuticals, and molecular
+    diagnostics. The majority of our product sales consist of
+    instruments and consumables based on these various technologies.
+    For the fiscal years ended January 3, 2010,
+    December 28, 2008, and December 30, 2007, instrument
+    sales comprised 34%, 32%, and 33%, respectively, of total
+    revenues, and consumable sales represented 59%, 58%, and 53%,
+    respectively, of total revenues.
+
+
+
+
+    
+    9
+
+
+
+Table of Contents
+
+
+
+
+
+    Our major products, which we expect to be available for shipment
+    during the first quarter of 2010, include the following:
+
+
+ 
+
+
+
+    Instrumentation
+    Platforms
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Product
+
+
+ 
+
+
+ 
+
+
+    Product Description
+
+
+ 
+
+
+ 
+
+
+    Applications
+
+
+ 
+
+
+ 
+
+
+    Launch Date
+
+
+
+
+
+
+    HiSeq 2000
+
+
+
+ 
+
+
+ 
+
+
+    Instrument for high-throughput (up to 200 Gb per run and up to
+    25 GB per day) sequencing using our SBS sequencing technology
+
+
+ 
+
+
+ 
+
+
+    DNA sequencing, gene regulation analysis, sequencing-based
+    transcriptome analysis, SNP discovery and structural variation
+    analysis, cytogenetic analysis, DNA-protein interaction analysis
+    (ChIP-seq), sequencing-based methylation analysis, and small RNA
+    discovery and analysis
+
+
+ 
+
+
+ 
+
+
+    Q1 2010
+
+
+
+
+
+    Genome Analyzer IIx
+
+
+
+ 
+
+
+ 
+
+
+    Instrument for medium to high-throughput (up to 95 Gb per run)
+    sequencing using our SBS sequencing technology
+
+
+ 
+
+
+ 
+
+
+    DNA sequencing, gene regulation analysis, sequencing-based
+    transcriptome analysis, SNP discovery and structural variation
+    analysis, cytogenetic analysis, DNA-protein interaction analysis
+    (ChIP-seq), sequencing-based methylation analysis, and small RNA
+    discovery and analysis
+
+
+ 
+
+
+ 
+
+
+    Q2 2009
+
+
+
+
+
+    Genome Analyzer IIe
+
+
+
+ 
+
+
+ 
+
+
+    Instrument for low to medium throughput (up to 40 Gb per run)
+    sequencing using our SBS sequencing technology
+
+
+ 
+
+
+ 
+
+
+    DNA sequencing, gene regulation analysis, sequencing-based
+    transcriptome analysis, SNP discovery and structural variation
+    analysis, cytogenetic analysis, DNA-protein interaction analysis
+    (ChIP-seq), sequencing-based methylation analysis, and small RNA
+    discovery and analysis
+
+
+ 
+
+
+ 
+
+
+    Q1 2010
+
+
+
+
+
+    iScan System
+
+
+
+ 
+
+
+ 
+
+
+    High-resolution imaging instrument to rapidly scan our BeadArray
+    based assays
+
+
+ 
+
+
+ 
+
+
+    SNP genotyping and CNV analysis, custom genotyping, cytogenetic
+    analysis, focused genotyping, linkage analysis, whole-genome
+    genotyping and copy number analysis, gene regulation and
+    epigenetic analysis, array-based methylation analysis, gene
+    expression analysis, array-based transcriptome analysis, FFPE
+    sample analysis, and whole-genome gene expression analysis
+
+
+ 
+
+
+ 
+
+
+    Q1 2008
+
+
+
+
+
+    BeadXpress Reader
+
+
+
+ 
+
+
+ 
+
+
+    Low- to mid-multiplex, high-throughput instrument for readout of
+    assays (e.g., biomarker validation and development of molecular
+    diagnostics) deployed on VeraCode bead technology
+
+
+ 
+
+
+ 
+
+
+    Custom low- to mid-plex genotyping, custom low- to mid-plex
+    methylation analysis, SNP screening, and protein screening
+
+
+ 
+
+
+ 
+
+
+    Q1 2007
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    
+    10
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Consumables
+
+
+ 
+
+
+
+
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+
+
+
+
+
+    Product
+
+
+ 
+
+
+ 
+
+
+    Product Description
+
+
+ 
+
+
+ 
+
+
+    Applications
+
+
+ 
+
+
+ 
+
+
+    Launch Date
+
+
+
+
+
+    InfiniumHD Whole-Genome BeadChips
+
+
+ 
+
+
+ 
+
+
+    Multi-sample DNA Analysis microarrays that interrogate up to 1.2
+    million markers per sample, depending on the BeadChip. Product
+    line includes the following BeadChips with human and
+    agriculturally relevant genome panels: HumanOmniExpress,
+    HumanOmni1-Quad, Human1M-Duo, and BovineHD
+
+
+ 
+
+
+ 
+
+
+    Array based whole-genome genotyping
+
+
+ 
+
+
+ 
+
+
+    Q1 2008 through Q1 2010
+
+
+
+
+    iSelect Custom Genotyping BeadChips
+
+
+ 
+
+
+ 
+
+
+    Customer designable SNP genotyping arrays for 3,000 to 200,000
+    markers for use with any species
+
+
+ 
+
+
+ 
+
+
+    Array based custom genotyping
+
+
+ 
+
+
+ 
+
+
+    Q2 2006 through Q1 2010
+
+
+
+
+    GoldenGate Assay Method
+
+
+ 
+
+
+ 
+
+
+    High throughput assay and genotyping system
+
+
+ 
+
+
+ 
+
+
+    High throughput, array based genotyping
+
+
+ 
+
+
+ 
+
+
+    Q3 2009
+
+
+
+
+    GoldenGate Universal-32 Sample BeadChip
+
+
+ 
+
+
+ 
+
+
+    32 sample GoldenGate genotyping arrays
+
+
+ 
+
+
+ 
+
+
+    Array based genotyping
+
+
+ 
+
+
+ 
+
+
+    Q4 2008
+
+
+
+
+    Paired-End Genomic DNA Sample Prep Kit
+
+
+ 
+
+
+ 
+
+
+    Streamlined library preparation kit to generate 200 —
+    500 kb insert paired-end reads
+
+
+ 
+
+
+ 
+
+
+    Whole-genome sequencing, targeted sequencing, gene expression
+    discovery and profiling, and epigenomics analysis
+
+
+ 
+
+
+ 
+
+
+    Q2 2008
+
+
+
+
+
+    VeraCode GoldenGate
+
+
+
+ 
+
+
+ 
+
+
+    Flexible low plex GoldenGate genotyping arrays compatible with
+    the BeadXpress System
+
+
+ 
+
+
+ 
+
+
+    High throughput, array based genotyping
+
+
+ 
+
+
+ 
+
+
+    FY 2007
+
+
+
+
+
+    Standard Sequencing Kit
+
+
+
+ 
+
+
+ 
+
+
+    Reagents used for SBS chemistry on our sequencing platforms
+
+
+ 
+
+
+ 
+
+
+    Whole-genome sequencing, targeted sequencing, gene expression
+    discovery and profiling, and epigenomics analysis
+
+
+ 
+
+
+ 
+
+
+    Q1 2007
+
+
+
+
+
+    Infinium Assay Kit
+
+
+
+ 
+
+
+ 
+
+
+    Reagents used to perform Infinium assays on the iScan platform
+
+
+ 
+
+
+ 
+
+
+    Array-based genotyping
+
+
+ 
+
+
+ 
+
+
+    Q1 2008 through Q1 2010
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+    Our
+    Services
+
+
+ 
+
+
+
+    Sequencing
+
+
+ 
+
+
+    We have been offering sequencing services since 2007. Our
+    services range from small sets of samples requiring as little as
+    one run to finish, to large-scale projects, like whole-genome
+    sequencing, necessitating multiple instruments running in
+    parallel for extended periods of time. The breadth of
+    applications offered
+
+
+
+
+
+    
+    11
+
+
+
+Table of Contents
+
+
+
+
+
+    includes novel custom products as well as all released products.
+    These applications include but are not limited to human whole
+    exome and custom targeted re-sequencing, de novo sequencing,
+    small RNA discovery and profiling, gene expression using random
+    primed RNA sampling technology, ChIP SEQ, and methylome
+    interrogation.
+
+
+ 
+
+
+
+    Genotyping
+
+
+ 
+
+
+    We have been offering genotyping services since 2002. Our
+    genotyping services offer all of our genotyping products,
+    including standard and custom GoldenGate, standard Infinium and
+    Infinium HD, as well as iSelect Infinium. Our projects range in
+    size from a few hundred samples to over 10,000 samples. Our
+    customer base includes academic institutions, and biotech and
+    pharmaceutical companies.
+
+
+ 
+
+
+
+    Intellectual
+    Property
+
+
+ 
+
+
+    We have an extensive intellectual property portfolio, including,
+    as of February 1, 2010, ownership of, or exclusive licenses
+    to, 159 issued U.S. patents and 171 pending
+    U.S. patent applications, including eight allowed
+    applications that have not yet issued as patents. Our issued
+    patents include those directed to various aspects of our arrays,
+    assays, oligo synthesis, sequencing technology, instruments, and
+    chemical detection technologies, and have terms that expire
+    between 2010 and 2027. We continue to file new patent
+    applications to protect the full range of our technologies. We
+    have filed or have been granted counterparts for many of these
+    patents and applications in foreign countries.
+
+
+ 
+
+
+    We also rely upon trade secrets, know-how, copyright, and
+    trademark protection, as well as continuing technological
+    innovation and licensing opportunities to develop and maintain
+    our competitive position. Our success will depend in part on our
+    ability to obtain patent protection for our products and
+    processes, to preserve our trade secrets, to enforce our
+    patents, copyrights and trademarks, to operate without
+    infringing the proprietary rights of third parties, and to
+    acquire licenses related to enabling technology or products.
+
+
+ 
+
+
+    We are party to various exclusive and non-exclusive license
+    agreements and other arrangements with third parties that grant
+    us rights to use key aspects of our array and sequencing
+    technologies, assay methods, chemical detection methods, reagent
+    kits, and scanning equipment. We have exclusive licenses from
+    Tufts University to patents that are directed to our BeadArray
+    technology. These patents were filed by Dr. David Walt, who
+    is a member of our board of directors, the Chairman of our
+    Scientific Advisory Board, and one of our founders. Our
+    exclusive licenses expire with the termination of the underlying
+    patents, which will occur between 2010 and 2020. We have
+    additional nonexclusive license agreements with various third
+    parties for other components of our products. In most cases, the
+    agreements remain in effect over the term of the underlying
+    patents, may be terminated at our request without further
+    obligation, and require that we pay customary royalties while
+    the agreement is in effect.
+
+
+ 
+
+
+
+    Research
+    and Development
+
+
+ 
+
+
+    We have made substantial investments in research and development
+    since our inception. We have assembled a team of skilled
+    engineers and scientists who are specialists in biology,
+    chemistry, informatics, instrumentation, optical systems,
+    software, manufacturing, and other related areas required to
+    complete the development of our products. Our research and
+    development efforts have focused primarily on the tasks required
+    to optimize our sequencing, BeadArray, VeraCode, and oligo
+    synthesis technologies and to support commercialization of the
+    products and services derived from these technologies.
+
+
+ 
+
+
+    Our research and development expenses for 2009, 2008, and 2007
+    were $140.6 million, $100.0 million, and
+    $73.9 million, respectively. We expect research and
+    development expense to increase during 2010 as we continue to
+    expand our research and product development efforts.
+
+
+ 
+
+
+
+    Marketing
+    and Distribution
+
+
+ 
+
+
+    Our current products address the genetic analysis portion of the
+    life sciences market, in particular, experiments involving
+    sequencing, SNP genotyping, and gene expression profiling. These
+    experiments may be
+
+
+
+
+
+    
+    12
+
+
+
+Table of Contents
+
+
+
+
+
+    involved in many areas of biologic research, including basic
+    human disease research, pharmaceutical drug discovery and
+    development, pharmacogenomics, toxicogenomics, and agricultural
+    research. Our potential customers include pharmaceutical,
+    biotechnology, agrichemical, diagnostics, and consumer products
+    companies, as well as academic or private research centers. The
+    genetic analysis market is relatively new and emerging and its
+    size and speed of development will ultimately be driven by,
+    among other items:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    the ability of the research community to extract medically
+    valuable information from genomics and to apply that knowledge
+    to multiple areas of disease-related research and treatment;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the availability of sufficiently low cost, high-throughput
+    research tools to enable the large amount of experimentation
+    required to study genetic variation and biological
+    function; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the availability of government and private industry funding to
+    perform the research required to extract medically relevant
+    information from genomic analysis.
+
+
+
+
+
+ 
+
+
+    We market and distribute our products directly to customers in
+    North America, Europe, and the Asia-Pacific region. In each of
+    these areas, we have dedicated sales, service, and application
+    support personnel responsible for expanding and managing their
+    respective customer bases. In addition, in certain markets
+    within Europe, the Asia-Pacific region, the Middle East, and
+    South Africa we sell our products and provide services to
+    customers through distributors that specialize in life science
+    products. We expect to continue to increase our sales and
+    distribution resources during 2010 and beyond as we launch a
+    number of new products and expand the number of customers that
+    can use our products.
+
+
+ 
+
+
+
+    Manufacturing
+
+
+ 
+
+
+    We manufacture sequencing and array instrument platforms,
+    reagent kits, scanning equipment, and oligos. Our manufacturing
+    capacity for consumables and instruments has grown during 2009
+    to support our increased customer demand. We are also focused on
+    continuing to enhance the quality and manufacturing yield of our
+    BeadChips and flow cells. To continue to increase throughput and
+    improve the quality and manufacturing yield as we increase the
+    complexity of our products, we are exploring ways to continue
+    increasing the level of automation in the manufacturing process.
+    We adhere to access and safety standards required by federal,
+    state, and local health ordinances, such as standards for the
+    use, handling, and disposal of hazardous substances.
+
+
+ 
+
+
+
+    Raw
+    Materials
+
+
+ 
+
+
+    Our manufacturing operations require a wide variety of raw
+    materials, electronic and mechanical components, chemical and
+    biochemical materials, and other supplies. We have multiple
+    commercial sources for many of our components and supplies;
+    however, there are some raw materials we obtain from single
+    source suppliers. To mitigate potential risks arising from
+    single source suppliers, we believe that we can redesign our
+    products for alternative components or use alternative reagents.
+    In addition, while we generally attempt to keep our inventory at
+    minimal levels, we purchase incremental inventory as
+    circumstances warrant to protect our supply chain.
+
+
+ 
+
+
+
+    Competition
+
+
+ 
+
+
+    Although we expect that our products and services will provide
+    significant advantages over products and services currently
+    available from other sources, we expect to encounter intense
+    competition from other companies that offer products and
+    services for the sequencing, SNP genotyping, gene expression,
+    and molecular diagnostics markets. These include companies such
+    as Affymetrix, Inc.; Agilent Technologies, Inc.; Beckman
+    Coulter, Inc.; Complete Genomics, Inc.; General Electric
+    Company; Helicos BioSciences Corporation; Life Technologies
+    Corporation; Luminex Corporation; Pacific Biosciences, Inc.;
+    Roche Diagnostics Corp.; Sequenom, Inc.; and Qiagen N.V. Some of
+    these companies have or will have substantially greater
+    financial, technical, research, and other resources and larger,
+    more established marketing, sales, distribution, and service
+    organizations than we do. In addition, they may have greater
+    name recognition than we do in the markets we address and in
+    some cases a larger installed base of systems. Each of these
+    markets is very competitive and we expect new competitors to
+    emerge and the intensity of competition to increase. In
+
+
+
+
+
+    
+    13
+
+
+
+Table of Contents
+
+
+
+
+
+    order to effectively compete with these companies, we will need
+    to demonstrate that our products have superior throughput, cost,
+    and accuracy advantages over competing products.
+
+
+ 
+
+
+
+    Segment
+    and Geographic Information
+
+
+ 
+
+
+    During the first quarter of 2008, we reorganized our operating
+    structure into two newly created business segments, Life
+    Sciences and Diagnostics. Our Life Sciences Business Unit
+    includes all products and services that are primarily related to
+    the research market, namely the product lines based on our
+    sequencing, BeadArray, and VeraCode technologies, and our
+    Diagnostics Business Unit focuses on the emerging opportunity in
+    molecular diagnostics. During 2009, we had limited activity
+    related to the Diagnostics Business Unit and operating results
+    were reported on an aggregate basis to our chief operating
+    decision maker, the chief executive officer. Accordingly, we
+    operated in one reportable segment during 2009.
+
+
+ 
+
+
+    We currently sell our products to a number of customers outside
+    the United States, including customers in other areas of North
+    America, Europe, and the Asia-Pacific region. Shipments to
+    customers outside the United States totaled $319.1 million,
+    or 48% of our total revenue, during 2009, compared to
+    $293.2 million, or 51%, and $159.1 million, or 43%, in
+    2008 and 2007, respectively. Sales to customers outside of the
+    United States were generally denominated in U.S. dollars.
+    In 2008, we reorganized our international structure to establish
+    more efficient channels among product development, product
+    manufacturing, and sales. The reorganization increased our
+    foreign subsidiaries’ anticipated dependence on the
+    U.S. entity for management decisions, financial support,
+    production assets, and inventory thereby making the foreign
+    subsidiaries more of a direct and integral component of the
+    U.S. entity’s operations. As a result, we reassessed
+    the primary economic environment of our foreign subsidiaries and
+    determined the subsidiaries are more U.S. dollar based,
+    resulting in a U.S. dollar functional currency
+    determination. We expect that sales to international customers
+    will continue to be an important and growing source of revenue.
+    See Note 13 of the Notes to Consolidated Financial
+    Statements for further information concerning our foreign and
+    domestic operations.
+
+
+ 
+
+
+
+    Backlog
+
+
+ 
+
+
+    Our backlog was $227.6 million and $113.0 million at
+    January 3, 2010 and December 28, 2008, respectively.
+    Generally, our backlog consists of orders believed to be firm as
+    of the balance sheet date; however, we may allow customers to
+    make product substitutions as we launch new products. The timing
+    of shipments depends on several factors including, agreed upon
+    shipping schedules, which may span multiple quarters, and
+    whether the product is catalog or custom. We reasonably expect
+    an estimated 90% of the backlog as of January 3, 2010 to be
+    shipped within the fiscal year ending January 2, 2011.
+    Although we generally recognize revenue at the time of shipment
+    and transfer of title to a customer, we may be required to defer
+    the recognition of revenue even after shipment depending on the
+    specific arrangement with a customer and the applicable
+    accounting treatment. A material portion of our backlog at
+    January 3, 2010 is associated with a large order we
+    received from one customer for which we anticipate using
+    operating lease accounting that will require us to recognize
+    revenue over a period of three years with the majority of that
+    revenue recognized in 2011 and 2012.
+
+
+ 
+
+
+
+    Seasonality
+
+
+ 
+
+
+    Historically, customer purchasing patterns have not shown
+    significant seasonal variation, although demand for our products
+    is usually lowest in the first quarter of the calendar year and
+    highest in the third quarter of the calendar year as a result,
+    in part, of U.S. academic customers spending unused budget
+    allocations before the end of the U.S. government’s
+    fiscal year.
+
+
+ 
+
+
+
+    Environmental
+    Matters
+
+
+ 
+
+
+    We are committed to the protection of our employees and the
+    environment. Our operations require the use of hazardous
+    materials that subject us to a variety of federal, state, and
+    local environmental and safety laws and regulations. We believe
+    we are in material compliance, in all material respects, with
+    current applicable laws and regulations; however, we could be
+    held liable for damages and fines should contamination
+
+
+
+
+
+    
+    14
+
+
+
+Table of Contents
+
+
+
+
+
+    of the environment or individual exposures to hazardous
+    substances occur. In addition, we cannot predict how changes in
+    these laws and regulations, or the development of new laws and
+    regulations, will affect our business operations or the cost of
+    compliance.
+
+
+ 
+
+
+
+    Government
+    Regulation
+
+
+ 
+
+
+    Our products are not currently subject to FDA clearance or
+    approval if they are not intended to be used for the diagnosis
+    of disease. However, as we expand our product line to encompass
+    products that are intended to be used for the diagnosis of
+    disease, such as molecular diagnostic products, regulation by
+    governmental authorities in the United States and other
+    countries will be a significant factor in the development,
+    testing, production, and marketing of such products. Products
+    that we develop in the molecular diagnostic markets, depending
+    on their intended use, will be regulated as medical devices by
+    the FDA and comparable agencies of other countries and may
+    require either receiving clearance following a pre-market
+    notification process, also known as a 510(k) clearance, or
+    premarket approval (PMA), from the FDA prior to marketing.
+    Obtaining the requisite regulatory approvals can be expensive
+    and may involve considerable delay.
+
+
+ 
+
+
+    The shorter 510(k) clearance process, which generally takes from
+    three to six months after submission, but can take significantly
+    longer, may be utilized if it is demonstrated that the new
+    product is “substantially equivalent” to a similar
+    product that has already been cleared by the FDA. The longer PMA
+    process is much more costly, uncertain, and generally takes from
+    nine months to two years after filing. Because we cannot assure
+    you that any molecular diagnostic products that we develop will
+    be subject to the shorter 510(k) clearance process, or will
+    ultimately be approved at all, the regulatory approval process
+    for such products may be significantly delayed and may be
+    significantly more expensive than anticipated. If we fail to
+    obtain, or experience significant delays in obtaining,
+    regulatory approvals for molecular diagnostic products that we
+    develop, we may not be able to launch or successfully
+    commercialize such products in a timely manner, or at all.
+
+
+ 
+
+
+    Changes to the current regulatory framework, including the
+    imposition of additional or new regulations, could arise at any
+    time during the development or marketing of our products, which
+    may negatively affect our ability to obtain or maintain FDA or
+    comparable regulatory approval of our products, if required.
+
+
+ 
+
+
+    In addition, the regulatory approval or clearance process
+    required to manufacture, market, and sell our existing and
+    future products that are intended for, and marketed and labeled
+    as, “Research Use Only,” or RUO, is uncertain if such
+    products are used or could be used, even without our consent,
+    for the diagnosis of disease. If the FDA or other regulatory
+    authorities assert that any of our RUO products are subject to
+    regulatory clearance or approval, our business, financial
+    condition, or results of operations could be adversely affected.
+
+
+ 
+
+
+
+    Employees
+
+
+ 
+
+
+    As of January 3, 2010, we had a total of
+    1,781 employees. None of our employees are represented by a
+    labor union. We consider our employee relations to be positive.
+    Our success will depend in large part upon our ability to
+    attract and retain employees. In addition, we employ a number of
+    temporary and contract employees. We face competition in this
+    regard from other companies, research and academic institutions,
+    government entities, and other organizations.
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    ITEM 1A.  
+
+    
+    Risk
+    Factors
+
+
+
+
+
+ 
+
+
+    Our business is subject to various risks, including those
+    described below. In addition to the other information included
+    in this
+    Form 10-K,
+    the following issues could adversely affect our operating
+    results or our stock price.
+
+
+ 
+
+
+
+    We
+    face intense competition, which could render our products
+    obsolete, result in significant price reductions, or
+    substantially limit the volume of products that we
+    sell.
+
+
+ 
+
+
+    We compete with life sciences companies that design,
+    manufacture, and market products for analysis of genetic
+    variation and biological function and other applications using a
+    wide-range of competing technologies. We anticipate that we will
+    continue to face increased competition as existing companies
+    develop new or
+
+
+
+
+
+    
+    15
+
+
+
+Table of Contents
+
+
+
+
+
+    improved products and as new companies enter the market with new
+    technologies. One or more of our competitors may render our
+    technology obsolete or uneconomical. Some of our competitors
+    have greater financial and personnel resources, broader product
+    lines, a more established customer base, and more experience in
+    research and development than we do. Furthermore, life sciences
+    and pharmaceutical companies, which are our potential customers
+    and strategic partners, could also develop competing products.
+    We believe that customers in our markets display a significant
+    amount of loyalty to their initial supplier of a particular
+    product; therefore, it may be difficult to generate sales to
+    potential customers who have purchased products from
+    competitors. To the extent we are unable to be the first to
+    develop or supply new products, our competitive position may
+    suffer.
+
+
+ 
+
+
+    The market for molecular diagnostics products is currently
+    limited and highly competitive, with several large companies
+    already having significant market share, intellectual property
+    portfolios, and regulatory expertise. Established diagnostic
+    companies also have an installed base of instruments in several
+    markets, including clinical and reference laboratories, which
+    could deter acceptance of our products. In addition, some of
+    these companies have formed alliances with genomics companies
+    that provide them access to genetic information that may be
+    incorporated into their diagnostic tests.
+
+
+ 
+
+
+
+    Our
+    success depends upon the continued emergence and growth of
+    markets for analysis of genetic variation and biological
+    function.
+
+
+ 
+
+
+    We design our products primarily for applications in the life
+    sciences, agricultural, and pharmaceutical industries. The
+    usefulness of our technologies depends in part upon the
+    availability of genetic data and its usefulness in identifying
+    or treating disease. We are focusing on markets for analysis of
+    genetic variation and biological function, namely sequencing,
+    genotyping, and gene expression profiling. These markets are new
+    and emerging, and they may not develop as quickly as we
+    anticipate, or reach their full potential. Other methods of
+    analysis of genetic variation and biological function may emerge
+    and displace the methods we are developing. Also, researchers
+    may not seek or be able to convert raw genetic data into
+    medically valuable information through the analysis of genetic
+    variation and biological function. For instance, demand for our
+    microarray products may be adversely affected if researchers
+    fail to find meaningful correlations between genetic variation,
+    such as SNPs, and disease susceptibility through genome wide
+    association studies. In addition, factors affecting research and
+    development spending generally, such as changes in the
+    regulatory environment affecting life sciences and
+    pharmaceutical companies, and changes in government programs
+    that provide funding to companies and research institutions,
+    could harm our business. If useful genetic data is not available
+    or if our target markets do not develop in a timely manner,
+    demand for our products may grow at a slower rate than we
+    expect, and we may not be able to sustain profitability.
+
+
+ 
+
+
+
+    If the
+    quality of our products does not meet our customers’
+    expectations, then our sales and operating earnings, and
+    ultimately our reputation, could be negatively
+    impacted.
+
+
+ 
+
+
+    In the course of conducting our business, we must adequately
+    address quality issues associated with our products and
+    services, including defects in our engineering, design, and
+    manufacturing processes, as well as defects in third-party
+    components included in our products. Because our instruments and
+    reagents are highly complex, the occurrence of defects may
+    increase as we continue to introduce new products and services.
+    Although we have established internal procedures to minimize
+    risks that may arise from product quality issues, there can be
+    no assurance that we will be able to eliminate or mitigate
+    occurrences of these issues and associated liabilities. In
+    addition, identifying the root cause of quality issues,
+    particularly those affecting reagents, may be difficult, which
+    increases the time needed to address quality issues as they
+    arise and increases the risk that similar problems could recur.
+    Finding solutions to quality issues can be expensive and we may
+    incur significant costs or lost revenue in connection with, for
+    example, shipment holds, product recalls, and warranty or other
+    service obligations. In addition, quality issues can impair our
+    relationships with new or existing customers and adversely
+    affect our brand image, and our reputation as a producer of high
+    quality products could suffer, which could adversely affect our
+    business as well as our financial results.
+
+
+
+
+    
+    16
+
+
+
+Table of Contents
+
+
+
+
+
+
+    If we
+    do not successfully manage the development and launch of new
+    products or services, including product transitions, our
+    financial results could be adversely affected.
+
+
+ 
+
+
+    We face risks associated with launching new products and
+    pre-announcing products and services when the products or
+    services have not been fully developed or tested. If our
+    products and services are not able to deliver the performance or
+    results expected by our target markets or are not delivered on a
+    timely basis, our reputation and credibility may suffer. If we
+    encounter development challenges or discover errors in our
+    products late in our development cycle it may cause us to delay
+    our product launch date. In addition, we may experience
+    difficulty in managing or forecasting customer reactions,
+    purchasing decisions, or transition requirements or programs
+    (such as trade-in programs) with respect to newly launched
+    products (or products in development) relative to our existing
+    products, which could adversely affect sales of our existing
+    products. The expenses or losses associated with unsuccessful
+    product development or launch activities or lack of market
+    acceptance of our new products could adversely affect our
+    business, financial condition, or results of operations.
+
+
+ 
+
+
+
+    If we
+    are unable to increase our manufacturing capacity and develop
+    and maintain operation of our manufacturing capability, we may
+    not be able to launch or support our products in a timely
+    manner, or at all.
+
+
+ 
+
+
+    We continue to increase our capacity to meet the anticipated
+    demand for our products. Although we have significantly
+    increased our manufacturing capacity and we believe we have
+    plans in place sufficient to ensure we have adequate capacity to
+    meet our business plan for 2010, there are uncertainties
+    inherent in expanding our manufacturing capabilities and we may
+    not be able to sufficiently increase our capacity in a timely
+    manner. For example, manufacturing and product quality issues
+    may arise as we increase production rates at our manufacturing
+    facilities and launch new products. Also, we may not manufacture
+    the right product mix to meet customer demand, especially as we
+    introduce new products. As a result, we may experience
+    difficulties in meeting customer, collaborator, and internal
+    demand, in which case we could lose customers or be required to
+    delay new product introductions, and demand for our products
+    could decline. Additionally, in the past, we have experienced
+    variations in manufacturing conditions and quality control
+    issues that have temporarily reduced or suspended production of
+    certain products. Due to the intricate nature of manufacturing
+    products that contain DNA, we may encounter similar or
+    previously unknown manufacturing difficulties in the future that
+    could significantly reduce production yields, impact our ability
+    to launch or sell these products (or to produce them
+    economically), prevent us from achieving expected performance
+    levels, or cause us to set prices that hinder wide adoption by
+    customers.
+
+
+ 
+
+
+    Additionally, we currently manufacture in a limited number of
+    locations. Our manufacturing facilities are located in
+    San Diego and Hayward, California; Singapore; and Little
+    Chesterford, United Kingdom. These areas are subject to natural
+    disasters such as earthquakes, wildfires, or floods. If a
+    natural disaster were to damage one of our facilities
+    significantly or if other events were to cause our operations to
+    fail, we may be unable to manufacture our products, provide our
+    services or develop new products.
+
+
+ 
+
+
+    Also, many of our manufacturing processes are automated and are
+    controlled by our custom-designed Laboratory Information
+    Management System (LIMS). Additionally, the decoding process in
+    our array manufacturing requires significant network and storage
+    infrastructure. If either our LIMS system or our networks or
+    storage infrastructure were to fail for an extended period of
+    time, it may adversely impact our ability to manufacture our
+    products on a timely basis and could prevent us from achieving
+    our expected shipments in any given period.
+
+
+ 
+
+
+
+    Our
+    acquisitions expose us to risks that could adversely affect our
+    business, and we may not achieve the anticipated benefits of
+    acquisitions of businesses or technologies.
+
+
+ 
+
+
+    As part of our strategy to develop and identify new products,
+    services, and technologies, we have made, and may continue to
+    make, acquisitions of technologies, products, or businesses.
+    Acquisitions involve
+
+
+
+
+
+    
+    17
+
+
+
+Table of Contents
+
+
+
+
+
+    numerous risks and operational, financial, and managerial
+    challenges, including the following, any of which could
+    adversely affect our business, financial condition, or results
+    of operations:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    difficulties in integrating new operations, technologies,
+    products, and personnel;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    lack of synergies or the inability to realize expected synergies
+    and cost-savings;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulties in managing geographically dispersed operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    underperformance of any acquired technology, product, or
+    business relative to our expectations and the price we paid;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    negative near-term impacts on financial results after an
+    acquisition, including acquisition-related earnings charges;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the potential loss of key employees, customers, and strategic
+    partners of acquired companies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    claims by terminated employees and shareholders of acquired
+    companies or other third parties related to the transaction;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the issuance of dilutive securities, assumption or incurrence of
+    additional debt obligations or expenses, or use of substantial
+    portions of our cash;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    diversion of management’s attention and company resources
+    from existing operations of the business;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inconsistencies in standards, controls, procedures, and policies;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the impairment of intangible assets as a result of technological
+    advancements, or
+    worse-than-expected
+    performance of acquired companies; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    assumption of, or exposure to, unknown contingent liabilities or
+    liabilities that are difficult to identify or accurately
+    quantify.
+
+
+
+
+
+ 
+
+
+    In addition, the successful integration of acquired businesses
+    requires significant efforts and expense across all operational
+    areas, including sales and marketing, research and development,
+    manufacturing, finance, legal, and information technologies. We
+    cannot assure you that any of the acquisitions we make will be
+    successful or will be, or will remain, profitable. Our failure
+    to successfully address the above risks may prevent us from
+    achieving the anticipated benefits from any acquisition in a
+    reasonable time frame, or at all.
+
+
+ 
+
+
+
+    The
+    timing and extent of funding provided by the American Recovery
+    and Reinvestment Act of 2009 (the Recovery Act) could adversely
+    affect our business, financial condition, or results of
+    operations.
+
+
+ 
+
+
+    The Recovery Act was enacted in February 2009 to provide
+    stimulus to the U.S. economy in the wake of the economic
+    downturn. As part of the Recovery Act legislation, over
+    $10 billion in funding was provided to the National
+    Institute of Health through September 2010 to support the
+    advancement of scientific research. A portion of the stimulus
+    funding may support the analysis of genetic variation and
+    biological function and have a significant positive impact on
+    our business. In the short-term, however, our customers may
+    delay or reduce their purchases of our products as they wait to
+    learn whether, and to what extent, they will receive stimulus
+    funding. If our customers are unable to obtain stimulus money
+    they may reduce their research and development budgets resulting
+    in a decrease in demand for our products. In addition, it is
+    unclear what will happen to demand for our products after the
+    stimulus funds from the Recovery Act have been allocated and
+    spent. A decline in demand will reduce our revenues, which would
+    adversely affect our business, financial condition, or results
+    of operations.
+
+
+ 
+
+
+
+    Unfavorable
+    global economic conditions could adversely affect our business,
+    financial condition, or results of operations.
+
+
+ 
+
+
+    Our results of operations could be adversely affected by general
+    conditions in the global economy and in the global financial
+    markets. The recent global financial crisis caused extreme
+    volatility and disruptions in the capital and credit markets. A
+    severe or prolonged economic downturn, such as the recent global
+    financial
+
+
+
+
+
+    
+    18
+
+
+
+Table of Contents
+
+
+
+
+
+    crisis, could result in a variety of risks to our business,
+    including, in particular, reductions or delays in planned
+    improvements to healthcare systems, research and development
+    funding, and purchases of our products and services, or
+    cost-containment efforts by governments and private
+    organizations that could adversely affect our business,
+    financial condition, or results of operations. In addition, the
+    liquidity of our investment portfolio could be impaired such as
+    when more than $50 million of auction rate securities that
+    we held for investment became illiquid in February 2008 because
+    their scheduled auctions failed. Furthermore, as is the case for
+    almost any other business, we face the following risks from a
+    severe or prolonged economic downturn:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    severely limited access to financing over an extended period of
+    time, which may limit our ability to fund our growth strategy,
+    could result in a need to delay capital expenditures,
+    acquisitions, or research and development projects;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    losses from our investment portfolio or to a counterparty’s
+    inability to fulfill its payment obligations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    inability to refinance existing debt at competitive rates,
+    reasonable terms, or sufficient amounts; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    increased volatility or adverse movements in foreign currency
+    exchange rates.
+
+
+
+
+
+ 
+
+
+    In addition, certain of our customers may face challenges
+    gaining timely access to sufficient credit, which could result
+    in an impairment of their ability to make timely payments to us.
+    If that were to occur, our allowance for doubtful accounts and
+    our days sales outstanding could increase. Additionally, these
+    economic conditions may cause our smaller suppliers to be unable
+    to supply in a timely manner sufficient quantities of customized
+    components, which would impair our ability to manufacture on
+    schedule and at commercially reasonable costs. Suppliers may
+    also extend lead times, limit supplies, or increase prices due
+    to capacity constraints or other factors.
+
+
+ 
+
+
+
+    Our
+    continued growth is dependent on continuously developing and
+    commercializing new products.
+
+
+ 
+
+
+    Our target markets are characterized by rapid technological
+    change, evolving industry standards, changes in customer needs,
+    existing and emerging competition, strong price competition, and
+    frequent new product introductions. Accordingly, our continued
+    growth depends on continuously developing and commercializing
+    new products and services, including improving our existing
+    products and services, in order to address evolving market
+    requirements on a timely basis. If we fail to innovate or
+    adequately invest in new technologies, our products and services
+    will become dated and we could lose our competitive position in
+    the markets that we serve as customers purchase new products
+    offered by our competitors. We believe that successfully
+    introducing new products and technologies in our target markets
+    on a timely basis provides a significant competitive advantage
+    because customers make an investment of time in selecting and
+    learning to use a new product and may be reluctant to switch
+    once that selection is made.
+
+
+ 
+
+
+    To the extent that we fail to introduce new and innovative
+    products, or such products are not accepted in the market or
+    suffer significant delays in development, we may lose market
+    share to our competitors, which will be difficult or impossible
+    to regain. An inability, for technological or other reasons, to
+    successfully develop and introduce new products could reduce our
+    growth rate or otherwise have an adverse effect on our business.
+    In the past, we have experienced, and are likely to experience
+    in the future, delays in the development and introduction of new
+    products. We cannot assure you that we will keep pace with the
+    rapid rate of change in our markets or that our new products
+    will adequately meet the requirements of the marketplace,
+    achieve market acceptance, or compete successfully with
+    competing technologies. Some of the factors affecting market
+    acceptance of new products and services include:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    availability, quality, and price relative to competing products
+    and services;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the functionality of new and existing products and services;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    the timing of introduction of the new product or service
+    relative to competing products and services;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    scientists’ and customers’ opinions of the utility of
+    the new product or service;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    citation of the new product or service in published research;
+
+
+
+
+
+
+
+    
+    19
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    regulatory trends and approvals; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    general trends in life sciences research and applied markets.
+
+
+
+
+
+ 
+
+
+
+    We
+    depend on third-party manufacturers and suppliers for components
+    and materials used in our products, and if shipments from these
+    manufacturers or suppliers are delayed or interrupted, or if the
+    quality of the components or materials supplied do not meet our
+    requirements, we may not be able to launch, manufacture, or ship
+    our products in a timely manner, or at all.
+
+
+ 
+
+
+    The nature of our products requires customized components and
+    materials that currently are available from a limited number of
+    sources, and, in the case of some components and materials, from
+    only a single source. If deliveries from these vendors are
+    delayed or interrupted for any reason, or if we are otherwise
+    unable to secure a sufficient supply, we may not be able to
+    obtain these components or materials timely or in sufficient
+    quantities or qualities, or at all, in order to meet demand for
+    our products. We may need to enter into contractual
+    relationships with manufacturers for commercial-scale production
+    of some of our products, or develop these capabilities
+    internally, and we cannot assure you that we will be able to do
+    this on a timely basis, in sufficient quantities, or on
+    commercially reasonable terms. Accordingly, we may not be able
+    to establish or maintain reliable, high-volume manufacturing at
+    commercially reasonable costs. In addition, the manufacture or
+    shipment of our products may be delayed or interrupted if the
+    quality of the components or materials supplied by our vendors
+    does not meet our requirements. Any delay or interruption to our
+    manufacturing process or in shipping our products could result
+    in lost revenue, which would adversely affect our business,
+    financial condition, or results of operations.
+
+
+ 
+
+
+
+    An
+    inability to manage our growth or the expansion of our
+    operations could adversely affect our business, financial
+    condition, or results of operations.
+
+
+ 
+
+
+    Our business has grown rapidly, with total revenues increasing
+    from $73.5 million for the year ended January 1, 2006
+    to $666.3 million for the year ended January 3, 2010
+    and with the number of employees increasing from 375 to 1,781
+    during the same period. We expect to continue to experience
+    rapid and substantial growth in order to achieve our operating
+    plans. The rapid expansion of our business and addition of new
+    personnel may place a strain on our management and operational
+    systems. Our ability to effectively manage our operations and
+    growth requires us to continue to expend funds to enhance our
+    operational, financial, and management controls, reporting
+    systems, and procedures and to attract and retain sufficient
+    numbers of talented employees on a global basis. If we are
+    unable to scale up and implement improvements to our
+    manufacturing process and control systems in an efficient or
+    timely manner, or if we encounter deficiencies in existing
+    systems and controls, then we will not be able to make available
+    the products required to successfully commercialize our
+    technology. Our future operating results will depend on the
+    ability of our management to continue to implement and improve
+    our research, product development, manufacturing, sales and
+    marketing, and customer support programs, enhance our
+    operational and financial control systems, expand, train, and
+    manage our employee base, integrate acquired businesses, and
+    effectively address new issues related to our growth as they
+    arise. There can be no assurance that we will be able to manage
+    our recent or any future expansion or acquisition successfully,
+    and any inability to do so could adversely affect our business,
+    financial condition, or results of operations.
+
+
+ 
+
+
+
+    If we
+    lose our key personnel or are unable to attract and retain
+    additional personnel, we may be unable to achieve our
+    goals.
+
+
+ 
+
+
+    We are highly dependent on our management and scientific
+    personnel, including Jay Flatley, our president and chief
+    executive officer. The loss of their services could adversely
+    impact our ability to achieve our business objectives. In
+    addition, we will need to hire additional qualified personnel
+    with expertise in molecular biology, chemistry, biological
+    information processing, sales, marketing, and technical support.
+    We compete for qualified management and scientific personnel
+    with other life science companies, universities, and research
+    institutions, particularly those focusing on genomics.
+    Competition for these individuals, particularly in the
+    San Diego and San Francisco area, is intense, and the
+    turnover rate can be high. Failure to attract and retain
+    management and scientific personnel would prevent us from
+    pursuing collaborations or developing our
+
+
+
+
+
+    
+    20
+
+
+
+Table of Contents
+
+
+
+
+
+    products or technologies. Additionally, integration of acquired
+    companies and businesses can be disruptive, causing key
+    employees of the acquired business to leave. Further, we use
+    stock options and restricted stock to provide incentives for our
+    key personnel to remain with us and to align their interests
+    with those of the Company by building long-term stockholder
+    value. If our stock price decreases, the value of these equity
+    awards decreases and therefore reduces a key employee’s
+    incentive to stay.
+
+
+ 
+
+
+
+    Doing
+    business internationally creates operational and financial risks
+    for our business.
+
+
+ 
+
+
+    Conducting and launching operations on an international scale
+    requires close coordination of activities across multiple
+    jurisdictions and time zones and consumes significant management
+    resources. If we fail to coordinate and manage these activities
+    effectively, including the risks noted below, our business,
+    financial condition, or results of operations could be adversely
+    affected. We are focused on expanding our international
+    operations in key markets. We have sales offices located
+    internationally throughout Europe and the Asia-Pacific region,
+    as well as manufacturing facilities in the United Kingdom and
+    Singapore. During 2009, the majority of our sales to
+    international customers and purchases of raw materials from
+    international suppliers were denominated in U.S. dollars.
+    Shipments to customers outside the United States comprised 48%,
+    51%, and 43% of our total revenue for the years ended
+    January 3, 2010, December 28, 2008, and
+    December 30, 2007, respectively. We intend to continue to
+    expand our international presence by selling to customers
+    located outside of the United States and we expect the total
+    amount of
+    non-U.S. sales
+    to continue to grow.
+
+
+ 
+
+
+    International sales entail a variety of risks, including:
+
+
+ 
+
+
+
+
+    
+    
+    
+
+
+
+     
+        • 
+
+    
+    longer payment cycles and difficulties in collecting accounts
+    receivable outside of the United States;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    currency exchange fluctuations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    challenges in staffing and managing foreign operations;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    tariffs and other trade barriers;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    unexpected changes in legislative or regulatory requirements of
+    foreign countries into which we sell our products;
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    difficulties in obtaining export licenses or in overcoming other
+    trade barriers and restrictions resulting in delivery
+    delays; and
+
+
+
+
+ 
+
+
+
+     
+        • 
+
+    
+    significant taxes or other burdens of complying with a variety
+    of foreign laws.
+
+
+
+
+
+ 
+
+
+    Changes in the value of the relevant currencies may affect the
+    cost of certain items required in our operations. Changes in
+    currency exchange rates may also affect the relative prices at
+    which we are able sell products in the same market. Our revenues
+    from international customers may be negatively impacted as
+    increases in the U.S. dollar relative to our international
+    customers local currency could make our products more expensive,
+    impacting our ability to compete. Our costs of materials from
+    international suppliers may increase if in order to continue
+    doing business with us they raise their prices as the value of
+    the U.S. dollar decreases relative to their local currency.
+    Foreign policies and actions regarding currency valuation could
+    result in actions by the United States and other countries to
+    offset the effects of such fluctuations. The recent global
+    financial downturn has led to a high level of volatility in
+    foreign currency exchange rates and that level of volatility may
+    continue, which could adversely affect our business, financial
+    condition, or results of operations.
+
+
+ 
+
+
+
+    We are
+    subject to risks related to taxation in multiple jurisdictions
+    and the possible loss of the tax deduction on our outstanding
+    convertible notes.
+
+
+ 
+
+
+    We are subject to income taxes in both the United States and
+    numerous foreign jurisdictions. Significant judgments based on
+    interpretations of existing tax laws or regulations are required
+    in determining the provision for income taxes. Our effective
+    income tax rate could be adversely affected by various factors,
+    including, but not limited to, changes in the mix of earnings in
+    tax jurisdictions with different statutory tax rates, changes in
+    the valuation of deferred tax assets and liabilities, changes in
+    existing tax laws or tax rates,
+
+
+
+
+
+    
+    21
+
+
+
+Table of Contents
+
+
+
+
+
+    changes in the level of non-deductible expenses (including
+    share-based compensation), changes in our future levels of
+    research and development spending, mergers and acquisitions, or
+    the result of examinations by various tax authorities.
+
+
+ 
+
+
+    In addition, we could lose some or all of the tax deduction for
+    interest expense associated with our $400 million aggregate
+    principal amount of convertible notes due in 2014 if these notes
+    are not subject to the special Treasury Regulations governing
+    contingent payment debt instruments, the notes are converted, or
+    we invest in non-taxable investments.
+
+
+ 
+
+
+
+    Any
+    inability to effectively protect our proprietary technologies
+    could harm our competitive position.
+
+
+ 
+
+
+    Our success depends to a large extent on our ability to develop
+    proprietary products and technologies and to obtain patents and
+    maintain adequate protection of our intellectual property in the
+    United States and other countries. If we do not protect our
+    intellectual property adequately, competitors may be able to use
+    our technologies and thereby erode our competitive advantage.
+    The laws of some foreign countries do not protect proprietary
+    rights to the same extent as the laws of the United States, and
+    many companies have encountered significant challenges in
+    establishing and enforcing their proprietary rights outside of
+    the United States. These challenges can be caused by the absence
+    of rules and methods for the establishment and enforcement of
+    intellectual property rights outside of the United States.
+
+
+ 
+
+
+    The patent positions of companies developing tools for the life
+    sciences, agricultural, and pharmaceutical industries, including
+    our patent position, generally are uncertain and involve complex
+    legal and factual questions. We will be able to protect our
+    proprietary rights from unauthorized use by third parties only
+    to the extent that our proprietary technologies are covered by
+    valid and enforceable patents or are effectively maintained as
+    trade secrets. In addition, patent applications in the United
+    States may be maintained in secrecy until patents issue, and
+    publication of discoveries in the scientific or patent
+    literature tend to lag behind actual discoveries by several
+    months. We intend to apply for patents covering our technologies
+    and products as we deem appropriate. However, our patent
+    applications may be challenged and may not result in issued
+    patents or may be invalidated or narrowed in scope after they
+    are issued. Questions as to inventorship or ownership may also
+    arise. Any finding that our patents or applications are
+    unenforceable could harm our ability to prevent others from
+    practicing the related technology, and a finding that others
+    have inventorship or ownership rights to our patents and
+    applications could require us to obtain certain rights to
+    practice related technologies, which may not be available on
+    favorable terms, if at all. Furthermore, as issued patents
+    expire, we may lose some competitive advantage as others develop
+    competing products, and, as a result, we may lose revenue.
+
+
+ 
+
+
+    In addition, our existing patents and any future patents we
+    obtain may not be sufficiently broad to prevent others from
+    practicing our technologies or from developing competing
+    products. There is also the risk that others may independently
+    develop similar or alternative technologies or design around our
+    patented technologies. Also, our patents may fail to provide us
+    with any competitive advantage. We may need to initiate lawsuits
+    to protect or enforce our patents, or litigate against third
+    party claims, which would be expensive, and, if we lose, may
+    cause us to lose some of our intellectual property rights and
+    reduce our ability to compete in the marketplace. Furthermore,
+    these lawsuits may divert the attention of our management and
+    technical personnel.
+
+
+ 
+
+
+    We also rely upon trade secrets and proprietary know-how
+    protection for our confidential and proprietary information, and
+    we have taken security measures to protect this information.
+    These measures, however, may not provide adequate protection for
+    our trade secrets, know-how, or other confidential information.
+    Among other things, we seek to protect our trade secrets and
+    confidential information by entering into confidentiality
+    agreements with employees, collaborators, and consultants. There
+    can be no assurance that any confidentiality agreements that we
+    have with our employees, collaborators, and consultants will
+    provide meaningful protection for our trade secrets and
+    confidential information or will provide adequate remedies in
+    the event of unauthorized use or disclosure of such information.
+    Accordingly, there also can be no assurance that our trade
+    secrets will not otherwise become known or be independently
+    developed by competitors.
+
+
+
+
+    
+    22
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Litigation,
+    other proceedings, or third party claims of intellectual
+    property infringement could require us to spend significant time
+    and money and could prevent us from selling our products or
+    services.
+
+
+ 
+
+
+    Our success depends, in part, on our non-infringement of the
+    patents or proprietary rights of third parties. Third parties
+    have asserted and may in the future assert that we are employing
+    their proprietary technology without authorization. As we enter
+    new markets, we expect that competitors will likely claim that
+    our products infringe their intellectual property rights as part
+    of a business strategy to impede our successful entry into those
+    markets. In addition, third parties may have obtained and may in
+    the future obtain patents allowing them to claim that the use of
+    our technologies infringes these patents. We could incur
+    substantial costs and divert the attention of our management and
+    technical personnel in defending ourselves against any of these
+    claims. Any adverse ruling or perception of an adverse ruling in
+    defending ourselves against these claims could have an adverse
+    impact on our stock price, which may be disproportionate to the
+    actual import of the ruling itself. Furthermore, parties making
+    claims against us may be able to obtain injunctive or other
+    relief, which effectively could block our ability to develop
+    further, commercialize, or sell products, and could result in
+    the award of substantial damages against us. In the event of a
+    successful infringement claim against us, we may be required to
+    pay damages and obtain one or more licenses from third parties,
+    or be prohibited from selling certain products. In addition, we
+    may be unable to obtain these licenses at a reasonable cost, if
+    at all. We could therefore incur substantial costs related to
+    royalty payments for licenses obtained from third parties, which
+    could negatively affect our gross margins. In addition, we could
+    encounter delays in product introductions while we attempt to
+    develop alternative methods or products. Defense of any lawsuit
+    or failure to obtain any of these licenses on favorable terms
+    could prevent us from commercializing products, and the
+    prohibition of sale of any of our products could adversely
+    affect our ability to grow or maintain profitability.
+
+
+ 
+
+
+
+    Our
+    products, if used for the diagnosis of disease, could be subject
+    to government regulation, and the regulatory approval and
+    maintenance process for such products may be expensive,
+    time-consuming, and uncertain both in timing and in
+    outcome.
+
+
+ 
+
+
+    Our products are not currently subject to FDA clearance or
+    approval if they are not intended to be used for the diagnosis
+    of disease. However, as we expand our product line to encompass
+    products that are intended to be used for the diagnosis of
+    disease, certain of our products are likely to become subject to
+    regulation by the FDA, or comparable agencies of other
+    countries, including requirements for regulatory approval of
+    such products before they can be marketed. Such regulatory
+    approval processes or clearances may be expensive,
+    time-consuming, and uncertain, and our failure to obtain or
+    comply with such approvals and clearances could have an adverse
+    effect on our business, financial condition, or operating
+    results. In addition, changes to the current regulatory
+    framework, including the imposition of additional or new
+    regulations, could arise at any time during the development or
+    marketing of our products, which may negatively affect our
+    ability to obtain or maintain FDA or comparable regulatory
+    approval of our products, if required.
+
+
+ 
+
+
+    Molecular diagnostic products, in particular, depending on their
+    intended use, may be regulated as medical devices by the FDA and
+    comparable agencies of other countries and may require either
+    receiving clearance from the FDA following a pre-market
+    notification process or premarket approval from the FDA, in each
+    case prior to marketing. Obtaining the requisite regulatory
+    approvals can be expensive and may involve considerable delay.
+    If we fail to obtain, or experience significant delays in
+    obtaining, regulatory approvals for molecular diagnostic
+    products that we develop, we may not be able to launch or
+    successfully commercialize such products in a timely manner, or
+    at all.
+
+
+ 
+
+
+    In addition, the regulatory approval or clearance process
+    required to manufacture, market, and sell our existing and
+    future products that are intended for, and marketed and labeled
+    as, “Research Use Only,” or RUO, is uncertain if such
+    products are used or could be used, even without our consent,
+    for the diagnosis of disease. If the FDA or other regulatory
+    authorities assert that any of our RUO products are subject to
+    regulatory clearance or approval, our business, financial
+    condition, or results of operations could be adversely affected.
+
+
+
+
+    
+    23
+
+
+
+Table of Contents
+
+
+
+
+
+
+    Our
+    operating results may vary significantly from period to period,
+    and we may not be able to sustain operating
+    profitability.
+
+
+ 
+
+
+    Our revenue is subject to fluctuations due to the timing of
+    sales of high-value products and services, the effects of new
+    product launches and related promotions, the impact of seasonal
+    spending patterns, the timing and size of research projects our
+    customers perform, the timing of our customers’ funding,
+    changes in overall spending levels in the life sciences
+    industry, and other unpredictable factors that may affect
+    customer ordering patterns. Given the difficulty in predicting
+    the timing and magnitude of sales for our products and services,
+    we may experience
+    quarter-to-quarter
+    fluctuations in revenue resulting in the potential for a
+    sequential decline in quarterly revenue. While we anticipate
+    future growth, there is some uncertainty as to the timing of
+    revenue recognition on a quarterly basis. This is because a
+    substantial portion of our quarterly revenue is typically
+    recognized in the last month of a quarter and because the
+    pattern for revenue generation during that month is normally not
+    linear, with a concentration of orders in the final week of the
+    quarter. In light of that, our revenue cut-off and recognition
+    procedures, together with our manufacturing and shipping
+    operations, may experience increased pressure and demand during
+    the time period shortly before the end of a fiscal quarter.
+
+
+ 
+
+
+    A large portion of our expenses is relatively fixed, including
+    expenses for facilities, equipment, and personnel. In addition,
+    we expect operating expenses to continue to increase
+    significantly in absolute dollars, and we expect that our
+    research and development and selling and marketing expenses will
+    increase at a higher rate in the future as a result of the
+    development and launch of new products. Accordingly, our ability
+    to sustain profitability will depend, in part, on the rate of
+    growth, if any, of our revenue and on the level of our expenses,
+    and if revenue does not grow as anticipated, we may not be able
+    to maintain annual or quarterly profitability. Any significant
+    delays in the commercial launch of our products, unfavorable
+    sales trends in our existing product lines, or impacts from the
+    other factors mentioned above, could adversely affect our future
+    revenue growth or cause a sequential decline in quarterly
+    revenue. In addition, non-cash stock-based compensation expense
+    and expenses related to prior and future acquisitions are also
+    likely to continue to adversely affect our future profitability.
+    Due to the possibility of significant fluctuations in our
+    revenue and expenses, particularly from quarter to quarter, we
+    believe that quarterly comparisons of our operating results are
+    not a good indication of our future performance. If our
+    operating results fluctuate or do not meet the expectations of
+    stock market analysts and investors, our stock price could
+    decline.
+
+
+ 
+
+
+    From time to time, we receive large orders that have a
+    significant effect on our operating results in the period in
+    which the order is recognized as revenue. The timing of such
+    orders is difficult to predict, and the timing of revenue
+    recognition from such orders may affect period to period changes
+    in net sales. As a result, our operating results could vary
+    materially from quarter to quarter based on the receipt of such
+    orders and their ultimate recognition as revenue.
+
+
+ 
+
+
+
+    Changes
+    in accounting standards and subjective assumptions, estimates,
+    and judgments by management related to complex accounting
+    matters could significantly affect our financial results or
+    financial condition.
+
+
+ 
+
+
+    Generally accepted accounting principles and related accounting
+    pronouncements, implementation guidelines, and interpretations
+    with regard to a wide range of matters that are relevant to our
+    business, such as revenue recognition, asset impairment and fair
+    value determinations, inventories, business combinations and
+    intangible asset valuations, and litigation, are highly complex
+    and involve many subjective assumptions, estimates, and
+    judgments. Changes in these rules or their interpretation or
+    changes in underlying assumptions, estimates, or judgments could
+    significantly change our reported or expected financial
+    performance or financial condition. In addition, the timing of
+    large orders can have a significant effect on our business and
+    operating results from quarter to quarter.
+
+
+ 
+
+
+
+    Ethical,
+    legal, and social concerns related to the use of genetic
+    information could reduce demand for our products or
+    services.
+
+
+ 
+
+
+    Genetic testing has raised ethical, legal, and social issues
+    regarding privacy and the appropriate uses of the resulting
+    information. Governmental authorities could, for social or other
+    purposes, call for limits on or
+
+
+
+
+
+    
+    24
+
+
+
+Table of Contents
+
+
+
+
+
+    regulation of the use of genetic testing or prohibit testing for
+    genetic predisposition to certain conditions, particularly for
+    those that have no known cure. Similarly, such concerns may lead
+    individuals to refuse to use genetics tests even if permissible.
+    These and other ethical, legal, and social concerns about
+    genetic testing may limit market acceptance of our technology
+    for certain applications or reduce the potential markets for our
+    technology, either of which could have an adverse effect on our
+    business, financial condition, or results of operations.
+
+
+ 
+
+
+
+
+
+    
+    
+
+
+
+    
+    Item 1B

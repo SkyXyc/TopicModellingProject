@@ -1,0 +1,3310 @@
+Item 1A. Risk Factors” and in the “Forward-Looking Statements – Cautionary Language” in “Part II – Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” (“MD&A”) of the Form 10-K.  Our consolidated financial statements and the accompanying notes to the consolidated financial statements (“Notes”) are presented in “Part II – Item 8. Financial Statements and Supplementary Data.”		
+		
+			 
+		
+		
+			Item 1.  Business 
+		
+		
+			 
+		
+		
+			OVERVIEW
+		
+		
+			 
+		
+		
+			Lincoln National Corporation (“LNC,” which also may be referred to as “Lincoln,” “we,” “our” or “us”) is a holding company, which operates multiple insurance and retirement businesses through subsidiary companies.  Through our business segments, we sell a wide range of wealth protection, accumulation and retirement income products and solutions.  These products include fixed and indexed annuities, variable annuities, universal life insurance (“UL”), variable universal life insurance (“VUL”), linked-benefit UL, term life insurance, indexed universal life insurance (“IUL”), employer-sponsored retirement plans and services, and group life, disability and dental.  LNC was organized under the laws of the state of Indiana in 1968.  We currently maintain our principal executive offices in Radnor, Pennsylvania.  “Lincoln Financial Group” is the marketing name for LNC and its subsidiary companies.  As of December 31, 2014, LNC had consolidated assets of $253.4 billion and consolidated stockholders’ equity of $15.7 billion.		
+		
+			 
+		
+		
+			We provide products and services and report results through four segments as follows:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Business Segments
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Annuities
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Retirement Plan Services
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Life Insurance
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Group Protection
+				
+				
+					
+						 
+				
+			
+		
+		
+			 
+		
+		
+			We also have Other Operations, which includes the financial data for operations that are not directly related to the business segments.  
+		
+		
+			 
+		
+		
+			The results of Lincoln Financial Network (“LFN”) and Lincoln Financial Distributors (“LFD”), our retail and wholesale distributors, respectively, are included in the segments for which they distribute products.  LFD distributes our individual products and services, retirement plans and corporate-owned UL and VUL (“COLI”) and bank-owned UL and VUL (“BOLI”) products and services.  The distribution occurs primarily through consultants, brokers, planners, agents, financial advisors, third-party administrators (“TPAs”) and other intermediaries.  Group Protection distributes its products and services primarily through employee benefit brokers, TPAs and other employee benefit firms.  As of December 31, 2014, LFD had approximately 610 internal and external wholesalers (including sales managers).  As of December 31, 2014, LFN offered LNC and non-proprietary products and advisory services through a national network of approximately 8,460 active producers who placed business with us within the last 12 months.  		
+		
+			 
+		
+		
+			Financial information in the tables that follow is presented in conformity with accounting principles generally accepted in the United States of America (“GAAP”), unless otherwise indicated.  We provide revenues, income (loss) from operations and assets attributable to each of our business segments and Other Operations in Note 22.  Assets, revenues and earnings attributable to foreign activities were not material in the periods presented.
+		
+		
+			 
+		
+		
+			Acquisitions and Dispositions
+		
+		
+			 
+		
+		
+			On July 25, 2011, Newton County Loan & Savings, FSB (“NCLS”), our wholly-owned subsidiary, submitted a voluntary plan of dissolution with the Officer of the Comptroller of the Currency (“OCC”).  The OCC approved NCLS’s voluntary dissolution effective November 30, 2011.   
+		
+		
+			 
+		
+		
+			On December 7, 2014, we entered into a stock purchase agreement with Entercom Communications Corp. (“Entercom Parent”) and Entercom Radio, LLC (“Entercom”), pursuant to which we agreed to sell Lincoln Financial Media Company, our media properties, to Entercom for $105 million consisting of cash and perpetual cumulative convertible preferred stock of Entercom Parent.  The transaction is subject to Federal Communications Commission, Hart-Scott-Rodino (“H-S-R”) and other customary regulatory approvals and closing conditions.  As a result of a request for additional information under the H-S-R Act, closing may be delayed beyond the second quarter of 2015. 		
+		
+			 
+		
+		
+			For further information about acquisitions and divestitures, see Note 3.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 1
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		BUSINESS SEGMENTS AND OTHER OPERATIONS
+		
+		
+			 
+		
+		
+			ANNUITIES
+		
+		
+			 
+		
+		
+			Overview
+		
+		
+			 
+		
+		
+			The Annuities segment provides tax-deferred investment growth and lifetime income opportunities for its clients by offering fixed (including indexed) and variable annuities.  The “fixed” and “variable” classifications describe whether we or the contract holders bear the investment risk of the assets supporting the contract.  This also determines the manner in which we earn investment margin profits from these products, either as investment spreads for fixed products or as asset-based fees charged to variable products. 
+		
+		
+			 
+		
+		
+			Annuities have several features that are attractive to customers.  First, annuities are unique in that contract holders can select a variety of payout alternatives to help provide an income flow for life.  Many annuity contracts include guarantee features (living and death benefits) that are not found in any other investment vehicle and, we believe, make annuities attractive especially in times of economic uncertainty.  Second, annuities offer tax-deferred growth on the underlying principal, thereby deferring the tax consequences of the growth in value until withdrawals are made from the accumulation values, often at lower tax rates occurring during retirement.		
+		
+			 
+		
+		
+			Products 
+		
+		
+			 
+		
+		
+			In general, an annuity is a contract between an insurance company and an individual or group in which the insurance company, after receipt of one or more premium payments, agrees to pay an amount of money either in one lump sum or on a periodic basis (i.e., annually, semi-annually, quarterly or monthly), beginning on a certain date and continuing for a period of time as specified in the contract or as requested.  Periodic payments can begin within 12 months after the premium is received (referred to as an immediate annuity) or at a future date in time (referred to as a deferred annuity).  This retirement vehicle helps protect an individual from outliving his or her money. 
+		
+		
+			 
+		
+		
+			Variable Annuities 
+		
+		
+			 
+		
+		
+			A variable annuity provides the contract holder the ability to direct the investment of premium deposits into one or more variable sub-accounts (“variable funds”) offered through the product (“variable portion”) and into a fixed account with a guaranteed return (“fixed portion”).  The value of the variable portion of the contract holder’s account varies with the performance of the underlying variable funds chosen by the contract holder.  		
+		
+			 
+		
+		
+			Our variable funds include the Managed Risk Strategies fund options, a series of funds that embed volatility risk management and, with some funds, capital protection strategies, inside the funds themselves.  These funds, introduced in late 2011, seek to reduce equity market risk for both the contract holder and us.  As of December 31, 2014 and 2013, the Managed Risk Strategies funds totaled $28.7 billion and $20.2 billion, or 28% and 21% of total variable annuity account values, respectively.		
+		
+			 
+		
+		
+			We charge mortality and expense assessments and administrative fees on variable annuity accounts to cover insurance and administrative expenses.  These assessments are built into accumulation unit values, which when multiplied by the number of units owned for any variable fund equals the contract holder’s account value for that variable fund.  In addition, for some contracts, we impose surrender charges, which are typically applicable during the early years of the annuity contract, with a declining level of surrender charges over time.
+		
+		
+			 
+		
+		
+			We offer guaranteed benefit riders with certain of our variable annuity products, such as a guaranteed death benefit (“GDB”), a guaranteed withdrawal benefit (“GWB”), a guaranteed income benefit (“GIB”) and a combination of such benefits.  
+		
+		
+			 
+		
+		
+			The GDB features offered in 2014 included those where we contractually guarantee to the contract holder that upon death, depending on the particular product, we will return no less than:  the current contract value; the total deposits made to the contract, adjusted to reflect any partial withdrawals; the highest contract value on a specified anniversary date adjusted to reflect any partial withdrawals following the contract anniversary; or the current contract value plus a specified percentage of contract earnings, not to exceed a covered earnings limit.
+		
+		
+			 
+		
+		
+			In 2014, we offered product riders including the Lincoln Lifetime IncomeSM Advantage 2.0 (Managed Risk) and Lincoln Lifetime IncomeSM Advantage 2.0 riders, which are hybrid benefit riders combining aspects of GWB and GIB.  These benefit riders allow the contract holder the ability to take income at a maximum rate of up to 5% of the guaranteed amount when they are above the lifetime income age or income through i4LIFE® Advantage with the GIB.  Lincoln Lifetime Income Advantage 2.0 (Managed Risk) and Lincoln Lifetime Income Advantage 2.0 riders provide higher income if the contract holder delays withdrawals, including both a 5% enhancement to the guaranteed amount each year a withdrawal is not taken for a specified period of time and an annual step-up of the guaranteed amount to the current contract value.  Contract holders under Lincoln Lifetime Income Advantage 2.0 (Managed Risk) are subject to the allocation of their account value to our Managed Risk Strategies fund options and certain fixed-income options.  Contract holders under Lincoln Lifetime Income Advantage 2.0 are subject to restrictions on the allocation of their account value within the various investment choices. 		
+		
+			 
+		
+		
+			We also offered the i4LIFE® Advantage,  i4LIFE® Advantage Guaranteed Income Benefit (Managed Risk) and i4LIFE® Advantage Guaranteed Income Benefit riders.  These riders, which are covered by U.S. patents, allow variable annuity contract holders access and control during a portion of the income distribution phase of their contract.  This added flexibility allows the contract holder to access the account value for transfers, additional withdrawals and other service features like portfolio rebalancing.  In general, GIB is an optional 		
+		 
+
+		
+
+			 2
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		feature available with i4LIFE Advantage and a non-optional feature on i4LIFE Advantage Guaranteed Income Benefit (Managed Risk) and i4LIFE Advantage Guaranteed Income Benefit that guarantees regular income payments will not fall below the greater of a minimum income floor set at benefit issue and 75% of the highest income payment on a specified anniversary date (reduced for any subsequent withdrawals).  Contract holders under i4LIFE Advantage Guaranteed Income Benefit (Managed Risk) are subject to the allocation of their account value to our Managed Risk Strategies fund options and certain fixed-income options.  Contract holders under i4LIFE Advantage Guaranteed Income Benefit are subject to restrictions on the allocation of their account value within the various investment choices.  		
+		
+			 
+		
+		
+			We also offered the 4LATER® Advantage (Managed Risk) rider.  This rider provides a minimum income base used to determine the GIB floor when a client begins income payments under i4LIFE Advantage Guaranteed Income Benefit (Managed Risk).  4LATER Advantage (Managed Risk) rider provides growth during the accumulation phase through both a 5% enhancement to the income base each year a withdrawal is not taken for a specified period of time and an annual step-up of the income base to the current contract value.  Contract holders under the 4LATER Advantage (Managed Risk) rider are subject to the allocation of their account value to our Managed Risk Strategies fund options and certain fixed-income options.		
+		
+			 
+		
+		
+			We design and actively manage the features and structure of our guaranteed benefit riders to maintain a competitive suite of products consistent with profitability and risk management goals.  To mitigate the increased risks associated with guaranteed benefits, we developed a dynamic hedging program.  The customized dynamic hedging program uses equity, interest rate and currency futures positions, interest rate and total return swaps and equity-based options depending upon the risks underlying the guarantees.  For more information on our hedging program, see “Critical Accounting Policies and Estimates – Derivatives” and “Realized Gain (Loss) and Benefit Ratio Unlocking” in the MD&A.  For information regarding risks related to guaranteed benefits, see “Item 1A. Risk Factors – Market Conditions – Changes in the equity markets, interest rates and/or volatility affect the profitability of our products with guaranteed benefits; therefore, such changes may have a material adverse effect on our business and profitability.”		
+		
+			 
+		
+		
+			In 2014, we also launched Lincoln Investor AdvantageSM, an investment-focused variable annuity product delivering tax efficient growth and income without associated guaranteed benefit riders.
+		
+		
+			 
+		
+		
+			Although we do not have any significant concentration of customers, our American Legacy Variable Annuity (“ALVA”) product is significant to this segment.  The ALVA product accounted for 20%, 17% and 19% of our variable annuity product deposits in 2014, 2013 and 2012, respectively, and represented 44%, 47% and 50% of the segment’s total variable annuity product account values as of December 31, 2014, 2013 and 2012, respectively.  In addition, fund choices for certain of our other variable annuity products offered include American Fund Insurance SeriesSM (“AFIS”) funds.  AFIS funds accounted for 22%, 19% and 21% of variable annuity product deposits in 2014, 2013 and 2012, respectively, and represented 50%, 54% and 58% of the segment’s total variable annuity product account values as of December 31, 2014, 2013 and 2012, respectively.		
+		
+			 
+		
+		
+			Fixed Annuities 
+		
+		
+			 
+		
+		
+			A fixed annuity preserves the principal value of the contract while guaranteeing a minimum interest rate to be credited to the accumulation value.  Our fixed annuity product offerings as of December 31, 2014, consisted of traditional fixed-rate and fixed indexed deferred annuities, as well as fixed-rate immediate and deferred income annuities with various payment options, including lifetime incomes.  Fixed annuity contracts are general account obligations.  We bear the investment risk for fixed annuity contracts.  To protect from premature withdrawals, we impose surrender charges.  Surrender charges are typically applicable during the early years of the annuity contract, with a declining level of surrender charges over time.  We expect to earn a spread between what we earn on the underlying general account investments supporting the fixed annuity product line and what we credit to our fixed annuity contract holders’ accounts.		
+		
+			 
+		
+		
+			We offer single and flexible premium fixed deferred annuities.  Single premium fixed deferred annuities are contracts that allow only a single premium to be paid.  Flexible premium fixed deferred annuities are contracts that allow multiple premium payments on either a scheduled or non-scheduled basis.  
+		
+		
+			 
+		
+		
+			Our traditional fixed-rate deferred annuity products include Lincoln ClassicSolutionSM Fixed Annuity, Lincoln SelectSM,  Lincoln Smart CourseSM Fixed Annuity and Lincoln MYGuaranteeSM Plus Fixed Annuity.  We also offer income annuities, including an immediate income annuity, Lincoln Insured IncomeSM Annuity, and deferred income annuities, Lincoln Deferred Income SolutionsSM Annuity and Lincoln Deferred Income PlannerSM Annuity.		
+		
+			 
+		
+		
+			Our fixed indexed deferred annuity products include Lincoln OptiPoint®, Lincoln OptiChoiceSM,  Lincoln New Directions® and Prime Income OptimizerTM.  Our fixed indexed annuities provide the contract holder with interest crediting potential based on the performance of the Standard & Poor’s (“S&P”) 500 Index® (“S&P 500”).  The indexed interest credit is guaranteed never to be less than zero.  Available with certain of our fixed indexed annuities, Lincoln Lifetime IncomeSM Edge provides the contract holder a guaranteed lifetime withdrawal benefit.  Withdrawals in excess of the free amount are assessed any applicable surrender charges, and the guaranteed withdrawal amount is recalculated.  We use derivatives to hedge the equity market risk associated with our fixed indexed annuity products.  For more information on our hedging program, see “Critical Accounting Policies and Estimates – Derivatives” and “Realized Gain (Loss) and Benefit Ratio Unlocking” in the MD&A.		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 3
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Distribution 
+		
+		
+			 
+		
+		
+			The Annuities segment distributes its individual fixed and variable annuity products through LFD.  LFD’s distribution channels give the Annuities segment access to its target markets.  LFD distributes the segment’s products to a large number of financial intermediaries, including LFN.  The financial intermediaries include wire/regional firms, independent financial planners, financial institutions and managing general agents.
+		
+		
+			 
+		
+		
+			Competition 
+		
+		
+			 
+		
+		
+			The annuities market is very competitive and consists of many companies, with no one company dominating the market for all products.  The Annuities segment competes with numerous other financial services companies.  The main factors upon which entities in this market compete are distribution channel access and the quality of wholesalers, investment performance, cost, product features, speed to market, brand recognition, financial strength ratings, crediting rates and client service.
+		
+		
+			 
+		
+		
+			RETIREMENT PLAN SERVICES
+		
+		
+			 
+		
+		
+			Overview
+		
+		
+			 
+		
+		
+			The Retirement Plan Services segment provides employers with retirement plan products and services, primarily in the defined contribution retirement plan marketplace.  While our focus is employer-sponsored defined contribution plans, we also serve the defined benefit plan and individual retirement account (“IRA”) markets.  We provide a variety of plan investment vehicles, including individual and group variable annuities, group fixed annuities and mutual fund-based programs.  We also offer a broad array of plan services including plan recordkeeping, compliance testing, participant education and trust and custodial services through our affiliated trust company, the Lincoln Financial Group Trust Company.
+		
+		
+			 
+		
+		
+			Defined contribution plans are a popular employee benefit offered by many employers across a wide spectrum of industries and by employers large and small.  Retirement Plan Services primarily focuses on the mid to large market, which accounted for 52% of this segment’s total assets under management as of December 31, 2014.  In addition, Retirement Plan Services focuses on the small market 401(k) business, which accounted for 16% of this segment’s total assets under management as of December 31, 2014.  		
+		
+			 
+		
+		
+			Products and Services
+		
+		
+			 
+		
+		
+			The Retirement Plan Services segment currently brings three primary offerings to the employer-sponsored market:  LINCOLN DIRECTORSM group variable annuity, LINCOLN ALLIANCE® program and Multi-Fund® variable annuity.  Retirement Plan Services also provides a series of IRA products, including the Lincoln Next Step® and the Lincoln Next Step SelectSM IRA.  Additionally, in 2014 we introduced the Lincoln Secured Retirement IncomeSM, a new GWB product available through a group variable annuity contract. 		
+		
+			 
+		
+		
+			LINCOLN DIRECTOR and Multi-Fund products are variable annuities.  The LINCOLN ALLIANCE program is a  mutual fund-based record-keeping platform.  These offerings primarily cover the 403(b), 401(k) and 457 plan marketplace.  The 403(b) plans are available to employees of educational institutions, not-for-profit healthcare organizations and certain other not-for-profit entities; 401(k) plans are generally available to employees of for-profit entities; and 457 plans are available to employees of not-for-profit entities and state and local government entities.  The investment options for our annuities encompass the spectrum of asset classes with varying levels of risk and include both equity and fixed-income.  		
+		
+			 
+		
+		
+			LINCOLN DIRECTOR  group variable annuity is a 401(k) defined contribution retirement plan solution available to small businesses, typically those with plans having less than $2 million in account values.  The LINCOLN DIRECTOR product offers participants a broad array of investment options from several fund families and a fixed account.  The Retirement Plan Services segment earns revenue through asset charges, investment management fees, surrender charges and recordkeeping fees from this product.  We also receive fees from the underlying mutual fund companies for the services we provide, and we earn investment margins on assets in the fixed account.  		
+		
+			 
+		
+		
+			The LINCOLN ALLIANCE program is a defined contribution retirement plan solution aimed at mid to large employers, typically those that have defined contribution plans with $2 million or more in account value.  The target market is primarily corporations, educational institutions,  healthcare providers and public sector employers.  The program bundles our traditional fixed annuity products with the employer’s choice of mutual funds, along with recordkeeping, plan compliance services and customized employee education services.  The program allows the use of any mutual fund.  We earn fees for our recordkeeping and educational services and other services that we provide to plan sponsors and participants.  We also earn investment margins on fixed annuities.		
+		
+			 
+		
+		
+			Multi-Fund Variable Annuity is a defined contribution retirement plan solution with full-bundled administrative services and investment choices for small- to mid-sized healthcare, education, governmental and not-for-profit plans.  The product is available to the employer through the Multi-Fund group variable annuity contract or directly to the individual through the Multi-Fund Select variable annuity contract.  We earn mortality and expense charges, investment income on the fixed account and surrender charges from this product.  We also receive fees for services that we provide to funds in the underlying separate accounts. 		
+		
+			 
+		
+		
+			The Lincoln  Next  Step series of products is a suite of mutual fund-based IRAs available exclusively for participants in Lincoln-serviced retirement plans and their spouses.  The products can accept rollovers and transfers from other providers as well as ongoing 		
+		 
+
+		
+
+			 4
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		contributions.  The Lincoln Next Step IRA product has no annual account charges and offers an array of mutual fund investment options provided by 20 fund families all offered at net asset value.  The Lincoln Next Step Select IRA has an annual record keeping charge and offers an even wider array of mutual fund investment options from more than 20 families, all at net asset value.  We earn 12b-1 and service fees on the mutual funds within the product.		
+		
+			 
+		
+		
+			In 2014, Retirement Plan Services developed and launched the Lincoln Secured Retirement IncomeSM product, a GWB available through group variable annuity contracts.
+		
+		
+			 
+		
+		
+			Distribution 
+		
+		
+			 
+		
+		
+			Retirement Plan Services products are primarily distributed in two ways:  through our Institutional Retirement Distribution team and by LFD.  Wholesalers distribute these products through advisors, consultants, banks, wirehouses, TPAs and individual planners.  We expanded the distribution of the segment’s products by growing the number of wholesalers as of the end of 2014 to 71 and also by other means including continuing to increase relationship management expertise and growing the number of broker-dealer relationships.		
+		
+			 
+		
+		
+			The Multi-Fund® program is sold primarily by affiliated advisors.  The LINCOLN ALLIANCE® program is sold primarily through consultants, registered independent advisors, and both affiliated and non-affiliated financial advisors, planners and wirehouses.  LINCOLN DIRECTORSM group variable annuity is sold in the small marketplace by intermediaries, including financial advisors, TPAs, planners and wirehouses.		
+		
+			 
+		
+		
+			Competition 
+		
+		
+			 
+		
+		
+			The retirement plan marketplace is very competitive and is comprised of many providers with no one company dominating the market for all products.  As stated above, we compete in the small, mid and large markets.  We compete with numerous other financial services companies.  The main factors upon which entities in this market compete are distribution channel access and the quality of wholesalers, investment performance, cost, product features, speed to market, brand recognition, financial strength ratings, crediting rates, client service and client compliance and fiduciary services.  
+		
+		
+			 
+		
+		
+			LIFE INSURANCE
+		
+		
+			 
+		
+		
+			Overview
+		
+		
+			 
+		
+		
+			The Life Insurance segment focuses on the creation and protection of wealth for its clients by providing life insurance products, including term insurance, both single (including COLI and BOLI) and survivorship versions of UL, VUL and IUL products, a linked-benefit product (which is UL with riders providing for long-term care costs) and a critical illness rider, which can be attached to UL, VUL or IUL policies.    Some of our products include secondary guarantees, which are discussed more fully below. 		
+		
+			 
+		
+		
+			Generally, this segment has higher sales during the second half of the year with the fourth quarter being the strongest.  
+		
+		
+			 
+		
+		
+			Mortality margins, morbidity margins, investment margins, expense margins and surrender fees drive life insurance profits.  Mortality margins, morbidity margins, and some expense assessments are a function of the rates priced into the product and level of insurance in force.  Insurance in force, in turn, is driven by sales, persistency and mortality experience. 
+		
+		
+			 
+		
+		
+			Similar to the annuity product classifications described above, life products can be classified as “fixed” (including indexed) or “variable” contracts.  This classification describes whether we or the contract holders bear the investment risk of the assets supporting the policy.  This also determines the manner in which we earn investment margin profits from these products, either as investment spreads for fixed products or as asset-based fees charged to variable products. 
+		
+		
+			 
+		
+		
+			Products 
+		
+		
+			 
+		
+		
+			We offer four categories of life insurance products consisting of: 
+		
+		
+			 
+		
+		
+			Interest-Sensitive Life Insurance
+		
+		
+			 
+		
+		
+			Interest-sensitive life insurance products provide life insurance with account values that earn rates of return based on company-declared interest rates.  Contract holder account values are invested in our general account investment portfolio, so we bear the risk of investment performance.  
+		
+		
+			 
+		
+		
+			In a UL contract, contract holders typically have flexibility in the timing and amount of premium payments and the amount of death benefit, provided there is sufficient account value to cover all policy charges for mortality and expenses for the coming period.  Under certain contract holder options and market conditions, the death benefit amount may increase or decrease.  Premiums received on a UL product, net of expense loads and charges, are added to the contract holder’s account value.  The client has access to their account value (or a portion thereof), less surrender charges and policy loan payoffs, through contractual liquidity features such as loans, partial withdrawals and full surrenders.  Loans and withdrawals reduce the death benefit amount payable and are limited to certain contractual maximums (some of which are required under state law), and interest is charged on all loans.  Our UL contracts assess surrender charges 		
+		 
+
+		
+
+			 5
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		against the policies’ account values for full or partial surrenders and certain policy changes that occur during the contractual surrender charge period.  Depending on the product selected, surrender charge periods can range from 0 to 25 years.
+		
+		
+			 
+		
+		
+			We also offer fixed IUL products that function similarly to a traditional UL policy, with the added flexibility of allowing contract holders to have portions of their account values earn credits based on the performance of indexes such as the S&P 500 or the 10-year Treasury yield.
+		
+		
+			 
+		
+		
+			As mentioned previously, we offer survivorship versions of our individual UL and IUL products.  These products insure two lives with a single policy and pay death benefits upon the second death.
+		
+		
+			 
+		
+		
+			Reserves on UL products with secondary guarantees represented approximately 30% of total life reserves for the years ended December 31, 2014 and 2013, respectively.  A UL policy with a secondary guarantee can stay in force, even if the base policy cash value is zero, as long as secondary guarantee requirements have been met.  The secondary guarantee requirement is based on the payment of a required minimum premium or on the evaluation of a reference value within the policy, calculated in a manner similar to the base policy account value, but using different assumptions as to expense charges, cost of insurance charges and credited interest.  The assumptions for the secondary guarantee requirement are listed in the contract.  As long as the contract holder funds the policy to a level that keeps this calculated reference value positive, the death benefit will be guaranteed.  The reference value has no actual monetary value to the contract holder; it is only a calculated value used to determine whether or not the policy will lapse should the base policy cash value be less than zero.  		
+		
+			 
+		
+		
+			Our secondary guarantee benefits maintain the flexibility of a traditional UL policy, which allows a contract holder to take loans or withdrawals.  Although loans and withdrawals are likely to shorten the time period of the GDB, the guarantee is not automatically or completely forfeited.  The length of the guarantee may be increased at any time through additional excess premium deposits.
+		
+		
+			 
+		
+		
+			VUL
+		
+		
+			 
+		
+		
+			VUL products are UL products that provide a return on account values linked to an underlying investment portfolio of variable funds offered through the product.  The value of the contract holder’s account varies with the performance of the variable funds chosen by the contract holder.  As the return on the investment portfolio increases or decreases, the account value of the VUL policy will increase or decrease.  As with fixed UL products, contract holders have access, within contractual maximums, to account values through loans, withdrawals and surrenders.  Surrender charges are assessed during the surrender charge period, ranging from 0 to 20 years depending on the product.		
+		
+			 
+		
+		
+			In addition, VUL products offer a fixed account option that is managed by us.  Investment risk is borne by the customer on all but the fixed account option.
+		
+		
+			 
+		
+		
+			We also offer survivorship versions of our individual VUL products.  These products insure two lives with a single policy and pay death benefits upon the second death.  Our COLI products are also VUL-type products.
+		
+		
+			 
+		
+		
+			Linked-Benefit Life Products and Products with Critical Illness Riders 
+		
+		
+			 
+		
+		
+			Linked-benefit life products combine UL with long-term care insurance through the use of riders.  One type of rider allows the contract holder to accelerate death benefits on a tax-free basis in the event of a qualified long-term care need, reducing the remaining death benefit.  Another rider extends the long-term care insurance benefits for an additional period of time if the death benefit is fully accelerated.  Certain policies also provide a reduced death benefit to the contract holder’s beneficiary if the death benefit has been fully accelerated as long-term care benefits during the contract holder’s life.		
+		
+			 
+		
+		
+			Some life products provide for critical illness insurance by the use of riders attached to UL, VUL or IUL policies.  These riders allow the contract holder to accelerate death benefits on a tax-free basis in the event of a qualified critical illness condition. 
+		
+		
+			 
+		
+		
+			Term Life Insurance
+		
+		
+			 
+		
+		
+			Term life insurance provides a fixed death benefit for a scheduled period of time.  Some of our term life insurance products give the policy holder the option to reduce the death benefit at a future time.  They usually do not offer cash values.  Scheduled policy premiums are required to be paid at least annually.  
+		
+		
+			 
+		
+		
+			Distribution 
+		
+		
+			 
+		
+		
+			The Life Insurance segment’s products are sold through LFD.  LFD provides the Life Insurance segment with access to financial intermediaries in the following primary distribution channels:  wire/regional firms; independent planner firms (including LFN); financial institutions; and managing general agents/independent marketing organizations.  LFD distributes COLI and BOLI products and services to small- to mid-sized banks and mid- to large-sized corporations, primarily through 28 intermediaries who specialize in one or both of these markets and who are serviced through a network of internal and external LFD sales professionals.   
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 6
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Competition 
+		
+		
+			 
+		
+		
+			The life insurance industry is very competitive and consists of many companies with no one company dominating the market for all products.  As of the end of 2013, the latest year for which data is available, there were 850 life insurance companies in the U.S. and U.S. territories, according to the American Council of Life Insurers.
+		
+		
+			 
+		
+		
+			The Life Insurance segment primarily targets the affluent to high net worth markets, defined as households with at least $1 million of financial assets.  For those individual policies we sold in 2014, the average face amount (excluding MoneyGuard® products) was approximately $1 million and average first year premiums paid were approximately $20,000.  The Life Insurance segment competes primarily on product design and customer service.  With respect to customer service, management tracks the speed, accuracy and responsiveness of service to customers’ calls and transaction requests.  Further, management tracks the turnaround time and quality for various client services such as processing of applications.  Additional competitive factors relevant to the Life Insurance segment include product breadth, speed to market, underwriting and risk management, financial strength ratings and extent of distribution network.   		
+		
+			 
+		
+		
+			Underwriting 
+		
+		
+			 
+		
+		
+			In the context of life insurance, underwriting is the process of evaluating medical and non-medical information about an individual and determining the effect these factors statistically have on mortality.  This process of evaluation is often referred to as risk classification.  Of course, no one can accurately predict how long any individual will live, but certain risk factors can affect life expectancy and are evaluated during the underwriting process. 
+		
+		
+			 
+		
+		
+			Claims Administration 
+		
+		
+			 
+		
+		
+			Claims services are handled in-house, and claims examiners are assigned to each claim notification based on coverage amount, type of claim and the experience of the examiner.  Claims meeting certain criteria are referred to senior claims examiners.  A formal quality assurance program is carried out to ensure the consistency and effectiveness of claims examining activities.  A network of in-house legal counsel, compliance officers, medical personnel and an anti-fraud investigative unit also support claims examiners.  A special team of claims examiners, in conjunction with claims management, focus on more complex claims matters such as claims incurred during the contestable period, beneficiary disputes and litigated claims.		
+		
+			 
+		
+		
+			GROUP PROTECTION
+		
+		
+			 
+		
+		
+			Overview
+		
+		
+			 
+		
+		
+			The Group Protection segment offers group non-medical insurance products, principally term life, disability and dental, to the employer marketplace through various forms of employee-paid and employer-paid plans.  Although the majority of the segment’s group contracts are sold to employers with fewer than 500 employees, we may target some products specifically to employers with greater than 500 employees.  For additional information on our employee-paid and employer-paid business, see “Results of Group Protection – Income (Loss) from Operations” in the MD&A.		
+		
+			 
+		
+		
+			Products
+		
+		
+			 
+		
+		
+			Life Insurance 
+		
+		
+			 
+		
+		
+			We offer employer-sponsored group term life insurance products including basic, optional and voluntary term life insurance to employees and their dependents.  Additional benefits may be provided in the event of a covered individual’s accidental death or dismemberment.  
+		
+		
+			 
+		
+		
+			We also offer employer-sponsored universal life insurance for employees and their covered dependents.  The universal life product is purchased on an employee paid basis.
+		
+		
+			 
+		
+		
+			Group Disability Insurance 
+		
+		
+			 
+		
+		
+			We offer short- and long-term employer-sponsored group disability insurance, which protects an employee against loss of wages due to illness or injury.  Short-term disability generally provides benefits for up to 26 weeks following a short waiting period, ranging from 1 to 30 days.  Long-term disability provides benefits following a longer waiting period, usually between 30 and 180 days and provides benefits for a longer period, at least 2 years and typically extending to normal (Social Security) retirement age.  The benefits paid are subject to Social Security offsets.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 7
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+		
+		
+			Group Dental, Vision and Medical
+		
+		
+			 
+		
+		
+			We offer a variety of employer-sponsored group dental insurance plans, which cover a portion of the cost of eligible dental procedures for employees and their dependents.  Products offered include indemnity coverage, which does not distinguish benefits based on a dental provider’s participation in a network arrangement, and a Preferred Provider Organization (“PPO”) product that does reflect the dental provider’s participation in the PPO network arrangement, including an agreement with network fee schedules.		
+		
+			 
+		
+		
+			We offer comprehensive employer-sponsored fully-insured vision plans with a wide range of benefits for protecting covered members’ sight and vision health.  All plans provide access to a national network of providers, with in- and out-of-network benefits.  
+		
+		
+			 
+		
+		
+			Accident and Critical Illness Insurance
+		
+		
+			 
+		
+		
+			We offer employer-sponsored group accident insurance products for employees and their covered dependents.  This product is predominantly purchased on an employee-paid basis.  Accident insurance provides scheduled benefits for over 30 types of benefit triggers related to accidental causes, and it is available for non-occupational accidents exclusively or on a 24-hour coverage basis.
+		
+		
+			 
+		
+		
+			We offer employer-sponsored group critical illness insurance to employees and their covered dependents.  This product is predominantly purchased on an employee-paid basis.  The coverage provides for lump sum payouts upon the occurrence of one of the specified critical illness benefit triggers covered within a critical illness insurance policy.  This product also includes Lincoln CareCompassSM, a package of benefits and services that assists employees and their family members in prevention, early detection and treatment of critical illness events.		
+		
+			 
+		
+		
+			Distribution
+		
+		
+			 
+		
+		
+			The segment’s products are marketed primarily through a national distribution system, including approximately 180 managers and marketing representatives.  The managers and marketing representatives develop business through employee benefit brokers, TPAs and other employee benefit firms that work with employers to provide access to our products.
+		
+		
+			 
+		
+		
+			Competition
+		
+		
+			 
+		
+		
+			The group protection marketplace is very competitive.  Principal competitive factors include particular product features, price, quality of customer service and claims management, technological capabilities and financial strength ratings.  In this market, the Group Protection segment competes with a limited number of major companies and selected other companies that focus on these products.  
+		
+		
+			 
+		
+		
+			Underwriting
+		
+		
+			 
+		
+		
+			The Group Protection segment’s underwriters evaluate the risk characteristics of each employee group.  Generally, the relevant characteristics evaluated include employee census information (such as age, gender, income and occupation), employer industry classification, geographic location, benefit design elements and other factors.  The segment employs detailed underwriting policies, guidelines and procedures designed to assist the underwriter to properly assess and quantify risks.  The segment uses technology to efficiently review, price and issue smaller cases, utilizing its underwriting staff on larger, more complex cases.  Individual underwriting techniques (including evaluation of individual medical history information) may be used on certain covered individuals selecting larger benefit amounts.  For voluntary and other forms of employee paid coverages, minimum participation requirements are used to obtain a better spread of risk and minimize the risk of anti-selection.		
+		
+			 
+		
+		
+			Claims Administration
+		
+		
+			 
+		
+		
+			Claims for the Group Protection segment are managed by in-house claim specialists and outsourced third-party resources.  Claims are evaluated for eligibility and payment of benefits pursuant to the group insurance contract and in compliance with federal and state regulations.  Disability claims management is especially important to segment results, as results depend on both the incidence and the length of approved disability claims.  In July 2014, Group Protection introduced a new claims management system and is continuing to work through its implementation.  The segment employs a variety of clinical experts, including internal and external medical professionals and rehabilitation specialists, to evaluate medically supported functional capabilities, assess employability and develop return to work plans.  Dental claims management focuses on assisting plan administrators and members with the rising costs of insurance by utilizing tools to optimize dental claims payment accuracy through advanced claims review and validation, improved data analysis, enhanced clinical review of claims and provider utilization monitoring.		
+		
+			 
+		
+		
+			OTHER OPERATIONS
+		
+		
+			 
+		
+		
+			Other Operations includes the financial data for operations that are not directly related to the business segments.  Other Operations includes investments related to the excess capital in our insurance subsidiaries; corporate investments; benefit plan net liability; the unamortized deferred gain on indemnity reinsurance related to the sale to Swiss Re Life & Health America, Inc. (“Swiss Re”) in 2001; the results of certain disability income business; our run-off Institutional Pension business in the form of group annuity and insured funding-type of contracts; and debt.  Other Operations also includes our investment in media properties.  In December 2014, we entered into a stock purchase agreement to sell our media properties to Entercom as described above.
+		
+		
+
+		
+		 
+
+		
+
+			 8
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		 
+		
+		
+			REINSURANCE
+		
+		
+			    
+		
+		
+			We follow the industry practice of reinsuring a portion of our life insurance and annuity risks with unaffiliated reinsurers.  In a reinsurance transaction, a reinsurer agrees to indemnify another insurer for part or all of its liability under a policy or policies it has issued for an agreed upon premium.  We use reinsurance to protect our insurance subsidiaries against the severity of losses on individual claims and unusually serious occurrences in which a number of claims produce an aggregate extraordinary loss.  Although reinsurance does not discharge the insurance subsidiaries from their primary liabilities to their contract holders for losses insured under the insurance policies, it does make the assuming reinsurer liable to the insurance subsidiaries for the reinsured portion of the risk.  Because we bear the risk of nonpayment by one or more of our reinsurers, we primarily cede reinsurance to well-capitalized, highly rated reinsurers.		
+		
+			 
+		
+		
+			We reinsure approximately 25% of the mortality risk on newly issued life insurance contracts.  As of December 31, 2014, our policy for this program was to retain no more than $20 million on a single insured life.  
+		
+		
+			 
+		
+		
+			Portions of our deferred annuity business have been reinsured on a modified coinsurance (“Modco”) basis with other companies to limit our exposure to interest rate risks.  In a Modco program, the reinsurer shares proportionally in all financial terms of the reinsured policies (i.e., premiums, expenses, claims, etc.) based on their respective quota share of the risk.
+		
+		
+			 
+		
+		
+			In addition, we acquire other reinsurance to cover products other than as discussed above with retentions and limits that management believes are appropriate for the circumstances.
+		
+		
+			 
+		
+		
+			We obtain reinsurance from a diverse group of reinsurers, and we monitor concentration and financial strength ratings of our principal reinsurers.  Swiss Re represents our largest reinsurance exposure.  The amounts recoverable from reinsurers were $5.7 billion and $6.0 billion as of December 31, 2014 and 2013, respectively, of which $2.5 billion and $2.6 billion  were recoverable from Swiss Re related to the sale of our reinsurance business to Swiss Re for the respective periods. 		
+		
+			 
+		
+		
+			We also utilize inter-company reinsurance agreements to manage our statutory capital position as well as our hedge program for variable annuity guarantees.  These inter-company agreements do not have an effect on our consolidated financial statements.
+		
+		
+			 
+		
+		
+			For more information regarding reinsurance, see “Reinsurance” in the MD&A and Note 9.  For risks involving reinsurance, see “Item 1A. Risk Factors – Operational Matters – We face risks of non-collectability of reinsurance and increased reinsurance rates, which could materially affect our results of operations.”  
+		
+		
+			 
+		
+		
+			RESERVES
+		
+		
+			 
+		
+		
+			The applicable insurance laws under which insurance companies operate require that they report, as liabilities, policy reserves to meet future obligations on their outstanding policies.  These reserves are the amounts that, with the additional premiums to be received and interest thereon compounded annually at certain assumed rates, are calculated to be sufficient to meet the various policy and contract obligations as they mature.  These laws specify that the reserves shall not be less than reserves calculated using certain specified mortality and morbidity tables, interest rates and methods of valuation. 
+		
+		
+			 
+		
+		
+			For more information on reserves, see “Critical Accounting Policies and Estimates – Derivatives” and “Critical Accounting Policies and Estimates – Future Contract Benefits and Other Contract Holder Obligations” in the MD&A.
+		
+		
+			 
+		
+		
+			See “Regulatory” below for information on permitted practices and proposed regulations that may impact the amount of statutory reserves necessary to support our current insurance liabilities. 
+		
+		
+			 
+		
+		
+			For risks related to reserves, see “Item 1A. Risk Factors – Market Conditions – Changes in interest rates and sustained low interest rates may cause interest rate spreads to decrease and changes in interest rates may also result in increased contract withdrawals.”
+		
+		
+			 
+		
+		
+			INVESTMENTS
+		
+		
+			 
+		
+		
+			An important component of our financial results is the return on invested assets.  Our investment strategy is to balance the need for current income with prudent risk management, with an emphasis on generating sufficient current income to meet our obligations.  This approach requires the evaluation of risk and expected return of each asset class utilized, while still meeting our income objectives.  This approach also permits us to be more effective in our asset-liability management because decisions can be made based upon both the economic and current investment income considerations affecting assets and liabilities.  Investments by our insurance subsidiaries must comply with the insurance laws and regulations of the states of domicile. 
+		
+		
+			 
+		
+		
+			Derivatives are used primarily for hedging purposes and, to a lesser extent, income generation.  Hedging strategies are employed for a number of reasons including, but not limited to, hedging certain portions of our exposure to changes in our GDB, GWB and GIB liabilities, interest rate fluctuations, the widening of bond yield spreads over comparable maturity U.S. government obligations and credit, foreign exchange and equity risks.  Income generation strategies include credit default swaps through replication synthetic asset transactions.  These derivatives synthetically create exposure in the general account to corporate debt, similar to investing in the credit markets.  		
+		
+
+		
+		 
+
+		
+
+			 9
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		 
+		
+		
+			For additional information on our investments, including carrying values by category, quality ratings and net investment income, see “Consolidated Investments” in the MD&A, as well as Notes 1 and 5.
+		
+		
+			 
+		
+		
+			FINANCIAL STRENGTH RATINGS
+		
+		
+			    
+		
+		
+			The Nationally Recognized Statistical Ratings Organizations rate the financial strength of our principal insurance subsidiaries.
+		
+		
+			 
+		
+		
+			Rating agencies rate insurance companies based on financial strength and the ability to pay claims, factors more relevant to contract holders than investors.  We believe that the ratings assigned by nationally recognized, independent rating agencies are material to our operations.  There may be other rating agencies that also rate our insurance companies, which we do not disclose in our reports. 
+		
+		
+			 
+		
+		
+			Insurer Financial Strength Ratings 
+		
+		
+			 
+		
+		
+			The insurer financial strength rating scales of A.M. Best, Fitch Ratings (“Fitch”), Moody’s Investors Service (“Moody’s”) and S&P are characterized as follows: 
+		
+		
+			 
+		
+		
+			
+				 ·
+			
+		
+			
+			A.M. Best – A++ to S  
+		
+			
+				 ·
+			
+		
+			
+			Fitch – AAA to C  
+		
+			
+				 ·
+			
+		
+			
+			Moody’s – Aaa to C
+		
+			
+				 ·
+			
+		
+			
+			S&P – AAA to D 
+		
+			 
+		
+		
+			As of February 18, 2015, the financial strength ratings of our principal insurance subsidiaries, as published by the principal rating agencies that rate us were as follows:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						A.M. Best
+				
+				
+					
+						 
+				
+				
+					
+						Fitch
+				
+				
+					
+						 
+				
+				
+					
+						Moody's
+				
+				
+					
+						 
+				
+				
+					
+						S&P
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Insurer Financial Strength Ratings
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						The Lincoln National Life Insurance Company ("LNL")
+				
+				
+					
+						A+
+				
+				
+					
+						 
+				
+				
+					
+						A+
+				
+				
+					
+						 
+				
+				
+					
+						A1
+				
+				
+					
+						 
+				
+				
+					
+						AA-
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						(2nd of 16)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 19)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 21)
+				
+				
+					
+						 
+				
+				
+					
+						(4th of 22)
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Lincoln Life & Annuity Company of New York ("LLANY")
+				
+				
+					
+						A+
+				
+				
+					
+						 
+				
+				
+					
+						A+
+				
+				
+					
+						 
+				
+				
+					
+						A1
+				
+				
+					
+						 
+				
+				
+					
+						AA-
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						(2nd of 16)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 19)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 21)
+				
+				
+					
+						 
+				
+				
+					
+						(4th of 22)
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						First Penn-Pacific Life Insurance Company ("FPP")
+				
+				
+					
+						A
+				
+				
+					
+						 
+				
+				
+					
+						A+
+				
+				
+					
+						 
+				
+				
+					
+						A1
+				
+				
+					
+						 
+				
+				
+					
+						A-
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						(3rd of 16)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 19)
+				
+				
+					
+						 
+				
+				
+					
+						(5th of 21)
+				
+				
+					
+						 
+				
+				
+					
+						(7th of 22)
+				
+				
+					
+						 
+				
+			
+		
+		
+			 
+		
+		
+			A downgrade of the financial strength rating of one of our principal insurance subsidiaries could affect our competitive position in the insurance industry and make it more difficult for us to market our products, as potential customers may select companies with higher financial strength ratings.  Ratings are not recommendations to buy our securities. 
+		
+		
+			 
+		
+		
+			All of our financial strength ratings are on outlook stable.  All of our ratings are subject to revision or withdrawal at any time by the rating agencies, and therefore, no assurance can be given that our principal insurance subsidiaries can maintain these ratings.  Each rating should be evaluated independently of any other rating.  See “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow” in the MD&A for a discussion of our credit ratings.
+		
+		
+			 
+		
+		
+			REGULATORY
+		
+		
+			 
+		
+		
+			Insurance Regulation 
+		
+		
+			 
+		
+		
+			Our insurance subsidiaries, like other insurance companies, are subject to regulation and supervision by the states, territories and countries in which they are licensed to do business.  The extent of such regulation varies, but generally has its source in statutes that delegate regulatory, supervisory and administrative authority to supervisory agencies.  In the U.S., this power is vested in state insurance departments. 
+		
+		
+			 
+		
+		
+			In supervising and regulating insurance companies, state insurance departments, charged primarily with protecting contract holders and the public rather than investors, enjoy broad authority and discretion in applying applicable insurance laws and regulation for that purpose.  Our principal insurance subsidiaries, LNL, LLANY and FPP, are domiciled in the states of Indiana, New York and Indiana, respectively.
+		
+		
+			 
+		
+		
+			The insurance departments of the domiciliary states exercise principal regulatory jurisdiction over our insurance subsidiaries.  The extent of regulation by the states varies, but in general, most jurisdictions have laws and regulations governing standards of solvency, adequacy of reserves, reinsurance, capital adequacy, licensing of companies and agents to transact business, prescribing and approving policy forms, regulating premium rates for some lines of business, prescribing the form and content of financial statements and reports, regulating the 
+		
+		 
+
+		
+
+			 10
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		type and amount of investments permitted and standards of business conduct.   Insurance company regulation is discussed further under “Insurance Holding Company Regulation” and “Restrictions on Subsidiaries’ Dividends and Other Payments.”
+		
+		
+			 
+		
+		
+			As part of their regulatory oversight process, state insurance departments conduct periodic, generally once every three to five years, examinations of the books, records, accounts and business practices of insurers domiciled in their states.  During the three-year period ended December 31, 2014, we have not received any material adverse findings resulting from state insurance department examinations of our insurance subsidiaries conducted during this period.
+		
+		
+			 
+		
+		
+			State insurance laws and regulations require our U.S. insurance companies to file financial statements with state insurance departments everywhere they do business, and the operations of our U.S. insurance companies and accounts are subject to examination by those departments at any time.  Our U.S. insurance companies prepare statutory financial statements in accordance with accounting practices and procedures prescribed or permitted by these departments.  The National Association of Insurance Commissioners (“NAIC”) has approved a series of statutory accounting principles that have been adopted, in some cases with minor modifications, by virtually all state insurance departments.  Changes in these statutory accounting principles can significantly affect our capital and surplus.  The New York State Department of Financial Services (“NYDFS”) does not recognize the NAIC revisions to Actuarial Guideline 38 (“AG38”) in applying New York law governing the reserves to be held for UL and VUL products containing secondary guarantees.  The change, which was effective as of December 31, 2013, impacts our New York-domiciled insurance subsidiary, LLANY.  LLANY discontinued the sale of these products in early 2013, but the change affects those policies sold prior to that time.  We began phasing in the increase in reserves over five years beginning in 2013.  As of December 31, 2014, we have increased reserves by $180 million.  The additional increase in reserves over the next three years is subject to ongoing discussions with the NYDFS.  However, we do not expect the amount for each of the remaining years to exceed $90 million per year.  We do not expect the total reserve increase to have a material adverse effect on our financial condition.  See “Item 1A. Risk Factors – Legislative, Regulatory and Tax – Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline 38 may fail in whole or in part resulting in an adverse effect on our financial condition and results of operations.”		
+		
+			 
+		
+		
+			Currently, insurance companies are using a variety of captive reinsurance structures to support their respective businesses.  The NAIC through its various committees, task forces and working groups has been studying the use of captives and special purpose vehicles to transfer insurance risk and has been evaluating the adequacy of existing NAIC model laws and regulations applicable to captives.    Recently, the NAIC adopted new Actuarial Guideline 48 (“AG48”) that provides additional restrictions on the type and quality of assets that may be used to support reinsurance transactions on business covered by the Valuation of Life Insurance Policies Model Regulation (“XXX”) and AG38 effective for new transactions on or after January 1, 2015.  Failure to comply with these requirements will generally result in the appointed actuary being required to issue a qualified actuarial opinion with regard to that reinsurance transaction.  Pre-existing reinsurance arrangements will not be affected by AG48 unless they are modified in certain specified ways on or after January 1, 2015.		
+		
+			 
+		
+		
+			For more information on statutory reserving and our use of captive reinsurance structures, see “Review of Consolidated Financial Condition – Liquidity and Capital Resources” in the MD&A.
+		
+		
+			 
+		
+		
+			Insurance Holding Company Regulation 
+		
+		
+			 
+		
+		
+			LNC and its primary insurance subsidiaries are subject to regulation pursuant to the insurance holding company laws of the states of Indiana and New York.  These insurance holding company laws generally require an insurance holding company and insurers that are members of such insurance holding company’s system to register with the insurance department authorities, to file with it certain reports disclosing information, including their capital structure, ownership, management, financial condition and certain inter-company transactions, including material transfers of assets and inter-company business agreements and to report material changes in that information.  These laws also require that inter-company transactions be fair and reasonable and, under certain circumstances, prior approval of the insurance departments must be received before entering into an inter-company transaction.  Further, these laws require that an insurer’s contract holders’ surplus following any dividends or distributions to shareholder affiliates is reasonable in relation to the insurer’s outstanding liabilities and adequate for its financial needs. 		
+		
+			 
+		
+		
+			In general, under state holding company regulations, no person may acquire, directly or indirectly, a controlling interest in our capital stock unless such person, corporation or other entity has obtained prior approval from the applicable insurance commissioner for such acquisition of control.  Pursuant to such laws, in general, any person acquiring, controlling or holding the power to vote, directly or indirectly, 10% or more of the voting securities of an insurance company, is presumed to have “control” of such company.  This presumption may be rebutted by a showing that control does not exist in fact.  The insurance commissioner, however, may find that “control” exists in circumstances in which a person owns or controls a smaller amount of voting securities.  To obtain approval from the insurance commissioner of any acquisition of control of an insurance company, the proposed acquirer must file with the applicable commissioner an application containing information regarding: the identity and background of the acquirer and its affiliates; the nature, source and amount of funds to be used to carry out the acquisition; the financial statements of the acquirer and its affiliates; any potential plans for disposition of the securities or business of the insurer; the number and type of securities to be acquired; any contracts with respect to the securities to be acquired; any agreements with broker-dealers; and other matters. 		
+		
+			 
+		
+		
+			Other jurisdictions in which our insurance subsidiaries are licensed to transact business may have similar or additional requirements for prior approval of any acquisition of control of an insurance or reinsurance company licensed or authorized to transact business in those jurisdictions.  Additional requirements in those jurisdictions may include re-licensing or subsequent approval for renewal of existing 
+		
+		 
+
+		
+
+			 11
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		licenses upon an acquisition of control.  As further described below, laws that govern the holding company structure also govern payment of dividends to us by our insurance subsidiaries. 
+		
+		
+			 
+		
+		
+			Restrictions on Subsidiaries’ Dividends and Other Payments 
+		
+		
+			 
+		
+		
+			We are a holding company that transacts substantially all of our business directly and indirectly through subsidiaries.  Our primary assets are the stock of our operating subsidiaries.  Our ability to meet our obligations on our outstanding debt and to pay dividends and our general and administrative expenses depends on the surplus and earnings of our subsidiaries and the ability of our subsidiaries to pay dividends or to advance or repay funds to us. 
+		
+		
+			 
+		
+		
+			Our insurance subsidiaries are subject to certain insurance department regulatory restrictions as to the transfer of funds and payment of dividends to the holding company.  Under Indiana laws and regulations, our Indiana insurance subsidiaries, including our primary insurance subsidiary, LNL, may pay dividends to LNC without prior approval of the Indiana Insurance Commissioner (the “Commissioner”), only from unassigned surplus or must receive prior approval of the Commissioner to pay a dividend if such dividend, along with all other dividends paid within the preceding 12 consecutive months, would exceed the statutory limitation.  The current statutory limitation is the greater of 10% of the insurer’s contract holders’ surplus, as shown on its last annual statement on file with the Commissioner or the insurer’s statutory net gain from operations for the previous 12 months, but in no event to exceed statutory unassigned surplus.  Indiana law gives the Commissioner broad discretion to disapprove requests for dividends in excess of these limits.  LNL’s subsidiary, LLANY, a New York-domiciled insurance company, has similar restrictions, except that in New York it is the lesser of 10% of surplus to contract holders as of the immediately preceding calendar year or net gain from operations for the immediately preceding calendar year, not including realized capital gains.		
+		
+			 
+		
+		
+			Indiana law also provides that following the payment of any dividend, the insurer’s contract holders’ surplus must be reasonable in relation to its outstanding liabilities and adequate for its financial needs, and permits the Commissioner to bring an action to rescind a dividend that violates these standards.  In the event the Commissioner determines that the contract holders’ surplus of one subsidiary is inadequate, the Commissioner could use his or her broad discretionary authority to seek to require us to apply payments received from another subsidiary for the benefit of that insurance subsidiary.  For information regarding dividends paid to us during 2014 from our insurance subsidiaries, see “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow” in the MD&A. 		
+		
+			    
+		
+		
+			Risk-Based Capital 
+		
+		
+			 
+		
+		
+			The NAIC has adopted risk-based capital (“RBC”) requirements for life insurance companies to evaluate the adequacy of statutory capital and surplus in relation to investment and insurance risks.  The requirements provide a means of measuring the minimum amount of statutory surplus appropriate for an insurance company to support its overall business operations based on its size and risk profile.  There are five major risks involved in determining the requirements:
+		
+		
+			 
+		
+		
+			 
+		
+		
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+			
+			
+				
+					
+						Category
+				
+				
+					
+						 
+				
+				
+					
+						Name
+				
+				
+					
+						 
+				
+				
+					
+						Description
+				
+			
+			
+				
+					
+						Asset risk – affiliates
+				
+				
+					
+						 
+				
+				
+					
+						C-0
+				
+				
+					
+						 
+				
+				
+					
+						Risk of assets' default for certain affiliated investments
+				
+			
+			
+				
+					
+						Asset risk – others
+				
+				
+					
+						 
+				
+				
+					
+						C-1
+				
+				
+					
+						 
+				
+				
+					
+						Risk of assets' default of principal and interest or fluctuation in fair value
+				
+			
+			
+				
+					
+						Insurance risk
+				
+				
+					
+						 
+				
+				
+					
+						C-2
+				
+				
+					
+						 
+				
+				
+					
+						Risk of underestimating liabilities from business already written or inadequately pricing 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						business to be written in the future
+				
+			
+			
+				
+					
+						Interest rate risk, health credit
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						Risk of losses due to changes in interest rate levels, risk that health benefits prepaid to
+				
+			
+			
+				
+					
+						risk and market risk
+				
+				
+					
+						 
+				
+				
+					
+						C-3
+				
+				
+					
+						 
+				
+				
+					
+						providers become the obligation of the health insurer once again and risk of loss due 
+				
+			
+			
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						 
+				
+				
+					
+						to changes in market levels associated with variable products with guarantees
+				
+			
+			
+				
+					
+						Business risk
+				
+				
+					
+						 
+				
+				
+					
+						C-4
+				
+				
+					
+						 
+				
+				
+					
+						Risk of general business
+				
+			
+		
+		
+			 
+		
+		
+			A company’s risk-based statutory surplus is calculated by applying factors and performing calculations relating to various asset, premium, claim, expense and reserve items.  Regulators can then measure adequacy of a company’s statutory surplus by comparing it to the RBC determined by the formula.  Under RBC requirements, regulatory compliance is determined by the ratio of a company’s total adjusted capital, as defined by the NAIC, to its company action level of RBC (known as the RBC ratio), also as defined by the NAIC.  Accordingly, factors that have an impact on the total adjusted capital of our insurance subsidiaries, such as the permitted practices discussed above, will also affect their RBC levels.
+		
+		
+			 
+		
+		
+			Four levels of regulatory attention may be triggered if the RBC ratio is insufficient: 
+		
+		
+			 
+		
+		
+			
+				 ·
+			
+		
+			
+			“Company action level” – If the RBC ratio is between 75% and 100%, then the insurer must submit a plan to the regulator detailing corrective action it proposes to undertake;  
+		
+			
+				 ·
+			
+		
+			
+			“Regulatory action level” – If the RBC ratio is between 50% and 75%, then the insurer must submit a plan, but a regulator may also issue a corrective order requiring the insurer to comply within a specified period; 
+		
+			
+				 ·
+			
+		
+			
+			“Authorized control level” – If the RBC ratio is between 35% and 50%, then the regulatory response is the same as at the “Regulatory action level,” but in addition, the regulator may take action to rehabilitate or liquidate the insurer; and 
+		
+			
+				 ·
+			
+		
+			
+			“Mandatory control level” – If the RBC ratio is less than 35%, then the regulator must rehabilitate or liquidate the insurer. 
+		
+
+		
+		 
+
+		
+
+			 12
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		 
+		
+		
+			As of December 31, 2014, the RBC ratios of LNL, LLANY and FPP reported to their respective states of domicile and the NAIC all exceeded the “company action level.”  We believe that we will be able to maintain the RBC ratios of our insurance subsidiaries in excess of “company action level” through prudent underwriting, claims handling, investing and capital management.  However, no assurances can be given that developments affecting the insurance subsidiaries, many of which could be outside of our control, will not cause the RBC ratios to fall below our targeted levels.  These developments may include, but may not be limited to:  changes to the manner in which the RBC ratio is calculated; new regulatory requirements for calculating reserves, such as principles-based reserving; economic conditions leading to higher levels of impairments of securities in our insurance subsidiaries’ general accounts; and an inability to finance life reserves including the issuing of letters of credit (“LOCs”) supporting inter-company reinsurance structures. 		
+		
+			 
+		
+		
+			See “Item 1A. Risk Factors – Liquidity and Capital Position – A decrease in the capital and surplus of our insurance subsidiaries may result in a downgrade to our credit and insurer financial strength ratings.”
+		
+		
+			 
+		
+		
+			Privacy Regulations
+		
+		
+			 
+		
+		
+			In the course of our business, we collect and maintain personal data from our customers including personally identifiable non-public financial and health information, which subjects us to regulation under federal and state privacy laws.  These laws require that we institute certain policies and procedures in our business to safeguard this information from improper use or disclosure.  While we employ a robust and tested information security program, if the federal or state regulators establish further regulations for addressing customer privacy, we may need to amend our policies and adapt our internal procedures.
+		
+		
+			 
+		
+		
+			Federal Initiatives
+		
+		
+			 
+		
+		
+			The U.S. federal government does not directly regulate the insurance industry; however, federal initiatives from time to time can impact the insurance industry.  
+		
+		
+			 
+		
+		
+			Financial Reform Legislation
+		
+		
+			 
+		
+		
+			Since it was enacted in 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) has imposed considerable reform in the financial services industry.  The ongoing implementation continues to present challenges and uncertainties for financial market participants.   
+		
+		
+			 
+		
+		
+			For instance, the Dodd-Frank Act imposes significant changes to the regulation of derivatives transactions, which we use to mitigate many types of risk in our business.  The new regulations require clearing and centralized execution for many derivatives transactions that have historically been conducted over-the-counter.  In mid-2013, we began clearing swaps subject to a clearing mandate without significant consequences to our business other than the posting of initial margin and the attendant transaction costs of clearing.  However, the use of swap execution facilities in the U.S. and the continuing disharmonization across international regulatory efforts appear to be creating market fragmentation leading in some cases to decreased liquidity and increased price volatility.  Whether these trends will continue or become pervasive, and their ultimate impact on our business, remains uncertain.  Additionally, U.S. banking regulators and the Commodity Futures Trading Commission are currently considering final rules for margin on uncleared swaps.  The rules proposed in the U.S. are in some cases more restrictive than those advocated in the international context.  The proposed rules contemplate that, likely beginning in 2019, U.S. insurers will be required to post initial margin in support of their uncleared swaps activity, which neither we nor our industry peers have typically been required to do.  Additionally, the new rules limit eligible margin to a narrow range of assets (in some cases, to only cash).  The full implementation of these rules may require us to hold more of our assets in cash and other assets that generate lower yields than other investments.  Documentation requirements attendant to the new margining regime are potentially burdensome and costly.  The new regulations may reduce the level of risk exposure we have to our derivatives counterparties (currently managed by holding collateral), but will increase our exposure to central clearinghouses and clearing members with which we transact.  The standardization of derivatives products for clearing may make customized products unavailable or uneconomical, potentially decreasing the effectiveness of some of our hedging activities.  As implementation of the new regulatory framework continues, the extent to which our derivatives costs and strategies may change and the extent to which those changes may affect the range or pricing of our products remains uncertain.		
+		
+			 
+		
+		
+			Another area of continuing concern related to the Dodd-Frank Act is the possible impact of the Volcker Rule on non-bank financial market participants.  The rule was approved by federal regulators in December 2013; implementation will continue through mid-2015 with respect to certain covered activities and has been extended to mid-2017 with respect to others.  Although the final rule appears to preserve legitimate market-making activities by banks, the ultimate impact of the Volcker Rule on market liquidity and any resulting detriment to long-term investors, such as insurance companies, cannot be predicted at this time.  		
+		
+			 
+		
+		
+			In addition, the Dodd-Frank Act requires new regulations governing broker-dealers and investment advisers.  In particular, the fiduciary standard rulemaking could potentially have broad implications for how our products are designed and sold in the future.  In January 2011, the U.S. Securities and Exchange Commission (“SEC”) released a study on the obligations and standards of conduct of financial professionals, as required under the Dodd-Frank Act.  The SEC staff recommended establishing a uniform fiduciary standard for investment advisers and broker-dealers when providing investment advice about securities, including guidance for principal trading and definitions of the duties of loyalty and care owed to retail customers that would be consistent with the standard that currently applies to investment advisers.  A more uniform fiduciary standard could potentially affect our business in areas including, but not limited to:    		
+		 
+
+		
+
+			 13
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		design and availability of proprietary products; commission-based compensation arrangements; advertising and other communications; use of finders or solicitors of clients (i.e., business contacts who provide referrals); and continuing education requirements for advisors.
+		
+		
+			 
+		
+		
+			Additional provisions of the Dodd-Frank Act include, among other things, the creation of a new Consumer Financial Protection Bureau to protect consumers of certain financial products; and changes to certain corporate governance rules.  The SEC has postponed rule making on a number of these provisions through 2015.  In December 2013, the new Federal Insurance Office established under Dodd-Frank issued a wide-ranging report on the state of insurance regulation in the U.S., together with a series of recommendations on ways to monitor and improve the regulatory environment.  The ultimate impact of these recommendations on our business is undeterminable at this time.		
+		
+			 
+		
+		
+			Department of Labor Regulation
+		
+		
+			 
+		
+		
+			In October 2010, the U.S. Department of Labor (“DOL”) issued a proposed regulation that would, if finalized in current form, substantially expand the range of activities that would be considered to be fiduciary investment advice under the Employee Retirement Income Security Act of 1974 (“ERISA”) and the Internal Revenue Code.  If finalized as proposed, the investment-related information and support that our advisors and employees could provide to plan sponsors, participants and IRA holders on a non-fiduciary basis could be substantially limited beyond what is allowed under current law.  This could have a material impact on the level and type of services that we can provide as well as the nature and amount of compensation and fees we and our advisors and employees may receive for investment-related services.  This proposal has generated substantial public comment and as a result, it is likely that any final regulation will be different from the proposal.  On September 19, 2011, the DOL announced that it would re-propose the regulation in 2012.  This re-proposal has been delayed, and it is currently expected that the re-proposal will be issued sometime in 2015.  The exact nature of any re-proposed regulation, the extent of any substantive changes from the originally proposed regulation and any potential effect on our businesses is undeterminable as this time.		
+		
+			 
+		
+		
+			Federal Tax Legislation
+		
+		
+			 
+		
+		
+			There have been several tax reform initiatives underway in the House and the Senate over the last year.  Most notably, the House Ways and Means Committee, led by Representative Dave Camp, released a draft of a tax reform proposal in early 2014.  Some of the proposed changes include (i) changes to the calculation of the separate account dividends-received deduction that would largely eliminate the benefit insurance companies receive, (ii) changes to the calculation of deductible insurance reserves that would decrease the value of the reserve deduction available to insurance companies and (iii) changes to the rules for deferred acquisition costs (“DAC”) that would increase the amount of premiums received that a company would be required to capitalize.  All of these proposals are identical (or at least similar) to proposals that have been discussed previously with various industry groups and coalitions.  The likelihood of enactment of any of the proposals, whether as the part of a comprehensive tax reform act or as discrete legislative changes, is highly uncertain at this time due to the volatile political environment as well as the uncertainty that always exists with any tax reform initiative.		
+		
+			 
+		
+		
+			On February 2, 2015, the Obama Administration submitted its fiscal year 2016 budget proposal to Congress.  The proposal for 2016 follows previous budget proposals from the Obama Administration and included policy and tax recommendations that could have an effect on our Company and our products.  Included among the various proposed policy recommendations could be modifications to the dividends-received deduction for life insurance company separate accounts.  If these proposed changes were enacted into law or, if applicable, changed administratively through the tax regulation process, they could have an adverse effect upon the Company’s profitability.  The budget could also propose changes to the tax laws that would affect purchasers of products offered and sold through our various business lines, including such items as expanding the pro-rata interest expense disallowance for COLI, the creation of an auto-enrollment IRA program for small employers and encouraging increased use of qualified plans through tax credits to defray start-up costs.    The 2016 budget proposal also included an updated version of a financial services surcharge, known as the “Bank Tax,” that for the first time would include insurance companies within its reach.  Some of these changes, should they become law, would have the potential to improve the attractiveness of our products to consumers and enhance our sales.  Other provisions could have the opposite effect.  The submission of the Administration’s budget to Congress begins the Congressional Budget process.  Any changes to the tax law will require legislation, which may or may not incorporate provisions found in the budget proposal, to move through both houses of Congress before being signed into law by the President.		
+		
+			 
+		
+		
+			Additionally, the uncertainty of federal funding and the future of the Social Security Disability Insurance (“SSDI”) program can have a substantial impact on the entire group benefit market.  The SSDI program is currently projected to become insolvent by the end of 2016 without federal budget changes.  SSDI benefits are a direct offset to the cost of group disability benefits.  Changes to SSDI eligibility requirements and benefit allowances could potentially increase the cost of group disability benefits.
+		
+		
+			 
+		
+		
+			Health Care Reform Legislation
+		
+		
+			 
+		
+		
+			In March 2010, the President signed into law the Patient Protection and Affordable Care Act, which was subsequently amended by the Health Care and Education Reconciliation Act.  This legislation, as well as subsequent state and federal laws and regulations, includes provisions that provide for additional taxes to help finance the cost of these reforms and substantive changes and additions to health care and related laws, which could potentially impact some of our lines of businesses.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 14
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Patriot Act
+		
+		
+			 
+		
+		
+			The USA PATRIOT Act of 2001 includes anti-money laundering and financial transparency laws as well as various regulations applicable to broker-dealers and other financial services companies, including insurance companies.  Financial institutions are required to collect information regarding the identity of their customers, watch for and report suspicious transactions, respond to requests for information by regulatory authorities and law enforcement agencies, and share information with other financial institutions.  As a result, we are required to maintain certain internal compliance practices, procedures and controls.
+		
+		
+			 
+		
+		
+			ERISA Considerations
+		
+		
+			 
+		
+		
+			ERISA is a comprehensive federal statute that applies to U.S. employee benefit plans sponsored by private employers and labor unions.  Plans subject to ERISA include pension and profit sharing plans and welfare plans, including health, life and disability plans.  ERISA provisions include reporting and disclosure rules, standards of conduct that apply to plan fiduciaries and prohibitions on transactions known as “prohibited transactions,” such as conflict-of-interest transactions and certain transactions between a benefit plan and a party in interest.  ERISA also provides for a scheme of civil and criminal penalties and enforcement.  Our insurance, asset management, plan administrative services and other businesses provide services to employee benefit plans subject to ERISA, including services where we may act as an ERISA fiduciary.  In addition to ERISA regulation of businesses providing products and services to ERISA plans, we become subject to ERISA’s prohibited transaction rules for transactions with those plans, which may affect our ability to enter transactions, or the terms on which transactions may be entered, with those plans, even in businesses unrelated to those giving rise to party in interest status. 		
+		
+			 
+		
+		
+			Broker-Dealer and Securities Regulation
+		
+		
+			 
+		
+		
+			In addition to being registered under the Securities Act of 1933, some of our separate accounts as well as mutual funds that we sponsor are registered as investment companies under the Investment Company Act of 1940, and the shares of certain of these entities are qualified for sale in some or all states and the District of Columbia.  We also have several subsidiaries that are registered as broker-dealers under the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to federal and state regulation, including, but not limited to, the Financial Industry Regulation Authority’s (“FINRA”) net capital rules.  In addition, we have several subsidiaries that are investment advisors registered under the Investment Advisers Act of 1940.  Agents and employees registered or associated with any of our broker-dealer subsidiaries are subject to the Exchange Act and to examination requirements and regulation by the SEC, FINRA and state securities commissioners.  Regulation also extends to various LNC entities that employ or control those individuals.  The SEC and other governmental agencies and self-regulatory organizations, as well as state securities commissions in the U.S., have the power to conduct administrative proceedings that can result in censure, fines, the issuance of cease-and-desist orders or suspension and termination or limitation of the activities of the regulated entity or its employees. 		
+		
+			 
+		
+		
+			Environmental Considerations 
+		
+		
+			 
+		
+		
+			Federal, state and local environmental laws and regulations apply to our ownership and operation of real property.  Inherent in owning and operating real property are the risks of hidden environmental liabilities and the costs of any required clean-up.  Under the laws of certain states, contamination of a property may give rise to a lien on the property to secure recovery of the costs of clean-up, which could adversely affect our commercial mortgage lending.  In several states, this lien has priority over the lien of an existing mortgage against such property.  In addition, in some states and under the federal Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“CERCLA”), we may be liable, as an “owner” or “operator,” for costs of cleaning-up releases or threatened releases of hazardous substances at a property mortgaged to us.  We also risk environmental liability when we foreclose on a property mortgaged to us.  Federal legislation provides for a safe harbor from CERCLA liability for secured lenders that foreclose and sell the mortgaged real estate, provided that certain requirements are met.  However, there are circumstances in which actions taken could still expose us to CERCLA liability.  Application of various other federal and state environmental laws could also result in the imposition of liability on us for costs associated with environmental hazards. 		
+		
+			 
+		
+		
+			We routinely conduct environmental assessments for real estate we acquire for investment and before taking title through foreclosure to real property collateralizing mortgages that we hold.  Although unexpected environmental liabilities can always arise, based on these environmental assessments and compliance with our internal procedures, we believe that any costs associated with compliance with environmental laws and regulations or any clean-up of properties would not have a material adverse effect on our results of operations. 
+		
+		
+			 
+		
+		
+			Intellectual Property
+		
+		
+			 
+		
+		
+			We rely on a combination of copyright, trademark, patent and trade secret laws to establish and protect our intellectual property.  We have implemented a patent strategy designed to protect innovative aspects of our products and processes which we believe distinguish us from competitors.  We currently own several issued U.S. patents and have additional patent applications pending in the U.S. Patent and Trademark Office.  
+		
+		
+			 
+		
+		
+			We regard our patents as valuable assets and intend to protect them against infringement.  However, complex legal and factual determinations and changes in patent law make protection uncertain, and while we believe our patents provide us with a competitive advantage, we cannot be certain that patents will be issued from any of our pending patent applications or that any issued patents will 
+		
+		 
+
+		
+
+			 15
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		have sufficient breadth to offer meaningful protection.  In addition, our issued patents may be successfully challenged, invalidated, circumvented or found unenforceable so that our patent rights would not create an effective competitive barrier.  
+		
+		
+			 
+		
+		
+			Finally, we have an extensive portfolio of trademarks and service marks that we consider important in the marketing of our products and services, including, among others, the trademarks of the Lincoln National and Lincoln Financial names, the Lincoln silhouette logo and the combination of these marks.  Trademark registrations may be renewed indefinitely subject to continued use and registration requirements.  We regard our trademarks as valuable assets in marketing our products and services and intend to protect them against infringement and dilution.
+		
+		
+			 
+		
+		
+			EMPLOYEES
+		
+		
+			 
+		
+		
+			As of December 31, 2014, we had a total of 9,627 employees.  In addition, we had a total of 1,419 planners and agents who had active sales contracts with one of our insurance subsidiaries.  None of our employees are represented by a labor union, and we are not a party to any collective bargaining agreements.  We consider our employee relations to be good.
+		
+		
+			 
+		
+		
+			AVAILABLE INFORMATION
+		
+		
+			 
+		
+		
+			We file annual, quarterly and current reports, proxy statements and other documents with the SEC under the Exchange Act.  The public may read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549.  The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.  Also, the SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, including LNC, that file electronically with the SEC.  The public can obtain any documents that we file with the SEC at www.sec.gov. 		
+		
+			 
+		
+		
+			We also make available, free of charge, on or through our website,  www.lfg.com, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.  
+		
+		
+			 
+		
+		
+			Item 1A.  Risk Factors
+		
+		
+			 
+		
+		
+			You should carefully consider the risks described below before investing in our securities.  The risks and uncertainties described below are not the only ones facing our Company.  Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations.  If any of these risks actually occur, our business, financial condition and results of operations could be materially affected.  In that case, the value of our securities could decline substantially.
+		
+		
+			 
+		
+		
+			Legislative, Regulatory and Tax
+		
+		
+			 
+		
+		
+			Our businesses are heavily regulated and changes in regulation may affect our insurance subsidiary capital requirements or reduce our profitability.
+		
+		
+			 
+		
+		
+			Our insurance subsidiaries are subject to extensive supervision and regulation in the states in which we do business.  The supervision and regulation relate to numerous aspects of our business and financial condition.  The primary purpose of the supervision and regulation is the protection of our insurance contract holders, and not our investors.  The extent of regulation varies, but generally is governed by state statutes.  These statutes delegate regulatory, supervisory and administrative authority to state insurance departments.  This system of supervision and regulation covers, among other things:		
+		
+			 
+		
+		
+			
+				 ·
+			
+		
+			
+			Standards of minimum capital requirements and solvency, including RBC measurements;
+		
+			
+				 ·
+			
+		
+			
+			Restrictions on certain transactions, including, but not limited to, reinsurance between our insurance subsidiaries and their affiliates;
+		
+			
+				 ·
+			
+		
+			
+			Restrictions on the nature, quality and concentration of investments;
+		
+			
+				 ·
+			
+		
+			
+			Restrictions on the receipt of reinsurance credit;
+		
+			
+				 ·
+			
+		
+			
+			Restrictions on the types of terms and conditions that we can include in the insurance policies offered by our primary insurance operations;
+		
+			
+				 ·
+			
+		
+			
+			Limitations on the amount of dividends that insurance subsidiaries can pay;
+		
+			
+				 ·
+			
+		
+			
+			Licensing status of the company;
+		
+			
+				 ·
+			
+		
+			
+			Certain required methods of accounting pursuant to statutory accounting principles (“SAP”);
+		
+			
+				 ·
+			
+		
+			
+			Reserves for unearned premiums, losses and other purposes; and
+		
+			
+				 ·
+			
+		
+			
+			Assignment of residual market business and potential assessments for the provision of funds necessary for the settlement of covered claims under certain policies provided by impaired, insolvent or failed insurance companies.
+		
+			 
+		
+		
+			State insurance regulators and the NAIC regularly re-examine existing laws and regulations applicable to insurance companies and their products.  Changes in these laws and regulations, or in interpretations thereof, sometimes lead to additional expense for the insurer and, thus, could have a material adverse effect on our financial condition and results of operations.  For example, the NAIC could enact additional regulations related to the reinsurance of variable annuity business that could limit or even eliminate our ability to reinsure such business in the future. 
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 16
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Although we endeavor to maintain all required licenses and approvals our businesses may not fully comply with the wide variety of applicable laws and regulations or the relevant authority’s interpretation of the laws and regulations, which may change from time to time.  Also, regulatory authorities have relatively broad discretion to grant, renew or revoke licenses and approvals.  If we do not have the requisite licenses and approvals or do not comply with applicable regulatory requirements, the insurance regulatory authorities could preclude or temporarily suspend us from carrying on some or all of our activities or impose substantial fines.  Further, insurance regulatory authorities have relatively broad discretion to issue orders of supervision, which permit such authorities to supervise the business and operations of an insurance company.  As of December 31, 2014, no state insurance regulatory authority had imposed on us any material fines or revoked or suspended any of our licenses to conduct insurance business in any state or issued an order of supervision with respect to our insurance subsidiaries, which would have a material adverse effect on our results of operations or financial condition.		
+		
+			 
+		
+		
+			In addition, our broker-dealer and investment advisor subsidiaries as well as our variable annuities and variable life insurance products, are subject to regulation and supervision by the SEC and FINRA.  These laws and regulations generally grant supervisory agencies and self-regulatory organizations broad administrative powers, including the power to limit or restrict the subsidiaries from carrying on their businesses in the event that they fail to comply with such laws and regulations.  The foregoing regulatory or governmental bodies, as well as the DOL and others, have the authority to review our products and business practices and those of our agents and employees. In recent years, there has been increased scrutiny of our businesses by these bodies, which has included more extensive examinations, regular sweep inquiries and more detailed review of disclosure documents.  These regulatory or governmental bodies may bring regulatory or other legal actions against us if, in their view, our practices, or those of our agents or employees, are improper.  These actions can result in substantial fines, penalties or prohibitions or restrictions on our business activities and could have a material adverse effect on our business, results of operations or financial condition.		
+		
+			 
+		
+		
+			Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline 38 may fail in whole or in part resulting in an adverse effect on our financial condition and results of operations.		
+		
+			 
+		
+		
+			XXX requires insurers to establish additional statutory reserves for term life insurance policies with long-term premium guarantees and UL policies with secondary guarantees.  In addition, AG38 clarifies the application of XXX with respect to certain UL insurance policies with secondary guarantees.  Virtually all of our newly issued term and the majority of our newly issued UL insurance products are affected by XXX and AG38. The application of both AG38 and XXX involve numerous interpretations.  If state insurance departments do not agree with our interpretations, we may have to increase reserves related to such policies.  The NYDFS does not recognize the NAIC revisions to AG38 in applying the New York law governing the reserves to be held for UL and VUL products containing secondary guarantees.  The change, which was effective as of December 31, 2013, impacts our New York-domiciled insurance subsidiary, LLANY.  LLANY discontinued the sale of these products in early 2013, but the change affects those policies sold prior to that time.  We began phasing in the increase in reserves over five years beginning in 2013.  As of December 31,  2014, we have increased reserves by $180 million.  The additional increase in reserves over the next three years is subject to ongoing discussions with the NYDFS.  However, we do not expect the amount for each of the remaining years to exceed $90 million per year.  		
+		
+			 
+		
+		
+			We have implemented, and plan to continue to implement, reinsurance and capital management transactions to mitigate the capital impact of XXX and AG38, including the use of captive reinsurance subsidiaries. Recently, the NAIC adopted AG48 regulating the terms of these arrangements that are entered into or amended in certain ways after December 31, 2014.  This new guideline imposes restrictions on the types of assets that can be used to support the reinsurance in these kinds of transactions.  We cannot provide assurance that we will be able to continue to implement transactions or take other actions to mitigate the impact of XXX or AG38 on future sales of term and UL insurance products.    If we are unable to continue to implement such solutions for any reason, we may have lower returns on such products sold than we currently anticipate and/or reduce our sales of these products.  		
+		
+			 
+		
+		
+			Changes in U.S. federal income tax law could increase our tax costs and make the products that we  sell less desirable.		
+		
+			 
+		
+		
+			Changes to the Internal Revenue Code, administrative rulings or court decisions could increase our effective tax rate, make our products less desirable and lower our net income on both a statutory accounting and GAAP basis.   For example, the House Ways and Means Committee, led by Representative Dave Camp, released a draft of a tax reform act in early 2014.  Some of the proposed changes include (i) changes to the calculation of the separate account dividends-received deduction that would largely eliminate the benefit insurance companies receive, (ii) changes to the calculation of deductible insurance reserves that would decrease the value of the reserve deduction available to insurance companies and (iii) changes to the rules for DAC that would increase the amount of premiums received that a company would be required to capitalize.		
+		
+			 
+		
+		
+			Further, in early February 2015 the Obama Administration released its fiscal year 2016 budget proposal that included proposals which, if enacted, would affect the taxation of life insurance companies and certain life insurance products.  If enacted into law, the statutory changes contemplated by the Administration’s revenue proposals could, among other things, change the method used to determine the amount of dividend income received by a life insurance company on assets held in separate accounts used to support products, including variable life insurance and variable annuity contracts, that are eligible for the dividends-received deduction.  The dividends-received deduction reduces the amount of dividend income subject to tax and is a significant component of the difference between our actual tax expense and expected amount determined using the federal statutory tax rate of 35%.  Our income tax provision for the year ended December 31, 2014, included a separate account dividends-received deduction benefit of $163 million.  In addition, the proposals could affect the treatment of COLI policies by limiting the availability of certain interest deductions for companies that purchase those policies.  		
+		 
+
+		
+
+			 17
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		If proposals of this type were enacted, our sale of COLI, variable annuities and variable life products could be adversely affected and our actual tax expense could increase, reducing earnings.
+		
+		
+			 
+		
+		
+			Legal and regulatory actions are inherent in our businesses and could result in financial losses or harm our businesses.		
+		
+			 
+		
+		
+			We are, and in the future may be, subject to legal and regulatory actions in the ordinary course of our insurance and retirement operations.  Pending legal actions include proceedings relating to aspects of our businesses and operations that are specific to us and proceedings that are typical of the businesses in which we operate. Some of these proceedings have been brought on behalf of various alleged classes of complainants.  In certain of these matters, the plaintiffs are seeking large and/or indeterminate amounts, including punitive or exemplary damages.  Substantial legal liability in these or future legal or regulatory actions could have a material financial effect or cause significant harm to our reputation, which in turn could materially harm our business prospects.  See Note 13 for a description of legal and regulatory proceedings and actions.  		
+		
+			 
+		
+		
+			Implementation of the provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act may subject us to substantial additional federal regulation, and we cannot predict the effect on our business, results of operations, cash flows or financial condition.
+		
+		
+			 
+		
+		
+			Since it was enacted in 2010, the Dodd-Frank Act has brought wide-ranging changes to the financial services industry, including changes to the rules governing derivatives; restrictions on proprietary trading by certain entities; a study by the SEC of the rules governing broker-dealers and investment advisers with respect to individual investors and investment advice, followed potentially by rulemaking; the creation of a new Federal Insurance Office within the U.S. Treasury to gather information and make recommendations regarding regulation of the insurance industry; the creation of a resolution authority to unwind failing institutions; the creation of a new Consumer Financial Protection Bureau to protect consumers of certain financial products; and changes to executive compensation and certain corporate governance rules, among other things.		
+		
+			 
+		
+		
+			The Dodd-Frank Act requires significant rulemaking across numerous agencies within the federal government, some of which has been implemented.  The implementation of newly-adopted rules will continue into 2015, as will the rulemaking process.  The ultimate impact of these provisions on our businesses (including product offerings), results of operations, liquidity and capital resources is currently indeterminable. 
+		
+		
+			 
+		
+		
+			Changes in accounting standards issued by the Financial Accounting Standards Board or other standard-setting bodies may adversely affect our financial statements.
+		
+		
+			 
+		
+		
+			Our financial statements are prepared in accordance with GAAP as identified in the Financial Accounting Standards Board (“FASB”) Accounting Standards CodificationTM (“ASC”).  From time to time, we are required to adopt new or revised accounting standards or guidance that are incorporated into the FASB ASC.  It is possible that future accounting standards we are required to adopt could change the current accounting treatment that we apply to our consolidated financial statements and that such changes could have a material adverse effect on our financial condition and results of operations.		
+		
+			 
+		
+		
+			Specifically, the FASB is working on several key projects, including those which could result in significant changes to how we account for and report our insurance contracts, financial instruments and DAC.  Depending on the magnitude of the changes ultimately adopted by the FASB, the proposed changes to GAAP may impose special demands on issuers in the areas of employee training, internal controls, contract fulfillment and disclosure and may affect how we manage our business, as it may affect other business processes such as design of compensation plans, product design, etc.  The effective dates and transition methods are not known; however, issuers may be required to or may choose to adopt the new standards retrospectively.  In this case, the issuer will report results under the new accounting method as of the effective date, as well as for all periods presented.  In addition, the SEC is considering whether and how to incorporate International Financial Reporting Standards into the U.S. financial reporting system.  		
+		
+			 
+		
+		
+			Our domestic insurance subsidiaries are subject to SAP.  Any changes in the method of calculating reserves for our life insurance and annuity products under SAP, such as the finalization of principles-based reserving, may result in increased reserve requirements.
+		
+		
+			 
+		
+		
+			Anti-takeover provisions could delay, deter or prevent our change in control, even if the change in control would be beneficial to LNC shareholders.
+		
+		
+			 
+		
+		
+			We are an Indiana corporation subject to Indiana state law.  Certain provisions of Indiana law could interfere with or restrict takeover bids or other change in control events affecting us.  Also, provisions in our articles of incorporation, bylaws and other agreements to which we are a party could delay, deter or prevent our change in control, even if a change in control would be beneficial to shareholders.  In addition, under Indiana law, directors may, in considering the best interests of a corporation, consider the effects of any action on shareholders, employees, suppliers and customers of the corporation and the communities in which offices and other facilities are located, and other factors the directors consider pertinent.  One statutory provision prohibits, except under specified circumstances, LNC from engaging in any business combination with any shareholder who owns 10% or more of our common stock (which shareholder, under the statute, would be considered an “interested shareholder”) for a period of five years following the time that such shareholder became an interested shareholder, unless such business combination is approved by the board of directors prior to such person becoming an interested shareholder.  In addition, our articles of incorporation contain a provision requiring holders of at least three-fourths of our voting shares then outstanding and entitled to vote at an election of directors, voting together, to approve a transaction with an interested shareholder rather than the simple majority required under Indiana law, unless certain price thresholds are met.		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 18
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		In addition to the anti-takeover provisions of Indiana law, there are other factors that may delay, deter or prevent our change in control. As an insurance holding company, we are regulated as an insurance holding company and are subject to the insurance holding company acts of the states in which our insurance company subsidiaries are domiciled.  The insurance holding company acts and regulations restrict the ability of any person to obtain control of an insurance company without prior regulatory approval.  Under those statutes and regulations, without such approval (or an exemption), no person may acquire any voting security of a domestic insurance company, or an insurance holding company which controls an insurance company, or merge with such a holding company, if as a result of such transaction such person would “control” the insurance holding company or insurance company. “Control” is generally defined as the direct or indirect power to direct or cause the direction of the management and policies of a person and is presumed to exist if a person directly or indirectly owns or controls 10% or more of the voting securities of another person.		
+		
+			 
+		
+		
+			Market Conditions
+		
+		
+			 
+		
+		
+			Weak conditions in the global capital markets and the economy generally may materially adversely affect our business and results of operations.
+		
+		
+			 
+		
+		
+			Our results of operations are materially affected by conditions in the global capital markets and the economy generally, both in the U.S. and elsewhere around the world.  Continued unconventional easing from the major central banks, ongoing global growth weakness and the ability of the U.S. government to proactively address the fiscal imbalance remain key challenges for markets and our business.  These macro-economic conditions may have an adverse effect on us given our credit and equity market exposure.  In the event of extreme prolonged market events, such as the global credit crisis and recession that occurred during 2008 and 2009, we could incur significant losses. Even in the absence of a market downturn, we are exposed to substantial risk of loss due to market volatility.		
+		
+			 
+		
+		
+			Factors such as consumer spending, business investment, domestic and foreign government spending, the volatility and strength of the capital markets, the potential for inflation or deflation and uncertainty over domestic and foreign government actions all affect the business and economic environment and, ultimately, the amount and profitability of our business.  In an economic downturn characterized by higher unemployment, lower disposable income, lower corporate earnings, lower business investment and lower consumer spending, the demand for our financial and insurance products could be adversely affected. In addition, we may experience an elevated incidence of claims and lapses or surrenders of policies.  Our contract holders may choose to defer paying insurance premiums or stop paying insurance premiums altogether.  Adverse changes in the economy could affect earnings negatively and could have a material adverse effect on our business, results of operations and financial condition.		
+		
+			 
+		
+		
+			Changes in interest rates and sustained low interest rates may cause interest rate spreads to decrease and changes in interest rates may also result in increased contract withdrawals.
+		
+		
+			 
+		
+		
+			Interest rate fluctuations and/or a sustained period of low interest rates could negatively affect our profitability.  Some of our products, principally fixed annuities, UL, IUL and the fixed portions of variable annuities, and VUL have interest rate guarantees that expose us to the risk that changes in interest rates will reduce our spread, or the difference between the amounts that we are required to pay under the contracts and the amounts we are able to earn on our general account investments intended to support our obligations under the contracts.  Spreads are an important component of our net income.  Declines in our spread or instances where the returns on our general account investments are not enough to support the interest rate guarantees on these products could have a material adverse effect on our businesses or results of operations.		
+		
+			 
+		
+		
+			In periods when interest rates are declining or remain at low levels, we may have to reinvest the cash we receive as interest or return of principal on our investments in lower yielding instruments reducing our spread.  Moreover, borrowers may prepay fixed-income securities, commercial mortgages and mortgage-backed securities in our general account in order to borrow at lower market rates, which exacerbates this risk.  Lowering interest crediting rates helps to mitigate the effect of spread compression on some of our products.  However, because we are entitled to reset the interest rates on our fixed-rate annuities only at limited, pre-established intervals, and since many of our contracts have guaranteed minimum interest or crediting rates, our spreads could still decrease.  As of December 31, 2014,  43% of our annuities business, 94% of our retirement plan services business and 97% of our life insurance business with guaranteed minimum interest or crediting rates are at their guaranteed minimums.		
+		
+			 
+		
+		
+			Our expectation for future spreads is an important component in the amortization of DAC and value of business acquired (“VOBA”) as it affects the future profitability of the business.  Currently, new money rates continue to be at historically low levels.  The Federal Reserve Board has moved from calendar-based guidance to macro-based thresholds and forecasts that point toward short-term rates likely remaining near or slightly above 1% at the end of 2015.  If interest rates were to remain low over a sustained period of time, this will put additional pressure on our spreads, potentially resulting in unlocking of our DAC and VOBA assets, thereby reducing net income in the affected reporting period.  We would expect the effect to be most pronounced in our Life Insurance segment. For additional information on interest rate risks, see “Part II – Item 7A. Quantitative and Qualitative Disclosures About Market Risk – Interest Rate Risk.” 		
+		
+			 
+		
+		
+			A decline in market interest rates could also reduce our return on investments that do not support particular policy obligations.  During periods of sustained lower interest rates, our recorded policy liabilities may not be sufficient to meet future policy obligations and may need to be strengthened, thereby reducing net income in the affected reporting period.  Accordingly, declining interest rates may materially affect our results of operations, financial condition and cash flows and significantly reduce our profitability.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 19
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Increases in market interest rates may also negatively affect our profitability.  In periods of rapidly increasing interest rates, we may not be able to replace the assets in our general account with higher yielding assets needed to fund the higher crediting rates necessary to keep our interest-sensitive products competitive.  We, therefore, may have to accept a lower spread and thus lower profitability or face a decline in sales and greater loss of existing contracts and related assets.  Increases in interest rates may cause increased surrenders and withdrawals of insurance products. In periods of increasing interest rates, policy loans and surrenders and withdrawals of life insurance policies and annuity contracts may increase as contract holders seek to buy products with perceived higher returns.  This process may lead to a flow of cash out of our businesses.  These outflows may require investment assets to be sold at a time when the prices of those assets are lower because of the increase in market interest rates, which may result in realized investment losses.  A sudden demand among consumers to change product types or withdraw funds could lead us to sell assets at a loss to meet the demand for funds.  Furthermore, unanticipated increases in withdrawals and termination may cause us to unlock our DAC and VOBA assets, which would reduce net income.  An increase in market interest rates could also have a material adverse effect on the value of our investment portfolio, for example, by decreasing the estimated fair values of the fixed-income securities that comprise a substantial portion of our investment portfolio.  An increase in interest rates could also result in decreased fee income associated with a decline in the value of variable annuity account balances invested in fixed-income funds.		
+		
+			 
+		
+		
+			Because the equity markets and other factors impact the profitability and expected profitability of many of our products, changes in equity markets and other factors may significantly affect our business and profitability.
+		
+		
+			 
+		
+		
+			The fee income that we earn on variable annuities and VUL insurance policies is based primarily upon account values.  Because strong equity markets result in higher account values, strong equity markets positively affect our net income through increased fee income.   Conversely, a weakening of the equity markets results in lower fee income and may have a material adverse effect on our results of operations and capital resources.		
+		
+			 
+		
+		
+			The increased fee income resulting from strong equity markets increases the estimated gross profits (“EGPs”) from variable insurance products as do better than expected lapses, mortality rates and expenses.  As a result, higher EGPs may result in lower net amortized costs related to DAC, deferred sales inducements (“DSI”), VOBA, deferred front-end loads (“DFEL”) and changes in future contract benefits.  However, a decrease in the equity markets, as well as worse than expected increases in lapses, mortality rates and expenses, depending upon their significance, may result in higher net amortized costs associated with DAC, DSI, VOBA, DFEL and changes in future contract benefits and may have a material adverse effect on our results of operations and capital resources.  If we had unlocked our reversion to the mean (“RTM”) assumption in the corridor as of December 31, 2014, we would have recorded favorable unlocking of approximately $300 million, pre-tax, for our Annuities segment, approximately $25 million, pre-tax, for our Retirement Plan Services segment and approximately $40 million, pre-tax, for our Life Insurance segment.  For further information about our RTM process, see “Critical Accounting Policies and Estimates – DAC, VOBA, DSI and DFEL – Reversion to the Mean” in the MD&A.		
+		
+			 
+		
+		
+			Changes in the equity markets, interest rates and/or volatility affect the profitability of our products with guaranteed benefits; therefore, such changes may have a material adverse effect on our business and profitability.
+		
+		
+			 
+		
+		
+			Certain of our variable annuity products include guaranteed benefit riders.  These include GDB, GWB and GIB riders.  Our GWB, GIB and 4LATER® (a form of GIB rider) features have elements of both insurance benefits accounted for under the Financial Services – Insurance – Claim Costs and Liabilities for Future Policy Benefits Subtopic of the FASB ASC (“benefit reserves”) and embedded derivatives accounted for under the Derivatives and Hedging and the Fair Value Measurements and Disclosures Topics of the FASB ASC (“embedded derivative reserves”).  We calculate the value of the embedded derivative reserve and the benefit reserves based on the specific characteristics of each guaranteed living benefit feature.  The amount of reserves related to GDB for variable annuities is tied to the difference between the value of the underlying accounts and the GDB, calculated using a benefit ratio approach.  The GDB reserves take into account the present value of total expected GDB payments, the present value of total expected GDB assessments over the life of the contract, claims paid to date and assessments to date. Reserves for our GIB and certain GWB with lifetime benefits are based on a combination of fair value of the underlying benefit and a benefit ratio approach that is based on the projected future payments in excess of projected future account values.  The benefit ratio approach takes into account the present value of total expected GIB payments, the present value of total expected GIB assessments over the life of the contract, claims paid to date and assessments to date.  The amount of reserves related to those GWB that do not have lifetime benefits is based on the fair value of the underlying benefit.		
+		
+			 
+		
+		
+			Both the level of expected payments and expected total assessments used in calculating the reserves not carried at fair value are affected by the equity markets.  The liabilities related to fair value are impacted by changes in equity markets, interest rates, volatility, foreign exchange rates and credit spreads.  Accordingly, strong equity markets, increases in interest rates and decreases in volatility will generally decrease the reserves calculated using fair value.  Conversely, a decrease in the equity markets along with a decrease in interest rates and an increase in volatility will generally result in an increase in the reserves calculated using fair value.		
+		
+			 
+		
+		
+			Increases in reserves would result in a charge to our earnings in the quarter in which the increase occurs.  Therefore, we maintain a customized dynamic hedge program that is designed to mitigate the risks associated with income volatility around the change in reserves on guaranteed benefits.  However, the hedge positions may not be effective to exactly offset the changes in the carrying value of the guarantees due to, among other things, the time lag between changes in their values and corresponding changes in the hedge positions, high levels of volatility in the equity markets and derivatives markets, extreme swings in interest rates, contract holder behavior different than expected, a strategic decision to adjust the hedging strategy in reaction to extreme market conditions or inconsistencies between economic and statutory reserving guidelines and divergence between the performance of the underlying funds and hedging indices.		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 20
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		In addition, we remain liable for the guaranteed benefits in the event that derivative counterparties are unable or unwilling to pay, and we are also subject to the risk that the cost of hedging these guaranteed benefits increases, resulting in a reduction to net income.  These, individually or collectively, may have a material adverse effect on net income, financial condition or liquidity.
+		
+		
+			 
+		
+		
+			Liquidity and Capital Position
+		
+		
+			 
+		
+		
+			Adverse capital and credit market conditions may affect our ability to meet liquidity needs, access to capital and cost of capital.
+		
+		
+			 
+		
+		
+			We need liquidity to pay our operating expenses, interest on our debt and dividends on our capital stock, to maintain our securities lending activities and to replace certain maturing liabilities.  Without sufficient liquidity, we will be forced to curtail our operations, and our business will suffer.  When considering our liquidity and capital position, it is important to distinguish between the needs of our insurance subsidiaries and the needs of the holding company.
+		
+		
+			 
+		
+		
+			For our insurance and other subsidiaries, the principal sources of liquidity are insurance premiums and fees, annuity considerations and cash flow from our investment portfolio and assets, consisting mainly of cash or assets that are readily convertible into cash.
+		
+		
+			 
+		
+		
+			In the event that current resources do not satisfy our needs, we may have to seek additional financing.  The availability of additional financing will depend on a variety of factors such as market conditions, the general availability of credit, the volume of trading activities, the overall availability of credit to the financial services industry, our credit ratings and credit capacity, as well as the possibility that customers or lenders could develop a negative perception of our long- or short-term financial prospects if we incur large investment losses or if the level of our business activity decreases due to a market downturn.  Similarly, our access to funds may be impaired if regulatory authorities or rating agencies take negative actions against us.  See “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow” in the MD&A for a description of our credit ratings.  Our internal sources of liquidity may prove to be insufficient, and in such case, we may not be able to successfully obtain additional financing on favorable terms, or at all.		
+		
+			 
+		
+		
+			Disruptions, uncertainty or volatility in the capital and credit markets may also limit our access to capital required to operate our business, most significantly our insurance operations.  Such market conditions may limit our ability to replace, in a timely manner, maturing liabilities; satisfy statutory capital requirements; generate fee income and market-related revenue to meet liquidity needs; and access the capital necessary to grow our business.  As such, we may be forced to delay raising capital, issue shorter term securities than we prefer or bear an unattractive cost of capital which could decrease our profitability and significantly reduce our financial flexibility. Our results of operations, financial condition, cash flows and statutory capital position could be materially adversely affected by disruptions in the financial markets.		
+		
+			 
+		
+		
+			Because we are a holding company with no direct operations, the inability of our subsidiaries to pay dividends to us in sufficient amounts would harm our ability to meet our obligations.
+		
+		
+			 
+		
+		
+			We are a holding company and we have no direct operations.  Our principal asset is the capital stock of our insurance subsidiaries.  Our ability to meet our obligations for payment of interest and principal on outstanding debt obligations and to pay dividends to shareholders, repurchase our securities and pay corporate expenses depends primarily on the ability of our subsidiaries to pay dividends or to advance or repay funds to us.  Under Indiana laws and regulations, our Indiana insurance subsidiaries, including LNL, our primary insurance subsidiary, may pay dividends to us without prior approval of the Commissioner up to a certain threshold, or must receive prior approval of the Commissioner to pay a dividend if such dividend, along with all other dividends paid within the preceding 12 consecutive months, exceed the statutory limitation.  The current Indiana statutory limitation is the greater of 10% of the insurer’s contract holders’ surplus, as shown on its last annual statement on file with the Commissioner, or the insurer’s statutory net gain from operations for the previous 12 months, but in no event to exceed statutory unassigned surplus. 		
+		
+			 
+		
+		
+			In addition, payments of dividends and advances or repayment of funds to us by our insurance subsidiaries are restricted by the applicable laws of their respective jurisdictions requiring that our insurance subsidiaries hold a specified amount of minimum reserves in order to meet future obligations on their outstanding policies.  These regulations specify that the minimum reserves shall be calculated to be sufficient to meet future obligations, after giving consideration to future required premiums to be received, and are based on certain specified mortality and morbidity tables, interest rates and methods of valuation, which are subject to change.  In order to meet their claims-paying obligations, our insurance subsidiaries regularly monitor their reserves to ensure we hold sufficient amounts to cover actual or expected contract and claims payments.  At times, we may determine that reserves in excess of the minimum may be needed to ensure sufficiency.		
+		
+			 
+		
+		
+			Changes in, or reinterpretations of, these laws can constrain the ability of our subsidiaries to pay dividends or to advance or repay funds to us in sufficient amounts and at times necessary to meet our debt obligations and corporate expenses.  Requiring our insurance subsidiaries to hold additional reserves has the potential to constrain their ability to pay dividends to the holding company.  See “Legislative, Regulatory and Tax – Attempts to mitigate the impact of Regulation XXX and Actuarial Guideline 38 may fail in whole or in part resulting in an adverse effect on our financial condition and results of operations” above for additional information on potential changes in these laws.		
+		
+			 
+		
+		
+			The earnings of our insurance subsidiaries impact contract holders’ surplus.  Lower earnings constrain the growth in our insurance subsidiaries’ capital, and therefore, can constrain the payment of dividends and advances or repayment of funds to us.  
+		
+		
+
+		
+		 
+
+		
+
+			 21
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		 
+		
+		
+			In addition, the amount of surplus that our insurance subsidiaries could pay as dividends is constrained by the amount of surplus they hold to maintain their financial strength ratings, to provide an additional layer of margin for risk protection and for future investment in our businesses.  Notwithstanding the foregoing, we believe that our insurance subsidiaries have sufficient liquidity to meet their contract holder obligations and maintain their operations.
+		
+		
+			 
+		
+		
+			A decrease in the capital and surplus of our insurance subsidiaries may result in a downgrade to our credit and insurer financial strength ratings.
+		
+		
+			 
+		
+		
+			In any particular year, statutory surplus amounts and RBC ratios may increase or decrease depending on a variety of factors, including the amount of statutory income or losses generated by our insurance subsidiaries (which itself is sensitive to equity market and credit market conditions), the amount of additional capital our insurance subsidiaries must hold to support business growth, changes in reserving requirements, such as principles-based reserving, our inability to obtain reserve relief, changes in equity market levels, the value of certain fixed-income and equity securities in our investment portfolio, the value of certain derivative instruments that do not get hedge accounting treatment, changes in interest rates and foreign currency exchange rates, as well as changes to the NAIC RBC formulas.  The RBC ratio is also affected by the product mix of the in-force book of business (i.e., the amount of business without guarantees is not subject to the same level of reserves as the business with guarantees).  Most of these factors are outside of our control. Our credit and insurer financial strength ratings are significantly influenced by the statutory surplus amounts and RBC ratios of our insurance company subsidiaries.  The RBC ratio of LNL is an important factor in the determination of the credit and financial strength ratings of LNC and its subsidiaries.  In addition, rating agencies may implement changes to their internal models that have the effect of increasing or decreasing the amount of statutory capital we must hold in order to maintain our current ratings.  In extreme scenarios of equity market declines, the amount of additional statutory reserves that we are required to hold for our variable annuity guarantees may increase at a rate greater than the rate of change of the markets.  Increases in reserves reduce the statutory surplus used in calculating our RBC ratios.  To the extent that our statutory capital resources are deemed to be insufficient to maintain a particular rating by one or more rating agencies, we may seek to raise additional capital through public or private equity or debt financing, which may be on terms not as favorable as in the past. 		
+		
+			 
+		
+		
+			Alternatively, if we were not to raise additional capital in such a scenario, either at our discretion or because we were unable to do so, our financial strength and credit ratings might be downgraded by one or more rating agencies.  For more information on risks regarding our ratings, see “Covenants and Ratings – A downgrade in our financial strength or credit ratings could limit our ability to market products, increase the number or value of policies being surrendered and/or hurt our relationships with creditors” below.		
+		
+			 
+		
+		
+			An inability to access our credit facilities could result in a reduction in our liquidity and lead to downgrades in our credit and financial strength ratings.
+		
+		
+			 
+		
+		
+			We have a $2.5 billion unsecured facility, which expires on May 29, 2018.  We also have other facilities that we enter into in the ordinary course of business.  See “Review of Consolidated Financial Condition – Liquidity and Capital Resources – Sources of Liquidity and Cash Flow – Financing Activities” in the MD&A and Note 12.		
+		
+			 
+		
+		
+			We rely on our credit facilities as a potential source of liquidity.  We also use the credit facility as a potential backstop to provide variable annuity reserve credit.  While our variable annuity hedge assets have historically always exceeded the statutory reserves, in certain severely stressed market conditions, it is possible that the hedge assets could be less than the statutory reserve.  Our credit facility is available to provide reserve credit to LNL in such a case.  If we were unable to access our facility in such circumstances, it could materially impact LNL’s capital position.    The availability of these facilities could be critical to our credit and financial strength ratings and our ability to meet our obligations as they come due in a market when alternative sources of credit are tight.  The credit facilities contain certain administrative, reporting, legal and financial covenants.  We must comply with covenants under our credit facilities, including a requirement to maintain a specified minimum consolidated net worth.		
+		
+			 
+		
+		
+			Our right to borrow funds under these facilities is subject to the fulfillment of certain important conditions, including our compliance with all covenants, and our ability to borrow under these facilities is also subject to the continued willingness and ability of the lenders that are parties to the facilities to provide funds.  Our failure to comply with the covenants in the credit facilities or fulfill the conditions to borrowings, or the failure of lenders to fund their lending commitments (whether due to insolvency, illiquidity or other reasons) in the amounts provided for under the terms of the facilities, would restrict our ability to access these credit facilities when needed and, consequently, could have a material adverse effect on our financial condition and results of operations.		
+		
+			 
+		
+		
+			Assumptions and Estimates
+		
+		
+			 
+		
+		
+			As a result of changes in assumptions, estimates and methods in calculating reserves, our reserves for future policy benefits and claims related to our current and future business as well as businesses we may acquire in the future may prove to be inadequate.
+		
+		
+			 
+		
+		
+			We establish and carry, as a liability, reserves based on estimates of how much we will need to pay for future benefits and claims.    For our insurance products, we calculate these reserves based on many assumptions and estimates, including, but not limited to, estimated premiums we will receive over the assumed life of the policies, the timing of the events covered by the insurance policies, the lapse rate of the policies, the amount of benefits or claims to be paid and the investment returns on the assets we purchase with the premiums we receive.
+		
+		
+			 
+		
+		
+			The sensitivity of our statutory reserves and surplus established for our variable annuity base contracts and riders to changes in the equity markets will vary depending on the magnitude of the decline.  The sensitivity will be affected by the level of account values relative to the 
+		
+		 
+
+		
+
+			 22
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		level of guaranteed amounts, product design and reinsurance.  Statutory reserves for variable annuities depend upon the cumulative equity market impacts on the business in force, and therefore, result in non-linear relationships with respect to the level of equity market performance within any reporting period.
+		
+		
+			 
+		
+		
+			The assumptions and estimates we use in connection with establishing and carrying our reserves are inherently uncertain.  Accordingly, we cannot determine with precision the ultimate amount or the timing of the payment of actual benefits and claims or whether the assets supporting the policy liabilities will grow to the level we assume prior to payment of benefits or claims.  If our actual experience is different from our assumptions or estimates, our reserves may prove to be inadequate in relation to our estimated future benefits and claims. Increases in reserves have a negative effect on income from operations in the quarter incurred.		
+		
+			 
+		
+		
+			If our businesses do not perform well and/or their estimated fair values decline or the price of our common stock does not increase, we may be required to recognize an impairment of our goodwill or to establish a valuation allowance against the deferred income tax asset, which could have a material adverse effect on our results of operations and financial condition.
+		
+		
+			 
+		
+		
+			Goodwill represents the excess of the acquisition price incurred to acquire subsidiaries and other businesses over the fair value of their net assets as of the date of acquisition.  As of December 31, 2014, we had a total of $2.3 billion of goodwill on our Consolidated Balance Sheets.  We test goodwill at least annually for indications of value impairment with consideration given to financial performance, mergers and acquisitions and other relevant factors.  In addition, certain events, including a significant and adverse change in legal factors, accounting standards or the business climate, an adverse action or assessment by a regulator or unanticipated competition, would cause us to review the carrying amounts of goodwill for impairment.  Impairment testing is performed based upon estimates of the fair value of the “reporting unit” to which the goodwill relates.  Subsequent reviews of goodwill could result in an impairment of goodwill, and such write downs could have a material adverse effect on our net income and book value, but will not affect the statutory capital of our insurance subsidiaries. For more information on goodwill, see “Critical Accounting Policies and Estimates – Goodwill and Other Intangible Assets” in the MD&A and Note 10.		
+		
+			 
+		
+		
+			Deferred income tax represents the tax effect of the differences between the book and tax basis of assets and liabilities.  Deferred tax assets are assessed periodically by management to determine if they are realizable.  As of December 31, 2014, we had a deferred tax asset of $1.9 billion.  Factors in management’s determination include the performance of the business, including the ability to generate capital gains from a variety of sources and tax planning strategies.  If, based on available information, it is more likely than not that the deferred income tax asset will not be realized, then a valuation allowance must be established with a corresponding charge to net income.  Such valuation allowance could have a material adverse effect on our results of operations and financial condition.		
+		
+			 
+		
+		
+			The determination of the amount of allowances and impairments taken on our investments is highly subjective and could materially impact our results of operations or financial condition.
+		
+		
+			 
+		
+		
+			The determination of the amount of allowances and impairments varies by investment type and is based upon our periodic evaluation and assessment of known and inherent risks associated with the respective asset class.  Such evaluations and assessments are revised as conditions change and new information becomes available.  Management updates its evaluations regularly and reflects changes in allowances and impairments in operations as such evaluations are revised.  There can be no assurance that our management has accurately assessed the level of impairments taken and allowances reflected in our financial statements.  Furthermore, additional impairments may need to be taken or allowances provided for in the future.  Historical trends may not be indicative of future impairments or allowances.		
+		
+			 
+		
+		
+			We regularly review our available-for-sale (“AFS”) securities for declines in fair value that we determine to be other-than-temporary.  For an equity security, if we do not have the ability and intent to hold the security for a sufficient period of time to allow for a recovery in value, we conclude that an other-than-temporary impairment (“OTTI”) has occurred, and the amortized cost of the equity security is written down to the current fair value, with a corresponding change to realized gain (loss) on our Consolidated Statements of Comprehensive Income (Loss).  When assessing our ability and intent to hold the equity security to recovery, we consider, among other things, the severity and duration of the decline in fair value of the equity security as well as the cause of decline, a fundamental analysis of the liquidity, business prospects and overall financial condition of the issuer.		
+		
+			 
+		
+		
+			For a debt security, if we intend to sell a security or it is more likely than not we will be required to sell a debt security before recovery of its amortized cost basis and the fair value of the debt security is below amortized cost, we conclude that an OTTI has occurred and the amortized cost is written down to current fair value, with a corresponding charge to realized loss on our Consolidated Statements of Comprehensive Income (Loss).  If we do not intend to sell a debt security or it is not more likely than not we will be required to sell a debt security before recovery of its amortized cost basis but the present value of the cash flows expected to be collected is less than the amortized cost of the debt security (referred to as the credit loss), we conclude that an OTTI has occurred and the amortized cost is written down to the estimated recovery value with a corresponding charge to realized loss on our Consolidated Statements of Comprehensive Income (Loss), as this is also deemed the credit portion of the OTTI. The remainder of the decline to fair value is recorded in other comprehensive income (loss) (“OCI”) to unrealized OTTI on AFS securities on our Consolidated Statements of Stockholders’ Equity, as this is considered a noncredit (i.e., recoverable) impairment.  Net OTTI recognized in net income (loss) was $16 million, $70 million and $153 million, pre-tax, for the years ended December 31, 2014, 2013 and 2012, respectively.  The portion of OTTI recognized in OCI was $10 million, pre-tax, for the years ended December 31, 2014 and 2013.		
+		
+			 
+		
+		
+			Related to our unrealized losses, we establish deferred tax assets for the tax benefit we may receive in the event that losses are realized.  The realization of significant realized losses could result in an inability to recover the tax benefits and may result in the establishment of 
+		
+		 
+
+		
+
+			 23
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		valuation allowances against our deferred tax assets.  Realized losses or impairments may have a material adverse impact on our results of operations and financial condition.
+		
+		
+			 
+		
+		
+			Our valuation of fixed maturity, equity and trading securities may include methodologies, estimations and assumptions which are subject to differing interpretations and could result in changes to investment valuations that may materially adversely affect our results of operations or financial condition.
+		
+		
+			 
+		
+		
+			Fixed maturity, equity and trading securities and short-term investments, which are reported at fair value on our Consolidated Balance Sheets, represented the majority of our total cash and invested assets.   We have categorized these securities into a three-level hierarchy, based on the priority of the inputs to the respective valuation technique.  The fair value hierarchy gives the highest priority to quoted prices in active markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3).
+		
+		
+			 
+		
+		
+			The determination of fair values in the absence of quoted market prices is based on valuation methodologies, securities we deem to be comparable and assumptions deemed appropriate given the circumstances.  The fair value estimates are made at a specific point in time, based on available market information and judgments about financial instruments, including estimates of the timing and amounts of expected future cash flows and the credit standing of the issuer or counterparty.  Factors considered in estimating fair value include coupon rate, maturity, estimated duration, call provisions, sinking fund requirements, credit rating, industry sector of the issuer and quoted market prices of comparable securities.  The use of different methodologies and assumptions may have a material effect on the estimated fair value amounts.		
+		
+			 
+		
+		
+			During periods of market disruption, including periods of significantly increasing/decreasing or high/low interest rates, rapidly widening credit spreads or illiquidity, it may be difficult to value certain securities if trading becomes less frequent and/or market data becomes less observable.  There may be certain asset classes that were in active markets with significant observable data that become illiquid due to the current financial environment.  In such cases, more securities may fall to Level 3 and thus require more subjectivity and management judgment. As such, valuations may include inputs and assumptions that are less observable or require greater estimation, as well as valuation methods which are more sophisticated or require greater estimation, thereby resulting in values which may be less than the value at which the investments may be ultimately sold.  Further, rapidly changing and unprecedented credit and equity market conditions could materially impact the valuation of securities as reported within our consolidated financial statements and the period-to-period changes in value could vary significantly.  Decreases in value may have a material adverse effect on our results of operations or financial condition.		
+		
+			 
+		
+		
+			Significant adverse mortality experience may result in the loss of, or higher prices for, reinsurance.		
+		
+			 
+		
+		
+			We reinsure a significant amount of the mortality risk on fully underwritten, newly issued, individual life insurance contracts.  We regularly review retention limits for continued appropriateness and they may be changed in the future.  If we were to experience adverse mortality or morbidity experience, a significant portion of that would be reimbursed by our reinsurers.  Prolonged or severe adverse mortality or morbidity experience could result in increased reinsurance costs, and ultimately, reinsurers being unwilling to offer coverage.  If we are unable to maintain our current level of reinsurance or purchase new reinsurance protection at comparable rates to what we are paying currently, we may have to accept an increase in our net exposures or revise our pricing to reflect higher reinsurance premiums or both. If this were to occur, we may be exposed to reduced profitability and cash flow strain or we may not be able to price new business at competitive rates.		
+		
+			 
+		
+		
+			Catastrophes may adversely impact liabilities for contract holder claims.
+		
+		
+			 
+		
+		
+			Our insurance operations are exposed to the risk of catastrophic mortality, such as a pandemic, an act of terrorism, natural disaster or other event that causes a large number of deaths or injuries.  Significant influenza pandemics have occurred three times in the last century, but the likelihood, timing or severity of a future pandemic cannot be predicted. Additionally, the impact of climate change could cause changes in weather patterns, resulting in more severe and more frequent natural disasters such as forest fires, hurricanes, tornados, floods and storm surges.  In our group insurance operations, a localized event that affects the workplace of one or more of our group insurance customers could cause a significant loss due to mortality or morbidity claims.  These events could cause a material adverse effect on our results of operations in any period and, depending on their severity, could also materially and adversely affect our financial condition.		
+		
+			 The extent of losses from a catastrophe is a function of both the total amount of insured exposure in the area affected by the event and the severity of the event.  Pandemics, natural disasters and man-made catastrophes, including terrorism, may produce significant damage in larger areas, especially those that are heavily populated.  Claims resulting from natural or man-made catastrophic events could cause substantial volatility in our financial results for any fiscal quarter or year and could materially reduce our profitability or harm our financial condition.  Also, catastrophic events could harm the financial condition of our reinsurers and thereby increase the probability of default on reinsurance recoveries.  Accordingly, our ability to write new business could also be affected.		
+		
+			 
+		
+		
+			Consistent with industry practice and accounting standards, we establish liabilities for claims arising from a catastrophe only after assessing the probable losses arising from the event.  We cannot be certain that the liabilities we have established or applicable reinsurance will be adequate to cover actual claim liabilities, and a catastrophic event or multiple catastrophic events could have a material adverse effect on our business, results of operations and financial condition.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 24
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		Operational Matters
+		
+		
+			 
+		
+		
+			Our enterprise risk management policies and procedures may leave us exposed to unidentified or unanticipated risk, which could negatively affect our businesses or result in losses.
+		
+		
+			 
+		
+		
+			We have devoted significant resources to develop our enterprise risk management policies and procedures and expect to continue to do so in the future.  Nonetheless, our policies and procedures to identify, monitor and manage risks may not be fully effective.  Many of our methods of managing risk and exposures are based upon our use of observed historical market behavior or statistics based on historical models.  As a result, these methods may not predict future exposures, which could be significantly greater than the historical measures indicate, such as the risk of pandemics causing a large number of deaths.  Other risk management methods depend upon the evaluation of information regarding markets, clients, catastrophe occurrence or other matters that is publicly available or otherwise accessible to us, which may not always be accurate, complete, up-to-date or properly evaluated.  Management of operational, legal and regulatory risks requires, among other things, policies and procedures to record properly and verify a large number of transactions and events, and these policies and procedures may not be fully effective.		
+		
+			 
+		
+		
+			We face risks of non-collectability of reinsurance and increased reinsurance rates, which could materially affect our results of operations.
+		
+		
+			 
+		
+		
+			We follow the insurance practice of reinsuring with other insurance and reinsurance companies a portion of the risks under the policies written by our insurance subsidiaries (known as “ceding”).  As of December 31, 2014, we ceded $292.8 billion of life insurance in force to reinsurers for reinsurance protection.  Although reinsurance does not discharge our subsidiaries from their primary obligation to pay contract holders for losses insured under the policies we issue, reinsurance does make the assuming reinsurer liable to the insurance subsidiaries for the reinsured portion of the risk. As of December 31, 2014, we had $5.7 billion of reinsurance receivables from reinsurers for paid and unpaid losses, for which they are obligated to reimburse us under our reinsurance contracts.  Of this amount, $2.5 billion related to the sale of our reinsurance business to Swiss Re in 2001 through an indemnity reinsurance agreement.  Swiss Re has funded a trust to support this business.  The balance in the trust changes as a result of ongoing reinsurance activity and was $2.6 billion as of December 31, 2014.  Furthermore, $764 million of the Swiss Re treaties are funds withheld structures where we have a right of offset on assets backing the reinsurance receivables.		
+		
+			 
+		
+		
+			The balance of the reinsurance is due from a diverse group of reinsurers.  The collectability of reinsurance is largely a function of the solvency of the individual reinsurers.  We perform annual credit reviews on our reinsurers, focusing on, among other things, financial capacity, stability, trends and commitment to the reinsurance business.  We also require assets in trust, LOCs or other acceptable collateral to support balances due from reinsurers not authorized to transact business in the applicable jurisdictions.  Despite these measures, a reinsurer’s insolvency, inability or unwillingness to make payments under the terms of a reinsurance contract, especially Swiss Re, could have a material adverse effect on our results of operations and financial condition.		
+		
+			 
+		
+		
+			Reinsurers also may attempt to increase rates with respect to our existing reinsurance arrangements.  The ability of our reinsurers to increase rates depends upon the terms of each reinsurance contract.  An increase in reinsurance rates may affect the profitability of our insurance business.
+		
+		
+			 
+		
+		
+			Competition for our employees is intense, and we may not be able to attract and retain the highly skilled people we need to support our business.
+		
+		
+			 
+		
+		
+			Our success depends, in large part, on our ability to attract and retain key people.  Intense competition exists for the key employees with demonstrated ability, and we may be unable to hire or retain such employees.  The unexpected loss of services of one or more of our key personnel could have a material adverse effect on our operations due to their skills, knowledge of our business, their years of industry experience and the potential difficulty of promptly finding qualified replacement employees.  We compete with other financial institutions primarily on the basis of our products, compensation, support services and financial condition.  Sales in our businesses and our results of operations and financial condition could be materially adversely affected if we are unsuccessful in attracting and retaining key employees, including financial advisors, wholesalers and other employees, as well as independent distributors of our products.		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 25
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+		
+		
+			We may not be able to protect our intellectual property and may be subject to infringement claims.
+		
+		
+			 
+		
+		
+			We rely on a combination of contractual rights and copyright, trademark, patent and trade secret laws to establish and protect our intellectual property.  Although we use a broad range of measures to protect our intellectual property rights, third parties may infringe or misappropriate our intellectual property.  We may have to litigate to enforce and protect our copyrights, trademarks, patents, trade secrets and know-how or to determine their scope, validity or enforceability, which represents a diversion of resources that may be significant in amount and may not prove successful.  Additionally, complex legal and factual determinations and evolving laws and court interpretations make the scope of protection afforded our intellectual property uncertain, particularly in relation to our patents.  While we believe our patents provide us with a competitive advantage, we cannot be certain that any issued patents will be interpreted with sufficient breadth to offer meaningful protection.  In addition, our issued patents may be successfully challenged, invalidated, circumvented or found unenforceable so that our patent rights would not create an effective competitive barrier.  The loss of intellectual property protection or the inability to secure or enforce the protection of our intellectual property assets could have a material adverse effect on our business and our ability to compete.		
+		
+			 
+		
+		
+			We also may be subject to costly litigation in the event that another party alleges our operations or activities infringe upon another party’s intellectual property rights.  Third parties may have, or may eventually be issued, patents that could be infringed by our products, methods, processes or services.  Any party that holds such a patent could make a claim of infringement against us.  We may also be subject to claims by third parties for breach of copyright, trademark, trade secret or license usage rights. Any such claims and any resulting litigation could result in significant liability for damages.  If we were found to have infringed a third-party patent or other intellectual property rights, we could incur substantial liability, and in some circumstances could be enjoined from providing certain products or services to our customers or utilizing and benefiting from certain methods, processes, copyrights, trademarks, trade secrets or licenses, or alternatively could be required to enter into costly licensing arrangements with third parties, all of which could have a material adverse effect on our business, results of operations and financial condition.		
+		
+			 
+		
+		
+			Our information systems may experience interruptions or breaches in security.
+		
+		
+			 
+		
+		
+			Our information systems are critical to the operation of our business.  We collect, process, maintain, retain and distribute large amounts of personal financial and health information and other confidential and sensitive data about our customers in the ordinary course of our business.  Our business therefore depends on our customers’ willingness to entrust us with their personal information.  Any failure, interruption or breach in security could result in disruptions to our critical systems and adversely affect our customer relationships.  While we employ a robust and tested information security program, there can be no assurance that any such failure, interruption or security breach will not occur or, if any does occur, that it can be sufficiently remediated.  Although hackers have attempted and continue to try to infiltrate our computer systems, to  date, we have not had a material security breach.  The occurrence of any such failure, interruption or security breach of our systems could damage our reputation, result in a loss of customer business, subject us to additional regulatory scrutiny, or expose us to civil litigation and financial liability.		
+		
+			 
+		
+		
+			Covenants and Ratings
+		
+		
+			 
+		
+		
+			A downgrade in our financial strength or credit ratings could limit our ability to market products, increase the number or value of policies being surrendered and/or hurt our relationships with creditors.
+		
+		
+			 
+		
+		
+			Nationally recognized rating agencies rate the financial strength of our principal insurance subsidiaries and rate our debt.  Ratings are not recommendations to buy our securities.  Each of the rating agencies reviews its ratings periodically, and our current ratings may not be maintained in the future.
+		
+		
+			 
+		
+		
+			Our financial strength ratings, which are intended to measure our ability to meet contract holder obligations, are an important factor affecting public confidence in most of our products and, as a result, our competitiveness.  A downgrade of the financial strength rating of one of our principal insurance subsidiaries could affect our competitive position in the insurance industry by making it more difficult for us to market our products as potential customers may select companies with higher financial strength ratings and by leading to increased withdrawals by current customers seeking companies with higher financial strength ratings.  This could lead to a decrease in fees as net outflows of assets increase, and therefore, result in lower fee income.  Furthermore, sales of assets to meet customer withdrawal demands could also result in losses, depending on market conditions.  The interest rates we pay on our borrowings are largely dependent on our credit ratings.  A downgrade of our debt ratings could affect our ability to raise additional debt, including bank lines of credit, with terms and conditions similar to our current debt, and accordingly, likely increase our cost of capital.		
+		
+			 
+		
+		
+			All of our ratings and ratings of our principal insurance subsidiaries are subject to revision or withdrawal at any time by the rating agencies, and therefore, no assurance can be given that our principal insurance subsidiaries or we can maintain these ratings.  See “Item 1. Business – Financial Strength Ratings” and “Liquidity and Capital Resources – Sources of Liquidity and Cash Flow”  in the MD&A for a description of our ratings.		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 26
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+		
+		
+			We will be required to pay interest on our capital securities with proceeds from the issuance of qualifying securities if we fail to achieve capital adequacy or net income and stockholders’ equity levels.
+		
+		
+			 
+		
+		
+			As of December  31, 2014, we had approximately $1.2 billion in principal amount of capital securities outstanding.  All of the capital securities contain covenants that require us to make interest payments in accordance with an alternative coupon satisfaction mechanism (“ACSM”) if we determine that one of the following triggers exists as of the 30th day prior to an interest payment date, or the “determination date”:		
+		
+			 
+		
+		
+			
+				 1.
+			
+		
+			
+			LNL’s RBC ratio is less than 175% (based on the most recent annual financial statement filed with the State of Indiana); or
+		
+			 
+		
+		
+			2.    (i) The sum of our consolidated net income for the four trailing fiscal quarters ending on the quarter that is two quarters prior to the most recently completed quarter prior to the determination date is zero or negative, and (ii) our consolidated stockholders’ equity (excluding accumulated OCI and any increase in stockholders’ equity resulting from the issuance of preferred stock during a quarter), or “adjusted stockholders’ equity,” as of (x) the most recently completed quarter and (y) the end of the quarter that is two quarters before the most recently completed quarter, has declined by 10% or more as compared to the quarter that is ten fiscal quarters prior to the last completed quarter, or the “benchmark quarter.”		
+		
+			 
+		
+		
+			The ACSM would generally require us to use commercially reasonable efforts to satisfy our obligation to pay interest in full on the capital securities with the net proceeds from sales of our common stock and warrants to purchase our common stock with an exercise price greater than the market price.  We would have to utilize the ACSM until the trigger events above no longer existed, and, in the case of test 2 above, until our adjusted stockholders’ equity amount increased or declined by less than 10% as compared to the adjusted stockholders’ equity at the end of the benchmark quarter for each interest payment date as to which interest payment restrictions were imposed by test 2 above.
+		
+		
+			 
+		
+		
+			If we were required to utilize the ACSM and were successful in selling sufficient shares of common stock or warrants to satisfy the interest payment, we would dilute the current holders of our common stock.  Furthermore, while a trigger event is occurring and if we do not pay accrued interest in full, we may not, among other things, pay dividends on or repurchase our capital stock.  Our failure to pay interest pursuant to the ACSM will not result in an event of default with respect to the capital securities, nor will a nonpayment of interest, unless it lasts for ten consecutive years, although such breaches may result in monetary damages to the holders of the capital securities.		
+		
+			 
+		
+		
+			The calculations of RBC, net income (loss) and adjusted stockholders’ equity are subject to adjustments and the capital securities are subject to additional terms and conditions as further described in supplemental indentures filed as exhibits to our Forms 8-K filed on March 13, 2007, and  May 17, 2006.
+		
+		
+			 
+		
+		
+			Certain blocks of our insurance business purchased from third-party insurers under indemnity reinsurance agreements may require us to place assets in trust, secure letters of credit or return the business, if the financial strength ratings and/or capital ratios of certain insurance subsidiaries are not maintained at specified levels.
+		
+		
+			 
+		
+		
+			Under certain indemnity reinsurance agreements, two of our insurance subsidiaries, LNL and LLANY, provide 100% indemnity reinsurance for the business assumed; however, the third-party insurer, or the “cedent,” remains primarily liable on the underlying insurance business.  Under these types of agreements, as of December 31, 2014,  we held statutory reserves of $6.4 billion.   These indemnity reinsurance arrangements require that our subsidiary, as the reinsurer, maintain certain insurer financial strength ratings and capital ratios.  If these ratings or capital ratios are not maintained, depending upon the reinsurance agreement, the cedent may recapture the business, or require us to place assets in trust or provide LOCs at least equal to the relevant statutory reserves.  Under the LNL reinsurance arrangement, we held approximately $3.7 billion of statutory reserves.  LNL must maintain an A.M. Best financial strength rating of at least B++, an S&P financial strength rating of at least BBB- and a Moody’s financial strength rating of at least Baa3.  This arrangement may require LNL to place assets in trust equal to the relevant statutory reserves.  Under LLANY’s largest indemnity reinsurance arrangement, we held approximately $1.9 billion of statutory reserves as of December 31, 2014.   LLANY must maintain an A.M. Best financial strength rating of at least B+, an S&P financial strength rating of at least BB+ and a Moody’s financial strength rating of at least Ba1, as well as maintain an RBC ratio of at least 160% or an S&P capital adequacy ratio of 100%, or the cedent may recapture the business.  Under two other LLANY arrangements, by which we established $805 million of statutory reserves, LLANY must maintain an A.M. Best financial strength rating of at least B++, an S&P financial strength rating of at least BBB- and a Moody’s financial strength rating of at least Baa3.  One of these arrangements also requires LLANY to maintain an RBC ratio of at least 185% or an S&P capital adequacy ratio of 115%.  Each of these arrangements may require LLANY to place assets in trust equal to the relevant statutory reserves.  As of December 31, 2014, LNL’s and LLANY’s RBC ratios exceeded the required ratio.  See “Item 1. Business – Financial Strength Ratings” for a description of our financial strength ratings.		
+		
+			 
+		
+		
+			If the cedent recaptured the business, LNL and LLANY would be required to release reserves and transfer assets to the cedent.  Such a recapture could adversely impact our future profits.  Alternatively, if LNL and LLANY established a security trust for the cedent, the ability to transfer assets out of the trust could be severely restricted, thus negatively impacting our liquidity.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 27
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+		
+		
+			Investments
+		
+		
+			 
+		
+		
+			Some of our investments are relatively illiquid and are in asset classes that have been experiencing significant market valuation fluctuations.
+		
+		
+			 
+		
+		
+			We hold certain investments that may lack liquidity, such as privately placed fixed maturity securities, mortgage loans, policy loans and other limited partnership interests.  These asset classes represented 24% of the carrying value of our total cash and invested assets as of December 31, 2014.
+		
+		
+			 
+		
+		
+			If we require significant amounts of cash on short notice in excess of normal cash requirements or are required to post or return collateral in connection with our investment portfolio, derivatives transactions or securities lending activities, we may have difficulty selling these investments in a timely manner, be forced to sell them for less than we otherwise would have been able to realize, or both.
+		
+		
+			 
+		
+		
+			The reported value of our relatively illiquid types of investments, our investments in the asset classes described in the paragraph above and, at times, our high quality, generally liquid asset classes, do not necessarily reflect the lowest current market price for the asset.  If we were forced to sell certain of our assets in the current market, there can be no assurance that we would be able to sell them for the prices at which we have recorded them, and we might be forced to sell them at significantly lower prices.
+		
+		
+			 
+		
+		
+			We invest a portion of our invested assets in investment funds, many of which make private equity investments.  The amount and timing of income from such investment funds tends to be uneven as a result of the performance of the underlying investments, including private equity investments.  The timing of distributions from the funds, which depends on particular events relating to the underlying investments, as well as the funds’ schedules for making distributions and their needs for cash, can be difficult to predict.  As a result, the amount of income that we record from these investments can vary substantially from quarter to quarter.  
+		
+		
+			 
+		
+		
+			Defaults on our mortgage loans and write downs of mortgage equity may adversely affect our profitability.
+		
+		
+			 
+		
+		
+			Our mortgage loans face default risk and are principally collateralized by commercial properties.  The performance of our mortgage loan investments may fluctuate in the future. In addition, some of our mortgage loan investments have balloon payment maturities.  An increase in the default rate of our mortgage loan investments could have a material adverse effect on our business, results of operations and financial condition.
+		
+		
+			 
+		
+		
+			Further, any geographic or sector exposure in our mortgage loans may have adverse effects on our investment portfolios and consequently on our consolidated results of operations or financial condition.  While we seek to mitigate this risk by having a broadly diversified portfolio, events or developments that have a negative effect on any particular geographic region or sector may have a greater adverse effect on the investment portfolios to the extent that the portfolios are exposed.
+		
+		
+			 
+		
+		
+			The difficulties faced by other financial institutions could adversely affect us.
+		
+		
+			 
+		
+		
+			We have exposure to many different industries and counterparties, and routinely execute transactions with counterparties in the financial services industry, including brokers and dealers, commercial banks, investment banks and other institutions.  Many of these transactions expose us to credit risk in the event of default of our counterparty. In addition, with respect to secured transactions, our credit risk may be exacerbated when the collateral held by us cannot be realized upon or is liquidated at prices not sufficient to recover the full amount of the loan or derivative exposure due to it.  We also may have exposure to these financial institutions in the form of unsecured debt instruments, derivative transactions and/or equity investments.  These parties may default on their obligations to us due to bankruptcy, lack of liquidity, downturns in the economy or real estate values, operational failure, corporate governance issues or other reasons. A downturn in the U.S. and other economies could result in increased impairments.  There can be no assurance that any such losses or impairments to the carrying value of these assets would not materially and adversely affect our business and results of operations.		
+		
+			 
+		
+		
+			Our requirements to post collateral or make payments related to declines in market value of specified assets may adversely affect our liquidity and expose us to counterparty credit risk.
+		
+		
+			 
+		
+		
+			Many of our transactions with financial and other institutions, including settling futures positions, specify the circumstances under which the parties are required to post collateral.  The amount of collateral we may be required to post under these agreements may increase under certain circumstances, which could adversely affect our liquidity.  In addition, under the terms of some of our transactions, we may be required to make payments to our counterparties related to any decline in the market value of the specified assets.
+		
+		
+			 
+		
+		
+			Our investments are reflected within our consolidated financial statements utilizing different accounting bases, and, accordingly, there may be significant differences between cost and fair value that are not recorded in our consolidated financial statements.
+		
+		
+			 
+		
+		
+			Our principal investments are in fixed maturity and equity securities, mortgage loans on real estate, policy loans, short-term investments, derivative instruments, limited partnerships and other invested assets.  The carrying value of such investments is as follows:
+		
+		
+			 
+		
+		
+			
+				 ·
+			
+		
+			
+			Fixed maturity and equity securities are classified as AFS, except for those designated as trading securities, and are reported at their estimated fair value.  The difference between the estimated fair value and amortized cost of such securities (i.e., unrealized investment gains and losses) is recorded as a separate component of OCI, net of adjustments to DAC, contract holder related amounts and deferred income taxes;
+		 
+
+		
+
+			 28
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+			
+				 ·
+			
+		
+			
+			Fixed maturity and equity securities designated as trading securities are recorded at fair value with subsequent changes in fair value recognized in realized gain (loss).  However, in certain cases, the trading securities support reinsurance arrangements. In those cases, offsetting the changes to fair value of the trading securities are corresponding changes in the fair value of the embedded derivative liability associated with the underlying reinsurance arrangement. In other words, the investment results for the trading securities, including gains and losses from sales, are passed directly to the reinsurers through the contractual terms of the reinsurance arrangements. These types of securities represent 60% of our trading securities;		
+			
+				 ·
+			
+		
+			
+			Short-term investments include investments with remaining maturities of one year or less, but greater than three months, at the time of acquisition and are stated at amortized cost, which approximates fair value;
+		
+			
+				 ·
+			
+		
+			
+			Also, mortgage loans on real estate are carried at unpaid principal balances, adjusted for any unamortized premiums or discounts and deferred fees or expenses, net of valuation allowances;
+		
+			
+				 ·
+			
+		
+			
+			Policy loans are carried at unpaid principal balances;
+		
+			
+				 ·
+			
+		
+			
+			Real estate joint ventures and other limited partnership interests are carried using the equity method of accounting; and
+		
+			
+				 ·
+			
+		
+			
+			Other invested assets consist principally of derivatives with positive fair values.  Derivatives are carried at fair value with changes in fair value reflected in income from non-qualifying derivatives and derivatives in fair value hedging relationships.  Derivatives in cash flow hedging relationships are reflected as a separate component of OCI.
+		
+			 
+		
+		
+			Investments not carried at fair value on our consolidated financial statements, principally, mortgage loans, policy loans and real estate, may have fair values that are substantially higher or lower than the carrying value reflected on our consolidated financial statements.  In addition, unrealized losses are not reflected in net income unless we realize the losses by either selling the security at below amortized cost or determine that the decline in fair value is deemed to be other-than-temporary (i.e., impaired).  Each of such asset classes is regularly evaluated for impairment under the accounting guidance appropriate to the respective asset class.		
+		
+			 
+		
+		
+			Competition
+		
+		
+			 
+		
+		
+			Intense competition could negatively affect our ability to maintain or increase our profitability.
+		
+		
+			 
+		
+		
+			Our businesses are intensely competitive.  We compete based on a number of factors, including name recognition, service, the quality of investment advice, investment performance, product features, price, perceived financial strength and claims-paying and credit ratings.  Our competitors include insurers, broker-dealers, financial advisors, asset managers, hedge funds and other financial institutions.  A number of our business units face competitors that have greater market share, offer a broader range of products or have higher financial strength or credit ratings than we do.		
+		
+			In recent years, there has been consolidation and convergence among companies in the financial services industry resulting in increased competition from large, well-capitalized financial services firms.  Many of these firms also have been able to increase their distribution systems through mergers or contractual arrangements.  Furthermore, larger competitors may have lower operating costs and an ability to absorb greater risk while maintaining their financial strength ratings, thereby allowing them to price their products more competitively.  		
+		
+			 
+		
+		
+			Our sales representatives are not captive and may sell products of our competitors.
+		
+		
+			 
+		
+		
+			We sell our annuity and life insurance products through independent sales representatives.  These representatives are not captive, which means they may also sell our competitors’ products.  If our competitors offer products that are more attractive than ours, or pay higher commission rates to the sales representatives than we do, these representatives may concentrate their efforts in selling our competitors’ products instead of ours.
+		
+		
+			 
+		
+		
+
+		
+		 
+
+		
+
+			 29
+
+		
+
+		
+
+			 
+
+		
+
+ 
+		
+		
+		
+			Item 1B

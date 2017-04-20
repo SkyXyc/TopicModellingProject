@@ -1,0 +1,5469 @@
+Item 1A Risk Factors and “Other Matters - Other Future Considerations” in Management’s Discussion and Analysis of Financial Condition and Results of Operations (MDA).  
+
+
+
+
+
+ 
+
+Alliant Energy, IPL and WPL assume no obligation, and disclaim any duty, to update the forward-looking statements in this Annual Report on Form 10-K.
+
+ 
+
+DISCLOSURE CONCERNING WEBSITE ACCESS TO REPORTS
+
+Alliant Energy makes its periodic and current reports, and amendments to those reports, available, free of charge, on its website at www.alliantenergy.com/investors on the same day as such material is electronically filed with, or furnished to, the Securities and Exchange Commission (SEC).  Alliant Energy is not including the information contained on its website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K.
+
+ 
+
+PART I
+
+ 
+
+This Annual Report on Form 10-K includes information relating to Alliant Energy, IPL and WPL (as well as Resources and Alliant Energy Corporate Services, Inc. (Corporate Services)).  Where appropriate, information relating to a specific entity has been segregated and labeled as such.  Unless otherwise noted, the information herein has been revised to exclude discontinued operations for all periods presented.  Refer to Note 17 of Alliant Energy’s “Notes to Consolidated Financial Statements” for information on businesses reported as discontinued operations.
+
+ 
+
+ITEM 1.  BUSINESS
+
+ 
+
+A.  GENERAL
+
+Alliant Energy was incorporated in Wisconsin in 1981 and maintains its principal executive offices in Madison, Wisconsin.  Alliant Energy operates as a regulated investor-owned public utility holding company.  Alliant Energy’s primary focus is to provide regulated electricity and natural gas service to approximately 1 million electric and approximately 400,000 natural gas customers in the Midwest through its two public utility subsidiaries.  The primary first tier subsidiaries of Alliant Energy are: IPL, WPL, Resources and Corporate Services.  An illustration of Alliant Energy’s first tier subsidiaries is shown below.
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+              
+        
+            Alliant Energy 
+        
+              
+        
+               
+    
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            Utility Operations 
+        
+              
+        
+            Resources 
+        
+              
+        
+            Corporate Services  
+    
+        
+            - IPL 
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            - WPL 
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+          
+            
+
+ 
+
+A brief description of the primary first tier subsidiaries of Alliant Energy is as follows:
+
+ 
+
+1)  IPL - was incorporated in 1925 in Iowa as Iowa Railway and Light Corporation.  IPL is a public utility engaged principally in the generation and distribution of electric energy and the distribution and transportation of natural gas in selective markets in Iowa and southern Minnesota.  In Iowa, IPL provides utility services to incorporated communities as directed by the Iowa Utilities Board (IUB) and utilizes non-exclusive franchises, which cover the use of public right-of-ways for utility facilities in incorporated communities for a maximum term of 25 years.  At Dec. 31, 2008, IPL supplied electric and gas service to 525,036 and 233,836 retail customers, respectively.  IPL also provides steam services to certain customers in Cedar Rapids, Iowa and various other energy-related products and services.  In 2008, 2007 and 2006, IPL had no single customer for which electric, gas, steam
+and/or other sales accounted for 10% or more of IPL’s consolidated revenues.
+
+
+ 
+
+2 
+
+
+
+
+2)  WPL - was incorporated in 1917 in Wisconsin as Eastern Wisconsin Electric Company.  WPL is a public utility engaged principally in the generation and distribution of electric energy and the distribution and transportation of natural gas in selective markets in south and central Wisconsin.  WPL operates in municipalities pursuant to permits of indefinite duration and state statutes authorizing utility operation in areas annexed by a municipality.  At Dec. 31, 2008, WPL supplied electric and gas service to 453,078 and 177,354 retail customers, respectively.  WPL also provides various other energy-related products and services.  In 2008, 2007 and 2006, WPL had no single customer for which electric, gas and/or other sales accounted for 10% or more of WPL’s consolidated revenues.  WPL Transco LLC is a wholly-owned subsidiary of WPL and holds WPL’s investment in the American
+Transmission Company LLC (ATC).
+
+ 
+
+3)  RESOURCES - was incorporated in 1988 in Wisconsin.  In November 2008, Resources was converted to a limited liability company with Alliant Energy as its sole member.  Alliant Energy’s non-regulated investments are organized under Resources.  Refer to “D. Information Relating to Non-regulated Operations” for additional details.
+
+ 
+
+4)  CORPORATE SERVICES - was incorporated in 1997 in Iowa.  Corporate Services provides administrative services to Alliant Energy and its subsidiaries.
+
+ 
+
+Refer to Note 14 of the “Notes to Consolidated Financial Statements” for further discussion of business segments, which information is incorporated herein by reference.
+
+ 
+
+B.  INFORMATION RELATING TO ALLIANT ENERGY ON A CONSOLIDATED BASIS
+
+ 
+
+1)  EMPLOYEES - At Dec. 31, 2008, Alliant Energy’s consolidated subsidiaries had the following full- and part-time employees:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Number of 
+        
+              
+        
+            Number of 
+        
+              
+        
+            Total 
+        
+              
+        
+            Percentage of Employees  
+    
+        
+              
+        
+            Bargaining Unit 
+        
+              
+        
+            Other 
+        
+              
+        
+            Number of 
+        
+              
+        
+            Covered by Collective  
+    
+        
+              
+        
+            Employees 
+        
+              
+        
+            Employees 
+        
+              
+        
+            Employees 
+        
+              
+        
+            Bargaining Agreements  
+    
+        
+            IPL 
+        
+            1,215 
+        
+              
+        
+            303 
+        
+              
+        
+            1,518 
+        
+              
+        
+            80%  
+    
+        
+            WPL 
+        
+            1,261 
+        
+              
+        
+            110 
+        
+              
+        
+            1,371 
+        
+              
+        
+            92%  
+    
+        
+            Resources 
+        
+            83 
+        
+              
+        
+            767 
+        
+              
+        
+            850 
+        
+              
+        
+            10%  
+    
+        
+            Corporate Services 
+        
+            -- 
+        
+              
+        
+            1,579 
+        
+              
+        
+            1,579 
+        
+              
+        
+            --  
+    
+        
+              
+        
+            2,559 
+        
+              
+        
+            2,759 
+        
+              
+        
+            5,318 
+        
+              
+        
+            48%  
+
+
+ 
+
+At Dec. 31, 2008, Alliant Energy employees covered by collective bargaining agreements were as follows (International Union of Operating Engineers (IUOE); International Brotherhood of Electrical Workers (IBEW)):
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Number of 
+        
+              
+        
+            Contract  
+    
+        
+              
+        
+            Employees 
+        
+              
+        
+            Expiration Date  
+    
+        
+            IPL: 
+        
+              
+        
+              
+        
+               
+    
+        
+            IUOE Local 275 
+        
+            50 
+        
+              
+        
+            12/01/09  
+    
+        
+            IBEW Local 204 (Cedar Rapids) 
+        
+            755 
+        
+              
+        
+            8/31/10  
+    
+        
+            IBEW Local 1439 
+        
+            17 
+        
+              
+        
+            6/30/11  
+    
+        
+            IBEW Local 1455 
+        
+            7 
+        
+              
+        
+            6/30/11  
+    
+        
+            IBEW Local 949 
+        
+            233 
+        
+              
+        
+            9/30/12  
+    
+        
+            IBEW Local 204 (Dubuque) 
+        
+            106 
+        
+              
+        
+            9/30/12  
+    
+        
+            IBEW Local 204 (Mason City) 
+        
+            47 
+        
+              
+        
+            9/30/12  
+    
+        
+              
+        
+            1,215 
+        
+              
+        
+               
+    
+        
+            WPL - IBEW Local 965 
+        
+            1,261 
+        
+              
+        
+            5/31/11  
+    
+        
+            Resources - Various 
+        
+            83 
+        
+              
+        
+            Various  
+    
+        
+              
+        
+            2,559 
+        
+              
+        
+               
+
+
+ 
+
+2)  CAPITAL EXPENDITURE AND INVESTMENT PLANS - Refer to “Liquidity and Capital Resources - Cash Flows - Investing Activities - Construction and Acquisition Expenditures” in MDA for discussion of anticipated construction and acquisition expenditures for 2009, 2010 and 2011.
+
+
+3 
+
+
+
+ 
+
+
+3)  REGULATION - Alliant Energy, IPL and WPL are subject to regulation by various federal, state and local agencies.  The following includes the primary regulations impacting Alliant Energy’s, IPL’s and WPL’s businesses.
+
+ 
+
+Federal Energy Regulatory Commission (FERC) - Alliant Energy is registered with FERC as a public utility holding company, pursuant to the Public Utility Holding Company Act of 2005 (PUHCA 2005), and is required to maintain certain records and to report certain transactions involving its public utilities and other entities regulated by FERC.  IPL and WPL are subject to regulation by FERC under the Federal Power Act and PUHCA 2005 for various issues including, but not limited to, affiliate transactions, public utility mergers, acquisitions and dispositions, and books and records requirements.  In addition, the Energy Policy Act requires creation of an Electric Reliability Organization (ERO) to provide oversight by FERC.  FERC designated the North American Electric Reliability Council (NERC) as the overarching ERO.  The Midwest Reliability Organization (MRO), which is a regional member
+of NERC, has direct responsibility for mandatory electric reliability standards for IPL and WPL.  FERC also has jurisdiction under the Federal Power Act over certain electric utility facilities and operations, electric wholesale rates, dividend payments and accounting practices of IPL and WPL, among other issues.  Lastly, FERC has jurisdiction under the Natural Gas Act over certain natural gas facilities and operations of IPL and WPL.
+
+ 
+
+Environmental - The United States of America (U.S.) Environmental Protection Agency (EPA) administers certain federal regulatory programs and has delegated the administration of other environmental regulatory programs to the applicable state environmental agencies.  In general, the state agencies have jurisdiction over air and water quality, hazardous substances management and transportation, and solid waste management requirements.  In certain cases, the state environmental agencies have delegated the administration of environmental programs to local agencies.  Alliant Energy, IPL and WPL are subject to these environmental regulations as a result of their current and past operations.
+
+ 
+
+IUB - IPL is subject to regulation by the IUB related to its operations in Iowa for various issues including, but not limited to, retail utility rates and standards of service, accounting requirements and approval of the location and construction of electric generating facilities.  A Certificate of Public Convenience, Use and Necessity (GCU Certificate) is required to be filed with the IUB for construction approval of any new electric generating facility located in Iowa with 25 megawatts (MW) or more of capacity.  Requests for retail rate relief are based on historical test periods, adjusted for certain known and measurable changes occurring up to nine months from the end of the historical test period.  The IUB must decide on requests for retail rate relief within 10 months of the date of the application for which relief is filed, or the interim rates granted become permanent.
+Interim retail rates can be placed in effect 10 days after the rate application filing, subject to refund, and must be based on past precedent.  Iowa’s HF 577 provides Iowa utilities with the necessary rate making principles - and resulting, increased regulatory and investment certainty - prior to making certain generation investments in Iowa.  Under HF 577, IPL must file for, and the IUB must provide, rate making principles for certain electric generating facilities located in Iowa including new base-load (primarily defined as nuclear or coal-fired generation) facilities with a capacity of 300 MW or more, combined-cycle natural gas-fired facilities of any size and renewable generating resources, such as wind facilities, of any size.  Upon approval of rate making principles by the IUB, IPL must either build the facility under the approved rate making principles, or not at all.
+
+ 
+
+Public Service Commission of Wisconsin (PSCW) - Alliant Energy is subject to regulation by the PSCW for the type and amount of Alliant Energy’s investments in non-utility businesses and other affiliated interest activities, among other issues.  WPL is also subject to regulation by the PSCW related to its operations in Wisconsin for various issues including, but not limited to, retail utility rates and standards of service, accounting requirements, issuance and use of proceeds of securities, approval of the location and construction of electric generating facilities and certain other additions and extensions to facilities.  A Certificate of Authority (CA) application is required to be filed with the PSCW for construction approval of any new electric generating facility located in Wisconsin with a capacity of less than 100 MW and any new electric generating facility located
+outside of Wisconsin.  A Certificate of Public Convenience and Necessity (CPCN) application is required to be filed with the PSCW for construction approval of any new electric generating facility located in Wisconsin with a capacity of 100 MW or more.  In addition, WPL’s ownership and operation of electric generating facilities located outside of Wisconsin (including Minnesota) to serve Wisconsin customers is subject to CA approval and retail utility rate regulation by the PSCW.  WPL is required to file retail rate cases with the PSCW using a forward-looking test period.  There is no statutory time limit for the PSCW to decide retail rate cases.  However, the PSCW attempts to process all base retail rate cases in 10 months or less and the PSCW has the ability to approve interim retail rate relief, subject to refund, if necessary.  For fuel-only retail rate case increases, the PSCW attempts to provide interim retail rate relief within 21 days of notice to customers, subject to
+refund.  There is no statutory time limit for final fuel-only retail rate relief decisions.  Wisconsin’s Act 7 provides Wisconsin utilities with the necessary rate making principles - and resulting, increased regulatory and investment certainty - prior to the purchase or construction of any nuclear or fossil-fueled electric generating facility or renewable generating resource, such as a wind facility, utilized to serve Wisconsin customers.  WPL is not obligated to file for rate making principles under Act 7.  WPL can proceed with an approved project under traditional rate making if the terms of the rate making principles issued under Act 7 are viewed as unsatisfactory by WPL.
+
+
+ 
+
+4 
+
+
+
+Minnesota Public Utilities Commission (MPUC) - IPL is subject to regulation by the MPUC related to its operations in Minnesota for various issues including, but not limited to, retail utility rates and standards of service, accounting requirements, issuance and use of proceeds of securities, periodic approval of IPL’s capital structure, and approval of the location and construction of electric generating facilities located in Minnesota with a capacity in excess of 50 MW.  Requests for retail rate relief can be based on either historical or projected data and interim retail rates are permitted.  The MPUC must reach a final decision within 10 months of filing for retail rate relief.
+
+ 
+
+Refer to Notes 1(b), 1(h), 2 and 12(e) of Alliant Energy’s “Notes to Consolidated Financial Statements” and “Rates and Regulatory Matters” and “Liquidity and Capital Resources - Environmental” in MDA for additional information regarding regulation and utility rate matters.
+
+ 
+
+4)  STRATEGIC OVERVIEW - Refer to “Strategic Overview” in MDA for discussion of various strategic actions by Alliant Energy, IPL and WPL.
+
+ 
+
+C.  INFORMATION RELATING TO UTILITY OPERATIONS
+
+ 
+
+Alliant Energy’s utility business has three segments: a) electric operations; b) gas operations; and c) other, which includes IPL’s steam business, various other energy-related products and services and the unallocated portions of the utility business.  In 2008, operating revenues and operating income (loss) by these three utility business segments were as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Alliant Energy 
+        
+              
+        
+            IPL 
+        
+              
+        
+            WPL  
+    
+        
+              
+        
+            Operating 
+        
+              
+        
+            Operating 
+        
+              
+        
+            Operating 
+        
+              
+        
+            Operating 
+        
+              
+        
+            Operating 
+        
+              
+        
+            Operating  
+    
+        
+              
+        
+            Revenues 
+        
+              
+        
+            Income 
+        
+              
+        
+            Revenues 
+        
+              
+        
+            Income (Loss) 
+        
+              
+        
+            Revenues 
+        
+              
+        
+            Income  
+    
+        
+            Electric 
+        
+            65% 
+        
+              
+        
+            79% 
+        
+              
+        
+            72% 
+        
+              
+        
+            92% 
+        
+              
+        
+            79% 
+        
+              
+        
+            82%  
+    
+        
+            Gas 
+        
+            19% 
+        
+              
+        
+            13% 
+        
+              
+        
+            23% 
+        
+              
+        
+            11% 
+        
+              
+        
+            20% 
+        
+              
+        
+            17%  
+    
+        
+            Other 
+        
+            16% 
+        
+              
+        
+            8% 
+        
+              
+        
+            5% 
+        
+              
+        
+            (3%) 
+        
+              
+        
+            1% 
+        
+              
+        
+            1%  
+    
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100%  
+
+
+ 
+
+1)  ELECTRIC UTILITY OPERATIONS
+
+General - Electric utility operations represent the largest operating segment for Alliant Energy, IPL and WPL.  Alliant Energy’s electric utility operations are located in the Midwest with IPL and WPL providing electric service in Iowa, southern and central Wisconsin and southern Minnesota.  
+
+ 
+
+Jurisdictions - Electric utility revenues by state were as follows (dollars in millions):
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006  
+    
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent 
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent 
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent  
+    
+        
+            IPL: 
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            Iowa 
+        
+            $1,184.3 
+        
+              
+        
+            49% 
+        
+              
+        
+            $1,173.0 
+        
+              
+        
+            49% 
+        
+              
+        
+            $1,229.0 
+        
+              
+        
+            50%  
+    
+        
+            Minnesota 
+        
+            74.0 
+        
+              
+        
+            3% 
+        
+              
+        
+            75.1 
+        
+              
+        
+            3% 
+        
+              
+        
+            78.2 
+        
+              
+        
+            3%  
+    
+        
+            Illinois (a) 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            22.0 
+        
+              
+        
+            1% 
+        
+              
+        
+            24.4 
+        
+              
+        
+            1%  
+    
+        
+            Subtotal 
+        
+            1,258.3 
+        
+              
+        
+            52% 
+        
+              
+        
+            1,270.1 
+        
+              
+        
+            53% 
+        
+              
+        
+            1,331.6 
+        
+              
+        
+            54%  
+    
+        
+            WPL: 
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            Wisconsin 
+        
+            1,153.0 
+        
+              
+        
+            48% 
+        
+              
+        
+            1,139.4 
+        
+              
+        
+            47% 
+        
+              
+        
+            1,098.0 
+        
+              
+        
+            45%  
+    
+        
+            Illinois (a) 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            1.3 
+        
+              
+        
+            -- 
+        
+              
+        
+            13.4 
+        
+              
+        
+            1%  
+    
+        
+            Subtotal 
+        
+            1,153.0 
+        
+              
+        
+            48% 
+        
+              
+        
+            1,140.7 
+        
+              
+        
+            47% 
+        
+              
+        
+            1,111.4 
+        
+              
+        
+            46%  
+    
+        
+              
+        
+            $2,411.3 
+        
+              
+        
+            100% 
+        
+              
+        
+            $2,410.8 
+        
+              
+        
+            100% 
+        
+              
+        
+            $2,443.0 
+        
+              
+        
+            100%  
+
+
+
+
+
+
+
+    
+        
+            (a) 
+        
+            IPL’s and WPL’s utility operations in Illinois were sold in February 2007.  
+
+
+
+
+ 
+
+5 
+
+
+
+
+The percentage of electric utility revenues regulated by their respective state commissions and FERC were as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Alliant Energy 
+        
+              
+        
+            IPL 
+        
+              
+        
+            WPL  
+    
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006 
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006 
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006  
+    
+        
+            Respective state 
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            commissions 
+        
+            90% 
+        
+              
+        
+            90% 
+        
+              
+        
+            91% 
+        
+              
+        
+            96% 
+        
+              
+        
+            95% 
+        
+              
+        
+            96% 
+        
+              
+        
+            84% 
+        
+              
+        
+            85% 
+        
+              
+        
+            85%  
+    
+        
+            FERC 
+        
+            10% 
+        
+              
+        
+            10% 
+        
+              
+        
+            9% 
+        
+              
+        
+            4% 
+        
+              
+        
+            5% 
+        
+              
+        
+            4% 
+        
+              
+        
+            16% 
+        
+              
+        
+            15% 
+        
+              
+        
+            15%  
+    
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100% 
+        
+              
+        
+            100%  
+
+
+ 
+
+Customers - The number of electric customers and communities served at Dec. 31, 2008 was as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Retail Customers 
+        
+              
+        
+            Wholesale Customers 
+        
+              
+        
+            Other Customers 
+        
+              
+        
+            Total Customers 
+        
+              
+        
+            Communities Served  
+    
+        
+            IPL 
+        
+            525,036 
+        
+              
+        
+            9 
+        
+              
+        
+            1,372 
+        
+              
+        
+            526,417 
+        
+              
+        
+            752  
+    
+        
+            WPL 
+        
+            453,078 
+        
+              
+        
+            22 
+        
+              
+        
+            2,131 
+        
+              
+        
+            455,231 
+        
+              
+        
+            607  
+    
+        
+              
+        
+            978,114 
+        
+              
+        
+            31 
+        
+              
+        
+            3,503 
+        
+              
+        
+            981,648 
+        
+              
+        
+            1,359  
+
+
+ 
+
+IPL and WPL provide electric utility service to a diversified base of retail customers in several industries, with the largest concentrations in the food manufacturing, chemical (including ethanol) and paper industries.  IPL’s retail customers in the above table are billed under base rates established by the IUB or MPUC that include recovery of purchased power capacity costs, transmission service costs and other costs required to serve customers.  IPL’s fuel and purchased energy costs are recovered pursuant to fuel adjustment clauses.  WPL’s retail customers in the above table are billed under base rates established by the PSCW that include recovery of fuel-related costs (generation and purchased energy), purchased power capacity costs, transmission service costs and other costs required to serve customers.  The electric fuel rules in Wisconsin allow the
+PSCW to authorize rate increases/decreases if fuel-related costs exceed or fall below established fuel monitoring ranges.
+
+ 
+
+Wholesale customers in the above table, which primarily consist of municipalities and rural electric cooperatives, are billed under wholesale service agreements.  These agreements include standardized pricing mechanisms that are detailed in tariffs approved by FERC through wholesale rate case proceedings.
+
+ 
+
+In addition, IPL and WPL have bulk power customers, included in “Other customers” in the above table, that are billed according to negotiated, long-term customer-specific contracts, pursuant to FERC approved tariffs.  Refer to the “Electric Operating Information” tables for additional details regarding electric utility operations.
+
+ 
+
+Seasonality - Electric sales are seasonal to some extent with the annual peak normally occurring in the summer months due to air conditioning requirements.  In 2008, the maximum peak hour demands for Alliant Energy and IPL were 5,491 MW and 2,943 MW, respectively, both on July 30, 2008.  In 2008, the maximum peak hour demand for WPL was 2,583 MW on July 16, 2008.
+
+ 
+
+Competition - Retail electric customers in Iowa, Wisconsin and Minnesota currently do not have the ability to choose their electric supplier.  However, in order to increase sales, IPL and WPL attempt to attract new customers into their service territories.  As a result, there is competition among utilities to keep energy rates low.  Although electric service in Iowa, Wisconsin and Minnesota is regulated, IPL and WPL also still face competition from self generation by large industrial customers, alternative energy sources, and petitions to municipalize (Iowa) as well as service territory expansions by municipal utilities through annexations (Wisconsin).  Refer to “Other Matters - Other Future Considerations - Electric Sales Projections - Customer Owned Generation” in MDA for information on the construction of two (one is 105 MW and one is 75
+MW) cogeneration facilities by one of IPL’s customers.
+
+ 
+
+Renewable Energy - Wisconsin and Minnesota have adopted renewable portfolio standards, which require electric utilities to provide certain percentages of their total energy output from renewable sources by certain dates.  Iowa has a renewable energy standard which requires electric utilities to purchase their proportionate share of 105 MW of capacity and associated energy from alternative energy and small hydro production facilities.  IPL and WPL currently meet all applicable renewable energy requirements and continue to emphasize the expansion of renewable energy in their overall energy supply portfolios.  Refer to “Rates and Regulatory Matters - Recent Regulatory-related Legislative Developments - Renewable Energy Standards Legislative Developments” and “Strategic Overview - Utility Generation Plan” in MDA for further discussion
+of renewable energy standards and various proposed wind projects that are expected to contribute towards IPL and WPL continuing to meet these standards.
+
+
+ 
+
+6 
+
+
+
+Energy Conservation - With increased emphasis on energy conservation as a matter of public policy, IPL and WPL are continuing and, where appropriate, expanding initiatives to promote energy conservation and enhance customers’ ability to manage their energy use more efficiently.  IPL and WPL are also exploring rate making alternatives that are expected to maintain their respective financial stability in the event that energy use declines and avoid penalizing IPL and WPL for successful energy conservation initiatives.  Alliant Energy’s infrastructure investment program includes installing advanced metering infrastructure (AMI) in IPL’s and WPL’s utility service territories and other initiatives to promote energy efficiency and conservation.  Alliant Energy expects AMI technology to improve customer service, enhance energy management
+initiatives and provide operational savings through increased efficiencies.  Alliant Energy has completed its initial limited AMI deployment by installing over 120,000 AMI electric meters and gas modules in its WPL service territory as of Dec. 31, 2008.  Alliant Energy currently plans to fully install AMI through a phased approach from 2008 through 2012 at total cost of approximately $200 million.
+Refer to "Rates and Regulatory Matters - Other Recent Regulatory Developments - IPL Energy Efficiency Plan" in MDA for discussion of IPL's proposed energy efficiency plan for 2009 through 2013.
+
+ 
+
+Electric Supply - Alliant Energy has met historical customer demand of electricity and expects to continue meeting future demand through internally generated electric supply, electric supply from long-term purchased power agreements (PPAs) and additional electric supply purchases from both the MISO Wholesale Energy Market and from generating units located within and outside of Alliant Energy’s service territory.  Refer to the “Electric Operating Information” tables for a profile of the sources of electric supply used to meet customer demand for Alliant Energy, IPL and WPL from 2004 to 2008.  Alliant Energy’s mix of electric supply has experienced changes in the past few years as a result of the sales of its interests in its nuclear generating facilities.  Alliant Energy’s mix of electric supply is expected to change further
+in the future with its utility generation plan, which includes plans for the construction of several new electric generating facilities, the purchase of Resources’ simple-cycle, dual-fueled (natural gas/diesel) electric generating facility in Neenah, Wisconsin and the purchase of Riverside in Beloit, Wisconsin.  In December 2008, the PSCW issued a written order denying WPL’s application to construct a new 300 MW electric generating facility located next to its existing Nelson Dewey facility in Cassville, Wisconsin.  In its written order, the PSCW acknowledged WPL’s need for additional electric generating capacity and recommended WPL consider alternatives to its proposed facility in Cassville, Wisconsin.  As a result of this order, WPL is in the process of evaluating alternatives for its long-term generation needs in Wisconsin.
+
+ 
+
+The proposed new generation included in the utility generation plan is expected to meet increasing customer demand, reduce reliance on PPAs and mitigate the impacts of future plant retirements while maintaining compliance with long-term electric demand planning reserve margins established by regulators.  Alliant Energy currently expects to meet utility customer demands in the future; however, unanticipated regional or local reliability issues could still arise in the event of unexpected delays in the construction of new generating and/or transmission facilities, generating facility outages, transmission system outages or extended periods of extreme weather conditions.  Refer to “Strategic Overview - Utility Generation Plan” in MDA for details of Alliant Energy’s utility generation plan.
+
+ 
+
+Electric Demand Planning Reserve Margin (PRM) - IPL and WPL are required to maintain a PRM above their projected annual peak demand forecast to help ensure reliability of electric service to their customers.  In October 2008, the PSCW issued a written order to lower the PRM requirement for Wisconsin utilities, including WPL, from 18.0% to 14.5% for long-term planning (planning years two through 10).  The PSCW also determined that the short-term (planning year one) PRM for Wisconsin utilities will follow the PRM established by MISO under Module E of its Open Access Transmission and Energy Markets Tariff.  WPL does not expect the reduction in the PRM to change its current utility generation plan.  PRM requirements for IPL follow MISO’s reserve requirements.  MISO is currently determining the PRM requirement under its “Module E” tariff, which is expected to be finalized
+in the first quarter of 2009.
+
+ 
+
+Generation - IPL and WPL own a portfolio of electric generating facilities located in Iowa, Wisconsin and Minnesota with a diversified fuel mix including coal, natural gas and renewable resources.  Refer to Item 2. Properties for details of IPL’s and WPL’s electric generating stations.
+
+
+ 
+
+7 
+
+
+
+
+Generating Capability - The summer generating capability of IPL’s and WPL’s electric generating facilities by fuel type in MWs for 2008, 2007 and 2006 was as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            IPL 
+        
+              
+        
+            WPL  
+    
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006 
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006  
+    
+        
+            Coal 
+        
+            1,805 
+        
+              
+        
+            1,860 
+        
+              
+        
+            1,899 
+        
+              
+        
+            1,337 
+        
+              
+        
+            1,338 
+        
+              
+        
+            1,335  
+    
+        
+            Natural gas 
+        
+            838 
+        
+              
+        
+            849 
+        
+              
+        
+            847 
+        
+              
+        
+            546 
+        
+              
+        
+            542 
+        
+              
+        
+            553  
+    
+        
+            Oil 
+        
+            320 
+        
+              
+        
+            317 
+        
+              
+        
+            328 
+        
+              
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            --  
+    
+        
+            Hydro 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            19 
+        
+              
+        
+            26 
+        
+              
+        
+            24  
+    
+        
+            Total 
+        
+            2,963 
+        
+              
+        
+            3,026 
+        
+              
+        
+            3,074 
+        
+              
+        
+            1,902 
+        
+              
+        
+            1,906 
+        
+              
+        
+            1,912  
+
+
+ 
+
+Fuel Costs - The average cost of delivered fuel per million British Thermal Units used for electric generation was as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            IPL 
+        
+              
+        
+            WPL  
+    
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006 
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006  
+    
+        
+            Natural gas 
+        
+            $8.18 
+        
+              
+        
+            $9.21 
+        
+              
+        
+            $10.45 
+        
+              
+        
+            $8.64 
+        
+              
+        
+            $13.86 
+        
+              
+        
+            $14.28  
+    
+        
+            Coal 
+        
+            1.58 
+        
+              
+        
+            1.35 
+        
+              
+        
+            1.25 
+        
+              
+        
+            1.93 
+        
+              
+        
+            1.69 
+        
+              
+        
+            1.52  
+    
+        
+            Nuclear 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            0.56 
+        
+              
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            --  
+    
+        
+            All fuels 
+        
+            2.09 
+        
+              
+        
+            2.35 
+        
+              
+        
+            2.18 
+        
+              
+        
+            2.06 
+        
+              
+        
+            1.97 
+        
+              
+        
+            1.80  
+
+
+ 
+
+Coal - Coal is the primary fuel source for Alliant Energy’s internally generated electric supply.  Internally generated electric supply from coal-fired generating facilities represented 55%, 57% and 53% of IPL’s total sources of electric energy and 54%, 52% and 51% of WPL’s total sources of electric energy during 2008, 2007 and 2006, respectively.  Alliant Energy, through Corporate Services as agent for IPL and WPL, has entered into contracts with different suppliers to help ensure that a specified supply of coal is available at known prices for IPL’s and WPL’s coal-fired generating facilities for 2009 through 2012.  As of Dec. 31, 2008, existing contracts provide for a portfolio of coal supplies that cover approximately 95%, 80%, 60% and 5% of Alliant Energy’s estimated coal supply needs for 2009 through
+2012, respectively.  Alliant Energy believes this portfolio of coal supplies represents a reasonable balance between the risks of insufficient supplies and those associated with being unable to respond to future coal market changes.  Alliant Energy expects to meet remaining coal requirements from either future contracts or purchases in the spot market.  Alliant Energy, through its subsidiaries Corporate Services, IPL and WPL, enters into various coal transportation contracts to meet its coal supply agreements.  As of Dec. 31, 2008, existing coal transportation agreements cover approximately 100%, 80%, 66%, 66%, 46% and 46% of Alliant Energy’s estimated coal transportation needs for 2009 through 2014, respectively.
+
+ 
+
+The majority of the coal utilized by IPL and WPL is from the Wyoming Powder River Basin.  A majority of this coal is transported by rail-car directly from Wyoming to IPL’s and WPL’s generating stations, with the remainder transported from Wyoming to the Mississippi River by rail-car and then via barges to the final destination.  As protection against interruptions in coal deliveries, IPL and WPL strive to maintain average coal inventory supply targets of 25 to 50 days for generating stations with year-round deliveries and 30 to 150 days (depending upon the time of year) for generating stations with seasonal deliveries.  Actual inventory averages for 2008 were 50 days for generating stations with year-round deliveries and 79 days for generating stations with seasonal deliveries.  Alliant Energy periodically tests coal from sources other than the Wyoming Powder River Basin to determine which
+alternative sources of coal are most compatible with its generating stations.  Alternative sources of coal are expected to provide Alliant Energy with further protection against interruptions and lessen its dependence on its primary coal source.
+
+
+ 
+
+
+Average delivered fossil fuel costs are expected to continue to increase in the future due to price structures and adjustment provisions in existing coal contracts, rate structures and adjustment provisions in existing transportation contracts, fuel-related surcharges incorporated by transportation carriers and recent coal and transportation market trends.  Existing coal commodity contracts with terms of greater than one year have fixed future year prices that generally reflect recent market trends.  A few of Alliant Energy’s existing coal contracts have provisions for price adjustments should specific indices change.  Rate adjustment provisions in older transportation contracts are primarily based on changes in the Rail Cost Adjustment Factor as published by the U.S. Surface Transportation Board.  Rate adjustment provisions in more recent transportation contracts are based on changes in the All
+Inclusive Index Less Fuel as published by the Association of American Railroads.  These more recent transportation contracts also contain fuel surcharges that are subject to change monthly based on changes in diesel fuel prices.  Other factors that may impact coal prices for future commitments are increasing costs for supplier mineral rights, increasing costs to mine the coal and changes in various associated laws and regulations.  For example, emission restrictions related to sulfur dioxide (SO2), nitrogen oxide (NOx) and mercury, along with other environmental limitations on generating stations, continue to increase and will likely limit the ability to obtain, and further increase the cost of, adequate coal supplies.  Factors that may impact future transportation rates include: the need for railroads to enhance/expand infrastructure for demand growth, corresponding investments in locomotives and the desire to improve margins on coal commensurate with margins on non-coal
+movements.
+
+ 
+
+8 
+
+
+
+Given its current coal procurement process, the specific coal market in its primary purchase region and regulatory cost-recovery mechanisms, Alliant Energy believes it is reasonably insulated against coal price volatility.  Alliant Energy’s coal procurement process stresses periodic purchases, staggering of contract terms, stair-stepped levels of supply going forward for multiple years and supplier diversity.  Similarly, given the term lengths of its transportation agreements, Alliant Energy believes it is reasonably insulated against future higher coal transportation rates from the major railroads.
+
+ 
+
+Natural Gas - Alliant Energy owns several natural gas-fired generating facilities including IPL’s 565 MW, natural gas-fired Emery Generating Facility (Emery) and Resources’ 300 MW, simple-cycle, natural gas-fired Sheboygan Falls Energy Facility (SFEF).  WPL has exclusive rights to the output of SFEF under an affiliated lease agreement.  These facilities help meet customer demand for electricity generally during peak hour demands.  Internally generated electric supply from natural gas-fired generating facilities represented 3%, 6% and 5% of Alliant Energy’s total sources of electric energy during 2008, 2007 and 2006, respectively.  Refer to “Strategic Overview - Utility Generation Plan - Generation Projects Under Construction or Pending Regulatory Agency Approval - Neenah Energy Facility” in MDA for information on WPL’s plans to purchase Resources’
+Neenah Energy Facility (NEF) effective June 1, 2009.
+
+ 
+
+Alliant Energy has responsibility to supply natural gas to certain generating facilities under PPAs, which include Riverside and the RockGen Energy Center (RockGen), as well as the generating facilities it owns.  IPL and WPL have contracts with several companies to provide fixed-price natural gas supply for these generating facilities with the longest contracts having terms through December 2010.  WPL has also contracted with ANR Pipeline to provide firm pipeline transportation of 60,000 dekatherms (Dths) per day for Riverside and 2 million Dths of storage capacity for WPL’s natural gas-fired generating stations.  IPL has also contracted with Northern Border Pipeline to provide firm pipeline transportation of 50,000 Dths per day for Emery through March 2009.
+
+ 
+
+Nuclear - In January 2006, IPL sold its interest in the Duane Arnold Energy Center (DAEC) to a subsidiary of FPL Group, Inc. (FPL) and upon closing of the sale entered into a PPA with FPL to purchase energy and capacity from DAEC through February 2014.  In July 2005, WPL sold its interest in the Kewaunee Nuclear Power Plant (Kewaunee) to a subsidiary of Dominion Resources, Inc. (Dominion) and upon closing of the sale entered into a long-term PPA with Dominion to purchase energy and capacity from Kewaunee through December 2013.  As a result of these transactions, Alliant Energy no longer has an ownership interest in any nuclear generating facilities.  Alliant Energy entered into these transactions to reduce the financial and operational uncertainty associated with nuclear generating facility ownership and operations while still retaining the benefit of the
+output from such nuclear generating facilities.
+
+ 
+
+Wind - In February 2008, IPL received approval from the IUB to construct the 200 MW Whispering Willow - East wind project in Franklin County, Iowa, which is expected to begin operation in late 2009 or early 2010.  Once complete, Whispering Willow - East will be IPL’s first fully owned and operated wind project site.  In December 2008, WPL’s 68 MW Cedar Ridge wind project in Fond du Lac County, Wisconsin began commercial operation.  Cedar Ridge is WPL’s first fully owned and operated wind project site.  Refer to “Strategic Overview - Utility Generation Plan” in MDA for further discussion.
+
+
+ 
+
+
+Purchased Power - IPL and WPL enter into PPAs and purchase electricity from the MISO Wholesale Energy Market to meet a portion of its customer demand of electricity.  Purchased power represented 39%, 33% and 38% of IPL’s total sources of electric energy and 44%, 46% and 47% of WPL’s total sources of electric energy during 2008, 2007 and 2006, respectively.  IPL’s most significant PPA is with FPL for the purchase of energy and capacity from DAEC through February 2014.  WPL’s most significant PPAs are with Dominion for the purchase of energy and capacity from Kewaunee through December 2013 and with subsidiaries of Calpine Corporation for the purchase of energy and capacity from Riverside and RockGen through May 2013 and May 2009, respectively.
+
+ 
+
+Refer to Note 1(h) for discussion of IPL’s and WPL’s rate recovery of fuel costs, Note 3 for details regarding purchased power commitments accounted for as operating leases and Note 12(b) for details relating to IPL’s and WPL’s coal, natural gas and other purchased power commitments in Alliant Energy’s “Notes to Consolidated Financial Statements.”
+
+ 
+
+9 
+
+
+
+Electric Transmission -
+
+IPL - In 2007, IPL completed the sale of its electric transmission assets located in Iowa, Minnesota and Illinois to ITC Midwest LLC (ITC).  IPL sold its electric transmission assets in December 2007 in order to monetize the value of the assets to help fund future capital expenditures, to capture tax benefits under federal tax policy that allows deferral of gains on sales of qualifying electric transmission assets completed prior to Jan. 1, 2008 (based on regulations at the time of the sale) and to promote regional transmission expansion that is expected to improve transmission reliability and access for its customers in Iowa and Minnesota.  ITC is an independent for-profit, transmission-only company and is a transmission-owning member of the MISO Regional Transmission Organization (RTO), and the MRO and Reliability First Corporation (RFC) Regional Entities.  ITC has transmission
+interconnections at various locations with 12 other transmission owning utilities in the Midwest.  These interconnections enhance the overall reliability of the IPL delivery system and provide access to multiple sources of economic and emergency energy.  IPL has been advised that ITC plans to construct additional facilities to improve transmission reliability and import capabilities.  As these facilities are constructed, IPL expects these facilities will serve to enhance its operating flexibility and access to lower-cost energy.
+
+ 
+
+WPL - In 2001, WPL transferred its transmission assets to ATC in exchange for an ownership interest in ATC.  As of Dec. 31, 2008, WPL held a 16% ownership interest in ATC with a carrying value of $195 million.  ATC is an independent for-profit, transmission-only company and is a transmission-owning member of the MISO RTO, and the MRO and RFC Regional Entities.  During 2008, ATC distributed to WPL, in the form of dividends, $24 million or approximately 80% of WPL’s equity earnings from ATC.  Although no assurance can be given, WPL anticipates ATC will continue this dividend payout ratio in the future.  ATC is continuing its efforts to improve transmission reliability and import capabilities into Wisconsin, including energizing a 345-kilovolt transmission line between Wausau, Wisconsin and Duluth, Minnesota in 2008.  As these facilities are constructed, Alliant Energy expects they
+will serve to enhance its operating flexibility and its access to lower-cost energy.  ATC also has transmission interconnections with various other transmission owning utilities in the Midwest.  WPL anticipates $13 million, $6 million and $0 of capital contributions to ATC in 2009, 2010 and 2011, respectively.
+
+ 
+
+MISO Markets - IPL and WPL are members of MISO, a FERC-approved RTO, which is responsible for monitoring and ensuring equal access to the transmission system in their service territories.  IPL and WPL participate in the wholesale energy market and ancillary services market operated by MISO discussed in more detail below.
+
+ 
+
+Wholesale Energy Market - In 2005, IPL and WPL began participation in the wholesale energy market operated by MISO.  The market impacts the way IPL and WPL buy and sell wholesale electricity, obtain transmission services and schedule generation.  In the market, IPL and WPL submit day-ahead and/or real-time bids and offers for energy at locations across the MISO region.  MISO evaluates IPL’s, WPL’s and other market participants’ energy injections into, and withdrawals from, the system to economically dispatch the entire MISO system on an hourly basis.  MISO settles these hourly offers and bids based on locational marginal prices, which are market-driven values based on the specific time and location of the purchase and/or sale of energy.  The market is intended to send price signals to stakeholders where generation or transmission system expansion is needed.  This
+market-based approach is expected to result in lower overall costs in areas with abundant transmission capacity.  In addition, MISO may dispatch generators that support reliability needs, but which would not have operated based on economic needs.  In these cases, MISO’s settlement assures that these generators are made whole financially for variable costs.
+
+
+ 
+
+
+Financial Transmission Rights (FTRs) and Auction Revenue Rights (ARRs) - In areas of constrained transmission capacity, such as Wisconsin, costs could be higher due to the congestion and its impact on locational marginal prices.  As part of the MISO market restructuring, physical transmission rights of IPL and WPL were replaced with FTRs.  FTRs provide a hedge for congestion costs that incur in the MISO day-ahead energy market.  Both IPL and WPL are allocated ARRs from MISO each year based on historical use of the transmission system.  The revenues from these ARRs are used by IPL and WPL to acquire FTRs through the FTR auctions operated by MISO.  IPL’s and WPL’s current FTRs extend through May 31, 2009.  Based on the FTRs awarded to IPL and WPL to date and future expected allocations of ARRs, along with the expected regulatory recovery treatment of MISO costs, the
+financial impacts associated with FTRs have not differed significantly from the financial impacts associated with physical transmission rights that existed prior to the MISO market.
+
+ 
+
+10 
+
+
+
+Ancillary Services Market - In January 2009, MISO launched the ancillary services market, which integrates the procurement and use of regulation and contingency reserves with the existing wholesale energy market implemented in 2005.  Regulation refers to the moment-to-moment changes in generation that are necessary to meet changes in electricity demand.  Contingency reserves refer to additional generation or demand response resources, either on-line or that can be brought on-line within 10 minutes, to meet certain major events such as the loss of a large generating unit or transmission line.  Alliant Energy has monitored the development of the market to help ensure that the rules associated with the market are reasonable and that costs and revenues associated with the market receive appropriate regulatory cost recovery treatment.  Given the changing allocation of generation assets
+among a fluctuating set of MISO reserve zones, Alliant Energy is currently unable to determine what impacts this new market will have on its future financial condition, results of operations or cash flows.
+
+ 
+
+Refer to “Rates and Regulatory Matters - Other Recent Regulatory Developments - MISO Wholesale Energy Market” in MDA for discussion of the regulatory impacts of costs related to MISO and Note 12(h) of Alliant Energy’s “Notes to Consolidated Financial Statements” for discussion of potential MISO revenue sufficiency guarantee resettlements.
+
+ 
+
+Electric Environmental Matters - Alliant Energy is regulated in environmental matters by federal, state and local agencies.  Such regulations are the result of a number of environmental laws passed by the U.S. Congress, state legislatures and local governments and enforced by federal, state and local regulatory agencies.  The laws impacting Alliant Energy’s electric operations include, but are not limited to, the Safe Drinking Water Act; Clean Water Act; Clean Air Act (CAA), as amended by the CAA Amendments of 1990; National Environmental Policy Act of 1969; Toxic Substances Control Act; Resource Conservation and Recovery Act; Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended by the Superfund Amendments and Reauthorization Act and Emergency Planning and Community Right-to-Know Act of 1986; Endangered
+Species Act; Occupational Safety and Health Act; National Energy Policy Act, as amended; Federal Insecticide, Fungicide and Rodenticide Act; Hazardous Materials Transportation Act; Pollution Prevention Act; and Department of Homeland Security Appropriations Act.  Alliant Energy regularly obtains federal, state and local permits to assure compliance with environmental protection laws and regulations.  Costs associated with such compliance have increased in recent years and are expected to continue to increase in the future.  Alliant Energy anticipates these prudently incurred costs for IPL and WPL will be recoverable through future rate case proceedings.  Refer to “Liquidity and Capital Resources - Environmental” in MDA and Note 12(e) of Alliant Energy’s “Notes to Consolidated Financial Statements” for further discussion of electric environmental matters including current or proposed environmental regulations under the Clean Air Interstate Rule (CAIR), Clean
+Air Visibility Rule (CAVR), Clean Air Mercury Rule (CAMR), Wisconsin Reasonably Available Control Technology Rule, Wisconsin State Mercury Rule, Ozone National Ambient Air Quality Standards Rule, Fine Particle National Ambient Air Quality Standards Rule, Industrial Boiler and Process Heater Case-by-Case Maximum Achievable Control Technology Rule, Section 316(b) of the Clean Water Act, the Wisconsin State Thermal Rule and various legislation being considered to regulate the emission of greenhouse gases (GHG).  Refer to “Strategic Overview - Multi-emission Compliance Plan” for details of Alliant Energy’s, IPL’s and WPL’s future multi-emission compliance plans to adhere to environmental regulations.
+
+ 
+
+11 
+
+
+ 
+
+            
+Alliant Energy Corporation  
+
+
+
+
+
+
+
+     Electric Operating Information 
+     2008  
+     2007
+     2006
+     2005
+     2004
+
+
+
+
+
+     Operating Revenues (in millions) (a): 
+      
+      
+          
+     
+         
+     
+         
+     
+         
+     
+         
+
+          Residential 
+     $844.7 
+          
+     $847.5
+         
+     $857.1
+         
+     $823.4
+         
+     $716.7
+         
+
+          Commercial 
+     537.5 
+          
+     535.2
+         
+     549.8
+         
+     497.4
+         
+     437.8
+         
+
+          Industrial 
+     734.7 
+          
+     731.9
+         
+     763.7
+         
+     675.2
+         
+     609.9
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     2,116.9 
+          
+     2,114.6
+         
+     2,170.6
+         
+     1,996.0
+         
+     1,764.4
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     201.9 
+          
+     179.8
+         
+     145.2
+         
+     158.7
+         
+     116.8
+         
+
+            Bulk power and other 
+     31.1 
+          
+     56.7
+         
+     68.5
+         
+     114.6
+         
+     69.0
+         
+
+          Other (includes wheeling) 
+     61.4 
+          
+     59.7
+         
+     58.7
+         
+     51.3
+         
+     58.8
+         
+
+
+ 
+
+
+
+
+
+               Total 
+     $2,411.3 
+          
+     $2,410.8
+         
+     $2,443.0
+         
+     $2,320.6
+         
+     $2,009.0
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Electric Sales (000s megawatt-hours (MWh)) (a):  
+
+          Residential 
+     7,664 
+          
+     7,753
+         
+     7,670
+         
+     7,881
+         
+     7,354
+         
+
+          Commercial 
+     6,181 
+          
+     6,222
+         
+     6,187
+         
+     6,110
+         
+     5,702
+         
+
+          Industrial 
+     12,490 
+          
+     12,692
+         
+     12,808
+         
+     12,830
+         
+     12,596
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     26,335 
+          
+     26,667
+         
+     26,665
+         
+     26,821
+         
+     25,652
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     3,813 
+          
+     3,547
+         
+     3,064
+         
+     3,161
+         
+     2,943
+         
+
+            Bulk power and other 
+     983 
+          
+     2,550
+         
+     2,632
+         
+     2,933
+         
+     2,159
+         
+
+          Other 
+     164 
+          
+     167
+         
+     171
+         
+     173
+         
+     178
+         
+
+
+
+ 
+
+
+
+
+               Total 
+     31,295 
+          
+     32,931
+         
+     32,532
+         
+     33,088
+         
+     30,932
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Customers (End of Period) (a):  
+
+          Residential 
+     840,644 
+          
+     840,122
+         
+     855,948
+         
+     849,845
+         
+     839,745
+         
+
+          Commercial 
+     134,536 
+          
+     134,235
+         
+     135,822
+         
+     134,149
+         
+     131,152
+         
+
+          Industrial 
+     2,934 
+          
+     2,964
+         
+     3,064
+         
+     3,044
+         
+     2,916
+         
+
+          Other 
+     3,534 
+          
+     3,529
+         
+     3,391
+         
+     3,368
+         
+     3,312
+         
+
+
+
+ 
+
+
+
+
+               Total 
+     981,648 
+          
+     980,850
+         
+     998,225
+         
+     990,406
+         
+     977,125
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Other Selected Electric Data:  
+
+          Maximum peak hour demand (MW) 
+     5,491 
+          
+     5,751
+         
+     5,989
+         
+     5,932
+         
+     5,644
+         
+
+          Cooling degree days (b): 
+
+               Cedar Rapids, Iowa (IPL) (normal - 779) 
+     583 
+          
+     846
+         
+     765
+         
+     891
+         
+     526
+         
+
+               Madison, Wisconsin (WPL) (normal - 642) 
+     538 
+          
+     781
+         
+     637
+         
+     847
+         
+     446
+         
+
+          Sources of electric energy (000s MWh): 
+
+               Coal 
+     17,495 
+          
+     18,643
+         
+     17,578
+         
+     17,360
+         
+     18,472
+         
+
+               Purchased power: 
+
+                    Nuclear (c) 
+     5,465 
+          
+     5,103
+         
+     5,128
+         
+     1,008
+         
+     -
+         
+
+                    Wind 
+     853 
+          
+     872
+         
+     840
+         
+     823
+         
+     868
+         
+
+                    Other 
+     7,013 
+          
+     7,426
+         
+     8,088
+         
+     9,062
+         
+     7,421
+         
+
+               Gas 
+     1,037 
+          
+     1,894
+         
+     1,541
+         
+     2,052
+         
+     792
+         
+
+               Wind 
+     30 
+          
+     -
+         
+     -
+         
+     -
+         
+     -
+         
+
+               Nuclear (c) 
+     - 
+          
+     -
+         
+     264
+         
+     3,461
+         
+     5,018
+         
+
+               Other 
+     215 
+          
+     309
+         
+     263
+         
+     297
+         
+     262
+         
+
+
+
+ 
+
+
+
+
+                    Total 
+     32,108 
+          
+     34,247
+         
+     33,702
+         
+     34,063
+         
+     32,833
+         
+
+
+ 
+
+
+
+
+
+          Revenue per kilowatt-hour (KWh) sold to retail 
+
+             customers (cents) 
+     8.04 
+          
+     7.93
+         
+     8.14
+         
+     7.44
+         
+     6.88
+         
+
+
+
+
+
+
+
+
+
+(a)  
+  
+In
+February 2007, Alliant Energy sold its electric distribution properties in Illinois.  At
+the date of the sale, Alliant       Energy had approximately 22,000 electric retail
+customers in Illinois.  Prior to the asset sales, the electric sales to       retail
+customers in Illinois are included in residential, commercial and industrial sales in the
+tables above.  Following       the asset sales, the electric sales associated with these
+customers are included in wholesale electric sales. 
+
+
+
+(b)  
+  
+Cooling degree days are calculated using a simple average of the high and low temperatures each day compared to a
+      65 degree base.  Normal degree days are estimated using a 20-year rolling average of historical cooling degree days.  
+
+
+(c)  
+  
+In January 2006 and July 2005, IPL and WPL sold their respective interests in DAEC and Kewaunee and upon closing
+      of the sales entered into long-term purchased power agreements to purchase energy and capacity from DAEC and
+      Kewaunee, respectively.
+
+
+
+
+12 
+
+
+
+
+
+Interstate Power and Light Company  
+
+
+
+
+
+
+
+     Electric Operating Information 
+     2008  
+     2007
+     2006
+     2005
+     2004
+
+
+
+
+
+     Operating Revenues (in millions) (a): 
+      
+      
+          
+     
+         
+     
+         
+     
+         
+     
+         
+
+          Residential 
+     $455.2 
+          
+     $451.2
+         
+     $471.2
+         
+     $453.9
+         
+     $388.9
+         
+
+          Commercial 
+     319.4 
+          
+     316.2
+         
+     337.4
+         
+     300.0
+         
+     257.8
+         
+
+          Industrial 
+     407.0 
+          
+     402.0
+         
+     440.7
+         
+     387.0
+         
+     347.3
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     1,181.6 
+          
+     1,169.4
+         
+     1,249.3
+         
+     1,140.9
+         
+     994.0
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     23.4 
+          
+     21.3
+         
+     1.9
+         
+     1.9
+         
+     2.1
+         
+
+            Bulk power and other 
+     21.1 
+          
+     42.2
+         
+     47.8
+         
+     73.5
+         
+     39.6
+         
+
+          Other (includes wheeling) 
+     32.2 
+          
+     37.2
+         
+     32.6
+         
+     30.4
+         
+     33.5
+         
+
+
+ 
+
+
+
+
+
+               Total 
+     $1,258.3 
+          
+     $1,270.1
+         
+     $1,331.6
+         
+     $1,246.7
+         
+     $1,069.2
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Electric Sales (000s MWh) (a):  
+
+          Residential 
+     4,218 
+          
+     4,204
+         
+     4,157
+         
+     4,282
+         
+     3,979
+         
+
+          Commercial 
+     3,911 
+          
+     3,912
+         
+     3,910
+         
+     3,836
+         
+     3,487
+         
+
+          Industrial 
+     7,742 
+          
+     7,750
+         
+     7,860
+         
+     8,005
+         
+     7,827
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     15,871 
+          
+     15,866
+         
+     15,927
+         
+     16,123
+         
+     15,293
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     449 
+          
+     406
+         
+     35
+         
+     41
+         
+     53
+         
+
+            Bulk power and other 
+     682 
+          
+     1,581
+         
+     1,550
+         
+     1,682
+         
+     1,252
+         
+
+          Other 
+     90 
+          
+     93
+         
+     99
+         
+     98
+         
+     98
+         
+
+
+ 
+
+
+
+
+
+               Total 
+     17,092 
+          
+     17,946
+         
+     17,611
+         
+     17,944
+         
+     16,696
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Customers (End of Period) (a):  
+
+          Residential 
+     443,589 
+          
+     444,974
+         
+     455,346
+         
+     454,176
+         
+     450,595
+         
+
+          Commercial 
+     79,508 
+          
+     79,473
+         
+     81,045
+         
+     80,238
+         
+     78,137
+         
+
+          Industrial 
+     1,939 
+          
+     1,954
+         
+     2,018
+         
+     1,996
+         
+     1,915
+         
+
+          Other 
+     1,381 
+          
+     1,398
+         
+     1,299
+         
+     1,317
+         
+     1,280
+         
+
+
+ 
+
+
+
+
+
+               Total 
+     526,417 
+          
+     527,799
+         
+     539,708
+         
+     537,727
+         
+     531,927
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Other Selected Electric Data:  
+
+          Maximum peak hour demand (MW) 
+     2,943 
+          
+     3,085
+         
+     3,070
+         
+     3,077
+         
+     3,017
+         
+
+          Cooling degree days (b): 
+
+               Cedar Rapids, Iowa (normal - 779) 
+     583 
+          
+     846
+         
+     765
+         
+     891
+         
+     526
+         
+
+          Sources of electric energy (000s MWh): 
+
+               Coal 
+     9,517 
+          
+     10,547
+         
+     9,919
+         
+     9,782
+         
+     10,348
+         
+
+               Purchased power: 
+
+                    Nuclear (c) 
+     3,619 
+          
+     3,066
+         
+     3,297
+         
+     -
+         
+     -
+         
+
+                    Wind 
+     616 
+          
+     656
+         
+     644
+         
+     632
+         
+     666
+         
+
+                    Other 
+     2,538 
+          
+     2,445
+         
+     3,099
+         
+     3,236
+         
+     2,842
+         
+
+               Gas 
+     983 
+          
+     1,778
+         
+     1,426
+         
+     1,686
+         
+     580
+         
+
+               Nuclear (c) 
+     - 
+          
+     -
+         
+     264
+         
+     3,177
+         
+     3,451
+         
+
+               Other 
+     23 
+          
+     127
+         
+     80
+         
+     121
+         
+     47
+         
+
+
+ 
+
+
+
+
+
+                    Total 
+     17,296 
+          
+     18,619
+         
+     18,729
+         
+     18,634
+         
+     17,934
+         
+
+
+ 
+
+
+
+
+
+          Revenue per KWh sold to retail customers (cents) 
+     7.45 
+          
+     7.37
+         
+     7.84
+         
+     7.08
+         
+     6.50
+         
+
+
+
+
+
+
+
+
+
+
+
+(a)  
+  
+In
+February 2007, IPL sold its electric distribution properties in Illinois.  At the date of
+the sale, IPL had       approximately 13,000 electric retail customers in Illinois.
+ Prior to the asset sale, the electric sales to retail       customers in Illinois are
+included in residential, commercial and industrial sales in the tables above.  Following
+      the asset sale, the electric sales associated with these customers are included in
+wholesale electric sales. 
+
+
+
+(b)  
+  
+Cooling degree days are calculated using a simple average of the high and low temperatures each day compared to a
+      65 degree base.  Normal degree days are estimated using a 20-year rolling average of historical cooling degree days.    
+
+
+
+(c)  
+  
+In January 2006, IPL sold its interest in DAEC and upon closing of the sale entered into a long-term purchased
+      power agreement to purchase energy and capacity from DAEC.    
+
+
+   
+  
+     
+
+
+
+
+
+13 
+
+
+
+
+
+
+Wisconsin Power and Light Company  
+
+
+
+
+
+
+
+     Electric Operating Information 
+     2008  
+     2007
+     2006
+     2005
+     2004
+
+
+
+
+
+
+     Operating Revenues (in millions) (a): 
+      
+      
+          
+     
+         
+     
+         
+     
+         
+     
+         
+
+          Residential 
+     $389.5 
+          
+     $396.3
+         
+     $385.9
+         
+     $369.5
+         
+     $327.8
+         
+
+          Commercial 
+     218.1 
+          
+     219.0
+         
+     212.4
+         
+     197.4
+         
+     180.0
+         
+
+          Industrial 
+     327.7 
+          
+     329.9
+         
+     323.0
+         
+     288.2
+         
+     262.6
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     935.3 
+          
+     945.2
+         
+     921.3
+         
+     855.1
+         
+     770.4
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     178.5 
+          
+     158.5
+         
+     143.3
+         
+     156.8
+         
+     114.7
+         
+
+            Bulk power and other 
+     10.0 
+          
+     14.5
+         
+     20.7
+         
+     41.1
+         
+     29.4
+         
+
+          Other 
+     29.2 
+          
+     22.5
+         
+     26.1
+         
+     20.9
+         
+     25.3
+         
+
+
+
+ 
+
+
+
+
+               Total 
+     $1,153.0 
+          
+     $1,140.7
+         
+     $1,111.4
+         
+     $1,073.9
+         
+     $939.8
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Electric Sales (000s MWh) (a):  
+
+          Residential 
+     3,446 
+          
+     3,549
+         
+     3,513
+         
+     3,599
+         
+     3,375
+         
+
+          Commercial 
+     2,270 
+          
+     2,310
+         
+     2,277
+         
+     2,274
+         
+     2,215
+         
+
+          Industrial 
+     4,748 
+          
+     4,942
+         
+     4,948
+         
+     4,825
+         
+     4,769
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     10,464 
+          
+     10,801
+         
+     10,738
+         
+     10,698
+         
+     10,359
+         
+
+          Sales for resale: 
+
+            Wholesale 
+     3,364 
+          
+     3,141
+         
+     3,029
+         
+     3,120
+         
+     2,890
+         
+
+            Bulk power and other 
+     301 
+          
+     969
+         
+     1,082
+         
+     1,251
+         
+     907
+         
+
+          Other 
+     74 
+          
+     74
+         
+     72
+         
+     75
+         
+     80
+         
+
+
+
+ 
+
+
+
+
+               Total 
+     14,203 
+          
+     14,985
+         
+     14,921
+         
+     15,144
+         
+     14,236
+         
+
+
+ 
+
+
+
+
+
+
+
+     Customers (End of Period) (a):  
+
+          Residential 
+     397,055 
+          
+     395,148
+         
+     400,602
+         
+     395,669
+         
+     389,150
+         
+
+          Commercial 
+     55,028 
+          
+     54,762
+         
+     54,777
+         
+     53,911
+         
+     53,015
+         
+
+          Industrial 
+     995 
+          
+     1,010
+         
+     1,046
+         
+     1,048
+         
+     1,001
+         
+
+          Other 
+     2,153 
+          
+     2,131
+         
+     2,092
+         
+     2,051
+         
+     2,032
+         
+
+
+
+ 
+
+
+
+
+
+               Total 
+     455,231 
+          
+     453,051
+         
+     458,517
+         
+     452,679
+         
+     445,198
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Other Selected Electric Data:  
+
+          Maximum peak hour demand (MW) 
+     2,583 
+          
+     2,816
+         
+     2,941
+         
+     2,854
+         
+     2,627
+         
+
+          Cooling degree days (b): 
+
+               Madison, Wisconsin (normal - 642) 
+     538 
+          
+     781
+         
+     637
+         
+     847
+         
+     446
+         
+
+          Sources of electric energy (000s MWh): 
+
+               Coal 
+     7,978 
+          
+     8,096
+         
+     7,659
+         
+     7,578
+         
+     8,124
+         
+
+               Purchased power: 
+
+                    Nuclear (c) 
+     1,846 
+          
+     2,037
+         
+     1,831
+         
+     1,008
+         
+     -
+         
+
+                    Wind 
+     237 
+          
+     216
+         
+     196
+         
+     191
+         
+     202
+         
+
+                    Other 
+     4,475 
+          
+     4,981
+         
+     4,989
+         
+     5,826
+         
+     4,579
+         
+
+               Gas 
+     54 
+          
+     116
+         
+     115
+         
+     366
+         
+     212
+         
+
+               Wind 
+     30 
+          
+     -
+         
+     -
+         
+     -
+         
+     -
+         
+
+               Nuclear (c) 
+     - 
+          
+     -
+         
+     -
+         
+     284
+         
+     1,567
+         
+
+               Other 
+     192 
+          
+     182
+         
+     183
+         
+     176
+         
+     215
+         
+
+
+
+ 
+
+
+
+
+                    Total 
+     14,812 
+          
+     15,628
+         
+     14,973
+         
+     15,429
+         
+     14,899
+         
+
+
+ 
+
+
+
+
+
+          Revenue per KWh sold to retail customers (cents) 
+     8.94 
+          
+     8.75
+         
+     8.58
+         
+     7.99
+         
+     7.44
+         
+
+
+
+
+
+
+
+
+
+
+
+(a)  
+  
+In
+February 2007, WPL sold its electric distribution properties in Illinois.  At the date of
+the sale, WPL had       approximately 9,000 electric retail customers in Illinois.  Prior
+to the asset sale, the electric sales to retail       customers in Illinois are included
+in residential, commercial and industrial sales in the tables above.  Following       the
+asset sale, the electric sales associated with these customers are included in wholesale
+electric sales. 
+
+
+
+
+(b)  
+  
+Cooling degree days are calculated using a simple average of the high and low temperatures each day compared to a
+      65 degree base.  Normal degree days are estimated using a 20-year rolling average of historical cooling degree days.   
+
+
+
+(c)  
+  
+In July 2005, WPL sold its interest in Kewaunee and upon closing of the sale entered into a long-term purchased
+      power agreement to purchase energy and capacity from Kewaunee. 
+
+
+
+   
+  
+  
+
+
+
+
+14 
+
+
+
+2)  GAS UTILITY OPERATIONS
+
+General - Gas utility operations represent the second largest operating segment for Alliant Energy, IPL and WPL.
+
+ 
+
+Jurisdictions - Alliant Energy’s gas utility operations are located in the Midwest with IPL and WPL providing gas service in Iowa, southern and central Wisconsin and southern Minnesota.  Gas utility revenues by state were as follows (dollars in millions):
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            2008 
+        
+              
+        
+            2007 
+        
+              
+        
+            2006  
+    
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent 
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent 
+        
+              
+        
+            Amount 
+        
+              
+        
+            Percent  
+    
+        
+            IPL: 
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            Iowa 
+        
+            $390.4 
+        
+              
+        
+            55% 
+        
+              
+        
+            $345.6 
+        
+              
+        
+            55% 
+        
+              
+        
+            $335.2 
+        
+              
+        
+            53%  
+    
+        
+            Minnesota 
+        
+            20.0 
+        
+              
+        
+            3% 
+        
+              
+        
+            17.4 
+        
+              
+        
+            3% 
+        
+              
+        
+            17.7 
+        
+              
+        
+            3%  
+    
+        
+            Illinois (a) 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            1.5 
+        
+              
+        
+            -- 
+        
+              
+        
+            6.5 
+        
+              
+        
+            1%  
+    
+        
+            Subtotal 
+        
+            410.4 
+        
+              
+        
+            58% 
+        
+              
+        
+            364.5 
+        
+              
+        
+            58% 
+        
+              
+        
+            359.4 
+        
+              
+        
+            57%  
+    
+        
+            WPL: 
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+              
+        
+               
+    
+        
+            Wisconsin 
+        
+            300.0 
+        
+              
+        
+            42% 
+        
+              
+        
+            263.7 
+        
+              
+        
+            42% 
+        
+              
+        
+            265.6 
+        
+              
+        
+            42%  
+    
+        
+            Illinois (a) 
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            2.0 
+        
+              
+        
+            -- 
+        
+              
+        
+            8.3 
+        
+              
+        
+            1%  
+    
+        
+            Subtotal 
+        
+            300.0 
+        
+              
+        
+            42% 
+        
+              
+        
+            265.7 
+        
+              
+        
+            42% 
+        
+              
+        
+            273.9 
+        
+              
+        
+            43%  
+    
+        
+              
+        
+            $710.4 
+        
+              
+        
+            100% 
+        
+              
+        
+            $630.2 
+        
+              
+        
+            100% 
+        
+              
+        
+            $633.3 
+        
+              
+        
+            100%  
+
+
+
+
+
+
+
+    
+        
+            (a) 
+        
+            IPL’s and WPL’s utility operations in Illinois were sold in February 2007.  
+
+
+
+ 
+
+Customers - The number of gas customers and communities served at Dec. 31, 2008 were as follows:
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            Retail 
+        
+              
+        
+            Transportation / 
+        
+              
+        
+            Total 
+        
+              
+        
+            Communities  
+    
+        
+              
+        
+            Customers 
+        
+              
+        
+            Other Customers 
+        
+              
+        
+            Customers 
+        
+              
+        
+            Served  
+    
+        
+            IPL 
+        
+            233,836 
+        
+              
+        
+            231 
+        
+              
+        
+            234,067 
+        
+              
+        
+            243  
+    
+        
+            WPL 
+        
+            177,354 
+        
+              
+        
+            219 
+        
+              
+        
+            177,573 
+        
+              
+        
+            236  
+    
+        
+              
+        
+            411,190 
+        
+              
+        
+            450 
+        
+              
+        
+            411,640 
+        
+              
+        
+            479  
+
+
+ 
+
+In addition to sales of natural gas to retail customers, IPL and WPL provide transportation service to commercial and industrial customers by moving customer-owned gas through Alliant Energy’s distribution systems to the customers’ meters.  Revenues are collected for this service pursuant to transportation tariffs.  Refer to the “Gas Operating Information” tables for additional details regarding gas utility operations.
+
+ 
+
+Seasonality - Gas sales follow a seasonal pattern with an annual base-load of gas and a large heating peak occurring during the winter season.  Natural gas obtained from producers, marketers and brokers, as well as gas in storage, is utilized to meet the peak heating season requirements.  Storage contracts allow IPL and WPL to purchase gas in the summer, store the gas in underground storage fields and deliver it in the winter.
+
+ 
+
+Competition - Federal and state regulatory policies are in place to bring more competition to the gas industry.  While the gas utility distribution function is expected to remain a regulated function, sales of the natural gas commodity and related services are subject to competition from third parties.  It remains uncertain if, and when, the current economic disincentives for smaller consumption customers to choose an alternative gas commodity supplier may be removed such that the utility business begins to face competition for the sale of gas to those customers.
+
+
+ 
+
+15 
+
+
+
+
+Gas Supply - IPL and WPL maintain purchase agreements with over 40 suppliers of natural gas from various gas producing regions of the U.S. and Canada.  The majority of the gas supply contracts are for terms of six months or less, with the remaining supply contracts having terms through 2010.  IPL’s and WPL’s gas supply commitments are primarily market-based.
+
+ 
+
+In providing gas commodity service to retail customers, Corporate Services administers a diversified portfolio of transportation and storage contracts on behalf of IPL and WPL.  Transportation contracts with Northern Natural Gas Company (NNG), ANR Pipeline (ANR), Natural Gas Pipeline Co. of America (NGPL), Northern Border Pipeline (NBPL) and Guardian Pipeline (Guardian) allow access to gas supplies located in the U.S. and Canada.  Arrangements with Firm Citygate Supplies (FCS) provide IPL with gas delivered directly to its service territory.  In 2008, the maximum daily delivery capacity for IPL and WPL was as follows (in Dths):
+
+ 
+
+
+
+
+
+    
+        
+              
+        
+            NNG 
+        
+              
+        
+            ANR 
+        
+              
+        
+            NGPL 
+        
+              
+        
+            FCS 
+        
+              
+        
+            NBPL 
+        
+              
+        
+            Guardian 
+        
+              
+        
+            Total  
+    
+        
+            IPL 
+        
+            186,469 
+        
+              
+        
+            53,180 
+        
+              
+        
+            42,618 
+        
+              
+        
+            18,000 
+        
+              
+        
+            10,000 
+        
+              
+        
+            -- 
+        
+              
+        
+            310,267  
+    
+        
+            WPL 
+        
+            83,056 
+        
+              
+        
+            177,467 
+        
+              
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            -- 
+        
+              
+        
+            10,000 
+        
+              
+        
+            270,523  
+
+
+ 
+
+Refer to Note 1(h) for information relating to utility natural gas cost recovery mechanisms and Note 12(b) for discussion of natural gas commitments in Alliant Energy’s “Notes to Consolidated Financial Statements.”
+
+ 
+
+Gas Environmental Matters - Refer to Note 12(e) of Alliant Energy’s “Notes to Consolidated Financial Statements” for discussion of gas environmental matters.
+
+ 
+
+
+16 
+
+
+
+ 
+
+
+
+
+
+
+     Alliant Energy Corporation  
+        
+           
+      
+         
+      
+         
+      
+         
+      
+         
+
+
+       
+
+
+
+
+
+     Gas Operating Information 
+     2008  
+     2007
+     2006
+     2005
+     2004
+
+
+
+
+
+
+     Operating Revenues (in millions) (a): 
+      
+      
+          
+     
+         
+     
+         
+     
+         
+     
+         
+
+          Residential 
+     $385.0 
+          
+     $348.6
+         
+     $342.8
+         
+     $358.1
+         
+     $315.6
+         
+
+          Commercial 
+     240.5 
+          
+     199.0
+         
+     198.8
+         
+     202.0
+         
+     172.3
+         
+
+          Industrial 
+     51.1 
+          
+     39.4
+         
+     38.7
+         
+     43.8
+         
+     38.4
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     676.6 
+          
+     587.0
+         
+     580.3
+         
+     603.9
+         
+     526.3
+         
+
+          Interdepartmental 
+     7.8 
+          
+     17.4
+         
+     19.2
+         
+     55.9
+         
+     22.3
+         
+
+          Transportation/other 
+     26.0 
+          
+     25.8
+         
+     33.8
+         
+     25.3
+         
+     21.2
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     $710.4 
+          
+     $630.2
+         
+     $633.3
+         
+     $685.1
+         
+     $569.8
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Gas Sales (000s Dths) (a):  
+
+          Residential 
+     30,630 
+          
+     28,137
+         
+     26,406
+         
+     28,554
+         
+     29,338
+         
+
+          Commercial 
+     22,461 
+          
+     19,417
+         
+     18,707
+         
+     18,763
+         
+     19,199
+         
+
+          Industrial 
+     5,558 
+          
+     4,694
+         
+     4,498
+         
+     4,406
+         
+     5,127
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     58,649 
+          
+     52,248
+         
+     49,611
+         
+     51,723
+         
+     53,664
+         
+
+          Interdepartmental 
+     1,373 
+          
+     2,591
+         
+     2,468
+         
+     6,959
+         
+     3,501
+         
+
+          Transportation/other 
+     59,253 
+          
+     58,911
+         
+     53,436
+         
+     55,891
+         
+     46,125
+         
+
+
+
+ 
+
+
+
+
+            Total 
+     119,275 
+          
+     113,750
+         
+     105,515
+         
+     114,573
+         
+     103,290
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Retail Customers at End of Period (a):  
+
+          Residential 
+     365,193 
+          
+     363,825
+         
+     374,494
+         
+     371,443
+         
+     366,493
+         
+
+          Commercial 
+     45,413 
+          
+     45,374
+         
+     46,319
+         
+     46,153
+         
+     45,630
+         
+
+          Industrial 
+     584 
+          
+     591
+         
+     657
+         
+     692
+         
+     730
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     411,190 
+          
+     409,790
+         
+     421,470
+         
+     418,288
+         
+     412,853
+         
+
+
+ 
+
+
+
+
+
+
+
+
+     Other Selected Gas Data:  
+
+          Heating degree days (b): 
+
+               Cedar Rapids, Iowa (IPL) (normal - 6,732) 
+     7,636 
+          
+     6,815
+         
+     6,247
+         
+     6,585
+         
+     6,549
+         
+
+               Madison, Wisconsin (WPL) (normal - 7,095) 
+     7,714 
+          
+     6,935
+         
+     6,520
+         
+     6,840
+         
+     6,954
+         
+
+          Revenue per Dth sold to retail customers 
+     $11.54 
+          
+     $11.23
+         
+     $11.70
+         
+     $11.68
+         
+     $9.81
+         
+
+          Purchased gas costs per Dth sold to retail customers 
+     $8.73 
+          
+     $8.11
+         
+     $8.32
+         
+     $8.68
+         
+     $6.98
+         
+
+
+
+
+
+
+
+
+
+
+
+(a)  
+  
+In
+February 2007, Alliant Energy sold its natural gas properties in Illinois.  At the date
+of the sale, Alliant Energy had       approximately 14,000 gas retail customers in
+Illinois.  Prior to the asset sales, the gas sales to retail customers in       Illinois
+are included in residential, commercial and industrial sales in the tables above. 
+
+
+
+
+
+
+
+
+
+(b)  
+  
+Heating
+degree days are calculated using a simple average of the high and low temperatures each
+day compared to a       65 degree base.  Normal degree days are estimated using a 20-year
+rolling average of historical heating degree days. 
+
+
+
+   
+  
+ 
+
+
+
+
+17 
+
+
+
+
+
+
+
+
+     Interstate Power and Light Company  
+       
+          
+      
+         
+      
+         
+      
+         
+      
+         
+
+
+       
+
+
+
+
+
+     Gas Operating Information 
+     2008 
+     2007
+     2006
+     2005
+     2004
+
+
+
+
+
+     Operating Revenues (in millions) (a): 
+      
+      
+          
+     
+         
+     
+         
+     
+         
+     
+         
+
+          Residential 
+     $219.3 
+          
+     $203.4
+         
+     $197.9
+         
+     $201.7
+         
+     $179.2
+         
+
+          Commercial 
+     137.3 
+          
+     115.0
+         
+     114.4
+         
+     112.7
+         
+     95.5
+         
+
+          Industrial 
+     40.4 
+          
+     31.2
+         
+     30.4
+         
+     33.8
+         
+     30.3
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     397.0 
+          
+     349.6
+         
+     342.7
+         
+     348.2
+         
+     305.0
+         
+
+          Interdepartmental 
+     2.2 
+          
+     2.6
+         
+     2.2
+         
+     5.1
+         
+     1.9
+         
+
+          Transportation/other 
+     11.2 
+          
+     12.3
+         
+     14.5
+         
+     9.5
+         
+     9.1
+         
+
+
+
+ 
+
+
+
+
+            Total 
+     $410.4 
+          
+     $364.5
+         
+     $359.4
+         
+     $362.8
+         
+     $316.0
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Gas Sales (000s Dths) (a):  
+
+          Residential 
+     18,110 
+          
+     16,541
+         
+     15,136
+         
+     16,486
+         
+     16,882
+         
+
+          Commercial 
+     13,099 
+          
+     11,080
+         
+     10,552
+         
+     10,576
+         
+     10,614
+         
+
+          Industrial 
+     4,539 
+          
+     3,811
+         
+     3,622
+         
+     3,428
+         
+     4,029
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     35,748 
+          
+     31,432
+         
+     29,310
+         
+     30,490
+         
+     31,525
+         
+
+          Interdepartmental 
+     217 
+          
+     327
+         
+     352
+         
+     511
+         
+     289
+         
+
+          Transportation/other 
+     34,776 
+          
+     34,433
+         
+     32,342
+         
+     30,691
+         
+     28,653
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     70,741 
+          
+     66,192
+         
+     62,004
+         
+     61,692
+         
+     60,467
+         
+
+
+ 
+
+
+
+
+
+
+
+     Retail Customers at End of Period (a):  
+
+          Residential 
+     206,866 
+          
+     206,873
+         
+     211,768
+         
+     211,217
+         
+     209,280
+         
+
+          Commercial 
+     26,603 
+          
+     26,664
+         
+     27,222
+         
+     27,384
+         
+     27,094
+         
+
+          Industrial 
+     367 
+          
+     366
+         
+     382
+         
+     398
+         
+     434
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     233,836 
+          
+     233,903
+         
+     239,372
+         
+     238,999
+         
+     236,808
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Other Selected Gas Data:  
+
+          Heating degree days (b): 
+
+               Cedar Rapids, Iowa (normal - 6,732) 
+     7,636 
+          
+     6,815
+         
+     6,247
+         
+     6,585
+         
+     6,549
+         
+
+          Revenue per Dth sold to retail customers 
+     $11.11 
+          
+     $11.12
+         
+     $11.69
+         
+     $11.42
+         
+     $9.67
+         
+
+          Purchased gas cost per Dth sold to retail customers 
+     $8.50 
+          
+     $8.38
+         
+     $8.69
+         
+     $8.78
+         
+     $7.27
+         
+
+
+
+
+
+
+
+       
+
+
+
+     Wisconsin Power and Light Company  
+       
+          
+      
+         
+      
+         
+      
+         
+      
+         
+
+
+       
+
+
+
+
+
+
+     Gas Operating Information  
+     2008 
+          
+     2007
+         
+     2006
+         
+     2005
+         
+     2004
+         
+
+
+
+
+
+
+
+     Operating Revenues (in millions) (a):  
+
+          Residential 
+     $165.7 
+          
+     $145.2
+         
+     $144.9
+         
+     $156.4
+         
+     $136.4
+         
+
+          Commercial 
+     103.2 
+          
+     84.0
+         
+     84.4
+         
+     89.3
+         
+     76.8
+         
+
+          Industrial 
+     10.7 
+          
+     8.2
+         
+     8.3
+         
+     10.0
+         
+     8.1
+         
+
+
+
+ 
+
+
+
+
+            Retail subtotal 
+     279.6 
+          
+     237.4
+         
+     237.6
+         
+     255.7
+         
+     221.3
+         
+
+          Interdepartmental 
+     5.6 
+          
+     14.8
+         
+     17.0
+         
+     50.8
+         
+     20.4
+         
+
+          Transportation/other 
+     14.8 
+          
+     13.5
+         
+     19.3
+         
+     15.8
+         
+     12.1
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     $300.0 
+          
+     $265.7
+         
+     $273.9
+         
+     $322.3
+         
+     $253.8
+         
+
+
+
+ 
+
+
+
+
+
+
+
+     Gas Sales (000s Dths) (a):  
+
+          Residential 
+     12,520 
+          
+     11,596
+         
+     11,270
+         
+     12,068
+         
+     12,456
+         
+
+          Commercial 
+     9,362 
+          
+     8,337
+         
+     8,155
+         
+     8,187
+         
+     8,585
+         
+
+          Industrial 
+     1,019 
+          
+     883
+         
+     876
+         
+     978
+         
+     1,098
+         
+
+
+ 
+
+
+
+
+
+            Retail subtotal 
+     22,901 
+          
+     20,816
+         
+     20,301
+         
+     21,233
+         
+     22,139
+         
+
+          Interdepartmental 
+     1,156 
+          
+     2,264
+         
+     2,116
+         
+     6,448
+         
+     3,212
+         
+
+          Transportation/other 
+     24,477 
+          
+     24,478
+         
+     21,094
+         
+     25,200
+         
+     17,472
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     48,534 
+          
+     47,558
+         
+     43,511
+         
+     52,881
+         
+     42,823
+         
+
+
+
+ 
+
+
+
+
+
+
+
+
+     Retail Customers at End of Period (a):  
+
+          Residential 
+     158,327 
+          
+     156,952
+         
+     162,726
+         
+     160,226
+         
+     157,213
+         
+
+          Commercial 
+     18,810 
+          
+     18,710
+         
+     19,097
+         
+     18,769
+         
+     18,536
+         
+
+          Industrial 
+     217 
+          
+     225
+         
+     275
+         
+     294
+         
+     296
+         
+
+
+ 
+
+
+
+
+
+            Total 
+     177,354 
+          
+     175,887
+         
+     182,098
+         
+     179,289
+         
+     176,045
+         
+
+
+ 
+
+
+
+
+
+
+
+     Other Selected Gas Data:  
+
+          Heating degree days (b): 
+
+               Madison, Wisconsin (normal - 7,095) 
+     7,714 
+          
+     6,935
+         
+     6,520
+         
+     6,840
+         
+     6,954
+         
+
+          Revenue per Dth sold to retail customers 
+     $12.21 
+          
+     $11.40
+         
+     $11.70
+         
+     $12.04
+         
+     $10.00
+         
+
+          Purchased gas cost per Dth sold to retail customers 
+     $9.08 
+          
+     $7.70
+         
+     $7.77
+         
+     $8.53
+         
+     $6.57
+         
+
+
+
+
+
+
+
+
+
+
+
+
+(a)  
+  
+In
+February 2007, IPL and WPL sold their respective natural gas properties in Illinois.  At
+the date of the sale, IPL and WPL       had approximately 6,000 and 8,000 gas retail
+customers in Illinois, respectively.  Prior to the asset sales, the gas sales       to
+retail customers in Illinois are included in residential, commercial and industrial sales
+in the tables above. 
+
+
+
+(b) 
+  
+Heating
+degree days are calculated using a simple average of the high and low temperatures each
+day compared to a       65 degree base.  Normal degree days are estimated using a 20-year
+rolling average of historical heating degree days.  
+
+
+
+18 
+
+
+
+
+3)  STEAM UTILITY OPERATIONS - IPL has historically provided steam service to approximately 200 customers in Cedar Rapids, Iowa, who use high-pressure steam for production purposes or low-pressure steam for hot water and heat.  Substantially all of the steam for these customers was generated by IPL’s Prairie Creek and Sixth Street Generating Stations in Cedar Rapids prior to June 2008.  In June 2008, IPL’s Prairie Creek and Sixth Street Generating Stations were shutdown and have not yet returned to full operations due to significant damage to the facilities caused by severe flooding in Cedar Rapids.  Soon after the flood waters receded, IPL made necessary repairs to the steam distribution system and installed temporary steam generating systems (natural gas-fired package boilers and water treatment systems) to resume steam service until a decision was made regarding
+rebuilding the two facilities.  IPL is currently rebuilding its Prairie Creek Generating Station and expects this facility to return to full steam operations in the first half of 2009.  In January 2009, IPL announced it did not secure the necessary long-term contracts with steam customers previously serviced by the Sixth Street Generating Station in order to make the investment required to rebuild such facility.  IPL is currently in discussions with steam customers previously serviced by the Sixth Street Generating Station regarding new contracts to provide short- to mid-term steam service.  IPL plans to continue to use the temporary steam generating systems to provide steam to its customers previously serviced by the Sixth Street Generating Station until a decision is made regarding the new contracts to provide short- to mid-term service.  Refer to “Severe Midwest Weather” in MDA for further discussion of the June 2008 flood.
+
+ 
+
+D.  INFORMATION RELATING TO NON-REGULATED OPERATIONS
+
+ 
+
+Resources manages a portfolio of wholly-owned subsidiaries and additional investments through several distinct platforms: RMT (including WindConnect®), Non-regulated Generation, Transportation and other non-regulated investments.
+
+ 
+
+RMT (including WindConnect®) - provides renewable energy services and environmental consulting and engineering services to industrial and commercial clients nationwide.  RMT offers renewable energy services through its WindConnect® segment, which provides siting, design, construction, and high voltage connection services for wind projects in the U.S.  RMT’s environmental consulting and engineering services include site remediation and restoration, air quality control, auditing/compliance management, facility siting and planning, and environmental construction.  RMT also offers services through its SmartBurn® segment, which focuses on the application of combustion science technologies to improve performance of coal-fired electric generating facilities and lower NOx emissions in the process.
+
+ 
+
+Competition in the renewable energy services market has been intensifying recently as demand for these services increases.
+RMT is currently among a small group of companies that has technical expertise and project experience for all phases of a renewable energy project, from siting through electrical grid connection.
+Future growth in the renewable energy infrastructure market may attract new competitors to the renewable energy services market including large construction companies.
+
+ 
+
+The environmental consulting and engineering market is mature, highly fragmented, and composed of a large number of firms ranging in size from small private entities to large public firms.  RMT’s competitors in this market vary by their scope of services, scale and geographical location of projects.
+
+ 
+
+Non-regulated Generation - manages Alliant Energy’s non-regulated electric generating facilities.  Resources owns the 300 MW, simple-cycle, natural gas-fired SFEF near Sheboygan Falls, Wisconsin and leases it to WPL for an initial period of 20 years.  Refer to Note 3(b) of WPL’s “Notes to Consolidated Financial Statements” for additional information regarding the SFEF lease.  Resources also owns the 300 MW, simple-cycle, dual-fueled (natural gas/diesel) NEF in Neenah, Wisconsin.  The entire power output of NEF is sold under contract through May 31, 2009.  In 2008, WPL received approval from FERC and the PSCW to purchase NEF.  WPL currently plans to acquire NEF effective June 1, 2009.  Also included in Non-regulated Generation is Industrial Energy Applications, Inc., which provides on-site energy services with small standby generators.
+
+ 
+
+Transportation - includes a short-line railway that provides freight service between Cedar Rapids, Iowa and Iowa City, Iowa; barge terminal and hauling services on the Mississippi River; and other transfer and storage services.
+
+ 
+
+Other non-regulated investments - includes the Whiting Petroleum Corporation tax sharing agreement receivable discussed in Note 4(b) of Alliant Energy’s “Notes to Consolidated Financial Statements,” real estate investments, two corporate airplanes and several other modest investments.
+
+
+ 
+
+19 
+
+
+
+
+
+
+ITEM 1A. RISK FACTORS
+
+ 
+
+You should carefully consider each of the risks described below relating to Alliant Energy, IPL and WPL, together with all of the other information contained in this combined Annual Report on Form 10-K, before making an investment decision with respect to our securities.  If any of the following risks develop into actual events, our business, financial condition, results of operations or cash flows could be materially and adversely affected and you may lose all or part of your investment.
+
+ 
+
+Risks related to the regulation of our business could impact the rates we are able to charge, our costs and our profitability - We are subject to comprehensive regulation by federal and state regulatory authorities, which significantly influences our operating environment and the ability to timely recover costs from customers.  In particular, our utility operations are regulated by regulatory authorities with jurisdiction over public utilities, including the IUB, the PSCW, the MPUC and FERC.  These authorities regulate many aspects of our operations, including: rates charged to customers; costs of fuel, purchased power and natural gas that can be recovered from customers; the authorized rates of return on capital; the amount of deferred costs that may be recovered from customers; our ability to site and construct new generating facilities; authorization to install environmental
+pollution control equipment and whether equipment costs can be recovered from customers; construction and maintenance of facilities; operations, including requiring certain sources of energy such as renewable sources and reductions in energy usage by customers; rates paid to transmission operators; safety; issuance of securities; accounting matters; and transactions between affiliates.  Further, provisions of the Wisconsin Utility Holding Company Act limit our ability to invest in non-utility activities and could deter takeover attempts by a potential purchaser of our common stock that would be willing to pay a premium for our common stock.  Our ability to obtain rate adjustments to maintain current rates of return depends upon regulatory action under applicable statutes and regulations, and we cannot assure that rate adjustments will be obtained or current authorized rates of return on capital will be earned.  These regulatory authorities are also empowered to impose financial
+penalties and other sanctions on us if we are found to have violated statutes and regulations governing utility operations.  IPL and WPL from time to time file rate cases with federal and state regulatory authorities.  In future rate cases, if IPL and WPL do not receive an adequate amount of rate relief, rates are reduced, increased rates are not approved on a timely basis or costs are otherwise unable to be recovered through rates, we may experience an adverse impact on our financial condition, results of operations and cash flows.  We are unable to predict the impact on our business and operating results from future regulatory activities of any of these agencies.  Changes in regulations or the imposition of additional regulations may require us to incur additional costs or change business operations or our business plan, which may have an adverse impact on our financial condition, results of operations and cash flows.
+
+ 
+
+Risks related to implementing our strategic plan - Our strategic plan is based on increasing our electric generating capacity to meet our customers’ needs by building new electric generating facilities.  The construction of generating facilities is subject to many risks, which may cause increased costs or inability to recover costs, or may impede or block our ability to achieve our strategic objectives.  The state utility commissions may not permit us to site or construct the generating facilities.  This decision could be based upon any number of factors, including their determination that there is no need for the facilities, too large of customer rate increases associated with the new generating facilities, technology changes, environmental concerns or other factors.  For example, the PSCW rejected our application to build a proposed addition of Nelson Dewey Generating Station
+Unit 3.  State utility commissions could approve the construction of generating facilities, but include conditions that make the project uneconomical.  Such conditions could include low rates of return, inability to adequately recover costs or certain operating restrictions.  For example, the IUB imposed, as a condition of approval, a low rate of return and low cost cap for our proposed addition of Sutherland Generating Station Unit 4.  If we receive regulatory approval to build the facilities, advocacy groups or other associations may file lawsuits seeking to overturn or modify the regulatory approvals.  If the state utility commissions do not approve the new generating facilities or do not approve conditions that make the project economical, or if certain groups successfully challenge the state utility commissions’ decisions to allow the generating facilities, we will not be able to implement our strategic plan and our financial condition and ability to serve our customers
+could be negatively affected.
+
+
+ 
+
+20 
+
+
+
+
+Further, large construction projects, such as the building of coal and wind generating facilities, are subject to various risks that could cause costs to increase or delays in completion.  These risks include shortages of, the inability to obtain, the cost of and the consistency of labor, materials and equipment, the inability of the general contractor or subcontractors to perform under their contracts, the inability to agree to terms of contracts or disputes in contract terms, work stoppages, adverse weather conditions, the inability to obtain necessary permits in a timely manner, changes in applicable laws or regulations, adverse interpretation or enforcement of permit conditions, governmental actions, legal action, and unforeseen engineering or technology issues.  If the construction of a generating facility is over budget, we may not be able to recover those excess costs.  Inability to recover excess
+costs, or inability to complete construction in a timely manner, could adversely impact our financial condition, results of operations and cash flows.
+
+ 
+
+Changes in commodity prices or the availability of commodities may increase the cost of producing electric energy or change the amount we receive from selling electric energy, harming our financial performance - The prices that we may obtain for electric energy may not compensate for changes in delivered coal, natural gas or electric energy spot-market costs, or changes in the relationship between such costs and the market prices of electric energy.  As a result, we may be unable to pass on the changes in costs to our customers, which may result in an adverse effect on our financial condition, results of operations and cash flows.  We are heavily exposed to changes in the price and availability of coal because the majority of the electricity generated by us is from our coal-fired generating facilities.  We have contracts of varying
+durations for the supply and transportation of coal for most of our existing generating capability, but as these contracts end or otherwise are not honored, we may not be able to purchase coal on terms as favorable as the current contracts.  Further, we currently rely on coal primarily from the Powder River Basin in Wyoming and any disruption of coal production in, or transportation from, that region may cause us to incur additional costs and adversely affect our financial condition, results of operations and cash flows.  We also have responsibility to supply natural gas to certain natural gas-fired electric generating facilities that we own and lease, which increase our exposure to the more volatile market prices of natural gas.  We have natural gas supply contracts in place which are generally short term in duration.  The natural gas supply commitments are either fixed price in nature or market-based.  As some of the contracts are
+market-based, and all of the contracts are short-term, we may not be able to purchase natural gas on terms as favorable as the current contracts when the current contracts expire.  Further, any disruption of production or transportation of natural gas may cause us to incur additional costs to purchase natural gas that may adversely impact our financial condition, results of operations and cash flows.  We obtain a portion of our electricity from the market, increasing our exposure to the volatility of market and spot market prices.  The derivative instruments we use to manage our commodity risks have terms allowing our counterparties to demand cash collateral.  Extensive cash collateral demands could adversely impact our cash flows.
+
+ 
+
+Storms or natural disasters may impact our operations in unpredictable ways - Storms or catastrophic natural disasters may impact our operations.  Storms and natural disasters may adversely impact our ability to generate, purchase or distribute electric energy or obtain fuel sources and may significantly slow growth, or cause a decline, in the economy within our service territories.  Storms and natural disasters may prevent our customers from being able to operate causing lower sales and revenues.  In addition, we could incur large costs of repairing damage to our generating facilities and infrastructure due to storms or natural disasters.  The loss of revenues may not be recovered.  The restoration costs may not be fully covered by insurance policies.  Some costs may not be recovered in rates, or there could be significant delays in cost recovery.  Any of these items could adversely
+effect our financial condition, results of operations and cash flows.
+
+ 
+
+Extensive flooding in the Midwest in June 2008 caused catastrophic damage in our Iowa service territory.  As a result of the flooding, we incurred significant storm restoration costs for the repair and/or replacement of our property damaged by the flooding and expect to incur additional costs.  Certain of the storm restoration costs may not qualify for recovery under our flood insurance policy and the total storm restoration costs may exceed the amount of our flood insurance coverage limit of $100 million.  Therefore, insurance may not cover all of our costs.  The flooding caused extensive damage to our Sixth Street Generating Facility, which has historically been the primary source of steam for customers in downtown Cedar Rapids, Iowa, but remains out of service following the flood.  We currently provide steam for customers in downtown Cedar Rapids using a temporary steam generating system.  Because we were
+unable to secure long-term contracts with steam customers to ensure recovery of investment to rebuild the Sixth Street Generating Facility, we expect to discontinue providing long-term steam service in downtown Cedar Rapids in the future.  Discontinuing steam service is expected to result in lost operating margins and may result in future impairments for stranded assets associated with our steam business.  We are unable to predict with certainty the amount or timing of any insurance and regulatory recoveries of the storm restoration costs.  As a result, the financial impacts of the flooding may have a materially adverse impact on our financial condition, results of operations and cash flows.
+
+
+ 
+21 
+
+
+
+Costs of compliance with existing and future laws and the incurrence of liabilities, particularly related to the environment, could adversely affect our profitability - Our operations are subject to extensive regulation including environmental protection laws and regulations relating to, among other things, water discharges, management of hazardous and solid waste, and air emissions such as sulfur dioxide, nitrogen oxides, particulate matter and mercury.  Laws and regulations affecting our operations have recently been adopted by the EPA and are being implemented in the states we operate.  In addition, new regulations from federal and state authorities are under consideration and may be adopted, requiring modifications to our utility operations.  New interpretations of existing laws and regulations could be adopted or become applicable to us or our facilities.  Rules may be adopted
+and then overturned by courts, such as the Clean Air Mercury Rule, or sent back to the EPA for revisions, such as the Clean Air Interstate Rule.  These regulations, possible new regulations and possible new interpretations may substantially increase compliance expenditures made by us or restrict our operations in the future.  We also have current or previous ownership interests in sites associated with the production of gas and the production and delivery of electricity for which we may be liable for additional costs related to investigation, remediation and monitoring of these sites.  Citizen groups or others may bring litigation over environmental issues including claims of various types, such as property damage, personal injury, and citizen challenges to compliance decisions on the enforcement of environmental requirements, such as approval of air permits, opacity and other air quality standards which could subject us to penalties, injunctive relief and the cost of litigation.  We
+cannot predict with certainty the amount and timing of all future expenditures (including the potential or magnitude of fines or penalties) related to environmental matters, although we expect them to be material.  The risks associated with compliance and estimating compliance costs include the possibility that changes will be made to the current environmental laws and regulations, the possible inability to obtain necessary materials or skilled labor force required for certain equipment necessary to comply with environmental regulations, the rising costs of equipment, services and labor related to environmental compliance, the possibility that technology will not perform as anticipated, the uncertainty regarding the type of compliance that will finally be required by rules and regulations, partner considerations with respect to our joint-owned facilities, the uncertain treatment of expenditures by regulators in setting our rates and the uncertainty in quantifying liabilities under
+environmental laws that impose joint and several liabilities on all potentially responsible parties.  We plan to move forward with environmental control projects that were planned to comply with the Clean Air Interstate Rule because we expect similar environmental regulations to be adopted in the future.  We also purchased emissions credits to comply with the Clean Air Interstate Rule.  State utility commissions may not approve such projects because the current requirements for them are in question, or may not allow us to recover costs of the projects and emissions credits if future regulations are not adopted or changed significantly from current regulations.  Further, more stringent environmental regulations could be adopted in the future, requiring controls in addition to those currently planned.  Compliance with current and future environmental laws and regulations may result in increased capital, operating and other costs, including remediation and containment expenses and
+monitoring obligations which could adversely impact our financial condition, results of operations and cash flows.
+
+ 
+
+Actions related to global climate change and reducing greenhouse gas emissions could impact us - The primary greenhouse gas emitted from our utility operations is carbon dioxide (CO2) from combustion of fossil fuels at our generating facilities.  Our generating facilities are primarily coal-fired facilities, and our strategic plan may include the construction of additional coal-fired facilities, which would emit CO2.  Various laws and regulations addressing climate change are being considered at the federal and state levels.  The Supreme Court has ruled that CO2 may be regulated by the EPA.  The new presidential administration has indicated that regulating CO2 will be an important part of its energy and environmental policy and has already directed the EPA to consider regulating CO2 emissions from cars.  Several bills have been introduced in the U.S. Congress that would compel CO2
+emission reductions.  While none have yet been passed by Congress, the various bills remain pending.  Proposals under consideration include limitations on the amount of greenhouse gases that can be emitted (so called “caps”) together with systems of trading permitted emissions capacities. This type of system could require us to reduce emissions, even though the technology is not currently available for efficient reduction, or to purchase costly allowances for such emissions.  Emissions also could be taxed independently of limits.  In addition, we may be required to reduce our customers’ use of electricity, thereby reducing our sales.  The Governors of all of the states in our service territory have signed on to the Midwestern Greenhouse Gas Reduction Accord (Accord).  The stated goal of the Accord’s platform is to “maximize the energy resources and economic advantages and opportunities of Midwestern states while reducing emissions of atmospheric CO2 and other
+greenhouse gases.”  Each state in our service territory has established a board or commission regarding reducing CO2 emissions.  We would be subject to any regulations that are adopted in the future, and could become the target of an investigation, because generating electricity emits CO2.
+
+
+ 
+
+
+Furthermore, state regulators may consider future climate change policy implications in proceedings related to our request to construct additional coal-fired electric generating units as well as environmental upgrades to existing facilities.  Future regulation of CO2 emissions could make some of our electric generating facilities uneconomic to maintain or operate.  The cost to comply with future potential CO2 emissions regulations could be very high.  There is no guarantee that we will be allowed to fully recover compliance costs or that cost recovery will not be delayed or otherwise conditioned.  Due to the uncertainty of what form CO2 emissions regulations could take, control technologies available to reduce greenhouse gas emissions, including CO2, and the unknown nature of potential compliance obligations should climate change regulations be enacted, we cannot provide any assurance regarding the potential
+impacts these future regulations would have on our operations.  In addition, we cannot predict if, or how, state regulators may factor this issue into approvals and permits for us to build new or modify existing coal-fired generation.  All such regulatory results could adversely impact our ability to implement our strategic plan and our financial condition, results of operations and cash flows.
+
+ 
+
+22 
+
+
+We are exposed to risks related to economic conditions - Our utility operations are impacted by the economic conditions in our service territories.  If economic conditions decline in our service territories, we may experience reduced demand for electricity or natural gas, which could result in decreased earnings and cash flows.  In addition, adverse economic conditions in our service territories could negatively impact our collections of receivables.  Our service territories are currently experiencing the national recession, which impacts our business by reducing the number of industrial customers in our service territories, reducing the amount of electricity we sell to customers and making it more difficult to collect receivables owed by our customers.  A decline in economic conditions in our service territories could adversely impact our financial condition, results of operations
+and cash flows.
+
+ 
+
+Inability to access financial markets - We rely on accessing the capital markets to support capital expenditure programs and other capital requirements, including expenditures to build utility infrastructure and comply with future regulatory requirements.  Successful implementation of our strategic plan and other long-term business strategies is dependent upon the ability of us to access the capital markets under competitive terms and rates.  We have forecasted capital expenditures of approximately $4 billion overc the next three years.  Capital markets, particularly debt markets, have been under considerable strain recently, resulting in negative impacts on the availability and terms of credit available to certain businesses.  Any national economic downturn or disruption of financial markets could reduce our access to capital necessary for our operations and executing our strategic
+plan.  If the current credit crisis continues or worsens, we may be unable to access the credit markets, or our cost of borrowing might significantly increase.  If our access to capital were to become significantly constrained or costs of capital increased significantly due to lowered credit ratings, prevailing industry conditions, regulatory constraints, the volatility of the capital markets or other factors, our financial condition, results of operations and cash flows could be significantly adversely affected.
+
+ 
+
+Our operating results may fluctuate on a seasonal and quarterly basis and can be adversely affected by the impacts of weather - Our electric and gas utility businesses are seasonal businesses and weather patterns can have a material impact on their operating performance.  Demand for electricity is greater in the summer months associated with air conditioning requirements.  In addition, market prices for electricity peak in the summer.  Demand for natural gas depends significantly upon weather patterns in winter months due to heavy use for residential and commercial heating.  As a result, our overall operating results in the future may fluctuate substantially on a seasonal basis.  In addition, we have historically generated less revenues and income when weather conditions are warmer in the winter and cooler in the summer.  We expect that unusually mild winters and summers could have
+an adverse effect on our financial condition, results of operations and cash flows.
+
+
+ 
+
+
+Failure to provide reliable service to our utility customers could adversely affect our operating results - We are currently obligated to supply electric energy in parts of Iowa, Wisconsin and Minnesota.  From time to time and because of unforeseen circumstances, the demand for electric energy required to meet these obligations could exceed our available electric generating capability and energy commitments pursuant to purchased power agreements.  The North American transmission grid is highly interconnected and, in extraordinary circumstances, disruptions at particular points within the grid could cause an extensive power outage in our delivery systems.  Power outages in our service territories could result from factors outside of our control or service territories.  If this occurs, we may have to buy electric energy in the market.  Our utilities may not always have the ability to
+pass all the costs of purchasing the electric energy on to their customers, and even if they are able to do so, there may be a significant delay between the time the costs are incurred and the time the costs are recovered.  Since these situations most often occur during periods of peak demand, it is possible that the market price for electric energy at the time we purchase it could be very high.  Even if a supply shortage was brief, we could suffer substantial losses that could diminish our financial condition, results of operations and cash flows.  The transmission system in our utilities’ service territories, especially in Wisconsin, is constrained, limiting the ability to transmit electric energy within our service territories and access electric energy from outside of our service territories.  The transmission constraints could result in failure to provide reliable service to our utility customers or not being able to access lower cost sources of electric energy.  Failure to
+provide safe and reliable service, including effects of equipment failures in electric and natural gas delivery systems or market demand for energy exceeding available supply, may result in reduced revenues and increased maintenance and capital costs, which could adversely impact our financial condition, results of operations and cash flows.
+
+ 
+
+23 
+
+
+Operation of electric generating facilities or capital improvement of utility facilities may involve unanticipated changes or delays in operations that could negatively impact our business - The operation of electric generating facilities involves many risks, including start-up risks, breakdown or failure of equipment, transmission lines or pipelines, use of technology, the dependence on a specific fuel source, including the supply and transportation of fuel, as well as the risk of performance below expected or contracted levels of output or efficiency.  These risks could negatively impact our business through asset degradation, lost revenues or increased costs, including the cost of replacement power.  Additionally, our ability to successfully and timely complete planned capital improvements to existing facilities within established budgets is contingent upon many variables and may
+be subject to substantial risks.  Should such efforts be unsuccessful, we could be subject to additional costs and increased risk of non-recovery of construction or improvement costs through rates, which could adversely affect our financial condition, results of operations and cash flows.
+
+ 
+
+An adverse result in the litigation over the Exchangeable Senior Notes originally issued by Resources could adversely impact our financial condition - Alliant Energy and Resources received a notice of default, (Notice of Default), from U.S. Bank National Association as successor indenture trustee (Trustee) pursuant to which the Trustee asserted that Resources was in default under the Indenture with respect to the Exchangeable Senior Notes due 2030 (Notes), which were issued by Resources and were guaranteed by Alliant Energy.  The alleged default relates to a provision of the Indenture that provides that if Resources transfers all or substantially all of its properties and assets to a third party, then the transferee must be organized and existing under the laws of the U.S. or a state thereof and assume Resources’ obligations under the Notes and the Indenture.  The Trustee
+alleges in the Notice of Default that Resources transferred substantially all of its assets without complying with the Indenture and, as a result, a default has occurred under the Indenture.  The Trustee also filed a complaint in Federal court (Court) seeking a ruling that Resources is in breach of the Indenture.  Although we intend to vigorously defend against such litigation, we cannot predict how the Court will ultimately rule on this matter.  If we are ultimately unsuccessful in this litigation, and the Trustee or the holders of the Notes declared the principal amount of all the outstanding Notes to be immediately due and payable, then we would be required to pay the aggregate principal amount of the Notes of $402.5 million plus accrued interest and record a pre-tax loss of approximately $365 million based on the amount of unamortized debt discount and unamortized debt expense on Alliant Energy’s Consolidated Balance Sheet at Dec. 31, 2008.  In such an event, to make such
+payment, we would be required to use existing cash on hand, which could divert capital from other strategic projects of ours, and/or borrow money, which could be at higher interest rates than we currently pay on the Notes.  In addition, an “Event of Default” under the Indenture would also trigger cross default provisions in Alliant Energy’s credit facility agreement and IPL’s sale of accounts receivable program agreement that could result in the termination of such agreements.  A loss in this litigation could have a material adverse impact on our financial condition, results of operations and cash flows.
+
+
+ 
+
+
+We are subject to limitations on our ability to pay dividends - Alliant Energy is a holding company with no significant operations of its own.  Accordingly, the primary sources of funds for Alliant Energy to pay dividends to its shareowners are dividends and distributions from its subsidiaries.  Our subsidiaries are separate and distinct legal entities and have no obligation to pay any amounts to us, whether by dividends, loans or other payments.  The ability of our subsidiaries to pay dividends or make distributions to us and, accordingly, our ability to pay dividends on Alliant Energy common stock will depend on regulatory limitations and the earnings, cash flows, capital requirements and general financial condition of our subsidiaries.  Our utilities each have dividend payment restrictions based on the terms of their outstanding preferred stock and regulatory limitations
+applicable to them.  If we do not receive adequate dividends and distributions from our subsidiaries, then we may not be able to make, or may have to reduce, dividend payments on Alliant Energy common stock.
+
+ 
+
+Threats of terrorism and catastrophic events that could result from terrorism may impact our operations in unpredictable ways - We are subject to direct and indirect effects of terrorist threats and activities.  Generation and transmission facilities, in general, have been identified as potential targets.  The effects of terrorist threats and activities include, among other things, terrorist actions or responses to such actions or threats, the inability to generate, purchase or transmit electric energy, the risk of significant slowdown in growth or a decline in the U.S. economy, disruption or volatility in, or other effects on capital markets, and the increased cost and adequacy of security and insurance.  Terrorist threats and activities may adversely impact our ability to generate, purchase or distribute electric energy or obtain fuel sources and may significantly slow growth, or
+cause a decline, in the economy within our service territories, which could adversely impact our financial condition, results of operations and cash flows.  In addition, the cost of repairing damage to our generating facilities and infrastructure due to acts of terrorism, and the loss of revenue if such events prevent us from providing utility service to our customers, could adversely impact our financial condition, results of operations and cash flows.
+
+ 
+
+24 
+
+
+We are subject to employee workforce factors that could affect our businesses - We are subject to employee workforce factors, including loss or retirement of key personnel, availability of qualified personnel, collective bargaining agreements with employees and work stoppage that could affect our businesses and financial condition, results of operations and cash flows.  Further, our workforce is dominated by members of the baby boomer generation who are nearing retirement.  As a large portion of our workforce prepares to retire, we must recruit and train new employees to replace them.  Costs of recruitment and the ability to find qualified employees are expected to become more difficult as our workforce retires.  These factors could adversely affect our business and financial condition.
+
+ 
+
+Energy industry changes could have a negative effect on our businesses - As a public utility company with significant utility assets, we conduct our utility operations in an ever-changing business environment.  The advent of new markets has the potential to significantly impact our financial condition, results of operations and cash flows.  The evolution of the wholesale and transmission markets has the potential to significantly increase costs of transmission, costs associated with inefficient generation dispatching, costs of participation in the new markets and costs stemming from estimated payment settlements.  Competitive pressures, including advances in technology that reduce the costs of alternative methods of producing electric energy to a level that is competitive with that of current electric production methods, could result in our utilities losing market share and customers
+and incurring stranded costs (i.e., assets and other costs rendered unrecoverable through customer rates as a result of competitive pricing), which would be borne by our shareowners.  Increased competition from any restructuring efforts in our primary retail electric service territories may have a significant adverse impact on our financial condition, results of operations and cash flows.
+
+ 
+
+ITEM 1B

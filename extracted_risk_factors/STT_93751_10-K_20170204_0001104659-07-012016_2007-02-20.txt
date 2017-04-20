@@ -1,0 +1,568 @@
+ITEM 1A.        RISK
+FACTORS
+
+This Form 10-K contains statements (including,
+without limitation, statements in “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations,” included in this Form 10-K
+under Item 7) that are considered “forward-looking statements” within the
+meaning of U.S. federal securities laws. In addition, State Street and its
+management may make other written or oral communications from time to time that
+contain forward-looking statements. Forward-looking statements, including
+statements as to industry trends, future expectations of State Street and other
+matters that do not relate strictly to historical facts, are based on certain
+assumptions by management, and are often identified by such forward-looking
+terminology as “expect,” “look,” “believe,” “anticipate,” “estimate,” “seek,” “may,”
+“will,” “trend,” “target” and “goal,” or similar statements or variations of
+such terms. Forward-
+
+
+ 6 
+
+
+
+
+
+
+looking statements may
+include statements about State Street’s confidence in its strategies and its
+expectations about revenue and market growth, acquisitions and divestitures,
+new technologies, services and opportunities, and earnings.
+
+Forward-looking
+statements are subject to various risks and uncertainties, which change over
+time, and are based on management’s expectations and assumptions at the time
+the statements are made. These expectations and assumptions, and the continued
+validity of the forward-looking statements, are subject to change due to a
+broad range of factors affecting the national and global economies, the equity,
+debt, currency and other financial markets, and factors specific to the parent
+company and to the Bank. Factors that could cause changes in the expectations
+or assumptions on which forward-looking statements are based include, but are
+not limited to:
+
+·       Economic
+conditions and monetary and other governmental actions designed to address
+those conditions;
+
+·       The
+performance and volatility of securities, currency and other markets in the
+U.S. and internationally;
+
+·       The
+level and volatility of interest rates, particularly in the U.S. and Europe;
+
+·       Our
+ability to attract non-interest bearing deposits and other low-cost funds;
+
+·       The
+enactment of legislation, including tax legislation, and changes in regulation
+and enforcement that impact State Street and its customers;
+
+·       The
+competitive environment in which we operate, including the willingness of our
+competitors to reduce fees or add to their products and services to seek to
+attract our customers, as well as our ability to cross-sell services to our
+customers and to maintain service levels, technology and product offerings that
+are sufficient to attract new customers and retain current customers;
+
+·       Our
+ability to continue to grow revenue, control expenses and attract the capital
+necessary to achieve our business goals and comply with regulatory
+requirements;
+
+·       Our
+ability to control systemic and operating risks;
+
+·       Trends
+in the globalization of investment activity and the growth on a worldwide basis
+in financial assets;
+
+·       Trends
+in governmental and corporate pension plans and savings rates;
+
+·       Changes
+in accounting standards and practices, including changes in the interpretation
+of existing standards, that impact our consolidated financial statements; and
+
+·       Changes
+in tax legislation and in the interpretation of existing tax laws by U.S. and
+non-U.S. tax authorities that impact the amount of taxes due.
+
+Forward-looking statements should not be viewed as
+predictions, and should not be the primary basis upon which investors evaluate
+State Street. Any investor in State Street should consider all risks and
+uncertainties disclosed in this Form 10-K and in our other SEC
+filings, including our reports on Form 10-Q and Form 8-K,
+which are accessible on the SEC’s website at www.sec.gov
+or on our website at www.statestreet.com.
+
+In addition to factors
+discussed above and elsewhere in this Form 10-K or previously
+disclosed in our other SEC filings, the factors discussed below could cause
+actual future results to differ materially from those contemplated by
+forward-looking statements and from our historical financial results. State
+Street undertakes no obligation to revise the forward-looking statements
+contained in this Form 10-K to reflect events after the date it is
+filed with the SEC. These factors are not intended to be a complete summary of 
+
+
+ 7 
+
+
+
+
+
+
+all
+risks and uncertainties that may affect our businesses. Though we strive to
+monitor and mitigate risk, we cannot anticipate all potential economic,
+operational and financial developments that may adversely impact our operations
+and our financial results.
+
+Business
+Conditions/Economic Risk
+
+Our businesses are affected by global economic
+conditions, political uncertainties and volatility and other developments in
+the financial markets. Factors such as interest rates and commodities prices,
+regional and international rates of economic growth, inflation, political
+instability, the liquidity and volatility of equity, credit, currency,
+derivative and other financial markets, and investor confidence can
+significantly affect the financial markets in which we and our customers are
+engaged. Such factors have affected, and may further unfavorably affect, both
+regional and worldwide economic growth, creating adverse effects on many
+companies, including us, in ways that are not predictable.
+
+A significant market downturn may lead to a decline in
+the value of assets under management and custody, which would reduce our
+asset-based fee revenue and the value of securities we hold in our investment
+portfolio, and may adversely impact transaction revenue and the volume of
+transactions that we execute for our customers. In addition, lower market
+volatility, even in a generally rising market environment, may reduce trading
+volumes of our customers, and our ability to achieve attractive spreads, which
+could lead to lower trading revenues. Our revenues, particularly our trading
+revenues, may increase or decrease depending upon the extent of increases or
+decreases in cross-border investments made by our customers. The level of
+cross-border activity can be influenced by a number of factors, including
+geopolitical instabilities and customer mix. General market downturns would
+also likely lead to a decline in the volume of transactions we execute on
+behalf of our customers, decreasing our fee and revenue opportunities and
+reducing the level of assets under management and custody.
+
+In addition, revenues during a calendar year, driven
+by the products and services we provide, can fluctuate commensurate with normal
+course business activity of our customers, typically resulting in stronger
+revenues in the second and fourth quarters and relatively weaker revenues in
+the first and third quarters.
+
+In recent years,
+investment manager and hedge fund manager operations outsourcing and non-U.S.
+asset servicing have been areas of rapid growth in our business. If the demand
+for these types of services were to decline, we could see a slowing in the
+growth rate of our revenue. 
+
+Strategic/Competition
+Risk
+
+We expect the markets in which we operate to remain both
+highly competitive and global across all facets of our business, resulting in
+increases in both regional and global competitive risks. We have experienced,
+and anticipate that we will continue to experience, pricing pressure in many of
+our core businesses. Many of our businesses compete with other domestic and
+international banks and financial services companies, such as custody banks, investment
+advisors, broker/dealers, outsourcing companies and data processing companies. Many
+of our competitors, including our competitors in core services, have
+substantially greater capital resources. In some of our businesses, we are
+service providers to significant competitors. The ability of a competitor to
+offer comparable or improved products or services at a lower price would likely
+negatively affect our ability to maintain or increase our profitability.  In addition, pricing pressures as a result of
+the activities of competitors, customer pricing reviews and rebids, as well as
+the introduction of new products, may result in a reduction in the prices we
+can charge for our products and services.
+
+Acquisitions of complementary businesses and
+technologies, development of strategic alliances and divestitures of portions
+of our business, in addition to fostering organic growth opportunities, are an
+active part of our overall business strategy to remain competitive. We may not
+be able to effectively assimilate 
+
+
+ 8 
+
+
+
+
+
+
+services, technologies,
+key personnel or businesses of acquired companies into our business or service
+offerings, alliances may not be successful, and related revenue growth or cost
+savings may not be achieved. In addition, we may not be able to successfully
+manage the divestiture of identified businesses on satisfactory terms, if at
+all, which would reduce anticipated benefits to earnings. Ongoing consolidation
+within the financial services industry could provide opportunities and pose
+challenges in the markets we serve.
+
+Acquisitions present risks that differ from the risks
+associated with our ongoing operations. In January 2007, we announced a
+definitive agreement to acquire Currenex, Inc., an independently owned
+electronic foreign exchange trading platform. In addition, in
+February 2007, we announced a definitive agreement to acquire Investors
+Financial. Our financial results for 2007 and for the next few years may be
+significantly impacted by our ability to achieve the cost savings and other benefits
+that we anticipate as a result of the acquisition of Investors Financial, as
+well as our ability to retain its customer base and to successfully cross-sell
+our products and services to its customers.
+
+Intellectual property of an acquired business such as
+Currenex may be an important component of the value that we agree to pay for
+such a business; however, these types of acquisitions entail the risk that the
+acquired business does not own the intellectual property that we believe we are
+acquiring, that the intellectual property is dependent upon licenses from third
+parties, or that the acquired business infringes upon the intellectual property
+rights of others. Acquisitions of investment servicing businesses such as
+Investors Financial normally entail information technology systems conversions,
+which involve operational risks and may result in customer dissatisfaction and
+defection. Customers of businesses that we acquire, including, in the case of
+Investors Financial, its largest customer, are competitors of our non-custody
+businesses. The loss of some of these customers or a significant reduction in
+revenues generated from them, for competitive or other reasons, would adversely
+affect the benefits that we expect to achieve from the acquisition.
+
+In connection with most acquisitions, before the
+acquisition can be completed, we must obtain various regulatory approvals or
+consents, which approvals may include the Federal Reserve Board, the
+Massachusetts Commissioner of Banking and other domestic and foreign regulatory
+authorities. These regulatory authorities may impose conditions on the
+completion of the acquisition or require changes to its terms. Although we
+would not enter into a transaction anticipating materially adverse regulatory
+conditions, such conditions may be imposed, or we may experience regulatory
+delays that limit the benefits of the transaction.
+
+With any acquisition, the integration of the
+operations and resources of the two businesses could result in the loss of key
+employees, the disruption of our and the acquired company’s ongoing businesses,
+or inconsistencies in standards, controls, procedures and policies that could
+adversely affect our ability to maintain relationships with clients, customers,
+and employees or to achieve the anticipated benefits of the acquisition.
+Integration efforts may also divert management attention and resources. Where
+we acquire a business and combine it with our operations, we are also exposed
+to risks of unknown or contingent liabilities as to which we may have no
+recourse against the seller. While we normally seek to mitigate that risk
+through pre-acquisition due diligence, increasingly acquisition transactions
+are competitive auctions in which we have limited time and access to
+information to evaluate the risks inherent in the business being acquired, and
+no or limited recourse against the seller if undisclosed liabilities are
+discovered after we enter into a definitive agreement.
+
+Our financial results may be adversely affected by the
+accounting treatment for an acquisition. 
+We may not achieve the benefits we sought in an acquisition, or, if
+achieved, those benefits may come later than we anticipated. Failure to achieve
+anticipated benefits from an acquisition, such as our acquisitions of Investors
+Financial and Currenex, could result in increased costs and lower revenues than
+expected of the combined company.
+
+
+ 9 
+
+
+
+
+
+
+We actively strive to achieve significant cost savings
+by shifting certain business processes to lower-cost geographic locations,
+while continuing to maintain service quality, control and effective management
+of risks within these business operations. This transition to a true “shared
+services” operational model focuses on certain core service offerings,
+including middle- and back-office reconciliations, securities processing and
+transfer agency activities. The increased elements of risk that arise from
+conducting certain operating processes in some jurisdictions could lead to an
+increase in reputation risk. Reputation risk is inherent in our current
+operating model; shifting business processes merely accentuates these risks
+through the transition process, until such time as technology, training and
+infrastructure changes are in place to mitigate the risk. The extent and pace
+at which we are able to move functions to lower-cost locations may also be impacted
+by regulatory and customer acceptance issues. Such relocation of functions also
+entails costs, such as technology and real estate expenses, that partially
+offset the financial benefits of the lower-cost locations.
+
+Our financial performance depends, in part, on our
+ability to develop and market new and innovative services and to adopt or
+develop new technologies that differentiate our products or provide cost
+efficiencies, while avoiding increased related expenses. The risks we face
+include rapid technological change in the industry, our ability to access
+technical and other information from our customers, and the significant and
+ongoing investments required to bring new products and services to market in a
+timely fashion at competitive prices. We proactively cross-sell multiple
+products and services to our customers, which can exacerbate the negative
+financial effects associated with the risk of loss of any one customer.
+Developments in the securities processing industry, including shortened
+settlement cycles and straight-through processing, have required continued
+internal procedural enhancements and further technology investment.
+
+Our growth strategy
+depends upon both attracting new customers and cross-selling additional
+products and services to our existing customer base. To the extent that we are
+not able to achieve these goals, we may not be able to achieve our financial
+goals. There are substantial risks and uncertainties associated with the
+introduction of new products and services, including technical and control
+requirements that may need to be developed and implemented to offer such
+products while also managing associated risks. The introduction of new products
+and services can also entail significant time and resources. Regulatory and
+internal control requirements, capital requirements, competitive alternatives
+and shifting market preferences may also determine if such initiatives can be
+brought to market in a manner that is timely and attractive to our customers. Failure
+to successfully manage these risks in the development and implementation of new
+products or services could have a material adverse effect on our business, as
+well as our results of operations and financial condition.
+
+Credit Risk
+
+Our focus on large
+institutional investors and their businesses requires that we assume credit and
+counterparty risk, both on- and off-balance sheet, in a variety of forms. We
+may experience significant intra- and inter-day credit exposure through
+settlement-related extensions of credit. From time to time, we may assume
+concentrated credit risk at the individual counterparty, industry and/or
+country level, thereby potentially exposing us to a single market or political
+event or a correlated set of events. The credit quality of our on- and
+off-balance sheet exposures may be affected by many factors, such as economic
+and business conditions or deterioration in the financial condition of an
+individual counterparty or group of counterparties. If there is a significant
+economic downturn in either a country or a region, or we experience the failure
+of a significant individual counterparty, we could incur financial losses that
+could adversely affect our earnings.
+
+
+ 10 
+
+
+
+
+
+
+Financial Markets
+Risk
+
+As asset values in worldwide financial markets
+increase or decrease, our opportunities to invest in and service financial
+assets change. Given that a portion of our fees is based on the value of assets
+under custody and management, fluctuations in the valuation of worldwide
+securities markets will affect revenue. Many of the costs of providing our
+services are relatively fixed; therefore, a decline in revenue could have a
+disproportionate effect on our earnings. In addition, if investment performance
+in our asset management business fails to meet either benchmarks or the
+performance of our competitors, we could experience a decline in assets under
+management and a reduction in the fees we earn, irrespective of economic or
+market conditions.
+
+We have increased the portion of our management fee
+revenue that is generated from enhanced index and actively managed products,
+with respect to which we receive higher fees compared to passive products. We
+may not be able to continue to increase this segment of our business at the
+same rate that we have achieved in the past few years. In addition, with
+respect to certain of these products, we have entered into performance fee
+arrangements, where the management fee revenue we earn is based on the
+performance of managed funds against specified benchmarks. The reliance on performance
+fees increases the potential volatility of our management fee revenue.
+
+The degree of volatility
+in foreign exchange rates can affect our foreign exchange trading revenue. In
+general, we benefit from currency volatility, although it can increase risk,
+and foreign exchange revenue, all other things being equal, is likely to
+decrease during times of decreased currency volatility. In addition, as our
+business grows globally, our exposure to changes in foreign currency exchange
+rates could affect our levels of revenue, expense and earnings, as well as the
+value of our investment in our non-U.S. operations. Our other financial markets
+trading businesses, as well as our asset and liability management activities,
+are also subject to market risks. Adverse movements in levels and volatilities
+of financial markets could cause losses that may affect our consolidated
+results of operations and financial condition.
+
+Liquidity Risk
+
+We depend on access to
+global capital markets to provide us with sufficient capital resources and
+liquidity to meet our commitments and business needs, and to accommodate the
+transaction and cash management needs of our customers. Any occurrence that may
+limit our access to the capital markets, such as a decline in the confidence of
+debt purchasers, depositors or counterparties participating in the capital
+markets with us in particular, or a downgrade of our debt rating, may adversely
+affect our capital costs and our ability to raise capital and, in turn, our
+liquidity. General market disruptions, natural disasters or operational
+problems may affect either third parties or us, and can also have an adverse
+affect on our liquidity.
+
+Interest Rate Risk
+
+State Street’s financial performance could be
+unfavorably affected by changes in interest rates as they impact our asset and
+liability management process. The levels of global market interest rates, the
+shape of these yield curves (changes in the relationship between short- and
+long-term interest rates), the direction and speed of interest rate changes,
+and the asset and liability spreads relative to the currency and geographic mix
+of our interest-bearing assets and interest-bearing liabilities, affect our net
+interest revenue. Our ability to anticipate these changes and/or to hedge the
+related exposures on and off our balance sheet can significantly influence the
+success of our asset and liability management process and the resulting level
+of our net interest revenue. The impact of changes in interest rates will
+depend on the relative durations of assets and liabilities in accordance with
+their relevant currencies. In general, sustained lower interest rates, a flat or
+inverted yield curve and narrow interest-rate spreads have a constraining
+effect on our net interest revenue.
+
+
+ 11 
+
+
+
+
+
+
+Operational Risk
+
+Operational risk is inherent in all of State Street’s
+activities. Our customers have a broad array of complex and specialized
+servicing, confidentiality and fiduciary requirements. We have established
+policies, procedures and systems designed to comply with these regulatory and
+operational risk requirements. We also face the potential for loss resulting
+from inadequate or failed internal processes, employee supervisory or
+monitoring mechanisms, or other systems or controls, and from external events,
+which could materially affect our future results of operations. We may also be
+subject to disruptions from events that are wholly or partially beyond our
+control, which could cause delays or disruptions to operational functions,
+including functions such as information processing and financial market
+settlement. In addition, our customers, vendors and counterparties could suffer
+from such events. Should these events affect us, or the customers, vendors or
+counterparties with which we conduct business, our results of operations could
+be negatively affected. We use various strategies and processes to monitor and
+mitigate operational and other risks. These risk management measures entail
+many assumptions regarding events that are not possible to predict. As a
+result, our risk management framework may not always be successful.
+
+Our success
+depends, in large part, on our ability to attract and retain key people.
+Competition for the best people in most activities in which we engage can be
+intense, and we may not be able to hire people or retain them. The unexpected
+loss of services of one or more of our key personnel could have a material
+adverse impact on our business because of their skills, their knowledge of our
+markets, their years of industry experience, in some cases, and the difficulty
+of promptly finding qualified replacement personnel.  In some of our businesses, we have
+experienced significant employee turnover, which increases costs, requires
+additional training and increases the potential for operational risks.
+
+We enter into long-term fixed price contracts to
+provide middle office or investment manager and hedge fund manager operations
+outsourcing services to customers, services related but not limited to certain
+trading activities, cash reporting, settlement and reconciliation activities,
+collateral management and information technology development. These long-term
+contracts require considerable up-front investment by us, including technology
+and conversion costs, and carry the risk that pricing for the products and
+services we provide might not prove adequate to generate expected operating
+margins over the term of the contracts. Profitability of these contracts is
+largely a function of our ability to accurately calculate pricing for our
+services and our ability to control our costs and maintain the relationship
+with the customer for an adequate period of time to recover our up-front
+investment. Performance risk exists in each contract, given our dependence on
+successful conversion and implementation onto our own operating platforms of
+the service activities provided. In addition, our failure to meet specified
+service levels may adversely affect our revenue from such arrangements, or
+permit early termination of the contracts by the customer.
+
+Our businesses depend on an information technology
+infrastructure to record and process a large volume of increasingly complex
+transactions, in many currencies, on a daily basis, across numerous and diverse
+markets. Any interruptions, delays and/or breakdowns of this infrastructure can
+result in significant costs. As a result, we continue to invest significantly
+in this infrastructure.
+
+Regulatory/Legal/Accounting/Tax
+Risk
+
+Most of our businesses are subject to extensive
+regulation, and many of the customers to which we provide services are
+themselves subject to a broad range of regulatory requirements. These
+regulations may affect the manner and terms of delivery of our services. As a
+financial institution with substantial international operations, we are subject
+to extensive regulatory and supervisory oversight, both in the U.S. and
+overseas in connection with our global operations. Our businesses are subject
+to stringent regulation and examination by U.S. federal and state governmental
+and regulatory agencies, including the Federal Reserve, the SEC and the
+Massachusetts Commissioner of Banking, 
+and self-regulatory organizations (including securities exchanges), and
+by non-U.S. governmental and regulatory agencies and self-
+
+
+ 12 
+
+
+
+
+
+
+regulatory organizations. The
+regulations affect, among other things, the scope of our activities and
+customer services, our capital structure and our ability to fund the operations
+of our subsidiaries, our lending practices, our dividend policy and the manner
+in which we market our services. Evolving regulations, such as the new Basel II
+capital framework and anti-money laundering regulations, can require
+significant effort on our part to ensure compliance. New or modified
+regulations and related regulatory guidance may have unforeseen or unintended
+adverse effects on the financial services industry.
+
+If we do not comply with governmental regulations, we
+may be subject to fines, penalties or material restrictions on our businesses
+in the jurisdiction where the violation occurred, which can adversely affect
+our business operations and, in turn, our financial results. Similarly, many of
+our customers are subject to significant regulatory requirements, and retain
+our services in order for us to assist them in complying with those legal
+requirements. Changes in these regulations can significantly affect the
+services that we are asked to provide, as well as our costs. If we cause a
+customer to fail to comply with these regulatory requirements, we may be liable
+to them for losses and expenses that they incur. In addition, adverse publicity
+and damage to our reputation arising from the failure or perceived failure to
+comply with legal, regulatory or contractual requirements could affect our
+ability to attract and retain customers or to maintain access to capital
+markets, or could result in enforcement actions, fines, penalties and lawsuits.
+In
+recent years, regulatory oversight and enforcement has increased substantially,
+imposing additional costs and increasing the potential risks associated with
+our operations. If this regulatory trend continues, it could adversely affect
+our operations and, in turn, our financial results.
+
+From time to time, our customers may make claims and
+take legal action pertaining to our performance of fiduciary or contractual
+responsibilities. If such claims and legal actions are not resolved in a manner
+favorable to us, such claims may result in financial liability to us and/or
+adversely affect the market perception of State Street and its products and
+services, and could impact customer demand for our products and services.  We record balance sheet reserves for such
+known and unknown loss contingencies, including litigation and operational
+losses; however, we cannot always estimate the ultimate outcome, and as a
+result the adequacy of these reserves to cover any settlements or judgments
+into which State Street ultimately enters or to which we are subject.
+
+New accounting requirements, or changes in the
+interpretation of existing accounting requirements, by the Financial Accounting
+Standards Board, the SEC, and bank regulators can potentially affect our consolidated
+financial condition and results of operations, as accounting rules in the
+U.S. and other jurisdictions consistently evolve to reflect the increasing
+complexities of business. These changes are very difficult to predict, and can
+materially impact how we record and report our financial condition and results
+of operations and other financial information. In some cases, we could be
+required to apply a new or revised standard retroactively, resulting in the revised
+treatment of certain transactions or activities, and, in some cases, the restatement
+of prior period financial statements.
+
+Our businesses are subject
+to changes in tax legislation, and the interpretation of existing tax laws
+worldwide. These legislative actions may impact our business directly or
+indirectly through their impact on the financial markets. In the normal course
+of business, we are subject to reviews by U.S. and non-U.S. tax authorities
+regarding the amount of taxes due. These reviews may result in adjustments to
+the timing or amount of taxes due and the allocation of taxable income among
+tax jurisdictions. While such changes may or may not have an economic impact on
+our business, these changes could affect the attainment of our current
+financial goals.
+
+ITEM 1B

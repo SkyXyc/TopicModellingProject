@@ -1,0 +1,1046 @@
+Item 1A. "Risk Factors."  Moreover, we operate in a rapidly changing environment. New risk factors emerge from time to time and it is not possible for management to predict all such risk factors, nor can we assess the impact of all such risk factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. We caution you that, while forward-looking statements reflect our good faith beliefs when we make them, they are not guarantees of future performance and are impacted by actual events when they occur after we make such statements. We expressly disclaim any responsibility to update our forward-looking statements, whether as a result of new information, future events or otherwise. 
+Investors should also refer to our quarterly reports on Form 10-Q for future periods and current reports on Form 8-K as we file them with the U.S. Securities and Exchange Commission, or the SEC, and to other materials we may furnish to the public from time to time through Current Reports on Form 8-K or otherwise, for a discussion of risks and uncertainties that may cause actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements. 
+ 
+ 
+ 
+ 
+1
+
+PART I 
+ 
+
+
+
+
+Item 1.
+
+Business 
+Overview 
+TripAdvisor, Inc. owns and operates a portfolio of leading online travel brands.  TripAdvisor, our flagship brand, is the world’s largest travel site.  Our mission is to help people around the world plan and book the perfect trip.  We accomplish this by, among other things, aggregating millions of travelers’ reviews and opinions about destinations, accommodations, activities and attractions, and restaurants throughout the world so that our users have access to trusted advice wherever their trips take them. Our platform not only helps users plan their trips with our unique user-generated content, but also enables users to compare real-time pricing and availability so that they can book hotels, vacation rentals, flights, activities and attractions, and restaurants.
+Our TripAdvisor-branded websites include tripadvisor.com in the United States and localized versions of the TripAdvisor website in 46 countries worldwide and are offered in 28 languages: English, Spanish, Chinese (Traditional and Simplified), Russian, Arabic, Greek, Korean, Polish, Norwegian, Turkish, Danish, Swedish, Dutch, Bahasa, Thai, Portuguese, Japanese, Italian, French, Vietnamese, Hebrew, Suomi, Hungarian, Czech, Slovak, Serbian, and German. Our TripAdvisor-branded websites, operated by our subsidiaries, reached 350 million average monthly unique visitors during the year ended December 31, 2015, according to our internal log files.  Our websites feature 320 million reviews and opinions on 6.2 million places to stay, places to eat and things to do – including 995,000 hotels and accommodations and 770,000 vacation rentals, 3.8 million restaurants and 625,000 attractions around the world.  In addition to user-generated content, our websites feature price comparison tools and links to partner websites, including travel advertisers, on which users can book their travel arrangements.  Users may now also complete hotel bookings directly with our partners through tripadvisor.com and also through the TripAdvisor mobile application, where coverage is available.
+ In addition to the flagship TripAdvisor brand, we now manage and operate 23 other travel media brands, connected by the common goal of providing users the most comprehensive travel-planning and trip-taking resources in the travel industry.  Our wholly owned subsidiaries operate the following websites in connection with these brands:  www.airfarewatchdog.com, www.bookingbuddy.com, www.cruisecritic.com, www.everytrail.com, www.familyvacationcritic.com, www.flipkey.com, www.thefork.com (including www.lafourchette.com, www.eltenedor.com, www.iens.nl, www.besttables.com, and www.dimmi.com.au), www.gateguru.com, www.holidaylettings.co.uk, www.holidaywatchdog.com, www.independenttraveler.com, www.jetsetter.com, www.niumba.com, www.onetime.com, www.oyster.com, www.seatguru.com, www.smartertravel.com, www.tingo.com, www.travelpod.com, www.tripbod.com, www.vacationhomerentals.com, www.viator.com, and www.virtualtourist.com. 
+2015 Highlights 
+Following are some business highlights for fiscal 2015: 
+
+
+
+
+ 
+
+·
+
+TripAdvisor reached 320 million review and opinions on 6.2 million places to stay, places to eat and things to do – including 995,000 hotels and accommodations and 770,000 vacation rentals, 3.8 million restaurants and 625,000 attractions in 125,000 destinations throughout the world.
+
+
+
+
+ 
+
+·
+
+Our websites globally reached 350 million average monthly unique visitors during the year. 
+
+
+
+
+ 
+
+·
+
+Mobile traffic grew to more than 53% of our unique users via tablet and smartphone and we achieved 290 million total mobile app downloads.           
+
+
+
+
+ 
+
+·
+
+We launched instant booking to TripAdvisor users in the U.S. and U.K. and entered into an agreement with The Priceline Group, or Priceline, as well as 7 of the top 10 major hotel chains to provide users with the ability to book reservations with more than 450,000 hotels around the globe.  
+
+
+
+
+ 
+
+·
+
+Viator launched Viator Marketplace, a new open-listing platform which enables tour, activity and attraction providers to self-load their products onto Viator and now offers more than 32,000 bookable attractions around the globe.
+
+
+
+
+ 
+
+·
+
+We expanded thefork.com’s bookable restaurant listings to more than 33,000 across 12 countries, including Australia, Brazil and The Netherlands.
+
+
+
+
+ 
+
+·
+
+We grew vacation rental listings 18% or to 770,000 properties.
+     Corporate History, Equity Ownership and Voting Control
+TripAdvisor was co-founded in February 2000 by Stephen Kaufer, our current President and Chief Executive Officer. TripAdvisor was acquired by IAC/InterActiveCorp, or IAC, in April 2004. In August 2005, IAC spun-off its portfolio of travel brands, 
+ 
+2
+
+including TripAdvisor, into a separate newly-formed Delaware corporation called Expedia, Inc., or Expedia.  On December 20, 2011 Expedia completed a spin-off of TripAdvisor into a separate publicly traded Delaware corporation. We refer to this second transaction as the “Spin-Off.” Following the Spin-Off, TripAdvisor began trading on The NASDAQ Global Select Market, or NASDAQ, as an independent public company on December 21, 2011 under the symbol “TRIP.”
+On December 11, 2012, Liberty Interactive Corporation, or Liberty, purchased an aggregate of 4,799,848 shares of common stock of TripAdvisor from Barry Diller, our former Chairman of the Board of Directors and Senior Executive, and certain of his affiliates. As a result, Liberty beneficially owned 18,159,752 shares of our common stock and 12,799,999 shares of our Class B common stock. 
+On August 27, 2014, the entire beneficial ownership of our common stock and Class B common stock held by Liberty was acquired by Liberty TripAdvisor Holdings, Inc., or LTRIP.  Simultaneously, Liberty, LTRIP’s former parent company, distributed, by means of a dividend, to the holders of its Liberty Ventures common stock, Liberty’s entire equity interest in LTRIP.  We refer to this transaction as the Liberty Spin Off.  As a result of the Liberty Spin-Off, effective August 27, 2014, LTRIP became a separate, publicly traded company holding 100% of Liberty’s interest in TripAdvisor. 
+As a result of these transactions, as of December 31, 2015, LTRIP beneficially owned 18,159,752 shares of our common stock and 12,799,999 shares of our Class B common stock, which shares constitute 13.7% of the outstanding shares of common stock and 100% of the outstanding shares of Class B common stock. Assuming the conversion of all of LTRIP’s shares of Class B common stock into common stock, LTRIP would beneficially own 21.3% of the outstanding common stock. Because each share of Class B common stock is generally entitled to ten votes per share and each share of common stock is entitled to one vote per share, LTRIP may be deemed to beneficially own equity securities representing approximately 56.1% of our voting power.
+Our Business Model 
+Our platforms connect users wishing to plan and book the best travel experiences with providers of travel accommodations and travel services around the world. We derive the majority of our revenue from the sale of advertising, primarily through click-based advertising and, to a lesser extent, display-based advertising. The remainder of our revenue is generated through a combination of subscription and transaction-based offerings as well as content licensing. 
+
+
+
+
+ 
+
+·
+
+Click-Based Advertising Revenue. Our largest source of revenue is click-based advertising, which includes links to our partners’ booking sites and contextually-relevant branded and unbranded text links. Our click-based advertising partners are predominantly online travel agencies, or OTAs, and direct suppliers in the hotel, airline and cruise product categories. Click-based advertising is generally priced on a cost-per-click, or CPC, basis, with payments from advertisers based on the number of users who click on each type of link. CPC prices are determined in a bidding process that allows our partners to use our proprietary system to submit CPC bids to have their rates and availability listed on our site. When a partner submits a CPC bid they agree to pay the amount of that bid each time a user subsequently clicks on the URL link to the partner’s website. Bids are submitted periodically – sometimes as often as daily or weekly – on a property-by property basis and the size of the bid relative to other bids received determines the partner’s placement in all metasearch placements on our site with one or more offers shown, including hotel comparison search results and the property detail page. The system is automated and the size of the partner’s bid is the only factor impacting the partner’s placement on that page, except that individual partners may be sorted lower in the event that they have not provided price information or if they cease to have availability for the property. 
+Click-based advertising revenue also includes revenue from our instant booking feature, which enables the merchant of record, generally an OTA or hotel partner, to pay a commission rate for a user that completes a reservation on TripAdvisor.  Instant booking revenue is currently recognized under two different models: the transaction model and the consumption model. Our transaction model commission revenue is recorded at the time a traveler books a hotel reservation on our site with one of our transaction partners. Our transaction partners are liable for commission payment to us upon booking and the partner assumes the cancelation risk.  When a traveler makes a hotel reservation on our site with one of our consumption partners, revenue is not recorded until the travelers’ stay. Our consumption partners are liable for commission payment upon the completion of stay by the traveler.  OTA and hotel partner placement and comparative hotel prices available to the traveler in the booking process under both models are determined in a bidding process in our proprietary system, based on a number of variables including commission rates, depending on the specific hotel selected.
+For the years ended December 31, 2015, 2014 and 2013, we earned $956 million, or 64%, $870 million, or 70% and $696 million, or 74%, respectively, in revenue from click-based advertising.
+
+
+
+
+ 
+
+·
+
+Display-Based Advertising Revenue. Advertising partners can promote their brands in a contextually-relevant manner through a variety of display-based advertising placements on our websites. While our display-based advertising clients are predominately direct suppliers in the hotel, airline and cruise categories as well as OTAs, we also accept display 
+ 
+3
+
+
+
+
+
+ 
+
+
+advertising from destination marketing organizations, casinos, resorts and attractions, as well as advertisers from non-travel categories. Display-based advertising is sold predominantly on a cost per thousand impressions, or CPM, basis.  For the years ended December 31, 2015, 2014 and 2013, we earned $159 million, or 11%, $140 million, or 11%, and $119 million, or 13%, respectively, in revenue from display-based advertising. 
+
+
+
+
+ 
+
+·
+
+Subscription-Based, Transaction-Based and Other Revenue. Business Listings is a subscription-based advertising product offered to hotels, B&Bs and other specialty lodging properties. This advertising product is sold for a flat fee and allows subscribers to list, for a contracted period of time, a website URL, email address and phone number on our TripAdvisor-branded websites, as well as to post special offers for travelers. In addition, we earn revenue from making hotel room nights available for booking on our transaction-based sites, including Jetsetter and Tingo for which we are the merchant of record, making rental listings available through our vacation rentals business, selling destination activities primarily through Viator, and providing access to online restaurant reservations primarily through Lafourchette, or thefork.com; as well as other revenue including content licensing with third party sites.  For the years ended December 31, 2015, 2014 and 2013 we earned $377 million, or 25%, $236 million, or 19%, and $130 million, or 14%, respectively, in revenue from subscription-based, transaction-based and other revenue. 
+Our Industry 
+We operate in the global travel industry, focusing exclusively on online travel activity and the online advertising market.
+According to Phocuswright, global travel spending is expected to be greater than $1.3 trillion in 2016. Recent historical trends show that, each year, an increasing percentage of global travel spending has been conducted online through supplier websites and online travel agencies. We believe that this trend will continue as online penetration continues to grow, as more consumers gain broadband access to the Internet, as smartphone, tablets and other mobile computing devices continue to proliferate, and as travel activity increases along with an expanding middle class in certain developing countries like China and India. 
+We believe that the Internet will continue to become even more integral to the travel-planning process due to increasing worldwide online penetration, particularly given the capabilities that the Internet provides travelers, including the ability to refine searches, compare destinations, view real-time pricing, complete bookings, and access information while in-destination. 
+More advertisers continue to shift their spending from offline to online channels, mirroring the trend in consumer media consumption generally. Given the size of the travel market, we believe that travel providers and travel related advertisers are, and will continue to be, motivated to devote significant resources to advertise their travel products and services. In addition, as more and more travel transactions are conducted online generally, we believe that an increasing amount of travel advertising spending will migrate from traditional offline advertising channels to online advertising opportunities. 
+Our Key Strengths 
+TripAdvisor-branded sites are comprehensive online resources for user-generated content on destinations, lodging, attractions and restaurants that help travelers plan and book the perfect trip. To help our users plan their trip, we currently feature 320 million reviews and opinions on accommodations, attractions, and restaurants, including more than 50 million candid photos, and helpful content ranging from hotel room tips to travel guides.  We provide real-time pricing and availability search functionality that compares hundreds of partner websites so that users can find and book the best prices. We also enable users to book activities and attractions and restaurant reservations on our site.  Our tools and travel content are available to users around the world in 28 different languages as well as on web-based and mobile applications on mobile devices and on desktops.
+In order to achieve our goal, we leverage our key assets—a robust travel community, rich user-generated content, continuous technological innovation and global reach—as follows: 
+
+
+
+
+ 
+
+·
+
+Robust Travel Community. We believe that we have the largest breadth of content in our markets and that, because of this breadth, travelers gravitate to our websites to research and plan their trips. By providing an interactive forum to share their experiences, our large and highly engaged community of travelers is a valuable resource. To facilitate planning, we enable consumers to research pricing and availability from third-party travel booking sites. To encourage better travel experiences for consumers and to create a feedback loop between the hospitality industry and individual travelers, we allow hospitality management representatives to respond to reviews of their properties on our website. After completing their trip, consumers can return to our websites to write reviews to give back to the community that helped them plan their trip. Through this cycle, more content is generated, which drives community, traffic, loyalty and higher search engine rankings, all of which lead to further content creation. We believe that the volume of reviews generated on our websites and the robust feedback loop created on our websites provides us with a significant advantage over our competitors. 
+ 
+4
+
+
+
+
+
+ 
+
+·
+
+Rich User-Generated Content. We believe that the best travel content comes from the wisdom and insight of a robust community of travelers. We leverage user-generated content to power travel planning by allowing members to create reviews and share opinions on hundreds of thousands of accommodations, destinations, attractions and restaurants. As evidenced by the growth of our business, this type of travel planning has been embraced by travelers. To promote an enthusiastic reviewer community that continues to provide valuable content and promotes our brand, we have launched several programs to recognize reviewer contributions, including site badges, helpful vote recognition, and other features, all of which highlight the current and helpful reviews and opinions available throughout the TripAdvisor community. 
+
+
+
+
+ 
+
+·
+
+Technology and Innovation. Product innovation and speed to market are our two most important priorities in order to create an increasingly rich user experience. We have weekly engineering releases that contain new products and features for our websites and mobile apps. Some recent examples of this product innovation include: Just For You, which delivers users a more personalized hotel shopping experience; instant booking, a feature that enables users to complete a hotel reservation while remaining on the TripAdvisor website; hotel metasearch, which enables users to see real-time availability and compare prices from hundreds of partner websites, without requiring the user to visit another website; and TripConnect, which enables independent hoteliers to compete for leads on TripAdvisor. Our ongoing commitment to innovation also extends to content syndication and review collection partnerships, as we leverage our technology and content for the benefit of other websites. In addition, we utilize manual and electronic fraud detection in order to maintain the quality and authenticity of user reviews.  
+
+
+
+
+ 
+
+·
+
+Global Reach. We are a global company, both through the reach of our portfolio of branded websites and through our in-market staffing in 24 countries. As of December 31, 2015, we had 1,530 employees based outside of the United States, representing 51% of our employee population.  As of December 31, 2015, we had branded websites in 46 countries outside the United States in 28 languages. We have nearly 990 million review translations, and are committed to continuing to improve the in-country user experience and the local content coverage for all of our points-of-sale. We believe that the universally-relevant content and community of our core TripAdvisor platform and our other brands uniquely position us to appeal to travelers throughout the world. 
+Our Strategy 
+We leverage significant investments in technology, operations, brand-building, and relationships with advertisers and other partners to expand our business and enhance our global competitive position. These investments have enabled us to, among other things, aggregate a large base of consumer reviews, in a variety of languages, across our global platform of websites. We continue to focus on the following areas to grow our business:
+
+
+
+
+ 
+
+·
+
+Continuing Technology Innovation. We believe our ability to innovate and to provide additional functionality to our websites and apps across all devices will enable us to continue to deliver an industry-leading user experience. Our innovation culture supports bringing product enhancements to market at speed. In doing so, we believe that we can continue to, among other things, grow content, usage, loyalty and engagement, as well as to enhance our competitive positioning. 
+
+
+
+
+ 
+
+·
+
+Enhancing Community-Driven Platform. We grow brand awareness and member acquisition on social media channels, including Facebook, Twitter and other social media platforms. We believe our social integration and personalization initiatives help to drive usage of, engagement with, and content contributed to, our products. Users can share their reviews and ratings with their friends through Facebook Connect and also can publish their TripAdvisor content to their Facebook timelines. Additionally, our Just For You personalization feature gives users personalized recommendations based on friends’ reviews and ratings as well as information collected about user preferences in selecting hotels. 
+
+
+
+
+ 
+
+·
+
+Improving the User Experience. We strive to improve the travel discovery and booking experience as well as help users discover and book places to eat and things to do while they are on the trip. For example, in 2013 we introduced hotel price comparison, or hotel metasearch, which enables users to find real-time availability and the lowest hotel room prices from hundreds of partner websites, without requiring the user to visit another website. Starting in 2014 and throughout 2015, we also rolled out our hotel instant booking feature, for hotels across our U.S. and U.K. platforms to all users on all devices. In addition to price comparison and booking capabilities, we offer user reviews, photos, room tips, management questions and answers, maps, and filtering to enable users to find the best accommodation, attraction or restaurant for them. 
+
+
+
+
+ 
+
+·
+
+Investing in Traffic Growth. We believe that our travel products are excellent tools to help all travelers plan and book the perfect trip. We seek to amplify our global brand and products through various online and offline marketing channels to increase the number of users who navigate to our site either directly, also known as domain direct traffic, or from other marketing channels. We leverage a number of offline advertising channels including: permanent branding campaigns such as TripAdvisor-branded travel awards, certificates, stickers and badges and television advertising. We also leverage a number of online advertising channels  including: customer relationship management email campaigns, or CRM; social 
+ 
+5
+
+
+
+
+
+ 
+
+
+networks; organic search through search engine optimization, or SEO; paid search through search engine marketing, or SEM; and referrals from partners whose sites contain links to TripAdvisor content, badges or widgets. At approximately 18% of global online travel unique visitors, according to comScore Media Metrix, we believe that we have an opportunity to continue growing unique visitors to our websites. In order to achieve this objective, we intend to invest in the aforementioned channels, as well as any new channels that we may identify in the future.
+
+
+
+
+ 
+
+·
+
+Allowing Hotel Shoppers to Book Directly on Our Websites. We believe that allowing users to book directly online without leaving our TripAdvisor-branded websites will result in a better user experience as well as, ultimately, additional revenue to the Company.  Instant booking is a feature that enables users to make a hotel reservation directly with a hotel or OTA partner while remaining on the TripAdvisor website. We have been gradually rolling this feature out in the U.S. since June 2014 and in 2015, accelerated the rollout of instant booking for hotels across our U.S. and U.K. platforms to all users on all devices.  We also plan to continue rolling out this feature to additional international markets in 2016.  Our business success depends in large part on our ability to maintain and expand relationships with our partners in the travel industry.  These partners power the instant booking feature on our website and, we believe, also benefit from this feature, through increased reservations and more direct relationships with travelers.
+
+
+
+
+ 
+
+·
+
+Enhancing Our Mobile Offerings. We believe investing in and rapidly innovating and improving the TripAdvisor user experience on mobile devices is necessary to maintain and grow our business.  We create new, user-friendly and differentiated mobile offerings and develop ways to efficiently and effectively advertise and distribute on these platforms. We have invested in developing and improving our native applications and have made significant progress creating mobile offerings which have received strong user feedback and have been downloaded 290 million times. We see an opportunity to increase monetization of mobile devices, especially as we increase the percentage of revenue that comes from transaction-based products.
+
+
+
+
+ 
+
+·
+
+Enhancing International Offerings. We are focused on strengthening our broad global footprint as we believe that penetrating international markets represents a long-term opportunity for us. We continue to improve localization and grow our user base in Europe, Asia and South America, especially in emerging markets, such as Brazil, Russia and China. In addition, we currently have a lead product offering in the Chinese market—re-branded Mao Tu Ying (or TripAdvisor China) — headquartered in Beijing. We continue to invest in the Chinese market, despite operating at a loss, and will continue to enhance our product offerings to international travelers. 
+
+
+
+
+ 
+
+·
+
+Expansion into Adjacent Categories.  We intend to continue to grow our business and expand our product and service offerings that either complement our existing core hotel segment or provide additional resources, products and/or services that will improve the user experience for hotel shoppers. In addition, we continue to make investments, in adjacent categories in order to leverage and monetize the significant percentage of our users who are not hotel shoppers, or who visit TripAdvisor sites without navigating to pages that contain a listing of hotels in a city or a specific hotel’s page.  Two recent examples include our acquisitions of Lafourchette or thefork.com, the leading online and mobile reservation platform for restaurants in France, Spain and Switzerland, with a network of restaurant partners in Europe and Australia; and Viator, the leading online resource for researching and booking destination activities around the world. 
+Our Commercial Relationships 
+We have a number of commercial relationships that are important to the success of our business.  Although these relationships are memorialized in some form of agreement, many of these agreements are for a limited term or are terminable at will or on short notice.  As a result, we work hard to ensure the mutual success of these relationships.  
+We have advertising relationships with the vast majority of the leading OTAs as well as a variety of other travel suppliers pursuant to which these companies purchase traveler leads from us, generally on a CPC basis. For the year ended December 31, 2015, our two most significant advertising partners, Expedia and Priceline (and their subsidiaries), each accounted for more than 10% of our total revenue and combined accounted for 46% of our total revenue. 
+ 
+Our instant booking feature enables hotel shoppers to book directly with a third-party partner, without leaving our website.  To facilitate this, we have partnered with seven of the top ten major hotel chains, including Accor, Best Western International, Carlson Rezidor, Choice Hotels, Hyatt Hotels, Marriott International and Wyndham Worldwide. We also partnered with Priceline, whereby some of Priceline's online travel brands will participate in our instant booking platform, beginning with its Booking.com brand.  As a result, users are able to book more than 450,000 hotels, powered by our partners, without leaving the TripAdvisor site or mobile experience.  
+We have a content licensing program utilized by over 1,300 partners around the world, including hotel chains, online travel agents, tourist boards, airlines and media sites. TripAdvisor also distributes its content through self-service HTML widgets, which are used on the websites of hotels, restaurants, attractions and destination marketing organizations. These products, which are available at 
+ 
+6
+
+no cost in the TripAdvisor Management Center, allow businesses and destinations to promote themselves by displaying their TripAdvisor ratings, reviews and awards. TripAdvisor widgets are presently found on more than 200,000 unique domains around the globe. Both free and licensed TripAdvisor content reaches over 900 million people per month.  Partners benefit from our user-generated content, such as reviews, ratings and photos. In addition, we power review collection for a growing number of partners, such as Accor Hotels, Wyndham Hotel Group, Best Western and Easytobook.com, enabling them to proactively collect reviews from their own customers post-stay in their own branded environment. We have also developed partnerships with mobile carriers and device manufacturers. 
+Marketing and Promotions 
+We have established widely-used and recognized brands through our marketing efforts. We continue to aggressively promote our brands, particularly our flagship brand TripAdvisor. Our marketing programs are intended to build and maintain the value of our brands, promote consumer engagement and contributions, drive qualified clicks to our metasearch and instant booking partners and strategically position our brands in the market. Our long-term success depends on our continued ability to maintain and increase the overall number of consumers flowing through our brand in a cost-effective manner, to engage customers in both the planning and booking phase, and to attract consumers who will share their own content from their trips. We reach consumers across mobile and desktop devices through our online marketing acquisition programs, and offline through our offline brand campaigns.  We also utilize our CRM channels by sending relevant and engaging traveler communications to our members via email. We have a robust global public relations program that yields placements on a constant basis in major print and online publications. We continue to look for new ways to build brand awareness and expand new channels, which may include traditional media and social media channels including Facebook and Twitter to deepen customer engagement. We syndicate our content so that other sites can feature TripAdvisor branding and content. Lastly, marketing and product development initiatives are closely tied. We are constantly creating helpful features and functionality so that our users can discover more relevant travel planning reviews, advice and booking content that they want to talk about and share with their friends. 
+ Operations and Technology 
+We have assembled a team of highly skilled software engineers, computer scientists, data scientists, network engineers, and systems engineers whose expertise spans a broad range of technical areas, including a wide variety of open source operating systems, databases, languages, analytics, networking, scalable web architecture, operations, and warehousing technologies. We make significant investments in product and feature development, data management, personalization technologies, scalable infrastructures, networking, data warehousing, and search engine technologies. The TripAdvisor-branded websites are powered primarily using Java programming language. 
+Our systems infrastructure, web and database servers for TripAdvisor-branded websites are housed at two geographically separate facilities and have multiple communication links as well as continuous monitoring and engineering support. Each facility is fully self-sufficient and operational with its own hardware, networking, software, and content, and is structured in an active/passive, fully redundant configuration. Substantially all of our software components, data, and content are replicated in multiple datacenters and development centers, as well as being backed up at offsite locations. Our systems are monitored and protected though multiple layers of security. Several of our individual subsidiaries and businesses, including Viator, have their own data infrastructure and technology teams. 
+Widespread adoption of mobile devices such as iPhone, Android-enabled smart phones and tablets such as the iPad, coupled with the improved web browsing functionality and development of thousands of useful apps available on these devices, is driving substantial traffic and commerce activity to mobile platforms. We have seen tremendous growth in the adoption of mobile platforms, as have our advertising partners. Advertising opportunities may be more limited on mobile devices given their small screen sizes. Further, given the size and technical limitations of tablets and smartphones, mobile consumers may not be willing to download multiple apps from multiple travel service providers and instead prefer to use one or a limited number of apps for their mobile travel activity. As a result, the consumer experience with mobile apps (as well as brand recognition and loyalty) is becoming increasingly important and we make significant investments in this area. 
+We believe that mobile bookings are necessary to maintain and grow our business as consumers increasingly turn to mobile devices and mobile applications. As a result, we have made significant progress creating mobile offerings, which have received strong reviews, solid download trends and are driving an increasing share of our business. 
+Our Competition 
+We compete in rapidly evolving and intensely competitive markets.  We face competition for content, users, advertisers, online travel search and price comparison services (or hotel metasearch) and online reservations. We also face competition from large companies that also offer comprehensive on-line resources for destinations, lodging, attractions and restaurants.  
+ 
+7
+
+Our primary competitors include large online portals, social networking sites and search engines, such as Google (including Google + Local), Facebook (including Graph Search), Yahoo! (including Yahoo! Travel) and Baidu. We also face competition from OTAs (such as Expedia and Priceline and their respective subsidiaries), as well as wholesalers, tour operators and traditional offline travel agencies. We also compete with a wide range of other companies, including Airbnb, Inc., Alibaba, Ctrip.com International, Ltd., HolidayCheck AG, HomeAway, Inc. (a subsidiary of Expedia), Yelp, Inc. and OpenTable, Inc. (a subsidiary of Priceline).
+In the competition to attract users, we rely on our ability to acquire traffic through offline brand recognition and brand-direct efforts such as television, email and online search, whether unpaid or paid. Unpaid search is sometimes referred to as SEO, which is the practice of developing websites with relevant and current content that rank well in “organic,” or unpaid, search engine results. SEO can be affected by a number of factors including competitive site content, changes to our website architecture and page designs, changes to search engine ranking algorithms, or changes to display ordering in search engine results such as preferred placement for internal products offered by search engines. SEM is a form of Internet marketing that involves the promotion of websites by increasing their visibility in search engine results pages through the use of paid placement, contextual advertising, and paid inclusion. SEM is a competitive marketplace with competitors continually updating their traffic acquisition strategies and economic models across a large number of keywords and markets. 
+We compete for advertisers with large, established search engines with significantly greater resources than we have, such as Google, Bing, and Yahoo!, as well as online media companies and ad networks, and offline advertising sources, such as television and print media. These competitors have large client bases and significantly greater resources than we have and expertise in developing online commerce and facilitating internet traffic are creating inroads into online travel. Competition from these parties could cause us to lose advertising customers or shares of advertising expenditures. If Google, or any other leading search engines refer significant traffic to these or other travel services that they develop in the future, or otherwise favor supplier websites or other travel service websites over other online travel sites, including us, it would likely become more difficult and expensive for us to generate traffic to our websites and therefore maintain or grow our market share. 
+We also compete for online travel search and price comparison services (or hotel metasearch), with other such companies, including Expedia (through its ownership of Trivago), Priceline (through its ownership of Kayak) and HotelsCombined. 
+ 
+With respect to our restaurant, attractions and vacation and short-term rental businesses, we face competition from a variety of companies, including: 
+
+
+
+
+ 
+
+·
+
+online restaurant reservation services, such as OpenTable (a subsidiary of Priceline), Yelp’s SeatMe and Amazon’s Table8; 
+
+
+
+
+ 
+
+·
+
+online attraction reservation services, such as GetYourGuide and Expedia’s Destination Services; 
+
+
+
+
+ 
+
+·
+
+online accommodation search and/or reservation services focused on vacation and short-term rental properties, such as HomeAway (a subsidiary of Expedia) and Airbnb, Inc. 
+ 
+Certain of the companies we do business with are also our competitors. The consolidation of our competitors and partners, including Expedia (through its ownership of Trivago, Orbitz, Travelocity, and HomeAway) and Priceline (through its ownership of Kayak and OpenTable), coupled with evolving business models throughout the industry, results in a highly dynamic competitive environment. As the market evolves for online travel content and the technology supporting it, including platforms such as smartphone and tablet computing devices, we anticipate that the existing competitive landscape will change and new competitors may emerge. 
+Intellectual Property 
+Our intellectual property, including patents, trademarks, copyrights, domain names, trade dress, proprietary technology and trade secrets, is an important component of our business. We rely on our intellectual property rights in our content, proprietary technology, software code, ratings indexes, databases of reviews and forum content, images, videos, graphics and brands. We have acquired some of our intellectual property rights through licenses and content agreements with third parties. These licenses and agreements may place restrictions on the use of our intellectual property. 
+We protect our intellectual property by relying on our terms of use, confidentiality procedures and contractual provisions, as well as on international, national, state and common law rights. In addition, we enter into confidentiality and invention assignment agreements with employees and contractors, and confidentiality agreements with other third parties. We protect our brands by pursuing the trademark registration of our core brands, such as TripAdvisor and the Owl Logo, maintaining our trademark portfolio, securing contractual trademark rights protection when appropriate, and relying on common law trademark rights when appropriate. We also register copyrights and domain names as deemed appropriate. Additionally, we protect our trademarks, domain names and copyrights with the use of intellectual property licenses and an enforcement program. 
+ 
+8
+
+We have considered, and will continue to consider, the appropriateness of filing for patents to protect future inventions, as circumstances may warrant. However, many patents protect only specific inventions and there can be no assurance that others may not create new products or methods that achieve similar results without infringing upon patents owned by us. 
+Government Regulation 
+We are subject to a number of United States federal and state and foreign laws and regulations that affect companies conducting business on the Internet, many of which are still evolving and being tested in courts, and could be interpreted in ways that could harm our business. These may involve user privacy, libel, rights of publicity, data protection, content, intellectual property, distribution, electronic contracts and other communications, competition, protection of minors, consumer protection, taxation and online payment services. In particular, we are subject to United States federal and state and foreign laws regarding privacy and protection of user data. Foreign data protection, privacy, and other laws and regulations are often more restrictive than those in the United States. United States federal and state and foreign laws and regulations are constantly evolving and can be subject to significant change. In addition, the application and interpretation of these laws and regulations is often uncertain, particularly in the new and rapidly-evolving industry in which we operate. There are also a number of legislative proposals pending before the United States Congress, various state legislative bodies, and foreign governments concerning data protection which could affect us. 
+In addition, we provide advertising data and information and conduct marketing activities that are subject to United States federal and state consumer protection laws that regulate unfair and deceptive practices, domestically and internationally. The United States and European Union have begun to adopt legislation that regulates certain aspects of the Internet, including online editorial and user-generated content, user privacy, behavioral targeting and online advertising, taxation, and liability for third-party activities. 
+United States federal, state and foreign governments have considered from time to time alternative legislative and regulatory proposals that would increase regulation on Internet advertising. It is impossible to accurately predict whether new taxes or regulations will be imposed on our services, and whether or how we might be affected. Increased regulation of the Internet could increase the cost of doing business or otherwise materially adversely affect our business, financial condition or operational results. 
+We are subject to laws that require protection of user privacy and user data.  In our processing of reservations, we receive and store a large volume of personally identifiable data in the United States, Europe and Asia.  This data is increasingly subject to laws and regulations in numerous jurisdictions around the world, including the Commission of the European Union through its Data Protection Directive and variations and implementations of that directive in the member states of the European Union.  Such government action is typically intended to protect the privacy of personal data that is collected, processed and transmitted in or from the governing jurisdiction.
+Our Reportable Segments 
+We have two reportable segments: Hotel and Other. Our Other segment consists of three operating segments: our Attractions, Restaurants and Vacation Rentals businesses. Our operating segments are determined based on how our chief operating decision maker manages our business, regularly assesses information and evaluates performance for operating decision-making purposes, including allocation of resources. The chief operating decision maker for the Company is our Chief Executive Officer. 
+Hotel Segment 
+Our Hotel segment accounted for 85% of our Company’s consolidated revenue in 2015 and includes revenue generated from services related to hotels, including click-based and display-based advertising revenue from making hotel room nights available for price comparison and booking, including our instant booking feature, as well as subscription-based hotel products such as Business Listings, transaction-based hotel products such as Jetsetter and Tingo, and other revenue related to hotels.  Our Hotel segment also includes advertising revenue from making airline reservations and cruise reservations available for price comparison and booking. 
+The Hotel segment’s financial performance is principally dependent on our ability to grow click-based advertising revenue. This revenue stream is highly dependent upon growth in our hotel shoppers, how effectively we convert hotel shoppers into revenue, and the price we get paid per hotel shopper, all of which equates to revenue per hotel shopper. We use the term “hotel shoppers” to refer to visitors who view either a listing of hotels in a city or a specific hotel page.   
+A significant percentage of our annual unique users are not hotel shoppers and visit TripAdvisor sites without navigating to pages that contain a listing of hotels in a city or a specific hotel’s page.  Revenue generated from these users is reflected in our Other segment below.
+ 
+9
+
+Other Segment 
+Our Other segment accounted for 15% of our consolidated revenue in 2015 and consists of the following businesses: 
+
+
+
+
+ 
+
+·
+
+Attractions.  We provide, primarily through Viator, information and services for researching and booking destination activities around the world. Viator works with local operators to provide travelers with access to tours and activities in popular destinations worldwide, earning a commission for such service. In addition to its consumer-direct business, Viator also provides local experiences to affiliate partners, including some of the world’s top airlines, hotels and travel agencies.    
+
+
+
+
+ 
+
+·
+
+Restaurants.  We have several websites that provide online and mobile reservation services that connect restaurants with diners.  These websites are primarily focused currently on the European and Australian markets, primarily through Lafourchette or thefork.com (including www.lafourchette.com, www.eltenedor.com, www.iens.nl, www.besttables.com, and www.dimmi.com.au).  thefork.com is an online restaurant booking platform with a network of restaurant partners primarily across Europe and Australia.  Lafourchette also offers management software solutions helping restaurants to maximize business by providing a flexible online booking, discount and data tool. We generate revenue primarily by charging a fee for each restaurant guest seated through the online reservation systems. 
+
+
+
+
+ 
+
+·
+
+Vacation Rentals. We offer individual property owners and property managers the ability to list their properties available for rental and connect with travelers using a subscription-based fee structure or a free-to-list, commission per booking based option. Our vacation rental inventory currently includes full home rentals, condos, villas, beach rentals, cabins, cottages, and many other accommodation types.  These properties are listed across a number of platforms, including TripAdvisor Vacation Rentals, U.S.-based FlipKey and Vacation Home Rentals, and our European-based Holiday Lettings and Niumba businesses.
+Substantially all of the revenue reported in our Other segment is subscription-based, transaction and other revenue.
+Financial Information about Reportable Segments and Geographic Information 
+For the years ended December 31, 2015, 2014 and 2013 our two most significant advertising partners, Expedia and Priceline, each accounted for more than 10% of our consolidated revenue and combined accounted for 46%, 46% and 47% of our consolidated revenue, respectively.  This concentration of revenue is recorded in our Hotel segment for these reporting periods. As of December 31, 2015 and 2014, Expedia accounted for 11% and 15%, respectively, of our total accounts receivable.
+Financial information related to our two reportable segments and geographic information required herein is contained in “Note 16 — Segment and Geographic Information,” in the notes to our consolidated financial statements in Item 8. 
+Employees 
+As of December 31, 2015, we had 3,008 employees. Of these employees, approximately 49% were based in the United States. We believe we have good relationships with our employees, including relationships with employees represented by international works councils or other similar organizations.  
+Seasonality 
+The global travel market is large and traveler expenditures tend to follow a seasonal pattern. As such, expenditures by travel advertisers to market to potential travelers, and, therefore, our financial performance, tend to be seasonal as well. As a result, our third quarter tends to be our seasonal high, as it is a key period for travel research and trip-taking and our seasonal low generally occurs in the first and/or fourth quarter. Significant shifts in our business mix or adverse economic conditions could influence the typical trend of our seasonality in the future. 
+Additional Information 
+We maintain a corporate website at ir.tripadvisor.com. Except as explicitly noted, the information on our website, as well as the websites of our various brands and businesses, is not incorporated by reference in this Annual Report on Form 10-K, or in any other filings with, or in any information furnished or submitted to, the SEC. 
+We make available, free of charge through the Investor Relations section of our website, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and amendments to those reports, filed or furnished pursuant to Sections 13(a) or Section 15(d) of the Exchange Act as soon as reasonably practicable after they have been electronically filed with, or furnished to, the SEC. 
+ 
+10
+
+We post our code of business conduct and ethics, which applies to all employees, including all executive officers, senior financial officers and directors, on our corporate website at www.tripadvisor.com. Our code of business conduct and ethics complies with Item 406 of SEC Regulation S-K and the rules of NASDAQ. We intend to disclose any changes to the code that affect the provisions required by Item 406 of Regulation S-K, and any waivers of the code of ethics for our executive officers, senior financial officers or directors, on our corporate website. 
+ 
+ 
+
+
+
+
+Item 1A.
+
+Risk Factors 
+You should consider carefully the risks described below together with all of the other information included in this Annual Report as they may impact our business, results of operations and/or financial condition. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently believe are immaterial may also impair our business, results of operations or financial condition. If any of the following risks occur, our business, financial condition, operating results and cash flows could be materially adversely affected. 
+If we are unable to continue to increase visitors to our websites and to cost-effectively convert these visitors into repeat users or contributors, our advertising revenue could decline. 
+The primary asset that we use to attract visitors to our websites and convert these visitors into repeat users is our ability to collect, create, organize and distribute high-quality, commercially valuable content that meets users’ specific interests and enables them to use the content and interact with the supporting communities. There can be no assurances that we will continue to obtain content in a cost-effective manner or in a manner that meets rapidly changing consumer demand. Any failure to obtain and manage such content in a manner that will engage users, or a failure to provide content and products that are perceived as useful, reliable and trustworthy, could adversely affect user experiences and reduce traffic to our websites, which would make our websites less attractive to advertisers.  Any change in the cost structure pursuant to which we obtain our content, in travelers’ relative appreciation of user-based versus expert content, in the quality of our  content versus other sites’ content or any other changes that could reduce traffic to our websites would negatively impact our business and financial performance. 
+We derive a substantial portion of our revenue from advertising and any significant reduction in spending by advertisers could harm our business. 
+We derive a substantial portion of our revenue from the sale of advertising, primarily through click-based advertising and, to a lesser extent, display-based advertising.  We enter into master advertising contracts with our advertising partners, however, these agreements are generally limited to matters such as privacy and compliance, payment terms and conditions, termination and indemnities and most can be terminated by our partners at will or on short notice.  Our ability to grow advertising revenue with our existing or new advertising partners is dependent in large part on our ability to generate revenue for them. Advertisers will not continue to do business with us if their investment in such advertising does not generate sales leads, customers, bookings, or revenue and profit on a cost-effective basis. If we are unable to provide value to our advertising partners, they will likely stop placing ads on our websites, which would harm our revenues and business. We cannot guarantee that our current advertisers will fulfill their obligations under existing contracts, continue to advertise beyond the terms of existing contracts or enter into any additional contracts with us. 
+Click-based advertising accounts for the majority of our advertising revenue. Any changes we make to our business model may impact our advertising revenue in ways that we do not expect. In addition, if new, more effective advertising models were to emerge, there can be no assurance that we will have the ability to offer these models, or offer them in an effective manner. 
+Furthermore, our CPC pricing for click-based advertising depends, in part, on competition between advertisers. If our large advertisers become less competitive with each other, merge with each other or with our competitors, focus more on per-click profit than on traffic volume, or are able to reduce CPCs, this could have an adverse impact on our click-based advertising revenue which would, in turn, have an adverse effect on our business, financial condition and results of operations. 
+Expenditures by advertisers also tend to be cyclical, subject to variation based on budgetary constraints, project cancellation or delay, and to reflect overall economic conditions and buying patterns. If we are unable to generate advertising revenue due to factors outside of our control, our business and financial performance would be adversely affected. 
+We rely on a relatively small number of significant advertising partners and any reduction in spending by or loss of these partners advertisers could seriously harm our business. 
+We derive a substantial portion of our revenue from a relatively small number of advertising partners and rely significantly on our relationships. For example, for the year ended December 31, 2015, our two most significant advertising partners, Expedia and 
+ 
+11
+
+Priceline (and their subsidiaries), accounted for a combined 46% of total revenue. While we enter into master advertising contracts with our partners, the terms of these agreements generally address matters such as privacy and compliance, payment terms and conditions, termination and indemnities and most of these contracts can be terminated by our partners at will or on short notice.  If any of our significant advertisers were to cease or significantly curtail advertising on our websites, we could experience a rapid decline in our revenue over a relatively short period of time which would have a material impact on our business. 
+Our businesses could be negatively affected by changes in Internet search engine algorithms and dynamics, or search engine disintermediation. 
+We rely heavily on Internet search engines, such as Google, to generate traffic to our websites, principally through the purchase of travel-related keywords. Search engines, including Google, frequently update and change the logic that determines the placement and display of results of a user’s search, such that the purchased or algorithmic placement of links to our websites can be negatively affected. In addition, a search engine could, for competitive or other purposes, alter its search algorithms or results causing our websites to place lower in search query results. If a major search engine changes its algorithms in a manner that negatively affects the search engine ranking of our websites or those of our partners, or if competitive dynamics impact the cost or effectiveness of SEO or SEM in a negative manner, our business and financial performance would be adversely affected, potentially to a material extent. Furthermore, our failure to successfully manage our SEO and SEM strategies could result in a substantial decrease in traffic to our websites, as well as increased costs if we were to replace free traffic with paid traffic. 
+In addition, to the extent that Google or other leading search or metasearch engines that have a significant presence in our key markets, disintermediate OTA’s or travel content providers by offering comprehensive travel planning or shopping capabilities, or refer those leads to suppliers directly, or to other favored partners, there could be a material adverse impact on our business and financial performance.  To the extent these actions have a negative effect on our search traffic, whether on desktop, tablet or mobile devices, our business and financial performance could be adversely affected. 
+We continue to work aggressively on rolling out our “instant booking” feature despite anticipated and potential unanticipated challenges and risks which could have a negative impact on our business and financial performance.  
+Instant booking is a feature that enables users to book a hotel reservation directly with a hotel or online travel agency partner while remaining on the TripAdvisor website. We have been gradually rolling this feature out in the U.S. since June 2014, and, in 2015, accelerated the rollout of instant booking for hotels across our U.S. and U.K. platforms to all users on all devices.  We plan to continue rolling out this feature to additional international markets in 2016.  We believe that allowing users to book directly online without leaving the TripAdvisor site will result in a better user experience as well as, ultimately, additional revenue to the Company.  However, there are additional risks associated with this feature.  
+Our success depends in large part on our ability to maintain and expand relationships with partners in the travel industry, including hotel chains, online travel agencies and travel suppliers and other online travel partners.  We are working with some of these partners to “power” the instant booking function on our website and believe that these partners will also benefit from this feature, through increased reservations and more direct relationships with travelers.  Some partners, however, may view this new functionality as directly competitive and take action that could adversely affect our business and financial performance.  They could reduce or eliminate advertising revenue paid to us, charge for or otherwise restrict access to content, further reduce their average daily rates, decide not to make their travel inventory available to us, or decide not to provide accurate booking information.   Any of these actions could have an adverse impact on our business.  
+The roll out of our new “instant booking” feature may not meet our expectations and may subject us to additional and ongoing operational risks.  
+Currently our instant booking feature is monetizing at a lower revenue per hotel shopper rate compared to our metasearch feature. While we expect to close this monetization gap, primarily by continuing to streamline our booking path to enhance user experience, persistently promoting the TripAdvisor brand as a booking channel and continuing to seek partners with strong branding and supply channels, there is no guarantee that these initiatives will ultimately be successful and, if not, our revenue may be materially adversely affected.  
+Our instant booking revenue recorded under the consumption model is recognized at the time the traveler completes his or her stay. Comparatively, revenue under the transaction model is recorded at the time the user books the stay and revenue from our metasearch feature is recorded when a traveler makes the click-through to the travel partners’ websites.  Based on our internal data, we currently estimate the average time between a user booking a stay to consuming a stay is approximately three to five weeks, subject to seasonal variations. In future periods, greater contribution of revenue from our instant booking consumption model would result in additional revenue recognized at the time of a consumed stay and thus a shift in the timing of our revenue recognition.
+ 
+12
+
+We expect the instant booking functionality to significantly increase the number of transactions that will occur on our website.  Even though the transaction and customer care associated with these transactions are provided by our hotel partners, each reservation is completed on TripAdvisor’s instant booking platform.  Failure to effectively manage the process for instantly booking on our website and the safeguard data that is obtained during the course of arranging for such bookings could negatively impact our reputation and, consequently, our business.  
+Growth in the use of devices other than desktop computers may negatively affect our revenue and financial results. 
+Our content was originally designed for users accessing the Internet on a desktop computer. The number of people who access the Internet through devices other than desktops computers, including mobile phone devices and handheld computers such as notebooks and tablets, has increased substantially in the last few years.  We anticipate that the rate of use of these computing devices will continue to grow. To address these growing user demands, we continue to extend our platform to develop mobile phone and tablet applications and our advertising revenues continue to grow.  However, currently, we monetize users of these devices at a lower rate compared to users who access our websites through desktop computers.    In addition, given the device sizes and technical limitations of these devices, mobile consumers may not be willing to download multiple apps from multiple companies providing similar service and instead prefer to use one or a limited number of apps for their hotel, restaurant and attractions activity. The consumer experience with mobile apps as well as brand recognition and loyalty are likely to become increasingly important.  
+As a result, we continue to develop and improve upon our mobile app and websites and mobile monetization strategies.  If we are unable to continue to rapidly innovate and create new, user-friendly and differentiated mobile offerings and efficiently and effectively advertise and distribute on these platforms, or if our mobile offerings are not used by consumers, our future growth and results of operations could be negatively impacted.  
+Declines or disruptions in the economy in general and travel industry in particular could adversely affect our businesses and financial performance. 
+Our businesses and financial performance are affected by the health of the global economy generally as well as the travel industry and leisure travel in particular. Sales of travel services tend to decline or grow more slowly during economic downturns and recessions when consumers engage in less discretionary spending, are concerned about unemployment or inflation, have reduced access to credit or experience other concerns that reduce their ability or willingness to travel.  The global economy may be adversely impacted by unforeseen events beyond our control including acts of terrorism, unusual weather patterns, natural disasters,  political instability and health concerns (including epidemics or pandemics such as Zika virus, Ebola, H1N1 and SARS), defaults on government debt, significant increases in fuel and energy costs, tax increases and other matters that could reduce discretionary spending, tightening of credit markets and further declines in consumer confidence. Decreased travel expenditures could reduce the demand for our services, thereby causing a reduction in revenue. 
+In addition, the uncertainty of macro-economic factors and their impact on consumer behavior, which may differ across regions, makes it more difficult to forecast industry and consumer trends and the timing and degree of their impact on our markets and business, which in turn could adversely affect our ability to effectively manage our business and adversely affect our results of operations.
+We rely on the value of our brand and consumer trust in our brand. If we are not able to maintain and enhance our brand, or if events occur that damage our reputation and brand, our business may be harmed. 
+We believe that the TripAdvisor brand has contributed significantly to our success and that maintaining and enhancing our brand is critical to expanding our base of users, to creating content and to attracting advertisers. As a result, we invest significantly in brand marketing. We expect these investments to continue, or even increase, as a result of a variety of factors, including increased spending from competitors, the increasing costs of supporting multiple brands, expansion into geographies and products where our brands are less well known, inflation in media pricing, and the continued emergence and relative traffic share growth of search engines as destination sites for travelers. Such efforts may not maintain or enhance consumer awareness of our brands and, even if we are successful in our branding efforts, such efforts may not be cost-effective or as efficient as they have been historically. If we are unable to maintain or enhance consumer awareness of our brands or to generate demand in a cost-effective manner, it would have a material adverse effect on our business and financial performance. 
+We receive significant media coverage in our various geographic markets. Unfavorable publicity regarding, for example, our practices relating to privacy and data protection, product changes, competitive pressures, the accuracy of user-generated content, product quality, litigation or regulatory activity, could adversely affect our reputation with our users and our advertisers. Such negative publicity also could have an adverse effect on the size, engagement, and loyalty of our user base and result in decreased revenue, which could adversely affect our business and financial results. 
+ 
+13
+
+We operate in an increasingly competitive global environment and our failure to compete effectively could reduce our market share and harm our financial performance. 
+We face competition for content, users, advertisers, online travel search and price comparison services (or hotel metasearch) and online reservations. We also face competition from large companies that also offer comprehensive on-line resources for destinations, lodging, attractions and restaurants.  Many of our competitors have significantly greater and more diversified resources than we do and may be able to leverage other aspects of their business to enable them to compete more effectively against us. 
+More specifically: 
+
+
+
+
+ 
+
+·
+
+For content, we face competition from large online portals, social networking sites and search engines, such as Google, Facebook, Yahoo and Baidu, which competition will only increase should they choose to compete more directly with us in the travel review space, and create commercially valuable online content at significant scale. For example, Google + Local, with its aggregated reviews and local recommendations, competes with us and Google’s access to more comprehensive data regarding user search queries through its search algorithms gives it a significant competitive advantage over other companies in the industry, including us. In addition, if significant numbers of users adopt Facebook’s newly released Graph Search to get travel recommendations, it could have the effect of reducing traffic and user engagement on TripAdvisor. 
+
+
+
+
+ 
+
+·
+
+We face competition from online travel agents, such as Expedia and Priceline (and their subsidiaries), and this competition may increase to the extent that these online travel agents accumulate and develop a comprehensive offering of travel-related reviews and resources. 
+
+
+
+
+ 
+
+·
+
+We face competition from travel service providers such as major hotel companies, airlines and rental car companies, many of which have their own websites to which they drive business. Major hotel companies may also attempt to improve their competitive position by offering lower room rates, better room availability or additional features or amenities through their reservation service than are available through services like ours. 
+
+
+
+
+ 
+
+·
+
+We also face competition from wholesalers, tour operators, traditional offline travel agencies and operators of travel industry reservation databases such as Galileo, Travelport, Amadeus and Sabre. 
+
+
+
+
+ 
+
+·
+
+In addition, we compete with newspapers, magazines and other traditional media companies that provide offline and online advertising opportunities. 
+
+
+
+
+ 
+
+·
+
+In our vacation rental business, we face competition from several companies, including HomeAway (a subsidiary of Expedia) and Airbnb, Inc., some of whom have a larger inventory of rooms available.  
+
+
+
+
+ 
+
+·
+
+In our restaurant reservation and attractions business, we face competition from certain companies like OpenTable (a subsidiary of Priceline), SeatMe (which is owned by Yelp) and Table8 (which was recently launched by Amazon) as well as other regional players operating in various parts of the world.  
+Many of our competitors have significantly greater financial, technical, marketing and other resources compared to us and have expertise in developing online commerce and facilitating Internet traffic as well as large client bases. We expect to face additional competition as other established and emerging companies enter the travel advertising market. 
+Certain of the companies we do business with, including some of our click-based advertising partners, are also our competitors. The consolidation of our competitors and partners, including Expedia (through its acquisitions of Trivago, Orbitz, Travelocity, and HomeAway) and Priceline (through its acquisitions of Kayak and OpenTable), may affect our relative competitiveness and our partner relationships. Competition and consolidation could result in higher traffic acquisition costs, reduced margins on our advertising services, loss of market share, reduced customer traffic to our websites and reduced advertising by travel companies on our websites. For example, Google has taken steps to appeal more directly to travel customers, which could lead to diversion of customer traffic to their own websites or those of a favored partner, or undermine our ability to obtain prominent placement in paid or unpaid search results at a reasonable cost, or at all. Competition in our industry may result in pricing pressure, loss of market share or decreased member engagement, any of which could adversely affect our business and financial performance. 
+We are regularly subject to claims, suits, government investigations, and other proceedings that may result in adverse outcomes.
+We are regularly subject to claims, suits, government investigations and other proceedings involving competition, intellectual property, privacy and data protection, consumer protection, tax, labor and employment, commercial disputes, content generated by our users, free speech issues, goods and services offered by advertisers or publishers using our platforms, and other matters. In addition, our businesses face intellectual property litigation that exposes us to the risk of exclusion and cease and desist orders, which could limit our ability to sell products and services.
+ 
+14
+
+Such claims, suits, and government investigations are inherently uncertain and their results cannot be predicted with certainty. Regardless of the outcome, any of these types of legal proceedings can have an adverse impact on us because of legal costs, diversion of management resources, injunctions or damage awards and other factors. Determining reserves for our pending litigation is a complex, fact-intensive process that requires significant judgment. It is possible that a resolution of one or more such proceedings could result in substantial fines and penalties that could adversely affect our business, consolidated financial position, results of operations, or cash flows in a particular period. These proceedings could also result in reputational harm, criminal sanctions, consent decrees, or orders preventing us from offering certain features, functionalities, products, or services, requiring a change in our business practices or other field action, or requiring development of non-infringing or otherwise altered products or technologies. Any of these consequences could adversely affect our business and results of operations.
+We are dependent upon the quality of traffic in our network to provide value to online advertisers, and any failure in our quality control could have a material adverse effect on the value of our websites to our advertisers and adversely affect our revenue. 
+We use technology and processes to monitor the quality of and to identify metrics associated with, the Internet traffic that we deliver to online advertisers. These metrics are used to not only identify the value of advertising on our website but also to identify low quality clicks such as non-human processes, including robots, spiders or other software; the mechanical automation of clicking; and other types of invalid clicks or click fraud. Even with such monitoring in place, there is a risk that a certain amount of low-quality traffic, or traffic that online advertisers deem to be invalid, will be delivered to such online advertisers. As a result, we may be required to credit amounts owed to us by our advertisers. Furthermore, low-quality or invalid traffic may be detrimental to our relationships with advertisers, and could adversely affect our advertising pricing and revenue. 
+We rely on assumptions and estimates and data to calculate certain of our key metrics, and real or perceived inaccuracies in such metrics may harm our reputation and negatively affect our business. 
+We believe that certain metrics are key to our business, including unique visitors, hotel shoppers, revenue per hotel shopper, downloads of our mobile apps, and number of reviews and opinions.  As the industry in which we operate continues to evolve and as our business continues to evolve, so too might the metrics by which we evaluate our business.  While these numbers are based on what we believe to be reasonable estimates, our internal tools have a number of limitations and our methodologies for tracking these metrics may change over time.  For example, a single person may have multiple accounts or browse the internet on multiple browsers or devices, some users may restrict our ability to accurately identify them across visits, some mobile applications automatically contact our servers for regular updates with no user action, and we are not always able to capture user information on all of our platforms. As such, the calculations of our unique visitors may not accurately reflect the number of people actually visiting our platforms.  Also if the internal tools we use to track these metrics under-count or over-count performance or contain algorithm or other technical errors, the data we report may not be accurate. In addition, historically, certain metrics were calculated by independent third parties.  Accordingly readers should not place undue reliance on these numbers.  
+More recently, we started to calculate metrics, primarily using internal tools, which are not independently verified by a third party. We continue to improve upon our tools and methodologies to capture data and believe that our current metrics are more accurate; however, the improvement of our tools and methodologies could cause inconsistency between current data and previously reported data, which could confuse investors or lead to questions about the integrity of our data.
+We rely on information technology to operate our business and remain competitive, and any failure to adapt to technological developments or industry trends could harm our businesses. 
+We depend on the use of sophisticated information technologies and systems. As our operations grow in size and scope, we must continuously improve and upgrade our systems and infrastructure while maintaining or improving the reliability and integrity of our systems and infrastructure. Our future success also depends on our ability to adapt our services and infrastructure to meet rapidly evolving consumer trends and demands while continuing to improve the performance, features and reliability of our services in response to competitive service and product offerings. The emergence of alternative platforms such as smartphone and tablet computing devices and the emergence of niche competitors who may be able to optimize products, services or strategies for such platforms will require new investment in technology. New developments in other areas, such as cloud computing, could also make it easier for competition to enter our markets due to lower up-front technology costs. In addition, we may not be able to maintain our existing systems or replace or introduce new technologies and systems as quickly as we would like or in a cost-effective manner. 
+If we do not continue to innovate and provide tools and services that are useful to travelers, we may not remain competitive, and our business and financial performance could suffer. 
+Our success depends in part on continued innovation to provide features and services that make our websites and smartphone and tablet computing applications useful for travelers. Our competitors are continually developing innovations in online travel-related services and features. As a result, we are continually working to improve our business model and user experience in order to drive user 
+ 
+15
+
+traffic and conversion dates. We can give no assurances that the changes we make will yield the benefits we expect and will not have adverse impacts that we did not anticipate. If we are unable to continue offering innovative products and services and quality features that travelers want to use, existing users may become dissatisfied and use competitors’ offerings and we may be unable to attract additional users, which could adversely affect our business and financial performance. 
+Our culture emphasizes rapid innovation and prioritizes user engagement over short-term financial results. 
+We operate in a culture that encourages rapid development and release of new and improved products, which may at times result in unintended consequences or decisions that are poorly received by users or advertisers. Our culture also prioritizes user engagement, or website “stickiness,” over short-term financial results. We have taken actions in the past and may continue to make product decisions going forward that have the effect of reducing our short-term revenue or profitability if we believe that the decisions benefit the aggregate user experience, conversion rates and/or CPC pricing, thereby ultimately improving our financial performance over the long-term. The short-term reductions in revenue or profitability could be more severe than we anticipate or these decisions may not produce the long-term benefits that we expect, in which case our user growth and engagement, our relationships with users and advertisers, and our business and results of operations could be harmed. 
+ The online vacation rental market is rapidly evolving and if we fail to predict the manner in which the market develops, our business and prospects may suffer. 
+We offer vacation rental services on our TripAdvisor-branded sites as well as through our U.S.-based FlipKey and Vacation Home Rentals and European-based Holiday Lettings and Niumba businesses. The online vacation rental market is rapidly evolving in many respects, including acceptance of the business model by travelers, property owners and property managers; from a business and marketing perspective as well as the regulatory environment. We operate in various disparate jurisdictions and markets and have limited insight into trends that may develop in those markets and may affect our business. Since we began offering such services, there have been and continue to be significant business, marketing and regulatory developments. Operating in new and untested jurisdictions requires significant management attention and financial resources. We cannot assure that our expansion efforts will be successful, and the investment and additional resources required to establish operations and manage growth may not produce the desired levels of revenue or profitability. 
+If we fail to attract and maintain a critical mass of vacation rental listings and travelers, our vacation rental marketplaces will become less valuable and this may have a negative impact on our business. 
+In our vacation rental business, revenue is generated when owners and/or travelers pay us fees upon booking a transaction, owners or managers pay us fees to list and market vacation rental properties to users who visit the websites comprising our marketplace and property managers pay us fees for email and telephone leads from potential travelers or fees upon booking a transaction. As a result, our success in this area primarily depends on our ability to attract owners, managers, travelers and advertisers to our marketplace. If property owners and managers do not perceive the benefits of marketing their properties through our websites, or elect to list them with a competitor instead of listing with us, our volume of new listings and listing renewals may suffer. As a result, we may be unable to offer a sufficient supply and variety of vacation properties to attract travelers to our websites. Larger competitors already exist in the vacation rental space, with significantly more users, listed properties and financial resources. 
+We may be subject to claims that we violated intellectual property rights of others and these claims can be extremely costly to defend and could require us to pay significant damages and limit our ability to operate. 
+Companies in the Internet and technology industries, and other patent and trademark holders seeking to profit from royalties in connection with grants of licenses, own large numbers of patents, copyrights, trademarks and trade secrets and frequently enter into litigation based on allegations of infringement or other violations of those intellectual property rights. We have received in the past, and may in the future receive, notices that claim we have misappropriated or misused other parties’ intellectual property rights. Any intellectual property claim against us, regardless of merit, could be time-consuming and expensive to settle or litigate and could divert management’s attention and other resources. These claims also could subject us to significant liability for damages and could result in our having to stop using technology or content found to be in violation of another party’s rights. We might be required or may opt to seek a license for rights to intellectual property held by others, which may not be available on commercially reasonable terms, or at all. Even if a license is available, we could be required to pay significant royalties, which would increase our operating expenses. We may also be required to develop alternative non-infringing technology, or content, which could require significant effort and expense and make us less competitive in the relevant market. Any of these results could harm our business and financial performance. 
+ 
+16
+
+Investment in new business strategies and acquisitions could disrupt our ongoing business and present new challenges and risks.  
+We have invested, and in the future may invest, in new business strategies or acquisitions. Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater than expected liabilities and expenses, inadequate return of capital, and issues not discovered in our investigations and evaluations of those strategies and acquisitions. We may decide to make minority investments, including through joint ventures, in which we have limited or no management or operational control.  The controlling person in such case may have business interests, strategies or goals that are inconsistent with ours, and decisions of the company or venture in which we invested may result in harm to our reputation or adversely affect the value of our investment. Further, we may issue shares of our common stock in these transactions, which could result in dilution to our stockholders.
+If the businesses we have acquired or invested in do not perform as expected or we are unable to effectively integrate acquired businesses, our operating results and prospects could be harmed. 
+We have acquired a number of businesses in the past and our future growth may depend, in part, on future acquisitions, any of which could be material to our financial condition and results of operations. There are certain financial and operational risks related to acquisitions that may have a material impact on our business including, but not limited to, the following: 
+
+
+
+
+ 
+
+·
+
+Expected and unexpected costs incurred in identifying and pursuing acquisitions, and performing due diligence on potential acquisition targets that may or may not be successful; 
+
+
+
+
+ 
+
+·
+
+Use of cash resources and incurrence of debt and contingent liabilities in funding acquisitions that may limit other potential uses of our cash, including stock repurchases, dividend payments and retirement of outstanding indebtedness; 
+
+
+
+
+ 
+
+·
+
+Amortization expenses related to acquired intangible assets and other adverse accounting consequences; Diversion of management’s attention or other resources from our existing business; 
+
+
+
+
+ 
+
+·
+
+Difficulties and expenses in integrating the operations, products, technology, privacy protection systems, information systems or personnel of the acquired company; 
+
+
+
+
+ 
+
+·
+
+The assumption of known and unknown debt and liabilities of the acquired company, including costs associated with litigation and other claims relating to the acquired company; 
+
+
+
+
+ 
+
+·
+
+Failure of any acquired company to achieve anticipated revenues, earnings or cash flows or to retain key management or employees; 
+
+
+
+
+ 
+
+·
+
+Failure to generate adequate returns on acquisitions and investments; 
+
+
+
+
+ 
+
+·
+
+Entrance into markets in which we have no direct prior experience and increased complexity in our business; 
+
+
+
+
+ 
+
+·
+
+Impairment of goodwill or other intangible assets such as trademarks or other intellectual property arising from acquisitions; and 
+
+
+
+
+ 
+
+·
+
+Adverse market reaction to acquisitions. 
+Moreover, we rely heavily on the representations and warranties provided to us by the sellers of acquired companies, including as they relate to ownership and rights in intellectual property and compliance with laws and contractual requirements. Our failure to address these risks or other problems encountered in connection with past or future acquisitions and investments could cause us to fail to realize the anticipated benefits of such acquisitions or investments, incur unanticipated liabilities and harm our business generally. 
+If we fail to manage our growth effectively, our brand, results of operations and business could be harmed. 
+We have experienced rapid growth in our headcount and operations, which places substantial demands on management and our operational infrastructure. We continue to make substantial investments in our technology, sales and marketing and community management organizations. As we continue to grow, we must effectively integrate, develop and motivate a large number of new employees, including employees in international markets, while maintaining the beneficial aspects of our company culture. If we do not manage the growth of our business and operations effectively, the quality of our platform and efficiency of our operations could suffer, which could harm our brand, results of operations and business.
+Our international operations involve additional risks and our exposure to these risks increases as our business continues to expand globally. 
+We operate in a number of jurisdictions outside of the United States and continue to expand our international operations. Many of these regions have different economic conditions, languages, currencies, consumer expectations, levels of consumer acceptance and 
+ 
+17
+
+use of the Internet for commerce, legislation, regulatory environments (including labors laws and customs), tax laws and levels of political stability.  We are subject to associated risks typical of international businesses, including, but not limited to, the following: 
+
+
+
+
+ 
+
+·
+
+Political instability; 
+
+
+
+
+ 
+
+·
+
+Threatened or actual acts of terrorism; 
+
+
+
+
+ 
+
+·
+
+Ability to comply with additional laws applicable to companies operating internationally as well as local laws and regulations, including the Foreign Corrupt Practices Act and U.K. Bribery Act, data privacy requirements, labor laws and anti-competition regulations;
+
+
+
+
+ 
+
+·
+
+Diminished ability to legally enforce contractual rights; 
+
+
+
+
+ 
+
+·
+
+Increased risk and limits on enforceability of intellectual property rights; 
+
+
+
+
+ 
+
+·
+
+Restrictions on, or adverse consequences related to, the withdrawal of non-U.S. investment and earnings; 
+
+
+
+
+ 
+
+·
+
+Restrictions on repatriation of cash as well as restrictions on investments in operations in certain countries; 
+
+
+
+
+ 
+
+·
+
+Financial risk arising from transactions in multiple currencies as well as currency exchange restrictions; 
+
+
+
+
+ 
+
+·
+
+Slower adoption of the Internet as an advertising, broadcast and commerce medium in certain of those markets as compared to the United States; 
+
+
+
+
+ 
+
+·
+
+Difficulties in managing staff and operations due to distance, time zones, language and cultural differences; and 
+
+
+
+
+ 
+
+·
+
+Uncertainty regarding liability for services, content and intellectual property rights, including uncertainty as a result of local laws and lack of precedent. 
+We have a business operating in China, which creates particular risks and uncertainties relating to the laws in China.   The laws and regulations of China restrict foreign investment in areas including air-ticketing and travel agency services, Internet content provision, mobile communication and related businesses. Although we have established effective control of our Chinese business through a series of agreements, future developments in the interpretation or enforcement of Chinese laws and regulations or a dispute relating to these agreements could restrict our ability to operate or restructure this business or to engage in strategic transactions.  The success of this business, and of any future investments in China, is subject to risks and uncertainties regarding the application, development and interpretation of China’s laws and regulations.  
+Furthermore, we are also accumulating a greater portion of our cash flows in foreign jurisdictions than previously, which we consider indefinitely reinvested. The repatriation of such funds for use in the United States, including for corporate purposes such as acquisitions, stock repurchases, dividends or debt refinancings, may result in additional U.S. income tax expense and higher cost for such capital. 
+The loss of one or more of our key personnel, or our failure to attract and retain other highly qualified personnel in the future, could harm our business. 
+Our future success depends upon the continued contributions of our senior corporate management and other key employees. In particular, the contributions of Stephen Kaufer, our President and Chief Executive Officer, are critical to our overall management. We cannot ensure that we will be able to retain the services of these individuals, and the loss of one or more of our key personnel could seriously harm our business. We do not maintain any key person life insurance policies. 
+In addition, competition remains intense for well-qualified employees in certain aspects of our business, including software engineers, developers, product management and development personnel, and other technology professionals. Our continued ability to compete effectively depends on our ability to attract new employees and to retain and motivate existing employees. If we do not succeed in attracting well-qualified employees or retaining or motivating existing employees, our business would be adversely affected. 
+A failure to comply with current laws, rules and regulations or changes to such laws, rules and regulations and other legal uncertainties may adversely affect our business or financial performance. 
+Our business and financial performance could be adversely affected by unfavorable changes in or interpretations of existing laws, rules and regulations or the promulgation of new laws, rules and regulations applicable to us and our business, including those relating to the Internet and online commerce, Internet advertising, consumer protection, data security and privacy. Unfavorable changes could decrease demand for products and services, limit marketing methods and capabilities, increase costs and/or subject us to additional liabilities. 
+ 
+18
+
+For example, there is, and will likely continue to be, an increasing number of laws and regulations pertaining to the Internet and online commerce that may relate to liability for information retrieved from or transmitted over the Internet, online editorial and user-generated content, user privacy, data security, behavioral targeting and online advertising, taxation, liability for third-party activities and the quality of products and services. Our current business partner arrangements with third parties, including Facebook, could be negatively impacted to the extent that more restrictive privacy laws or regulations are enacted, particularly in the United States or European Union. In addition, enforcement authorities in the United States continue to rely on their authority under existing consumer protection laws to take action against companies relating to data privacy and security practices. The growth and development of online commerce may prompt calls for more stringent consumer protection laws and more aggressive enforcement efforts, which may impose additional burdens on online businesses generally. 
+We also have been subject, and we will likely be subject in the future, to inquiries from time to time from regulatory bodies concerning compliance with consumer protection, competition, tax and travel industry-specific laws and regulations. The failure of our businesses to comply with these laws and regulations could result in fines and/or proceedings against us by governmental agencies and/or consumers, which if material, could adversely affect our business, financial condition and results of operations. Further, if such laws and regulations are not enforced equally against other competitors in a particular market, our compliance with such laws may put us a competitive disadvantage vis-à-vis competitors who do not comply with such requirements.
+The promulgation of new laws, rules and regulations, or the new interpretation of existing laws, rules and regulations, in each case that restrict or otherwise unfavorably impact the ability or manner in which we provide services could require us to change certain aspects of our business, operations and commercial relationships to ensure compliance, which could decrease demand for services, reduce revenues, increase costs and/or subject the company to additional liabilities.
+We cannot be sure that our intellectual property is protected from copying or use by others, including potential competitors. 
+Our websites rely on content, brands and technology, much of which is proprietary. We protect our proprietary content, brands and technology by relying on a combination of trademarks, copyrights, trade secrets, patents and confidentiality agreements. In connection with our license agreements with third parties, we seek to control access to, and the use and distribution of, proprietary technology, content and brands. Even with these precautions, it may be possible for another party to copy or otherwise obtain and use our proprietary technology, content or brands without authorization or to develop similar technology, content or brands independently. Effective intellectual property protection may not be available in every jurisdiction in which our services are made available, and policing unauthorized use of our intellectual property is difficult and expensive. Therefore, in certain jurisdictions, we may be unable to protect our intellectual property adequately against unauthorized third-party copying or use, which could adversely affect our business or ability to compete. We cannot be sure that the steps we have taken will prevent misappropriation or infringement our intellectual property. Any misappropriation or violation of our rights could have a material adverse effect on our business. Furthermore, we may need to go to court or other tribunals or administrative bodies in order to enforce our intellectual property rights, to protect our trade secrets or to determine the validity and scope of the proprietary rights of others. These proceedings might result in substantial costs and diversion of resources and management attention. Our failure to protect our intellectual property in a cost-effective or effective manner could have a material adverse effect on our business and ability to protect our technology, content and brands. 
+We currently license from third parties and incorporate the technologies and content into our websites. As we continue to introduce new services that incorporate new technologies and content, we may be required to license additional technology, or content. We cannot be sure that such technology or content will be available on commercially reasonable terms, if at all. 
+System interruption and the lack of redundancy in some of our internal information systems may harm our business. 
+We rely on computer systems to deliver content and services. We have experienced and may in the future experience system interruptions that make some or all of these systems unavailable or prevent us from efficiently providing content and services to users and third parties. Significant interruptions, outages or delays in internal systems, or systems of third parties that we rely upon, or deterioration in the performance of any such systems, would impair our ability to process transactions or display content and decrease the quality of the services we offer to travelers and users. These interruptions could include security intrusions and attacks on our systems for fraud or service interruption (called “denial of service” or “bot” attacks). If we were to experience frequent or persistent system failures, our business, reputation, and brand could be harmed. 
+We do not have a completely formalized or comprehensive disaster recovery plan in every geographic region in which we conduct business and our backup systems and disaster recovery, business continuity /or contingency plans for certain critical aspects of our operations or business processes may not be sufficient. Fire, flood, power loss, telecommunications failure, break-ins, earthquakes, acts of war or terrorism, acts of God, computer viruses, electronic intrusion attempts from both external and internal sources and similar events or disruptions may damage or impact or interrupt computer or communications systems or business processes at any time. Although we have put measures in place to protect certain portions of our facilities and assets, any of these 
+ 
+19
+
+events could cause system interruption, delays and loss of critical data, and could prevent us from providing content and services to users, travelers and/or third parties for a significant period of time. If we experience frequent or persistent system failures, our reputation and brand could be permanently and significantly harmed.  In addition, remediation may be costly and we may not have adequate insurance to cover such costs. Moreover, the costs of enhancing infrastructure to attain improved stability and redundancy may be time consuming and expensive and may require resources and expertise that are difficult to obtain. 
+Our processing, storage and use personal information and other data exposes us to risks of external and internal security breaches and could give rise to liabilities. 
+There are numerous laws regarding privacy and the storing, sharing, use, processing, disclosure and protection of personal information and other consumer data, the scope of which are changing, subject to differing interpretations, and may be inconsistent between countries or conflict with other rules. In addition, the security of data when engaging in electronic commerce is essential to maintaining consumer and travel service provider confidences in our services.  We strive to comply with all applicable laws, policies, legal obligations and industry codes of conduct relating to privacy and data protection. Any failure or perceived failure by us to comply with our privacy policies, privacy-related obligations to users or other third parties, or privacy-related legal obligations, or any compromise of security that results in the unauthorized release or transfer of personally identifiable information or other user data, may result in governmental enforcement actions, litigation or public statements that could harm our reputation and cause our customers and members to lose trust in us, which could have an adverse effect on our business, brand, market share and results of operations. 
+The regulatory framework for privacy issues worldwide is currently in flux and is likely to remain so for the foreseeable future. Practices regarding the collection, use, storage, transmission and security of personal information by companies operating over the Internet have recently come under increased public scrutiny. The U.S. Congress and federal agencies, including the Federal Trade Commission and the Department of Commerce, are reviewing the need for greater regulation for the collection and use of information concerning consumer behavior on the Internet. Various U.S. courts are also considering the applicability of existing federal and state statutes, including computer trespass and wiretapping laws, to the collection and exchange of information online. In addition, the European Union is in the process of proposing reforms to its existing data protection legal framework, which may result in a greater compliance burden for companies, including us, with users in Europe and increased costs of compliance. 
+Potential security breaches to our systems, whether resulting from internal or external sources, could significantly harm our business. A party, whether internal or external, that is able to circumvent our security systems could misappropriate user information or proprietary information or cause significant interruptions in our operations. In the past, we have experienced “denial-of-service” type attacks on our systems that have made portions of our websites unavailable for short periods of time as well as unauthorized access of our systems and data. We have acquired a number of companies over the years and may continue to do so in the future. While we make significant efforts to address any information technology security issues with respect to our acquisitions, we may still inherit such risks when we integrate the acquired businesses.  We may need to expend significant resources to protect against security breaches or to investigate and address problems caused by breaches, and reductions in website availability could cause a loss of substantial business volume during the occurrence of any such incident. Because the techniques used to sabotage security change frequently, often are not recognized until launched against a target and may originate from less regulated and remote areas around the world, we may be unable to proactively address these techniques or to implement adequate preventive measures. Security breaches could result in negative publicity, damage to reputation, exposure to risk of loss or litigation and possible liability due to regulatory penalties and sanctions. Security breaches could also cause travelers and potential users to lose confidence in our security, which would have a negative effect on the value of our brand. Failure to adequately protect against attacks or intrusions, whether for our own systems or systems of vendors, could expose us to security breaches that could have an adverse impact on financial performance. 
+We also face risks associated with security breaches affecting third parties conducting business over the Internet. Much of our business is conducted with third party marketing affiliates or, more recently, though business partners powering our instant booking feature.  In addition, we frequently use third parties to process credit card payments. A security breach at such third party could be perceived by consumers as a security breach of our systems and could result in negative publicity, damage our reputation, expose us to risk of loss or litigation and possible liability and subject us to regulatory penalties and sanctions. In addition, such third parties may not comply with applicable disclosure requirements, which could expose us to liability. 
+We face increased risks as the level of our debt increases.   
+On June 26, 2015, we entered into a new credit agreement with respect to a $1 billion five-year revolving credit facility.  These arrangements include restrictive covenants that may impact the way we manage our business and may limit our ability to secure significant additional financing in the future on favorable terms. Our ability to secure additional financing and satisfy our financial obligations under indebtedness outstanding from time to time will depend upon our future operating performance, which is subject to then prevailing general economic and credit market conditions, including interest rate levels and the availability of credit generally, and financial, business and other factors, many of which are beyond our control. In light of periodic uncertainty in the capital and 
+ 
+20
+
+credit markets, there can be no assurance that sufficient financing will be available on desirable or even any terms to fund investments, acquisitions, stock repurchases, dividends, debt refinancing or extraordinary actions or that counterparties in any such financings would honor their contractual commitments. 
+We have indebtedness which could adversely affect our business and financial condition. 
+We currently have outstanding approximately $200 million in long-term debt.  Risks relating to our indebtedness include: 
+
+
+
+
+ 
+
+·
+
+Increasing our vulnerability to general adverse economic and industry conditions; 
+
+
+
+
+ 
+
+·
+
+Requiring us to dedicate a portion of our cash flow from operations to principal and interest payments on our indebtedness, thereby reducing the availability of cash flow to fund working capital, capital expenditures, acquisitions and investments and other general corporate purposes; 
+
+
+
+
+ 
+
+·
+
+Making it more difficult for us to optimally capitalize and manage the cash flow for our businesses; 
+
+
+
+
+ 
+
+·
+
+Limiting our flexibility in planning for, or reacting to, changes in our businesses and the markets in which we operate; 
+
+
+
+
+ 
+
+·
+
+Possibly placing us at a competitive disadvantage compared to our competitors that have less debt; 
+
+
+
+
+ 
+
+·
+
+Limiting our ability to borrow additional funds or to borrow funds at rates or on other terms that we find acceptable; and 
+
+
+
+
+ 
+
+·
+
+Exposing us to the risk of increased interest rates because our outstanding debt is expected to be subject to variable rates of interest. 
+In addition, it is possible that we may need to incur additional indebtedness in the future in the ordinary course of business. The terms of our revolving credit facility will allow us to incur additional debt subject to certain limitations; however, there is no assurance that additional financing will be available to us on terms favorable to us, if at all.  In addition, if new debt is added to current debt levels, the risks described above could intensify. 
+The agreements that govern our revolving credit facility contain various covenants that limit our discretion in the operation of our business and also require us to meet financial maintenance tests and other covenants. The failure to comply with such tests and covenants could have a material adverse effect on us. 
+We are party to a credit agreement providing for the revolving credit facility.  The agreements that govern the revolving credit facility contain various covenants, including those that limit our ability to, among other things: 
+
+
+
+
+ 
+
+·
+
+Incur indebtedness; 
+
+
+
+
+ 
+
+·
+
+Pay dividends on, redeem or repurchase our capital stock; 
+
+
+
+
+ 
+
+·
+
+Enter into certain asset sale transactions, including partial or full spin-off transactions; 
+
+
+
+
+ 
+
+·
+
+Enter into secured financing arrangements; 
+
+
+
+
+ 
+
+·
+
+Enter into sale and leaseback transactions; and 
+
+
+
+
+ 
+
+·
+
+Enter into unrelated businesses. 
+These covenants may limit our ability to optimally operate our business. In addition, our revolving credit facility requires that we meet certain financial tests, including a leverage ratio test. Any failure to comply with the restrictions of our credit facility may result in an event of default under the agreements governing such facilities. Such default may allow the creditors to accelerate the debt incurred thereunder. In addition, lenders may be able to terminate any commitments they had made to supply us with further funds (including periodic rollovers of existing borrowings). 
+Our effective tax rate is impacted by a number of factors that could have a material impact on our financial results and could increase the volatility of those results. 
+Due to the global nature of our business, we are subject to income taxes in the United States and other foreign jurisdictions. In the event we incur net income in certain jurisdictions but incur losses in other jurisdictions, we generally cannot offset the income from one jurisdiction with the loss from another, which could increase our effective tax rate. Furthermore, significant judgment is required to calculate our worldwide provision for income taxes. In the ordinary course of our business there are many transactions and calculations where the ultimate tax determination is uncertain. By virtue of our previously filed separate company and consolidated income tax returns with Expedia we are routinely under audit by federal, state and foreign taxing authorities. Although we believe our tax estimates are reasonable, the final determination of audits could be materially different from our historical income tax provisions 
+ 
+21
+
+and accruals. The results of an audit could have a material effect on our financial position, results of operations, or cash flows in the period or periods for which that determination is made. 
+Additionally, we earn an increasing portion of our income, and accumulate a greater portion of cash flow, in foreign jurisdictions, which we consider indefinitely reinvested. Any repatriation of funds currently held in foreign jurisdictions may result in higher effective tax rates and incremental cash tax payments. In addition, there have been proposals to amend U.S. tax laws that would significantly impact the manner in which U.S. companies are taxed on foreign earnings. Although we cannot predict whether or in what form any legislation will pass, if enacted, it could have a material adverse impact on our U.S. tax expense and cash flows. 
+We are subject to fluctuation in foreign currency exchange risk. 
+We conduct a significant and growing portion of our business outside the United States but report our results in U.S. dollars. As a result, we face exposure to movements in currency exchange rates, particularly those related to the Euro, British pound sterling, Singapore dollar, Australian dollar, and Chinese renminbi. These exposures include, but are not limited to re-measurement of gains and losses from changes in the value of foreign denominated assets and liabilities; translation gains and losses on foreign subsidiary financial results that are translated into U.S. dollars upon consolidation; and planning risk related to changes in exchange rates between the time we prepare our annual and quarterly forecasts and when actual results occur. 
+Depending on the size of the exposures and the relative movements of exchange rates, if we were to choose not to hedge or were to fail to hedge effectively our exposure, we could experience a material adverse effect on our financial statements and financial condition. As seen in some recent periods, in the event of severe volatility in exchange rates the impact of these exposures can increase, and the impact on results of operations can be more pronounced. In addition, the current environment and the increasingly global nature of our business have made hedging these exposures both more complex and costly. We hedge certain short-term foreign currency exposures with the purchase of forward exchange contracts. These hedge contracts only help mitigate the impact of changes in foreign currency rates that occur during the term of the related contract period and carry risks of counter-party failure. There can be no assurance that our hedges will have their intended effects. 
+Significant fluctuations in currency exchange rates can affect consumer travel behavior.   Volatility in foreign exchange rates and its impact on consumer behavior, which may differ across regions, makes it more difficult to forecast industry and consumer trends and the timing and degree of their impact on our markets and business, which in turn could adversely affect our ability to effectively manage our business and adversely affect our results of operations. 
+In connection with the Spin-Off, we could be subject to significant tax liabilities. 
+Under the Tax Sharing Agreement between us and Expedia entered into in connection with the Spin-Off, we are generally required to indemnify Expedia for any taxes resulting from the Spin-Off (and any related interest, penalties, legal and professional fees, and all costs and damages associated with related stockholder litigation or controversies) to the extent such amounts resulted from (i) any act or failure to act by us described in the covenants in the tax sharing agreement, (ii) any acquisition of our equity securities or assets or those of a member of our group, or (iii) any failure of the representations with respect to us or any member of our group to be true or any breach by us or any member of our group of any covenant, in each case, which is contained in the separation documents or in the documents relating to the IRS private letter ruling and/or the opinion of counsel. 
+We continue to be responsible for potential tax liabilities in connection with consolidated income tax returns filed with Expedia prior to or in connection with the Spin-Off. We are currently under an IRS audit for the 2009 and 2010 tax years, and have various ongoing state income tax audits.  These audits include questioning of the timing and the amount of income and deductions and the allocation of income among various tax jurisdictions.  The outcome of these matters or any other audits could subject us to significant tax liabilities. 
+Liberty TripAdvisor Holdings, Inc. currently is a controlling stockholder. 
+ Liberty TripAdvisor Holdings, Inc., or LTRIP, effectively controls the outcome of all matters submitted to a vote or for the consent of our stockholders (other than with respect to the election by the holders of our common stock of 25% of the members of our Board of Directors and matters as to which Delaware law requires separate class votes, including but not limited to, corporate transactions such as mergers, business combinations or dispositions of assets, the authorization or issuance of new equity or debt securities and determinations with respect to our business direction and policies).  LTRIP, which has investments in other companies, may have interests that differ from those of our other stockholders and they may vote in a way with which our other stockholders may not agree or that may be adverse to other stockholders’ interests.  LTRIP is not restricted from investing in other businesses involving or related to our business.  Liberty’s control of us, as well as the existing provisions of our organizational documents and Delaware law, may discourage or prevent a change of control of us, which may reduce the market price of our common stock. 
+ 
+22
+
+We are currently relying on the “controlled company” exemption under NASDAQ Stock Market Listing Rules, pursuant to which “controlled companies” are exempt from certain corporate governance requirements otherwise applicable under NASDAQ listing rules. 
+The NASDAQ Stock Market Listing Rules exempt “controlled companies,” or companies of which more than 50% of the voting power is held by an individual, a group or another company, from certain corporate governance requirements, including those requirements that: 
+
+
+
+
+ 
+
+·
+
+A majority of the Board of Directors consist of independent directors; 
+
+
+
+
+ 
+
+·
+
+Compensation of officers be determined or recommended to the Board of Directors by a majority of its independent directors or by a compensation committee comprised solely of independent directors; and 
+
+
+
+
+ 
+
+·
+
+Director nominees be selected or recommended to the Board of Directors by a majority of its independent directors or by a nominating committee that is composed entirely of independent directors. 
+We currently rely on the controlled company exemption from the above requirements. Accordingly, our stockholders will not be afforded the same protections generally as stockholders of other NASDAQ-listed companies with respect to corporate governance for so long as we rely on these exemptions from the corporate governance requirements. 
+If we are unable to successfully maintain effective internal control over financial reporting, investors may lose confidence in our reported financial information and our stock price and business may be adversely impacted. 
+As a public company, we are required to maintain internal control over financial reporting and our management is required to evaluate the effectiveness of our internal control over financial reporting as of the end of each fiscal year. Additionally, we are required to disclose in our Annual Reports on Form 10-K our management’s assessment of the effectiveness of our internal control over financial reporting and a registered public accounting firm’s attestation report on this assessment. If we are not successful in maintaining effective internal control over financial reporting, there could be inaccuracies or omissions in the consolidated financial information we are required to file with the SEC. Additionally, even if there are no inaccuracies or omissions, we could be required to publicly disclose the conclusion of our management that our internal control over financial reporting or disclosure controls and procedures are not effective. These events could cause investors to lose confidence in our reported financial information, adversely impact our stock price, result in increased costs to remediate any deficiencies, attract regulatory scrutiny or lawsuits that could be costly to resolve and distract management’s attention, limit our ability to access the capital markets or cause our stock to be delisted from NASDAQ or any other securities exchange on which we are then listed. 
+The market price and trading volume of our common stock may be volatile and may face negative pressure. 
+Our stock price has experienced, and could continue to experience in the future, substantial volatility. The market price of our common stock is affected by a number of factors, including the risk factors described in this section and other factors beyond our control. Factors affecting the trading price of our common stock could include: 
+
+
+
+
+ 
+
+·
+
+Quarterly variations in our or our competitors’ results of operations; 
+
+
+
+
+ 
+
+·
+
+Changes in earnings estimates or recommendations by securities analysts; 
+
+
+
+
+ 
+
+·
+
+Failure to meet market expectations; 
+
+
+
+
+ 
+
+·
+
+The announcement of new products or product enhancements by us or our competitors; 
+
+
+
+
+ 
+
+·
+
+Repurchases of our common stock pursuant to our share repurchase program which could also cause our stock price to be higher than it would be in the absence of such a program and could potentially reduce the market liquidity for our stock; 
+
+
+
+
+ 
+
+·
+
+Developments in our industry, including changes in governmental regulations; and 
+
+
+
+
+ 
+
+·
+
+General market conditions and other factors, including factors related to our operating performance or the operating performance of our competitors. 
+Furthermore, the stock markets have experienced price and volume fluctuations that have affected and continue to affect the market prices of equity securities of many companies. These fluctuations often have been unrelated or disproportionate to the operating performance of those companies. These broad market and industry fluctuations and general economic, political and market conditions, such as recessions, interest rate changes or international currency fluctuations, may negatively impact the market price of our common stock regardless of our actual operating performance. 
+ 
+23
+
+Future sales of shares of our common stock in the public market, or the perception that such sales may occur, may depress our stock price. 
+For the period ended December 31, 2015, the average daily trading volume of our common stock on NASDAQ was approximately 2.0 million shares. If our existing stockholders or their distributees sell substantial amounts of our common stock in the public market, the market price of the common stock could decrease significantly. The perception in the public market that our existing stockholders might sell shares of common stock could also depress the trading price of our common stock. In addition, certain stockholders have rights, subject to some conditions, to require us to file registration statements covering their shares or to include their shares in registration statements that we may file for ourselves or other stockholders. If LTRIP or some other stockholder sells substantial amounts of our common stock in the public market, or if there is a perception in the public market that LTRIP might sell shares of our common stock, the market price of our common stock could decrease significantly. A decline in the price of shares of our common stock might impede our ability to raise capital through the issuance of additional shares of our common stock or other equity securities. 
+Anti-takeover provisions in our organizational documents and Delaware law may discourage or prevent a change of control, even if an acquisition would be beneficial to our stockholders, which could affect our stock price adversely and prevent attempts by our stockholders to replace or remove our current management. 
+Our certificate of incorporation and bylaws contain provisions that could delay or prevent a change of control of our company or changes in our Board of Directors that our stockholders might consider favorable. Some of these provisions: 
+
+
+
+
+ 
+
+·
+
+Authorize the issuance of preferred stock which can be created and issued by the Board of Directors without prior stockholder approval, with rights senior to those of our common stock; and 
+
+
+
+
+ 
+
+·
+
+Prohibit our stockholders from filling board vacancies or calling special stockholder meetings. 
+We are subject to the provisions of Section 203 of the Delaware General Corporation Law, which may prohibit certain business combinations with stockholders owning 15% or more of our outstanding voting stock. These and other provisions in our certificate of incorporation, bylaws and Delaware law could make it more difficult for stockholders or potential acquirers to obtain control of our Board of Directors or initiate actions that are opposed by our then-current Board of Directors, including a merger, tender offer or proxy contest involving our company. Any delay or prevention of a change of control transaction or changes in our Board of Directors could cause the market price of our common stock to decline. 
+ 
+ 
+
+
+
+
+Item 1B

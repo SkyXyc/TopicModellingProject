@@ -1,0 +1,807 @@
+Item 1A. Risk Factors
+
+Efforts by third party payers, including the government, to reduce utilization and pricing could have a material adverse effect on our net revenues and profitability. 
+
+     Government payers, such as Medicare and Medicaid, as well as private payers and larger employers have taken steps and may continue to take steps to control the cost, utilization and delivery of
+healthcare services, including clinical laboratory services. By law an adjustment to the Medicare national fee schedule for clinical laboratory services based on the consumer price index cannot occur before January 1, 2009. Congressional budget
+reconciliation efforts could result in further reductions in Medicare and/or Medicaid expenditures for laboratory services in the future. In addition, by law CMS is required to conduct two demonstration projects of competitive bidding for clinical
+laboratory services.
+If competitive bidding were implemented on a regional or national basis for clinical laboratory testing,
+it could materially adversely affect the clinical laboratory testing industry and us.
+In September 2003, the OIG published a proposed regulation that would authorize the OIG to exclude a provider for submitting
+claims to Medicare that contain charges that are substantially in excess of the provider’s usual charges. If this regulation is adopted as proposed, it could potentially reduce the amounts we bill and collect from Medicare and other federal
+payers, affect the fees we charge to other payers, or subject us to penalties for non-compliance, and could also be costly for us to administer. For a more detailed description of the developments in government regulations, see “Business -
+Regulation of Reimbursement for Clinical Laboratory Services”. 
+
+     The healthcare industry has experienced a trend of consolidation among healthcare insurers, resulting in fewer but larger insurers with significant bargaining power in negotiating fee
+arrangements with healthcare providers, including clinical laboratories. These healthcare insurers, as well as independent physician associations, demand that clinical laboratory service providers accept discounted fee structures, or assume all or a
+portion of the financial risk associated with providing testing services to their members through capitated payment arrangements. Historically, healthcare insurers, which had limited their network of laboratory service providers, encouraged their
+members, and sometimes offered incentives, to utilize only contracted providers. In cases where members choose to use a non-contracted provider due to service quality or convenience, the non-contracted provider would be reimbursed at rates
+considered “reasonable and customary”. In addition, patients who use a non-contracted provider may have a higher co-insurance responsibility, which may result in physicians referring testing to contracted providers to minimize the expense
+to their patients. Contracted rates are generally lower than “reasonable and customary” rates because of the potential for greater volume as a contracted provider. However, a non-contracted laboratory service provider with quality and
+service preferred by physicians and patients to that of contracted providers, could potentially realize greater profits than if it was a contracted provider, provided that physicians and patients continue to have choice in selecting their provider.
+Physicians requiring testing for patients are the primary referral source of our clinical laboratory testing volume, and often refer work to us as a non-contracted provider. Recent experience indicates that at least one large healthcare insurer,
+UNH, is looking to restrict or eliminate the choice of physicians, and in turn their patients, by threatening to impose financial penalties on physicians for referring patients to non-contracted laboratory service providers. If this approach is
+successful in influencing physicians to no longer use non-contracted laboratories, it could make it substantially more difficult for a laboratory service provider to sufficiently differentiate itself based on quality and service in order to
+profitably operate as a non-contracted provider, could lead to other healthcare insurers using similar tactics, and could materially impact our financial condition, results of operations and cash flows. See “Business—Recent Changes in Payer
+Relationships” and “Business—Payers and Customers—Healthcare Insurers”.
+
+     We expect efforts to impose reduced reimbursements and more stringent cost controls by government and other payers to continue. These efforts, as well as changes in payer mix, including an
+increase in the percentage of patients covered by capitated payment arrangements, could negatively impact our net revenues. If we cannot offset additional reductions in the payments we receive for our services by reducing costs, increasing test
+volume and/or introducing new procedures, our net revenues and profitability could be materially adversely affected. 
+
+If we fail to comply with extensive laws and regulations, we could suffer fines and penalties or be required to make significant changes to our operations. 
+
+     We are subject to extensive and frequently changing federal, state and local laws and regulations. We believe that, based on our experience with government settlements and public announcements
+by various government officials, the federal government continues to strengthen its position on healthcare fraud. In addition, legislative provisions relating to healthcare fraud and abuse give federal enforcement personnel substantially increased
+funding, powers and remedies to pursue suspected fraud and abuse. While we seek to conduct our business in compliance with all applicable laws, many of the regulations applicable to us, including those relating to billing and reimbursement of tests
+and those relating to relationships with physicians and hospitals, are vague or indefinite and have not been interpreted by the courts. They may be interpreted or applied by a prosecutorial, regulatory or judicial authority in a manner that could
+require us to make changes in our operations, including our pricing and/or billing practices. Such occurrences, regardless of their outcome, could damage our reputation and adversely affect important business relationships with third parties. If we
+fail to comply with applicable laws and regulations, 
+
+25
+
+
+
+
+
+
+
+
+
+we could suffer civil and criminal damages, fines and penalties, exclusion from participation in governmental healthcare programs and the loss of various licenses, certificates and authorizations necessary to operate our
+business, as well as incur liabilities from third party claims, all of which could have a material adverse effect on our business.
+
+     During the mid-1990s, Quest Diagnostics and SBCL settled significant government claims that primarily involved industry-wide billing and marketing practices that both companies believed to be
+lawful. The federal or state governments may bring additional claims based on new theories as to our practices that we believe to be in compliance with law. The federal government has substantial leverage in negotiating settlements since the amount
+of potential damages far exceeds the rates at which we are reimbursed, and the government has the remedy of excluding a non-compliant provider from participation in the Medicare and Medicaid programs, which represented approximately 17% of our
+consolidated net revenues for the year ended December 31, 2006. 
+
+     We understand that there may be pending qui tam claims brought by former employees or other “whistle blowers” as to which we have not been provided with a copy of the complaint and
+accordingly cannot determine the extent of any potential liability. We are also aware of certain pending lawsuits related to billing practices filed under the qui tam provisions of the civil False Claims Act and other federal and state statutes.
+These lawsuits include class action and individual claims by patients arising out of the Company’s billing practices. In addition, we are involved in various legal proceedings arising in the ordinary course of business. Some of the proceedings
+against us involve claims that are substantial in amount.
+
+     A pending investigation by the United States Attorney’s Office for the Eastern District of New York regarding the operations of NID could lead to civil and criminal damages, fines and
+penalties and additional liabilities from third party claims against us. We have also received other subpoenas seeking production of business and financial records regarding arrangements with government and private payers. For additional details
+regarding these matters, please see “Business—Government Investigations and Related Claims”.
+
+     Several of these proceedings discussed above are in their early stages of development and involve responding to and cooperating with various government investigations and related subpoenas.
+While the Company believes that at least a reasonable possibility exists that losses may have been incurred, based on the nature and status of the investigations, the losses are either currently not probable or cannot be reasonably estimated.
+ 
+
+     Although management cannot predict the outcome of such matters, management does not anticipate that the ultimate outcome of such matters will have a material adverse effect on our financial
+condition, but may be material to our results of operations and cash flows in the period in which the impact of such matters is determined or paid.
+
+     As an integral part of our compliance program, we investigate all reported or suspected failures to comply with federal and state healthcare reimbursement requirements. Any non-compliance that
+results in Medicare or Medicaid overpayments is reported to the government and reimbursed by us. As a result of these efforts, we have periodically identified and reported overpayments. While we have reimbursed these overpayments and have taken
+corrective action where appropriate, we cannot assure investors that in each instance the government will necessarily accept these actions as sufficient. 
+
+Failure to timely or accurately bill for our services could have a material adverse effect on our net revenues and bad debt expense. 
+
+     Billing for laboratory services is extremely complicated. See “Business- Billing”. Depending on the billing arrangement and applicable law, we must bill various payers, such as
+patients, insurance companies, Medicare, Medicaid, physicians, hospitals and employer groups, all of which have different billing requirements. Additionally, auditing for compliance with applicable laws and regulations as well as internal compliance policies
+and procedures adds further complexity to the billing process. See “Business- Regulation of Reimbursement for Clinical Laboratory Services”. Changes in laws and regulations could negatively impact our ability to bill our clients or
+increase our costs. CMS establishes procedures and continuously evaluates and implements changes to the reimbursement process.
+
+     We believe that much of our bad debt expense, which was 3.9% of our net revenues for the year ended December 31, 2006, is primarily the result of missing or incorrect billing information on
+requisitions received from healthcare providers and the failure of patients to pay the portion of the receivable that is their responsibility, rather than credit related issues. Missing or incorrect information on requisitions adds complexity to and
+slows the billing process, creates backlogs of unbilled requisitions, and generally increases the aging of accounts receivable and bad debt expense. Failure to timely or correctly bill may lead to our not being reimbursed for our services or an
+increase in the aging of our accounts receivable, which could adversely affect our results of operations and cash flows. Failure to comply with applicable laws relating to billing federal healthcare programs could lead to various penalties, including
+(1) exclusion from participation in Medicare/Medicaid programs; (2) asset forfeitures; (3) civil and criminal fines and penalties; and (4) the loss of various licenses, certificates and 
+
+26
+
+
+
+
+
+
+
+
+
+authorizations necessary to operate our business, any of which could have a material adverse effect on our results of operations or cash flows.
+
+Adverse results in material litigation could have an adverse financial impact and an adverse impact on our client base and reputation. 
+
+     In addition to the investigations described in “Business – Government Investigations and Related Claims”, we are involved in various legal proceedings arising in the ordinary
+course of business including, among other things, disputes as to intellectual property, professional liability and employee-related matters, as well as inquiries from governmental agencies and Medicare or Medicaid carriers regarding billing issues.
+See “Business- Regulation of Clinical Laboratory Operations” and “Intellectual Property Rights”. Some of the proceedings against us involve claims that are substantial in amount and could result in substantial monetary damages as well
+as damage to our reputation, which could have a material adverse effect on our business. We do not have insurance or are substantially self-insured for a significant portion of any liability with respect to such claims. See “Business-
+Insurance”. Although we cannot predict the outcome of such proceedings or any claims made against us, we do not anticipate that the ultimate outcome of the various proceedings or claims will have a material adverse effect on our financial
+condition, but may be material to our results of operations and cash flows in the period in which the impact of such matters is determined or paid. 
+
+Failure in our information technology systems, including failures resulting from our systems conversions or failures to adapt existing systems to proposed Health Information Technology (HIT) standards, could
+significantly increase turnaround time, otherwise disrupt our operations, or lead to increased competition by other providers of laboratory services, all of which could reduce our customer base and result in lost net revenues. 
+
+     Information systems are used extensively in virtually all aspects of our business, including laboratory testing, billing, customer service, logistics and management of medical data. Our success
+depends, in part, on the continued and uninterrupted performance of our information technology, or IT, systems. IT systems are vulnerable to damage from a variety of sources, including telecommunications or network failures, malicious human acts and
+natural disasters. Moreover, despite network security measures, some of our servers are potentially vulnerable to physical or electronic break-ins, computer viruses and similar disruptive problems. Despite the precautionary measures we have taken to
+prevent unanticipated problems that could affect our IT systems, sustained or repeated system failures that interrupt our ability to process test orders, deliver test results or perform tests in a timely manner could adversely affect our reputation
+and result in a loss of customers and net revenues. 
+
+     We are in the process of implementing a standard laboratory information system and a standard billing system, which we expect will take several years to complete. See “Business–Information
+Systems”. Failure to properly implement this standardization process could materially adversely affect our business. During system conversions of this type, workflow is reengineered to take advantage of best practices and enhanced system
+capabilities, which may cause temporary disruptions in service. In addition, the implementation process, including the transfer of databases and master files to new data centers, presents significant conversion risks that need to be managed
+carefully.
+
+     In addition, public and private initiatives to create HIT standards and to mandate standardized clinical coding systems for the electronic exchange of clinical information, including laboratory
+results, could require costly modifications to our existing IT systems. See “Business—Healthcare Information Technology.” While we do not expect HIT standards to be adopted or implemented without adequate time to comply, failure or delay in
+implementing HIT or clinical coding standards, interoperability standards, or in adopting and incorporating standardized clinical coding systems in our IT systems, could result in a loss of customers, a loss of business opportunities, and could
+adversely affect our reputation.
+
+Integrating our operations with business we acquire may be difficult and, if unsuccessfully executed, may have a material adverse effect on our business. 
+
+     We are in the process of integrating into our Company the operations of several companies that we have acquired during the past eighteen months, including LabOne and Focus Diagnostics. See
+“Business—Recent Acquisitions”. We expect to continue to selectively evaluate potential acquisitions of domestic clinical laboratories that can be integrated into our existing laboratories. We are actively exploring opportunities in the
+area of near patient testing and intend to capitalize on this trend to augment our laboratory testing business. Additionally, we see opportunities to bring our experience and expertise in diagnostic testing to international markets, particularly
+developing countries where the testing markets are highly fragmented and less mature. Each acquisition involves the integration of a separate company that previously operated independently and has different systems, processes and cultures. The
+process of combining such companies may be disruptive to both of our businesses and may cause an interruption of, or a loss of momentum in, such businesses as a result of the following difficulties, among others: 
+
+27
+
+
+
+
+
+
+
+
+
+loss of key customers or employees;
+
+
+
+failure to maintain the quality of services that our Company has historically provided;
+
+
+
+diversion of management’s attention from the day-to-day business of our Company as a result of the need to deal with the foregoing disruptions and difficulties; and
+
+
+
+the added costs of dealing with such disruptions.
+
+
+     In addition, because most of our clinical laboratory testing is performed under arrangements that are terminable at will or on short notice, any such interruption of or deterioration in our
+services may result in a customer’s decision to stop using us for clinical laboratory testing.
+
+     Even if we are able to successfully complete the integration of Focus Diagnostics or the operations of other companies or business we may acquire in the future, we may not be able to realize
+all or any of the benefits that we expect to result from such integration, either in monetary terms or a timely manner.
+
+Our outstanding debt may impair our financial and operating flexibility.
+
+     As of December 31, 2006, we had approximately $1.56 billion of debt outstanding, with $500 million of available capacity under our senior unsecured revolving credit facility. Except for
+outstanding letters of credit and operating leases, we do not have any off-balance sheet financing arrangements in place or available. See Note 10 to the Consolidated Financial Statements for further details related to our outstanding debt. Set
+forth in the table below, for each of the next five years, is the aggregate amount of scheduled principal, estimated interest and total payments with respect to our debt outstanding as of December 31, 2006, including capital leases, assuming that
+maturing debt is refinanced for purposes of estimating interest. 
+
+
+   
+         
+
+        
+        
+Twelve Months 
+        
+         
+
+        
+         
+  
+         
+
+        
+         
+  
+         
+
+        
+         
+
+
+   
+         
+
+        
+        
+Ended December 31, 
+        
+        
+Principal  
+        
+         
+  
+        
+Interest   
+        
+         
+  
+        
+Total   
+        
+         
+
+
+   
+         
+
+        
+         
+
+        
+         
+
+        
+         
+  
+        
+(in thousands) 
+        
+         
+  
+         
+
+        
+         
+
+
+   
+        
+2007 
+        
+         
+
+        
+        
+$316,870 
+        
+         
+  
+        
+$91,953 
+        
+         
+  
+        
+$408,823 
+        
+         
+
+
+   
+        
+2008 
+        
+         
+
+        
+        
+61,827 
+        
+         
+  
+        
+89,427 
+        
+         
+  
+        
+151,254 
+        
+         
+
+
+   
+        
+2009 
+        
+         
+
+        
+        
+1,826 
+        
+         
+  
+        
+86,898 
+        
+         
+  
+        
+88,724 
+        
+         
+
+
+   
+        
+2010 
+        
+         
+
+        
+        
+400,010 
+        
+         
+  
+        
+87,185 
+        
+         
+  
+        
+487,195 
+        
+         
+
+
+   
+        
+2011 
+        
+         
+
+        
+        
+275,000 
+        
+         
+  
+        
+77,569 
+        
+         
+  
+        
+352,569 
+        
+         
+
+
+
+
+     On January 31, 2007, in connection with the acquisition of HemoCue, we borrowed $450 million
+under a one-year term loan. See Note 17 to the Consolidated Financial Statements.
+
+     Our debt portfolio is sensitive to changes in interest
+rates. As of December 31, 2006, we had $375 million of floating rate debt. Based on our net exposure to interest rate
+changes, an assumed 10% change in interest rates on our variable rate indebtedness (representing approximately 54 basis points) would impact annual net interest expense by approximately
+$2 million, assuming no changes to the debt outstanding
+at December 31, 2006. In addition, any future borrowings by us under the unsecured revolving credit facility, the secured receivables credit facility or the issuance of other floating rate debt will expose us to additional interest rate risk.
+Interest rates on our unsecured revolving credit facility, term loan and secured receivables credit facility are also subject to a pricing schedule that fluctuates based on changes in our credit rating. 
+
+     Our debt agreements contain various restrictive covenants. These restrictions could limit our ability to use operating cash flow in other areas of our business because we must use a portion of
+these funds to make principal and interest payments on our debt. 
+
+     We have obtained ratings on our debt from Standard and Poor’s and Moody’s Investors Service. There can be no assurance that any rating so assigned will remain for any given period of
+time or that a rating will not be lowered or withdrawn entirely by a rating agency if in that rating agency’s judgment future circumstances relating to the basis of the rating, such as adverse changes in our Company or our industry, so warrant.
+If such ratings are lowered, the borrowing costs on our senior unsecured revolving credit facility, secured receivables facility and term loan would increase. Changes in our credit ratings do not require repayment or acceleration of any of our debt.
+
+
+28
+
+
+
+
+
+
+
+
+     We, or our subsidiaries, may incur additional indebtedness in the future. Our ability to make principal and interest payments will depend on our ability to generate cash in the future. If we
+incur additional debt a greater portion of our cash flows may be needed to satisfy our debt service obligations and if we do not generate sufficient cash to meet our debt service requirements, we may need to seek additional financing. In this case,
+it may be more difficult, or we may be unable, to obtain financing on terms that are acceptable to us. As a result, we would be more vulnerable to general adverse economic, industry and capital markets conditions as well as the other risks
+associated with indebtedness. 
+
+Failure to provide a higher quality of service than that of our competitors could have a material adverse effect on our net revenues and profitability. 
+
+     While there has been significant consolidation in recent years in the clinical laboratory testing business, it remains a fragmented and highly competitive industry.
+
+     We primarily compete with three types of laboratory providers—hospital-affiliated laboratories, other independent clinical laboratories and physician-office laboratories. Hospitals
+generally maintain an on-site laboratory to perform testing on their patients. In addition, many hospitals compete with independent clinical laboratories for outreach (non-hospital patients) testing. Most physicians have admitting privileges or
+other relationships with hospitals as part of their medical practice and many hospitals leverage their relationships with community physicians and encourage the physicians to send their outreach testing to the hospital’s laboratory. In
+addition, hospitals that own physician practices generally require the physicians to refer tests to the hospital’s laboratory. As a result of this affiliation between hospitals and community physicians, we compete against hospital-affiliated
+laboratories primarily based on quality of service. Our failure to provide service superior to hospital-affiliated laboratories and other laboratories could have a material adverse effect on our net revenues and profitability. 
+
+Compliance with the HIPAA security regulations and privacy regulations may increase our costs.
+
+     The HIPAA privacy and security regulations, which became fully effective in April 2003 and April 2005, respectively, establish comprehensive federal standards with respect to the uses and
+disclosures of protected health information by health plans, healthcare providers and healthcare clearinghouses, in addition to setting standards to protect the confidentiality, integrity and availability of protected health information. See
+“Business- Privacy and Security of Health Information; Standard Transactions.”
+
+     We have implemented practices to meet the requirements of the HIPAA privacy and security regulations, as required by law. The privacy regulations establish a “floor” and do not
+supersede state laws that are more stringent. Therefore, we are required to comply with both federal privacy regulations and varying state privacy laws. In addition, for healthcare data transfers from other countries relating to citizens of those
+countries, we must comply with the laws of those other countries. The federal privacy regulations restrict our ability to use or disclose patient-identifiable laboratory data, without patient authorization, for purposes other than payment, treatment
+or healthcare operations (as defined by HIPAA), except for disclosures for various public policy purposes and other permitted purposes outlined in the privacy regulations. The privacy and security regulations provide for significant fines and other
+penalties for wrongful use or disclosure of protected health information, including potential civil and criminal fines and penalties. Although the HIPAA statute and regulations do not expressly provide for a private right of damages, we also could
+incur damages under state laws to private parties for the wrongful use or disclosure of confidential health information or other private personal information. 
+
+     We are actively in the process of completing systems planning for compliance with HIPAA regulations on adoption of NPI, which becomes effective on May 23, 2007. See “Business- Privacy and
+Security of Health Information; Standard Transactions”. We have obtained NPIs for all of our laboratory facilities and we have updated our billing systems so that we can report our NPIs to Medicare, Medicaid and other commercial health plans.
+We are in the process of obtaining NPI information from our physician clients, and expect that the process will continue up to and beyond May 23, 2007. As of February 27, 2007, CMS reports that approximately 60% of physicians have obtained NPIs.
+There is industry concern with the number of physicians and other health providers who have not yet obtained NPIs, and various groups have requested that CMS consider adopting a contingency period of one year or more for compliance with NPI
+regulations. While CMS has adopted similar contingency periods for electronic claim and remittance transactions in the past, there is no indication yet that they will do the same for NPI. We will continue efforts to obtain available referring
+physician NPIs, and expect that most of the available NPIs will be obtained prior to May 23, 2007. We could face a disruption in reimbursement with respect to tests referred by clients that do not timely receive NPIs. 
+
+     Compliance with all of the HIPAA regulations, including the regulations for electronic transactions and NPIs, requires ongoing resources from all healthcare organizations, not just Quest
+Diagnostics. While we believe our total costs to comply with HIPAA will not be material to our operations or cash flows, new standard transactions and additional customer requirements resulting from different interpretations of the current
+regulations could impose additional costs on us. 
+
+29
+
+
+
+
+
+
+
+
+FDA regulation of laboratory-developed tests, analyte specific reagents, or genetic testing could lead to increased costs and delays in introducing new genetic tests. 
+
+     The FDA has regulatory responsibility over instruments, test kits, reagents and other devices used to perform diagnostic testing by clinical laboratories. In the past, the FDA also claimed
+regulatory authority over laboratory-developed tests, but has stated that it is exercising enforcement discretion in not regulating most laboratory- developed tests performed by high complexity CLIA-certified laboratories. On September 7, 2006, the
+FDA published two draft guidance documents. The first draft guidance document describes various manufacturer practices and products that the FDA believes would take certain reagent products out of the Class I (exempt) Analyte Specific Reagent (ASR)
+category. The ASR draft guidance, if adopted as proposed, could restrict laboratory access to certain products now available, if in response to its adoption, manufacturers voluntarily withdraw their products from the market. The other draft guidance
+document describes certain laboratory-developed tests that the FDA intends to regulate as in vitro diagnostic test systems (i.e., as medical devices). The FDA calls this
+category of laboratory-developed tests “In Vitro Diagnostic Multivariate Index Assays” (IVDMIAs). The IVDMIA draft guidance, if adopted as published, would extend FDA oversight over laboratories that offer certain laboratory-developed
+tests. Many of the esoteric tests that we develop internally are first offered as laboratory-developed tests. FDA regulation of laboratory-developed tests or increased regulation of the various medical devices used in laboratory-developed testing
+would lead to increased regulatory burden and additional costs and delays in introducing new tests, including genetic tests. FDA has extended to March 5, 2007 its original deadline for public response to the draft guidance documents.
+
+Failure to develop, or acquire, licenses for new or improved testing technologies, or the development of new, more cost-effective tests that can be performed by our customers or by patients, could negatively impact our
+testing volume and net revenues. 
+
+     The diagnostics testing industry is faced with changing technology and new product introductions. Other companies or individuals, including our competitors, may obtain patents or other property
+rights that would prevent, limit or interfere with our ability to develop, perform or sell our tests or operate our business. Our success in remaining a leading innovator in the diagnostic testing industry by continuing to introduce new tests,
+technology and services will depend, in part, on our ability to license new and improved technologies on favorable terms. We may be unable to continue to negotiate acceptable licensing arrangements and such arrangements will yield commercially
+successful diagnostic tests. If we are unable to license these testing methods at competitive rates, our research and development costs may increase as a result. In addition, if we are unable to license new or improved technologies to expand our
+esoteric testing business, our testing methods may become outdated when compared with our competition and our testing volume and revenue may be materially and adversely affected. See “Business- Intellectual Property Rights”.
+
+     Advances in technology may lead to the development of more cost-effective tests that can be performed outside of an independent clinical laboratory such as (1) near patient tests that can be
+performed by physicians in their offices, (2) esoteric tests that can be performed by hospitals in their own laboratories or (3) home testing that can be performed by patients in their homes or by physicians in their offices. Development of such
+technology and its use by our customers would reduce the demand for our laboratory-based testing services and negatively impact our net revenues. CLIA regulates virtually all clinical laboratories by requiring they be certified by the federal
+government and comply with various operational, personnel and quality requirements intended to ensure that their clinical laboratory testing services are accurate, reliable and timely. The cost of compliance with CLIA makes it cost prohibitive for
+many physicians to operate clinical laboratories in their offices. Manufacturers of laboratory equipment and test kits could seek to increase their sales by marketing point of care laboratory equipment to physicians and by selling to both physicians
+and patients test kits approved by the FDA for home use. Diagnostic tests approved or cleared by the FDA for home use are automatically deemed to be “waived” tests under CLIA and may be performed in physician office laboratories with
+minimal regulatory oversight under CLIA as well as by patients in their homes. The FDA has regulatory responsibility over instruments, test kits, reagents and other devices used by clinical laboratories and the Secretary of HHS has delegated to the
+FDA the authority to determine whether particular tests (waived tests) are “simple” and have “an insignificant risk of an erroneous result” under CLIA. However, we believe our acquisitions of HemoCue, Focus Diagnostics and
+Enterix, will help position us to service this market for physicians and hospitals. See “Business—Recent Acquisitions”.
+
+Our growing international operations expose us to certain risks inherent in conducting business in international markets. 
+
+      Our acquisition of HemoCue in January 2007 has increased our international operations and, consequently, our exposure to the inherent risks of doing business in international markets. Depending on
+the market, these risks include, but are not limited to, changes in the local economic environment, political instability, social changes, exchange controls, weak legal systems which may affect our ability to enforce contractual rights, developments
+in foreign regulation as well as potentially longer payment and collection cycles. We will increasingly provide services in one country from a base in another and move 
+
+30
+
+
+
+
+
+
+
+
+products from one country to another. As a result, we are vulnerable to abrupt changes in import/export controls and customs and tax regimes that may have significant negative impacts on our financial condition and
+operating results. In addition, the revenue we earn and the expenses we incur in our international operations are primarily denominated in foreign currencies. The value of these currencies fluctuates relative to the U.S. dollar, and as a result, we
+are exposed to exchange rate fluctuations. We may incur substantial expense as a result of new restrictions or changes in the existing economic or regulatory environment in the regions where we do business. Acts of terrorism or other hostilities, or
+other future financial, political, economic or other uncertainties, could lead to a reduction in revenue, which could materially adversely affect our business, financial condition or results of operations. International operations also require us to
+devote significant management resources, implement our controls and systems in new markets and overcome challenges based on differing languages and cultures. While some of these risks can be hedged using derivatives or other financial instruments
+and some are insurable, such attempts to mitigate these risks are costly and not always successful. Nevertheless, we expect to expand further our international operations, through acquisition or otherwise, which would increase these risks.
+
+Our operations may be adversely impacted by the effects of natural disasters such as hurricanes and earthquakes, or acts of terrorism and other criminal activities. 
+
+     Our operations may be adversely impacted by the effects of natural disasters such as hurricanes and earthquakes, or acts of terrorism or other criminal activities. Such events may result in a
+temporary decline in the number of patients who seek laboratory testing services. In addition, such events may temporarily interrupt our ability to transport specimens or to receive materials from our suppliers. 
+
+Our organizational documents and other agreements contain restrictions that might prevent a takeover or change in management. 
+
+     Provisions of our articles of incorporation and by-laws might have the effect of discouraging a potential acquirer from attempting a takeover on terms that some shareholders might favor,
+reducing the opportunity for shareholders to sell shares at a premium over then-prevailing market prices and prevent or frustrate attempts to replace or remove current management. These provisions include: 
+
+
+a requirement that the board of directors be classified;
+
+
+
+the authorization of a “blank check” preferred stock to be issued at the discretion of the board of directors; and
+
+
+
+a requirement that we receive advance notice of shareholder nominees for director and shareholder proposals.
+
+
+31
+
+
+
+
+
+
+
+
+
+CAUTIONARY STATEMENT FOR PURPOSES OF THE “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 
+
+     Some statements and disclosures in this document are forward-looking statements. Forward-looking statements include all statements that do not relate solely to historical or current facts and
+can be identified by the use of words such as “may”, “believe”, “will”, “expect”, “project”, “estimate”, “anticipate”, “plan” or “continue”. These
+forward-looking statements are based on our current plans and expectations and are subject to a number of risks and uncertainties that could significantly cause our plans and expectations, including actual results, to differ materially from the
+forward-looking statements. The Private Securities Litigation Reform Act of 1995, or the Litigation Reform Act, provides a “safe harbor” for forward-looking statements to encourage companies to provide prospective information about their
+companies without fear of litigation.
+
+     We would like to take advantage of the “safe harbor” provisions of the Litigation Reform Act in connection with the forward-looking statements included in this document. Investors are
+cautioned not to unduly rely on such forward-looking statements when evaluating the information presented in this document. The following important factors could cause our actual financial results to differ materially from those projected,
+forecasted or estimated by us in forward-looking statements:  
+
+
+   
+        
+(a)
+        
+Heightened competition, including increased pricing pressure, competition from hospitals for testing for non-patients and competition from physicians. See “Business – Competition”.    
+
+ 
+   
+        
+(b)
+        
+Impact of changes in payer mix, including any shift from fee-for-service to capitated fee arrangements. See “Business – Payers and Customers –Healthcare Insurers”.        
+
+ 
+   
+        
+(c)
+        
+Adverse actions by government or other third-party payers, including unilateral reduction of fee schedules payable to us, competitive bidding, an increase in the practice of negotiating for exclusive arrangements that
+involve aggressively priced capitated or fee for service payments by healthcare insurers or other payers and threats by third party payers against physicians and patients that effectively eliminate their choice to use an out-of-network provider
+under PPO and similar plans. See “Business- Recent Changes in Payer Relationships”, “Business – Regulation of Reimbursement for Clinical Laboratory Services” and “Business – Payers and Customers –Healthcare
+Insurers”.  
+
+ 
+   
+        
+(d)
+        
+The impact upon our testing volume and collected revenue or general or administrative expenses resulting from our compliance with Medicare and Medicaid administrative policies and requirements of third party payers. These
+include: 
+
+ 
+   
+ 
+
+(1)
+        
+the requirements of Medicare carriers to provide diagnosis codes for many commonly ordered tests and the possibility that third party payers will increasingly adopt similar requirements;     
+
+ 
+   
+ 
+
+(2)
+        
+the policy of CMS to limit Medicare reimbursement for tests contained in automated chemistry panels to the amount that would have been paid if only the covered tests, determined on the basis of demonstrable “medical
+necessity”, had been ordered;       
+
+ 
+   
+ 
+
+(3)
+        
+continued inconsistent practices among the different local carriers administering Medicare;    
+
+ 
+   
+ 
+
+(4)
+        
+inability to obtain from patients an advance beneficiary notice form for tests that cannot be billed without prior receipt of the form;        
+
+ 
+   
+ 
+
+(5)
+        
+the potential need to monitor charges and lower certain fees to Medicare to comply with the OIG’s proposed rule pertaining to exclusion of providers for submitting claims to Medicare containing charges that are
+substantially in excess of the provider’s usual charges; and        
+
+ 
+   
+ 
+
+(6)
+        
+increased challenges in operating as a non-contracted provider with respect to healthcare insurers.    
+
+ 
+   
+    
+See “Business - Recent Changes in Payer Relationships”, “Business - Regulation of Reimbursement for Clinical Laboratory Services” and “Business - Billing”.    
+
+ 
+   
+        
+(e)
+        
+Adverse results from pending or future government investigations, lawsuits or private actions. These include, in particular significant monetary damages, loss or suspension of licenses, and/or suspension or 
+
+ 
+
+32
+
+
+
+
+
+
+
+
+
+
+   
+ 
+
+exclusion from the Medicare and Medicaid programs and/or criminal
+penalties. See “Business – Government
+Investigations and Related Claims”.   
+
+ 
+   
+        
+(f) 
+        
+Failure to efficiently integrate acquired businesses, and to manage the costs related to any such integration, or to retain key technical and management personnel. See “Business – Corporate Strategy and Growth
+Opportunities – Growth”.       
+
+ 
+   
+        
+(g)
+        
+Inability to obtain professional liability or other insurance coverage or a material increase in premiums for such coverage or reserves for self-insurance. See “Business – Insurance”. 
+
+ 
+   
+        
+(h)
+        
+Denial of CLIA certification or other licenses for any of our clinical laboratories under the CLIA standards, revocation or suspension of the right to bill the Medicare and Medicaid programs or other adverse regulatory
+actions by federal, state and local agencies. See “Business – Regulation of Clinical Laboratory Operations”.      
+
+ 
+   
+        
+(i) 
+        
+Changes in federal, state or local laws or regulations, including changes that result in new or increased federal or state regulation of commercial clinical laboratories, including regulation by the FDA.    
+
+ 
+   
+        
+(j) 
+        
+Inability to achieve expected benefits from our acquisitions of other businesses. See “Business – Corporate Strategy and Growth Opportunities – Growth”.   
+
+ 
+   
+        
+(k)
+        
+Inability to achieve additional benefits from our Six Sigma and standardization initiatives.   
+
+ 
+   
+        
+(l)
+        
+Adverse publicity and news coverage about the clinical laboratory industry or us.      
+
+ 
+   
+        
+(m)
+        
+Computer or other IT system failures that affect our ability to perform tests, report test results or properly bill customers, including potential failures resulting from the standardization of our IT systems and other
+system conversions, telecommunications failures, malicious human acts (such as electronic break-ins or computer viruses) or natural disasters. See “Business – Information Systems” and “Business – Billing”.      
+
+ 
+   
+        
+(n)
+        
+Development of technologies that substantially alter the practice of laboratory medicine, including technology changes that lead to the development of more cost-effective tests such as (1) point-of-care tests that can be
+performed by physicians in their offices, (2) esoteric tests that can be performed by hospitals in their own laboratories or (3) home testing that can be carried out without requiring the services of clinical laboratories. See “Business –
+Competition” and “Business – Regulation of Clinical Laboratory Operations”.  
+
+ 
+   
+        
+(o)
+        
+Issuance of patents or other property rights to our competitors or others that could prevent, limit or interfere with our ability to develop, perform or sell our tests or operate our business.       
+
+ 
+   
+        
+(p)
+        
+Development of tests by our competitors or others which we may not be able to license, or usage of our technology or similar technologies or our trade secrets by competitors, any of which could negatively affect our
+competitive position.    
+
+ 
+   
+        
+(q)
+        
+Regulatory delay or inability to commercialize newly licensed tests or technologies or to obtain appropriate reimbursements for such tests.    
+
+ 
+   
+        
+(r)
+        
+Inability to obtain or maintain adequate patent and other proprietary rights protections of our products and services or to successfully enforce our proprietary rights.       
+
+ 
+   
+        
+(s)
+        
+Impact of any national healthcare information network and the adoption of standards for health information technology interoperability that are incompatible with existing software and hardware infrastructure requiring
+widespread replacement of systems and/or software.       
+
+ 
+   
+        
+(t)
+        
+The impact of the privacy regulations, security regulations and standards for electronic transactions regulations issued under HIPAA and any applicable state laws or regulations. See “Business – Privacy and
+Security of Health Information; Standard Transactions”.     
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+   
+        
+(u)
+        
+Inability to promptly or properly bill for our services or to obtain appropriate payments for services that we do bill. See “Business—Billing”. 
+
+ 
+   
+        
+(v)
+        
+Changes in interest rates and changes in our credit ratings from Standard & Poor’s and Moody’s Investor Services causing an unfavorable impact on our cost of and access to capital.     
+
+ 
+   
+        
+(w)
+        
+Inability to hire and retain qualified personnel or the loss of the services of one or more of our key senior management personnel.    
+
+ 
+   
+        
+(x) 
+        
+Terrorist and other criminal activities, hurricanes, earthquakes or other natural disasters, which could affect our customers, transportation or systems, or our facilities, and for which insurance may not adequately
+reimburse us.    
+
+
+
+Item 1B
